@@ -9,6 +9,9 @@ We are building a community around networked language instruction. We
 hope to develop useful tools and materials for others to work with
 freely.
 
+View a [sample lesson](/en/sample_lesson) to get a feel for what we are
+working on.
+
 ## Ductus
 
 This is where all the testing happens for Ductus, a wiki designed
