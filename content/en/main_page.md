@@ -84,5 +84,4 @@ The software we're building to let people build and share lessons,
 called [Ductus](http://ductus.us/), is licensed as free software under
 the [GPL](http://www.gnu.org/copyleft/gpl.html). All content contributed
 to the site will be licensed under a [free content
-license](http://en.wikipedia.org/wiki/Free_content#Free_content_licenses),
-though we are still evaluating which one to use.
+license](http://en.wikipedia.org/wiki/Free_content#Free_content_licenses).
