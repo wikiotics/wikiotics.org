@@ -18,8 +18,7 @@ Our chat room is \#wikiotics on the FreeNode IRC network. (see
 
 ## Ductus
 
-Wikiotics uses a custom wiki engine called [http://ductus.us/
-Ductus](/en/http%3A//ductus.us/_Ductus).
+Wikiotics uses a custom wiki engine called [Ductus](http://ductus.us/).
 
 ## Licensing
 
