@@ -10,7 +10,7 @@ vision](/en/project_vision) to get a feel for what we are working on.
 
 ## Get involved
 
-We are holding a sprint April 17-20. See [April 2009
+We are holding a sprint April 18-19. See [April 2009
 Sprint](/en/April_2009_Sprint) for planning and details.
 
 Our chat room is \#wikiotics on the FreeNode IRC network. (see
