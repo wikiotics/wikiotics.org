@@ -2,7 +2,7 @@
 title = "April 2009 Sprint"
 +++
 
-We are holding a sprint April 17-20. Physically, the sprint will take
+We are holding a sprint April 18-19. Physically, the sprint will take
 place in Pittsburgh, but anyone can get involved by joining \#wikiotics
 on FreeNode.
 
