@@ -19,6 +19,7 @@ Projects that will hopefully be completed before the sprint begins
   - fix code.ductus.us git handling
   - improve PictureChoiceLesson editing interface
   - license handling
+  - user and group wikis (with automatic permissions)
 
 Goals for the sprint
 
