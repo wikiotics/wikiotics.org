@@ -16,6 +16,8 @@ Sprint](/en/April_2009_Sprint) for planning and details.
 Our chat room is \#wikiotics on the FreeNode IRC network. (see
 [instructions for chatting](/en/instructions_for_chatting))
 
+We also have a [google group](http://groups.google.com/group/wikiotics).
+
 ## Lessons by language
 
   - [English lessons](/en/English_lessons)
