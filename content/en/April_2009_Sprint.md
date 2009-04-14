@@ -23,7 +23,7 @@ Projects that will hopefully be completed before the sprint begins
 
 Goals for the sprint
 
-  - Create as many English lessons as possible
+  - Create as many [English lessons](/en/English_lessons) as possible
   - Make it easy to fork an English lesson by rewriting the phrases in a
     different language (and possibly changing the pictures)
   - Try to get more people involved, and to get feedback
