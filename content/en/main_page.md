@@ -16,6 +16,10 @@ Sprint](/en/April_2009_Sprint) for planning and details.
 Our chat room is \#wikiotics on the FreeNode IRC network. (see
 [instructions for chatting](/en/instructions_for_chatting))
 
+## Lessons by language
+
+  - [English lessons](/en/English_lessons)
+
 ## Ductus
 
 Wikiotics uses a custom wiki engine called [Ductus](http://ductus.us/).
