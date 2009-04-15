@@ -14,16 +14,16 @@ name.)
 
 Projects that will hopefully be completed before the sprint begins
 
+  - fix code.ductus.us trac git plugin \[done\]
+  - migrate to creoleparser 0.6.1 api \[done\]
   - [PictureChoice
     refactor](http://code.ductus.us/wiki/PictureChoiceRefactor) \[done\]
-  - fix code.ductus.us trac git plugin \[done\]
   - improve PictureChoiceLesson editing interface
   - license handling
   - user and group wikis (with automatic permissions)
 
 Goals for the sprint
 
-  - migrate to creoleparser 0.6.1 api \[done\]
   - Create as many [English lessons](/en/English_lessons) as possible
   - Make it easy to fork an English lesson by rewriting the phrases in a
     different language (and possibly changing the pictures)
