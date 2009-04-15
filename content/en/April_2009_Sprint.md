@@ -9,8 +9,8 @@ on FreeNode.
 The following people plan to attend the sprint. (Feel free to add your
 name.)
 
-  - Jim Garrison
-  - Ian Sullivan
+  - [Jim Garrison](http://jimgarrison.org/)
+  - [Ian Sullivan](http://churchkey.org/)
 
 Projects that will hopefully be completed before the sprint begins
 
