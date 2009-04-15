@@ -15,7 +15,7 @@ name.)
 Projects that will hopefully be completed before the sprint begins
 
   - [PictureChoice
-    refactor](http://code.ductus.us/wiki/PictureChoiceRefactor)
+    refactor](http://code.ductus.us/wiki/PictureChoiceRefactor) \[done\]
   - fix code.ductus.us trac git plugin \[done\]
   - improve PictureChoiceLesson editing interface
   - license handling
