@@ -22,10 +22,6 @@ We also have a [google group](http://groups.google.com/group/wikiotics).
 
   - [English lessons](/en/English_lessons)
 
-## Ductus
-
-Wikiotics uses a custom wiki engine called [Ductus](http://ductus.us/).
-
 ## Licensing
 
 Everything on this site is available under a [free content
