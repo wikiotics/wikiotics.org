@@ -87,6 +87,90 @@ title = "deathkiller"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "This is a boy."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:U-zeH5f3jMOKVPHAUelhxXfi7k_iVr-9bkvvK5yBpcfGepNmeO_0mt-BikzXL1U5"
+href = "urn:sha384:wfOlqvbJr8iJDlXrxJddsvb1wxDRl3iotGtFvFY6lHy9ZklrCoyM8BS1YM-X-YuS"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "woodley wonderworks (woodleywonderworks)"
+author_url = "http://www.flickr.com/people/73645804@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/73645804@N00/3338235706"
+title = "improptu field trip"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is a girl."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:VcXRJHDtRbtb26miduGIVk0WDjl8d5Uxgg7WkUZwWfheo-M4REYN9kz_CgHT_mWF"
+href = "urn:sha384:2IIMnSU0JGiTUuskmLkwFVCTgsosbV1Yklij5vi5eB8uH6PW0Rag2ec8VvlZngrz"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Eden, Janine and Jim (edenpictures)"
+author_url = "http://www.flickr.com/people/10485077@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10485077@N06/2915364715"
+title = "In Hopper's Studio"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The man is sitting."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:luG4kpV0xvFPpbYSnsiWuCE4Rtone1CjV95zShfR8ujSHkbnGuixjQWqvo6HcjP8"
+href = "urn:sha384:pjnow7VPKC_Q305q055Gy2CRbucKsbEyVFi8ZQ39i8b5TyY5LwETqCsA2E7ypRUb"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Eden, Janine and Jim (edenpictures)"
+author_url = "http://www.flickr.com/people/10485077@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10485077@N06/2648778104"
+title = "Jim Wu"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The woman is sitting."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:RHRzidCWXKThc2NZv1SIMQb7dZlbWkGnR1UaR-kdo5aQrvm_s5O7fCMPTFxdtCQG"
+href = "urn:sha384:bkX-VMUoCKCQFgfSVOp8GsuKzg0NjpKDBijBewjDKFcRBQoyFGz1BAg3NmYi0Ss4"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jeremy Barwick (jeremybarwick)"
+author_url = "http://www.flickr.com/people/8569394@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8569394@N07/1880700702"
+title = "Taking a break"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
