@@ -6,3 +6,4 @@ title = "(Ideas for) English lessons"
   - [English lesson - Basic numbers](/en/English_lesson_-_Basic_numbers)
   - [English lesson - Basic
     situations](/en/English_lesson_-_Basic_situations)
+  - [English lesson - Introduction](/en/English_lesson_-_Introduction)
