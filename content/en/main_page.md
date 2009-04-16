@@ -26,4 +26,5 @@ We also have a [google group](http://groups.google.com/group/wikiotics).
 
 Everything on this site is available under a [free content
 license](http://en.wikipedia.org/wiki/Free_content#Free_content_licenses).
-Ductus is free software licensed under the GNU GPL version 3 or later.
+Ductus, the wiki engine that powers Wikiotics, is free software licensed
+under the GNU GPL version 3 or later.
