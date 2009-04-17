@@ -27,6 +27,8 @@ Goals for the sprint
   - Create as many [English lessons](/en/English_lessons) as possible
   - Make it easy to fork an English lesson by rewriting the phrases in a
     different language (and possibly changing the pictures)
+  - Improve each of the current Ductus modules (picture,
+    picture\_choice, and textwiki)
   - Try to get more people involved, and to get feedback
   - Ductus documentation
   - Future planning
