@@ -255,6 +255,90 @@ title = "sad girl"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "The girls are walking."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:H8NgnpLXlzYHN1qMqwINN0HHtwFA6R5WH82fSpAj30FCFjQsLDKl-Yf6C7izR4bb"
+href = "urn:sha384:UZw62hp4vVcJSjn8SL91kiAZ4iUQn8Ok_fvcsGkBCjV042Jp69a_5bm8urw3-Oku"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jeremy Barwick (jeremybarwick)"
+author_url = "http://www.flickr.com/people/8569394@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8569394@N07/3419017183"
+title = "Girls in China(town)"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The dog is running."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:LaowYNoiAr2sJ8L9Dbhf8UYyshCuSUJBGe7qZ5eHQZAK-pT8f7VYBj3m4ruvUHOx"
+href = "urn:sha384:CFoCpKa81BuvACY1tSdXRXo6fuAnUGtBX3hMIek6THUPMyub6QRfBJ5hJpCgLGcV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Emery Way (Emery_Way)"
+author_url = "http://www.flickr.com/people/21981149@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/21981149@N04/3295826857"
+title = "Land Speeder"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The boy is running."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:kVGjZNnB-9pPUQ0z95ejN6l-sLijpTtbtxHVcdsGGxlIvddioZunFDVY0UqZ94HL"
+href = "urn:sha384:Wb1__YNZ6Vvhaa-Yv92P_SIa_uQCpM355LZ1T2rIl1JOrH3eb6msRfb9VnIoTh04"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Hamed Saber (Hamed Saber)"
+author_url = "http://www.flickr.com/people/44124425616@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/44124425616@N01/258971456"
+title = "The Runner"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The dog is sitting."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:jqaIpcsWXemGwOrMrFqONYZ2ruAQjzck8Ah3Z9R-v7PHFn0jQS8To9SB2oV_Lbw6"
+href = "urn:sha384:WuI49h_AQDONw6S2p494SVGAULI1WXArs__7JOIDJZmxcOQq7DtLJs_p2haG-6o-"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Madalena Pestana (*madalena-pestana* - half of me)"
+author_url = "http://www.flickr.com/people/14299050@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/14299050@N00/492947281"
+title = "a dog that meditates looking at the river"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
