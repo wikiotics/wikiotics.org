@@ -1,6 +1,6 @@
 +++
 title = "English lesson - Introduction"
-contributors = [ "ian",]
+contributors = [ "127.0.0.1", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -168,6 +168,90 @@ author_url = "http://www.flickr.com/people/8569394@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8569394@N07/1880700702"
 title = "Taking a break"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The dog is walking."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:UVl0RUJMYSCWtbqX-flDunFbapFb_VnHP70gWJBTeZZWv5ZFiV5JBigk0_gc3esG"
+href = "urn:sha384:0fzz-JTlloM633i3WyCt1Mxa5EL91RFe1DcPgeELwbMrrXD82V7duywMyIWvgkgw"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Paul Aloe (paulaloe)"
+author_url = "http://www.flickr.com/people/26993489@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/26993489@N00/140805906"
+title = "Dog Out Walking"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The man and woman are walking."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:2142GPbAf60BEvFRc3leooLEiPc8tAW9LabYzBwBzHzyPFXmkuevA4eEa3bviPZN"
+href = "urn:sha384:mQ998niso52i3UfxgIZFN_y73Qd-9toUVe4tUdqvvvEpXoFcHud6mgrlQo-InNmn"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Ed Yourdon (Ed Yourdon)"
+author_url = "http://www.flickr.com/people/72098626@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/72098626@N00/3275748024"
+title = "Romance isn't just for teenagers..."
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The boy and the cat are sitting."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:CaZr-AdKG6vKiibZlE6-N6hyIqVmt12Z1vU0MNjUGTfuYo9ZHrxkIy3V5oOlWdFW"
+href = "urn:sha384:zcNsyeX6MVeitmC50YvXLzNCHK-I_yT-Y_Hg8xbb9_sKWmaKluwhx92t5XmK_X3S"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Liz Lawley (mamamusings)"
+author_url = "http://www.flickr.com/people/30281826058@N01/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/30281826058@N01/1763008"
+title = "Alex and lap cat at Roman Agora"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The girl is sitting."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Aa2ZmjVIxNfQxgHkCyfIJmKsrVuq16J7BzNeLAxb7X-TU0O_lhDGrw6ZaRBh4PpX"
+href = "urn:sha384:29JP9baoKp7YgxjjPZwlVOjQ3_Oz7WpIcrPqMIL7qldw4VNrgc67PjsxCA1DDclg"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Nicole Makauskas (nyki_m)"
+author_url = "http://www.flickr.com/people/28884731@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/28884731@N07/2696575988"
+title = "sad girl"
 [[cards.sides]]
 type = "empty"
 
