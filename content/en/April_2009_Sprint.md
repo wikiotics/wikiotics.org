@@ -28,8 +28,8 @@ Goals for the sprint
   - Make it easy to fork an English lesson by rewriting the phrases in a
     different language (and possibly changing the pictures)
   - Create at least one Chinese lesson
-  - Improve each of the current Ductus modules (picture, picture\_choice
-    \[check\], and textwiki)
+  - Improve each of the current Ductus modules (picture \[check\],
+    picture\_choice \[check\], and textwiki)
   - Try to get more people involved, and to get feedback
   - Ductus documentation
   - Future planning
