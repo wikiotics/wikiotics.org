@@ -22,6 +22,7 @@ We also have a [google group](http://groups.google.com/group/wikiotics).
 ## Lessons by language
 
   - [English lessons](/en/English_lessons)
+  - [Spanish lessons](/en/Spanish_lessons)
 
 ## Licensing
 
