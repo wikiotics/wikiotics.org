@@ -12,19 +12,11 @@ name.)
   - [Jim Garrison](http://jimgarrison.org/)
   - [Ian Sullivan](http://churchkey.org/)
 
-Projects that will hopefully be completed before the sprint begins
-
-  - fix code.ductus.us trac git plugin \[done\]
-  - migrate to creoleparser 0.6.1 api \[done\]
-  - [PictureChoice
-    refactor](http://code.ductus.us/wiki/PictureChoiceRefactor) \[done\]
-  - improve PictureChoiceLesson editing interface
-  - license handling
-  - user and group wikis (with automatic permissions)
-
-Goals for the sprint
+## Goals for the sprint
 
   - Create as many [English lessons](/en/English_lessons) as possible
+  - Make it obvious for a user to find an picture's attribution/license
+    info.
   - Make it easy to fork an English lesson by rewriting the phrases in a
     different language (and possibly changing the pictures)
   - Create at least one Chinese lesson
@@ -33,3 +25,9 @@ Goals for the sprint
   - Try to get more people involved, and to get feedback
   - Ductus documentation
   - Future planning
+
+## Future projects
+
+  - improve PictureChoiceLesson editing interface
+  - license handling
+  - user and group wikis (with automatic permissions)
