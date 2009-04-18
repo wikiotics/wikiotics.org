@@ -15,8 +15,6 @@ name.)
 ## Goals for the sprint
 
   - Create as many [English lessons](/en/English_lessons) as possible
-  - Make it obvious for a user to find an picture's attribution/license
-    info.
   - Make it easy to fork an English lesson by rewriting the phrases in a
     different language (and possibly changing the pictures)
   - Create at least one Chinese lesson
@@ -26,7 +24,13 @@ name.)
   - Ductus documentation
   - Future planning
 
-## Future projects
+### Goals added during the sprint
+
+  - Make it obvious for a user to find a picture's attribution/license
+    info.
+  - Cache picture resizes/rotations
+
+## Important projects, too big to do during the spring
 
   - improve PictureChoiceLesson editing interface
   - license handling
