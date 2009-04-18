@@ -24,6 +24,9 @@ We also have a [google group](http://groups.google.com/group/wikiotics).
   - [English lessons](/en/English_lessons)
   - [Spanish lessons](/en/Spanish_lessons)
 
+The interface for editing lessons is not very good, but we hope to fix
+this soon.
+
 ## Licensing
 
 Everything on this site is available under a [free content
