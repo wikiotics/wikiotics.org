@@ -30,8 +30,14 @@ name.)
     info.
   - Cache picture resizes/rotations
 
-## Important projects, too big to do during the spring
+## Important projects, too big to do during the sprint
 
   - improve PictureChoiceLesson editing interface
   - license handling
   - user and group wikis (with automatic permissions)
+
+Actually, there are too many things to list here. We started opening
+tickets on code.ductus.us. The highest priority items are the ones
+[http://code.ductus.us/query?status=\!closed\&group=component\&order=priority\&col=id\&col=summary\&col=owner\&col=type\&col=priority\&col=component\&col=reporter\&milestone=0.1
+we are aiming to have complete by our 0.1
+release](/en/http%3A//code.ductus.us/query%3Fstatus%3D%21closed%26group%3Dcomponent%26order%3Dpriority%26col%3Did%26col%3Dsummary%26col%3Downer%26col%3Dtype%26col%3Dpriority%26col%3Dcomponent%26col%3Dreporter%26milestone%3D0.1_we_are_aiming_to_have_complete_by_our_0.1_release).
