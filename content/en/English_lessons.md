@@ -8,3 +8,7 @@ title = "(Ideas for) English lessons"
     situations](/en/English_lesson_-_Basic_situations)
   - [English lesson - Introduction](/en/English_lesson_-_Introduction)
   - [English lesson - Weather](/en/English_lesson_-_Weather)
+  - [English lesson - Birds of NYC](/en/English_lesson_-_Birds_of_NYC)
+  - [English lesson - Trees of NYC](/en/English_lesson_-_Trees_of_NYC)
+  - [English lesson - Spices](/en/English_lesson_-_Spices)
+  - [English lesson - Flowers](/en/English_lesson_-_Flowers)
