@@ -16,13 +16,14 @@ name.)
 
   - Create as many [English lessons](/en/English_lessons) as possible
   - Make it easy to fork an English lesson by rewriting the phrases in a
-    different language (and possibly changing the pictures)
-  - Create at least one Chinese lesson
+    different language (and possibly changing the pictures) \[we did
+    this by script, but the general case is deferred\]
+  - Create at least one Chinese lesson \[done\]
   - Improve each of the current Ductus modules (picture \[check\],
-    picture\_choice \[check\], and textwiki)
+    picture\_choice \[check\], and textwiki \[check\]) \[done\]
   - Try to get more people involved, and to get feedback
   - Ductus documentation
-  - Future planning
+  - Future planning \[check\]
 
 ### Goals added during the sprint
 
