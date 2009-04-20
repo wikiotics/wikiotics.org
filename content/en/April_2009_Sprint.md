@@ -2,15 +2,17 @@
 title = "April 2009 Sprint"
 +++
 
-We are holding a sprint April 18-19. Physically, the sprint will take
-place in Pittsburgh, but anyone can get involved by joining \#wikiotics
-on FreeNode.
-
-The following people plan to attend the sprint. (Feel free to add your
-name.)
+We held a sprint in Pittsburgh April 18-19, during which we made
+[considerable
+progress](http://code.ductus.us/timeline?from=2009-04-20T00%3A00%3A00-0400).
+Participants included:
 
   - [Jim Garrison](http://jimgarrison.org/)
   - [Ian Sullivan](http://churchkey.org/)
+
+Below is the whiteboard we used for planning the sprint. Once the sprint
+began, we moved much of our activity to the [Ductus trac
+instance](http://code.ductus.us/).
 
 ## Goals for the sprint
 
