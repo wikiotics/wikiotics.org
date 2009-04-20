@@ -27,7 +27,7 @@ We also have a [google group](http://groups.google.com/group/wikiotics).
 The interface for editing lessons is not very good, but we hope to fix
 this soon.
 
-Oh\! And all the pictures come from [Flickr](http://www.flickr.com/).
+All the pictures come from [Flickr](http://www.flickr.com/).
 
 ## Licensing
 
