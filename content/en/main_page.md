@@ -11,8 +11,8 @@ are working on.
 
 ## Get involved
 
-We are holding a sprint April 18-19. See [April 2009
-Sprint](/en/April_2009_Sprint) for planning and details.
+We held a sprint April 18-19. See [April 2009
+Sprint](/en/April_2009_Sprint) for details.
 
 Our chat room is \#wikiotics on the FreeNode IRC network. (see
 [instructions for chatting](/en/instructions_for_chatting))
