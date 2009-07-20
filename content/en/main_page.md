@@ -5,9 +5,9 @@ title = "Wikiotics"
 Wikiotics is a web site for collaborating on language instruction
 materials.
 
-View a [sample lesson](/en/English_Lesson_-_Introduction) or read the
-initial [project vision](/en/project_vision) to get a feel for what we
-are working on.
+View [a sample English lesson](/en/English_Lesson_-_Introduction) or
+read the initial [project vision](/en/project_vision) to get a feel for
+what we are working on.
 
 ## Get involved
 
