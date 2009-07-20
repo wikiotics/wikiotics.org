@@ -6,8 +6,8 @@ title = "instructions for chatting"
 
 Our chat room is \#wikiotics on the FreeNode IRC network.
 
-If your browser supports Java applets, you can [begin chatting
-immediately](http://java.freenode.net/?channel=wikiotics).
+If your browser supports Javascript, you can [click here to begin
+chatting immediately](http://webchat.freenode.net/?channels=wikiotics).
 
 If you would like to download an IRC client, here are some instructions
 for getting online quickly. First, download
