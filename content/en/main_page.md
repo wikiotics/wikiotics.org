@@ -14,8 +14,9 @@ what we are working on.
 We held a sprint April 18-19. See [April 2009
 Sprint](/en/April_2009_Sprint) for details.
 
-Our chat room is \#wikiotics on the FreeNode IRC network. (see
-[instructions for chatting](/en/instructions_for_chatting))
+Our chat room is \[\[irc://irc.freenode.net/wikiindex|\#wikiotics\]\] on
+the FreeNode IRC network. (see [instructions for
+chatting](/en/instructions_for_chatting))
 
 We also have a [google group](http://groups.google.com/group/wikiotics).
 
