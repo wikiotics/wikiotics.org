@@ -9,10 +9,10 @@ View [a sample English lesson](/en/English_Lesson_-_Introduction) or
 read the initial [project vision](/en/project_vision) to get a feel for
 what we are working on.
 
-## Get involved
+We are working to improve the wiki software of this site so that lessons
+can be edited more easily.
 
-We held a sprint April 18-19. See [April 2009
-Sprint](/en/April_2009_Sprint) for details.
+## Get involved
 
 Our chat room is \#wikiotics on the FreeNode IRC network. (see
 [instructions for chatting](/en/instructions_for_chatting))
@@ -23,9 +23,6 @@ We also have a [google group](http://groups.google.com/group/wikiotics).
 
   - [English lessons](/en/English_lessons)
   - [Spanish lessons](/en/Spanish_lessons)
-
-The interface for editing lessons is not very good, but we hope to fix
-this soon.
 
 All the pictures come from
 [Flickr](http://www.flickr.com/creativecommons/).
