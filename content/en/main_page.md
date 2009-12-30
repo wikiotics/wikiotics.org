@@ -33,3 +33,8 @@ Everything on this site is available under a [free content
 license](http://en.wikipedia.org/wiki/Free_content#Free_content_licenses).
 Ductus, the wiki engine that powers Wikiotics, is free software licensed
 under the GNU GPL version 3 or later.
+
+## Other projects of interest
+
+  - [Spoken
+    Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Spoken_Wikipedia)
