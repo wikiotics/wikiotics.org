@@ -34,6 +34,12 @@ license](http://en.wikipedia.org/wiki/Free_content#Free_content_licenses).
 Ductus, the wiki engine that powers Wikiotics, is free software licensed
 under the GNU GPL version 3 or later.
 
+## Subpages
+
+  - [Browser testing and
+    compatibility](/en/Browser_testing_and_compatibility)
+  - [Wikiotics Foundation](/en/Wikiotics_Foundation)
+
 ## Other projects of interest
 
   - [Spoken
