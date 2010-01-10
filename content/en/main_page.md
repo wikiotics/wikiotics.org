@@ -10,7 +10,8 @@ read the initial [project vision](/en/project_vision) to get a feel for
 what we are working on.
 
 We are working to improve the wiki software of this site so that lessons
-can be edited more easily.
+can b<http://alpha.wikiotics.org/wiki/front_page?view=edite> edited more
+easily.
 
 ## Get involved
 
@@ -44,3 +45,11 @@ under the GNU GPL version 3 or later.
 
   - [Spoken
     Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Spoken_Wikipedia)
+  - [BabelFish Instant
+    Translation](https://addons.mozilla.org/en-US/firefox/addon/7004)
+    plugin for Firefox. Uses proprietary web services to actually do the
+    translation, but it provides a good interface for looking up words
+    from a web page. Maybe some day we can provide our own translation
+    web service, whether it is edited by humans or [assembled as a
+    result of machine
+    learning](http://michaelnielsen.org/blog/implementing-statistical-machine-translation-using-mapreduce/).
