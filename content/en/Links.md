@@ -4,6 +4,7 @@ title = "Other projects of interest"
 
   - [Spoken
     Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Spoken_Wikipedia)
+    exists in many languages
   - [BabelFish Instant
     Translation](https://addons.mozilla.org/en-US/firefox/addon/7004)
     plugin for Firefox. Uses proprietary web services to actually do the
