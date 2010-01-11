@@ -3,14 +3,30 @@ title = "Wikiotics"
 +++
 
 Wikiotics is a web site for collaborating on language instruction
-materials.
+materials. We aim to become a hub for free online language instruction.
 
-View [a sample English lesson](/en/English_Lesson_-_Introduction) or
-read the initial [project vision](/en/project_vision) to get a feel for
-what we are working on.
+The resources provided by Wikiotics are meant to help both teachers and
+students involved with learning a language. So far, we have built a
+"picture choice" lesson type (see [a sample English
+lesson](/en/English_Lesson_-_Introduction)), which is a flexible format
+for helping to improve a student's vocabulary. We are working to improve
+the wiki software of this site so that these lessons (and others) can be
+edited more easily. In the end, all lessons should work from a person's
+\[\[Browser testing and compatibility|web browser\], though people are
+free to develop new and innovative interfaces for other devices and
+platforms (such as phones).
 
-We are working to improve the wiki software of this site so that lessons
-can be edited more easily.
+The [Wikiotics Foundation](/en/Wikiotics_Foundation) is a nonprofit
+organization dedicated to the development and distribution to the
+public, at no charge, of software tools and materials for collaborative
+language instruction. The organization has applied for 501(c)(3) status,
+which if granted will make certain contributions tax-deductible.
+
+For more information about why the project was started, the initial
+[project vision](/en/project_vision) should give a feel for what we are
+working on and where we are going. We are also trying to start a list of
+[related projects](/en/Links) that can be useful during the
+language-learning process.
 
 ## Get involved
 
@@ -33,10 +49,3 @@ Everything on this site is available under a [free content
 license](http://en.wikipedia.org/wiki/Free_content#Free_content_licenses).
 Ductus, the wiki engine that powers Wikiotics, is free software licensed
 under the GNU GPL version 3 or later.
-
-## Subpages
-
-  - [Browser testing and
-    compatibility](/en/Browser_testing_and_compatibility)
-  - [Wikiotics Foundation](/en/Wikiotics_Foundation)
-  - [Other projects of interest](/en/Links)
