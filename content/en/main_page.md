@@ -12,7 +12,7 @@ lesson](/en/English_Lesson_-_Introduction)), which is a flexible format
 for helping to improve a student's vocabulary. We are working to improve
 the wiki software of this site so that these lessons (and others) can be
 edited more easily. In the end, all lessons should work from a person's
-\[\[Browser testing and compatibility|web browser\], though people are
+[web browser](/en/Browser_testing_and_compatibility), though people are
 free to develop new and innovative interfaces for other devices and
 platforms (such as phones).
 
