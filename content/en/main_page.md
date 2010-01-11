@@ -10,8 +10,7 @@ read the initial [project vision](/en/project_vision) to get a feel for
 what we are working on.
 
 We are working to improve the wiki software of this site so that lessons
-can b<http://alpha.wikiotics.org/wiki/front_page?view=edite> edited more
-easily.
+can be edited more easily.
 
 ## Get involved
 
