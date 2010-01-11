@@ -31,7 +31,8 @@ language-learning process.
 ## Get involved
 
 Our chat room is \#wikiotics on the FreeNode IRC network. (see
-[instructions for chatting](/en/instructions_for_chatting))
+[instructions for chatting](/en/instructions_for_chatting), [chat
+logs](http://ductus.us/irc-logs/))
 
 We also have a [google group](http://groups.google.com/group/wikiotics).
 
