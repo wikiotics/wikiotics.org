@@ -13,3 +13,8 @@ title = "Other projects of interest"
     web service, whether it is edited by humans or [assembled as a
     result of machine
     learning](http://michaelnielsen.org/blog/implementing-statistical-machine-translation-using-mapreduce/).
+  - [Foreign Service Language
+    Classes](http://fsi-language-courses.org/Content.php) Has many
+    language lessons developed by the US Government, and thus in the
+    public domain. These are full introductory full introductory circuli
+    for many languages.
