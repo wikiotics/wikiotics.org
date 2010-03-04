@@ -13,6 +13,8 @@ title = "Other projects of interest"
     web service, whether it is edited by humans or [assembled as a
     result of machine
     learning](http://michaelnielsen.org/blog/implementing-statistical-machine-translation-using-mapreduce/).
+    (Actually, building such services is probably beyond the scope of
+    Wikiotics, but it would be nice if they existed anyway.)
   - [Foreign Service Language
     Classes](http://fsi-language-courses.org/Content.php) Has many
     language lessons developed by the US Government, and thus in the
