@@ -35,6 +35,8 @@ Our chat room is \#wikiotics on the FreeNode IRC network. (see
 logs](http://ductus.us/irc-logs/))
 
 We also have a [google group](http://groups.google.com/group/wikiotics).
+Feel free to join and introduce yourself if you are interested in
+joining the community.
 
 ## Lessons by language
 
