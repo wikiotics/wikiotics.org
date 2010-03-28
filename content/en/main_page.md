@@ -10,11 +10,12 @@ students involved with learning a language. So far, we have built a
 "picture choice" lesson type (see [a sample English
 lesson](/en/English_Lesson_-_Introduction)), which is a flexible format
 for helping to improve a student's vocabulary. We are working to improve
-the wiki software of this site so that these lessons (and others) can be
-edited more easily. In the end, all lessons should work from a person's
-[web browser](/en/Browser_testing_and_compatibility), though people are
-free to develop new and innovative interfaces for other devices and
-platforms (such as phones).
+[the wiki software of this site](http://ductus.us/) so that these
+lessons (and others) can be edited more easily. In the end, all lessons
+should work from a person's [web
+browser](/en/Browser_testing_and_compatibility), though people are free
+to develop new and innovative interfaces for other devices and platforms
+(such as phones).
 
 The [Wikiotics Foundation](/en/Wikiotics_Foundation) is a nonprofit
 organization dedicated to the development and distribution to the
