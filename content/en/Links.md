@@ -20,3 +20,4 @@ title = "Other projects of interest"
     language lessons developed by the US Government, and thus in the
     public domain. These are full introductory full introductory circuli
     for many languages.
+  - <http://translatewiki.net/> is the translation effort for MediaWiki
