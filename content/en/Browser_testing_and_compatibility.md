@@ -2,8 +2,9 @@
 title = "Browsers we should test"
 +++
 
-  - Firefox 2.0, 3.0, 3.5
-  - Internet Explorer 6, 7, 8
+  - Firefox 2.0, 3.0, 3.5, 3.6
+  - Internet Explorer 7, 8. (IE6 is not supported.)
+  - Chromium
   - Safari 3, 4
   - Opera 10
 
