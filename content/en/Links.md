@@ -21,3 +21,6 @@ title = "Other projects of interest"
     public domain. These are full introductory full introductory circuli
     for many languages.
   - <http://translatewiki.net/> is the translation effort for MediaWiki
+  - [Tatoeba](http://tatoeba.org/) "At its core, Tatoeba is a large
+    database of example sentences translated into several languages. But
+    as a whole, it is much more than that."
