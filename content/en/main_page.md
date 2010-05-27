@@ -26,8 +26,8 @@ which if granted will make certain contributions tax-deductible.
 For more information about why the project was started, the initial
 [project vision](/en/project_vision) should give a feel for what we are
 working on and where we are going. We are also trying to start a list of
-[related projects](/en/Links) that can be useful during the
-language-learning process.
+[similar and complementary projects](/en/Links) that can be useful
+during the language-learning process.
 
 ## Get involved
 
