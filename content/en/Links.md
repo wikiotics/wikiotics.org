@@ -24,3 +24,6 @@ title = "Other projects of interest"
   - [Tatoeba](http://tatoeba.org/) "At its core, Tatoeba is a large
     database of example sentences translated into several languages. But
     as a whole, it is much more than that."
+  - [Anki](http://ichi2.net/anki/) is a free software flashcard system.
+  - [Mnemosyne](http://www.mnemosyne-proj.org/) is a free software
+    flashcard system.
