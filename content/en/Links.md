@@ -18,8 +18,8 @@ title = "Other projects of interest"
   - [Foreign Service Language
     Classes](http://fsi-language-courses.org/Content.php) Has many
     language lessons developed by the US Government, and thus in the
-    public domain. These are full introductory full introductory circuli
-    for many languages.
+    public domain. These are full introductory circuli for many
+    languages.
   - <http://translatewiki.net/> is the translation effort for MediaWiki
   - [Tatoeba](http://tatoeba.org/) "At its core, Tatoeba is a large
     database of example sentences translated into several languages. But
