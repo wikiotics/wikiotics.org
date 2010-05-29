@@ -41,7 +41,7 @@ joining the community.
 
 For a gauge of project activity at any given time, see also this site's
 [recent changes](/en/special/recent_changes) or the [Ductus development
-timeline](http://code.ductus.us/timeline)
+timeline](http://code.ductus.us/timeline).
 
 ## Lessons by language
 
