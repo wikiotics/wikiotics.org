@@ -39,6 +39,10 @@ We also have a [google group](http://groups.google.com/group/wikiotics).
 Feel free to join and introduce yourself if you are interested in
 joining the community.
 
+For a gauge of project activity at any given time, see also this site's
+[recent changes](/en/special/recent_changes) or the [Ductus development
+timeline](http://code.ductus.us/timeline)
+
 ## Lessons by language
 
   - [English lessons](/en/English_lessons)
