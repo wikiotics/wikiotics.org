@@ -15,5 +15,15 @@ something here\!
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td>a</td>
+<td>b</td>
+<td>c</td>
+</tr>
+<tr class="even">
+<td>d</td>
+<td>e</td>
+<td>f</td>
+</tr>
 </tbody>
 </table>
