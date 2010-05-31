@@ -28,4 +28,5 @@ something here\!
 </tbody>
 </table>
 
-![title](/en/Image.jpg?view=image&max_size=250,250 "title")
+![image](/en/Image.jpg?view=image&max_size=250,250
+"image")<span class="external_image">External images are disabled</span>
