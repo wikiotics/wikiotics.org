@@ -27,8 +27,8 @@ activities like this.
 
 #### Editing
 
-Editing of existing picture choice lessons is currently under active
-development.
+*Editing of existing picture choice lessons is currently under active
+development*.
 
 Each lesson page has an edit button that returns you to a view of the
 lesson like the one you saw when initially composing the lesson. From
