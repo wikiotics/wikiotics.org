@@ -1,13 +1,16 @@
 +++
-title = "(Ideas for) English lessons"
+title = "English lessons"
 +++
+
+  - [English lesson - Introduction](/en/English_lesson_-_Introduction)
+  - [English lesson - Weather](/en/English_lesson_-_Weather)
+
+# Ideas for future lessons
 
   - [English lesson - Colors](/en/English_lesson_-_Colors)
   - [English lesson - Basic numbers](/en/English_lesson_-_Basic_numbers)
   - [English lesson - Basic
     situations](/en/English_lesson_-_Basic_situations)
-  - [English lesson - Introduction](/en/English_lesson_-_Introduction)
-  - [English lesson - Weather](/en/English_lesson_-_Weather)
   - [English lesson - Birds of NYC](/en/English_lesson_-_Birds_of_NYC)
   - [English lesson - Trees of NYC](/en/English_lesson_-_Trees_of_NYC)
   - [English lesson - Spices](/en/English_lesson_-_Spices)
