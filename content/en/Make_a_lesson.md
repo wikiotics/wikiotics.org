@@ -5,7 +5,7 @@ title = "Make a lesson"
 ## Picture Choice Lessons
 
 The resources provided by Wikiotics are meant to help both teachers and
-students involved with learning a language.
+students involved in language learning.
 
 So far, we have built a "picture choice" lesson type (see [a sample
 English lesson](/en/English_Lesson_-_Introduction)), which is a flexible
