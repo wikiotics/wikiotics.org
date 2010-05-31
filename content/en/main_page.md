@@ -14,7 +14,7 @@ below.
 ## [Get involved](/en/Get_involved)
 
 For more information about the project, take a look at the
-[about](/en/about) page.
+[about](/en/about) page and feel free to [contact](/en/contact) us.
 
 #### Licensing
 
