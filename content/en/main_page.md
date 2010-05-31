@@ -2,10 +2,10 @@
 title = "Wikiotics"
 +++
 
-Wikiotics is a place for collaborative language instruction. If you are
-interested in learning a language, teaching one to someone else, or
-helping develop innovative tools for either task, just follow the links
-below.
+Wikiotics is a community effort at collaborative language instruction.
+If you are interested in learning a language, teaching one to someone
+else, or helping develop innovative tools for either task, just follow
+the links below.
 
 ## [Take a lesson](/en/Take_a_lesson)
 
