@@ -27,3 +27,5 @@ something here\!
 </tr>
 </tbody>
 </table>
+
+![title](/en/Image.jpg?view=image&max_size=250,250 "title")
