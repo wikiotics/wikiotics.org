@@ -11,4 +11,6 @@ lesson](/en/English_Lesson_-_Introduction)
   - [Spanish lessons](/en/Spanish_lessons)
 
 All the pictures come from
-[Flickr](http://www.flickr.com/creativecommons/).
+[Flickr](http://www.flickr.com/creativecommons/) as found through our
+specialized [search
+page](http://alpha.wikiotics.org/new/picture?view=flickr_search).
