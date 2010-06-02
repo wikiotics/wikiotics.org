@@ -5,8 +5,8 @@ title = "Drumbeat Fellowship Proposal"
 *\[This a transcript of a [video (available on
 youtube)](http://www.youtube.com/watch?v=u4DLU_ywuwc) recorded by [Ian
 Sullivan](/en/%7Eian). The [Wikiotics Drumbeat project
-page](http://www.drumbeat.org/project/wikiotics-tools-and-materials-collaborative-language-education)
-is available on the Drumbeat site.\]*
+page](http://www.drumbeat.org/node/29376/about) is available on the
+Drumbeat site.\]*
 
 Teaching people about the open web, like teaching them about free
 software or free culture, is about empowering them to be creators and
