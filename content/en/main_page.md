@@ -25,9 +25,9 @@ under the GNU GPL version 3 or later.
 
 #### Drumbeat
 
-We have applied for a joint Mozilla/Shuttleworth Foundation [fellowship
-titled "Education for an open
-web"](http://www.mozilla.org/grants/education-fellowship.html). If you
-like what you see, please [register at
-drumbeat.org](http://www.drumbeat.org/user/register) and [vote for us on
-the Wikiotics project page](http://www.drumbeat.org/node/29376/about).
+We have applied for a joint [Mozilla/Shuttleworth Foundation
+fellowship](http://www.mozilla.org/grants/education-fellowship.html)
+titled "Education for an open web". If you like what you see, please
+[register at drumbeat.org](http://www.drumbeat.org/user/register) and
+[vote for us on the Wikiotics project
+page](http://www.drumbeat.org/node/29376/about).
