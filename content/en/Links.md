@@ -27,3 +27,8 @@ title = "Other projects of interest"
   - [Anki](http://ichi2.net/anki/) is a free software flashcard system.
   - [Mnemosyne](http://www.mnemosyne-proj.org/) is a free software
     flashcard system.
+  - [How to Learn a
+    Language](http://en.wikibooks.org/wiki/How_to_Learn_a_Language) and
+    [Language
+    education](http://en.wikibooks.org/wiki/Category:Language_education)
+    wikibooks
