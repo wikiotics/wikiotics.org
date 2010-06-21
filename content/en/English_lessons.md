@@ -15,3 +15,7 @@ title = "English lessons"
   - [English lesson - Trees of NYC](/en/English_lesson_-_Trees_of_NYC)
   - [English lesson - Spices](/en/English_lesson_-_Spices)
   - [English lesson - Flowers](/en/English_lesson_-_Flowers)
+
+We should also try to create lessons that contain all the concepts in
+[Basic English](http://en.wikipedia.org/wiki/Basic_English), as well as
+the [Semantic Primes](http://en.wikipedia.org/wiki/Semantic_Primes)
