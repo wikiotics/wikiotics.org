@@ -32,3 +32,4 @@ title = "Other projects of interest"
     [Language
     education](http://en.wikibooks.org/wiki/Category:Language_education)
     wikibooks
+  - [LanguageGuide.org](http://languageguide.org/)
