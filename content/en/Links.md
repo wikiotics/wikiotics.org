@@ -34,4 +34,5 @@ title = "Other projects of interest"
     wikibooks
   - [LanguageGuide.org](http://languageguide.org/)
   - [Language Learning
-    Reddit](http://www.reddit.com/r/languagelearning/)
+    Reddit](http://www.reddit.com/r/languagelearning/) (see [top posts
+    ever](http://www.reddit.com/r/languagelearning/top/))
