@@ -36,3 +36,7 @@ title = "Other projects of interest"
   - [Language Learning
     Reddit](http://www.reddit.com/r/languagelearning/) (see [all-time
     top posts](http://www.reddit.com/r/languagelearning/top/))
+  - [Learn Any Language
+    (Wikia)](http://learnanylanguage.wikia.com/wiki/Learn_Any_Language),
+    a community which also provides the \#learnanylanguage IRC channel
+    on FreeNode
