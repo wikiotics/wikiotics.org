@@ -40,3 +40,4 @@ title = "Other projects of interest"
     (Wikia)](http://learnanylanguage.wikia.com/wiki/Learn_Any_Language),
     a community which also provides the \#learnanylanguage IRC channel
     on FreeNode
+  - [UniLang](http://www.unilang.org/)
