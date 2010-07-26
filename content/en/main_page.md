@@ -9,7 +9,7 @@ the links below.
 
 ## [Learn a language](/en/Take_a_lesson)
 
-## [Contribute](/en/Make_a_lesson)
+## [Contribute](/en/Contribute)
 
 ## [Get involved](/en/Get_involved)
 
