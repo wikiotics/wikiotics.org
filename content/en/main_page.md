@@ -7,9 +7,9 @@ If you are interested in learning a language, teaching one to someone
 else, or helping develop innovative tools for either task, just follow
 the links below.
 
-## [Take a lesson](/en/Take_a_lesson)
+## [Learn a language](/en/Take_a_lesson)
 
-## [Make a lesson](/en/Make_a_lesson)
+## [Contribute](/en/Make_a_lesson)
 
 ## [Get involved](/en/Get_involved)
 
