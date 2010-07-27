@@ -25,6 +25,8 @@ There are plenty of ways to contribute to Wikiotics. Some ideas...
   - If you have **free time right now**, [join our chat
     room](http://webchat.freenode.net/?channels=wikiotics) and introduce
     yourself.
+  - If you know of other similar or complementary projects, please add
+    them to our [Links](/en/Links) page.
 
 ## If you are multilingual...
 
