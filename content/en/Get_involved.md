@@ -11,6 +11,11 @@ material and new takes on old material are always welcome.
 In addition to creating and using language lessons, there are many other
 ways to contribute to the community.
 
+## Discussion Mailing List
+
+See the [Wikiotics Google
+group](http://groups.google.com/group/wikiotics) for discussion.
+
 ## Flickr Group
 
 The most time consuming part of building a new picture choice lesson is
