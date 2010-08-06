@@ -16,10 +16,6 @@ There are plenty of ways to contribute to Wikiotics. Some ideas...
     make contributions under your name.
   - \[*coming soon*\] If you have **30 minutes**, [create or improve an
     English lesson](/en/make_a_lesson) using existing photos
-  - If you have **2 hours**, take some photos of common
-    objects/situations that could be used in a language lesson, and
-    upload them to the [Wikiotics Flickr
-    group](http://www.flickr.com/groups/wikiotics/).
   - If you have **1 hour per week**, join the [Wikiotics discussion
     group](http://groups.google.com/group/wikiotics).
   - If you have **free time right now**, [join our chat
@@ -40,6 +36,13 @@ There are plenty of ways to contribute to Wikiotics. Some ideas...
   - \[*coming soon*\] If you have **30 minutes**, see if you can replace
     photos in an existing lesson with ones that are more culturally
     appropriate.
+
+## If you have a camera...
+
+  - Take pictures of common objects/situations that could be used in a
+    language lesson, and upload them to the [Wikiotics Flickr
+    group](http://www.flickr.com/groups/wikiotics/). You'll make lessons
+    easier to create and more attractive.
 
 ## If you are a programmer...
 
