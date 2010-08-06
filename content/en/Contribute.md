@@ -30,7 +30,7 @@ There are plenty of ways to contribute to Wikiotics. Some ideas...
 
 ## If you are multilingual...
 
-  - \[*coming soon*\] If you have **30 minutes**, translate an existing
+  - \[*coming soon*\] If you have **5 minutes**, translate an existing
     English lesson into another language.
   - If you have **1 hour**, please translate the user interface of our
     wiki engine, Ductus, into your language using
@@ -40,6 +40,13 @@ There are plenty of ways to contribute to Wikiotics. Some ideas...
   - \[*coming soon*\] If you have **30 minutes**, see if you can replace
     photos in an existing lesson with ones that are more culturally
     appropriate.
+
+## If you have a camera...
+
+  - Take pictures of common objects/situations that could be used in a
+    language lesson, and upload them to the [Wikiotics Flickr
+    group](http://www.flickr.com/groups/wikiotics/). You'll make lesson
+    creation easier and the lessons more attractive.
 
 ## If you are a programmer...
 
