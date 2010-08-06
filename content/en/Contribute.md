@@ -41,13 +41,6 @@ There are plenty of ways to contribute to Wikiotics. Some ideas...
     photos in an existing lesson with ones that are more culturally
     appropriate.
 
-## If you have a camera...
-
-  - Take pictures of common objects/situations that could be used in a
-    language lesson, and upload them to the [Wikiotics Flickr
-    group](http://www.flickr.com/groups/wikiotics/). You'll make lesson
-    creation easier and the lessons more attractive.
-
 ## If you are a programmer...
 
   - If you have **1 hour** and are running a UNIX-like system, try to
