@@ -4,6 +4,9 @@ title = "English lessons"
 
   - [English lesson - Introduction](/en/English_lesson_-_Introduction)
   - [English lesson - Weather](/en/English_lesson_-_Weather)
+  - [English lesson - Flowers](/en/English_lesson_-_Flowers)
+  - [English lesson - Modes of
+    transportation](/en/English_lesson_-_Modes_of_transportation)
 
 # Ideas for future lessons
 
@@ -14,7 +17,6 @@ title = "English lessons"
   - [English lesson - Birds of NYC](/en/English_lesson_-_Birds_of_NYC)
   - [English lesson - Trees of NYC](/en/English_lesson_-_Trees_of_NYC)
   - [English lesson - Spices](/en/English_lesson_-_Spices)
-  - [English lesson - Flowers](/en/English_lesson_-_Flowers)
 
 We should also try to create lessons that contain all the concepts in
 [Basic English](http://en.wikipedia.org/wiki/Basic_English), as well as
