@@ -1,6 +1,6 @@
 +++
 title = "English lesson - Flowers"
-contributors = [ "169.231.48.249", "91.35.222.241",]
+contributors = [ "169.231.48.249", "91.35.222.241", "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -10,17 +10,17 @@ text = "rose"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:UqBYwiNu6ard5NfJ48N5qTHFUjBxdbYWdfOXjDv_AqASzly1JyFs9FyWZUwmF5zS"
-href = "urn:sha384:10Qpx24PsKaGBLtNbCrvviwDuO6eTDG2rXeTiYfXHImY_PxFuYYIUEG_CGDipszw"
+blob_href = "urn:sha384:NiyCucLX9zmbEcK3ocgoFpaHriUFJ4dvVJ3o3rctPYPPcKGcINhnOTsCAD50BvNo"
+href = "urn:sha384:6DoutAT-Y9rqH07YlXa8HmzYiWmCKXT2WL-yEOODduFvGkIB75cxXn7DJ6xh6eQb"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Keith Laverack (Keith Laverack)"
-author_url = "http://www.flickr.com/people/52364154@N07/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/52364154@N07/4868915742"
-title = "2010 08 07 Pink Rose at Low Catton"
+author = "Todd Hartz (likeaduck)"
+author_url = "http://www.flickr.com/people/51869361@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/51869361@N05/4871767797"
+title = "Mr. Dupont's Rose Gardens"
 [[cards.sides]]
 type = "empty"
 
