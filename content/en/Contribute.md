@@ -14,8 +14,8 @@ There are plenty of ways to contribute to Wikiotics. Some ideas...
   - If you have **5 more minutes**, [create an account on
     wikiotics.org](http://alpha.wikiotics.org/create-account) so you can
     make contributions under your name.
-  - \[*coming soon*\] If you have **30 minutes**, [create or improve an
-    English lesson](/en/make_a_lesson) using existing photos
+  - If you have **20 minutes**, [create or improve an English
+    lesson](/en/make_a_lesson) using existing photos from Flickr.
   - If you have **1 hour per week**, join the [Wikiotics discussion
     group](http://groups.google.com/group/wikiotics).
   - If you have **free time right now**, [join our chat
@@ -26,16 +26,15 @@ There are plenty of ways to contribute to Wikiotics. Some ideas...
 
 ## If you are multilingual...
 
-  - \[*coming soon*\] If you have **5 minutes**, translate an existing
-    English lesson into another language.
+  - If you have **10 minutes**, translate an existing English lesson
+    into another language. \[instructions coming soon\]
   - If you have **1 hour**, please translate the user interface of our
     wiki engine, Ductus, into your language using
     [Transifex](http://www.transifex.net/projects/p/ductus/c/master/).
     If a translation already exists, please make sure it is up-to-date
     and accurate.
-  - \[*coming soon*\] If you have **30 minutes**, see if you can replace
-    photos in an existing lesson with ones that are more culturally
-    appropriate.
+  - If you have **15 minutes**, see if you can replace photos in an
+    existing lesson with ones that are more culturally appropriate.
 
 ## If you have a camera...
 
