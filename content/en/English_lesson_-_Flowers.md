@@ -1,12 +1,12 @@
 +++
 title = "English lesson - Flowers"
-contributors = [ "169.231.48.249", "91.35.222.241", "garrison",]
+contributors = [ "169.231.48.249", "216.27.154.200", "91.35.222.241", "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "rose"
+text = "This is a rose"
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "tulip"
+text = "These are tulips"
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "daisy"
+text = "This is a daisy"
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "sunflower"
+text = "These are sunflowers"
 type = "phrase"
 
 [[cards.sides]]
