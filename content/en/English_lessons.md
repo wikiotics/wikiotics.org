@@ -7,6 +7,7 @@ title = "English lessons"
   - [English lesson - Flowers](/en/English_lesson_-_Flowers)
   - [English lesson - Modes of
     transportation](/en/English_lesson_-_Modes_of_transportation)
+  - [English lesson - Art supplies](/en/English_lesson_-_Art_supplies)
 
 # Ideas for future lessons
 
