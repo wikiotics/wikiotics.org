@@ -11,7 +11,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:5Qv9y2VyD7cuqeoO8a2CCXyWNFMuwEhmAj8adjfAVx6rFz5x5zrZ6qLEmMccX8bH"
-href = "urn:sha384:vo-lSuGx3orismo7pymi0lHwV8C3cAgarHoSkaQ_QgEbXNW5eCLTTxHb-yEoUmZx"
+href = "urn:sha384:SrPaziC_VCKv56MD_iRVK7LAQO0TTQ8Cy60IlorZ-qmRF6lEkLQeX7_A3BrQynS3"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -27,12 +27,12 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a drumset."
+text = "This is a drum set."
 type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:3sVthJd_6yrtDulg91oMZCK-ZZ3DJFkge2VTfNryCyvVPEElodImC2bDVvl-yk-G"
-href = "urn:sha384:JS6QOB2IFanEubmLtUq3cK03H7PZTCPIcAVKEMA2Rvt4RzRmGZHgoXqtfFQDJbnI"
+href = "urn:sha384:bBj7zVjIDdIE5KbAqIk24Gdn1acW2Ko_PFkUKEyZLLtgWezjxhe69bYAdgsJMddk"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -53,7 +53,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:uC0I_sAfscfwVF8FDdRgdkNP7m14OIvKPxhS5hWoy_gURcOFCfxVm7lZnx7sdQGC"
-href = "urn:sha384:kdql5fIPtf50SpcLIGEBvwBsUWoqgyFdYepFaa0vY8AeZgh2F9fpBMrpIStuRMf4"
+href = "urn:sha384:Ucgel9YMpb7JuQAG2Mq_guVE9StM0ogQ32PhrkMYUC1MbW5cXSYOE0UYeg9dMkE3"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -74,7 +74,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:oY8vPej2ftBbBAtk8ghdu4wvz4hbXpJxSrDAVj7TDkWTNkJRCrLLxvswxiQyrLi1"
-href = "urn:sha384:h8dSVS5TnRkJcy42KEGSGg7BDcQwgMptizOExNMCrxweWHAp3elfXZex8w7dkll2"
+href = "urn:sha384:kceWBv1ZPy7Zk7sr86bZbq51oKYSO_N6-lmnremLDbRMsj9UkYILwG3N0UVoyIWW"
 mime_type = "image/jpeg"
 type = "picture"
 
