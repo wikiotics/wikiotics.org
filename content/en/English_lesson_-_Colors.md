@@ -1,6 +1,6 @@
 +++
 title = "English lesson - Colors"
-contributors = [ "82.168.65.160", "garrison",]
+contributors = [ "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -31,17 +31,17 @@ text = "black"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:8SaadOpSynp02ec0dVw25Q8y5KFjw_uFqLpzF3Q7w-lmU7eJuREN4bxHfL13RjPU"
-href = "urn:sha384:72Sv_1E_sQgN6bMLFMb9Q8rmcqOP8h0XlozKyIvX5UxiiRhS7mmmTHkcLzGPBww0"
+blob_href = "urn:sha384:2Eya1M-5vAXbdeF_UvOoC15vGObJeV_3CYrE7P4chOQ563SxyD3bL1sIN44HkK9s"
+href = "urn:sha384:jZR5SnTE7J_K8GMagA9l4TzGllqi_Gn-8usI_4adCul5zNe1oPf9wASD9PD5oATB"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Pat Durkin (Pat Durkin)"
-author_url = "http://www.flickr.com/people/49609958@N02/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/49609958@N02/4839484231"
-title = "1951 Ford convertible - mod - black - fvr"
+author = "Pedro Ribeiro Simões (pedrosimoes7)"
+author_url = "http://www.flickr.com/people/46944516@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/46944516@N00/162937217"
+title = "Black cat"
 [[cards.sides]]
 type = "empty"
 
@@ -52,17 +52,17 @@ text = "red"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:xNRxd-LcRUclCeYxf2IaDY2-3AsFQUw8KO19m5eoW3c8LZkMISDQ_dNPwaoJTlWE"
-href = "urn:sha384:VJ5g00Sl8ykFloby5Zse1O5iwtrp2q5oKnJSuOMfCIxcWVQ6ya374X6Q2V-2eUlz"
+blob_href = "urn:sha384:SKy8573N4uQIcrtkmsJqmzvokGM_YK0pK_-qyFb4wEqvWezkMCPSonf3kpqLaBCQ"
+href = "urn:sha384:YIfVaI5GMDX5fP0xrqI-zIkAMq_qYJwqzoGfM2mRAvQLI-P83KM3Hk2Aq89xwDvJ"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Pam Sanford (Photography_by_Pam)"
-author_url = "http://www.flickr.com/people/44195371@N08/"
+author = "Athena Flickr (Athena's Pix (Pretty busy))"
+author_url = "http://www.flickr.com/people/23045224@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/44195371@N08/4845302184"
-title = "Project 365 Day 67- Rose Red (7-29)"
+original_url = "http://www.flickr.com/photos/23045224@N04/2909493039"
+title = "I was born on a red day"
 [[cards.sides]]
 type = "empty"
 
@@ -73,17 +73,17 @@ text = "blue"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:ygPnc_5_-iY0F_JiL-IqXNfuTVgl2VQSF-ZWPddH43sQW6fFmCrFs-7o9Egy-4Nm"
-href = "urn:sha384:CcYx-0KS8gKxWt9_QhSLGOsLiZ9JsdswnLQeRhDFUn_iTxcAXDQx8AbNfBbjMrdc"
+blob_href = "urn:sha384:dlmm_Jp3INp-2HNutOCg0LHUDp7iTUpxAEFg6tuG5Xdyelc4tEgxzIkx2wj4CqFv"
+href = "urn:sha384:MDSUisR6Lzbjv5WVM4vnxkFziIWzhow3jDono9c4ywdIYczt90Bzj1CHUdTZwT46"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Martin Fisch (marfis75)"
-author_url = "http://www.flickr.com/people/45409431@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/45409431@N00/4876194611"
-title = "in the mudflat"
+author = "darwin Bell (Darwin Bell)"
+author_url = "http://www.flickr.com/people/53611153@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/53611153@N00/283113377"
+title = "blue tiles"
 [[cards.sides]]
 type = "empty"
 
@@ -94,17 +94,17 @@ text = "green"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:bZrWanUGo2gS_B7F9gqi-gmkAFoCuRcyi3Fbe1st1AUIkuqEsJtq3HRannaWRnnu"
-href = "urn:sha384:IDb_ZsU2oGmSm1tRIGfpCyjtBnIHs4ZBJc11RQdBsh9WiNXRpd6jN3-SI4V_T85w"
+blob_href = "urn:sha384:ZEYn5L_hJt-f7s2a9J3TrhDVIUF1TFIJZbsmLEKpQM8y74joIS6aMXlBvv4EJWEA"
+href = "urn:sha384:BD9aFIRWAbMdVt6H_Pn1NAokTUQLUpRUQH1qP-v58fMGrkE8zduwQLuNMAhAqMDU"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Alexander von Halem (barockschloss)"
-author_url = "http://www.flickr.com/people/8663137@N04/"
+author = " (TANAKA Juuyoh (田中十洋))"
+author_url = "http://www.flickr.com/people/13910409@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/8663137@N04/4871823016"
-title = "Angelika, bist du's?"
+original_url = "http://www.flickr.com/photos/13910409@N05/2733835327"
+title = "Green / 緑(みどり)"
 [[cards.sides]]
 type = "empty"
 
@@ -115,17 +115,17 @@ text = "yellow"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:xzaqvhnK4plNNkpF28lph6niC9TX9-Dpatx69DOq4DM8P6TKKOyqnGhhtPkz0aEF"
-href = "urn:sha384:Z7e1bbQsJi6n9PWlzsQug0CtYmmSHWaHUYpbwiIUsSBWwX9xBgQWNTKfCbNwjmj-"
+blob_href = "urn:sha384:gbzu77e8mYtzha4_MuNOGcSVesZoY19eSUejR8cEbwDM8MURkqTy2CytFnD0M3CL"
+href = "urn:sha384:QPagyXVTykKjwbqIXN1OcNKhh1TvAwpuyakFLancdddx0hHYbzP62H0uxC5RvGxa"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Pat Durkin (Pat Durkin)"
-author_url = "http://www.flickr.com/people/49609958@N02/"
+author = "Dino Quinzani (Il conte di Luna)"
+author_url = "http://www.flickr.com/people/37978960@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/49609958@N02/4875348494"
-title = "2007 Lamborghini Gallardo - yellow - fvl"
+original_url = "http://www.flickr.com/photos/37978960@N00/2827340185"
+title = "Yellow bokeh"
 [[cards.sides]]
 type = "empty"
 
@@ -199,17 +199,17 @@ text = "gray"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:I6t60rdmHfeYP0Ff2pWvWe6QRWndyG47p7oBYtsuDK0ipRVwL7M74V9MablPzvky"
-href = "urn:sha384:leNleavRZ62vyAbwqGv7kFUTAwF9tt1mKOXxw3lohZdWgMIEez1407yrceqbVpQ5"
+blob_href = "urn:sha384:Rdi4Gn3zqFQCuN0gTZFjc4vZdsYyK_KNs0dO5jvEo_blATWxzK-19z_PwiXgBYim"
+href = "urn:sha384:75ZRSXklZ1kmNmJ84URKJEf75nsuXyMI5ovElj2s9zkuB6oKjPBkwJrcVAfxdKBt"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Emilian Robert Vicol (Public Domain Photos)"
-author_url = "http://www.flickr.com/people/28958738@N06/"
+author = "Kelbv (flikr)"
+author_url = "http://www.flickr.com/people/77309394@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/28958738@N06/4811108534"
-title = "Storm Damage"
+original_url = "http://www.flickr.com/photos/77309394@N00/4683908480"
+title = "grey stuff and grey stuff and grey stuff"
 [[cards.sides]]
 type = "empty"
 
@@ -220,17 +220,17 @@ text = "This is a rainbow."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:mC58RPTEfmJfp3_TdXHlx6FsMN-a5V4l5iU6fKD20UoLbesknDegkrvkRHnOxRpM"
-href = "urn:sha384:7rOxrXTHFB-JGdZRjgbhc3NUaOB3kkDh6_2LtUMPQadJBC2JFCZgdU2BpL678ory"
+blob_href = "urn:sha384:-wfBHRTHvRPo-o5KuOJEAgHeVbqKwDsf3UhS-KcfgpOFPueSdT_be_5bod5z1iEs"
+href = "urn:sha384:rsgFaa0Eh_X8OmVWpM_sr3YILU57CbSaSv3ctjwsFTsPZB690rN78-FBlZHKvyUK"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Herry Lawford (Wolfiewolf)"
-author_url = "http://www.flickr.com/people/32662631@N00/"
+author = "Phillip Capper (PhillipC)"
+author_url = "http://www.flickr.com/people/42033648@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/32662631@N00/4861417798"
-title = "The Rainbow"
+original_url = "http://www.flickr.com/photos/42033648@N00/10476729"
+title = "Wellington rainbow 1 - 23 April 2005"
 [[cards.sides]]
 type = "empty"
 
@@ -242,7 +242,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:U1WdXVwefsgIKt4db0WmEUGJWTyyHiRD9j1FFaU47SrCHpQnyBF8ycyYwEipYpWB"
-href = "urn:sha384:UQmBLMVSvJ9SCCAbibXCUSCyXjNNXYTQYaipieR9n-X2UCmLmSeVpfjFvGythMXB"
+href = "urn:sha384:Ng_WGSUwY9JH7Wgp504llI0ocK49TAJPuyrA2vesa1C7XfCFDgOqABEaaJd799da"
 mime_type = "image/jpeg"
 type = "picture"
 
