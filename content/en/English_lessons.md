@@ -2,6 +2,8 @@
 title = "English lessons"
 +++
 
+(and ideas for future lessons, in red)
+
   - [English lesson - Introduction](/en/English_lesson_-_Introduction)
   - [English lesson - Weather](/en/English_lesson_-_Weather)
   - [English lesson - Flowers](/en/English_lesson_-_Flowers)
@@ -12,9 +14,6 @@ title = "English lessons"
   - [English lesson - Musical
     instruments](/en/English_lesson_-_Musical_instruments)
   - [English lesson - Random nouns](/en/English_lesson_-_Random_nouns)
-
-# Ideas for future lessons
-
   - [English lesson - Basic numbers](/en/English_lesson_-_Basic_numbers)
   - [English lesson - Basic
     situations](/en/English_lesson_-_Basic_situations)
