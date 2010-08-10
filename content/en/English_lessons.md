@@ -11,6 +11,7 @@ title = "English lessons"
   - [English lesson - Colors](/en/English_lesson_-_Colors)
   - [English lesson - Musical
     instruments](/en/English_lesson_-_Musical_instruments)
+  - [English lesson - Random nouns](/en/English_lesson_-_Random_nouns)
 
 # Ideas for future lessons
 
