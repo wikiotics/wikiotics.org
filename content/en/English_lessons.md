@@ -9,6 +9,8 @@ title = "English lessons"
     transportation](/en/English_lesson_-_Modes_of_transportation)
   - [English lesson - Art supplies](/en/English_lesson_-_Art_supplies)
   - [English lesson - Colors](/en/English_lesson_-_Colors)
+  - [English lesson - Musical
+    instruments](/en/English_lesson_-_Musical_instruments)
 
 # Ideas for future lessons
 
