@@ -8,10 +8,10 @@ title = "English lessons"
   - [English lesson - Modes of
     transportation](/en/English_lesson_-_Modes_of_transportation)
   - [English lesson - Art supplies](/en/English_lesson_-_Art_supplies)
+  - [English lesson - Colors](/en/English_lesson_-_Colors)
 
 # Ideas for future lessons
 
-  - [English lesson - Colors](/en/English_lesson_-_Colors)
   - [English lesson - Basic numbers](/en/English_lesson_-_Basic_numbers)
   - [English lesson - Basic
     situations](/en/English_lesson_-_Basic_situations)
