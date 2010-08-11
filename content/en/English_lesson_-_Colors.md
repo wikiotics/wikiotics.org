@@ -10,17 +10,17 @@ text = "white"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:NGZKSCQVLjlfWzRSkBCyqy0t7JeZ6naQbxZRNDLEmNFTpRtBfXcchOGA2UhRCVB8"
-href = "urn:sha384:O-TjfXlWfdDH4HCzevp92AjU7PSXt31lKnWemnHOP3qS53doV6FszGOiF0BUHED-"
+blob_href = "urn:sha384:uSCfTAVKV4hAmTrtqADrelKmBJZ4GvCupcin7mzD_aEMFL94YZ3Aq6StLKq11N_t"
+href = "urn:sha384:DttcZY4FHHMLWod7GEYowRJejxDXgVp01c6DT-nLFR3DVh1WlTeuDxMjdZO0Xi60"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (dave_7)"
-author_url = "http://www.flickr.com/people/21612624@N00/"
+author = "Ian Burt (oddsock)"
+author_url = "http://www.flickr.com/people/28648431@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/21612624@N00/4839339838"
-title = "Pontiac Firefly"
+original_url = "http://www.flickr.com/photos/28648431@N00/283888330"
+title = "white dove snip"
 [[cards.sides]]
 type = "empty"
 
@@ -73,17 +73,17 @@ text = "blue"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:dlmm_Jp3INp-2HNutOCg0LHUDp7iTUpxAEFg6tuG5Xdyelc4tEgxzIkx2wj4CqFv"
-href = "urn:sha384:MDSUisR6Lzbjv5WVM4vnxkFziIWzhow3jDono9c4ywdIYczt90Bzj1CHUdTZwT46"
+blob_href = "urn:sha384:r1664Ey7wXMNwt_mu7_Bfo9aKAvO-FbmzviPiwibHyuJgY7THisJkgV10hGsKDKa"
+href = "urn:sha384:wiB2i8Ml9_JlJ81b-tadV5oU8WwY9GxoFu1kntguEeMeI72aNrC4q72sGHHJvU5i"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "darwin Bell (Darwin Bell)"
-author_url = "http://www.flickr.com/people/53611153@N00/"
+author = "S Pisharam (spisharam - AWAY)"
+author_url = "http://www.flickr.com/people/11510574@N02/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/53611153@N00/283113377"
-title = "blue tiles"
+original_url = "http://www.flickr.com/photos/11510574@N02/2261100833"
+title = "Blue...!!!{Blau, Blu, Bleu, Blå, Blauw, Azul, നീല ,नील }  \"For the blue sky bends over all...\""
 [[cards.sides]]
 type = "empty"
 
