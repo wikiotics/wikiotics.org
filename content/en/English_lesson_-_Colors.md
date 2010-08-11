@@ -10,17 +10,17 @@ text = "white"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:uSCfTAVKV4hAmTrtqADrelKmBJZ4GvCupcin7mzD_aEMFL94YZ3Aq6StLKq11N_t"
-href = "urn:sha384:DttcZY4FHHMLWod7GEYowRJejxDXgVp01c6DT-nLFR3DVh1WlTeuDxMjdZO0Xi60"
+blob_href = "urn:sha384:_8VX3vUk7aZTjiTeK8wcuDGGJJ476pw2pN3zDcoRgB-soZmW5LoRVT8uRvAp0tAx"
+href = "urn:sha384:-sH1BGT-VSjnemYbBNO88EX9gbT3LHTziaCf1hvt_5QZY9bXQrl_bQar_3dQgEI_"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Ian Burt (oddsock)"
-author_url = "http://www.flickr.com/people/28648431@N00/"
+author = "Olivier (OliBac)"
+author_url = "http://www.flickr.com/people/47757737@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/28648431@N00/283888330"
-title = "white dove snip"
+original_url = "http://www.flickr.com/photos/47757737@N00/2343714916"
+title = "blanche / white 2"
 [[cards.sides]]
 type = "empty"
 
