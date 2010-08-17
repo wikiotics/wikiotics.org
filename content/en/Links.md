@@ -41,3 +41,5 @@ title = "Other projects of interest"
     a community which also provides the \#learnanylanguage IRC channel
     on FreeNode
   - [UniLang](http://www.unilang.org/)
+  - [RhinoSpike](http://rhinospike.com/) allows people to submit
+    exchange audio recordings of texts. The content is freely licensed.
