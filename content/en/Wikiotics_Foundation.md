@@ -2,9 +2,9 @@
 title = "Wikiotics Foundation"
 +++
 
-The Wikiotics Foundation is a nonprofit organization dedicated to the
-development and distribution to the public, at no charge, of software
-tools and materials for collaborative language instruction.
+The Wikiotics Foundation is a 501(c)(3) nonprofit organization dedicated
+to the development and distribution to the public, at no charge, of
+software tools and materials for collaborative language instruction.
 
 ## Board of directors
 
