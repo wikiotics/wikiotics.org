@@ -26,4 +26,21 @@ you want to use to teach those sentences.
 Each lesson page has an edit button that allows you to edit the lesson.
 From there you can rearrange in what order the individual picture choice
 groups are presented to students. You can also add additional materials
-to the lesson.
+to the lesson or change the text accompanying any existing pictures.
+
+#### Translate
+
+If you want to translate a page, simply load it and use the "copy" tab
+at the top of the page and move it to a new location. Once the lesson
+has been moved, click on the "edit" button and replace the text with
+corresponding text in a new language.
+
+For example, I like the English lesson about different [weather
+types](http://alpha.wikiotics.org/wiki/English_lesson_-_Weather) and I
+wanted to make a Spanish version. So I went to the lesson page and
+clicked on "copy." When it asked me where to move the lesson I entered
+"Spanish\_lesson\_-\_Weather" and hit enter, which brought me to the new
+[Spanish weather
+lesson](http://alpha.wikiotics.org/wiki/Spanish_lesson_-_Weather). At
+this point my Spanish lesson is still in English so I hit the "edit"
+button and started translating. That's it.
