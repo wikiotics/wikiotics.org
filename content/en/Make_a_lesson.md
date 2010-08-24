@@ -33,7 +33,11 @@ to the lesson or change the text accompanying any existing pictures.
 If you want to translate a page, simply load it and use the "copy" tab
 at the top of the page and move it to a new location. Once the lesson
 has been moved, click on the "edit" button and replace the text with
-corresponding text in a new language.
+corresponding text in a new language. When you're done, share your
+lesson by adding a link to some of the pages listing lessons by language
+like [English\_lessons](/en/English_lessons),
+[Spanish\_lessons](/en/Spanish_lessons), or
+[Chinese\_lessons](/en/Chinese_lessons).
 
 For example, I like the English lesson about different [weather
 types](http://alpha.wikiotics.org/wiki/English_lesson_-_Weather) and I
@@ -43,4 +47,5 @@ clicked on "copy." When it asked me where to move the lesson I entered
 [Spanish weather
 lesson](http://alpha.wikiotics.org/wiki/Spanish_lesson_-_Weather). At
 this point my Spanish lesson is still in English so I hit the "edit"
-button and started translating. That's it.
+button and started translating. Since I want to share this new lesson I
+added it to the [Spanish\_lessons](/en/Spanish_lessons) page. That's it.
