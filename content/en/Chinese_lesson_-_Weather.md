@@ -1,12 +1,12 @@
 +++
 title = "Chinese lesson - Weather"
-contributors = [ "216.27.154.200",]
+contributors = [ "216.27.154.200", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Está lloviendo."
+text = "It is raining."
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Hace sol."
+text = "It is sunny."
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Está nublado."
+text = "It is cloudy."
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Está nevando."
+text = "It is snowing."
 type = "phrase"
 
 [[cards.sides]]
@@ -90,7 +90,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Hace frio."
+text = "It is cold."
 type = "phrase"
 
 [[cards.sides]]
@@ -111,7 +111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Hace calor."
+text = "It is hot."
 type = "phrase"
 
 [[cards.sides]]
@@ -132,7 +132,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Hace fresco."
+text = "It is cool."
 type = "phrase"
 
 [[cards.sides]]
@@ -153,7 +153,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Hace calor."
+text = "It is warm."
 type = "phrase"
 
 [[cards.sides]]
