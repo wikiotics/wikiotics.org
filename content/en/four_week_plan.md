@@ -19,11 +19,16 @@ paint
 
 ## Week 3 (October 3)
 
-What is a flash card (week 1): Replace the pictures of an existing
-lesson on adjectives to better illustrate the lesson terms for you.
+What is a flash card: Replace the pictures of an existing lesson on
+adjectives to better illustrate the lesson terms for you.
+
+Goal: Have many forked versions of the same lesson.
 
 ## Week 4 (October 10)
 
-What is a flash card (week 2):
+Share your words: Create a lesson to teach others some of the special
+vocabulary from your daily life. Maybe it is the type of foods and
+furniture you use, or the environment you live in, or some special terms
+used at work.
 
-?
+Goal: Have many lessons of specialized vocabularly
