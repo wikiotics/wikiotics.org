@@ -10,7 +10,9 @@ apply to the development plan.
 
 [FlashCardDevelopmentPlan](/en/FlashCardDevelopmentPlan)
 
-Design Issues This is where we discuss and archive our reasons for
-existing design decisions. What considerations influenced our naming
-convention or decision to create certain kinds of data structures? Those
-should go here.
+## Design Issues
+
+This is where we discuss and archive our reasons for existing design
+decisions. What considerations influenced our naming convention or
+decision to create certain kinds of data structures? Those should go
+here.
