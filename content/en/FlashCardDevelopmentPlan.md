@@ -1,8 +1,14 @@
 +++
-title = "FlashCardDevelopmentPlan"
+title = "Flash card development plan"
 +++
 
-### Current State
+*quick note from garrison: there are a few specific things in the
+document below that are inaccurate or could be better worded, which I
+have not had a chance to fix yet. for now, just treat any specific
+pieces of information with a grain of salt until I have a chance to fix
+the few minor (but important) things that bother me*
+
+## Current State
 
 Currently our data model is focused very much on the picture choice
 lessons we offer. Going forward we want to move to a model based on
@@ -21,7 +27,7 @@ where Ian talks about re-using Anki's data structure, and this [feature
 request](http://code.ductus.us/ticket/53) that tracks our current status
 in implementing compatibility.
 
-### Hierarchy of elements
+## Hierarchy of elements
 
 Each of our lessons is a collection of nested element containers.
 Picture choice lessons break down into groups of four pictures and four
@@ -35,7 +41,7 @@ to study or re-use.
 There are a number of opportunities for improving our capabilities and
 ease of use if we focus on these simple elements.
 
-### Automatic study materials
+## Automatic study materials
 
 Running through a lesson repeatedly is not always the best way to study
 the material it contains. If we look at each sentence|picture pair
@@ -45,7 +51,7 @@ cards, which can then be used in an external flash card program like
 anki or fed to various "print" css/svg templates and memory game testing
 tools.
 
-### Lesson creation
+## Lesson creation
 
 Just as we can give users the contents of picture choice lessons as
 flash card collections, so too can users take flash card collection and
@@ -62,7 +68,7 @@ interface for existing flash cards. Once someone has a collection of
 cards, building a picture choice lesson should be as easy as arranging a
 game of solitaire.
 
-### Personal Dictionary/repository
+## Personal Dictionary/repository
 
 Once we can represent flash cards outside of lessons we can also collect
 all of them into a meta-collection to represent that user's personal
@@ -86,7 +92,7 @@ require additional lessons. We could also work in reverse and build a
 tool for finding new material based on what you have already learned +5%
 new content.
 
-### Easy Import
+## Easy Import
 
 Flash cards are something people already make and there are a wealth of
 flash card decks available to accompany all the various formal language
