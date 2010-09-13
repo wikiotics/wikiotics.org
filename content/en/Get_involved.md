@@ -51,6 +51,13 @@ If you are interested in helping to improve the basic capabilities of
 Wikiotics, we would be happy to [hear from
 you](http://alpha.wikiotics.org/wiki/contact).
 
+#### (Future) Plans
+
+We keep a running list of long term projects and design documents on our
+[DesignDocuments](/en/DesignDocuments) page. If you're interested in the
+reasoning behind how Wikiotics works, or want to comment on our future
+plans, this is the place to look.
+
 #### Compatibility
 
 In the end, all lessons should work from a person's [web
