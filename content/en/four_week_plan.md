@@ -1,6 +1,10 @@
 +++
-title = "four week plan"
+title = "Four week plan"
 +++
+
+We are trying to do four weeks of different "pushes" in the four weeks
+before the Shuttleworth/Drumbeat proposal is due. Each week's push will
+be introduced by a blog post on the Drumbeat site.
 
 ## Week 1 (September 19)
 
