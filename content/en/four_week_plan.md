@@ -20,8 +20,6 @@ topic: the weather
 Goal: Turn the weather lesson into the clearest lesson pictures can
 paint
 
-Related bugs: [flickr import](http://code.ductus.us/ticket/64),
-
 ## Week 3 (October 3)
 
 What is a flash card: Replace the pictures of an existing lesson on
