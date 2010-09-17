@@ -259,7 +259,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Девочки are walking."
+text = "Девочки идят."
 type = "phrase"
 
 [[cards.sides]]
