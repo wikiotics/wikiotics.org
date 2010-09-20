@@ -1,0 +1,95 @@
++++
+title = "Spanish lesson - Flowers"
+contributors = [ "216.27.154.200",]
+headings = [ "phrase", "picture", "audio",]
+type = "lesson"
+[[cards]]
+
+[[cards.sides]]
+text = "This is a rose"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:NiyCucLX9zmbEcK3ocgoFpaHriUFJ4dvVJ3o3rctPYPPcKGcINhnOTsCAD50BvNo"
+href = "urn:sha384:aY-eKyDM-py6Os62UmYdhYLKnWQxOyJvU0fap0OTfTOpQDKW42_D6YnQ9zVcCyPw"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Todd Hartz (likeaduck)"
+author_url = "http://www.flickr.com/people/51869361@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/51869361@N05/4871767797"
+title = "Mr. Dupont's Rose Gardens"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "These are tulips"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:BS01W1jEvgyWPILZJRJlYo8uFBbH5y_B0a73CGu_-LAgk3KnC4C2ZBBZeiOwZ5k7"
+href = "urn:sha384:gc9oTUyg6XPi9cohJcwYbNsMr_8-_jtsQOtWGHoBMBpIZWPGkLTUqPDt4DwGKD0Y"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Erik Eskedal (eskedal)"
+author_url = "http://www.flickr.com/people/41931415@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/41931415@N03/4838669164"
+title = "Tulips 1"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is a daisy"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:9r4DIUKTOuV6XrjnZG0agj12fPtbAY3OpahPnpV-XKVRIX3i3JhYWofKHxvN9K9F"
+href = "urn:sha384:fd92GZ2aYUkISOXFJrzpiM-B6HjMIP_ZhaP7X9PiPGhX21zZ0KizYUtfaGhEvlIV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (the_webhamster)"
+author_url = "http://www.flickr.com/people/40041412@N06/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/40041412@N06/4832298643"
+title = "Daisy (Colour-Corrected)"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "These are sunflowers"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:EDRSYM0Y_SZR0fcTvpy7Afb1YfE1j0XsuoIs6FWlPs0fiWhTo6EOXj5vm50n83sO"
+href = "urn:sha384:YA0S0VfvvUQk-9U2Tjifh_sIMnbK_mgNqMIkyrR_qFZJ0hMqyUiZ4uBstkFF3ToQ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Giorgio Minguzzi (iz4aks)"
+author_url = "http://www.flickr.com/people/22666220@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/22666220@N00/4869199894"
+title = "Girasoli - Grattacoppa, Ravenna"
+[[cards.sides]]
+type = "empty"
+
+[[interactions]]
+answer = 1
+prompt = [ 0, 2,]
+type = "choice"
+
++++
