@@ -1,12 +1,12 @@
 +++
 title = "Spanish lesson - Flowers"
-contributors = [ "216.27.154.200",]
+contributors = [ "216.27.154.200", "trose",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a rose"
+text = "Esta es una rosa"
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "These are tulips"
+text = "Estos son los tulipanes"
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a daisy"
+text = "Esta es una margarita"
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "These are sunflowers"
+text = "Estos son los girasoles"
 type = "phrase"
 
 [[cards.sides]]
