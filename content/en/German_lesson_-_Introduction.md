@@ -111,7 +111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Das ist ein Mädchen."
+text = "Das ist ein Maedchen."
 type = "phrase"
 
 [[cards.sides]]
@@ -238,7 +238,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Das Mädchen sitzt."
+text = "Das Maedchen sitzt."
 type = "phrase"
 
 [[cards.sides]]
@@ -259,7 +259,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Die Mädchen laufen."
+text = "Die Maedchen laufen."
 type = "phrase"
 
 [[cards.sides]]
