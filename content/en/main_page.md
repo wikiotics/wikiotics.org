@@ -1,5 +1,6 @@
 +++
 title = "Wikiotics"
+languageCode = "en"
 +++
 
 Wikiotics is a community effort at collaborative language instruction.
