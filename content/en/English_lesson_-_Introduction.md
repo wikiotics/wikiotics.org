@@ -73,17 +73,17 @@ text = "This is a dog."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:8y1N-0dBXSqd7g_Esi_84h2Bf4kTya7pTyRS-_AEAdZkOU5UtpufyfyXh_xYyIF6"
-href = "urn:sha384:GtWFvgSTa1wt-B5ZpHu1Y0RTyomHFFPU0PiLK2-VHFu1R40o2sYR5-gFkYhOqI4v"
+blob_href = "urn:sha384:mqAllQAz0fIxHxu2GJPUOf24ku8Jzr6I1rdEDBFZCly9tf3JIUXJwy7GLckZUOF_"
+href = "urn:sha384:Liut0NCjLvpeA-D1R9iyRxa2tElpfwk6QlTyQXS6xLXA2hqjuDk_jX5UWcOGg0sC"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Adrian Scottow (ChodHound)"
-author_url = "http://www.flickr.com/people/21208051@N00/"
+author = "Ian Stannard (Silly Little Man)"
+author_url = "http://www.flickr.com/people/44036847@N05/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/21208051@N00/4961421325"
-title = "Hope"
+original_url = "http://www.flickr.com/photos/44036847@N05/4941513064"
+title = "Alfie"
 [[cards.sides]]
 type = "empty"
 
