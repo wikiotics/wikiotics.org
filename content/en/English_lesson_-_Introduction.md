@@ -1,6 +1,6 @@
 +++
 title = "English lesson - Introduction"
-contributors = [ "ian",]
+contributors = [ "127.0.0.1", "216.27.154.200", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -73,17 +73,17 @@ text = "This is a dog."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:mqAllQAz0fIxHxu2GJPUOf24ku8Jzr6I1rdEDBFZCly9tf3JIUXJwy7GLckZUOF_"
-href = "urn:sha384:Liut0NCjLvpeA-D1R9iyRxa2tElpfwk6QlTyQXS6xLXA2hqjuDk_jX5UWcOGg0sC"
+blob_href = "urn:sha384:8y1N-0dBXSqd7g_Esi_84h2Bf4kTya7pTyRS-_AEAdZkOU5UtpufyfyXh_xYyIF6"
+href = "urn:sha384:GtWFvgSTa1wt-B5ZpHu1Y0RTyomHFFPU0PiLK2-VHFu1R40o2sYR5-gFkYhOqI4v"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Ian Stannard (Silly Little Man)"
-author_url = "http://www.flickr.com/people/44036847@N05/"
+author = "Adrian Scottow (ChodHound)"
+author_url = "http://www.flickr.com/people/21208051@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/44036847@N05/4941513064"
-title = "Alfie"
+original_url = "http://www.flickr.com/photos/21208051@N00/4961421325"
+title = "Hope"
 [[cards.sides]]
 type = "empty"
 
@@ -263,17 +263,17 @@ text = "The girls are walking."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:3IS6H16Kx7Ns9UlGEnD4-F_DYaWuT2iJdnH5l4H7ZLKoT4OpLnJCQtzSChddlCee"
-href = "urn:sha384:Jq-xxPY3OhFl67-VWoIMtHMkt8-D3ma-ex0TckwFjYTb-NxuTjkSiwI2wjlrSO9X"
+blob_href = "urn:sha384:H8NgnpLXlzYHN1qMqwINN0HHtwFA6R5WH82fSpAj30FCFjQsLDKl-Yf6C7izR4bb"
+href = "urn:sha384:UZw62hp4vVcJSjn8SL91kiAZ4iUQn8Ok_fvcsGkBCjV042Jp69a_5bm8urw3-Oku"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Mike Baird (mikebaird)"
-author_url = "http://www.flickr.com/people/72825507@N00/"
+author = "Jeremy Barwick (jeremybarwick)"
+author_url = "http://www.flickr.com/people/8569394@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/72825507@N00/3189781853"
-title = "Two attractive young ladies feeling good and walking on the wet sand holding what looks to be giant-sized Dos Equis beer bottles - drinking beer on the beach at sunset"
+original_url = "http://www.flickr.com/photos/8569394@N07/3419017183"
+title = "Girls in China(town)"
 [[cards.sides]]
 type = "empty"
 
