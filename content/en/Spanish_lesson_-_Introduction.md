@@ -263,17 +263,17 @@ text = "Las niñas están caminando."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:H8NgnpLXlzYHN1qMqwINN0HHtwFA6R5WH82fSpAj30FCFjQsLDKl-Yf6C7izR4bb"
-href = "urn:sha384:UZw62hp4vVcJSjn8SL91kiAZ4iUQn8Ok_fvcsGkBCjV042Jp69a_5bm8urw3-Oku"
+blob_href = "urn:sha384:3IS6H16Kx7Ns9UlGEnD4-F_DYaWuT2iJdnH5l4H7ZLKoT4OpLnJCQtzSChddlCee"
+href = "urn:sha384:c2zkMfZpInYDB5dR6eQ5ObL97GkRJqY7SNq-Ul6oJ7_P-U1m5m0_PuXURYuFP7lw"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Jeremy Barwick (jeremybarwick)"
-author_url = "http://www.flickr.com/people/8569394@N07/"
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/8569394@N07/3419017183"
-title = "Girls in China(town)"
+original_url = "http://www.flickr.com/photos/72825507@N00/3189781853"
+title = "Two attractive young ladies feeling good and walking on the wet sand holding what looks to be giant-sized Dos Equis beer bottles - drinking beer on the beach at sunset"
 [[cards.sides]]
 type = "empty"
 
@@ -326,17 +326,17 @@ text = "El perro está sentado."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:jqaIpcsWXemGwOrMrFqONYZ2ruAQjzck8Ah3Z9R-v7PHFn0jQS8To9SB2oV_Lbw6"
-href = "urn:sha384:WuI49h_AQDONw6S2p494SVGAULI1WXArs__7JOIDJZmxcOQq7DtLJs_p2haG-6o-"
+blob_href = "urn:sha384:KCxxkdxISeqciA201qPVpFCrlK_zx6Lvn02lDm8eYlvNLKJa_f36pUf_FrS0jU1Q"
+href = "urn:sha384:Qx6wOrMrbbQ5IFmGiogel9DptPOj48_HOVGU6iRScqqNgWektGKrCNH9ZnaH_Ffa"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Madalena Pestana (*madalena-pestana* - half of me)"
-author_url = "http://www.flickr.com/people/14299050@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/14299050@N00/492947281"
-title = "a dog that meditates looking at the river"
+author = "Patrick Makhoul (i.embrace)"
+author_url = "http://www.flickr.com/people/30901369@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/30901369@N00/3998158534"
+title = "Friend."
 [[cards.sides]]
 type = "empty"
 
