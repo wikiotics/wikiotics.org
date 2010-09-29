@@ -74,7 +74,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:mqAllQAz0fIxHxu2GJPUOf24ku8Jzr6I1rdEDBFZCly9tf3JIUXJwy7GLckZUOF_"
-href = "urn:sha384:b1lq1qBvm80XNGaUP7oH0aaXUuKUB2vkJ7KWOFJJAZhhmATo-dDtG3qBPoxYv3h6"
+href = "urn:sha384:Liut0NCjLvpeA-D1R9iyRxa2tElpfwk6QlTyQXS6xLXA2hqjuDk_jX5UWcOGg0sC"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -263,17 +263,17 @@ text = "The girls are walking."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:H8NgnpLXlzYHN1qMqwINN0HHtwFA6R5WH82fSpAj30FCFjQsLDKl-Yf6C7izR4bb"
-href = "urn:sha384:UZw62hp4vVcJSjn8SL91kiAZ4iUQn8Ok_fvcsGkBCjV042Jp69a_5bm8urw3-Oku"
+blob_href = "urn:sha384:3IS6H16Kx7Ns9UlGEnD4-F_DYaWuT2iJdnH5l4H7ZLKoT4OpLnJCQtzSChddlCee"
+href = "urn:sha384:Jq-xxPY3OhFl67-VWoIMtHMkt8-D3ma-ex0TckwFjYTb-NxuTjkSiwI2wjlrSO9X"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Jeremy Barwick (jeremybarwick)"
-author_url = "http://www.flickr.com/people/8569394@N07/"
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/8569394@N07/3419017183"
-title = "Girls in China(town)"
+original_url = "http://www.flickr.com/photos/72825507@N00/3189781853"
+title = "Two attractive young ladies feeling good and walking on the wet sand holding what looks to be giant-sized Dos Equis beer bottles - drinking beer on the beach at sunset"
 [[cards.sides]]
 type = "empty"
 
