@@ -1,6 +1,6 @@
 +++
 title = "English lesson - Introduction"
-contributors = [ "127.0.0.1", "ian",]
+contributors = [ "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -73,17 +73,17 @@ text = "This is a dog."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:abzO4XUXgUOwXeImP3-mG1xuOwCxqsjeJDTyOzVsY4BTnP3dzt4BWnsbGFEqqVg2"
-href = "urn:sha384:QXfw55UMk6rQG6NrPPPLGCfDwXVzmg1DurF2tQURaMgA24lLQw80o9pJG2aObCTY"
+blob_href = "urn:sha384:mqAllQAz0fIxHxu2GJPUOf24ku8Jzr6I1rdEDBFZCly9tf3JIUXJwy7GLckZUOF_"
+href = "urn:sha384:b1lq1qBvm80XNGaUP7oH0aaXUuKUB2vkJ7KWOFJJAZhhmATo-dDtG3qBPoxYv3h6"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Jon (simpler)"
-author_url = "http://www.flickr.com/people/69907433@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/69907433@N00/2566305953"
-title = "deathkiller"
+author = "Ian Stannard (Silly Little Man)"
+author_url = "http://www.flickr.com/people/44036847@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/44036847@N05/4941513064"
+title = "Alfie"
 [[cards.sides]]
 type = "empty"
 
@@ -326,17 +326,17 @@ text = "The dog is sitting."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:jqaIpcsWXemGwOrMrFqONYZ2ruAQjzck8Ah3Z9R-v7PHFn0jQS8To9SB2oV_Lbw6"
-href = "urn:sha384:WuI49h_AQDONw6S2p494SVGAULI1WXArs__7JOIDJZmxcOQq7DtLJs_p2haG-6o-"
+blob_href = "urn:sha384:KCxxkdxISeqciA201qPVpFCrlK_zx6Lvn02lDm8eYlvNLKJa_f36pUf_FrS0jU1Q"
+href = "urn:sha384:sPyDf8OvlxLHGGHrEzdNAO4cjhCEN2YVmvKXRkCFhRD2VwsPHI7_rs0wK6I54N3t"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Madalena Pestana (*madalena-pestana* - half of me)"
-author_url = "http://www.flickr.com/people/14299050@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/14299050@N00/492947281"
-title = "a dog that meditates looking at the river"
+author = "Patrick Makhoul (i.embrace)"
+author_url = "http://www.flickr.com/people/30901369@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/30901369@N00/3998158534"
+title = "Friend."
 [[cards.sides]]
 type = "empty"
 
