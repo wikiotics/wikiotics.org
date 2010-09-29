@@ -326,17 +326,17 @@ text = "狗坐在"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:jqaIpcsWXemGwOrMrFqONYZ2ruAQjzck8Ah3Z9R-v7PHFn0jQS8To9SB2oV_Lbw6"
-href = "urn:sha384:WuI49h_AQDONw6S2p494SVGAULI1WXArs__7JOIDJZmxcOQq7DtLJs_p2haG-6o-"
+blob_href = "urn:sha384:KCxxkdxISeqciA201qPVpFCrlK_zx6Lvn02lDm8eYlvNLKJa_f36pUf_FrS0jU1Q"
+href = "urn:sha384:ABL_88-uQqHnTG16K-CUkGTNvfMwBJbz2fDxbh-dIktYmBVPt-vsRt9nKInMGpz7"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Madalena Pestana (*madalena-pestana* - half of me)"
-author_url = "http://www.flickr.com/people/14299050@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/14299050@N00/492947281"
-title = "a dog that meditates looking at the river"
+author = "Patrick Makhoul (i.embrace)"
+author_url = "http://www.flickr.com/people/30901369@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/30901369@N00/3998158534"
+title = "Friend."
 [[cards.sides]]
 type = "empty"
 
