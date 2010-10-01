@@ -1,6 +1,6 @@
 +++
 title = "English lesson - Weather"
-contributors = [ "ian",]
+contributors = [ "ian", "trose",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -10,17 +10,17 @@ text = "It is raining."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:8CnHPDO32SoZ0zUVuePR801KcOMzyjzrwZ9W8-MbkprO_EGN7QHry7kLa4RhxWJ-"
-href = "urn:sha384:z0SL0O1ZzF1zFmvsXw7oQyESju0PAt8bN6VQ8xTQZajtQrE-U2ijYM_r98lZ53Mp"
+blob_href = "urn:sha384:uyxutqiVDj7SqoPfjeOX7anq2zIhPh9oQUmJkCcV2d49pSIzTlZz6Vuly6Xgnxn9"
+href = "urn:sha384:Ib8t6_Rh99crJf4cFi1Gc3pqXtOXZCGfNx1vXObT4osGvXShLjXz_Ds1iccT_8N3"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Greg Younger (gregor_y)"
-author_url = "http://www.flickr.com/people/96552722@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/96552722@N00/3414898801"
-title = "GYpix4068_rain"
+author = "eyeliam (eyeliam)"
+author_url = "http://www.flickr.com/people/8566600@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8566600@N07/5016576378"
+title = "IMG_1001"
 [[cards.sides]]
 type = "empty"
 
@@ -31,17 +31,17 @@ text = "It is sunny."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:8CLFDSoNSiDVmr6qAsqIvBk6Z02d0M4LnTsarL30QdZNfVYVy-sYN9cY4IZIRRVV"
-href = "urn:sha384:m1bzU9vyoFaW-X0GEi2phbFZtzTXHWYPvAmGNOWlZ399zrK2AWRIbdRqPxHFDTFV"
+blob_href = "urn:sha384:cgn27hO2V_4xZKYVLkS6jM0PGCL2p4zlQBf3BPelFLkqhwbsYlUgTHAzqOd99uig"
+href = "urn:sha384:s6Ne9jIcF3MIS61xGISFeyYutp3HzLwlwZFRUGwWncl8TZyGCn-G46tcVrurpJiW"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Nicholas (Nicholas_T)"
-author_url = "http://www.flickr.com/people/14922165@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/14922165@N00/2368207024"
-title = "Sky-High"
+author = "Trip McKay (trip.mckay)"
+author_url = "http://www.flickr.com/people/8149415@N06/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/8149415@N06/5040688079"
+title = "Sonne"
 [[cards.sides]]
 type = "empty"
 
@@ -52,17 +52,17 @@ text = "It is cloudy."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:vM9ZJDmj8u-Oe1G_PbS2jtgRN0RLkFX-R80AZgycwzcY2wRwFxrbc_2KpURNTK2g"
-href = "urn:sha384:NIvjbpRv9Yd9S4abKYyHSDLZEMUwcV_TcCxmWDUuBOE-zB2dU2DcW7MMkk6_r3xE"
+blob_href = "urn:sha384:-AqEeokeGyPj9cj3W1BPBIK5X7GEeR4XuUInxceIPILUc_sLFjKeGI8Qs0alG3FP"
+href = "urn:sha384:IA2i3xuCWIzZZAax4N7g_wAH5nRYa7esSUojXZCQZNEpOzzP3yEmvtYpwQt0jBAi"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Angel James de Ocampo (Alarzy)"
-author_url = "http://www.flickr.com/people/32784537@N07/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/32784537@N07/3226592054"
-title = "Eiffel Tower / Dark Clouds"
+author = "Tracy Keller (Tnkntx)"
+author_url = "http://www.flickr.com/people/31166229@N08/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/31166229@N08/4955474921"
+title = "2010 09 03_0481"
 [[cards.sides]]
 type = "empty"
 
