@@ -2,7 +2,7 @@
 title = "Spanish lessons"
 +++
 
-  - [Spanish lesson - Introduction](/en/Spanish_lesson_-_Introduction)
+  - [Introduction](/es/lecci%C3%B3n_introductoria)
   - [Spanish lesson - Modes of
     transportation](/en/Spanish_lesson_-_Modes_of_transportation)
   - [Spanish lesson - Weather](/en/Spanish_lesson_-_Weather)
