@@ -1,6 +1,6 @@
 +++
 title = "weather"
-contributors = [ "ian",]
+contributors = [ "garrison", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is sunny."
+text = "It is sunny with a few clouds."
 type = "phrase"
 
 [[cards.sides]]
