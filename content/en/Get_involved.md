@@ -44,7 +44,7 @@ new formats, and adding new features for the site, all of that is
 software development work being done on ductus.
 
 For a gauge of project activity at any given time, see this site's
-[recent changes](/en/%2Brecent_changes) or the [Ductus development
+[recent changes](/special/recent_changes) or the [Ductus development
 timeline](http://code.ductus.us/timeline).
 
 If you are interested in helping to improve the basic capabilities of
