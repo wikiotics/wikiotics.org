@@ -4,7 +4,7 @@ title = "Sandbox"
 
 something here\!
 
-[\~ian](/en/%7Eian)
+[user:ian](/user/ian)
 
 <table>
 <thead>
