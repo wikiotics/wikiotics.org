@@ -42,3 +42,16 @@ furniture you use, or the environment you live in, or some special terms
 used at work.
 
 Goal: Have many lessons of specialized vocabulary
+
+## Week 5 (?) (November 7)
+
+Translate Ductus, the wiki engine that powers Wikiotics.
+
+Goal: the user interface to Wikiotics should be available in as many
+languages as possible. The interface can be translated through
+[transifex](http://www.transifex.net/projects/p/ductus/c/master/). After
+getting people involved with wikiotics.org for four weeks, we should ask
+our main contributors to help translate the site.
+
+Related development work: mark as many strings as possible for
+translation
