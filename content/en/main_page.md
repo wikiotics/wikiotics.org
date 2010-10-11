@@ -17,14 +17,14 @@ the links below.
 For more information about the project, take a look at the
 [about](/en/about) page and feel free to [contact](/en/contact) us.
 
-#### Licensing
+### Translation push
 
-Everything on this site is available under a [free content
-license](http://en.wikipedia.org/wiki/Free_content#Free_content_licenses).
-Ductus, the wiki engine that powers Wikiotics, is free software licensed
-under the GNU GPL version 3 or later.
+This week (October 11-17) we are trying, as a community, to translate
+the [introductory lesson](/en/Introduction) into as many lessons as
+possible. See [Ian's blog post for
+instructions](http://www.drumbeat.org/content/time-translate).
 
-#### Drumbeat
+### Drumbeat
 
 We have applied for a joint [Mozilla/Shuttleworth Foundation
 fellowship](http://www.mozilla.org/grants/education-fellowship.html)
