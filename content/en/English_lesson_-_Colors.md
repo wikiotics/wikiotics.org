@@ -1,12 +1,12 @@
 +++
 title = "English lesson - Colors"
-contributors = [ "garrison",]
+contributors = [ "garrison", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "white"
+text = "The rose is white"
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "black"
+text = "The shadow is black"
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "red"
+text = "The rose is red"
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "blue"
+text = "The sky is blue"
 type = "phrase"
 
 [[cards.sides]]
