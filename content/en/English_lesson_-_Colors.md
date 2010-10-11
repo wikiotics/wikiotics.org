@@ -90,7 +90,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "green"
+text = "The balls are green"
 type = "phrase"
 
 [[cards.sides]]
@@ -111,7 +111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "yellow"
+text = "The flowers are yellow"
 type = "phrase"
 
 [[cards.sides]]
@@ -132,7 +132,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "orange"
+text = "The fish is orange"
 type = "phrase"
 
 [[cards.sides]]
@@ -153,7 +153,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "purple"
+text = "The orchid is purple"
 type = "phrase"
 
 [[cards.sides]]
@@ -174,7 +174,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "brown"
+text = "The cardboard is brown"
 type = "phrase"
 
 [[cards.sides]]
@@ -195,7 +195,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "gray"
+text = "The sky is gray"
 type = "phrase"
 
 [[cards.sides]]
@@ -216,7 +216,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a rainbow."
+text = "The rainbow is many colorsrainbow."
 type = "phrase"
 
 [[cards.sides]]
@@ -237,7 +237,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "maroon"
+text = "The car is maroon"
 type = "phrase"
 
 [[cards.sides]]
