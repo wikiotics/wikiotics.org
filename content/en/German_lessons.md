@@ -2,4 +2,6 @@
 title = "German lessons"
 +++
 
-  - [German lesson - Introduction](/en/German_lesson_-_Introduction)
+([Jump to German wiki](/en/Deutsch_Lektion))
+
+  - [Introduction](/de/Einf%C3%BChrung)
