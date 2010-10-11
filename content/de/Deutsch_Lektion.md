@@ -1,5 +1,5 @@
 +++
-title = "German lessons"
+title = "Deutsch Lektion"
 +++
 
-  - [German lesson - Introduction](/en/German_lesson_-_Introduction)
+  - [Einführung](/en/Einf%C3%BChrung)
