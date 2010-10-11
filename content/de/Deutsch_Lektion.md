@@ -1,5 +1,6 @@
 +++
 title = "Deutsch Lektion"
+languageCode = "de"
 +++
 
-  - [Einführung](/en/Einf%C3%BChrung)
+  - [Einführung](/de/Einf%C3%BChrung)
