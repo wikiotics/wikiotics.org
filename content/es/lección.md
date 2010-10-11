@@ -3,6 +3,7 @@ title = "lección"
 languageCode = "es"
 +++
 
-Leccións
+Clases de español
 
-[Introductoria](/es/Introductoria)
+[Introductoria](/es/Introductoria)[Transporte](/es/Transporte)[El
+tiempo](/es/El_tiempo)[Flores](/es/Flores)
