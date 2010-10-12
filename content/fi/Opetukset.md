@@ -1,6 +1,6 @@
 +++
-title = "Finnish lessons"
-languageCode = "en"
+title = "Maali oppituntia"
+languageCode = "fi"
 +++
 
-  - [Introduction](/fi/esittely)
+  - [Esittely](/fi/esittely)
