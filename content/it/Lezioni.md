@@ -1,6 +1,6 @@
 +++
-title = "Italian Lessons"
-languageCode = "en"
+title = "Lezioni di Italiano"
+languageCode = "it"
 +++
 
-  - [Introduction](/it/Introduzione)
+  - [Introduzione](/it/Introduzione)
