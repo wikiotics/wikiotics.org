@@ -3,4 +3,4 @@ title = "Bosnian Lessons"
 languageCode = "en"
 +++
 
-  - [Introduction](/en/Bosnian_Introduction)
+  - [Introduction](/bs/introdukcija)
