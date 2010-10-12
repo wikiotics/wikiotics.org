@@ -22,4 +22,4 @@ title = "English lessons"
 
 We should also try to create lessons that contain all the concepts in
 [Basic English](http://en.wikipedia.org/wiki/Basic_English), as well as
-the [Semantic Primes](http://en.wikipedia.org/wiki/Semantic_Primes)
+the [Semantic Primes](http://en.wikipedia.org/wiki/Semantic_primes)
