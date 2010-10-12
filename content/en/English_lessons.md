@@ -21,5 +21,6 @@ title = "English lessons"
   - [Kitchen supplies](/en/Kitchen_supplies)
 
 We should also try to create lessons that contain all the concepts in
-[Basic English](http://en.wikipedia.org/wiki/Basic_English), as well as
-the [Semantic Primes](http://en.wikipedia.org/wiki/Semantic_Primes)
+[Basic English](/en/http%3A//en.wikipedia.org/wiki/Basic_English), as
+well as the [Semantic
+Primes](/en/http%3A//en.wikipedia.org/wiki/Semantic_Primes)
