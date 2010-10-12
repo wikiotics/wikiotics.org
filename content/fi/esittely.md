@@ -1,12 +1,12 @@
 +++
 title = "esittely"
-contributors = [ "127.0.0.1", "ian", "jchan",]
+contributors = [ "127.0.0.1", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Tämä on mies."
+text = "这是一个男人"
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Tämä on nainen."
+text = "这是一个女人"
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Tämä on kissa."
+text = "这是一只猫"
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Tämä on koira."
+text = "这是一只狗"
 type = "phrase"
 
 [[cards.sides]]
@@ -90,7 +90,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Tämä on poika."
+text = "这是一个男孩"
 type = "phrase"
 
 [[cards.sides]]
@@ -111,7 +111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Tämä on tyttö."
+text = "这是一个女孩"
 type = "phrase"
 
 [[cards.sides]]
@@ -133,7 +133,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Mies istuu."
+text = "该名男子正坐在"
 type = "phrase"
 
 [[cards.sides]]
@@ -154,7 +154,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Nainen istuu."
+text = "该名女子正坐在"
 type = "phrase"
 
 [[cards.sides]]
@@ -175,7 +175,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Koira kävelee."
+text = "狗是步行"
 type = "phrase"
 
 [[cards.sides]]
@@ -196,7 +196,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Mies ja nainen kävelevät."
+text = "在男人和女人是步行"
 type = "phrase"
 
 [[cards.sides]]
@@ -217,7 +217,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Poika ja kissa istuvat."
+text = "男孩和猫正坐在"
 type = "phrase"
 
 [[cards.sides]]
@@ -238,7 +238,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Tyttö istuu."
+text = "女孩坐在"
 type = "phrase"
 
 [[cards.sides]]
@@ -259,28 +259,28 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Tytöt kävelee."
+text = "步行的女孩"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:3IS6H16Kx7Ns9UlGEnD4-F_DYaWuT2iJdnH5l4H7ZLKoT4OpLnJCQtzSChddlCee"
-href = "urn:sha384:c2zkMfZpInYDB5dR6eQ5ObL97GkRJqY7SNq-Ul6oJ7_P-U1m5m0_PuXURYuFP7lw"
+blob_href = "urn:sha384:H8NgnpLXlzYHN1qMqwINN0HHtwFA6R5WH82fSpAj30FCFjQsLDKl-Yf6C7izR4bb"
+href = "urn:sha384:UZw62hp4vVcJSjn8SL91kiAZ4iUQn8Ok_fvcsGkBCjV042Jp69a_5bm8urw3-Oku"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Mike Baird (mikebaird)"
-author_url = "http://www.flickr.com/people/72825507@N00/"
+author = "Jeremy Barwick (jeremybarwick)"
+author_url = "http://www.flickr.com/people/8569394@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/72825507@N00/3189781853"
-title = "Two attractive young ladies feeling good and walking on the wet sand holding what looks to be giant-sized Dos Equis beer bottles - drinking beer on the beach at sunset"
+original_url = "http://www.flickr.com/photos/8569394@N07/3419017183"
+title = "Girls in China(town)"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Koira juoksee."
+text = "狗运行"
 type = "phrase"
 
 [[cards.sides]]
@@ -301,7 +301,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Poika juoksee."
+text = "男孩正在运行"
 type = "phrase"
 
 [[cards.sides]]
@@ -322,12 +322,12 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Koira istuu."
+text = "狗坐在"
 type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:KCxxkdxISeqciA201qPVpFCrlK_zx6Lvn02lDm8eYlvNLKJa_f36pUf_FrS0jU1Q"
-href = "urn:sha384:Qx6wOrMrbbQ5IFmGiogel9DptPOj48_HOVGU6iRScqqNgWektGKrCNH9ZnaH_Ffa"
+href = "urn:sha384:ABL_88-uQqHnTG16K-CUkGTNvfMwBJbz2fDxbh-dIktYmBVPt-vsRt9nKInMGpz7"
 mime_type = "image/jpeg"
 type = "picture"
 
