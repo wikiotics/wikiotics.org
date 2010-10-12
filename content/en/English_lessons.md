@@ -17,6 +17,8 @@ title = "English lessons"
   - [Birds of NYC](/en/Birds_of_NYC)
   - [Trees of NYC](/en/Trees_of_NYC)
   - [Spices](/en/Spices)
+  - [Breakfast foods](/en/Breakfast_foods)
+  - [Kitchen supplies](/en/Kitchen_supplies)
 
 We should also try to create lessons that contain all the concepts in
 [Basic English](http://en.wikipedia.org/wiki/Basic_English), as well as
