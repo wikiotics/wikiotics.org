@@ -1,5 +1,6 @@
 +++
 title = "Take a lesson"
+languageCode = "en"
 +++
 
 ## Lessons by language
@@ -14,6 +15,7 @@ title = "Take a lesson"
   - [Portuguese lessons](/en/Portuguese_lessons)
   - [Italian lessons](/en/Italian_lessons)
   - [Dutch lessons](/en/Dutch_lessons)
+  - [Bosnian Introduction](/en/Bosnian_Introduction)
 
 All the pictures come from
 [Flickr](http://www.flickr.com/creativecommons/).
