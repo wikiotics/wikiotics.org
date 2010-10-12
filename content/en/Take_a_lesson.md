@@ -11,6 +11,7 @@ title = "Take a lesson"
   - [Russian lessons](/en/Russian_lessons)
   - [Japanese lessons](/en/Japanese_lessons)
   - [Portuguese lessons](/en/Portuguese_lessons)
+  - [Italian lessons](/en/Italian_lessons)
 
 All the pictures come from
 [Flickr](http://www.flickr.com/creativecommons/).
