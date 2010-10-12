@@ -16,6 +16,7 @@ languageCode = "en"
   - [Italian lessons](/en/Italian_lessons)
   - [Dutch lessons](/en/Dutch_lessons)
   - [Bosnian lessons](/en/Bosnian_lessons)
+  - [Finnish lessons](/en/Finnish_lessons)
 
 All the pictures come from
 [Flickr](http://www.flickr.com/creativecommons/).
