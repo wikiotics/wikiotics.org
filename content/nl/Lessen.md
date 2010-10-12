@@ -1,6 +1,6 @@
 +++
-title = "Dutch Lessons"
-languageCode = "en"
+title = "Nederlandse lessen"
+languageCode = "nl"
 +++
 
-  - [Introduction](/nl/introductie)
+  - [Introductie](/nl/introductie)
