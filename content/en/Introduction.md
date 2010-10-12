@@ -1,12 +1,12 @@
 +++
 title = "Introduction"
-contributors = [ "127.0.0.1", "216.27.154.200", "24.17.184.252", "ian",]
+contributors = [ "127.0.0.1", "216.27.154.200", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Ovo je muškarac."
+text = "This is a man."
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ovo je žena."
+text = "This is a woman."
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ovo je mačka."
+text = "This is a cat."
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ovo je pas."
+text = "This is a dog."
 type = "phrase"
 
 [[cards.sides]]
@@ -90,7 +90,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ovo je dečko."
+text = "This is a boy."
 type = "phrase"
 
 [[cards.sides]]
@@ -111,7 +111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ovo je djevojka."
+text = "This is a girl."
 type = "phrase"
 
 [[cards.sides]]
@@ -133,7 +133,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Muškarac sjedi."
+text = "The man is sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -154,7 +154,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Žena sjedi."
+text = "The woman is sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -175,7 +175,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Pas hoda."
+text = "The dog is walking."
 type = "phrase"
 
 [[cards.sides]]
@@ -196,7 +196,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Muškarac i žena hodaju."
+text = "The man and woman are walking."
 type = "phrase"
 
 [[cards.sides]]
@@ -217,7 +217,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Dečko i mačka sjede."
+text = "The boy and the cat are sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -238,7 +238,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Djevojka sjedi."
+text = "The girl is sitting."
 type = "phrase"
 
 [[cards.sides]]
@@ -259,7 +259,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Djevojke hodaju."
+text = "The girls are walking."
 type = "phrase"
 
 [[cards.sides]]
@@ -280,7 +280,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Pas trči."
+text = "The dog is running."
 type = "phrase"
 
 [[cards.sides]]
@@ -301,7 +301,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Dečko trči."
+text = "The boy is running."
 type = "phrase"
 
 [[cards.sides]]
@@ -322,7 +322,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Pas sjedi."
+text = "The dog is sitting."
 type = "phrase"
 
 [[cards.sides]]
