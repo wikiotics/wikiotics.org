@@ -9,7 +9,8 @@ title = "Take a lesson"
   - [Chinese lessons](/en/Chinese_lessons)
   - [German lessons](/en/German_lessons)
   - [Russian lessons](/en/Russian_lessons)
-  - [Japanese Lessons](/en/Japanese_Lessons)
+  - [Japanese lessons](/en/Japanese_lessons)
+  - [Portuguese lessons](/en/Portuguese_lessons)
 
 All the pictures come from
 [Flickr](http://www.flickr.com/creativecommons/).
