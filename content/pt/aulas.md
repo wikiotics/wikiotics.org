@@ -1,6 +1,6 @@
 +++
-title = "Portuguese Lessons"
-languageCode = "en"
+title = "Aulas de Português"
+languageCode = "pt"
 +++
 
-  - [Introduction](/pt/Introdu%C3%A7%C3%A3o)
+  - [Introdução](/pt/Introdu%C3%A7%C3%A3o)
