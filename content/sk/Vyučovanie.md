@@ -1,6 +1,6 @@
 +++
-title = "Slovak lessons"
-languageCode = "en"
+title = "Slovenské lekcie"
+languageCode = "sk"
 +++
 
-  - [Introduction](/sk/%C3%9Avod)
+  - [Úvod](/sk/%C3%9Avod)
