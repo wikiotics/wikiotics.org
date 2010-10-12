@@ -1,6 +1,6 @@
 +++
-title = "Bosnian Lessons"
-languageCode = "en"
+title = "Bosanski lekcije"
+languageCode = "bs"
 +++
 
-  - [Introduction](/bs/introdukcija)
+  - [introdukcija](/bs/introdukcija)
