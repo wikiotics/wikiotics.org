@@ -1,6 +1,6 @@
 +++
-title = "French lessons"
-languageCode = "en"
+title = "Cours de Français"
+languageCode = "fr"
 +++
 
   - [Introduction](/fr/Introduction)
