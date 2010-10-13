@@ -1,10 +1,9 @@
 +++
 title = "Spanish lessons"
+languageCode = "es"
 +++
 
-([Jump to Spanish wiki](/es/Lecci%C3%B3ns))
-
-  - [Introduction](/es/Introducci%C3%B3n)
-  - [Transportation](/es/Transporte)
-  - [Weather](/es/El_tiempo)
-  - [Flowers](/es/Flores)
+  - [Introducción](/es/Introducci%C3%B3n)
+  - [Transporte](/es/Transporte)
+  - [El tiempo](/es/El_tiempo)
+  - [Flores](/es/Flores)
