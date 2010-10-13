@@ -3,4 +3,4 @@ title = "French lessons"
 languageCode = "en"
 +++
 
-  - [fr:Introduction](/fr/Introduction)
+  - [Introduction](/fr/Introduction)
