@@ -1,12 +1,12 @@
 +++
 title = "Introducción"
-contributors = [ "127.0.0.1", "ian",]
+contributors = [ "127.0.0.1", "84.122.224.189", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Este es un hombre."
+text = "Es un hombre."
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Este es una mujer."
+text = "Es una mujer."
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Este es un gato."
+text = "Es un gato."
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Este es un perro."
+text = "Es un perro."
 type = "phrase"
 
 [[cards.sides]]
@@ -90,7 +90,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Este es un niño."
+text = "Es un niño."
 type = "phrase"
 
 [[cards.sides]]
@@ -111,7 +111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Este es una niña."
+text = "Es una niña."
 type = "phrase"
 
 [[cards.sides]]
@@ -217,7 +217,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "El nino y el gato están sentados."
+text = "El niño y el gato están sentados."
 type = "phrase"
 
 [[cards.sides]]
