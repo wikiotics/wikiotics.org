@@ -19,6 +19,8 @@ languageCode = "en"
   - [Finnish lessons](/en/Finnish_lessons)
   - [Slovak lessons](/en/Slovak_lessons)
   - [Hebrew lessons](/en/Hebrew_lessons)
+  - [French lessons](/en/French_lessons)
+  - [Afrikaans lessons](/en/Afrikaans_lessons)
 
 All the pictures come from
 [Flickr](http://www.flickr.com/creativecommons/).
