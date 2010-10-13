@@ -8,9 +8,9 @@ The resources provided by Wikiotics are meant to help both teachers and
 students involved in language learning.
 
 So far, we have built a "picture choice" lesson type (see [a sample
-English lesson](/en/English_Lesson_-_Introduction)), which is a flexible
-format for helping to improve a student's vocabulary and naturally
-introducing basic grammar.
+English lesson](/en/Introduction)), which is a flexible format for
+helping to improve a student's vocabulary and naturally introducing
+basic grammar.
 
 If you want to create a new lesson to test out the system, simply add a
 new link to any existing page and save the page. When you follow the
@@ -43,9 +43,8 @@ For example, I like the English lesson about different [weather
 types](http://alpha.wikiotics.org/wiki/English_lesson_-_Weather) and I
 wanted to make a Spanish version. So I went to the lesson page and
 clicked on "copy." When it asked me where to move the lesson I entered
-"Spanish\_lesson\_-\_Weather" and hit enter, which brought me to the new
-[Spanish weather
-lesson](http://alpha.wikiotics.org/wiki/Spanish_lesson_-_Weather). At
-this point my Spanish lesson is still in English so I hit the "edit"
-button and started translating. Since I want to share this new lesson I
-added it to the [Spanish\_lessons](/en/Spanish_lessons) page. That's it.
+"es:El tiempo" and hit enter, which brought me to the new [Spanish
+weather lesson](/es/El_tiempo). At this point my Spanish lesson is still
+in English so I hit the "edit" button and started translating. Since I
+want to share this new lesson I added it to the
+[Spanish\_lessons](/en/Spanish_lessons) page. That's it.
