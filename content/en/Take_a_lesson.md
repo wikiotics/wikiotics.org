@@ -21,6 +21,7 @@ languageCode = "en"
   - [Hebrew lessons](/en/Hebrew_lessons)
   - [French lessons](/en/French_lessons)
   - [Afrikaans lessons](/en/Afrikaans_lessons)
+  - [Catalan lessons](/en/Catalan_lessons)
 
 All the pictures come from
 [Flickr](http://www.flickr.com/creativecommons/).
