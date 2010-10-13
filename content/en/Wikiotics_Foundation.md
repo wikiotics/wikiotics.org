@@ -8,8 +8,8 @@ software tools and materials for collaborative language instruction.
 
 ## Board of directors
 
-  - [Ian Sullivan](/en/%7Eian), President and Treasurer
-  - [Jim Garrison](/en/%7Egarrison), Vice President
+  - [Ian Sullivan](/user/ian), President and Treasurer
+  - [Jim Garrison](/user/garrison), Vice President
   - Aaron Williamson, Secretary
 
 ## Other info
