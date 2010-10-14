@@ -1,12 +1,12 @@
 +++
 title = "Intruction"
-contributors = [ "127.0.0.1", "216.27.154.200", "ian",]
+contributors = [ "127.0.0.1", "216.27.154.200", "41.18.183.76", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a man."
+text = "Die is 'n man."
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a woman."
+text = "Die is 'n vrou."
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a cat."
+text = "Dit is 'n kat."
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a dog."
+text = "Dit is 'n hond."
 type = "phrase"
 
 [[cards.sides]]
@@ -90,7 +90,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a boy."
+text = "Die is 'n seun."
 type = "phrase"
 
 [[cards.sides]]
@@ -111,7 +111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a girl."
+text = "Die is 'n meisie."
 type = "phrase"
 
 [[cards.sides]]
@@ -133,7 +133,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The man is sitting."
+text = "Die man sit."
 type = "phrase"
 
 [[cards.sides]]
@@ -154,7 +154,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The woman is sitting."
+text = "Die vrou sit."
 type = "phrase"
 
 [[cards.sides]]
@@ -175,7 +175,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The dog is walking."
+text = "Die hond loop."
 type = "phrase"
 
 [[cards.sides]]
@@ -196,7 +196,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The man and woman are walking."
+text = "Die man en die vrou loop."
 type = "phrase"
 
 [[cards.sides]]
@@ -217,7 +217,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy and the cat are sitting."
+text = "Die seun en die kat sit."
 type = "phrase"
 
 [[cards.sides]]
@@ -238,7 +238,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The girl is sitting."
+text = "Die meisie sit."
 type = "phrase"
 
 [[cards.sides]]
@@ -259,7 +259,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The girls are walking."
+text = "Die meisies loop."
 type = "phrase"
 
 [[cards.sides]]
@@ -280,7 +280,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The dog is running."
+text = "Die hond hardloop."
 type = "phrase"
 
 [[cards.sides]]
@@ -301,7 +301,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy is running."
+text = "Die seun hardloop."
 type = "phrase"
 
 [[cards.sides]]
@@ -322,7 +322,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The dog is sitting."
+text = "Die hond sit."
 type = "phrase"
 
 [[cards.sides]]
