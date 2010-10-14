@@ -2,4 +2,7 @@
 title = "lessons"
 +++
 
-Here is the list of Ian's lessons
+This is the list of lessons I have personally made and/or corrected.
+
+  - [Introduction](/user/ian/Introduction)
+  - [Weather](/user/ian/Weather)
