@@ -13,7 +13,7 @@ in other somewhat recent and popular browsers.
 Eventually we may wish to test each browser on multiple platforms, but
 for now testing each browser on any given platform should work.
 
-  - Firefox 2.0, 3.0, 3.5, 3.6
+  - Firefox 2.0, 3.0, 3.5, 3.6, 4.0
   - Internet Explorer 7, 8. (IE6 is not supported.)
   - Chromium
   - Safari 3, 4
