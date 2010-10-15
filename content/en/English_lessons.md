@@ -18,6 +18,7 @@ title = "English lessons"
   - [Trees of NYC](/en/Trees_of_NYC)
   - [Spices](/en/Spices)
   - [Breakfast foods](/en/Breakfast_foods)
+  - [Food types](/en/Food)
   - [Kitchen supplies](/en/Kitchen_supplies)
 
 We should also try to create lessons that contain all the concepts in
