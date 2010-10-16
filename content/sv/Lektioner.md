@@ -1,6 +1,6 @@
 +++
-title = "Swedish lessons"
-languageCode = "en"
+title = "Svenska lektioner"
+languageCode = "sv"
 +++
 
-  - [Introduction](/sv/Inledning)
+  - [Inledning](/sv/Inledning)
