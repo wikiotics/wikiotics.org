@@ -35,7 +35,7 @@ title = "Other projects of interest"
   - [LanguageGuide.org](http://languageguide.org/)
   - [Language Learning
     Reddit](http://www.reddit.com/r/languagelearning/) (see [all-time
-    top posts](http://www.reddit.com/r/languagelearning/top/))
+    top posts](http://www.reddit.com/r/languagelearning/top/?t=all))
   - [Learn Any Language
     (Wikia)](http://learnanylanguage.wikia.com/wiki/Learn_Any_Language),
     a community which also provides the \#learnanylanguage IRC channel
