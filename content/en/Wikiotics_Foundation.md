@@ -28,4 +28,5 @@ instead.
 
   - We may want to post the certificate of incorporation and other
     documents for the highest possible level of transparency
-  - We should set up a system for donating to the Wikiotics Foundation
+  - We should set up an automated system for donating to the Wikiotics
+    Foundation that does not require contacting donate@wikiotics.org.
