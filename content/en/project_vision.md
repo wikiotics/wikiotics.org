@@ -1,11 +1,13 @@
 +++
 title = "project vision"
+languageCode = "en"
 +++
 
 ## Vision
 
-[wiki](http://en.wikipedia.org/wiki/Wiki) +
-[semiotics](http://en.wikipedia.org/wiki/Semiotics) = wikiotics
+[Wiki](https://secure.wikimedia.org/wikipedia/en/wiki/Wiki) +
+[semiotics](https://secure.wikimedia.org/wikipedia/en/wiki/Semiotics) =
+Wikiotics
 
 ### Historically
 
@@ -64,5 +66,6 @@ Everything we're doing here is for other people to share.
 The software we're building to let people build and share lessons,
 called [Ductus](http://ductus.us/), is licensed as free software under
 the [GPL](http://www.gnu.org/copyleft/gpl.html). All content contributed
-to the site will be licensed under a [free content
-license](http://en.wikipedia.org/wiki/Free_content#Free_content_licenses).
+to the site will be licensed under the [Creative Commons
+Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+license.
