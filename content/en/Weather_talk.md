@@ -16,6 +16,8 @@ people like best into the main lesson.
 
 ## Discussion
 
+![Warm dog](/en/Warm_dog?view=image&max_size=250,250 "Warm dog")
+
 I liked the dog w/ heat lamp for "warm" mostly because it was the only
 one even remotely appropriate that showed up while searching for "warm"
 on flickr and I couldn't think of other terms to search for that would
