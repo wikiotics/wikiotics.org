@@ -136,17 +136,17 @@ text = "It is cool."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:PM1ay82oq5je8Zii0l0v9wDC9WV9egs78PGjUdTMLh9ays2t0KaYa8eXnICz9HEB"
-href = "urn:sha384:Wp9bGHnmWBgGno82YTxTChIUw2m_hZQrhsD555TS62vuelsns2ZfPjHFyQ3Gi7-U"
+blob_href = "urn:sha384:PdR-GohxhsnScAZfW2ejvaLBU6UZRNrnQpIHzuujwAqKBkXaNir32wYozyuWIWVk"
+href = "urn:sha384:gkBxn2uh3rWlCvgoDzIVKD_jPTIA1zGOUiNis788AasJfGebC7F69viX4q4PBbPI"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (robotpolisher)"
-author_url = "http://www.flickr.com/people/72669580@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/72669580@N00/452421915"
-title = "Nubbe"
+author = "Fresco Tours (Fresco Tours)"
+author_url = "http://www.flickr.com/people/72303220@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72303220@N00/5061899484"
+title = "Basque Country Tour - October 2010"
 [[cards.sides]]
 type = "empty"
 
@@ -157,17 +157,18 @@ text = "It is warm."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:ixioq7RBfvG7u4_pTHgyoZh4eRtBSxQEpszBzM-OCvZ4hI8T0HvdBVElm1kn-hve"
-href = "urn:sha384:e8hMy-JEHG_uhl0Ki6MCc8SPKcTsgLyyk6I6pMKIsjM0_nrNZbLtEux12Ri9QyPg"
+blob_href = "urn:sha384:zW3x9DvGQH_f95XAE7l0iGe-4CUP1aBfwLTux1qGwwi_lAPQ3r5UuhF4fhEO_54K"
+href = "urn:sha384:uZrV9oupXWR9-9ZtlU9iLgnXJniRoOQBVFg7yOyokjotZx6Fwk6J8N_imQadssy1"
 mime_type = "image/jpeg"
+rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
-author = "Gopal Aggarwal (gopal1035)"
-author_url = "http://www.flickr.com/people/21375717@N00/"
+author = "dennis crowley (dpstyles™)"
+author_url = "http://www.flickr.com/people/77725780@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/21375717@N00/3241446830"
-title = "Oh my! It's so cold..."
+original_url = "http://www.flickr.com/photos/77725780@N00/4947761807"
+title = "Aftermath of 7:30am soccer practice with @XtianTwit"
 [[cards.sides]]
 type = "empty"
 
