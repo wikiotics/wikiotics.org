@@ -1,6 +1,6 @@
 +++
 title = "Weather"
-contributors = [ "ian",]
+contributors = [ "ian", "jchan",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -10,17 +10,17 @@ text = "It is raining."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:8CnHPDO32SoZ0zUVuePR801KcOMzyjzrwZ9W8-MbkprO_EGN7QHry7kLa4RhxWJ-"
-href = "urn:sha384:z0SL0O1ZzF1zFmvsXw7oQyESju0PAt8bN6VQ8xTQZajtQrE-U2ijYM_r98lZ53Mp"
+blob_href = "urn:sha384:eOE0TC4rTvv0Bja6Tb9YkieTfaZzrC0MzR_QectbGcTfMhBwjCO9snn75pJ5lgzs"
+href = "urn:sha384:g-0pzScOp1AqPyyvdZYpHJvoW5pSBnnW6TcVxBKjvk951IJbiT61-bhZp9RJYrBs"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Greg Younger (gregor_y)"
-author_url = "http://www.flickr.com/people/96552722@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/96552722@N00/3414898801"
-title = "GYpix4068_rain"
+author = "Stuart Grout (recursivedreamer)"
+author_url = "http://www.flickr.com/people/36084044@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36084044@N07/5071554415"
+title = "BW_BessaR2_392.jpg"
 [[cards.sides]]
 type = "empty"
 
@@ -31,17 +31,17 @@ text = "It is sunny."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:8CLFDSoNSiDVmr6qAsqIvBk6Z02d0M4LnTsarL30QdZNfVYVy-sYN9cY4IZIRRVV"
-href = "urn:sha384:m1bzU9vyoFaW-X0GEi2phbFZtzTXHWYPvAmGNOWlZ399zrK2AWRIbdRqPxHFDTFV"
+blob_href = "urn:sha384:nHIZG-5-YEu8yo23SNQXPh8b_G80DUZz3KBidraGhGLimIOCzmfzxUT6AdKvVzPz"
+href = "urn:sha384:ZLAGbwUtvHGmJj-BFU8meHFqcFbTfaoDpJ90FT2VGI8H87qDpt0V_NbvwcTzgwhT"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Nicholas (Nicholas_T)"
-author_url = "http://www.flickr.com/people/14922165@N00/"
+author = "Jean G (whatjeanlikes)"
+author_url = "http://www.flickr.com/people/52132044@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/14922165@N00/2368207024"
-title = "Sky-High"
+original_url = "http://www.flickr.com/photos/52132044@N07/5012671383"
+title = "Sunshine and clouds"
 [[cards.sides]]
 type = "empty"
 
@@ -52,17 +52,17 @@ text = "It is cloudy."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:vM9ZJDmj8u-Oe1G_PbS2jtgRN0RLkFX-R80AZgycwzcY2wRwFxrbc_2KpURNTK2g"
-href = "urn:sha384:NIvjbpRv9Yd9S4abKYyHSDLZEMUwcV_TcCxmWDUuBOE-zB2dU2DcW7MMkk6_r3xE"
+blob_href = "urn:sha384:hkX3QA0cgG--bpP9iOPBQ3A81lC1lDh6kepuxKC8KzzgNELXU1wdI0y8GoaOS5xa"
+href = "urn:sha384:f5DT4qs78GhqJzlWiVNH7UOZDcnEza2fKJSPXSMJuMn8WIL1FZD6QWeClAcD6rkX"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Angel James de Ocampo (Alarzy)"
-author_url = "http://www.flickr.com/people/32784537@N07/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/32784537@N07/3226592054"
-title = "Eiffel Tower / Dark Clouds"
+author = "John C (Camera John)"
+author_url = "http://www.flickr.com/people/40332350@N03/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/40332350@N03/5086159053"
+title = "Autumn Clouds"
 [[cards.sides]]
 type = "empty"
 
@@ -73,17 +73,17 @@ text = "It is snowing."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:iUMK7TV_38xULFX3DZMMjrvGQk4ZebrA-8EGd2BMckTa8mcW7RV3Bz7CA9A56tUZ"
-href = "urn:sha384:ZtWqOw3Akm_NwFhC412EYNzYiXGwMLVcLJHq3HHZvWkuv1IkWmpzKAdQlAVbRwtr"
+blob_href = "urn:sha384:co16TohhHW38dsTLWmxs8JI5PaB2QistaHNh6e9XmMdF-Em6lENV6XQOAnutReBw"
+href = "urn:sha384:F4YyYP2dBPhC6FPXfVbr6Pn6Qh1Z7OVJoEnUifF6lNyEnhIESCQrNi0uilWFt6SD"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "hobvias sudoneighm (striatic)"
-author_url = "http://www.flickr.com/people/34427466731@N01/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/34427466731@N01/130322776"
-title = "snowing in Deadmonton ~ green light"
+author = "Jeff Kubina (Jeff Kubina)"
+author_url = "http://www.flickr.com/people/95118988@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/95118988@N00/4994303831"
+title = "Blizzard 2010"
 [[cards.sides]]
 type = "empty"
 
@@ -94,17 +94,17 @@ text = "It is cold."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:7ERTeqjs8yIUam-HEL36NEihvXnqLqJRREAscB-QPzHiIl_3M6gEORDheOoa3ZzP"
-href = "urn:sha384:rrfTpcnepPYPdcOUT7Qvia2XI03Sm7xaT7kCUmQ8t_XU1QR3jUhL2auRxxYgumn2"
+blob_href = "urn:sha384:Kge3-JflSwQO5hWTgDla6BO_S5r51m5ABom116OcQnhQjiN02v0SxLFyAoFYFM3U"
+href = "urn:sha384:D85Dey2ihxTdV5cJKBuGG4NQaWST701A88WuzKTYr7xJnV22WajN3dL_LZ4I-qqW"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Ed Yourdon (Ed Yourdon)"
-author_url = "http://www.flickr.com/people/72098626@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/72098626@N00/3103061519"
-title = "Ready for the North Pole"
+author = "Janne Hellsten (nurpax)"
+author_url = "http://www.flickr.com/people/50813633@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/50813633@N00/4203436995"
+title = "brrr"
 [[cards.sides]]
 type = "empty"
 
