@@ -19,10 +19,10 @@ For more information about the project, take a look at the
 
 ### Translation push
 
-This week (October 11-17) we are trying, as a community, to translate
-the [introductory lesson](/en/Introduction) into as many lessons as
-possible. See [Ian's blog post for
-instructions](http://www.drumbeat.org/content/time-translate).
+This week (October 18-24) we are trying, as a community, to find the
+best pictures to [describe the weather](/en/Weather_talk). See [Ian's
+blog post for
+instructions](https://www.drumbeat.org/content/common-goal-talking-about-weather).
 
 ### Drumbeat
 
