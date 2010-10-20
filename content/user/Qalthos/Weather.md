@@ -10,17 +10,17 @@ text = "It is raining."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:EWQMpaKacwz3aex63bE5Mb07RcZ5Dnh4YbN-z-1dA8aZp4Nf0cB0JS85Vc7p7sts"
-href = "urn:sha384:b02oIFuNEVUbPRls_c5blyAgvmQX6vVbGuYyYzpMD6UlR2aOKpxXowguvefm3Swl"
+blob_href = "urn:sha384:NKPWZFE9fQs1NSp7TTcQU6iz49LcGMvkVol4RWDxhW5PeAlljqiHqavnsNy83F9s"
+href = "urn:sha384:_IgUZDIpUm5B9bBNQXW6dkBk7yTAHF7xMJJaBUEgLlJoSfHN9ZAnYHJzIPvp5Lju"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Raymond Shobe (bossco)"
-author_url = "http://www.flickr.com/people/43521640@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/43521640@N00/5098660774"
-title = "Ghostly Sugar Pine 10.19.2010"
+author = "Laurie Avocado (lavocado@sbcglobal.net)"
+author_url = "http://www.flickr.com/people/90809455@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/90809455@N00/5094454242"
+title = "A Vernon Kind of Day"
 [[cards.sides]]
 type = "empty"
 
