@@ -1,12 +1,12 @@
 +++
 title = "Giriş"
-contributors = [ "127.0.0.1", "216.27.154.200", "ian",]
+contributors = [ "127.0.0.1", "216.27.154.200", "78.162.185.148", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a man."
+text = "Bu bir adam."
 type = "phrase"
 
 [[cards.sides]]
