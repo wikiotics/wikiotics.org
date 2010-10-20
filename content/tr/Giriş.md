@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a woman."
+text = "Bu bir kadın."
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a cat."
+text = "Bu bir kedi."
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a dog."
+text = "Bu bir köpek."
 type = "phrase"
 
 [[cards.sides]]
@@ -90,7 +90,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a boy."
+text = "Bu bir oğlan."
 type = "phrase"
 
 [[cards.sides]]
@@ -111,7 +111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a girl."
+text = "Bu bir kız."
 type = "phrase"
 
 [[cards.sides]]
@@ -133,7 +133,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The man is sitting."
+text = "Adam oturuyor."
 type = "phrase"
 
 [[cards.sides]]
@@ -154,7 +154,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The woman is sitting."
+text = "Kadın oturuyor."
 type = "phrase"
 
 [[cards.sides]]
@@ -175,7 +175,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The dog is walking."
+text = "Köpek yürüyor."
 type = "phrase"
 
 [[cards.sides]]
@@ -196,7 +196,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The man and woman are walking."
+text = "Adam ve kadın yürüyor."
 type = "phrase"
 
 [[cards.sides]]
@@ -217,7 +217,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy and the cat are sitting."
+text = "Oğlan ve kedi oturuyor."
 type = "phrase"
 
 [[cards.sides]]
@@ -238,7 +238,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The girl is sitting."
+text = "Kız oturuyor."
 type = "phrase"
 
 [[cards.sides]]
@@ -259,7 +259,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The girls are walking."
+text = "Kızlar yürüyor."
 type = "phrase"
 
 [[cards.sides]]
@@ -280,7 +280,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The dog is running."
+text = "Köpek koşuyor."
 type = "phrase"
 
 [[cards.sides]]
@@ -301,7 +301,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy is running."
+text = "Oğlan koşuyor."
 type = "phrase"
 
 [[cards.sides]]
@@ -322,7 +322,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The dog is sitting."
+text = "Köpek oturuyor."
 type = "phrase"
 
 [[cards.sides]]
