@@ -12,7 +12,9 @@ people like best into the main lesson.
 
 ## User versions
 
-[user:ian/Weather](/user/ian/Weather)
+  - [user:ian/Weather](/user/ian/Weather)
+  - [user:jchan/Weather](/user/jchan/Weather)
+  - [user:Qalthos/Weather](/user/Qalthos/Weather)
 
 ## Discussion
 
