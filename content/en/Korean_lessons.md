@@ -3,4 +3,4 @@ title = "Korean Lessons"
 languageCode = "en"
 +++
 
-  - [Introduction](http://alpha.wikiotics.org/ko/소개)
+  - [Introduction](/ko/%EC%86%8C%EA%B0%9C)
