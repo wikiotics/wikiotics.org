@@ -1,6 +1,6 @@
 +++
 title = "Weather"
-contributors = [ "ian",]
+contributors = [ "Qalthos", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -10,17 +10,17 @@ text = "It is raining."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:8CnHPDO32SoZ0zUVuePR801KcOMzyjzrwZ9W8-MbkprO_EGN7QHry7kLa4RhxWJ-"
-href = "urn:sha384:z0SL0O1ZzF1zFmvsXw7oQyESju0PAt8bN6VQ8xTQZajtQrE-U2ijYM_r98lZ53Mp"
+blob_href = "urn:sha384:EWQMpaKacwz3aex63bE5Mb07RcZ5Dnh4YbN-z-1dA8aZp4Nf0cB0JS85Vc7p7sts"
+href = "urn:sha384:b02oIFuNEVUbPRls_c5blyAgvmQX6vVbGuYyYzpMD6UlR2aOKpxXowguvefm3Swl"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Greg Younger (gregor_y)"
-author_url = "http://www.flickr.com/people/96552722@N00/"
+author = "Raymond Shobe (bossco)"
+author_url = "http://www.flickr.com/people/43521640@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/96552722@N00/3414898801"
-title = "GYpix4068_rain"
+original_url = "http://www.flickr.com/photos/43521640@N00/5098660774"
+title = "Ghostly Sugar Pine 10.19.2010"
 [[cards.sides]]
 type = "empty"
 
