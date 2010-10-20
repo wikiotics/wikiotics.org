@@ -23,6 +23,9 @@ languageCode = "en"
   - [Afrikaans lessons](/en/Afrikaans_lessons)
   - [Catalan lessons](/en/Catalan_lessons)
   - [Swedish lessons](/en/Swedish_lessons)
+  - [Turkish lessons](/en/Turkish_lessons)
+  - [Icelandic lessons](/en/Icelandic_lessons)
+  - [Korean lessons](/en/Korean_lessons)
 
 All the pictures come from
 [Flickr](http://www.flickr.com/creativecommons/).
