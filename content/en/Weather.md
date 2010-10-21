@@ -1,6 +1,6 @@
 +++
 title = "Weather"
-contributors = [ "ian", "stevensne",]
+contributors = [ "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -10,17 +10,17 @@ text = "It is raining."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:5xpB364YqJ3ej3gBVTuTTAIrrN2gGl77IULd8y6MqMMK4m5NpFWny0w8O_dFREvK"
-href = "urn:sha384:XnoHfld6S0Xm8FVyev_gFdoLWHNMmyWCt7aJXrELBsdzEgFc1ty85VhC7oo4a978"
+blob_href = "urn:sha384:8CnHPDO32SoZ0zUVuePR801KcOMzyjzrwZ9W8-MbkprO_EGN7QHry7kLa4RhxWJ-"
+href = "urn:sha384:z0SL0O1ZzF1zFmvsXw7oQyESju0PAt8bN6VQ8xTQZajtQrE-U2ijYM_r98lZ53Mp"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Ed Yourdon (Ed Yourdon)"
-author_url = "http://www.flickr.com/people/72098626@N00/"
+author = "Greg Younger (gregor_y)"
+author_url = "http://www.flickr.com/people/96552722@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/72098626@N00/4212964637"
-title = "Something is wrong here: why does the mother have the umbrella, and the kids are getting rained on?"
+original_url = "http://www.flickr.com/photos/96552722@N00/3414898801"
+title = "GYpix4068_rain"
 [[cards.sides]]
 type = "empty"
 
@@ -31,17 +31,17 @@ text = "It is sunny."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:SYomXc-S05zhep2CYZTJzupdjHOtIg2IuGJjGZmMQQaL7IUSJmGufEb73se-hIiP"
-href = "urn:sha384:50eueZm5i69CR29ZPw_DP1lVXdgIUSKC1iBHkpVOGD-25j4NnK7kS9H8iv7cqIMd"
+blob_href = "urn:sha384:8CLFDSoNSiDVmr6qAsqIvBk6Z02d0M4LnTsarL30QdZNfVYVy-sYN9cY4IZIRRVV"
+href = "urn:sha384:m1bzU9vyoFaW-X0GEi2phbFZtzTXHWYPvAmGNOWlZ399zrK2AWRIbdRqPxHFDTFV"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Alyssa Miller (Alyssa L. Miller)"
-author_url = "http://www.flickr.com/people/34701044@N06/"
+author = "Nicholas (Nicholas_T)"
+author_url = "http://www.flickr.com/people/14922165@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/34701044@N06/5035768360"
-title = "Sunwalk"
+original_url = "http://www.flickr.com/photos/14922165@N00/2368207024"
+title = "Sky-High"
 [[cards.sides]]
 type = "empty"
 
@@ -52,17 +52,17 @@ text = "It is cloudy."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:xnjG377Scd1OJuj_Ehdkusrw_Fv0VE4jj7tCRojbg5NXgwWul7WME64reBByiqEa"
-href = "urn:sha384:0tbMxe7jFWjvTPZ22iWOdV7nlX51zcEe9ECpMUeIeLV_TA_qFobHXRf99T-vvjzU"
+blob_href = "urn:sha384:vM9ZJDmj8u-Oe1G_PbS2jtgRN0RLkFX-R80AZgycwzcY2wRwFxrbc_2KpURNTK2g"
+href = "urn:sha384:NIvjbpRv9Yd9S4abKYyHSDLZEMUwcV_TcCxmWDUuBOE-zB2dU2DcW7MMkk6_r3xE"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Ian Muttoo (Ian Muttoo)"
-author_url = "http://www.flickr.com/people/20741443@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/20741443@N00/491132209"
-title = "May Sky Panorama"
+author = "Angel James de Ocampo (Alarzy)"
+author_url = "http://www.flickr.com/people/32784537@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/32784537@N07/3226592054"
+title = "Eiffel Tower / Dark Clouds"
 [[cards.sides]]
 type = "empty"
 
@@ -73,17 +73,17 @@ text = "It is snowing."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Nhf5azk9CWddEodzaHhJNcNE3IiPnsWZ02Slr1PQPJePPigPNI_26da_mpbWnsx_"
-href = "urn:sha384:5kZwEp3Z_Ny7v5ZornD4D5-c5t_v0MYpgOYqjJlT_LGlneLqj_omIJ23hKqfyEkT"
+blob_href = "urn:sha384:iUMK7TV_38xULFX3DZMMjrvGQk4ZebrA-8EGd2BMckTa8mcW7RV3Bz7CA9A56tUZ"
+href = "urn:sha384:ZtWqOw3Akm_NwFhC412EYNzYiXGwMLVcLJHq3HHZvWkuv1IkWmpzKAdQlAVbRwtr"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Nelson Pavlosky (skyfaller)"
-author_url = "http://www.flickr.com/people/41894169422@N01/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/41894169422@N01/5097622604"
-title = "Blizzard"
+author = "hobvias sudoneighm (striatic)"
+author_url = "http://www.flickr.com/people/34427466731@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/34427466731@N01/130322776"
+title = "snowing in Deadmonton ~ green light"
 [[cards.sides]]
 type = "empty"
 
@@ -94,17 +94,17 @@ text = "It is cold."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:RIxWacXR1A57MimhMbK7x-HRNicYeaqI2ax88pArb1mk5Tv4vQ31F16oQ89pwPQA"
-href = "urn:sha384:vddKBpR8koeeIUU4KVU5I_cA215Uyghizyxv6j7j8A-zSQdtaOEKHKmkBqfoMMeY"
+blob_href = "urn:sha384:7ERTeqjs8yIUam-HEL36NEihvXnqLqJRREAscB-QPzHiIl_3M6gEORDheOoa3ZzP"
+href = "urn:sha384:rrfTpcnepPYPdcOUT7Qvia2XI03Sm7xaT7kCUmQ8t_XU1QR3jUhL2auRxxYgumn2"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Edward Simpson (Ed.ward)"
-author_url = "http://www.flickr.com/people/44423341@N00/"
+author = "Ed Yourdon (Ed Yourdon)"
+author_url = "http://www.flickr.com/people/72098626@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/44423341@N00/4850299948"
-title = "Some people"
+original_url = "http://www.flickr.com/photos/72098626@N00/3103061519"
+title = "Ready for the North Pole"
 [[cards.sides]]
 type = "empty"
 
@@ -115,17 +115,17 @@ text = "It is hot."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:_WRM7P6dOdBEkYli3ZvoC31wQze0DnrXCrSIxM4MJvviVcGSAIO-PcXzCrw_KOoI"
-href = "urn:sha384:yCq3tQC4ru1CfkIscj_wvXknXyMGVSvEhZweBZexi7TmMAhQ-Wv0_mnz7UOBCDFW"
+blob_href = "urn:sha384:TGR8Tu9FnmmFxJNadwaFrM7GXqiUOwc-_X1Wu5eRuyZKMK3BIe7IZIv9IHHyrgtk"
+href = "urn:sha384:-Kw4mMTEa8t4NI6rl-DyJ4YfKXP99IGf1DsBqJ1k47TOg6GRnvV5yyfV_Z8MkCeP"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "vika mno (mnomono)"
-author_url = "http://www.flickr.com/people/37341146@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/37341146@N00/4820357019"
-title = "swelter"
+author = " (John Spooner)"
+author_url = "http://www.flickr.com/people/29809546@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/29809546@N00/2115264843"
+title = "Mauritanian Sahara. \"I wonder how the weather will turn out today.\""
 [[cards.sides]]
 type = "empty"
 
@@ -136,17 +136,17 @@ text = "It is cool."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:l6Qixky1L5Sg4xQJassejuaeycnBOdZ3GLEkBsSYRLhmohVlD86N0ihcc0heiPPj"
-href = "urn:sha384:CainUsxH5tkxBW3Fau4RZliYwTxCDt5F651r2E3hkOLqDLMHxmBhGpR6zCizyVBm"
+blob_href = "urn:sha384:PM1ay82oq5je8Zii0l0v9wDC9WV9egs78PGjUdTMLh9ays2t0KaYa8eXnICz9HEB"
+href = "urn:sha384:Wp9bGHnmWBgGno82YTxTChIUw2m_hZQrhsD555TS62vuelsns2ZfPjHFyQ3Gi7-U"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Martin Thomas (humbert15)"
-author_url = "http://www.flickr.com/people/27532236@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/27532236@N00/4892917003"
-title = "Chilly Madge"
+author = " (robotpolisher)"
+author_url = "http://www.flickr.com/people/72669580@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/72669580@N00/452421915"
+title = "Nubbe"
 [[cards.sides]]
 type = "empty"
 
@@ -157,17 +157,17 @@ text = "It is warm."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:MmQv4iO0KNZncT8BJbxg6Ptk8H-2xf5GSn8RVO7dEC2JFuhwxv8crtWDuLYeTPVR"
-href = "urn:sha384:I8Jr9BzryHKG8IIkKXcYteJROJkOeoDw030JI8feVZWt6MEndlst0_Ah-6wIcF-l"
+blob_href = "urn:sha384:ixioq7RBfvG7u4_pTHgyoZh4eRtBSxQEpszBzM-OCvZ4hI8T0HvdBVElm1kn-hve"
+href = "urn:sha384:e8hMy-JEHG_uhl0Ki6MCc8SPKcTsgLyyk6I6pMKIsjM0_nrNZbLtEux12Ri9QyPg"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Sandy Schultz (chatblanc1)"
-author_url = "http://www.flickr.com/people/27471819@N05/"
+author = "Gopal Aggarwal (gopal1035)"
+author_url = "http://www.flickr.com/people/21375717@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/27471819@N05/4965955112"
-title = "a place in the sun"
+original_url = "http://www.flickr.com/photos/21375717@N00/3241446830"
+title = "Oh my! It's so cold..."
 [[cards.sides]]
 type = "empty"
 
