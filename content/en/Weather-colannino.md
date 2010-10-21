@@ -1,6 +1,6 @@
 +++
 title = "Weather-colannino"
-contributors = [ "colannino", "ian",]
+contributors = [ "colannino", "garrison", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -74,9 +74,9 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:b1z4J7dZGmobPy7u_OTq4RqNNYBjoYhG0fkf08bWU-780Y0BFcP1hxWMT-MYXz70"
-href = "urn:sha384:39M6v1lhZ-myzNuLaF-n6rVAlX5Xc2Q9zYKpT4JHrsrYok4EK2x7u_pwKKQ1QNL1"
+href = "urn:sha384:m1L6J8MF9ryK0O-JSGbGdhn2UcBmUhCRl8E28wH4Zs0rSO8D_kSRT5Kv_s1f6rtV"
 mime_type = "image/jpeg"
-rotation = "90"
+rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
