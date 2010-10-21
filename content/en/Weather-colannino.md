@@ -74,9 +74,9 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:b1z4J7dZGmobPy7u_OTq4RqNNYBjoYhG0fkf08bWU-780Y0BFcP1hxWMT-MYXz70"
-href = "urn:sha384:fXFO2e3GQiSntdyDZeRKZNr6UQaiIr13SO8rE6pwXfTdMaMyTQBUiihbUzEprVZ6"
+href = "urn:sha384:BBE-kaQDwh5JzP115eNh0m5LBrfJDZdfEPQD0GNDkBr0asTapzczMObNjFwjqj7d"
 mime_type = "image/jpeg"
-rotation = "0"
+rotation = "90"
 type = "picture"
 
 [cards.sides.credit]
