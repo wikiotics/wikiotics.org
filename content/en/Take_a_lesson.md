@@ -5,27 +5,28 @@ languageCode = "en"
 
 ## Lessons by language
 
-  - [Arabic lessons](/en/Arabic_lessons)
-  - [English lessons](/en/English_lessons)
-  - [Spanish lessons](/en/Spanish_lessons)
-  - [Chinese lessons](/en/Chinese_lessons)
-  - [German lessons](/en/German_lessons)
-  - [Russian lessons](/en/Russian_lessons)
-  - [Japanese lessons](/en/Japanese_lessons)
-  - [Portuguese lessons](/en/Portuguese_lessons)
-  - [Italian lessons](/en/Italian_lessons)
-  - [Dutch lessons](/en/Dutch_lessons)
-  - [Bosnian lessons](/en/Bosnian_lessons)
-  - [Finnish lessons](/en/Finnish_lessons)
-  - [Slovak lessons](/en/Slovak_lessons)
-  - [Hebrew lessons](/en/Hebrew_lessons)
-  - [French lessons](/en/French_lessons)
-  - [Afrikaans lessons](/en/Afrikaans_lessons)
-  - [Catalan lessons](/en/Catalan_lessons)
-  - [Swedish lessons](/en/Swedish_lessons)
-  - [Turkish lessons](/en/Turkish_lessons)
-  - [Icelandic lessons](/en/Icelandic_lessons)
-  - [Korean lessons](/en/Korean_lessons)
+  - [Afrikaans lessons](/en/Afrikaans_lessons)*(af)*
+  - [Arabic lessons](/en/Arabic_lessons)*(ar)*
+  - [Bosnian lessons](/en/Bosnian_lessons)*(bs)*
+  - [Catalan lessons](/en/Catalan_lessons)*(ca)*
+  - [German lessons](/en/German_lessons)*(da)*
+  - [English lessons](/en/English_lessons)*(en)*
+  - [Spanish lessons](/en/Spanish_lessons)*(es)*
+  - [Finnish lessons](/en/Finnish_lessons)*(fi)*
+  - [French lessons](/en/French_lessons)*(fr)*
+  - [Hebrew lessons](/en/Hebrew_lessons)*(he)*
+  - [Hindi lessons](/en/Hindi_lessons)*(hi)*
+  - [Icelandic lessons](/en/Icelandic_lessons)*(is)*
+  - [Italian lessons](/en/Italian_lessons)*(it)*
+  - [Japanese lessons](/en/Japanese_lessons)*(ja)*
+  - [Korean lessons](/en/Korean_lessons)*(ko)*
+  - [Dutch lessons](/en/Dutch_lessons)*(nl)*
+  - [Portuguese lessons](/en/Portuguese_lessons)*(pt)*
+  - [Russian lessons](/en/Russian_lessons)*(ru)*
+  - [Slovak lessons](/en/Slovak_lessons)*(sk)*
+  - [Swedish lessons](/en/Swedish_lessons)*(sv)*
+  - [Turkish lessons](/en/Turkish_lessons)*(tr)*
+  - [Chinese lessons](/en/Chinese_lessons)*(zh)*
 
 All the pictures come from
 [Flickr](http://www.flickr.com/creativecommons/).
