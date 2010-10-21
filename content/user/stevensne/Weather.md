@@ -94,17 +94,17 @@ text = "It is cold."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:RIxWacXR1A57MimhMbK7x-HRNicYeaqI2ax88pArb1mk5Tv4vQ31F16oQ89pwPQA"
-href = "urn:sha384:vddKBpR8koeeIUU4KVU5I_cA215Uyghizyxv6j7j8A-zSQdtaOEKHKmkBqfoMMeY"
+blob_href = "urn:sha384:e-roYaaqd_nbnWl51EZ8Z17A3o43ecjmDbxKCSHIG_eB5rinwoqxxaMO4KQCenvJ"
+href = "urn:sha384:c0BqpzgVbSyAdH-2_IzPGP42R7GB4S66hda6_-vKpf91D__UH_M2SXqU0S_YDbaq"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Edward Simpson (Ed.ward)"
-author_url = "http://www.flickr.com/people/44423341@N00/"
+author = "charlie vinz (vinzcha)"
+author_url = "http://www.flickr.com/people/9304424@N02/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/44423341@N00/4850299948"
-title = "Some people"
+original_url = "http://www.flickr.com/photos/9304424@N02/5072553120"
+title = "butter pecan frozen custard"
 [[cards.sides]]
 type = "empty"
 
@@ -136,17 +136,17 @@ text = "It is cool."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:l6Qixky1L5Sg4xQJassejuaeycnBOdZ3GLEkBsSYRLhmohVlD86N0ihcc0heiPPj"
-href = "urn:sha384:CainUsxH5tkxBW3Fau4RZliYwTxCDt5F651r2E3hkOLqDLMHxmBhGpR6zCizyVBm"
+blob_href = "urn:sha384:phi3E9rXS5hFCA7zpW7rinbSuM40WYXtkae-MVrxP9LEFIZtEiwRD0A1EU_kRHhG"
+href = "urn:sha384:E00-dGtFTi4gSWO417vY8kFqBsyQgKBlTpZf_1rp8YS3drwE1EIWTk2uHDiz4-_9"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Martin Thomas (humbert15)"
-author_url = "http://www.flickr.com/people/27532236@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/27532236@N00/4892917003"
-title = "Chilly Madge"
+author = "Maria Morri (Idhren)"
+author_url = "http://www.flickr.com/people/9248805@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/9248805@N04/5088615968"
+title = "golden 5"
 [[cards.sides]]
 type = "empty"
 
