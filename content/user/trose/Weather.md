@@ -1,6 +1,6 @@
 +++
 title = "Weather"
-contributors = [ "ian",]
+contributors = [ "ian", "trose",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -10,17 +10,17 @@ text = "It is raining."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:8CnHPDO32SoZ0zUVuePR801KcOMzyjzrwZ9W8-MbkprO_EGN7QHry7kLa4RhxWJ-"
-href = "urn:sha384:z0SL0O1ZzF1zFmvsXw7oQyESju0PAt8bN6VQ8xTQZajtQrE-U2ijYM_r98lZ53Mp"
+blob_href = "urn:sha384:51w8kZrUqDoWmVRkx_fMRH3bbJAU3rJldYM65zyZOGazJf1iP-8BdrvGmiBbNkhW"
+href = "urn:sha384:88-1MBVgKKLiAQ0psJmFKVTCjFWU_JRcrHPSNYEs3MUEpet7n0auodfNBZHXccUn"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Greg Younger (gregor_y)"
-author_url = "http://www.flickr.com/people/96552722@N00/"
+author = "Ed Yourdon (Ed Yourdon)"
+author_url = "http://www.flickr.com/people/72098626@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/96552722@N00/3414898801"
-title = "GYpix4068_rain"
+original_url = "http://www.flickr.com/photos/72098626@N00/4218930648"
+title = "No, Billy, we are *not* going to buy a Christmas tree this afternoon!"
 [[cards.sides]]
 type = "empty"
 
@@ -31,17 +31,17 @@ text = "It is sunny."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:8CLFDSoNSiDVmr6qAsqIvBk6Z02d0M4LnTsarL30QdZNfVYVy-sYN9cY4IZIRRVV"
-href = "urn:sha384:m1bzU9vyoFaW-X0GEi2phbFZtzTXHWYPvAmGNOWlZ399zrK2AWRIbdRqPxHFDTFV"
+blob_href = "urn:sha384:WNK-1w2FVf8QpZQ1czIOpJgY7EzjBnEDTYi7DnU6RooW3rtdq-b2GVKdbFr3KnRa"
+href = "urn:sha384:3-myMx4ELMiUjqnw9GVy7JIQbhskFLcUrdvJw1WVdWLhoFQ4JDrO4x-Qgu3Lm_pE"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Nicholas (Nicholas_T)"
-author_url = "http://www.flickr.com/people/14922165@N00/"
+author = "David DeHetre (davedehetre)"
+author_url = "http://www.flickr.com/people/22433418@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/14922165@N00/2368207024"
-title = "Sky-High"
+original_url = "http://www.flickr.com/photos/22433418@N04/5042770540"
+title = "sunny early fall sunflowers"
 [[cards.sides]]
 type = "empty"
 
