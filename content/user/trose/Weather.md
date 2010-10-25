@@ -73,17 +73,17 @@ text = "It is snowing."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:iUMK7TV_38xULFX3DZMMjrvGQk4ZebrA-8EGd2BMckTa8mcW7RV3Bz7CA9A56tUZ"
-href = "urn:sha384:ZtWqOw3Akm_NwFhC412EYNzYiXGwMLVcLJHq3HHZvWkuv1IkWmpzKAdQlAVbRwtr"
+blob_href = "urn:sha384:gUQUs_mo3A1WoqVflu3O-oZOJ3UCEKwTmYdZo0rmqVsgxDIFqzme84dbeQyrBSh0"
+href = "urn:sha384:XzT1yToRRlCcbA5GkVy1UKME-A7v9WASiZ8HNDK2TJMaQI9HiLxCMibUEamK6tGL"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "hobvias sudoneighm (striatic)"
-author_url = "http://www.flickr.com/people/34427466731@N01/"
+author = "Sol Young (SolYoung)"
+author_url = "http://www.flickr.com/people/50097800@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/34427466731@N01/130322776"
-title = "snowing in Deadmonton ~ green light"
+original_url = "http://www.flickr.com/photos/50097800@N00/4742862972"
+title = "DSC00307"
 [[cards.sides]]
 type = "empty"
 
@@ -136,17 +136,17 @@ text = "It is cool."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:PM1ay82oq5je8Zii0l0v9wDC9WV9egs78PGjUdTMLh9ays2t0KaYa8eXnICz9HEB"
-href = "urn:sha384:Wp9bGHnmWBgGno82YTxTChIUw2m_hZQrhsD555TS62vuelsns2ZfPjHFyQ3Gi7-U"
+blob_href = "urn:sha384:_oRVXs3GkezRf_qiZeSybZFnFayy5IXknr-mm0gGTy5_1wb3qGYBR193w3ba0Q8m"
+href = "urn:sha384:q5ujKR9NdHB1ejEQjibn7OR2o68HbmByDc9muTSfD1CIlInkZAp3dtPr_MpAsXcC"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (robotpolisher)"
-author_url = "http://www.flickr.com/people/72669580@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/72669580@N00/452421915"
-title = "Nubbe"
+author = "Michele Schaffer (bubblemonkey)"
+author_url = "http://www.flickr.com/people/27977949@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/27977949@N00/5114645111"
+title = "IMG_1930"
 [[cards.sides]]
 type = "empty"
 
@@ -157,17 +157,17 @@ text = "It is warm."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:ixioq7RBfvG7u4_pTHgyoZh4eRtBSxQEpszBzM-OCvZ4hI8T0HvdBVElm1kn-hve"
-href = "urn:sha384:e8hMy-JEHG_uhl0Ki6MCc8SPKcTsgLyyk6I6pMKIsjM0_nrNZbLtEux12Ri9QyPg"
+blob_href = "urn:sha384:RRUn2SuYU4bBnHtnA1BCOjOvXhjsXHE7ZxTCdtYy8a_1ws2xpgyEb5KGDcyiDL9i"
+href = "urn:sha384:L9MG9FeVfs__JPN08dJ-UUXk5aBEJ9sNP7mgL1Tb753ASuq-3i-aFa3R7qPV7DeM"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Gopal Aggarwal (gopal1035)"
-author_url = "http://www.flickr.com/people/21375717@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/21375717@N00/3241446830"
-title = "Oh my! It's so cold..."
+author = "Mark Probst (schani)"
+author_url = "http://www.flickr.com/people/28311604@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/28311604@N00/43305287"
+title = "Cat, sleeping"
 [[cards.sides]]
 type = "empty"
 
