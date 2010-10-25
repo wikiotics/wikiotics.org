@@ -17,6 +17,7 @@ people like best into the main lesson.
   - [user:Qalthos/Weather](/user/Qalthos/Weather)
   - [user:stevensne/Weather](/user/stevensne/Weather)
   - [user:colannino/Weather](/user/colannino/Weather)
+  - [user:trose/Weather](/user/trose/Weather)
 
 ## Discussion
 
