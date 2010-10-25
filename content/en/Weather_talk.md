@@ -30,4 +30,5 @@ ideas for something to illustrate "warm"? -Ian
 
 ## Best of version
 
-  - [Weather\_Best\_of](/en/Weather_Best_of)
+  - [Weather (Best of version)](/en/Weather_Best_of)
+  - [Temperature](/en/Temperature)
