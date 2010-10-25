@@ -27,3 +27,7 @@ one even remotely appropriate that showed up while searching for "warm"
 on flickr and I couldn't think of other terms to search for that would
 illustrate the concept. Do other people like that? What are some other
 ideas for something to illustrate "warm"? -Ian
+
+## Best of version
+
+  - [Weather\_Best\_of](/en/Weather_Best_of)
