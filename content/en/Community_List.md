@@ -4,7 +4,7 @@ languageCode = "en"
 +++
 
 Please add a link to your lesson page if you would like other users to
-look at and use them.
+look at and use the materials you have built.
 
 ## Users
 
