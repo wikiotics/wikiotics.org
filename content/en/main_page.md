@@ -34,10 +34,10 @@ and feel free to [contact us](/en/contact).
 
 ### Translation push
 
-This week (October 18-24) we are trying, as a community, to find the
-best pictures to [describe the weather](/en/Weather_talk). See [Ian's
-blog post for
-instructions](https://www.drumbeat.org/content/common-goal-talking-about-weather).
+This week (October 26-November 2) we are trying to build as many
+versions of our first [Adjectives](/en/Adjectives) lesson as possible.
+See [Ian's blog post for
+instructions](https://www.drumbeat.org/content/).
 
 ### Drumbeat
 
