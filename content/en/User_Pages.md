@@ -16,7 +16,7 @@ If you want to copy a page into user page section:
 
 1.  Open the page you want to copy
 2.  Click on the "copy" tab at the top of the page
-3.  In the "`Target page name`" box enter "`user:/YOURUSER/PageName`"
+3.  In the "`Target page name`" box enter "`user:YOURUSER/PageName`"
 
 So, if my user name is [ian](/user/ian/about) and I want to copy the
 community-built [Weather](/en/Weather) lesson over to my user page
