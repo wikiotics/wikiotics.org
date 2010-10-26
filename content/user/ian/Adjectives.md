@@ -1,6 +1,6 @@
 +++
 title = "Adjectives"
-contributors = [ "74.72.60.26",]
+contributors = [ "74.72.60.26", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -10,17 +10,17 @@ text = "Fun"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:BTttkg4kA0w0fn9txTJNBZJv417kq8WYk0-3zgSH6kjKlsuzXkYjjoypQhZRcQ9G"
+blob_href = "urn:sha384:11UjZxbLDQyRFD7cSCixboFKhP8UmSMtD7e0p4EsDno5iJWsptQZu2vUeFvFMZL8"
+href = "urn:sha384:yiTBb7Jwu_0GxvxSWEeUmB56tcp20vlcwwkm2iAse5u63s462E2hH_yslQ0j9MNG"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
+author = "Toshihiro Gamo (Dakiny)"
+author_url = "http://www.flickr.com/people/55658968@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+original_url = "http://www.flickr.com/photos/55658968@N00/5050769520"
+title = "ThinkPad X40"
 [[cards.sides]]
 type = "empty"
 
@@ -31,17 +31,17 @@ text = "Delicious"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:41uLWhR4sUArvrdgXEhnab7qLDxD_px81-0HUp5HTtR462oN_L1vOndH3OChJ7RA"
+blob_href = "urn:sha384:98Mw6q2l6FJF80uMjG15TrBMFRX4EHw0wQuc_E-ANiDr6qiueSeBOWbYAIjPI5EY"
+href = "urn:sha384:TRoVZp-57NCc73555j7xnYWkkYNG7ftT5eMCYwG1JGhR3Ni6dKcJJIFJ0NOJ3NXi"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+author = " (wikioticsIan)"
+author_url = "http://www.flickr.com/people/51004712@N08/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/51004712@N08/5111528572"
+title = "Broccoli"
 [[cards.sides]]
 type = "empty"
 
@@ -52,38 +52,38 @@ text = "Boring"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:HS8zMGLXy9HFQ_1FiOi2lCyv_rQDZPP2hoxxhmEoTcBLWEhkRFS8eyHbD337mpbN"
+blob_href = "urn:sha384:HG3FNG56P6jVcCkZ6fKIKdGL39H1DiTGUB871JS5saSLjeO0hYSqpAClb4ovW3QA"
+href = "urn:sha384:oNkOWIOZgApGeYAnjxm6iYbIT1zHf7GfY8SjaOnRA91S0pc5mfphaxYjVyFJV5Gd"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+author = "Ed Yourdon (Ed Yourdon)"
+author_url = "http://www.flickr.com/people/72098626@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/72098626@N00/4061132770"
+title = "PopTech 2009 presenters, day 3 - 314"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Bland"
+text = "Disgusting"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:5nZU1jtVQwm2K6dDWL0iL2zA4RjQMYyEU7-sfwF6EXZnHYfuFWUgdVfDIQcRFv2d"
+blob_href = "urn:sha384:mtyO0zWvrFLEsAEq9lfc6jvM-PLwTIBonJFqgrWlGYhwQgnpit_tJ32Qn7-0VqIX"
+href = "urn:sha384:2MQ72XJ9q6dA_FTF6HpvyNFTyeRs7WqvsIoUJ2YcRdB5rs3mMEVIvqNj-3OtVJIo"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
+author = "Cristóbal Alvarado Minic (Cristóbal Alvarado Minic)"
+author_url = "http://www.flickr.com/people/27478499@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+original_url = "http://www.flickr.com/photos/27478499@N04/5026370349"
+title = "Parrilla"
 [[cards.sides]]
 type = "empty"
 
