@@ -36,8 +36,9 @@ and feel free to [contact us](/en/contact).
 
 This week (October 26-November 2) we are trying to build as many
 versions of our first [Adjectives](/en/Adjectives) lesson as possible.
-See [Ian's blog post for
-instructions](https://www.drumbeat.org/content/).
+See [Ian's blog post](https://www.drumbeat.org/content/) for
+instructions and [Ian's version](/user/ian/Adjectives) of the lesson for
+an example.
 
 ### Drumbeat
 
