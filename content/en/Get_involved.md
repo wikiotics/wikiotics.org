@@ -3,10 +3,10 @@ title = "Getting Involved"
 +++
 
 Wikiotics is a community effort in collaborative language instruction.
-If you want to get involved, take a look at the [Take a
-lesson](/en/Take_a_lesson) and [Make a lesson](/en/Make_a_lesson) pages
-to find out how our existing lessons are made and what they cover. New
-material and new takes on old material are always welcome.
+If you want to get involved, take a look at the [Learn a
+language](/en/Take_a_lesson) and [Teach a language](/en/Make_a_lesson)
+pages to find out how our existing lessons are made and what they cover.
+New material and new takes on old material are always welcome.
 
 In addition to creating and using language lessons, there are many other
 ways to contribute to the community.
