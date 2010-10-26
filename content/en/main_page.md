@@ -10,12 +10,27 @@ the links below.
 
 ## [Learn a language](/en/Take_a_lesson)
 
-## [Contribute](/en/Contribute)
+This is where you will find our community-built language lessons.  
+Some lessons are also available from personal [User
+Pages](/en/User_Pages).
+
+## [Teach a language](/en/Make_a_lesson)
+
+If you want to help someone learn a language, whether that is  
+English or any other, take a look at our [Make a
+lesson](/en/Make_a_lesson) page.  
+Also check out our [Lesson Building Tips](/en/Lesson_Building_Tips) page
+for some useful hints.
 
 ## [Get involved](/en/Get_involved)
 
+If you like what you see and want to help, check out our
+[Contribute](/en/Contribute) page  
+for some ways you can help out the community.
+
 For more information about the project, take a look at the
-[about](/en/about) page and feel free to [contact](/en/contact) us.
+[about](/en/about) page  
+and feel free to [contact us](/en/contact).
 
 ### Translation push
 
