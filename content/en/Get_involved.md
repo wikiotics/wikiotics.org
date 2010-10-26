@@ -15,7 +15,7 @@ ways to contribute to the community.
 
 We can always use more community members. Please take a moment and
 [Create an account](http://wikiotics.org/create-account). Not only will
-that give you access to your own [User pages](/en/User_pages), an area
+that give you access to your own [User Pages](/en/User_Pages), an area
 of the wiki that only you can edit, it will also give you an account on
 our [Bug Tracker](http://code.ductus.us/), where you can report any
 problems you find with the technology or new features you would like to
