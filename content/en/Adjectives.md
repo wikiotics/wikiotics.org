@@ -1,6 +1,6 @@
 +++
 title = "Adjectives"
-contributors = [ "74.72.60.26",]
+contributors = [ "74.72.60.26", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Bland"
+text = "Disgusting"
 type = "phrase"
 
 [[cards.sides]]
