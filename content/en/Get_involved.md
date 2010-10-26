@@ -19,10 +19,8 @@ group](http://groups.google.com/group/wikiotics) for discussion.
 ## Flickr Group
 
 The most time consuming part of building a new picture choice lesson is
-finding appropriate pictures. Even focusing only on the appropriately
-licensed pictures, as we must to make the kind of creative materials we
-need on the site, there are still millions of pictures available and
-finding one to clearly illustrate you particular sentences can be
+finding appropriate pictures. There are millions of pictures available
+and finding one to clearly illustrate you particular sentences can be
 difficult.
 
 To help make lesson creation easier we started a [flickr
