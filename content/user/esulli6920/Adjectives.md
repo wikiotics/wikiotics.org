@@ -1,6 +1,6 @@
 +++
 title = "Adjectives"
-contributors = [ "74.72.60.26", "ian",]
+contributors = [ "74.72.60.26", "esulli6920", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -10,17 +10,17 @@ text = "Fun"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:BTttkg4kA0w0fn9txTJNBZJv417kq8WYk0-3zgSH6kjKlsuzXkYjjoypQhZRcQ9G"
+blob_href = "urn:sha384:TzUjZ-erx3GpW_pDQkjS_Ln3vMGrSGn6eK7OeTN8nzItKQKHSfyfn7z00pdDLrQZ"
+href = "urn:sha384:XP3zQr6w7MYmtMRgJuzlDWAW6S8Xvryr2lLQ-hBVyzm7At7XWtBVTp8ZcW1ZKOVT"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
+author = "stephen jones (steve p2008)"
+author_url = "http://www.flickr.com/people/32558319@N03/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+original_url = "http://www.flickr.com/photos/32558319@N03/4993865192"
+title = " "
 [[cards.sides]]
 type = "empty"
 
@@ -31,17 +31,17 @@ text = "Delicious"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:41uLWhR4sUArvrdgXEhnab7qLDxD_px81-0HUp5HTtR462oN_L1vOndH3OChJ7RA"
+blob_href = "urn:sha384:WZnZqk2OardSVte72Y8Fq6K_M6-Jz8T-y172OaQciqz-KQs1z-77oXy86782Taui"
+href = "urn:sha384:tx0TUwCfzE9sOxtE0SvnFJIRXplQh9qk2rCba9XbS3F4ghRtQ_jZVreDhgFF5i9C"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
+author = "Jeremy Keith (adactio)"
+author_url = "http://www.flickr.com/people/74105777@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+original_url = "http://www.flickr.com/photos/74105777@N00/5013417690"
+title = "Peaches"
 [[cards.sides]]
 type = "empty"
 
@@ -52,17 +52,17 @@ text = "Boring"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:HS8zMGLXy9HFQ_1FiOi2lCyv_rQDZPP2hoxxhmEoTcBLWEhkRFS8eyHbD337mpbN"
+blob_href = "urn:sha384:iDYe6TXijWE41JZ4AZrqU5NeciGcm_TuOKraBKbDh2pd-degQPhjhpx0lyYp2WH3"
+href = "urn:sha384:rIr5Ad2-3LFrIhNdpmejzwO08mr6HCOPfrACFuVGw2KdsH1LX23GOYFojfbYULXj"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
+author = "Guillaume (Eusebius@Commons)"
+author_url = "http://www.flickr.com/people/35854555@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+original_url = "http://www.flickr.com/photos/35854555@N04/4979005957"
+title = "Biarritz - the great beach"
 [[cards.sides]]
 type = "empty"
 
@@ -73,17 +73,17 @@ text = "Disgusting"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:5nZU1jtVQwm2K6dDWL0iL2zA4RjQMYyEU7-sfwF6EXZnHYfuFWUgdVfDIQcRFv2d"
+blob_href = "urn:sha384:1OhamGmVH3cCchqDA7yMyIdjYkTbgTjaPZUrT4JEOwO_D7W2Di1BQtrxOzpDuqGa"
+href = "urn:sha384:40RPtjvZe78HeoRfsfi_x_z5xJgFSBwO9qWzE7DAo0KbTsoFDFupS7c68NzyJCtd"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
+author = "Cristóbal Alvarado Minic (Cristóbal Alvarado Minic)"
+author_url = "http://www.flickr.com/people/27478499@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+original_url = "http://www.flickr.com/photos/27478499@N04/5007427890"
+title = "Pescado"
 [[cards.sides]]
 type = "empty"
 
