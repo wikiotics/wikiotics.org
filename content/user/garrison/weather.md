@@ -27,21 +27,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is sunny with a few clouds."
+text = "It is sunny."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:8CLFDSoNSiDVmr6qAsqIvBk6Z02d0M4LnTsarL30QdZNfVYVy-sYN9cY4IZIRRVV"
-href = "urn:sha384:m1bzU9vyoFaW-X0GEi2phbFZtzTXHWYPvAmGNOWlZ399zrK2AWRIbdRqPxHFDTFV"
+blob_href = "urn:sha384:A0Kj8FJ5dkSfKIYV6cQw5YjqEbO5RY89dETktB7wos6o7081yN1u_TIogOsjwuUI"
+href = "urn:sha384:MVDf5PDUSjKtIBMQ5hT35bgHP3oxnhRY3SGkzNawOuoibs88FjrQZFpxTU5BHP3x"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Nicholas (Nicholas_T)"
-author_url = "http://www.flickr.com/people/14922165@N00/"
+author = "B Balaji (Balaji.B)"
+author_url = "http://www.flickr.com/people/81073027@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/14922165@N00/2368207024"
-title = "Sky-High"
+original_url = "http://www.flickr.com/photos/81073027@N00/2631882265"
+title = "Qutob Minar"
 [[cards.sides]]
 type = "empty"
 
