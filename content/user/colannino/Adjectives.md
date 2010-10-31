@@ -1,6 +1,6 @@
 +++
 title = "Adjectives"
-contributors = [ "74.72.60.26", "ian",]
+contributors = [ "74.72.60.26", "colannino", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -10,17 +10,17 @@ text = "Fun"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:BTttkg4kA0w0fn9txTJNBZJv417kq8WYk0-3zgSH6kjKlsuzXkYjjoypQhZRcQ9G"
+blob_href = "urn:sha384:HOLgcXYvU7NLFptXayjOArZrnGsQrxYMWBzVgH6y2vwmZf7MkT9XYeva5yfgMQgc"
+href = "urn:sha384:vnkyrGFVy3w5JPg8TUbYqAdik_8_XT4Snw-hV8EaoV-unRid-TBuoYPZdC0SkLaF"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+author = " (dumbonyc)"
+author_url = "http://www.flickr.com/people/95633051@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/95633051@N00/2046924903"
+title = "Jane's Carousel"
 [[cards.sides]]
 type = "empty"
 
@@ -31,17 +31,17 @@ text = "Delicious"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:41uLWhR4sUArvrdgXEhnab7qLDxD_px81-0HUp5HTtR462oN_L1vOndH3OChJ7RA"
+blob_href = "urn:sha384:Eym6h_DLjcSjypYVQI_S6IrnWKm-ZxqOSeXk2ksrK0_V8KT43jBcgHXpBAP0g6UF"
+href = "urn:sha384:glZKvRCjjEr7pLHPcPPyhji8m65jW9c33hQHKHyqpJNMySuPVgDR4YFXg4UzhKJB"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
+author = "Yuri Long (yurilong)"
+author_url = "http://www.flickr.com/people/7845551@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+original_url = "http://www.flickr.com/photos/7845551@N05/4917518173"
+title = "road_trip-9349.jpg"
 [[cards.sides]]
 type = "empty"
 
@@ -52,17 +52,17 @@ text = "Boring"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:HS8zMGLXy9HFQ_1FiOi2lCyv_rQDZPP2hoxxhmEoTcBLWEhkRFS8eyHbD337mpbN"
+blob_href = "urn:sha384:Z15jXtywxi9dF4ypzaBPI-991aeygbBo3KF2d1zq1WPUS-zrLBYgOawLKvR_JaJQ"
+href = "urn:sha384:nYHl5laScPDbTV-c6mrbaM_SPvfcxTJNGotZhgq-91cOzINs27UDI1DgZsSjLYea"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+author = "Ed Uthman (euthman)"
+author_url = "http://www.flickr.com/people/78147607@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/78147607@N00/1506680304"
+title = "Ed's 6th Grade Class, 1964"
 [[cards.sides]]
 type = "empty"
 
@@ -73,17 +73,17 @@ text = "Disgusting"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:5nZU1jtVQwm2K6dDWL0iL2zA4RjQMYyEU7-sfwF6EXZnHYfuFWUgdVfDIQcRFv2d"
+blob_href = "urn:sha384:ZLW5Hu108JXe10NaJXSVb7Uy3B7sKsdCBwK8rn02m2GQC-2MkA22RaiFlrsP-i8H"
+href = "urn:sha384:v0e7uyAbF4Ez3KF2XRclQv8dHVu11kPIBdAmFA-khd4cRh5QAkKvfOtMQbHQvszx"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
+author = "Tory (antisocialtory)"
+author_url = "http://www.flickr.com/people/65004407@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+original_url = "http://www.flickr.com/photos/65004407@N00/3593991286"
+title = "Bacon Lover's Survival Kit"
 [[cards.sides]]
 type = "empty"
 
