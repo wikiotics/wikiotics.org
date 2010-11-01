@@ -52,17 +52,17 @@ text = "Delicious"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:k7QO2DH02vJWZn0VvvKiL2WldG8EIoV7h4_2iIlfx7J1TS2HyNb90gD5iXCK42ge"
-href = "urn:sha384:QtuUSdNh3nUyVs2RXR4mMJito5h0cfI9ybHrFZBnQKZHM9oBujnJGTAirMP1JVG8"
+blob_href = "urn:sha384:VyPyu8UGdphTz8xBATYGvygJCmN-VFVgJfoLJft2xpdW2ycPV14s7HVAhDqWp4T-"
+href = "urn:sha384:kF7gs0s-w9b2Qftw0gJQk8PjHSYc7qCJLMuWBjFrczDsotlBlee3YlqpWnWWfAo5"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Alpha (avlxyz)"
-author_url = "http://www.flickr.com/people/10559879@N00/"
+author = " (inazakira)"
+author_url = "http://www.flickr.com/people/47573122@N05/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/10559879@N00/380504018"
-title = "Corner Burger - Corner Hotel, Richmond"
+original_url = "http://www.flickr.com/photos/47573122@N05/5108746941"
+title = "Salad"
 [[cards.sides]]
 type = "empty"
 
