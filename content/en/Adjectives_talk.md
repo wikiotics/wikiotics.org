@@ -9,4 +9,6 @@ version below.
 
 ## User versions
 
-[user:ian/Adjectives](/user/ian/Adjectives)[user:trose/Adjectives](/user/trose/Adjectives)
+[user:ian/Adjectives](/user/ian/Adjectives)
+
+[user:trose/Adjectives](/user/trose/Adjectives)
