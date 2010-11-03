@@ -9,8 +9,8 @@ students involved in language learning.
 
 So far, we have built a "picture choice" lesson type (see [a sample
 English lesson](/en/Introduction)), which is a flexible format for
-helping to improve a student's vocabulary and naturally introducing
-basic grammar.
+helping to improve a student's vocabulary and naturally introduce basic
+grammar.
 
 If you want to create a new lesson to test out the system, simply add a
 new link to any existing page and save the page. When you follow the
