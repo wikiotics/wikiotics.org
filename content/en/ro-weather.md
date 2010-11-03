@@ -1,12 +1,12 @@
 +++
 title = "ro-weather"
-contributors = [ "ian",]
+contributors = [ "84.88.37.137", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "It is raining."
+text = "ploua"
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is sunny."
+text = "e soare"
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is cloudy."
+text = "este innorat"
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is snowing. "
+text = "ninge"
 type = "phrase"
 
 [[cards.sides]]
