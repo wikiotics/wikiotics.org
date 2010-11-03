@@ -1,5 +1,6 @@
 +++
 title = "Spanish lessons"
+languageCode = "en"
 +++
 
 ([Jump to Spanish wiki](/es/Lecci%C3%B3ns))
@@ -8,3 +9,4 @@ title = "Spanish lessons"
   - [Transportation](/es/Transporte)
   - [Weather](/es/El_tiempo)
   - [Flowers](/es/Flores)
+  - [Hot vs Spicy](/en/Hot_vs_Spicy)
