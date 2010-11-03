@@ -1,6 +1,6 @@
 +++
 title = "Flores"
-contributors = [ "216.27.154.200", "trose",]
+contributors = [ "216.27.154.200", "84.88.37.137", "trose",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -10,17 +10,17 @@ text = "Esta es una rosa"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:NiyCucLX9zmbEcK3ocgoFpaHriUFJ4dvVJ3o3rctPYPPcKGcINhnOTsCAD50BvNo"
-href = "urn:sha384:aY-eKyDM-py6Os62UmYdhYLKnWQxOyJvU0fap0OTfTOpQDKW42_D6YnQ9zVcCyPw"
+blob_href = "urn:sha384:iDntEBsUcNP-gCc43ZcoxGuSefvPXGTvWvMep2__Lc1iSi2UKR-N_jch9_R6rCA2"
+href = "urn:sha384:xXBjGBQz4obZGnwlTsEpYCmXc3rvP9mTQtL4TlSl1pSSwnKCccSKAw2SSLjfv8LK"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Todd Hartz (likeaduck)"
-author_url = "http://www.flickr.com/people/51869361@N05/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/51869361@N05/4871767797"
-title = "Mr. Dupont's Rose Gardens"
+author = "Jean G (whatjeanlikes)"
+author_url = "http://www.flickr.com/people/52132044@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/52132044@N07/5137709567"
+title = "A rose for you all!"
 [[cards.sides]]
 type = "empty"
 
