@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "El agua en la estufa está caliente."
+text = "El agua en la cocina está caliente."
 type = "phrase"
 
 [[cards.sides]]
