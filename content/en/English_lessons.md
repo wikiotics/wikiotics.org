@@ -6,6 +6,7 @@ title = "English lessons"
 
   - [Introduction](/en/Introduction)
   - [Weather](/en/Weather)
+  - [Temperature](/en/Temperature)
   - [Movement verbs](/en/Movement_verbs)
   - [Flowers](/en/Flowers)
   - [Modes of transportation](/en/Modes_of_transportation)
