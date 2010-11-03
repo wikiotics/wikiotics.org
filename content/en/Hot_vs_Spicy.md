@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Los chiles son muy picante."
+text = "Los chiles son muy picantes."
 type = "phrase"
 
 [[cards.sides]]
