@@ -24,6 +24,7 @@ title = "English lessons"
   - [Kitchen supplies](/en/Kitchen_supplies)
   - [Barcelona architecture](/en/Barcelona_architecture)
   - [to play](/en/to_play)
+  - [Technology](/en/Technology)
 
 We should also try to create lessons that contain all the concepts in
 [Basic English](http://en.wikipedia.org/wiki/Basic_English), as well as
