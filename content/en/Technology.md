@@ -87,6 +87,90 @@ title = "Unboxing my new HP, NYC, 5/17/08 - 10 of 34"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "This is the laptop."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:huXflie_sEda47FT7ADD4h61aCnnqdcWupa6UvAQcAUe1u1G1ULEyV2Xt7fzHL-t"
+href = "urn:sha384:apddV3zsECn-NVZq7Pv2NmMoIlatRyw_JiUO5AAbV3FPOiEgVL3FPeaqyXnYKNXk"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Chris Metcalf (laffy4k)"
+author_url = "http://www.flickr.com/people/73207064@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/73207064@N00/182219003"
+title = "Transparent Laptop Screen"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is the battery."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:0bcX7eIO2ntHkNQCYIWAlNnJmPZPBUxASLQcw5bRA3GAnunz43ID4JG38oO0VgcP"
+href = "urn:sha384:WsYe7u_qItYeUgtIvLgId1rROHjDjE91DvyH3LtAgqVZsbmS-baBL5KqApF7UfFx"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Eirik Solheim (eirikso)"
+author_url = "http://www.flickr.com/people/47402349@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/47402349@N00/3983187032"
+title = "MacBook Battery"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is the power cord."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:e1CiqAM4X5wzrAMm5GbW3EcGVwJmHTsmvmD45UhrFweCuemPkaCt8ML4isV5zMyH"
+href = "urn:sha384:xkqrkbh_3ckHbze4h0sREu7RbnTXnbrjWOea7xuhrTS_UkaBEkf8C1lxzdhlUU3e"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Justin Grimes (justgrimes)"
+author_url = "http://www.flickr.com/people/44718928@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/44718928@N00/2083223032"
+title = "Macbook Power Cable Defect"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is the track pad."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:wZBoqKQPtwP-8HSD3o9N3RWyNao_2_ofgVKKdU3Xqrlq2geH5AQEf6h8n5W07w_q"
+href = "urn:sha384:Tj0VSeeNN7f_5tJQb0eDxxNZO0_ZzGvZ8dCx-5inFlaxnQYhP20pgOekcLIjcJ-9"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Quinn Dombrowski (quinn.anya)"
+author_url = "http://www.flickr.com/people/53326337@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/53326337@N00/3044632561"
+title = "Trackpad fail"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
