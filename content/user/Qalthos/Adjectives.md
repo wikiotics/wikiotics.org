@@ -73,17 +73,17 @@ text = "Disgusting"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:5nZU1jtVQwm2K6dDWL0iL2zA4RjQMYyEU7-sfwF6EXZnHYfuFWUgdVfDIQcRFv2d"
+blob_href = "urn:sha384:XSR6cwvkSodsv59I47YkA5-F6UtZO8Tm3PfYml4p0G9_vJr5OPYZvD98Y627dPya"
+href = "urn:sha384:yfuAw0HorHI7fsIHYkxq4t3L02jW_C8heT7gK_0mr8A8Ff83jEqkRSGJ_c9bmVir"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
+author = "vxla (vxla)"
+author_url = "http://www.flickr.com/people/14812197@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+original_url = "http://www.flickr.com/photos/14812197@N00/5097345461"
+title = "Vodka Martini at Hotel Monteleone"
 [[cards.sides]]
 type = "empty"
 
