@@ -52,17 +52,17 @@ text = "Boring"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:eab_3hYOg9SvreVTEemN9ezDvE2E20DjTkvKyoZu7CPFZz9ErjxyycILPxUV1tb5"
-href = "urn:sha384:HS8zMGLXy9HFQ_1FiOi2lCyv_rQDZPP2hoxxhmEoTcBLWEhkRFS8eyHbD337mpbN"
+blob_href = "urn:sha384:XKJ02XxMknyNqhb7nexT4vrs0nknbJbdW1HYzHVh5ybrImqQnoAft34HbSTwZMVY"
+href = "urn:sha384:_Dc8WELkt9G8G94pWySmt3jXvXc0rFYUqXW2OX60iUVLKGqlF69YXgObGOJTvDK2"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (takomabibelot)"
-author_url = "http://www.flickr.com/people/38782010@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38782010@N00/4164289232"
-title = "Scratched Red Question Mark (Beltsville, MD)"
+author = "Dustin (8one6)"
+author_url = "http://www.flickr.com/people/56187283@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/56187283@N00/4814043836"
+title = "ready for battle"
 [[cards.sides]]
 type = "empty"
 
