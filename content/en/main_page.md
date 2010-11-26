@@ -32,14 +32,6 @@ For more information about the project, take a look at the
 [about](/en/about) page  
 and feel free to [contact us](/en/contact).
 
-### Activity focus
-
-This week (October 26-November 2) we are trying to build as many
-versions of our first [Adjectives](/en/Adjectives) lesson as possible.
-See [Ian's blog post](https://www.drumbeat.org/content/lessons-just-you)
-for instructions and [Ian's version](/user/ian/Adjectives) of the lesson
-for an example.
-
 ### Drumbeat
 
 We have applied for a joint [Mozilla/Shuttleworth Foundation
