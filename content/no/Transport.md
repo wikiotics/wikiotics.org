@@ -132,21 +132,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Dette er ein semitrailer."
+text = "Dette er ein lastebil."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:ZNjfqtIq94mfE1hZXJLXRNIlKZg6inYMwyntco69U1yjXJ5gxKObpifcjxzNUwva"
-href = "urn:sha384:mBS6KhSl0KIv_wJctFemZ3fUMwteYMYSAU73B-O7oQEdO3nw3ElIqXguBML4dCYG"
+blob_href = "urn:sha384:40TbA5Ye78mhnrz6tfqUZcan8SMvLqIsNlKMaBubetRpANsCg1FD6jNlGtRBzM5-"
+href = "urn:sha384:MchLms3aNonzvMNhF4CZrpIKMA8R64x1apE6kiovnAWgfWEmV7B_honLckNkvKNA"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Pat Durkin (Pat Durkin)"
-author_url = "http://www.flickr.com/people/49609958@N02/"
+author = "Trondheim Havn (Trondheim Havn)"
+author_url = "http://www.flickr.com/people/30671219@N06/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/49609958@N02/4730470471"
-title = "Pete tank tractor - trailer"
+original_url = "http://www.flickr.com/photos/30671219@N06/3678471908"
+title = "Næringstransport i Fjordgata"
 [[cards.sides]]
 type = "empty"
 
