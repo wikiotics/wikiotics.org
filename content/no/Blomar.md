@@ -1,12 +1,12 @@
 +++
 title = "Blomar"
-contributors = [ "169.231.48.249", "216.27.154.200", "91.35.222.241", "garrison",]
+contributors = [ "129.177.48.231", "169.231.48.249", "216.27.154.200", "91.35.222.241", "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a rose"
+text = "Dette er ei rose."
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "These are tulips"
+text = "Dette er tulipanar."
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a daisy"
+text = "Dette er ein tusenfryd."
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "These are sunflowers"
+text = "Dette er solsikker."
 type = "phrase"
 
 [[cards.sides]]
