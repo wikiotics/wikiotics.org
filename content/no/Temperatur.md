@@ -1,12 +1,12 @@
 +++
 title = "Temperatur"
-contributors = [ "ian",]
+contributors = [ "129.177.48.231", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "The drink is cool."
+text = "Drikken er kald."
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The soup is hot. "
+text = "Suppa er varm."
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Lying in the snow is cold."
+text = "Å liggja i snøen er kaldt."
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Lying on the beach is warm."
+text = "Å liggja på stranda er varmt."
 type = "phrase"
 
 [[cards.sides]]
