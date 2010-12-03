@@ -300,21 +300,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Dette er ein lekter."
+text = "Dette er ein snøggbåt."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:kemi2YNpzh-co3byPBfw-rbbLPEJ0gDR7GM2wXKu_IOb_YtHu5Pjm56NxZvlEU76"
-href = "urn:sha384:NOcfrueIHfN-iF9Soe2O9F679YlMgV2KIkmWusMfrKTZu2jIO1FhYv8IodVhST1N"
+blob_href = "urn:sha384:NE3hJhBVi0ZtILicZt_98phrxUHpdxpn-1M8owTkHwlxL8oB3phfBWz5WeIlzVDc"
+href = "urn:sha384:NOfCAfgW5YWruoZBDICq6Jbw4BR53hebvLJEUwh0ujLLZIc-bRd1j0VstXdfXucA"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Maxwell Hamilton (Maxwell Hamilton)"
-author_url = "http://www.flickr.com/people/37413900@N04/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/37413900@N04/4823669821"
-title = "Barge Moored at Brentford Docks"
+author = "Trondheim Havn (Trondheim Havn)"
+author_url = "http://www.flickr.com/people/30671219@N06/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/30671219@N06/3119466457"
+title = "Trondheimsfjord II på vei inn mot Pirterminalen"
 [[cards.sides]]
 type = "empty"
 
