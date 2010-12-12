@@ -3,8 +3,8 @@ title = "User Pages"
 languageCode = "en"
 +++
 
-When you [create an account](http://wikiotics.org/create-account) on
-Wikiotics, we create a user page area just for you.
+When you [create an account](/special/create_account) on Wikiotics, we
+create a user page area just for you.
 
 Think of user pages as a personal wiki section. No one else can edit
 pages in your section so you can build or collect lessons there and know
