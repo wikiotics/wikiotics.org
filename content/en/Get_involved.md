@@ -71,8 +71,7 @@ features for the site, all of that is software development work being
 done on ductus. The more help we get, the more of it we can build.
 
 If you are interested in helping to improve the basic capabilities of
-Wikiotics, we would be happy to [hear from
-you](http://alpha.wikiotics.org/wiki/contact).
+Wikiotics, we would be happy to [hear from you](/en/contact).
 
 For a gauge of project activity at any given time, see this site's
 [recent changes](/special/recent_changes) or the [Ductus development
