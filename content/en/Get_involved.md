@@ -14,12 +14,11 @@ ways to contribute to the community.
 ## Join up\!
 
 We can always use more community members. Please take a moment and
-[create an account](http://wikiotics.org/create-account). Not only will
-that give you access to your own [User Pages](/en/User_Pages), an area
-of the wiki that only you can edit, it will also give you an account on
-our [Bug Tracker](http://code.ductus.us/), where you can report any
-problems you find with the technology or new features you would like to
-see us build.
+[create an account](/special/create_account). Not only will that give
+you access to your own [User Pages](/en/User_Pages), an area of the wiki
+that only you can edit, it will also give you an account on our [Bug
+Tracker](http://code.ductus.us/), where you can report any problems you
+find with the technology or new features you would like to see us build.
 
 **Drumbeat project** / **project blog**: We have an [active project
 page](https://www.drumbeat.org/project/wikiotics-tools-and-materials-collaborative-language-education)
