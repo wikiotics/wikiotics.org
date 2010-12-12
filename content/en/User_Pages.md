@@ -1,5 +1,5 @@
 +++
-title = "User Pages"
+title = "User pages"
 languageCode = "en"
 +++
 
