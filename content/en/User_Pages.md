@@ -3,8 +3,8 @@ title = "User Pages"
 languageCode = "en"
 +++
 
-When you [create an account](/special/create_account) on Wikiotics, we
-create a user page area just for you.
+When you [create an account](http://wikiotics.org/create-account) on
+Wikiotics, we create a user page area just for you.
 
 Think of user pages as a personal wiki section. No one else can edit
 pages in your section so you can build or collect lessons there and know
@@ -12,7 +12,7 @@ that they will always stay as you left them. Feel free to copy any other
 lessons on your user pages and tinker with them, or build your own
 material to share with students and colleagues.
 
-If you want to copy a page into user page section:
+If you want to copy a page into your user page section:
 
 1.  Open the page you want to copy
 2.  Click on the "copy" tab at the top of the page
