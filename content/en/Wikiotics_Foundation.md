@@ -1,5 +1,6 @@
 +++
 title = "Wikiotics Foundation"
+languageCode = "en"
 +++
 
 The [Wikiotics Foundation](/en/Wikiotics_Foundation) is a nonprofit
@@ -15,8 +16,7 @@ Wikiotics has 501(c)(3) status in the United States, allowing us to
 accept tax-deductible contributions. If you would like to contribute to
 the foundation, please contact: donate@wikiotics.org. If you cannot, or
 would prefer not to, make a financial donation, please consider
-[contributing](http://alpha.wikiotics.org/en/Contribute) to the project
-instead.
+[contributing](/en/Contribute) to the project instead.
 
 ## Board of directors
 
