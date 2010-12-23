@@ -15,10 +15,10 @@ lessons are also available from personal [User Pages](/en/User_Pages).
 
 ## [Teach a language](/en/Make_a_lesson)
 
-If you want to help someone learn a language, whether that is English or
-any other, take a look at our [Make a lesson](/en/Make_a_lesson) page.
-Also check out our [Lesson Building Tips](/en/Lesson_Building_Tips) page
-for some useful hints.
+If you want to help someone learn a language, whether that is
+[English](/en/English_lessons) or any other, take a look at our [Make a
+lesson](/en/Make_a_lesson) page. Also check out our [Lesson Building
+Tips](/en/Lesson_Building_Tips) page for some useful hints.
 
 ## [Get involved](/en/Get_involved)
 
