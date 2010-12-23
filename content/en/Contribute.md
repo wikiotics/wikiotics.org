@@ -1,5 +1,6 @@
 +++
 title = "Contributing"
+languageCode = "en"
 +++
 
 There are plenty of ways to contribute to Wikiotics. Some ideas...
@@ -12,8 +13,8 @@ There are plenty of ways to contribute to Wikiotics. Some ideas...
     the [Mozilla/Shuttleworth open web
     fellowship](http://www.mozilla.org/grants/education-fellowship.html).
   - If you have **5 more minutes**, [create an account on
-    wikiotics.org](http://alpha.wikiotics.org/create-account) so you can
-    make contributions under your name.
+    wikiotics.org](/special/create_account) so you can make
+    contributions under your name.
   - If you have **20 minutes**, [create or improve an existing
     lesson](/en/make_a_lesson) using photos from Flickr.
   - If you have **1 hour per week**, join the [Wikiotics discussion
