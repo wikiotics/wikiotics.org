@@ -26,7 +26,3 @@ Wiki](/en/%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1))
   - [Barcelona architecture](/en/Barcelona_architecture)
   - [to play](/en/to_play)
   - [Technology](/en/Technology)
-
-We should also try to create lessons that contain all the concepts in
-[Basic English](http://en.wikipedia.org/wiki/Basic_English), as well as
-the [Semantic Primes](http://en.wikipedia.org/wiki/Semantic_primes)
