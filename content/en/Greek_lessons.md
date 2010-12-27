@@ -2,7 +2,8 @@
 title = "Greek lessons"
 +++
 
-(\[μαθήματα|Jump to Greek Wiki\])
+([Jump to Greek
+Wiki](/en/%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1))
 
   - [Introduction](/en/Introduction)
   - [Weather](/en/Weather)
