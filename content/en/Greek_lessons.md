@@ -6,7 +6,7 @@ title = "Greek lessons"
 Wiki](/en/%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1))
 
   - [Introduction](/en/Introduction)
-  - [Weather](/en/Weather)
+  - [Weather](/en/%CE%9A%CE%B1%CE%B9%CF%81%CF%8C%CF%82)
   - [Temperature](/en/Temperature)
   - [Movement verbs](/en/Movement_verbs)
   - [Flowers](/en/Flowers)
