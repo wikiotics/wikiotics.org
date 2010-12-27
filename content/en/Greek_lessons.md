@@ -2,7 +2,7 @@
 title = "Greek lessons"
 +++
 
-(and ideas for future lessons, in red)
+(Jump to Greek Wiki)
 
   - [Introduction](/en/Introduction)
   - [Weather](/en/Weather)
