@@ -1,5 +1,5 @@
 +++
-title = "English lessons"
+title = "Greek lessons"
 +++
 
 (and ideas for future lessons, in red)
