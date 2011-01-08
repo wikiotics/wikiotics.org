@@ -29,6 +29,11 @@ community.
 For more information about the project, take a look at the
 [about](/en/about) page and feel free to [contact us](/en/contact).
 
+### SCALE
+
+Wikiotics will have a booth at the [Southern California Linux Expo
+(SCALE)](http://www.socallinuxexpo.org/) on February 26-27.
+
 ### Drumbeat
 
 We have applied for a joint [Mozilla/Shuttleworth Foundation
