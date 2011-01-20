@@ -1,5 +1,6 @@
 +++
-title = "about"
+title = "About Wikiotics"
+languageCode = "en"
 +++
 
 ## Project Vision
