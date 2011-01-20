@@ -196,7 +196,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "De man en de vrouw wandelt."
+text = "De man en de vrouw wandelen."
 type = "phrase"
 
 [[cards.sides]]
@@ -259,7 +259,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "De meisjes wandelt."
+text = "De meisjes wandelen."
 type = "phrase"
 
 [[cards.sides]]
