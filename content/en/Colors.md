@@ -1,6 +1,6 @@
 +++
 title = "Colors"
-contributors = [ "ian",]
+contributors = [ "garrison", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -216,7 +216,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The rainbow is many colorsrainbow."
+text = "The rainbow is many colors"
 type = "phrase"
 
 [[cards.sides]]
