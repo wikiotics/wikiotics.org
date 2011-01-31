@@ -73,17 +73,17 @@ text = "spoon"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Eq7xKc5tdMuDLQQtR7as2ErhE7lrHm6FHbH2oLxK5dFZFGhgjhVCMjX6WWEdNPei"
-href = "urn:sha384:y4zDoHW_dTqCBP8FySjbw8aV-jRvIzGXJaI75GNtrkhte2xxG8rjlTfAGU39gbs_"
+blob_href = "urn:sha384:4v94PzpDeQfGrjHiMpZ0p2Yhi1yrgFXXPblB6z6BEC5GzBA7q22wJnx_YAMVLxpV"
+href = "urn:sha384:90wnD9JCrGARksbX9dQhpgOihIrUZQ5RCRpcHbLdieFhOuxOELQWMGCy5dhMp4xs"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Cheryl (EraPhernalia Vintage . . . here only occasionally)"
-author_url = "http://www.flickr.com/people/28510393@N07/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/28510393@N07/3379399177"
-title = "MARDI GRAS stainless & some kind of plastic-handled flatware"
+author = "THOR (geishaboy500)"
+author_url = "http://www.flickr.com/people/49503154413@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/49503154413@N01/100587850"
+title = "WHITE spoon"
 [[cards.sides]]
 type = "empty"
 
