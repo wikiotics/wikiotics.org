@@ -22,7 +22,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/15923063@N00/3119101413"
 title = "On the Town"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vuKGlcTlTKAHV3cVXxS4praCR3Pw7hvEZNwz6V0MBr8z1dTHXlUxHH5hioWY9q_7"
+href = "urn:sha384:s4PlD5mo3Eo2Hl76aAvqxQaYruweF01TLSQ5DpgV2m-FtS08hrmdVmvLCvKWMZ7e"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -43,7 +46,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/50098101@N00/3282407517"
 title = "ellen2"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GcgT0i3sP5U88F76g8IyTq2o98M8tFicFKqMEoXRePymGg8V3ZOz3SGuOrdmLIYP"
+href = "urn:sha384:MGsuY-5ztLYBIgCvPBYfFbuT4KlRKAjFwIeY4tevn8HgKYqtemnBCqTvoR9vETy_"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -64,7 +70,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/98896251@N00/499119736"
 title = "Tom posing"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:i9BzXN1nJPTbXm0atiKRPBUDPfsaqDfkpJIIdqdStWG-6uwWAv-N2k-BbxTL8bYa"
+href = "urn:sha384:TRCynvlxdM9TNTys4523hL_GT3KXxWLT7hr1I1hNcJ4JvjduCSZz7kbJAj-RHiIB"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -85,7 +94,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/44036847@N05/4941513064"
 title = "Alfie"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9jW1mnZb1gOyxAcwTrqquxzonUAhqn7tDRMc3-SzfMgeNepMiQP_Uf3idCuuYhsj"
+href = "urn:sha384:mTsE43W1y5IQiHCGzzI5dulGXHQgVP9ZgVU0hWLK8GYkqQ8zYsA0t96gB1NvUZTN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -106,7 +118,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/73645804@N00/3338235706"
 title = "improptu field trip"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pbUvF-ttUs1zqDazzal4rTQGgdPtupyXLt2Pok760kfuiUZTahEkIvCUNnhp3BJa"
+href = "urn:sha384:J7P0Kbl5pi2pbToRSiQRLOcmTS06SE4llV8MNe5YoL-Qjdm2DMsJvLk5F7LYQYor"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -128,7 +143,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/10485077@N06/2915364715"
 title = "In Hopper's Studio"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4r_Iqfzco-AUrDx877eZmAugZ1jdYE3-qWxCiQipCnfkIHlEJ0neEXLuUMi67_5t"
+href = "urn:sha384:B9TD8cy77UWt4ET9HXOzT7oMoNlQ69HeHY9GcExxoT42tP77CjWHDnoEn3kRZMX6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -149,7 +167,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/10485077@N06/2648778104"
 title = "Jim Wu"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VCExkLe3942p7MKL7II1IE18EHqDaW-Rg_W6LHShdhyt5vSyR7YDHa6XVewruoKI"
+href = "urn:sha384:dzDZNppAoZv5sRKyYjp7itnvuileWXmlAKvSLp0EiyPcUy1w4ZJGxKDIBNrcFWwE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -170,7 +191,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8569394@N07/1880700702"
 title = "Taking a break"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:afxm-FvK_0mo6YLMEDjT1YDGcVQoBfo38iGwVvXm5m03Ow6UKkXNnj5JVuVVHOIn"
+href = "urn:sha384:hjeuiZsU7Tqnit9_DfrneMiC3GO7HuiBHWZ-2h051OtEqfz_lhu7zJ9CrxlTL9LU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
