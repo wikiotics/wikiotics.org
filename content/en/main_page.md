@@ -33,12 +33,3 @@ For more information about the project, take a look at the
 
 Wikiotics will have a booth at the [Southern California Linux Expo
 (SCALE)](http://www.socallinuxexpo.org/) on February 26-27.
-
-### Drumbeat
-
-We have applied for a joint [Mozilla/Shuttleworth Foundation
-fellowship](http://www.mozilla.org/grants/education-fellowship.html)
-titled "Education for an open web". If you like what you see, please
-[register at drumbeat.org](http://www.drumbeat.org/user/register) and
-[vote for us on the Wikiotics project
-page](http://www.drumbeat.org/node/29376/about).
