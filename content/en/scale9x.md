@@ -39,7 +39,7 @@ record even for lessons that already have one or more speakers.
 
 ### If you have a camera
 
-We have a [fickr group](http://www.flickr.com/groups/wikiotics/) that
+We have a [flickr group](http://www.flickr.com/groups/wikiotics/) that
 needs your freely licensed (CC-BY or CC-BY-SA) photos. Every picture we
 collect and tag there makes it easier to build high quality, beautiful
 lessons about the items and situations in our lives.
