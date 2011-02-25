@@ -32,4 +32,6 @@ For more information about the project, take a look at the
 ### SCALE
 
 Wikiotics will have a booth at the [Southern California Linux Expo
-(SCALE)](http://www.socallinuxexpo.org/) on February 26-27.
+(SCALE)](http://www.socallinuxexpo.org/) on February 26-27. If you are
+also at SCALE, come check out our booth and take a look at our special
+[SCALE welcome page](/en/SCALE)
