@@ -12,10 +12,10 @@ elements (pictures, audio, text) are combined in interactive lesson
 templates, making new materials easy to create and existing materials
 easy to break apart and remix.
 
-The software behind this, called [ductus](http://ductus.us) and built
-from Django and the same version control model as git, is GPL'd and all
-the content on the site is licensed as CC-BY-SA to encourage community
-sharing.
+The software behind this, called [ductus](http://ductus.us), is built on
+top of Django and uses a version control model similar to git. It is
+GPL'd software, and all the content on the site is licensed as CC-BY-SA
+to encourage community sharing.
 
 ## Demo
 
