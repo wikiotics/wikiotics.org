@@ -215,7 +215,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/26993489@N00/140805906"
 title = "Dog Out Walking"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:S_soer6spBDZ1OCRdf5Y_G_oPrkiLWxxAl0xYzHKjtC-UhyfHCpGe4GUaHwk3fpH"
+href = "urn:sha384:IIKhxQU1128JTgy4MmVAFg7cedSB7cVTOMMmzU5YH5K40t1sBwjuczRzCFGt5YCg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -236,7 +239,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/72098626@N00/3275748024"
 title = "Romance isn't just for teenagers..."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9qWOvYYsjmgaoBaUpnzLQnubzHqRm5Bqtru5NcfSSaOBBl-6uK_6c4TyPbm74OQr"
+href = "urn:sha384:wQfgOk8VjxBXm3tCcOow7j-EQ1xhal7A0Y6aUXKwwqDncZMajxMPJ_sYPdNgzDN2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -257,7 +263,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/30281826058@N01/1763008"
 title = "Alex and lap cat at Roman Agora"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4aB9IttXW18VYwl473ZNakc9CAeN1ypBx0QRFvlZSUSKEJD1eFPQO19iZuyW6YJY"
+href = "urn:sha384:rSjkSGklm3PbiozyVhBnFV-H69xNoXPgD7znlEYECMulK1pvSI5Evr1UYqRtff0D"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -278,7 +287,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28884731@N07/2696575988"
 title = "sad girl"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:G-d_PLA38TGmhKfRT-TvZTqx4aOLlV6I0mSt2l0dwlZO06tphInfZmCFbSJO_e5Z"
+href = "urn:sha384:8v0htqHr_RM-9q-fyaEgTWTLzjQkQus2iywMPyZtK_YyYCtCrcWLW-197_2Q0Lh4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -299,7 +311,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/72825507@N00/3189781853"
 title = "Two attractive young ladies feeling good and walking on the wet sand holding what looks to be giant-sized Dos Equis beer bottles - drinking beer on the beach at sunset"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LUPncaZ4WRSJiErD08TrWAII-8FjvvgysrrEvOC4UV0Rm954m0tPG9awILP02AGd"
+href = "urn:sha384:9N7fo3ZtccukiOGJKeNivApGv0ybDEJQgLqqCqgbg4Fl1PC85cmebi_5GzIYPkvC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -320,7 +335,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/21981149@N04/3295826857"
 title = "Land Speeder"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:S_soer6spBDZ1OCRdf5Y_G_oPrkiLWxxAl0xYzHKjtC-UhyfHCpGe4GUaHwk3fpH"
+href = "urn:sha384:eXKln20Z5KRH0_OURFwvdEivIx3wQUP4zXWR-9d7u2Nj7lpUDp1zizvbwaTXVnxD"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -341,7 +359,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/44124425616@N01/258971456"
 title = "The Runner"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:AenRBwRfz_K8ultDmXZUStda_q_Hg8QOtRd8x9AkZUMaby15lyFLHRHfKgzWVXwv"
+href = "urn:sha384:MvwzsJkdnWD3CE4prlsDc3YtewtRt2IJ4RII_GdQtLQmx0VwpkNGVHVqGh6s59O7"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -362,7 +383,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/30901369@N00/3998158534"
 title = "Friend."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:S_soer6spBDZ1OCRdf5Y_G_oPrkiLWxxAl0xYzHKjtC-UhyfHCpGe4GUaHwk3fpH"
+href = "urn:sha384:beJ-6fm-k4bn3LlKBwbqw2KY1aQLt5eQwMDZQGo5WEVkjJ491eMoct6Me4MdltWf"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
