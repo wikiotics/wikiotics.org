@@ -14,7 +14,7 @@ languageCode = "en"
   - [English lessons](/en/English_lessons)*(en)*
   - [Finnish lessons](/en/Finnish_lessons)*(fi)*
   - [French lessons](/en/French_lessons)*(fr)*
-  - [German lessons](/en/German_lessons)*(da)*
+  - [German lessons](/en/German_lessons)*(de)*
   - [Greek lessons](/en/Greek_lessons)*(el)*
   - [Hebrew lessons](/en/Hebrew_lessons)*(he)*
   - [Hindi lessons](/en/Hindi_lessons)*(hi)*
