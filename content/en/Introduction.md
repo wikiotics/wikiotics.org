@@ -1,6 +1,6 @@
 +++
 title = "Introduction"
-contributors = [ "124.63.101.22", "127.0.0.1", "201.37.129.76", "216.27.154.200", "ian",]
+contributors = [ "124.63.101.22", "127.0.0.1", "201.37.129.76", "216.27.154.200", "65.91.246.2", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -34,17 +34,17 @@ text = "This is a woman."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:_1KxRe-1tYfCqavXwMhU4FM-eRHHojxnUDxVPYBtFIw4brO5xdzwTd2O3h3zXo_l"
-href = "urn:sha384:Q0M3RlHvIkeEDvSKg50JT5NrGEf2HFB_9rmAqZJX3dBZ-suM1yfGV6QZtzZs-WNj"
+blob_href = "urn:sha384:dU5oGiOV8voQyZQ6xcW3MnXiM6vTMfCavLuNFq42DN_Y7wNN9uTSirxsru6p2AdB"
+href = "urn:sha384:c-1mpzlLzvoDg2z4jM0if8O459JNOb7KXUer_L2nos6qR4lqMT-Zo76QUzEP_F8y"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Kevin McGladdery (Mr. McGladdery)"
-author_url = "http://www.flickr.com/people/50098101@N00/"
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/50098101@N00/3282407517"
-title = "ellen2"
+original_url = "http://www.flickr.com/photos/36495803@N05/4899548915"
+title = "Beautiful Woman is Asian Looking"
 [[cards.sides]]
 blob_href = "urn:sha384:GcgT0i3sP5U88F76g8IyTq2o98M8tFicFKqMEoXRePymGg8V3ZOz3SGuOrdmLIYP"
 href = "urn:sha384:MGsuY-5ztLYBIgCvPBYfFbuT4KlRKAjFwIeY4tevn8HgKYqtemnBCqTvoR9vETy_"
