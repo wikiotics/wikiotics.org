@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Det regnar. "
+text = "It's raining. "
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Solen skiner. "
+text = "It's sunny. "
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Det är molnigt. "
+text = "It's cloudy. "
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Det snöar. "
+text = "It's snowing. "
 type = "phrase"
 
 [[cards.sides]]
