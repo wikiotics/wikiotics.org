@@ -1,12 +1,12 @@
 +++
 title = "Weather"
-contributors = [ "ian",]
+contributors = [ "Kalle", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "It is raining."
+text = "Det regnar."
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is sunny."
+text = "Solen skiner. "
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is cloudy."
+text = "Det är molnigt. "
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It is snowing. "
+text = "Det snöar. "
 type = "phrase"
 
 [[cards.sides]]
