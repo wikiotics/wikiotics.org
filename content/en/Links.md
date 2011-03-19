@@ -43,3 +43,4 @@ title = "Other projects of interest"
   - [UniLang](http://www.unilang.org/)
   - [RhinoSpike](http://rhinospike.com/) allows people to submit
     exchange audio recordings of texts. The content is freely licensed.
+  - [Språkskap](http://www.tii.se/projects/sprakskap)
