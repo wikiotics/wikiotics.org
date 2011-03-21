@@ -1,6 +1,6 @@
 +++
 title = "Weather"
-contributors = [ "Kalle", "ian",]
+contributors = [ "192.160.130.14", "Kalle", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -10,8 +10,8 @@ text = "It's raining. "
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:5xpB364YqJ3ej3gBVTuTTAIrrN2gGl77IULd8y6MqMMK4m5NpFWny0w8O_dFREvK"
-href = "urn:sha384:Y8salbKSBKX8DYqoD6MxKKyt2RSe2lZq_btcTsbLIQYd87Qom5Yqxb5L2RWO8A6y"
+blob_href = "urn:sha384:63PilXdMdG64aWmLcs5LCN4a8ElSsTaAareVX3Eti_uvwvqjz0dBSdT_frlouwqp"
+href = "urn:sha384:JOCuKrqkHurLWNQH9gRgNNSVkCeCcKGaMUCofz3w2_ewDTPIczoaXmzT1jbgBJXa"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -19,8 +19,8 @@ type = "picture"
 author = "Ed Yourdon (Ed Yourdon)"
 author_url = "http://www.flickr.com/people/72098626@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/72098626@N00/4212964637"
-title = "Something is wrong here: why does the mother have the umbrella, and the kids are getting rained on?"
+original_url = "http://www.flickr.com/photos/72098626@N00/3645952026"
+title = "Umbrellas in the rain, Jun 2009 - 31"
 [[cards.sides]]
 type = "empty"
 
