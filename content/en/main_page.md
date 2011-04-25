@@ -29,9 +29,11 @@ community.
 For more information about the project, take a look at the
 [about](/en/about) page and feel free to [contact us](/en/contact).
 
-### SCALE
+### Logo Contest\!
 
-Wikiotics had a booth at the [Southern California Linux Expo
-(SCALE)](http://www.socallinuxexpo.org/) on February 26-27. If you are
-one of the people who stopped by, it is not too late to take a look at
-our special [SCALE welcome page](/en/scale9x)
+We are running a [logo
+contest](http://99designs.com/logo-design/contests/create-next-logo-wikiotics-74307)
+through [99 designs](http://99designs.com/). There is a cash prize of
+almost $500 USD and the contest runs through 4:00pm Eastern on April
+26th. Come check out the designs so far and please let us know what you
+think through the [usual means](/en/contact) or submit your own\!
