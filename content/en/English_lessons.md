@@ -25,6 +25,7 @@ title = "English lessons"
   - [Barcelona architecture](/en/Barcelona_architecture)
   - [to play](/en/to_play)
   - [Technology](/en/Technology)
+  - [WANY](/en/WANY)
 
 We should also try to create lessons that contain all the concepts in
 [Basic English](http://en.wikipedia.org/wiki/Basic_English), as well as
