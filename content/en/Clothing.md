@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "The black jacket"
+text = "Women wearing black clothing. "
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "red jacket"
+text = "Man in the red jacket"
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "green socks"
+text = "Green Socks"
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "brown scarf"
+text = "Brown Scarf"
 type = "phrase"
 
 [[cards.sides]]
@@ -90,7 +90,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Pink Hat"
+text = "A baby wearing a pink hat."
 type = "phrase"
 
 [[cards.sides]]
@@ -132,7 +132,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Boots"
+text = "Six people wearing boots."
 type = "phrase"
 
 [[cards.sides]]
@@ -153,7 +153,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "blue shirt"
+text = "A small boy wearing a blue shirt."
 type = "phrase"
 
 [[cards.sides]]
@@ -174,7 +174,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Yellow Pants"
+text = "Man wearing yellow pants."
 type = "phrase"
 
 [[cards.sides]]
@@ -195,7 +195,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "men in white shirts"
+text = "Men wearing white shirts."
 type = "phrase"
 
 [[cards.sides]]
@@ -216,42 +216,42 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "orange pull over"
+text = "Women wearing red sweeter."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:0UoWkMeFqKRCFtX82tE_GqiBVP8dcPQC_BdDCHdQdiS5AkSv5n99rXBzzk-G_N4h"
-href = "urn:sha384:Om5qwGM1iq7vXhozIYntMvW5jl_Eu3E3-m1d6RUl5DhTXFfjBrBWgwPHBiCCIbJO"
+blob_href = "urn:sha384:bD23_ThWpgjsuHkZHxFF31_vNApCQEW7UGC6Uu2JhpdtRLL2rjNqYKhSYS0yxxS4"
+href = "urn:sha384:vHMl0r0Z8631jcKghcH5Vi0MuqARYNv-uZivvPq3PipVbglFFTuAK6cBsppMmuGW"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Luca Volpi (Goldmund100)"
-author_url = "http://www.flickr.com/people/13016192@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/13016192@N00/361805672"
-title = "Myself"
+author = "lululemon athletica (lululemon athletica)"
+author_url = "http://www.flickr.com/people/30011527@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/30011527@N05/3969955354"
+title = "Lil Red Riding Hood, lululemon styles"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "blue jeans"
+text = "Man wearing blue jeans."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:wTyXAxRsQM07oZGuEXkyrGKY_XAL_8qKqm8Fn55fOrpGix2bZLvWfUuYxmneapWI"
-href = "urn:sha384:ZQwpkmTKSfAaAW8lOgJGSPzZ-AwN0DJ-v3UpXOUOQAZsW-zwGKdpvRA29hmplwEu"
+blob_href = "urn:sha384:VHGMLfvXrBygaf7CYWhfrw04YgjHjlRXwYXIC7xuB6MODa60SWsh_CzYhfqVA_xY"
+href = "urn:sha384:OMMNQ-xmzX2V8utsnFUXBjWkzY5klGtXts33mAxnEdlp6s6wi-VzinSAJvhO1wCk"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Rick Harris (Яick Harris)"
-author_url = "http://www.flickr.com/people/37153080@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/37153080@N00/5391182819"
-title = "Blue Jeans"
+author = " (Funkdooby)"
+author_url = "http://www.flickr.com/people/7802947@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/7802947@N02/4900766446"
+title = "City gent or farmer Giles?"
 [[cards.sides]]
 type = "empty"
 
