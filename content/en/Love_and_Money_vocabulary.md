@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "The dress is pink"
+text = "The woman's dress is pink"
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The jacket is black"
+text = "The man's jacket is black"
 type = "phrase"
 
 [[cards.sides]]
@@ -112,7 +112,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The waiter writes down what you want"
+text = "The waiter brings you food"
 type = "phrase"
 
 [[cards.sides]]
@@ -175,7 +175,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Restaurants serve food"
+text = "The people eat food in a restaurant"
 type = "phrase"
 
 [[cards.sides]]
@@ -196,7 +196,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Food is cooked in a kitchen"
+text = "The woman cooks food in her kitchen"
 type = "phrase"
 
 [[cards.sides]]
@@ -238,7 +238,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "There are grass and trees in the park"
+text = "There are grasThe park is full of grass and trees"
 type = "phrase"
 
 [[cards.sides]]
