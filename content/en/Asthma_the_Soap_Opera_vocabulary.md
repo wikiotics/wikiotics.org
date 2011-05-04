@@ -1,6 +1,6 @@
 +++
 title = "Asthma the Soap Opera vocabulary"
-contributors = [ "24.45.15.36",]
+contributors = [ "24.45.15.36", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -136,17 +136,17 @@ text = "A mother shows her son a new asthma inhaler and spacer"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:KPeMs46iNIRIWTwO9jFpPRcKP9kdt6IrsXTpG7l2WCouNIHwF6HOzzjXi9QOQS9m"
-href = "urn:sha384:2v_azIuvkVRdiRyLPMNWle4IMrGfVvWqXEVNnaxCWzfdBuZjFQ54GJHbiD3LB-DX"
+blob_href = "urn:sha384:ET5QnhWiUc2QW5M45jriNw6-EAA9D-gxnhaVem7c52sZNjjOq2RJU2CvFAYP7ulG"
+href = "urn:sha384:FptZR0A3EVDCmCgGAlwAopTbr9L5Do2ueD0WRvbt9_IMN_4dNUT82uB7If4vU17R"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Todd Wickersty (toddwickersty)"
-author_url = "http://www.flickr.com/people/22182896@N05/"
+author = "Thomas Widmann (viralbus)"
+author_url = "http://www.flickr.com/people/19414697@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/22182896@N05/5582038466"
-title = "40/365 - Mar 29, 2011"
+original_url = "http://www.flickr.com/photos/19414697@N00/523977327"
+title = "Pudge with his inhaler"
 [[cards.sides]]
 type = "empty"
 
