@@ -22,6 +22,8 @@ The current episodes are:
 
 ### 2 - Asthma: The Soap Opera
 
+[Asthma the Soap Opera vocabulary](/en/Asthma_the_Soap_Opera_vocabulary)
+
 ### 3 - Welcome, Parents
 
 ### 4 - No Smoking
