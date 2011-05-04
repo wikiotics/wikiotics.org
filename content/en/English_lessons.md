@@ -12,6 +12,7 @@ title = "English lessons"
   - [Modes of transportation](/en/Modes_of_transportation)
   - [Art supplies](/en/Art_supplies)
   - [Colors](/en/Colors)
+  - [Clothing](/en/Clothing)
   - [Musical instruments](/en/Musical_instruments)
   - [Random nouns](/en/Random_nouns)
   - [Basic numbers](/en/Basic_numbers)
