@@ -87,6 +87,90 @@ title = "Shoreditch Globetrotter"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "The doctors examine a patient"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:VrkR6avxTkrUnTc4Q1LEBMuICunWWtGZYuusPJ39aCwyMQoZe1G4wtkeUsDZMlvp"
+href = "urn:sha384:q2CDNCf4pXTvrPEPKB15cObrij0bq9foI6LAWeboUj2kvNEqtBTZIhcjSLPUyIWJ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Seattle Municipal Archives (Seattle Municipal Archives)"
+author_url = "http://www.flickr.com/people/24256351@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/24256351@N04/4058808950"
+title = "Doctors with patient, 1999"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "These are medicine bottles"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:J79f4EigjMGVE8MYGJBc6HGZrIrWWfT7oC1Tg6rHPT6gCNv51Proq59VBfowJRtZ"
+href = "urn:sha384:8T16dBO8M8OBDxhHt_me5ZbAOEFSCUCTCEfED4aUi88GooeIua7S__XU5A9am86O"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Thirteen Of Clubs)"
+author_url = "http://www.flickr.com/people/74163253@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/74163253@N00/5521104132"
+title = "Pills pills pills pills"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "A mother shows her son a new asthma inhaler and spacer"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:KPeMs46iNIRIWTwO9jFpPRcKP9kdt6IrsXTpG7l2WCouNIHwF6HOzzjXi9QOQS9m"
+href = "urn:sha384:2v_azIuvkVRdiRyLPMNWle4IMrGfVvWqXEVNnaxCWzfdBuZjFQ54GJHbiD3LB-DX"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Todd Wickersty (toddwickersty)"
+author_url = "http://www.flickr.com/people/22182896@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/22182896@N05/5582038466"
+title = "40/365 - Mar 29, 2011"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The man is smoking a cigar"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:CSRxTFpsRB9adMIS_Rfvt0BlUv-QarWX1B69fd-FqB3-1ytjY5lQZViNIEmP0OxC"
+href = "urn:sha384:WTVd0LEdQRyX0BD9pNtKXUx3OCR_MbH7Fx0P49_ZPDDBmrEwhmVdLDWCkef_a0bZ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Artiom P (Artiom Ponkratenko)"
+author_url = "http://www.flickr.com/people/36206672@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36206672@N05/5669244788"
+title = "The Gangster"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
