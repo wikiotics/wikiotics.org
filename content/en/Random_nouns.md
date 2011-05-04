@@ -1,6 +1,6 @@
 +++
 title = "Random nouns"
-contributors = [ "garrison",]
+contributors = [ "209.129.49.65", "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -31,17 +31,17 @@ text = "This is a bridge."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:BELouVaBpG4G3ltBD40wlOvb5O-DT4PnIjR6HSsHBvfLix6gXqpmCdT0Omic-2C0"
-href = "urn:sha384:mRl9RDjAlbG8bMoqc69t3LjCM4Ky7LwOX3kIg5no9vuy5Wq-ofSfCGrmXnJ0jCom"
+blob_href = "urn:sha384:iRNcAtu_YiNhx22O-_Taw_89RlF_8k4VJ72iIbHilGDMWxpOG4Qnqrj6YNAbAi1Q"
+href = "urn:sha384:y0ghG3tXsuwifKztYfyI4vpWUmsKTVzLh8d4-ls-TKVmP22nCy5yZOtH2cx5ubqc"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Tim Keegan (suburbanbloke)"
-author_url = "http://www.flickr.com/people/49333819@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/49333819@N00/381685753"
-title = "Lake Hume / Bethanga Bridge at Bellbridge on the Murray River - 6502"
+author = "Anna Fox (HarshLight)"
+author_url = "http://www.flickr.com/people/79172203@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/79172203@N00/5620316653"
+title = "Walt Disney Family Museum"
 [[cards.sides]]
 type = "empty"
 
