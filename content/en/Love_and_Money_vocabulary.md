@@ -238,7 +238,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "There are grasThe park is full of grass and trees"
+text = "The park is full of grass and trees"
 type = "phrase"
 
 [[cards.sides]]
