@@ -1,6 +1,6 @@
 +++
 title = "Clothing"
-contributors = [ "xbeiberx",]
+contributors = [ "209.129.49.65", "xbeiberx",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -31,24 +31,24 @@ text = "Man in the red jacket"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:dmvWTvxRiaMZ4GGZlekdibubgos_lnaITpxHZcXZ46RfTqRiHO69oWVSxcM_9GN2"
-href = "urn:sha384:OzJjXmBq-baaVtx32rTpZbOHAP8c4oIILQUQysD4be8ll8AgwinlxOztt--UTYoA"
+blob_href = "urn:sha384:9hNrwirlJxbZmeN8Mq7ix9JwQMImRZ0EVn1XWgN0AfqRzkIEqHY-ctjT-zUhTSsy"
+href = "urn:sha384:6kEhW3HJVVDbFdAq99xymb567mhBWnH1n4l3L9dWZmC3GIcLfCxWKsvqz2YR9Ug0"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Marcel van Schooten (wot nxt)"
-author_url = "http://www.flickr.com/people/50746511@N00/"
+author = "Joi Ito (Joi)"
+author_url = "http://www.flickr.com/people/35034362831@N01/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/50746511@N00/4100640395"
-title = "Uncle Franky @ Hunky Dory"
+original_url = "http://www.flickr.com/photos/35034362831@N01/449236685"
+title = "Governor Domoto greets guests"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Green Socks"
+text = "The feet wearing green Socks"
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Brown Scarf"
+text = "The brown scarf"
 type = "phrase"
 
 [[cards.sides]]
