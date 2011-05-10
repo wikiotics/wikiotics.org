@@ -44,3 +44,7 @@ title = "Other projects of interest"
   - [RhinoSpike](http://rhinospike.com/) allows people to submit
     exchange audio recordings of texts. The content is freely licensed.
   - [Språkskap](http://www.tii.se/projects/sprakskap)
+  - [FreeRice](http://freerice.com/category) offers several learning
+    games, including an English vocabulary trainer that adapts to the
+    level of the user and some very basic vocabulary trainers in a few
+    other languages
