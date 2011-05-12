@@ -1,6 +1,6 @@
 +++
 title = "Clothing"
-contributors = [ "209.129.49.65", "xbeiberx",]
+contributors = [ "209.129.49.127", "209.129.49.65", "xbeiberx",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The brown scarf"
+text = "The brown scarf."
 type = "phrase"
 
 [[cards.sides]]
@@ -111,7 +111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Dog wearing a skirt"
+text = "Dog wearing a pink skirt"
 type = "phrase"
 
 [[cards.sides]]
@@ -195,21 +195,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Men wearing white shirts."
+text = "The boy wearing a green hoody."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:-gxEj3cxOZw5wIPD5uEdcQMnJYJyPdREPSNuky2hpDHIVpEU_v1PFldBIS7oU0ED"
-href = "urn:sha384:JAX2sucrdtYRnXKITlBGAw6GuDhWlni1vxMFUY4AIYLBjRiVDLwOMA0rZ_mO-ASr"
+blob_href = "urn:sha384:YJuAoN9-DfCsArfJOOoAlz1hkdVaJQaSMz0qqBSpRX47BSuKvrpCaaSGDZyS3pPL"
+href = "urn:sha384:wFitdp_kxDl6HC3caIi-0fl3DgutVCTtM6jgAVqOke7KVSQiRXwmtE6y30p9eqYt"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Jaap den Dulk (dulk)"
-author_url = "http://www.flickr.com/people/11527081@N05/"
+author = "lululemon athletica (lululemon athletica)"
+author_url = "http://www.flickr.com/people/30011527@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/11527081@N05/3640240045"
-title = "BM design is done in a White Shirt #BMKF"
+original_url = "http://www.flickr.com/photos/30011527@N05/4309154049"
+title = "Fit & Function: Glove Side Hoodie"
 [[cards.sides]]
 type = "empty"
 
