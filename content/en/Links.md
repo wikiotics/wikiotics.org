@@ -48,3 +48,6 @@ title = "Other projects of interest"
     games, including an English vocabulary trainer that adapts to the
     level of the user and some very basic vocabulary trainers in a few
     other languages
+  - [WikiBabel](http://www.wiki-babel.org/en/Main_Page) offers free
+    lessons for learning any languages. Our lessons are podcasts
+    collaboratively recorded by native speakers.
