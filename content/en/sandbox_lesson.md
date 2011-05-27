@@ -10,17 +10,17 @@ text = "man"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:CXJCFa9HAXrVX2vvkVJEDwKNEnYz7j-KwMgHjbeV1MCeaCbPWppPnhPsew0Xjww0"
-href = "urn:sha384:3O8BG2VAik9CAlvH-XPjrbfJAGdE8yKO_RNrSLm6pGhWZEcjw3e6XJEGj5PIy-V5"
+blob_href = "urn:sha384:B1HnAEwVb67-kiI323Y3hpMCtc9J-9a30nAbJ_IvlsX9fNOcgX-rAa-Dp2qkQDt9"
+href = "urn:sha384:hvQ6B3jdr7DobQq7SHeGs8WinDMhq0BWINO__CNfOdmdffXUpQpSQZcUQ1KBxZWn"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Yuri Samoilov (Yuri Samoilov)"
-author_url = "http://www.flickr.com/people/38998968@N06/"
+author = "Kevin Dooley (kevindooley)"
+author_url = "http://www.flickr.com/people/12836528@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38998968@N06/4105603525"
-title = "Man portrait"
+original_url = "http://www.flickr.com/photos/12836528@N00/3372925208"
+title = "Cat"
 [[cards.sides]]
 type = "empty"
 
