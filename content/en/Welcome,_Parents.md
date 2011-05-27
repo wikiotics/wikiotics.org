@@ -90,7 +90,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "homework"
+text = "The student is doing homework."
 type = "phrase"
 
 [[cards.sides]]
@@ -111,7 +111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "notebook"
+text = "The notebook is blank."
 type = "phrase"
 
 [[cards.sides]]
@@ -132,7 +132,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "report card"
+text = "This is a report card."
 type = "phrase"
 
 [[cards.sides]]
@@ -153,7 +153,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "note"
+text = "The note is yellow."
 type = "phrase"
 
 [[cards.sides]]
@@ -174,7 +174,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "school"
+text = "The school is on the corner."
 type = "phrase"
 
 [[cards.sides]]
@@ -195,63 +195,63 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "soccer"
+text = "The soccer ball sits on the field."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Tfi1cTjDYMWqJacRmvmbK9LtF4qSVOIMOpqc0aYxC51lem8TTJ6q6H_rDT0Z7gLr"
-href = "urn:sha384:De5Q5VOaYUbMTVU2K3gjSQNUkCG6Gh8Q-ruMNoeeZJNKasIQi381P4OZgyZwZjm5"
+blob_href = "urn:sha384:lW8uDcksAiFYGfE-PsDOHZV4P4tBTivjsv4UO7PR6JvcvRd85OfrCEP5eOxeM6uD"
+href = "urn:sha384:mq1WhtACt5nxyjwuBlzGAoZmNwgwV3puuCFSh0ZkUbZImmnNDYUwB2NddD5cubGK"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Loozrboy)"
-author_url = "http://www.flickr.com/people/30624156@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/30624156@N00/4817459732"
-title = "School's out"
+author = "Elvert Barnes (ElvertBarnes)"
+author_url = "http://www.flickr.com/people/95413346@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/95413346@N00/18057298"
+title = "Soccer.Ft.Ward.Alex.VA.28apr92"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "tie"
+text = "The man is wearing a tie."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Tfi1cTjDYMWqJacRmvmbK9LtF4qSVOIMOpqc0aYxC51lem8TTJ6q6H_rDT0Z7gLr"
-href = "urn:sha384:eHwtMurYmpYZCy2qbprg-pvIXUrhW-u8zSkzH4yhHSulPN1Y2JNZm0u8OMIBmq3q"
+blob_href = "urn:sha384:v7m1KNhwFLSdBmtpvk19sDyM7AMHn7TVGVN8OpdKmuQceLwNRJd-dFIuVAbDrkzy"
+href = "urn:sha384:gbrQTUwaIOLvrt3lttrbOAWuUBUFvEEVVMa3iJSA1_UPDN70zHPwZX5iLM4ugOqO"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Loozrboy)"
-author_url = "http://www.flickr.com/people/30624156@N00/"
+author = "Kris Arnold (wka)"
+author_url = "http://www.flickr.com/people/43675529@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/30624156@N00/4817459732"
-title = "School's out"
+original_url = "http://www.flickr.com/photos/43675529@N00/264436721"
+title = "Tie"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "copies"
+text = "There are many copies of the newspaper."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Tfi1cTjDYMWqJacRmvmbK9LtF4qSVOIMOpqc0aYxC51lem8TTJ6q6H_rDT0Z7gLr"
-href = "urn:sha384:x_kX-6gBYyA6LyGYS2fqM5gEv2AIPSQqOtFENyfMvwff01gXE_PuAadX5jxbs1NS"
+blob_href = "urn:sha384:-2ZIuYh_DQ1-89qjdQk1fFHo_yLS7oFiKqWjwK_x9Fb7TmELA-Dgg_R8Ov3y8YIv"
+href = "urn:sha384:LMxyCtalHm9cVriDFny3aVYCpQ4gtbS7k329FR61DQ-X7wL0PuYI7O9dB8xJxd2E"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Loozrboy)"
-author_url = "http://www.flickr.com/people/30624156@N00/"
+author = " (mandiberg)"
+author_url = "http://www.flickr.com/people/42586873@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/30624156@N00/4817459732"
-title = "School's out"
+original_url = "http://www.flickr.com/photos/42586873@N00/3333480058"
+title = "Old News at Postmasters, March 2009"
 [[cards.sides]]
 type = "empty"
 
