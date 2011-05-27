@@ -26,6 +26,8 @@ The current episodes are:
 
 ### 3 - Welcome, Parents
 
+[Welcome, Parents](/en/Welcome%2C_Parents)
+
 ### 4 - No Smoking
 
 ### 5 - The Hospital
