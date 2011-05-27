@@ -10,17 +10,17 @@ text = "man"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:B1HnAEwVb67-kiI323Y3hpMCtc9J-9a30nAbJ_IvlsX9fNOcgX-rAa-Dp2qkQDt9"
-href = "urn:sha384:hvQ6B3jdr7DobQq7SHeGs8WinDMhq0BWINO__CNfOdmdffXUpQpSQZcUQ1KBxZWn"
+blob_href = "urn:sha384:4gRgPZ-hR27bVY7h9pjpbIt5Ipzp7R31gl3VbORBBfWKXGoSUMtbZnwt6N6OSOMl"
+href = "urn:sha384:80bCmF4s0VxyGydOU6Y4Eh0DbN0_maueD-pyWrLrcnjn2OkUIh-BtjJ2BBO99HCC"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Kevin Dooley (kevindooley)"
-author_url = "http://www.flickr.com/people/12836528@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/12836528@N00/3372925208"
-title = "Cat"
+author = "David Dennis (DavidDennisPhotos.com)"
+author_url = "http://www.flickr.com/people/50852241@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/50852241@N00/2436720309"
+title = "Man in Cappadocia"
 [[cards.sides]]
 type = "empty"
 
