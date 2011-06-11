@@ -42,6 +42,8 @@ The current episodes are:
 
 ### 7 - New Life Café
 
+[New Life Cafe](/en/New_Life_Cafe)
+
 ### 8 - Stop Domestic Violence
 
 ### 9 - The Wedding
