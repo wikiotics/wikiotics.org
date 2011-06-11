@@ -38,6 +38,8 @@ The current episodes are:
 
 ### 6 - Stay in School
 
+[Stay In School](/en/Stay_In_School)
+
 ### 7 - New Life Café
 
 ### 8 - Stop Domestic Violence
