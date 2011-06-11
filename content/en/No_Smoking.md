@@ -11,7 +11,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:ETvHraJnB3KnyTRftzNexgBmpcNoUYOe6EUEtzR54wx07HNAi8bQfrHYR1ngpAZd"
-href = "urn:sha384:OHH8BER2RqncwAFk9UDxG8gRfaW2xqjCR6eDtDWshbmTFi_DLymxoj0qFoO2p9t9"
+href = "urn:sha384:J580-1a3nxQXYqO5INY16K7A6n8e-4ymOoI25rexExp7taUNHkRfFnWmHwJPLG1s"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -32,7 +32,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:UMLrmPdQXHQ7klJ_TMWMLcql6-yU-_hK9mwLVAi34_zOss_Qi6qTcciKZuZMnHCw"
-href = "urn:sha384:xaiEBktNQhabf6xxsqolwgswf9FG2zdMd7tRil2OG3mRbxlt_mJKxN0kPe4QM-Xv"
+href = "urn:sha384:aF-vtNQ0_fpkfVwTgbpwfrOq5NpIheiGtdj7haw2UmHLhu11nerH45qP1E-URjrH"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -53,7 +53,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:AalNvwmnHFzHvhlJWSbpYrNWWsvmkZ2BIWjwi2gsIH_gA1LO5BLf1Qc-XGmSaTFt"
-href = "urn:sha384:YwM-f63rTUBwYKqDGjblhAessq-xT3S-njzQpmnXF-zjmyiwlq6JsSsXMJrhEJ_k"
+href = "urn:sha384:H12a2lY_6l1pGivlb-lSU32ySXtkwENOVwetfMw5Hnvz3x6MUh3ca1oopAEGSykL"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -74,7 +74,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:-JEJbO7FAoA0eJsmTWBQ75bZzzLLx05LJTcVOASg6xD15Hxh9AXf1NRz4E0nYv9Z"
-href = "urn:sha384:OJ__3xk9lNg-aKxRQNGn_EFGfmIsmPkCJf1ZZ178W5qdUfzZ_T46tFw5PJTMPaRd"
+href = "urn:sha384:1xV0plB9gTxJQmQrfQoo7COJFL5OM5K2gcliUX_EiGPqxnvWpdrnubQI2VMGEfV4"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -95,7 +95,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:5NOiZkhRvtCkgjaF4mkoqMgIt2o4JibNWQLB6dcHxq82MkRDI6MJKJeSNAc_G_fA"
-href = "urn:sha384:-sZjP3H0udSOO7ikRFh5tXGn9A7S4GkhuvDyCM4joGcgPYFeycjDCZkN8P6DmLDu"
+href = "urn:sha384:U8jp-TxG_8-hzat287YRmBxj__b9iZnv5IiBsQJbg7P2njl6xSaswpbjm-VjW95D"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -116,7 +116,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:IpdHNMxBCUz6XmCN86aUZkDvZXbNm3vnXTAwXfUrVSV8dYTJ03twmTzV8qR-oczs"
-href = "urn:sha384:jq6oivEMMxu7V5h_dWt4kHC2xPoP6xkxVFW6JmpBtjLhIzAya8cM1LYqvXI52FxE"
+href = "urn:sha384:GSRExE7ZZX1LvrILYKg6vFbjoDlmrILM4ntthAe1eEnIVLP0soS203KkNRr2xWft"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -137,7 +137,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:es14b8_FLMRTfoJlMNB6Aiq1ajcKqschmBt0aBzEKB734vTuTbB-ipyMOcbVxvsA"
-href = "urn:sha384:h3UO2nuk3ch9WhfMZyoJajIbPyaPlSzTxU6cTKjlXscSYQIli5fBODB0yBtyZvvw"
+href = "urn:sha384:J39D02ISKU3biUJ4C3YiBXbroNE8Y84aUfQYRoVf1XYycA8ZV6oblk4pmuWYYEl2"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -157,7 +157,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:49oNcFrN8DpRGQ0cRw6UzAKsoZ1-M8OMlTygP1tGM6qjUUfTQnfqyeI4kKK5iP80"
-href = "urn:sha384:A9LuraNz8rhyguZZ6wy5f75zdzDQDPrQIvC_8nYEvs3L0Fkt_jJQc6ZFjQr70Let"
+href = "urn:sha384:SFBuoT3iY3hYXiGWEEeOtKOLC2g1R3lWInBitpDe9vK8UF_G4xrqZ1MAzD93NLhn"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -178,7 +178,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:eeFGv3hLeiwIiPBkuv7-N9BFINq6PzWANlwBTjb6LbGUZ7WBRVdjuxODM51qks3y"
-href = "urn:sha384:3-FhaPE2jZ28Rgo-UkEPFtnIog83-8nUasFnrzT8y929gmiGY-vQ5dOXD96aHGmB"
+href = "urn:sha384:FRr0MM8kuDP_NUheQjOSFreruR3Tzvh830Zz8OPo-AS8DfFz53EA7NvytpOKIXSk"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -199,7 +199,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:wGC4EdL_IEz86yRWjzGeXdP9k3gUhcDp8RmX9tEaxIwcKd6t_AbWhuQ7O31eJKMG"
-href = "urn:sha384:WI9op6BIr6BH0f2Fri6KLGFch1pF_A26RmMieIRdykMMKx8omQodKrUnZJUa_C9p"
+href = "urn:sha384:0MqJkknhOpKOuLF06KoyhyrnmAsIG1cVdj6Bpgx1Ba8eE6_oyuV2R_YT33r6_K3Z"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -220,7 +220,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:NWcAnu1Opqx3gzLlp_QuubP3PfZwx2ynE65LYfFNl8BRwG_i28PYXx0W4k1O_CAp"
-href = "urn:sha384:WkIugO-oMHl3cyXl-XEFbWv4r4AB255EiIbN_uJjR8gr0O1PpBkTQxKNUv6xeHFM"
+href = "urn:sha384:6ZwazJ4VyGvAVSH1tcdt1llYKmR-GaEuThrLjIl-g_CB_zk6FKvzvIMhayH_CiHM"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -241,7 +241,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:eznTvK3YErSW5I3lLf93kuIVDJqhUdC1pJ2kUyTn1vlWvHtjbqZZ6kIXiBwZyAVV"
-href = "urn:sha384:fS3-VCEPrSY3DxQvsAaeRncOcL7GgkVVRrJgng3Ju0Qm9ezyhtJJvBDB0cOExBMU"
+href = "urn:sha384:Qtwc_JlIJ1QmOC1xtmQpll4ZkywWbyYRhc0wqzQl2jUFv8RnqhaGm_LtOwDVl-LP"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -262,7 +262,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:eOMMaFjiU3d1ZvY99PXhqlg24DTjyrIqxSRt1q_tyOUu-yXeCTqFXRtynY-XQLaK"
-href = "urn:sha384:7vvZYOaGjWy7NNj2ewEgbbAlfM_3k24oT50x7P6IQbrOuyu-JhmtD2zyB6L-fxFg"
+href = "urn:sha384:jPQVsxC9__UpxCziCXPgNKNradaFJkM6r0_plbCBqYL8E0ffrjUZllVlahaYcQRo"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -283,7 +283,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:04IK5vZYXZX2MNUjzTXJQgaq9ZoggFKkYv6Py0pfBUo-dsHFn8Ge25AkQps2HmRX"
-href = "urn:sha384:JvsyLJZsQ_7Lfx4efSt0GVg9R7ofTdPFtGBbv1LxMEw94zP0UjFz2BmRFIojfQs6"
+href = "urn:sha384:h6eKhtwYCgD9gGNDUpXcR3J0nhMMbwjH1eutdccMMkh0ZyPF50g_pVBbGW42TI2S"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -304,7 +304,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:ZMu_zurCmcTe7wjJlIO-_dj7kKHtMAACO9IgQIb6R8yDo_P1H4R_HAthmOwZq8qS"
-href = "urn:sha384:lq5wolWyEoFV2lUlDJ7uixTr_iQESDlvjaLHUnv2OKuBlLPKK3ixpjYsA4yltX0T"
+href = "urn:sha384:5m37i3cfWEPtCoyg3qqhito_a-oyrAE5O3apdUWDwvLyKX_EH59xFufEeT6ayVJc"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -325,7 +325,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:fu02YwykKCUy0vRgb7Hsv1nGMXNHtoKOMoQs__cACf47c_IRx26HF1t0oQ4AeIS5"
-href = "urn:sha384:h7bKnMuCk5llCOiXSwKrXOusdTEsOoSJO-PzfgNHHMP8nSt8nf0_oloJIjy2Ltih"
+href = "urn:sha384:kE1tgKY543w5Ps6ABX9j4a8HXb25kziq0squ8_dji8WhSL0fa4PZ_SLrTBeYu36w"
 mime_type = "image/jpeg"
 type = "picture"
 
