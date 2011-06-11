@@ -30,7 +30,7 @@ The current episodes are:
 
 ### 4 - No Smoking
 
-((No Smoking))
+[No Smoking](/en/No_Smoking)
 
 ### 5 - The Hospital
 
