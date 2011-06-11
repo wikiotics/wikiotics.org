@@ -34,6 +34,8 @@ The current episodes are:
 
 ### 5 - The Hospital
 
+[The Hospital](/en/The_Hospital)
+
 ### 6 - Stay in School
 
 ### 7 - New Life Café
