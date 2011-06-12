@@ -11,7 +11,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:GFuYMmVGZre1t0Xac5V7C2zem4qa50UzKVDOnDdZnXg0qlLqSR0Nro2BfghuWDqV"
-href = "urn:sha384:frnBxSb64aGT3nCHl-WtIpTFpsmXwx8VljjiGsUIVZvVCmlgICdYF5c1CxeKiM0W"
+href = "urn:sha384:dkHBPnqqu546O7BiX0zWTg1Hlol3wNONBM2_oTTVFFQfdTo5TE709CoOZhWKGj5U"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -32,7 +32,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:LJ3b30IMlV5x2HbN-UH7VwcsRxzyKY1DMYaVq723yKrVuPX1_esez9Vl00uUjv_b"
-href = "urn:sha384:0zXzXxsB9Q9PL6yHPZTUvUmQfBooJU76rD8nH1dSDCLUBlPktiZeYUYP0C2jfYDM"
+href = "urn:sha384:wkttTsPHFoEoZVp53IF40XQyOqVb5ptoK9rlYy_2pdSeDUi7MHRi4At8ig3QHuJW"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -53,7 +53,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:3N53HzOqfEhlRTmnokid9BPNa4GHHJ75cxHOOVJfDJUDGxy7zelO0zDPKPlYWJt4"
-href = "urn:sha384:eNzqR8lkx8ycoJeN1dSmi10WwLJ3udB4jzWvbuAoOkkNkg441j1OtLIFc0MObkzM"
+href = "urn:sha384:hzOhoRzWOgI5o68J__q2iK_ks88fVtUHiMPfKcrbKka2l-FctT9Lwr3dHgvKn9UQ"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -74,7 +74,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:YXIpIl_VyWcml-PPWwNIDtYEIr49fbu05WB977fN-1z7kczHRN5aksnxpLk59G01"
-href = "urn:sha384:VkJ4V2L7OeF-pbBp82CUO4sO4WPagZH2PHwSfjmfamubxogk1d9C4ebEpoofLl5t"
+href = "urn:sha384:AZaBQIH-gkn8_uMFp_a7N7PZKhlCs4V-N_nX8HwB_xZ79I2RzVLWCavhFFKT_DPT"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -95,7 +95,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:2vHnJg1bZWPb3JNM2iv_85EXOoVQN83lidiJXVm6JV6BBQ6RupQMSOaVhgZBp68T"
-href = "urn:sha384:IhZoGipsz88azCVd5SDKpjkYPVKG9623jhLvO6wUkvghYcSkg7J5xo4WpVwB4I1C"
+href = "urn:sha384:OUlTjqXQxb0Y4L0wck5VHt2LguDh0YnPiZku2Ru3hwEFrnT8NbL5ONIDHmzpElfn"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -116,7 +116,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:DA3Ptim_0ZZ1eGjKi3S9hCyGQqi3MvOZ7-Ps_yjIU1aFBq45JQIutYPJPgtRXjM-"
-href = "urn:sha384:g_xLuzCwYQKtpYIVkoG3uFYHXDhVmZ8a1RTNXA-ZYhuoCEA0VyurByFdK8keDVcp"
+href = "urn:sha384:5L_u50bUHrDoeyVPSAWCFO41XcZczk84Bzee39yR1WRq4Yx3nSHikIgjhTuOCwMt"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -137,7 +137,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:nfapgtR9hQcs3hYrY3wQWiTjfcBIbu3BqTSV46C_A9jsA-pRWIF4q5ecdEyG2l80"
-href = "urn:sha384:ZfCVInt-df05mfo3vYrcEeIXH868uiRhuMBz_YtyJl-i3xCnYbCkFQOQZoJMyWVi"
+href = "urn:sha384:DDniPEJgzw7b3ZH6v_4m2-7-cpbTy3FEbudmOELxDSXgXDm1TXlJO_vtzgNYwGOz"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -153,12 +153,12 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "These ares boys. "
+text = "These are boys. "
 type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Qg2pzGofDU8h_W-QMcsGlcQ5gQvQPNQQEoeOrBGVwwqL-Ixqt7d6ycIdVx2V0oPZ"
-href = "urn:sha384:NsLODbMUNJtjFwoO5w9ObA0ctM8WyVTVZrLXdw_dVG4RC-AVQ2f_9aF-55hWWtKw"
+href = "urn:sha384:em7QT7N6-I-fM19qREG57v3VhnRKN-v2idnxvV-TtSNVt-xPwPHBDL3vANSHxwmJ"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -168,6 +168,90 @@ author_url = "http://www.flickr.com/people/34700343@N08/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/34700343@N08/4052010878"
 title = "Boys with dog"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "He is angry."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:_-E94HDdtw0w4flg-bK7zlzf8C2VD-gmMDMfNPlvcQJubl_Y8GpsYAFzXxcbarKR"
+href = "urn:sha384:DxmnE13KRwNvUQZC9AIDl1nfGG1BUm3dFb3wiHAXtNZjE7sRiAcfwkvVbIagMs2_"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "David Rader II (chexed)"
+author_url = "http://www.flickr.com/people/9518198@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/9518198@N04/1546923312"
+title = "Angry Mean Face"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "They are scared."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:R--CinKl0OsqoYwtFZ8X2r85MKrDCszlwYPjCwCJzeNtcvspwVMs6rO1Qg0tul6V"
+href = "urn:sha384:z8YQl6YHFYh34oOnmu-XhO6tPlVVNRWHzmPj8vb_WQHUk04wS37biLJhpc46N43W"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "James Bramlett (artindeepkoma)"
+author_url = "http://www.flickr.com/people/77885061@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/77885061@N00/54235257"
+title = "Scared!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "He is punching you."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:l3IkzTtpm4FqIh9gOpCv3GpF8Hx2zDpo-U3rWBXZ_szN2OoOiTOTzP2WD5Kv9Ngd"
+href = "urn:sha384:I9Z1sDjEgX0LMtgiObbCsAG9sSm75YSlTFfAGQ6eZs5F7U6Fz9q-9ym5qNFjGJcw"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Adam Merton (Adam J. Merton)"
+author_url = "http://www.flickr.com/people/21415791@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/21415791@N08/5354639620"
+title = "Punch"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The man is sitting."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:mh8Jg0_5wqd-LWe-Olz76mBskNZfgMsgIhVdDRzG2C_Xx6qbVmeh2ax0kyJ25Hwt"
+href = "urn:sha384:BvA8t3DNChoKkJSGsUQIPogPPMsMroY9jgDgEsWIW-wfZBsWyJmCKHtHClOSNqIA"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Deb (fauxto_digit)"
+author_url = "http://www.flickr.com/people/81389833@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/81389833@N00/3053228036"
+title = "Sit"
 [[cards.sides]]
 type = "empty"
 
