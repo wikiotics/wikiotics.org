@@ -27,4 +27,5 @@ If you like what you see and want to help, check out our
 community.
 
 For more information about the project, take a look at the
-[about](/en/about) page and feel free to [contact us](/en/contact).
+[about](/group/wikiotics/about) page and feel free to [contact
+us](/en/contact).
