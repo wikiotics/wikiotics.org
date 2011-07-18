@@ -1,6 +1,6 @@
 +++
 title = "The Hospital"
-contributors = [ "briannaavenia",]
+contributors = [ "briannaavenia", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -304,17 +304,17 @@ text = "The man is mopping."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:RmSm4ytZpaG6B6m6lHxXa0diCn2BdZc3OawTobI0OoF690KnCV7TaBNsjWdE-QSt"
-href = "urn:sha384:-frb_XoJoiRwSrR7acMl5TVsrDDK7e1dwqs_fS1qbb5M6YAeBkrasIKNwaUuGh0u"
+blob_href = "urn:sha384:TgtTIfX9HU4Mq-FImG2Kcg9GxG5lyfBrMfVBZYv_Z9v_2ympTAkswrTBJS0HUVOf"
+href = "urn:sha384:o8_i0iaLyhs2tC6zyILK4niFksbxQQg2C-ocyea5g-JIbiHJSxfH4ajsNVQlEnzR"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "David Goehring (CarbonNYC)"
-author_url = "http://www.flickr.com/people/15923063@N00/"
+author = "Tom Reynolds (thomasrdotorg)"
+author_url = "http://www.flickr.com/people/28135215@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/15923063@N00/5081948738"
-title = "Whistle While You Mop"
+original_url = "http://www.flickr.com/photos/28135215@N00/1462780251"
+title = "DSC_0024"
 [[cards.sides]]
 type = "empty"
 
