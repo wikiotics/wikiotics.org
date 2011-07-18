@@ -1,12 +1,12 @@
 +++
 title = "The Wedding"
-contributors = [ "briannaavenia",]
+contributors = [ "briannaavenia", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a guitar."
+text = "The Guitar has strings."
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a drum."
+text = "The drum has sticks."
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a dress."
+text = "The dress has a leaf design."
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a leaf."
+text = "The leaf is on a red background."
 type = "phrase"
 
 [[cards.sides]]
@@ -111,7 +111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "These are guitars."
+text = "The guitars are on a rack."
 type = "phrase"
 
 [[cards.sides]]
@@ -132,7 +132,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "These are dresses."
+text = "The dresses are on a rack."
 type = "phrase"
 
 [[cards.sides]]
@@ -153,7 +153,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "These are leaves."
+text = "The leaves are many colors."
 type = "phrase"
 
 [[cards.sides]]
@@ -174,7 +174,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is chicken soup. "
+text = "The chicken soup has noodles. "
 type = "phrase"
 
 [[cards.sides]]
