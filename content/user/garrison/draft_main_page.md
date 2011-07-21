@@ -35,4 +35,9 @@ us](/en/contact).
 
 We will have a booth at OSCON 2011 in Portland OR July 26-28.
 
+## Donating
+
+The [Wikiotics Foundation](/en/Wikiotics_Foundation) is a 501(c)(3)
+nonprofit organization based in New York.
+
 `<<WikioticsDonateButton>>`
