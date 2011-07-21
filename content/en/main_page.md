@@ -29,3 +29,5 @@ community.
 For more information about the project, take a look at the
 [about](/group/wikiotics/about) page and feel free to [contact
 us](/en/contact).
+
+`<<WikioticsDonateButton>>`
