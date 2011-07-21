@@ -10,24 +10,29 @@ follow the links below.
 
 ## [Learn a language](/en/Take_a_lesson)
 
-This is where you will find our community-built language lessons. Some
-lessons are also available from personal [User Pages](/en/User_Pages).
+Choose a language to begin learning now. People have contributed content
+for over twenty different languages.
 
 ## [Teach a language](/en/Make_a_lesson)
 
-If you want to help someone learn a language, whether that is
-[English](/en/English_lessons) or any other, take a look at our [Make a
-lesson](/en/Make_a_lesson) page. Also check out our [Lesson Building
-Tips](/en/Lesson_Building_Tips) page for some useful hints.
+If you want to help someone learn a language (and if you are reading
+this, you can help with [English](/en/English_lessons)\!), take a look
+at our [Make a lesson](/en/Make_a_lesson) page. In short: for any
+existing lesson, click the "edit" button at the bottom. To begin making
+a brand new lesson, click here.
 
 ## [Get involved](/en/Get_involved)
 
 If you like what you see and want to help, check out our
-[Contribute](/en/Contribute) page for some ways you can help out the
+[Contribute](/en/Contribute) page for more ways you can help out the
 community.
 
-For more information about the project, take a look at the
+For more information about the project, see the
 [about](/group/wikiotics/about) page and feel free to [contact
 us](/en/contact).
+
+## Out and about
+
+We will have a booth at OSCON 2011 in Portland OR July 26-28.
 
 `<<WikioticsDonateButton>>`
