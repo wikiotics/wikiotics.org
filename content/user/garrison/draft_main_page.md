@@ -10,8 +10,8 @@ follow the links below.
 
 ## [Learn a language](/en/Take_a_lesson)
 
-Choose a language to begin learning now. People have contributed content
-for over twenty different languages.
+[Choose a language](/en/Take_a_lesson) to begin learning now. People
+have contributed content for over twenty different languages.
 
 ## [Teach a language](/en/Make_a_lesson)
 
