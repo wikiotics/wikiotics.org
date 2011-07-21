@@ -36,3 +36,5 @@ test 2
 "image")<span class="external_image">External images are disabled</span>
 
 \\
+
+`<<WikioticsDonateButton>>`
