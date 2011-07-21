@@ -3,7 +3,12 @@ title = "Contributing"
 languageCode = "en"
 +++
 
-There are plenty of ways to contribute to Wikiotics. Some ideas...
+In addition to:
+
+`<<WikioticsDonateButton>>`
+
+There are plenty of zero cost ways to contribute to Wikiotics. Some
+ideas...
 
 ## If you know English...
 
