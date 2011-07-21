@@ -37,4 +37,8 @@ test 2
 
 \\
 
-`<<WikioticsDonateButton>>`
+Paypal: `<<WikioticsDonateButton paypal>>`
+
+Flattr: `<<WikioticsDonateButton flattr>>`
+
+Both buttons:`<<WikioticsDonateButton>>`
