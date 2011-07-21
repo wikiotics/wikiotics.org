@@ -29,8 +29,13 @@ all over the world can come together to build high quality language
 instruction materials.
 
 Wikiotics has 501(c)(3) status in the United States, allowing us to
-accept tax-deductible contributions. If you would like to contribute to
-the foundation, please contact: donate@wikiotics.org. If you cannot, or
-would prefer not to, make a financial donation, please consider
+accept tax-deductible contributions. You can donate online using either
+paypal or flattr:
+
+`<<WikioticsDonateButton>>`
+
+If you would like to contribute through some other means, please
+contact: donate@wikiotics.org. If you cannot, or would prefer not to,
+make a financial donation, please consider
 [contributing](http://alpha.wikiotics.org/en/Contribute) to the project
 instead.
