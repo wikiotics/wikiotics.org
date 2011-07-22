@@ -30,6 +30,7 @@ title = "English lessons"
   - [statue of liberty](/en/statue_of_liberty)
   - [guitar parts](/en/guitar_parts)
   - [stringed instruments](/en/stringed_instruments)
+  - [NYC vocabulary](/en/NYC_vocabulary)
   - [guitar-making tools](/en/guitar-making_tools)
   - [vocabulary for NPR article, 'Islamic Center Near Ground Zero Sparks
     Controversy'](/en/vocabulary_for_NPR_article%2C_%27Islamic_Center_Near_Ground_Zero_Sparks_Controversy%27)
