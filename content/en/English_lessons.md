@@ -30,6 +30,7 @@ title = "English lessons"
   - [statue of liberty](/en/statue_of_liberty)
   - [guitar parts](/en/guitar_parts)
   - [stringed instruments](/en/stringed_instruments)
+  - [guitar-making tools](/en/guitar-making_tools)
 
 We should also try to create lessons that contain all the concepts in
 [Basic English](http://en.wikipedia.org/wiki/Basic_English), as well as
