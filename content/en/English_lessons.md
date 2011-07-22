@@ -27,6 +27,7 @@ title = "English lessons"
   - [to play](/en/to_play)
   - [Technology](/en/Technology)
   - [WANY](/en/WANY)
+  - [statue of liberty](/en/statue_of_liberty)
 
 We should also try to create lessons that contain all the concepts in
 [Basic English](http://en.wikipedia.org/wiki/Basic_English), as well as
