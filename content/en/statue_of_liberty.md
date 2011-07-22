@@ -27,21 +27,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The man is holding a torch."
+text = "These are torches."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:GzraGNdyx_2PVmC2rQdeOgZmXlA1LAW_CTQ0zj7VVG3q5oq9K5JgWe1tq0hgGx7B"
-href = "urn:sha384:UjqDSpjX_x7ImBUBxBCFJ-wywvSMegTzncEcsqD8DPpEoNF6pLlOaJnv5s3RSxVP"
+blob_href = "urn:sha384:1p1__bkPnLCnPEabQt0mTBUqlPkhGq05glqphxBl2I-CDdjAFFFEZMzb3PrSHewK"
+href = "urn:sha384:LxDxpOl2Nc36avj3R-LQ-oKHBPACQgKba_yC4L0fx1ybK6Fs8oeheJLvpnDLCn2s"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Jason Bagley (Jason Bagley)"
-author_url = "http://www.flickr.com/people/37171917@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/37171917@N00/3443126602"
-title = "SABC torch"
+author = "Cathi B. (Calsidyrose)"
+author_url = "http://www.flickr.com/people/17557997@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/17557997@N02/2940478600"
+title = "Torches Honolulu 2007"
 [[cards.sides]]
 type = "empty"
 
