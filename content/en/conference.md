@@ -6,7 +6,7 @@ languageCode = "en"
 We have a booth, located across from the "Wii lounge." Please stop by
 and say hello\!
 
-# What is Wikiotics?
+## What is Wikiotics?
 
 Wikiotics is a new tool for building re-mixable interactive language
 lessons and sharing them with the world. We aim to bring instruction in
@@ -21,7 +21,7 @@ You can find out more from our main project page <http://wikiotics.org>,
 our [project blog](http://blog.wikiotics.org), and out [Get
 involved](/en/Get_involved) page.
 
-# What's underneath the hood?
+## What's underneath the hood?
 
 Wikiotics is powered by a structured-content wiki named
 <http://ductus.us> that is capable of supporting many other types of
