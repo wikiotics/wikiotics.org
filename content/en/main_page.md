@@ -3,10 +3,9 @@ title = "Wikiotics"
 languageCode = "en"
 +++
 
-Wikiotics is a community effort at collaborative language instruction.
-If you are interested in learning a language, teaching one to someone
-else, or helping to develop innovative tools for either task, just
-follow the links below.
+Wikiotics is a new type of tool for building interactive language
+lessons using rich multimedia elements. We aim to make lessons as easy
+to create, customize, and re-mix as editing a wiki page.
 
 ## [Learn a language](/en/Take_a_lesson)
 
