@@ -10,9 +10,8 @@ and say hello\!
 
 Wikiotics is a new tool for building re-mixable interactive language
 lessons and sharing them with the world. We aim to bring instruction in
-every language to everyone. Take a look at our sample lesson:
-
-\<picture\>
+every language to everyone. Take a look at our [sample
+lesson](/en/Introduction).
 
 If you can read this, you can teach someone. Help the world learn how to
 talk to you and perhaps it will return the favor.
