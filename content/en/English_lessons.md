@@ -33,8 +33,8 @@ languageCode = "en"
   - [stringed instruments](/en/stringed_instruments)
   - [NYC vocabulary](/en/NYC_vocabulary)
   - [guitar-making tools](/en/guitar-making_tools)
-  - [vocabulary for NPR article, 'Islamic Center Near Ground Zero Sparks
-    Controversy'](/en/vocabulary_for_NPR_article%2C_%27Islamic_Center_Near_Ground_Zero_Sparks_Controversy%27)
+  - ["Islamic Center Near Ground Zero Sparks Controversy" NPR article
+    vocab](/en/vocabulary_for_NPR_article%2C_%27Islamic_Center_Near_Ground_Zero_Sparks_Controversy%27)
 
 We should also try to create lessons that contain all the concepts in
 [Basic English](http://en.wikipedia.org/wiki/Basic_English), as well as
