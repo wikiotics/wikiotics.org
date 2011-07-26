@@ -21,7 +21,7 @@ You can find out more from our main project page <http://wikiotics.org>,
 our [project blog](http://blog.wikiotics.org), and out [Get
 involved](/en/Get_involved) page.
 
-## What is underneath the hood?
+# What's underneath the hood?
 
 Wikiotics is powered by a structured-content wiki named
 <http://ductus.us> that is capable of supporting many other types of
