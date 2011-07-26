@@ -37,5 +37,4 @@ paypal or flattr:
 If you would like to contribute through some other means, please
 contact: donate@wikiotics.org. If you cannot, or would prefer not to,
 make a financial donation, please consider
-[contributing](http://alpha.wikiotics.org/en/Contribute) to the project
-instead.
+[contributing](/en/Contribute) with your time or expertise instead.
