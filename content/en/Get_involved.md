@@ -86,9 +86,13 @@ IRC.
 
 ## Wikiotics Foundation
 
-The Wikiotics site, and development of the Ductus software, are
-supported by the non-profit [Wikiotics
-Foundation](/en/Wikiotics_Foundation). If you would like to contribute
-to the foundation, please contact: ***donate@wikiotics.org***. The
-Wikiotics Foundation has 501(c)(3), making such contributions
-tax-deductible in the United States.
+Wikiotics has 501(c)(3) status in the United States, allowing us to
+accept tax-deductible contributions. You can donate online using either
+paypal or flattr:
+
+`<<WikioticsDonateButton>>`
+
+If you would like to contribute through some other means, please
+contact: donate@wikiotics.org. If you cannot, or would prefer not to,
+make a financial donation, please consider
+[contributing](/en/Contribute) with your time or expertise instead.
