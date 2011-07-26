@@ -26,28 +26,28 @@ The current episodes are:
 
 ### 3 - Welcome, Parents
 
-[Welcome, Parents](/en/Welcome%2C_Parents)
+[Welcome, Parents vocabulary](/en/Welcome%2C_Parents)
 
 ### 4 - No Smoking
 
-[No Smoking](/en/No_Smoking)
+[No Smoking vocabulary](/en/No_Smoking)
 
 ### 5 - The Hospital
 
-[The Hospital](/en/The_Hospital)
+[The Hospital vocabulary](/en/The_Hospital)
 
 ### 6 - Stay in School
 
-[Stay In School](/en/Stay_In_School)
+[Stay In School vocabulary](/en/Stay_In_School)
 
 ### 7 - New Life Café
 
-[New Life Cafe](/en/New_Life_Cafe)
+[New Life Café vocabulary](/en/New_Life_Cafe)
 
 ### 8 - Stop Domestic Violence
 
-[Stop Domestic Violence](/en/Stop_Domestic_Violence)
+[Stop Domestic Violence vocabulary](/en/Stop_Domestic_Violence)
 
 ### 9 - The Wedding
 
-[The Wedding](/en/The_Wedding)
+[The Wedding vocabulary](/en/The_Wedding)
