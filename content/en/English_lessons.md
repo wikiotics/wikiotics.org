@@ -3,11 +3,22 @@ title = "English lessons"
 languageCode = "en"
 +++
 
-(and ideas for future lessons, in red)
+Welcome to our English lesson sandbox. This is an area for collecting
+and collaborating on lessons being developed by the community. If you
+are interested in using some of these lessons for your students we
+suggest that you copy them to your user area first simply because this
+is a public area and lessons may be in flux. Please see this link for
+instructions on [copying pages to your user area](/en/User_Pages).
+
+## Examples
 
   - [Introduction](/en/Introduction)
   - [Weather](/en/Weather)
   - [Temperature](/en/Temperature)
+  - "[We Are New York](/en/WANY)" lesson series
+
+## Help Expand These
+
   - [Movement verbs](/en/Movement_verbs)
   - [Flowers](/en/Flowers)
   - [Modes of transportation](/en/Modes_of_transportation)
@@ -16,18 +27,15 @@ languageCode = "en"
   - [Clothing](/en/Clothing)
   - [Musical instruments](/en/Musical_instruments)
   - [Random nouns](/en/Random_nouns)
-  - [Basic numbers](/en/Basic_numbers)
   - [Basic situations](/en/Basic_situations)
-  - [Birds of NYC](/en/Birds_of_NYC)
-  - [Trees of NYC](/en/Trees_of_NYC)
-  - [Spices](/en/Spices)
   - [Breakfast foods](/en/Breakfast_foods)
   - [Food types](/en/Food)
   - [Kitchen supplies](/en/Kitchen_supplies)
-  - [Barcelona architecture](/en/Barcelona_architecture)
   - [to play](/en/to_play)
   - [Technology](/en/Technology)
-  - [WANY](/en/WANY)
+
+## Special use
+
   - [statue of liberty](/en/statue_of_liberty)
   - [guitar parts](/en/guitar_parts)
   - [stringed instruments](/en/stringed_instruments)
@@ -35,6 +43,14 @@ languageCode = "en"
   - [guitar-making tools](/en/guitar-making_tools)
   - ["Islamic Center Near Ground Zero Sparks Controversy" NPR article
     vocab](/en/vocabulary_for_NPR_article%2C_%27Islamic_Center_Near_Ground_Zero_Sparks_Controversy%27)
+
+## Ideas for future
+
+  - [Barcelona architecture](/en/Barcelona_architecture)
+  - [Basic numbers](/en/Basic_numbers)
+  - [Birds of NYC](/en/Birds_of_NYC)
+  - [Trees of NYC](/en/Trees_of_NYC)
+  - [Spices](/en/Spices)
 
 We should also try to create lessons that contain all the concepts in
 [Basic English](http://en.wikipedia.org/wiki/Basic_English), as well as
