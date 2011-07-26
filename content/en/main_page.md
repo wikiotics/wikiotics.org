@@ -1,5 +1,5 @@
 +++
-title = "Wikiotics"
+title = "Welcome to Wikiotics"
 languageCode = "en"
 +++
 
@@ -14,16 +14,15 @@ lessons are also available from personal [User Pages](/en/User_Pages).
 
 ## [Teach a language](/en/Make_a_lesson)
 
-If you want to help someone learn a language, whether that is
-[English](/en/English_lessons) or any other, take a look at our [Make a
-lesson](/en/Make_a_lesson) page. Also check out our [Lesson Building
-Tips](/en/Lesson_Building_Tips) page for some useful hints.
+If you can read this, you know enough to help someone learn a language.
+Why not give lesson building a shot? Take a look at our [Make a
+lesson](/en/Make_a_lesson) page for How To information and tips.
 
 ## [Get involved](/en/Get_involved)
 
-If you like what you see and want to help, check out our
-[Contribute](/en/Contribute) page for some ways you can help out the
-community.
+If you like what you see and want to help, there are lots of ways to get
+involved. Check out our [Get involved](/en/Get_involved) page for some
+ways you can help out the community.
 
 For more information about the project, take a look at the
 [about](/group/wikiotics/about) page and feel free to [contact
