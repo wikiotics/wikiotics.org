@@ -1,6 +1,6 @@
 +++
 title = "No Smoking"
-contributors = [ "briannaavenia",]
+contributors = [ "briannaavenia", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -52,17 +52,17 @@ text = "These are children."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:AalNvwmnHFzHvhlJWSbpYrNWWsvmkZ2BIWjwi2gsIH_gA1LO5BLf1Qc-XGmSaTFt"
-href = "urn:sha384:H12a2lY_6l1pGivlb-lSU32ySXtkwENOVwetfMw5Hnvz3x6MUh3ca1oopAEGSykL"
+blob_href = "urn:sha384:wxF46exmuKWqnhmkpL2JlVu-gvrJVV7i4vahFlcZrokb8lWkDDC-XKeoQ8YqDpAU"
+href = "urn:sha384:Psfqttcn-Y1Kcnycv5Gl7sT13Vi-q3DzOv4FwTmpMa0zUG1EISVx1lIOHtQYp4ie"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Jason D' Great (JasonDGreat)"
-author_url = "http://www.flickr.com/people/16106689@N00/"
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/16106689@N00/535636763"
-title = "CHILDREN"
+original_url = "http://www.flickr.com/photos/36495803@N05/4929687589"
+title = "Happy Children Playing Kids"
 [[cards.sides]]
 type = "empty"
 
