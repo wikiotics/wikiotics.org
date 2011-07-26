@@ -10,13 +10,18 @@ In addition to:
 There are plenty of zero cost ways to contribute to Wikiotics. Some
 ideas...
 
+## If you have a camera...
+
+  - Take pictures of common objects/situations that could be used in a
+    language lesson, and upload them to the [Wikiotics Flickr
+    group](http://www.flickr.com/groups/wikiotics/). You'll make lessons
+    easier to create and more attractive.
+
 ## If you know English...
 
-  - If you have **5 minutes**, [register on
-    Drumbeat](http://www.drumbeat.org/user/register) and
-    [vote](http://www.drumbeat.org/node/29376/about) for us to receive
-    the [Mozilla/Shuttleworth open web
-    fellowship](http://www.mozilla.org/grants/education-fellowship.html).
+  - If you have **5 more minutes**, take a look at the existing [English
+    lessons](/en/English_lessons) page and see if you can improve some
+    existing lessons.
   - If you have **5 more minutes**, [create an account on
     wikiotics.org](/special/create_account) so you can make
     contributions under your name.
@@ -41,13 +46,6 @@ ideas...
     and accurate.
   - If you have **15 minutes**, see if you can replace photos in an
     existing lesson with ones that are more culturally appropriate.
-
-## If you have a camera...
-
-  - Take pictures of common objects/situations that could be used in a
-    language lesson, and upload them to the [Wikiotics Flickr
-    group](http://www.flickr.com/groups/wikiotics/). You'll make lessons
-    easier to create and more attractive.
 
 ## If you are a programmer...
 
