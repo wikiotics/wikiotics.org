@@ -12,7 +12,7 @@ than normal to aid comprehension by students.
 
 On this page we're putting together supporting lessons that focus on the
 basic vocabulary from the episodes to help people prepare for new
-episodes and practice material from old episodes.
+episodes and practice material from old ones.
 
 The current episodes are:
 
