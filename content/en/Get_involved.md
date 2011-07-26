@@ -20,19 +20,6 @@ that only you can edit, it will also give you an account on our [Bug
 Tracker](http://code.ductus.us/), where you can report any problems you
 find with the technology or new features you would like to see us build.
 
-**Drumbeat project** / **project blog**: We have an [active project
-page](https://www.drumbeat.org/project/wikiotics-tools-and-materials-collaborative-language-education)
-in Mozilla's community building [Drumbeat](https://www.drumbeat.org)
-system. This is where we keep the [project's
-blog](https://www.drumbeat.org/project/wikiotics-tools-and-materials-collaborative-language-education/blog)
-and we have also applied for a [grant of
-support](http://www.mozilla.org/grants/education-fellowship.html) based
-on our project there, so do check it out.
-
-**Discussion Mailing List**: Our [mailing
-list](http://groups.google.com/group/wikiotics) is run through Google
-Groups and open for anyone who would like to discuss Wikiotics.
-
 ## Help with pictures
 
 The most time consuming part of building a new picture choice lesson is
@@ -51,6 +38,16 @@ easier it is to build lessons. If you have time, please consider going
 to the [flickr group](http://www.flickr.com/groups/wikiotics/) and
 tagging some of the pictures there, or take some more yourself and add
 them to the group. All contributions are welcome.
+
+## Record some audio
+
+The first form of language was spoken and here on Wikiotics, we can't
+get enough of it in our lessons. If you have a microphone, you can help
+someone learn by adding your own native audio to a lesson, or two, or
+three. Hearing someone of your age range and gender can make learning
+how to speak a new language a simpler and more natural process. And if
+you are interested, someday the people who learn from your voice might
+return the favor\!
 
 ## Make things beautiful
 
@@ -76,6 +73,16 @@ Wikiotics, we would be happy to [hear from you](/en/contact).
 For a gauge of project activity at any given time, see this site's
 [recent changes](/special/recent_changes) or the [Ductus development
 timeline](http://code.ductus.us/timeline).
+
+## Keep in touch
+
+Depending on how you like to get news, we have a project blog at
+<http://blog.wikiotics.org>, a google groups [mailing
+list](http://groups.google.com/group/wikiotics), a Mozilla Drumbeat
+[project
+page](https://www.drumbeat.org/en-US/projects/wikiotics-tools-and-materials-for-collaborative-la/),
+and a [chat room](http://webchat.freenode.net/?channels=wikiotics) on
+IRC.
 
 ## Wikiotics Foundation
 
