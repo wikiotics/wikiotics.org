@@ -18,7 +18,7 @@ If you can read this, you can teach someone. Help the world learn how to
 talk to you and perhaps it will return the favor.
 
 You can find out more from our main project page <http://wikiotics.org>,
-our [project blog](http://blog.wikiotics.org), and out [Get
+our [project blog](http://blog.wikiotics.org), and our [Get
 involved](/en/Get_involved) page.
 
 ## What's underneath the hood?
