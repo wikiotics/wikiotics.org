@@ -48,6 +48,6 @@ types](/en/Weather) and I wanted to make a Spanish version. So I went to
 the lesson page and clicked on "copy." When it asked me where to move
 the lesson I entered "es:El tiempo" and hit enter, which brought me to
 the new [Spanish weather lesson](/es/El_tiempo). At this point my
-Spanish lesson is still in English so I hit the "edit" button and
+Spanish lesson was still in English so I hit the "edit" button and
 started translating. Since I want to share this new lesson I added it to
 the [Spanish lessons](/en/Spanish_lessons) page. That's it.
