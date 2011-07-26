@@ -24,10 +24,10 @@ involved](/en/Get_involved) page.
 ## What's underneath the hood?
 
 Wikiotics is powered by a structured-content wiki named
-<http://ductus.us> that is capable of supporting many other types of
-lessons. Over the summer we'll be overhauling our user interface and
-making it possible to create multiple types of lessons and easily
-convert material between them.
+[ductus](http://ductus.us) that is capable of supporting many other
+types of lessons. Over the summer we'll be overhauling our user
+interface and making it possible to create multiple types of lessons and
+easily convert material between them.
 
 ## Previous conference activities
 
