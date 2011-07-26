@@ -29,9 +29,6 @@ materials exactly as you left them for your own use, or for the use of
 any students and colleagues, while still allowing the community to
 benefit from and respect your contributions.
 
-since we are still implementing index and search functionality for the
-site,
-
 If you would like to make it easier for other users to find your
 lessons, consider making a page to keep track of all your lessons like
 [this one](/user/ian/Lessons) and adding it to our [Community
