@@ -33,6 +33,10 @@ you want to use to teach those sentences.
 Community tips on lesson building are collected on the [Lesson building
 tips](/en/Lesson_building_tips) page.
 
+Once you have built a lesson, consider adding your information to the
+[Community list](/en/Community_list) page so other people can more
+easily find your new materials.
+
 #### Editing
 
 This is a wiki so each page has an edit button at the top. From there
