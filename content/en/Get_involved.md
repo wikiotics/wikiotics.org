@@ -1,5 +1,6 @@
 +++
 title = "Getting Involved"
+languageCode = "en"
 +++
 
 Wikiotics is a community effort in collaborative language instruction.
@@ -52,11 +53,11 @@ return the favor\!
 ## Make things beautiful
 
 Most of us building Wikiotics are very function-focused and we would
-love to hear from anyone from the community with more of a focus on how
-beautiful the site can be. Anything from hand-drawn logos, to css
-suggestions, to full blown interaction design mockups, are quite
-welcome. If you see something that could be more beautiful, we'd welcome
-your help to make that happen.
+love to hear from anyone from anyone in the community with more of an
+aesthetic focus. If you see something that could be more beautiful, we'd
+welcome your help to make that happen. Anything from hand-drawn icons,
+to css suggestions, to full blown interaction design mockups, are quite
+welcome.
 
 ## Software Development
 
@@ -68,7 +69,7 @@ features for the site, all of that is software development work being
 done on ductus. The more help we get, the more of it we can build.
 
 If you are interested in helping to improve the basic capabilities of
-Wikiotics, we would be happy to [hear from you](/en/contact).
+Wikiotics, we would be love to [hear from you](/en/contact).
 
 For a gauge of project activity at any given time, see this site's
 [recent changes](/special/recent_changes) or the [Ductus development
