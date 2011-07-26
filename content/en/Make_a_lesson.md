@@ -43,7 +43,7 @@ like [English lessons](/en/English_lessons), [Spanish
 lessons](/en/Spanish_lessons), or [Chinese
 lessons](/en/Chinese_lessons).
 
-For example, I like the English lesson about different [weather
+For example, I liked the English lesson about different [weather
 types](/en/Weather) and I wanted to make a Spanish version. So I went to
 the lesson page and clicked on "copy." When it asked me where to move
 the lesson I entered "es:El tiempo" and hit enter, which brought me to
