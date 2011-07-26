@@ -25,9 +25,8 @@ section and call it IntroWeather, I would enter this into the copy box
 
 While only you can edit pages in your user page section, other people
 are able to view and copy your lessons as usual. This keeps your
-materials exactly as you left them for your own use, or for the use of
-any students and colleagues, while still allowing the community to
-benefit from and respect your contributions.
+materials exactly as you left them in your section, while still allowing
+the community to build from and grow your contributions.
 
 If you would like to make it easier for other users to find your
 lessons, consider making a page to keep track of all your lessons like
