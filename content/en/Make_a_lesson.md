@@ -24,12 +24,12 @@ you want to use to teach those sentences.
 
 #### Editing
 
-Each lesson page has an edit button that allows you to edit the lesson.
-From there you can rearrange in what order the individual picture choice
-groups are presented to students. You can also add additional materials
-to the lesson or change the text accompanying any existing pictures. We
-are working to improve the capabilities of this interface to make
-editing more powerful and allow you to remove picture choice groups from
+Each lesson page has an edit button at the top. From there you can
+rearrange in what order the individual picture choice groups are
+presented to students. You can also add additional materials to the
+lesson or change the text accompanying any existing pictures. We are
+working to improve the capabilities of this interface to make editing
+more powerful and allow you to remove picture choice groups from
 existing lessons.
 
 #### Translate
