@@ -15,11 +15,12 @@ instructions on [copying pages to your user area](/en/User_Pages).
   - [Introduction](/en/Introduction)
   - [Weather](/en/Weather)
   - [Temperature](/en/Temperature)
+  - [Movement verbs](/en/Movement_verbs)
+  - [Food types](/en/Food)
   - "[We Are New York](/en/WANY)" lesson series
 
 ## Help Expand These
 
-  - [Movement verbs](/en/Movement_verbs)
   - [Flowers](/en/Flowers)
   - [Modes of transportation](/en/Modes_of_transportation)
   - [Art supplies](/en/Art_supplies)
@@ -27,9 +28,7 @@ instructions on [copying pages to your user area](/en/User_Pages).
   - [Clothing](/en/Clothing)
   - [Musical instruments](/en/Musical_instruments)
   - [Random nouns](/en/Random_nouns)
-  - [Basic situations](/en/Basic_situations)
   - [Breakfast foods](/en/Breakfast_foods)
-  - [Food types](/en/Food)
   - [Kitchen supplies](/en/Kitchen_supplies)
   - [to play](/en/to_play)
   - [Technology](/en/Technology)
@@ -47,6 +46,7 @@ instructions on [copying pages to your user area](/en/User_Pages).
 ## Ideas for future
 
   - [Barcelona architecture](/en/Barcelona_architecture)
+  - [Basic situations](/en/Basic_situations)
   - [Basic numbers](/en/Basic_numbers)
   - [Birds of NYC](/en/Birds_of_NYC)
   - [Trees of NYC](/en/Trees_of_NYC)
