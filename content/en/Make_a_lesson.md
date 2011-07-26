@@ -13,14 +13,25 @@ English lesson](/en/Introduction)), which is a flexible format for
 helping to improve a student's vocabulary and naturally introduce basic
 grammar.
 
-If you want to create a new lesson to test out the system, simply add a
-new link to any existing page and save the page. When you follow the
-link you will be presented with a series of options about what you want
-the new page to be. Select the "picture choice lesson" and start filling
-in your lesson information into the form that will appear.
+If you want to create a new picture choice lesson, simply add a new link
+to any existing page by doing the following:
+
+1.  Go to the page you want the lesson linked from and hit the "edit
+    button" at the top of the page
+2.  Add your lesson name inside square brackets like so: `[[My Lesson]]`
+    anywhere on the page that you want the link to appear.
+3.  Save the page.
+
+When you follow that new link you will be presented with a series of
+options about what kind of page you want to create. Select the "picture
+choice lesson" and start filling in your lesson information into the
+form that will appear.
 
 The form asks for the sentences you want to teach and for the pictures
 you want to use to teach those sentences.
+
+Community tips on lesson building are collected on the [Lesson building
+tips](/en/Lesson_building_tips) page.
 
 #### Editing
 
