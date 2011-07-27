@@ -24,6 +24,7 @@ languageCode = "en"
   - [Korean lessons](/en/Korean_lessons)*(ko)*
   - [Norwegian lessons](/en/Norwegian_lessons)*(no)*
   - [Persian lessons](/en/Persian_lessons)*(fa)*
+  - [Polish lessons](/en/Polish_lessons)*(pl)*
   - [Portuguese lessons](/en/Portuguese_lessons)*(pt)*
   - [Russian lessons](/en/Russian_lessons)*(ru)*
   - [Slovak lessons](/en/Slovak_lessons)*(sk)*
