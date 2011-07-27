@@ -4,3 +4,4 @@ languageCode = "fr"
 +++
 
   - [Introduction](/fr/Introduction)
+  - [Nombres](/fr/Nombres)
