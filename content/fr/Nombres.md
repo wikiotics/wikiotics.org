@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Quattre"
+text = "Quatre"
 type = "phrase"
 
 [[cards.sides]]
