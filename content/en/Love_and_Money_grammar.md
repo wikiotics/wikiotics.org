@@ -30,7 +30,7 @@ text = "You can order food at ___ restaurant."
 type = "phrase"
 
 [[cards.sides]]
-text = "a"
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -40,7 +40,7 @@ text = "Going on a date can be ___ occasion to dress up."
 type = "phrase"
 
 [[cards.sides]]
-text = "an"
+text = ""
 type = "phrase"
 
 [[interactions]]
