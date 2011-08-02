@@ -53,8 +53,8 @@ ideas...
     set up a local [Ductus development
     instance](http://code.ductus.us/wiki/DuctusDevelopmentInstance) and
     let us know how it goes.
-  - If you have more time, try help improve an upstream project. We have
-    filed or are following bugs or feature requests against Django,
+  - If you have more time, try to help improve an upstream project. We
+    have filed or are following bugs or feature requests against Django,
     creoleparser, flickrapi, and other projects, and it would be nice
     for everyone if those projects can be improved.
   - Look at the [current tickets for
