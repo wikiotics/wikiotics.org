@@ -26,21 +26,21 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "You can order food at ___ restaurant."
+text = "At a restaurant you can order ___ dishes."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "many"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Going on a date can be ___ occasion to dress up."
+text = "Dating can be complicated and everyone makes a ___ mistakes."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "few"
 type = "phrase"
 
 [[interactions]]
