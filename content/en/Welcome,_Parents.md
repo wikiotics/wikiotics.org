@@ -1,6 +1,6 @@
 +++
 title = "Welcome, Parents"
-contributors = [ "briannaavenia",]
+contributors = [ "24.45.15.36", "briannaavenia",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -10,17 +10,17 @@ text = "This is a princess."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:MEv0p1vWgXDq_qtcnGy3_810tjwWtyS4SmNkSycCq0hFQpWmIoKPkiN-KLcPATCD"
-href = "urn:sha384:m0hn2_BaJmo0lWqwTktvXiBAwnnGLSWA3OwcTZc91sSPb53rAeU-poZzXIZZ5gji"
+blob_href = "urn:sha384:7IyHtqPfiz1ElfAAvNOKo2Ney2hcUGNrXdWCAtqsliIIy5N7C6pOjFEegoKXqK-r"
+href = "urn:sha384:TEjOrk9KkuKevloT9_1puUt593avnDvDFfS4tryqsaFHMM9hq4Hcobg7YbQI2XOf"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "John Morgan (John-Morgan)"
-author_url = "http://www.flickr.com/people/24742305@N00/"
+author = "Anthony (Camera Eye Photography)"
+author_url = "http://www.flickr.com/people/22605449@N06/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/24742305@N00/4377066036"
-title = "Princess Peach"
+original_url = "http://www.flickr.com/photos/22605449@N06/5396239179"
+title = "28:365 Princess Diana"
 [[cards.sides]]
 type = "empty"
 
