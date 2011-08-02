@@ -19,6 +19,7 @@ The current episodes are:
 ### 1 - Love and Money
 
   - [Basic vocabulary](/en/Love_and_Money_vocabulary)
+  - [Grammar practice](/en/Love_and_Money_grammar)
   - [Watch the
     episode](http://www.nyc.gov/html/weareny/media/video/loveandmoney.asx)
 
