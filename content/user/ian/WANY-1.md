@@ -46,7 +46,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/9248805@N04/4685751949"
 title = "amazing randi at helsinki 2010 5"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zmFffKpaf6M_l9jDF426cecBInpPiHzQ9RA8fnfxUYa1pwsEUVH5y2wYnISUBTDv"
+href = "urn:sha384:Tqy3HGe8MmrzPt2bbtwWx5AQAOom78ApoHbejYzlgj0a0kXbPsPXoWSNyPDD5rIJ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -68,7 +71,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/82439748@N00/428349468"
 title = "Leather Belt, Metal Buckle"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:mv6vlqKGQxdsWD_fizFqQz4ArV0cNqqwsouueONmSQ_91JlMVlMxoNHCCE0nzgUW"
+href = "urn:sha384:nY-fbF1PQASFNWdD4sMyC1c9NlpiSCCUZmu95DqSgFwf11tsXs-3jYX-Fv_IwgwV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -89,7 +95,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/58646546@N00/377794002"
 title = "You like the bubbly?"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nlctrdYrvehc1HPG1J18IrBZn8jhp_LWM5j1P70c0CVeTRtuwcG5Hl6bspg7FrkB"
+href = "urn:sha384:bT3S1lU6RmQtQv9HYNgN0jhdpu2jlCEhf5a6CeY2yynpeoHq23fmYo03QMr1JYda"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -110,7 +119,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/41720539@N03/5155483529"
 title = "SHO Shaun Hergatt"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ZVTX8cfJVFB00LekVZv7RjDzYnIwdp_kOq_4KfFNoAiuai0cP8KtHc0UJNqtULtC"
+href = "urn:sha384:kMAShQquS4VWD7HUtm7yzruQ7akgRAj05KIIvOZ5mz38bnPUit0PpV65YEo_hEBm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -131,7 +143,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/13286453@N00/5337695316"
 title = "waiter"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iduc6ic0taqmLqp_I6GN4GJ0OiT7V_EPU_hrp_TfZaMvawcs2mUCo5n2PvEDsm1w"
+href = "urn:sha384:Ubf3zgOF8f4Y2nfsqx1mZf90nq_F5FgK9LHHel_gOztvMSNprNJEjimTzEjB4zxJ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -152,7 +167,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/75001512@N00/4333652182"
 title = "busboy biceps"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:P-BD_ZHd2ZM97kRPJr8zvoq-WemrIfrfjW4cglFMzCqcrQQPu3WqFlLG7eQCnVeX"
+href = "urn:sha384:wDzU1Z6ke8wOnfCKWhvQ7ZjBod5wv9kDxuzuBHsCIdY_XW6ryWgGRbP08U7-PQPA"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -173,7 +191,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8047702@N07/5671340152"
 title = "K-L restaurant kitchen"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:BF0MMrOHWSrTUYgajYvEFgyI2ISYFeUMQedzYc6K5YFyd4uBOjyJ60irj4KSb2Ho"
+href = "urn:sha384:oxhSm30a4zXBs23e609jVlOI-yhtJVXOE4kX8dVax8PwyhaUeR75is4ZhLJ6NyeJ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -194,7 +215,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/50275037@N00/153206965"
 title = "Restaurant Chartier"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:A1a7GbzJEblb-rCtDCBfCIGQXsyHPDAaAszfz72xq_Q0gpQ_UwIdogt4zWV28hSD"
+href = "urn:sha384:xCNP_n6q5tEl9zlJeUdZqmPWJ34FMkysVMJnYoMNtyNPerxV-A1DlVx-g-QsaoPd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -215,7 +239,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/56846427@N02/5628950868"
 title = "Bridget fixin up something good"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YJvZjjoFRz4yu2NxpMlZDtxaFb1BbFx2ghrro9ZOsGaNu8vDHAh-FOCrqIGUwnEO"
+href = "urn:sha384:mArdrp_lzeSZ-Uvjdq-NyyWHTTQCqYFDuxss1B_P-Yj8C9qNXwnP_g5iSZvXIt2Z"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -236,7 +263,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/43102195@N08/4694510491"
 title = "Organizing monetary policy and decides about interest rates, everybody will feel it's impact! The Bank of England in London! Count the joy my friends! On the money of course!:)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8CVkZjmJfzpJSqfmebD24QWjPpPv0D9nZHUnS1BZQscun2q3932nsRT0vRoF_DTp"
+href = "urn:sha384:I9r7TSiXbfQ-ggSYGw9bdoNA_ErgMLjtrxgE9-pPeje89u1XwDG5NUw6Ab2_EVVW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -257,7 +287,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/42741665@N08/5684289236"
 title = "Chemin ombragé entre 2 bordures de tulipes "
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hH5Xa9h6r2ZsYCODW18l8puTzbqokELHU1Lh5vxVzXEfKbOLhR_b-q8bJh-_W9jx"
+href = "urn:sha384:cUCscyY46DZeBnyWinU3cs31S4ZqOLyQg2KCXGrcG3r8Y3Ld1E0rATLuQgnFYxHs"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
