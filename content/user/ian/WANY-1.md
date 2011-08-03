@@ -22,7 +22,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33255628@N00/5684158579"
 title = "Anonymous - Woman in satin dress holding mirror (ca 1915) "
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IGreMdTLNqm5Nj7OoNIZ8xBGfp4mw0mh6DbATkB7H3U6nS3_o-tkWoKoCOIwNX0C"
+href = "urn:sha384:V0rgPjUlCykhdhjCGhoAP7oMhmoeP7omtj7nJyZGhWxusYu2_nHq8_e8SI3dQBVl"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
