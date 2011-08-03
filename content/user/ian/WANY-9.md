@@ -22,7 +22,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/11268615@N00/3428049840"
 title = "Guitar"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7GFQB2pPrcPT29uqf8xqXFcbB-DbOfhMzvGdpQoM9f24B7798ZHt6NY2rY9RhmR8"
+href = "urn:sha384:tpAW7JwoiaQtb74kCIZr-yv5-BdeSzlWX74NA-DaClxzWVmgK5YU45zq65nmnkyH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -43,7 +46,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/27429206@N02/4124370796"
 title = "snare drum"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:H7GBLuBhFuE0CuMWsr6ClI0kpzNbildQ8NJzfJahoLuEshkVwRyFlEOQJs09bgSW"
+href = "urn:sha384:nCFEvt36A1wZlnwOnMGMqI9ErLuurFITY-C-UPHy89yyX8jDWnMUTY2-z1riPqtb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -64,7 +70,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/92025495@N00/3492233537"
 title = "More In The Dressing Room"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iFmxaSeDmEucn6HF6OMKW7Xyp1MX7mbnFcG7HUIxzqAYd2n9WHO3fqNyMLOzFN3H"
+href = "urn:sha384:othj6hLX4oM-yRIDJMSST9GK8vlqX0sSc1kgTOaoeaStGdolpIxjQtRs70WwD1y5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -85,7 +94,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/51096110@N00/1742772467"
 title = "Leaf"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:c9qO9PZh-H6MXGUri_G2lGbugICa7R1W2cxqoYo-Df7ZZWi6m2eNzvU2Y-4evaKJ"
+href = "urn:sha384:jLPrh_oP1aTPq_XMl0Sm5AocW--P9EladXCXQoKItxviZZ26Rodq7xTv1l6EvgIW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -106,7 +118,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/88583398@N00/5375564032"
 title = "Moving the Drum Kit (1)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VT_21CRn4ZAFJ2f_Sr-Kwp_DIwhU3HtfvoDtV4XRAEHv96Ep9OExk82QJdkU7tXz"
+href = "urn:sha384:9vREfZLdiDzaMSUbUZZeuaeFCp4JgyXAorwVdrOO2RI21CkghcrlugMll-JYu_S6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
