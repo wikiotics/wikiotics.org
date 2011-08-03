@@ -1,6 +1,6 @@
 +++
 title = "WANY-6"
-contributors = [ "briannaavenia",]
+contributors = [ "briannaavenia", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -22,7 +22,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/56796376@N00/5103242802"
 title = "smiles and determination of rural Indian women #6"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:F7U3NnzE0ZsTu2wV1HH3-S1uAEXOtrjjyXoo7rV_XKoMjN3fDLn09zN4C5E9zBn7"
+href = "urn:sha384:1opMQWiVX7RaMlCZdWqSeql_e7n-E0BLXyYI0wMuDV8iI_N8R9NkWzA3XKAvzr1H"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -43,7 +46,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/88288615@N00/4231904024"
 title = "russiandolls"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:K2yiwyRbLiRNJ7m9B-3YFbMJkxihyhBNAJuwzo_x3-XPyW8-qUj-Bi7bp_jSmq45"
+href = "urn:sha384:ih5J9qhE3JgsgtFWjx3WdqIoPtkNP7MdnNKsapQVqpzFiAfpGLShqjPBGQeOULeh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -64,7 +70,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/92203585@N00/162928743"
 title = "Red Stripe Beer@The Jamaican Grill"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:05hgQNH3NdNL5NwaCkR5CJUGeY-0fwSJXR2aK9qwek9Sf8qj3syyKqOsfXMS6nSH"
+href = "urn:sha384:xh10BP144qPz2ONm34LGZS0QMBDTggZrENy8dzmgnQ3We8Sr6HUgKq2cbzCkH1UT"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -85,7 +94,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28481088@N00/2278240037"
 title = "Mexican dance"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uxKNFU9viwhavnH24QWPChZBbnOJlcEKPfRNnpfEaH0a7GEFWoTklr27OwfIYvne"
+href = "urn:sha384:zAxYThCQvxGrIUHggwdlEwihqQHkLfh_cT92GwyuOpOBScy-pUnhpOgTnMiw8zLR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -106,7 +118,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/56796376@N00/5103242802"
 title = "smiles and determination of rural Indian women #6"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XMWvVUAkwfv2wKyd9aArSN2BezH43FYtqBVRPCakJ4KuKC9bjHa2DfekbfZUaFKO"
+href = "urn:sha384:nn2jySBR2aZX-kuWmhFcT26_yXWU7pdxmu3Jj5G4_EuLZE6A5ASpkiSUSFp1lpVs"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -127,7 +142,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/92203585@N00/162928743"
 title = "Red Stripe Beer@The Jamaican Grill"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GhnltW7RG_qF-OXnoNxUFtFrgNDylMgyI7Amw5_D_S9MHWK9fMiuYobhZpGNrInF"
+href = "urn:sha384:gPXFyKrcqElC1wfv4jbvf_GmAFTPi60rZalh3sDqsMFR1xeSqeCEIZKdUSgp51jB"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -148,7 +166,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/88288615@N00/4231904024"
 title = "russiandolls"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:K2yiwyRbLiRNJ7m9B-3YFbMJkxihyhBNAJuwzo_x3-XPyW8-qUj-Bi7bp_jSmq45"
+href = "urn:sha384:19HZWuHFM0RyIB7SWn4WXu1d8q028R3N3l7OKqrJ1H5LmIt8iXgQ0Jlbz_1HKp9a"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -169,7 +190,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28481088@N00/2278240037"
 title = "Mexican dance"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Va7z8ucP4MGbDu2KNapzamBlDnsXBSSR_91qjlGvJwp4Ff1keJso8RDx95-dqL-o"
+href = "urn:sha384:W01P0CWKYHnD4kb_nRo5BTv44Itn5IS2b739XpyFN3WaV_F85pQ0V8FH-mCC10vD"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -190,7 +214,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/10157840@N03/2597805397"
 title = "Diploma"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:e2fZSMWhStlw-6PKqplZkejF7HPs8JKScR4vLyzQNAcbymV0rK5WdAtmBnES4ZNV"
+href = "urn:sha384:shBwfK9nJ-K6BMzU52hESNMrK7WgK5D5nk2otZuZ1Ghet_Rt6KSDMf9Bx5FQNtmp"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -211,7 +238,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/65139429@N00/4955154459"
 title = "Phone"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:BsujZg_WfZivGm5hdwQJiSo1DmpgkUsd0Dji7RvV5MXL9RLQ6yo84zt9VvWHvGp7"
+href = "urn:sha384:ERQNIRtb0onbEc7ebFoayk9GJrq6jbH5ud_El3o1CnK2ICIFrt0snEJPQw_Gh90I"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -232,7 +262,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/73645804@N00/3927296355"
 title = "boy, with back pack, running"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LbDLxCdhRkEZ2mVcWz4hv_ByGt-WLsHJuu_cGKQ5ToeNqmgVRNlhmsaQ_BVph6Uw"
+href = "urn:sha384:Kq9H6FHGFOITQ1S2Ml7mzMG4VBeg93ChgN2KES8nYHDZIz0jK2gazjPTtRr_MdTk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -253,7 +286,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/16168774@N00/3443451316"
 title = "Book of Common Prayer"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:n22hlMohlP8eLZBnYsvlp_VvmWNd2MoEhou7cSxUQ8Ur-YXs4lPluLdYiBgYWhFV"
+href = "urn:sha384:fWHR8oa3T_jLVmzXRF7nXZLoIUkuuEzUj4SpJ1Rydta64fTEZVAZCbacohnAD7sv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -274,7 +310,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/82439748@N00/2658050263"
 title = "Starting out young"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:PjudlPwA-P1imqYCpwopsZcaI9gkH6y3SJgOiRxMj51ifWBbgDe9PfokTUK0fgJD"
+href = "urn:sha384:NJAfys6nF2znFoZsjEiOYXu4dzwDqSVHLMBmV8T1-adBq9Fmx1wP9jh9Z6aLD1Vq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -295,7 +334,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/47264866@N00/3393259139"
 title = "Late Night Mathematics"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:E1ZNtFi0XiBLg7kkcyvnT68AndlYasNR7qLaBYXbBMGVQfE2oleJBJHBIqTF9Iuf"
+href = "urn:sha384:oaTW2T9Baa1486BeyskVJNhifWNCCI6N2TIl37MDPvJR-RyJUXR87IKAydqkr3od"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -316,7 +358,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/24147261@N02/4186516481"
 title = "Taking a Test."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:-6RiXFy3zvBzrsjEgWF4JhlF5sLkio7GX8mmT9hovvWkpdGsX3IqcusTtEFBtSgo"
+href = "urn:sha384:71U8QdtexL6BAfh9ileHjLyvXhOggz57zfpvsaa2_X8k53XxdkXPHYY0JQAXKeFX"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -337,7 +382,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/24963327@N00/3272025663"
 title = "Jacket"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6mJSpSAHuH25tKVZfHbEmbgV-8ZEJXg4onXiPMrJ4dNdDSOm7_2_xkV1zhXCHYO3"
+href = "urn:sha384:ylg3flZxp4-q9J7b837t-iAqyXDaTBTrM7QhNQfCkAUHK7TTKXgBHzVOfrZp84rT"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
