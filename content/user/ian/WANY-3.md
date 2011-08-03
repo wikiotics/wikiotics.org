@@ -1,6 +1,6 @@
 +++
 title = "WANY-3"
-contributors = [ "24.45.15.36", "briannaavenia",]
+contributors = [ "24.45.15.36", "briannaavenia", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -22,7 +22,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/22605449@N06/5396239179"
 title = "28:365 Princess Diana"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:aacR7hf8x-DL3pgdeas9MdY-vPets_9dai-YBeCGGwoCRLYCZJMNYerfh2SmHMJl"
+href = "urn:sha384:Ws8yXXRyKKYu4LKoMXqULYP5tPlZj2l4-PwNu171HIzcOeA20P8kC8ZXv_Hyj1ay"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -43,7 +46,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/54576824@N00/222016256"
 title = "Mountain"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:2BCPVDbfiMi27bLpvhn4lxX7BdD0DKvpTT_qmJbHTV-mrlYz4xTndd7WvGtb9PoX"
+href = "urn:sha384:UtSSiD3h50eZUqZxOJbjMWAqK8tlmgCQmUO6iU8r19ttMny8q_2UXktfjCt_XAil"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -64,7 +70,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/78366600@N00/181935096"
 title = "pink and clean"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HbXV73LwhijFiPrvqDzYyH7mdiQqEFAvAGEYtjzRCQleEKb4nT7NnsUD5DxSAngu"
+href = "urn:sha384:swWi8sHKB7Km7yW7OL-hzE0oip-P8EOhThVSe4zDwQJbJmUQYB0HzT3G5XWs_AN8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -85,7 +94,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28040596@N08/4052833522"
 title = "Daughter's Messy Room"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UOKiq7sPTMLwvsE97UMJuGa8SLxqe2Ys4waps8t6ikc2TCjoa4tjSYmbfJNj6QT8"
+href = "urn:sha384:FfsSAzJONwivaXFreqfRYNm_JRFAYXnUBDc-AX5XfZ2uqnfU1lTL06F40cSs5o5w"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -106,7 +118,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/29233640@N07/3350085865"
 title = "homework and chicken soup"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xJSJBRXVp76JsctMH69L9HCdx-j7SYgxRyemD14XPFQ4nnmS_dPAkTCcF8iDZKw8"
+href = "urn:sha384:QWeHp6SwbfVQySttC_6jaw-V3_7PONacSyPPwepfblNfX-rfQFFahuWxavxcKT4m"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -127,7 +142,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/34828108@N04/4897670763"
 title = "a notebook"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:k6Lfxv0sFwrL94PqV6xQj53J-S--9ByfugXkJ17nK16qYGJc5Bfk9e-5qnPBGRi_"
+href = "urn:sha384:V1-srhF7CMjjlBIP4GAboiD4PTttYz74iSbGmI5TMAdPx-Z-NiRR-ekh1GTE-Rv4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -148,7 +166,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/48352971@N00/4226379768"
 title = "Report Card"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gCh4OW7KXBEyJb3rwTqFByHl4XBo43pYg7ZEU7XV4Kk01BAHMWdaQ5tVbRDRbrpj"
+href = "urn:sha384:9GBCDKOKK0qOc38mQ14dDoRQ2tRlfiYmvwRg7yLJ77fgORma1GftzRUpY4j8dEB6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -169,7 +190,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/28581290@N08/4991546732"
 title = "#252 noted"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IXP1AVOHUHKxhKp6XKz7Nz1MfnBUj0kIY-UqfOFkct0pu5ZOwsxbPJ-2nNu0oqW3"
+href = "urn:sha384:__gyetI6YTM9ITm4F79wg7c_f5wS0583q5R4WZ9lVxoihfn9vFLnKzZEl8v8GpIY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -190,7 +214,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/30624156@N00/4817459732"
 title = "School's out"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4ZkMs-6HQuZUJf4lWISJQBdUtARTGtG342OM_rNKmZxioPCbK7dXvIHAV8nm2Apg"
+href = "urn:sha384:HuFRrhlDQFeIg0929jJX-52q--NEBS2kcc0DD-lBs1j5TXdm5uUuiMkpgAK3LpYs"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -211,7 +238,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/95413346@N00/18057298"
 title = "Soccer.Ft.Ward.Alex.VA.28apr92"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:-_HB1I1Zky-kAhh7AigB_7nOdooNk5SMCuu7L6_5RU52QQ-16WHRzbXgpdFVY79W"
+href = "urn:sha384:ue5NReL4zg2mt2b_wo0vnPtjaXNsy5__ZakHQ8rjjXe3u5UaL8Ed2kvBl4s4qLAC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -232,7 +262,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/43675529@N00/264436721"
 title = "Tie"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:AKGZx9orMJZ7ECML_KRshCb-pWB00w0JWvbmrYgo6P4HtuqdNQAs8rFBja13m0ZC"
+href = "urn:sha384:qkvALkNX5uTeauCUenu1cyNAWCC3Z1uzDlcaVRjyfpyfl3qeZ2J_DLyiA3GgPBJr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -253,7 +286,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/42586873@N00/3333480058"
 title = "Old News at Postmasters, March 2009"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:AeASiT7DwNBfVHRM3B9-Ze9tnGnt0zKUKodWtmHu0P17vkYX5dcqC-_fqc7lY_Fp"
+href = "urn:sha384:qazPGY2eAR7ljiuTKDomYPjzVYUeujy27RQwfr-VG6rculuFHUWIY4Xuco1dOtYY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
