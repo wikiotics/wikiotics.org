@@ -1,6 +1,6 @@
 +++
 title = "Love and Money grammar"
-contributors = [ "ian",]
+contributors = [ "24.188.181.8", "ian",]
 headings = [ "prompt", "answer",]
 type = "lesson"
 [[cards]]
@@ -41,6 +41,86 @@ type = "phrase"
 
 [[cards.sides]]
 text = "few"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Wehn the bill comes, offer ___ pay."
+type = "phrase"
+
+[[cards.sides]]
+text = "to"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "That ___ very good."
+type = "phrase"
+
+[[cards.sides]]
+text = "is"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "You ___ such a gentleman"
+type = "phrase"
+
+[[cards.sides]]
+text = "are"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "She must ___ rich!"
+type = "phrase"
+
+[[cards.sides]]
+text = "be"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your meals ___ ready."
+type = "phrase"
+
+[[cards.sides]]
+text = "are"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your table ___ ready"
+type = "phrase"
+
+[[cards.sides]]
+text = "is"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "You have to help ___."
+type = "phrase"
+
+[[cards.sides]]
+text = "me"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This bank account is ___."
+type = "phrase"
+
+[[cards.sides]]
+text = "mine"
 type = "phrase"
 
 [[interactions]]
