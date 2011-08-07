@@ -44,6 +44,7 @@ The current episodes are:
 ### 5 - The Hospital
 
   - [Basic vocabulary](/en/The_Hospital)
+  - [Grammar practice](/en/WANY_Hospital_grammar)
   - [Watch the
     episode](http://www.nyc.gov/html/weareny/media/video/hospital.asx)
 
