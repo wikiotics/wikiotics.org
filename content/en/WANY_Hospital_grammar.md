@@ -43,6 +43,46 @@ type = "phrase"
 text = "won't"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Hang them ___ wall."
+type = "phrase"
+
+[[cards.sides]]
+text = "on the"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hang them ___ frames."
+type = "phrase"
+
+[[cards.sides]]
+text = "in their"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hang them ___ nail."
+type = "phrase"
+
+[[cards.sides]]
+text = "with a"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hang them ___ hall."
+type = "phrase"
+
+[[cards.sides]]
+text = "in the"
+type = "phrase"
+
 [[interactions]]
 answer = 1
 prompt = [ 0,]
