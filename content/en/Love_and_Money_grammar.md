@@ -123,6 +123,46 @@ type = "phrase"
 text = "mine"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "I would like to ___ some questions."
+type = "phrase"
+
+[[cards.sides]]
+text = "ask"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Maybe I should open ___ account here."
+type = "phrase"
+
+[[cards.sides]]
+text = "an"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I opened ___ bank account."
+type = "phrase"
+
+[[cards.sides]]
+text = "a"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What about ___ talk about banks? You knew so much."
+type = "phrase"
+
+[[cards.sides]]
+text = "our"
+type = "phrase"
+
 [[interactions]]
 answer = 1
 prompt = [ 0,]
