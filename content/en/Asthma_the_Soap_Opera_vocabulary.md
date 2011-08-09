@@ -22,7 +22,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/21241181@N00/445141052"
 title = "twin straws"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:sVeCz2-JmMn-0l6jpRcLnA3RVrXI3ChQ1piFVOnDEVB9JzcVXTDL-92vph86uSr3"
+href = "urn:sha384:5GUFpBC30iHBWroI-6uxV8SBkfsLOfeytmVNJ0fVSgfpswHzzyx7E1yVoA9jRCpd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -43,7 +46,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/11757382@N06/5669957816"
 title = "India_Uttaranchal_Corbett Tiger Reserve - Wild elephant.jpg"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:n9zSJtoze-AlZVCvXuFfB4W24uc12rClsBD1KgYsemPj3vrHQd92K7vOAnwYeyJZ"
+href = "urn:sha384:Xk1BWV0BMglaPX7CDSIKzDa_DsoA-ew1j_n7SeQreNJ3NOC_V-9Qihxc24YmyBWS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -64,7 +70,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/20218973@N00/5502616867"
 title = "Anti-wireless-communication sleeve that's sent with Green Cards"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7ee_0thHNoq2apMJfgrDMQhdp_-QUxss2L2LDUODuPHzPQ9fWZKDf_XpNq6puWjy"
+href = "urn:sha384:10u69eNOpzWLjikAh1ylhDEoyI1yTxo4VqUZO_0t_1LeEtXYuJxEBA1zOx4ITHEn"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -85,7 +94,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/96679304@N00/405571664"
 title = "Shoreditch Globetrotter"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ihvXXUzw7_LcsTvGs34FMgWUEwqasKv8wLjekLcnMTf62JvhFHPHTafmOhdO4RZo"
+href = "urn:sha384:SvdEFYR-6laKOjs8ZG6bADWqSCWTW-kgVUqO7-bh5xu1-Ogc08Uymvm0I7WUrqXe"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -106,7 +118,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/24256351@N04/4058808950"
 title = "Doctors with patient, 1999"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0Rr8CH51MtFJ_xIMRVGScI2cqjYsktYaW_cr-QlHVZBL_PVVUXsRr1BszPOxvrfm"
+href = "urn:sha384:VVchcWa5nLoAIV-nyoUsOs48sXgVkVdftlSUeoneS4FsrUsxpmXm28IEnjUtjbp4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -127,7 +142,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/74163253@N00/5521104132"
 title = "Pills pills pills pills"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:PNpI93y1q4FrJIlNS0zoCP9HGF8BbjFofUE8_oNZAl5upY7aml95VsrclDqyjksl"
+href = "urn:sha384:GHXax-LslYhg77eYW5YHvFFvMM2zoR8_zJV5Ejpic2olgRyGwjmM1yyMOU1bHJ8F"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -148,7 +166,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/19414697@N00/523977327"
 title = "Pudge with his inhaler"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:sOjw-e9jZ16BCErMeQIPe03haowu8QXnjmBDvlcXdBBkgKmed6gikYY2fEh-c5Wd"
+href = "urn:sha384:kKFtomfolde2mVljGVlRjI-REcozAI3B78jniixKwCANiO2eiHwvuBIs-FiZ8MGG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -169,7 +190,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36206672@N05/5669244788"
 title = "The Gangster"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1PIIFonR0nFyfFk4NuUacOHESfYiy_YFskXz_CcLJg3OinKMIvZu9RoZYv7rK7B9"
+href = "urn:sha384:RJ0yBFPlSe8nyKQeFg8KbYb6GAgEeT7pUzA8hu_Qdhp95LERKdLWT0pIjy-oe-I4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -190,7 +214,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/22434330@N00/4627661309"
 title = "A Silt Foot"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pBaSoAvGkmO2w310UNjbwV_SOmhMqE2xxYawGS8Yk5WyM8VcVObrqmMzuYHT6kTa"
+href = "urn:sha384:6ni_z2wthZaZrzes_syV0euzCKXLVbb_KmyOK21ot8VT6NPEzI75irLCVZMVLgPI"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -211,7 +238,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/97335141@N00/5623204498"
 title = "embroidery meets simple sewing"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9X3l0fRQ0lRpXMCpOKLlEddGlQquBDINebx2gnlRpKc_BME-XQhlzb3OR42YWNqS"
+href = "urn:sha384:TcHwhnOOJKEvdB67Gy1N3REx3hQ6IpG383QfffSljpCSzchlJ4iNTsPIJKeoJsB1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -232,7 +262,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/32404172@N00/1341921726"
 title = "beautiful blankets"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:05EBzP5DljaOn1r0bWojgRVJyMd6Gqw2gfQV1dWRxLVEj76o2x-xM8gho2aFApWx"
+href = "urn:sha384:V6C5GpXSxEV8WOZ_tiji9zxzDldn2Ympb5YSlSAv9S4ygaJjeRdGSWJsXDGUf07a"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -253,7 +286,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/54566918@N00/5274641072"
 title = "Cockroaches"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ZmvX7gLHzVe5pjUwa4kB8uknsVQvdT74zqhzolUvbIuweGz5pciLvnpW7CDSeBz4"
+href = "urn:sha384:ImVJ9iaAWX68FqdJy1CGkHySk3iDf5Boce1vEztfkIDJLpWRQpHHI4ph9BxHHzwy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
