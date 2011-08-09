@@ -1,6 +1,6 @@
 +++
 title = "New Life Cafe"
-contributors = [ "briannaavenia",]
+contributors = [ "briannaavenia", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -22,7 +22,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36993742@N00/3666794087"
 title = "Computer Testing"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:oMqurmUZe4aYuqIioKs4kJGneZsZAXnFwqmXwZN-UbXFDk_BS4bLzH5o9vhTCy1l"
+href = "urn:sha384:kCXC0zeY7awKYBLiqeZs0ifBgG59Y3MNx-4zeeL_pcmaLF4NELuYEImnLzi822gP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -43,7 +46,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/49503095197@N01/3775323828"
 title = "Jean Michel Cazabat Kimberly shoes"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Uaam_D-WC0iLyEeEXzUV22awV4hYJiIwyaLQsGh_Jjllj4OyTakXFPxyHOd9JHiC"
+href = "urn:sha384:AoJGWkKnVMl4gjr1TZL2txC_hSNCajMDVkUXbSg8ILQkLbvWpE6qG2eJpvQZ6ZRO"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -64,7 +70,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28442317@N06/3547257320"
 title = "Cafe Rouge"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:m95HMeTu3jmbNYforuI2jDeY6SkQbHT8TMuujYFTS7FqzoVfcnYvIhlDcqBy8Jfu"
+href = "urn:sha384:0n6MZXauokpXiTFVn4F2Sl4-tdvqzrEQoZNTV6Khz2IRVUtqCRB8mdbM98AldBgM"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -85,7 +94,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/91252560@N00/3045691351"
 title = "stove"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4GCpZCg1ZfLhagTvdzkOSzJ1nREQhTOHcpdqwYoxKw7mgOnddSm0m_6cTjM93QaQ"
+href = "urn:sha384:IAgf8TzJBPS9JLKVuu8wtA4grVvlAL7tOasyGjXi7180imNKmV7jDTzsAMyjwt8X"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -106,7 +118,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/10559879@N00/3649846585"
 title = "Menu and plate prices - Makoto, Sydney"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XdQgRB-OjsugRR7XFBLM0nmS26GZRJVg0eo223VSqGXxcDjclTvwueSs5v86v0as"
+href = "urn:sha384:nCZldfV9BaGeukACebmQKacxDWTFfECB4sqwPv9YS2oZjKpQ8V1Q-j1tMfrpE9cJ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -127,7 +142,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/44251351@N04/4079549249"
 title = "Heart anatomy"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vjaMRKij2Seg8gSHQImw2EdtMQBxClqPohvpUiE97xumVgfzL4A1QZuGNTUHIzT8"
+href = "urn:sha384:r3U_71o3fI_KjSiD8PGwdPKVlEfeaEii6yIGRLm8KAdqNReaATPm6JlOHUDLiu8N"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -148,7 +166,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/47422005@N04/5639011991"
 title = "Social Security Card - Illustration"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9_QO0PmjaSmERuC5APsXSi_ag1aNoeAG8qf9ZYHluSYY0dgGlYCzZT8UQ3yVR6zr"
+href = "urn:sha384:RPpVdKmdh1388-imeh5iexvVbHmemXOTgfNKSipg_eQLbdaixIscMFDmeWJc-kMM"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -169,7 +190,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/9146943@N06/5206062573"
 title = "\"When turkeys mate they think of swans\" ~ Happy Thanksgiving~"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:CoTuqLIVG5R9s56ySM8nluyVLxuA6Si-J2EFquLgGj6mWu2PjeOpIC1uWYXSHbIO"
+href = "urn:sha384:l1RE-6A9TI6QuB-kyGE0ZI4nzwHcyAsn6jMf68_c3gUJJq-UgeLQqZtPMKSw-6L0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -190,7 +214,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/26223114@N02/5186819370"
 title = "Computer lab at Waimea College"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dftbTj9hXnU6SdScUo7RxkmqL417sTYPP_uyDK3QSzTrqyyJhYkObHtLLZd_EFs5"
+href = "urn:sha384:-sfhIhCdT0g8WBbGJowtMZzjdsTEq7Bq4rEUOJ_dRrOkQGRvABEkME0sToBLy6Jb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -211,7 +238,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/53496815@N00/2748035664"
 title = "I Like Shoes"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:a9fUUssGZ6fkyjuJWmoCorAkU9SG38JJS-qdfwbqvZJx5qDEhSk7iPGO8yCKyqLh"
+href = "urn:sha384:eh93tlOFGgKqncGwAjAhCZB_Kd4kF9VgeNR1b_807jsDZzpz1tsdBDFwUiJ4bHOz"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -232,7 +262,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/45558660@N08/5710365313"
 title = "Turkey Hunting Nebraska"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:mzajjyzhDpX99U3lCrHoMUQZ-ZDkP8bQhyml1BEpu6lDlQRgr_TZOyjotpxXLxvB"
+href = "urn:sha384:Cw_f7OOiy1fQobQDOoeMqBb0_a_yDj2onMvjpfUvngrsJo3w572hGkVmyCIhLJ69"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -253,7 +286,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/44124414469@N01/31253739"
 title = "Horse Pills"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nhhByFC10qXifjNVhPGIM_oD9XukJNL1TgJgznrQRHKa9UaRk3vSVJjcsbn-G5Dq"
+href = "urn:sha384:fkKufYfGqc_IXFOKqCMYE6MYfNNZB31otj8JnP6mqFT0zIjrNSpXrM1VV547vbMV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -274,7 +310,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/23178876@N03/4690879117"
 title = "Broccoli"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:RgQgufe_iv0qlZMHr_id-ElwKTkyQXB-qiHke7LgmhvAicIIkB5YMxxdOpM8eg0f"
+href = "urn:sha384:i6V1nD0WjpN3h4fgv0Qs8YleLyPLONPtUxWMsEGI6VW8LQwQJqVKdIhfLys2IIoy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -295,7 +334,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/70096206@N00/68555418"
 title = "How to make rice"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:CLYNHfuIc5BMHQANo_tl6egp-Rv6z_tvgPSZAMJ580NzNn8Vu-eLU4VTH1_2QYMb"
+href = "urn:sha384:scTzL0jfgUKirPfaXi0okiAIk68lqtlQ_2VlxkGQlOJaO2fNpA13uf8QgVfLkbZG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -316,7 +358,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/79729522@N00/727320890"
 title = "Bean."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cSlHB_bvP1tFE8AWX2aF26ibct95s_3_mzn9ftsfbWzAs-DHAVXS95Ll82AJlZOk"
+href = "urn:sha384:VA4BF2Rep5D-i38yk3ISwHyUolhtSpj1ZmBdJAaHIXDfU4YXAgGC-LhTDtsRax3G"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -337,7 +382,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/35034346243@N01/10439635"
 title = "milk"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:mcN1RHuqPGdfppXhwNRKa3DEh7Dbth_vlkiPLEecxs_HI3T9qipkYeJYDUlsmf8D"
+href = "urn:sha384:QplU5F7wXEnABF4qfuSiEqtlDu_wWGrryIMWCqa5YbqLWax4DO-xrRpHr1uAkWQu"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -358,7 +406,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/67194633@N00/227321020"
 title = "Me wearing a suit"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:-k2dRv-6H0FRKy9Sq3rdI0AwxG387W9tATvIgPgsT5n6PEB-WWi9DOui3_pW92Uf"
+href = "urn:sha384:50SSW5kaAEaUnse3dvxOch0YwpIVJhkvB5h2X4xgSNYUNCmMTbzhUWbQ6NHMaBFG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -379,7 +430,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/72825507@N00/390607320"
 title = "two-girls-exercising-cayucos-beach2"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6iROrEsyzJEMro-e5zh6eeY6jlSsskPYb3nZsqJDDZbnV_Dy_zCa-j4akJvEurvD"
+href = "urn:sha384:dKWHiv5r6Mm-xAMaOCx8-72vlUCBcS30lVWz8Wt9kzbLgP2rdJg6oPNioNJWb_0w"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -400,7 +454,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40145521@N00/632981541"
 title = "Old woman cooking"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:D2XIF0dxLk4nwF4eu9a_hDl5pHl8Zp6HkCueg4gWZJOxkUFTlnQ4iC_hgi3Qylel"
+href = "urn:sha384:mK0clVyAoid9dCnDUdnUg8aS7sq3P9z5elHFv_PKm6yi2n53hjCtrs6HbbJHW9C9"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -421,7 +478,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/27822647@N04/5685786166"
 title = "Adia eats dessert at Jules April 29, 2011"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vYdyBmkrmzhKCRNZhmxVEYnJCpTI1eDgClEcwz51MLDvkS5fyKtBAn64Z2bCdVXU"
+href = "urn:sha384:fTXR1aS7fUcxXfvBmWbGddKHfQRDTPAxQRn721Og0i07Ql5FWYEY23xbaFnROLS5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -442,7 +502,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/26170836@N05/5068447235"
 title = "Cake"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rDlqbpsEFAU-QuhCpE6MyBqz_vBoyzEKM7NnK6xQzYe5Kuty0H6WN1EkGRYRw7bV"
+href = "urn:sha384:JOdHLnNb5irokGxsycPRAAXdGfs-yciHYBITRlhJ5-N9VK7if-2MLT9mqlDJXPVe"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -463,7 +526,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/30223382@N06/4041503799"
 title = "Cakes later on..."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:OC83ytEeDyMKbHjekByJtgW0zPEJxwuLO185jEblhmPt9IK9_VqRSx_yaVgxvLPK"
+href = "urn:sha384:xzjN9JDR-ZutDRKpt9D9J6QvJ8EDYp2lmCSrgfyqy2KG7qzMo2_Nn3LJUd1VymqL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -484,7 +550,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/27670134@N05/5492192948"
 title = "Chocolate cake"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qsaeSwEY22j9OMLB_BX_s07a9SDrsZ_CsE8p0auUQshdqvJnvbUOy5fL7k8Gb-Tg"
+href = "urn:sha384:bxMHV8lghcGOrjP4mLPknjI3ODgafI97hkg0LK7_VaPLbWQ1w0BIOJLbu6vk2xSQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -505,7 +574,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/56087830@N00/2213004195"
 title = "Salt and Pepper"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dw-ED5RgpnXKfEoLCiSzQFTw3IiQdw2FLWPmPFVjeLxQC4rlbNjCC7oUTFxUZS3G"
+href = "urn:sha384:KzYyKTTjHDywRETHICIai--NZn1AyjCU-KqZ2aPcvqqStOIaYCVpaAQp_eT_YWnV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
