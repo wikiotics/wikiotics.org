@@ -22,7 +22,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/11268615@N00/3428049840"
 title = "Guitar"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7GFQB2pPrcPT29uqf8xqXFcbB-DbOfhMzvGdpQoM9f24B7798ZHt6NY2rY9RhmR8"
+href = "urn:sha384:tpAW7JwoiaQtb74kCIZr-yv5-BdeSzlWX74NA-DaClxzWVmgK5YU45zq65nmnkyH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -43,7 +46,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/27429206@N02/4124370796"
 title = "snare drum"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:H7GBLuBhFuE0CuMWsr6ClI0kpzNbildQ8NJzfJahoLuEshkVwRyFlEOQJs09bgSW"
+href = "urn:sha384:nCFEvt36A1wZlnwOnMGMqI9ErLuurFITY-C-UPHy89yyX8jDWnMUTY2-z1riPqtb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -64,7 +70,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/92025495@N00/3492233537"
 title = "More In The Dressing Room"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iFmxaSeDmEucn6HF6OMKW7Xyp1MX7mbnFcG7HUIxzqAYd2n9WHO3fqNyMLOzFN3H"
+href = "urn:sha384:othj6hLX4oM-yRIDJMSST9GK8vlqX0sSc1kgTOaoeaStGdolpIxjQtRs70WwD1y5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -85,7 +94,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/51096110@N00/1742772467"
 title = "Leaf"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:c9qO9PZh-H6MXGUri_G2lGbugICa7R1W2cxqoYo-Df7ZZWi6m2eNzvU2Y-4evaKJ"
+href = "urn:sha384:jLPrh_oP1aTPq_XMl0Sm5AocW--P9EladXCXQoKItxviZZ26Rodq7xTv1l6EvgIW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -106,7 +118,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/88583398@N00/5375564032"
 title = "Moving the Drum Kit (1)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VT_21CRn4ZAFJ2f_Sr-Kwp_DIwhU3HtfvoDtV4XRAEHv96Ep9OExk82QJdkU7tXz"
+href = "urn:sha384:9vREfZLdiDzaMSUbUZZeuaeFCp4JgyXAorwVdrOO2RI21CkghcrlugMll-JYu_S6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -127,7 +142,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/34067077@N00/3065672035"
 title = "Guitar Porn"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:o5N-ry4d516spyyUDat_aapjChOFagxjBO7f_WN1i9q8T1R4XjV7T0KIWOApRVT8"
+href = "urn:sha384:TuRDmIVlWNIQ1cZXNeAzUX9yYQiP-ksSoNUO4RBYjalywtKzgLZA39Cl0T8YDR41"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -148,7 +166,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/31626005@N04/3520547340"
 title = "Dress for sale"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lbcu3hBkypWRxVJcz7VFPJSsJTvm6keUf-XFOcCNMUN3fDWtsWqxq00cIQKrZzfp"
+href = "urn:sha384:SVuBt6YDLHDyv5kkHFSlUeogtErHNWMeNXGekE7m4G4qQQhz8Jb6XUpLuUAXcD0e"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -169,7 +190,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28364885@N02/5147273004"
 title = "Leaves"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VRpb7M-hEDMWIEOt-cE2erwje2WoKm6tzJ2JotAU2cfh2cgItmfVGzMrDpkxWxJk"
+href = "urn:sha384:jcnMGpc0rqcJt9IJUfE3vHt3zRT2dADiFGApwvGTNxKuvljsRgl__-l2uLsrnD71"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -190,7 +214,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/29233640@N07/3292261940"
 title = "chicken soup"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8QVtwx6preOwhH6BfJa-spPrKAc5LuDp6uHoYPsWZVuhq-Y-tlOgwzWxyi1G6CIj"
+href = "urn:sha384:gJrTqgxtd8BnGxVfh9B-_Phlb117FJa1OjqSU6vm8Npp-ibQApxrpeQ6zm6kpyvS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -211,7 +238,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/66742614@N00/3915119759"
 title = "Food Cart"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rClr6Awf6hs_KBmUmfGRsNsKfOahUqd0MAudp1Y0VRn_I6waKJQD70lDdwwEWtjT"
+href = "urn:sha384:-Xq6wy3uB9p17wQ2zJGJlueVRiAiiW6J6Fy8M8cobuQmKDshjLCPrjOCMKwoV-oG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -232,7 +262,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/62999165@N00/2150948508"
 title = "Pizza"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:SlRflSZ0l95kcEW5uf8Sn1kV38d4WYYn7v7_P3FYOH2UxcI8m1xptlyH14yKkN7g"
+href = "urn:sha384:39c0gIdaaYxO33xZjZwbc9edb8ZPv09bWRbNQlaDM5M4yP6itmF3SObXMs1-4IW0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -253,7 +286,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/68387408@N00/424032954"
 title = "Waiter Waiting"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rKvEIOP5CJ6NAyAlKbl8L6l4RzYK2XA-VDXkRS8WalihEnBqDwtT4pKS4UPL-7vA"
+href = "urn:sha384:rRKXN7wCQktTYbQ86vcmoUzoaIHndfxBLjiJCoRKWb4-C7ZE1lv5AVK23jiOUDWX"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -275,7 +311,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/75425394@N00/4992681020"
 title = "Wedding"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:2ZB2Lx91FjELvEoDl1xELI1vq6lsc7MJ60Cl2aQTzY7N-K1bwVgAgrMbjPow7V7C"
+href = "urn:sha384:Ng7FMBOrSbatZcgbnenYUnAuXmk6TP_jJjd77dXYqps747IR6W2o1lchEDXY5qeM"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -296,7 +335,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/23501684@N00/3442958231"
 title = "Dance Awakening 2009"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GHZVcrEEDiNRui4rwH1qeiYUe-DM2yTpF5Y_28-OEuUlNFUnAKK3kkXSo7ioaIWe"
+href = "urn:sha384:FS9wzmeSPItGlBqhp2CLLuElhO8pBCdjTGSkIbdQjK92pNJkuk7fOvGerSmtfJ16"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -318,7 +360,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/22324943@N00/3110777156"
 title = "Lunch at My Friend's Diner in Cleveland"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5yO9ChaZ-f2T3RsP33NKYltd-zO0B8MvhzbwqyOuFukpYx35Tujd5aKchtn6JMjR"
+href = "urn:sha384:bN1PUj17fbwM5K2jloLeghRcEJFCy9Oeq7k6vQzspVzE5LVKIYXG6TmrqHVFmu2X"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -339,7 +384,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/47038415@N00/1105043042"
 title = "Walking Posse"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kvRudKL9cUu495zcqX2mLMxTZO_tsGTdbvVDhVpYR75Nni75wgKznPAtKYtqJtRZ"
+href = "urn:sha384:rluozDavciT6lKEMF6xOChQfHP5-HjE5_KBWltKW_30CttkaICioONvQQHDOArfY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -360,7 +408,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36602595@N03/5822238003"
 title = "smiles all around"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iyMgxyBboLn6qTPoygULOHkunenpDxEQ8DZKKRXg3KC2-q21CEjnWFhz2oGF3Cl4"
+href = "urn:sha384:rCLp48cdMj6TBXP1FgyCHkeYblTqN98EJ7rcNwONa1b7Dm6jcSY0dtZXgL_tHjkj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -381,7 +432,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/45034206@N06/4508026762"
 title = "Smile"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Nl58VVIkVW07aJDM41up9IREmn9YTZjBH92XS5UYGHIbWREhMNooqCrrVdlKkc-p"
+href = "urn:sha384:lQfjaZ8Qn8QJvbkJmwY5CJFNCxYkeGG-xhfhqBuUNKMxMFrhYvZPxSkroJl-ugBX"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -402,7 +456,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/15181848@N02/2321747323"
 title = "Dance 2"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Z5S8eKXEjW0hVk_fRgHRjKhGH3MEdd63Q613I_Gb2F8LkAfxQrSSjkcoi1BejvDw"
+href = "urn:sha384:eZT6LGieI9kHTpITpTmh4Re3ZYoWKQNGeHBtUhiL-G-kKRCLkzfgQ4K5D_RseUEm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -423,7 +480,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/56258631@N00/942393435"
 title = "Walking away"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:r7LR315txg_-OLcQt6Glc_55r9ieAGO5aKYVttTbCqZ05M2rd_Mr3dKarw-ocv0n"
+href = "urn:sha384:8NpBeQuyf5jJq8a2VfeKJmJmbrCM-MCx13anwCMN-ktDjDvEubT7ZgIXxe_lV0Vr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -444,7 +504,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/58621196@N05/5783934645"
 title = "Allegheny Brass Band"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:S4q-WIxa7lbEoUtji_LtY0lBKC4Q_9IsR6kVKN_2bUXiNxZCAt7YrexYAvZ_XV6M"
+href = "urn:sha384:ab7xBVaEOyX2_YdvIzIsRZt2bVayHQAFFO5sCyU23884ozRqQ33K_UKcKd_ATyN8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -465,7 +528,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/95413346@N00/15039434"
 title = "Foot.BFRC.WDC.6sep97"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yV3MaRIxSCIQs2gztRRXLcmn-sGM_pJAWggvo2SQ5HsD3RvQH0xVUDa1daZgegh5"
+href = "urn:sha384:jVwoFSzjqGvDJyl_bVofUkX_MNid31VRb0iccV4JwmNYDb_UrKPyEywi8Lv312wd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -486,7 +552,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/30728830@N00/167872134"
 title = "feet"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_GqRKF8BbmzDHJAXEvdSf-8-dVS2nyGgbpAwirqjcFyVZ7SaVqBQpIDy7-O4-SON"
+href = "urn:sha384:4GjokeISq7CJo3DBfs6BbsX4A2NmwSxgaAXHaLvlYW68qRm6wgu7smGH62d_ZaqK"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -507,7 +576,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/29509789@N00/137410872"
 title = "Beijing Subway @ ChangChunJie"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:x5dzHuS-gL1VvWleIaT4reWBa0Pr0cGWARxsL0wyNPCppH8_ZsTi3RaqJRTz8u77"
+href = "urn:sha384:7ccG9iCXZTtDBnwmXhMzmzbGlDgZX6Bu1xdzXIRJ8PaNJErox5FhgTEPjNU2A9a1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
