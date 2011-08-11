@@ -1,6 +1,6 @@
 +++
 title = "Love and Money grammar"
-contributors = [ "24.188.181.8", "ian",]
+contributors = [ "24.188.181.8", "65.88.88.248", "ian",]
 headings = [ "prompt", "answer",]
 type = "lesson"
 [[cards]]
@@ -46,7 +46,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Wehn the bill comes, offer ___ pay."
+text = "When the bill comes, offer ___ pay."
 type = "phrase"
 
 [[cards.sides]]
