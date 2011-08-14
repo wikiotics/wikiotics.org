@@ -4,6 +4,8 @@ title = "lessons"
 
 This is the list of lessons I have personally made and/or corrected.
 
+## Picture Choice lessons
+
   - [Introduction](/user/ian/Introduction)
   - [Weather](/user/ian/Weather)
   - [Food](/user/ian/Food)
@@ -17,3 +19,8 @@ This is the list of lessons I have personally made and/or corrected.
   - [WANY 7 - New Life Café](/user/ian/WANY-7)
   - [WANY 8 - Stop Domestic Violence](/user/ian/WANY-8)
   - [WANY 9 - The Wedding](/user/ian/WANY-9)
+
+## Phrase Choice lessons
+
+  - [WANY 1 - Grammar](/user/ian/WANY-1-grammar)
+  - [WANY 5 - Grammar](/user/ian/WANY-5-grammar)
