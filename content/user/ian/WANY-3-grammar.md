@@ -40,7 +40,7 @@ text = "When the parents were meeting to plan their questions, they were ___ wit
 type = "phrase"
 
 [[cards.sides]]
-text = "confering"
+text = "conferring"
 type = "phrase"
 
 [[interactions]]
