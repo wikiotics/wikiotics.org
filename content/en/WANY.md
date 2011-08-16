@@ -26,6 +26,7 @@ The current episodes are:
 ### 2 - Asthma: The Soap Opera
 
   - [Basic vocabulary](/en/Asthma_the_Soap_Opera_vocabulary)
+  - [Article practice](/en/WANY_2_article_paratice)
   - [Watch the
     episode](http://www.nyc.gov/html/weareny/media/video/asthma.asx)
 
