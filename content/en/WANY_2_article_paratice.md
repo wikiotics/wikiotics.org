@@ -56,7 +56,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "___ cockroach is small."
+text = "Cockroaches have ___ very tiny body."
 type = "phrase"
 
 [[cards.sides]]
