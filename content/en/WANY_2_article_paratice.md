@@ -86,41 +86,81 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Mario is very concerned for ___ health of his baby."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
+text = "the"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Asthma can be ___ serious medical condition."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "a"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Sometimes asthma may feel like being squashed under ___ elephant."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "an"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Learning about your illness can bring ___ piece of mind."
+type = "phrase"
+
+[[cards.sides]]
+text = " "
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "An asthma attack can feel like breathing through ___ straw."
+type = "phrase"
+
+[[cards.sides]]
+text = "a"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Smoking and dust are both ___ asthma triggers."
+type = "phrase"
+
+[[cards.sides]]
+text = " "
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Mario's questions caused a lot of delay. They kept having to start again in half ___ hour."
+type = "phrase"
+
+[[cards.sides]]
+text = "an"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "In TV, everything works out in ___ end."
+type = "phrase"
+
+[[cards.sides]]
+text = "the"
 type = "phrase"
 
 [[interactions]]
