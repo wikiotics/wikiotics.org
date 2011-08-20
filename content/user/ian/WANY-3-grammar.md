@@ -86,7 +86,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "A ___ is an opportunity for leadership."
 type = "phrase"
 
 [[cards.sides]]
@@ -96,7 +96,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "A parent coordinator helps parents become ___ in the school community."
 type = "phrase"
 
 [[cards.sides]]
@@ -106,7 +106,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Practicing what you know is a good way to ___ for a test."
 type = "phrase"
 
 [[cards.sides]]
