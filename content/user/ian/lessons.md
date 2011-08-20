@@ -24,3 +24,4 @@ This is the list of lessons I have personally made and/or corrected.
 
   - [WANY 1 - Grammar](/user/ian/WANY-1-grammar)
   - [WANY 5 - Grammar](/user/ian/WANY-5-grammar)
+  - [WANY 3 - Grammar](/user/ian/WANY-3-grammar)
