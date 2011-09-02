@@ -39,6 +39,7 @@ The current episodes are:
 ### 4 - No Smoking
 
   - [Basic vocabulary](/en/No_Smoking)
+  - [Cause and Effect](/en/WANY_4_cause_and_effect)
   - [Watch the
     episode](http://www.nyc.gov/html/weareny/media/video/nosmoking.asx)
 
