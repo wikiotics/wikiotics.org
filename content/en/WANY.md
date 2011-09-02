@@ -33,6 +33,7 @@ The current episodes are:
 ### 3 - Welcome, Parents
 
   - [Basic vocabulary](/en/Welcome%2C_Parents)
+  - [Grammar practice](/en/WANY_3_grammar_practice)
   - [Watch the
     episode](http://www.nyc.gov/html/weareny/media/video/welcomeparents.asx)
 
