@@ -126,41 +126,41 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "___ helps you get ready for school."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
+text = "homework"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "An ___ helps people communicate who speak different languages."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "interpreter"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The ___ runs the school."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "principal"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Parents should get involved in school as a matter of ___."
+type = "phrase"
+
+[[cards.sides]]
+text = "principle"
 type = "phrase"
 
 [[interactions]]
