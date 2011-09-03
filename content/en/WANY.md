@@ -61,6 +61,7 @@ The current episodes are:
 ### 7 - New Life Café
 
   - [Basic vocabulary](/en/New_Life_Cafe)
+  - [Grammar practice](/en/WANY_7_grammar)
   - [Watch the
     episode](http://www.nyc.gov/html/weareny/media/video/newlifecafe.asx)
 
