@@ -54,7 +54,7 @@ The current episodes are:
 ### 6 - Stay in School
 
   - [Basic vocabulary](/en/Stay_In_School)
-  - [Grammar preactice](/en/WANY_6_grammar)
+  - [Grammar practice](/en/WANY_6_grammar)
   - [Watch the
     episode](http://www.nyc.gov/html/weareny/media/video/stayinschool.asx)
 
