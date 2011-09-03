@@ -18,7 +18,7 @@ instructions on [copying pages to your user area](/en/User_Pages).
   - [Movement verbs](/en/Movement_verbs)
   - [Food types](/en/Food)
   - "[We Are New York](/en/WANY)" lesson series
-  - [Body parts](/en/Body_parts)
+  - [Animals](/en/Animals)
 
 ## Help Expand These
 
@@ -33,6 +33,7 @@ instructions on [copying pages to your user area](/en/User_Pages).
   - [Kitchen supplies](/en/Kitchen_supplies)
   - [to play](/en/to_play)
   - [Technology](/en/Technology)
+  - [Body parts](/en/Body_parts)
 
 ## Special use
 
