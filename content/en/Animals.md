@@ -118,8 +118,17 @@ text = "goat"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VYHXlsvUmAVNJSLUAMxj8UEZ41E9abzZr4GMZrqWGnlSWwZKPcjcAwcL56eK2CKc"
+href = "urn:sha384:3IsWPi_6biUmfVEYIK7o6IrBOikySejYRfSdV7B_wl0IFmKwwoLOoeTVuhN4zteo"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "William Andrus (andrusdevelopment)"
+author_url = "http://www.flickr.com/people/9020344@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/9020344@N02/4753432062"
+title = "Goat"
 [[cards]]
 
 [[cards.sides]]
@@ -127,8 +136,17 @@ text = "pig"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cJGbOnAjhvvYLmH2IdeFdEeyeSgwUMt1FbI0i-yShrTghk-wClejCTHfvAfvv4tk"
+href = "urn:sha384:IKfQX-OduNxBV5zorjGpeKcK9WpCUkSN5IlGklVknaZqV8u9lM-wOMCUoz93voR2"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Peter Pearson (peter pearson)"
+author_url = "http://www.flickr.com/people/79476907@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/79476907@N00/3438872006"
+title = "Pig"
 [[cards]]
 
 [[cards.sides]]
@@ -136,8 +154,17 @@ text = "rat"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3PDd8X167oLxWmXDNV-p58vb6h6NaSl-OuWSGrFSyipMZJbZwEimKGXtep0WOgMr"
+href = "urn:sha384:jhmU-IT49NB34lb0ZwOQcrU6PG0b-uT1iIprpJKSBpQfYlwrZcKrI9aisEFKtlTh"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Adria Richards (adria.richards)"
+author_url = "http://www.flickr.com/people/28694005@N07/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/28694005@N07/3153754147"
+title = "Rats at the park"
 [[cards]]
 
 [[cards.sides]]
@@ -145,8 +172,17 @@ text = "cat"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:a7qDQebP2o0Il3-WSiSZIk-S1wk00qd0CMFM6WKlhY-5pbT1Vpn3PF54C434ZmPm"
+href = "urn:sha384:BJUfb7THL64sul4E1mXDSRpC_wKAQfbDwyQsioFMwmBo0hQ8OH7FtpQo8RPpQdjq"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Chris Erwin (Chris Erwin)"
+author_url = "http://www.flickr.com/people/11296584@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/11296584@N02/1089567053"
+title = "Cat"
 [[cards]]
 
 [[cards.sides]]
@@ -154,8 +190,17 @@ text = "dog"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cup7uJ0ZLT2tKJEU5VS1mZSvQpbBU4x_VhlqlVA5N2lYbqxPdJluBNKztxONfgNv"
+href = "urn:sha384:C37oS8KYlpfOI-nu_fmD3zcYcfEZ_siaNJglfSzWrslhRrU3i-bP5aRmvkM8rCeV"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "David Fulmer (daveynin)"
+author_url = "http://www.flickr.com/people/44124370018@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/44124370018@N01/5874637554"
+title = "Socks the dog"
 [[cards]]
 
 [[cards.sides]]
@@ -163,8 +208,17 @@ text = "sheep"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lsKo1QwfQF-rlk0XiMYK5ZSt-juhYNRqCn3AAkELVJddTIV4ygdjnVzLYqZyQ4gN"
+href = "urn:sha384:0z2VVe_0sCZDZCdUlxGHRzX467gSenzRXnxm2h17o4zXwSkAcmpUWZi5M4k3-Ic9"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (xlibber)"
+author_url = "http://www.flickr.com/people/56844661@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/56844661@N00/3274512265"
+title = "Sheep"
 [[cards]]
 
 [[cards.sides]]
@@ -172,6 +226,25 @@ text = "monkey"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:slpMGCMmp3EjysNVUeow38JFm8G5JU8gBUA48K4Cil3g7mkjfdmsJ2Je2d60bFIQ"
+href = "urn:sha384:Y_2DSJVepDCMjN4qZ6geh_fyP7uHxF1v109NWJ5MPRqu7paAn-YS_jLkhxjGi8qk"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Raycoy  Doop (JW) (whologwhy)"
+author_url = "http://www.flickr.com/people/60417477@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/60417477@N00/6010643359"
+title = "MONKEY BUSINESS"
+[[interactions]]
+answer = 1
+prompt = [ 0,]
+type = "choice"
+
+[[interactions]]
+answer = 0
+prompt = [ 1,]
+type = "choice"
 
 +++
