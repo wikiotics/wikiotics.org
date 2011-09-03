@@ -1,7 +1,7 @@
 +++
 title = "Animals"
 contributors = [ "garrison",]
-headings = [ "", "",]
+headings = [ "word", "picture",]
 type = "lesson"
 [[cards]]
 
