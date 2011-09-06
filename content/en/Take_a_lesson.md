@@ -32,5 +32,10 @@ languageCode = "en"
   - [Swedish lessons](/en/Swedish_lessons)*(sv)*
   - [Turkish lessons](/en/Turkish_lessons)*(tr)*
 
+Since we are currently primarily working with students studying English
+as a second language, we have more English lessons than any other
+language at the moment. But, if you are willing to translate or
+contribute lessons for a different language, please feel free\!
+
 All the pictures come from
 [Flickr](http://www.flickr.com/creativecommons/).
