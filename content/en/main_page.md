@@ -23,9 +23,8 @@ lesson](/en/Make_a_lesson) page for How To information and tips.
 
 ## Get involved
 
-If you like what you see and want to help, there are lots of ways to get
-involved. Check out our [Get involved](/en/Get_involved) page for some
-ways you can help out the community.
+If you like what you see and want to help, there are [many ways to get
+involved](/en/Get_involved).
 
 For more information about the project, take a look at the
 [about](/group/wikiotics/about) page and feel free to [contact
