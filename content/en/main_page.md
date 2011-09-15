@@ -18,7 +18,8 @@ lessons are also available from the personal pages of our individual
 ## Teach a language
 
 If you can read this, you know enough to help someone learn a language.
-[Why not give lesson building a shot](/en/Make_a_lesson)?
+Each page on this site has an "edit" button, or you can [create a brand
+new lesson](/en/Make_a_lesson).
 
 ## Get involved
 
