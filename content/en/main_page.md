@@ -9,6 +9,8 @@ to create, customize, and re-mix as editing a wiki page.
 
 ## [Learn a language](/en/Take_a_lesson)
 
+`<<WikioticsLanguageList>>`
+
 This is where you will find our community-built language lessons. Some
 lessons are also available from the personal pages of our individual
 [community members](/en/Community_List).
