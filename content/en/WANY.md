@@ -68,11 +68,13 @@ The current episodes are:
 ### 8 - Stop Domestic Violence
 
   - [Basic vocabulary](/en/Stop_Domestic_Violence)
+  - [Grammar practice](/en/WANY_8_grammar)
   - [Watch the
     episode](http://www.nyc.gov/html/weareny/media/video/domesticviolence.asx)
 
 ### 9 - The Wedding
 
   - [Basic vocabulary](/en/The_Wedding)
+  - [Grammar practice](/en/WANY_9_grammar)
   - [Watch the
     episode](http://www.nyc.gov/html/weareny/media/video/wedding.asx)
