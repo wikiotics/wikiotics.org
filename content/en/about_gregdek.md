@@ -8,5 +8,4 @@ the things I think are interesting.
 
 Here's a link to the [English lessons](/en/English_lessons) sandbox.
 
-Need to explore
-\[[http://en.wikipedia.org/wiki/Basic\_English|this](http://en.wikipedia.org/wiki/Basic_English%7Cthis)\].
+Need to explore <http://en.wikipedia.org/wiki/Basic_English>.
