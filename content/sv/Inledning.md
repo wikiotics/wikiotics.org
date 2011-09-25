@@ -1,6 +1,6 @@
 +++
 title = "Inledning"
-contributors = [ "127.0.0.1", "216.27.154.200", "90.228.239.235", "ian",]
+contributors = [ "127.0.0.1", "216.27.154.200", "72.93.173.37", "90.228.239.235", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
@@ -217,7 +217,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Pojken och hunden sitter."
+text = "Pojken och katten sitter."
 type = "phrase"
 
 [[cards.sides]]
