@@ -9,6 +9,8 @@ to create, customize, and re-mix as editing a wiki page.
 
 ## Learn a language
 
+Click on a language to begin learning:
+
 `<<WikioticsLanguageList>>`
 
 This is where you will find our community-built language lessons. Some
@@ -19,8 +21,11 @@ lessons are also available from the personal pages of our individual
 
 If you can read this, you know enough to help someone learn a language.
 Each page on this site has an "edit" button. Try improving a lesson or
-translating it to a different language. Or, you can [make a new
-lesson](/en/Make_a_lesson) from scratch.
+translating it to a different language. Or, you can make a new lesson
+from scratch.
+
+  - [Get started creating a new lesson](/new/flashcard_deck)
+  - [Read instructions about creating lessons](/en/Make_a_lesson)
 
 ## Get involved
 
