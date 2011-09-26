@@ -25,7 +25,8 @@ translating it to a different language. Or, you can make a new lesson
 from scratch.
 
   - [Get started creating a new lesson](/new/flashcard_deck)
-  - [Read instructions about creating lessons](/en/Make_a_lesson)
+  - [Read instructions about editing and creating
+    lessons](/en/Make_a_lesson)
 
 ## Get involved
 
