@@ -35,6 +35,7 @@ instructions on [copying pages to your user area](/en/User_Pages).
   - [to play](/en/to_play)
   - [Technology](/en/Technology)
   - [Body parts](/en/Body_parts)
+  - [Clothing- advanced](/en/Clothing-_advanced)
 
 ## Special use
 
