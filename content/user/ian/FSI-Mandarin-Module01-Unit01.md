@@ -533,4 +533,115 @@ type = "phrase"
 text = "Wǒ shi Wáng Dànián"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Explanation: You"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:yMxd7qPEBA5Cty9qHa-13GJDU8OUZiPiaQlVpk8yBPx4IiHjjA8fEQ8ONEC2BiX_"
+href = "urn:sha384:jbmGt_e_pUtDmxMdIznxLyeFoyEAdljw-gRICPopiGQeh1qO6cpPPNeapdSjyNFU"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "English"
+type = "phrase"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "你"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:P8KE0HjqN9_r3dALoLc5S1l6swb5-KBhUWJ49e2xPMyREyrRsOqQ5sRVdL-8ip2-"
+href = "urn:sha384:18cL0NyfORWByxoVA11eStpjSAUvCdkjm95VL5hWPGBHsJU-PHw8MnLWeS2Ni1uG"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Ms. ?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "Nǐ"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "你"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:P8KE0HjqN9_r3dALoLc5S1l6swb5-KBhUWJ49e2xPMyREyrRsOqQ5sRVdL-8ip2-"
+href = "urn:sha384:XEATA-5hNS6kFcA3gQEbcb4-ugFy-w3TncKvgCY3nPSyPgTfc8N92OeaATTDbXTJ"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Ms. ?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "Nǐ"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "你"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:P8KE0HjqN9_r3dALoLc5S1l6swb5-KBhUWJ49e2xPMyREyrRsOqQ5sRVdL-8ip2-"
+href = "urn:sha384:4Qb4BbJiBk96yzXNkBJcnNfaV6tXuYtBk05wcptT-IrnmySNXAdZVfb9MMLC8b1f"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Ms. ?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "Nǐ"
+type = "phrase"
+
 +++
