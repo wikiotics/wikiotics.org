@@ -393,4 +393,60 @@ type = "phrase"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "你是谁"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Vwpt99RK32dFD6cwVoE-bHUBMSFG1wdxP0q8bbEEaEJubhQ1Uf4r7Hzcyco3VBuG"
+href = "urn:sha384:iTd66kQdILwK38h6kQ_YZ3iY1B7SUH0XFMuNg_TkazItX3gCm7yfxWy0jkyYdxw3"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Ms. ?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "Nǐ shi shéi"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "你是谁"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Vwpt99RK32dFD6cwVoE-bHUBMSFG1wdxP0q8bbEEaEJubhQ1Uf4r7Hzcyco3VBuG"
+href = "urn:sha384:4PcY-gsR4foAa9YLDKb6L97Bs3XY_iNSZNFSjjZmjBIPxIqQ0R6K1AkgXWnXTvTM"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Ms. ?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "Nǐ shi shéi"
+type = "phrase"
+
 +++
