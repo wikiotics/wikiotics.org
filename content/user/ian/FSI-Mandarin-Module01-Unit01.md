@@ -366,4 +366,31 @@ type = "phrase"
 text = "shéi"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Who are you?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:eyx9rE0ngyviTpqz0s1RpI_0lf8grBHOX6Yft4pW9JLdIUXzUnFo65LF4K5rrvCq"
+href = "urn:sha384:WJQxBDeu5zvgbNXx6P9ojyl0N3sAtKQusZ80MxynqDrOXxHdp8HjRVJUFp9tCDtG"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "English"
+type = "phrase"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 +++
