@@ -314,21 +314,56 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Instructions"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:guUH62cWjrCMWgWMw9JVNM-D-7mPPW9_jwesAbNpz3NsV3GT4EmuzCyA9ZcRc7eN"
+href = "urn:sha384:sdczaxWGoJtiqEGvdP0-VXAo2NYA8yZeIuVs05iJ1Gtch6EtyUTldWtYkbScShMq"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "English"
+type = "phrase"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
-[[cards.sides]]
-type = "empty"
+[[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "谁"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Dmtn8Vmj9cGv_e8_4RtOd3e0WzuB1JphquH5GprgRj8h3cyaLHB8A6ksxJS_Ljdy"
+href = "urn:sha384:k5tb3WiV4cACDprGhkLzlAI4hNrIGRMV6_Zx_eV7jURu_NQgncDBVuH6Rr5ADwVx"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "shéi"
+type = "phrase"
 
 +++
