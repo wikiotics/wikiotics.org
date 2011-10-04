@@ -82,7 +82,7 @@ text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-text = "Ni3 shi shei4"
+text = "Nǐ shi shéi"
 type = "phrase"
 
 [[cards]]
@@ -110,13 +110,13 @@ text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-text = "Ni3 shi shei4"
+text = "Nǐ shi shéi"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "I'm Wang Danian"
+text = "I'm Wáng Dànián"
 type = "phrase"
 
 [[cards.sides]]
@@ -138,7 +138,8 @@ text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "I'm Wáng Dànián"
+type = "phrase"
 
 [[cards]]
 
