@@ -449,4 +449,88 @@ type = "phrase"
 text = "Nǐ shi shéi"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "I'm Wáng Dànián"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:t_J51CfBLlW0_AtBk-HZYWB-yaoHNyg2OAx2KbPMuhpFki9dCZ56UXjlgX1udOmg"
+href = "urn:sha384:vNKhE7A2gBqVYWzN9q12tq9G2NRvqclgQmtw6X-nksnWHqJeFTzu6G3R-Z-HgDb8"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "English"
+type = "phrase"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "I'm Wáng Dànián"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:fxuvAyAfVmA61YVfPLFzXWsuhrIInMOZvUg5QF59c2m8TqKLgthYX5f0H_i9zcPd"
+href = "urn:sha384:hCzCp2wZiQj65iQLSd9dsPT9AWV88oXtvS35sWT0zixQVRPuh5G6vnqJd-9NeytT"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Mr. ?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Male"
+type = "phrase"
+
+[[cards.sides]]
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:fxuvAyAfVmA61YVfPLFzXWsuhrIInMOZvUg5QF59c2m8TqKLgthYX5f0H_i9zcPd"
+href = "urn:sha384:Cq40y6x_L4wpiev8696LqIoabILPu8gxCuSOqEhPbjN0PZyLhfhiCHWmXL1YE6K5"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Mr. ?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Male"
+type = "phrase"
+
+[[cards.sides]]
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
+
 +++
