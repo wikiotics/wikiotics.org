@@ -1371,7 +1371,10 @@ text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GTLDtxexMQSGfeGo9bWWsHgSoTVqU3yvq5DtxiDquTSek-tBb7jokHfThM5DpzcA"
+href = "urn:sha384:1H5sn3419DICTzs98JDlSkIokV2AaU1VqbLRCnTXsFaSkdVkWtK8PSl3l2VvMs8n"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1392,7 +1395,10 @@ text = "我是 Wáng Dànián。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fxuvAyAfVmA61YVfPLFzXWsuhrIInMOZvUg5QF59c2m8TqKLgthYX5f0H_i9zcPd"
+href = "urn:sha384:fYBTnyKAGTlusk4yGofA6573Z2bsu1AVJzLmd71KsZh38MPztRvNnh87CEQidqCd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1437,7 +1443,10 @@ text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GTLDtxexMQSGfeGo9bWWsHgSoTVqU3yvq5DtxiDquTSek-tBb7jokHfThM5DpzcA"
+href = "urn:sha384:7JMRNljbR8d-qiGgC1TpsYnJovEF3NMrwx_uxvwj22nr0puID8bJzY4uJIjP6yUB"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1458,7 +1467,10 @@ text = "我是 Hú Měilíng。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:A3-vaFEAFcExSaumoi0pWECg8YYdQPlv077IOzv_LV4rFAoZoxw84TWxHQI-f1in"
+href = "urn:sha384:JoWihG819rcsDDUwXyVOrwlSwONx0hwWP0P6ou3WPmFy5yXp7OT-f4XYEIZ6nr8S"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1479,7 +1491,10 @@ text = "我是 Hú Měilíng。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:A3-vaFEAFcExSaumoi0pWECg8YYdQPlv077IOzv_LV4rFAoZoxw84TWxHQI-f1in"
+href = "urn:sha384:EeYungGIyMGUgQaSR69irmbpcOGQ6Vwu-LQiifNNCBO2S5ixS2phYrQd7i7m6ka5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
