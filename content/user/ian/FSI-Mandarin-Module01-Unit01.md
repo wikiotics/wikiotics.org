@@ -28,7 +28,8 @@ text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -55,7 +56,8 @@ text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -139,6 +141,174 @@ type = "phrase"
 
 [[cards.sides]]
 text = "I'm Wáng Dànián"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:fxuvAyAfVmA61YVfPLFzXWsuhrIInMOZvUg5QF59c2m8TqKLgthYX5f0H_i9zcPd"
+href = "urn:sha384:RU9749Bn13sElNsqY7mnK4H-9uCcrniDYQpcJdgm81Cu69E0BUNN5rFI3C83l_42"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Mr. ?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Male"
+type = "phrase"
+
+[[cards.sides]]
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:fxuvAyAfVmA61YVfPLFzXWsuhrIInMOZvUg5QF59c2m8TqKLgthYX5f0H_i9zcPd"
+href = "urn:sha384:775GyeHhGSSOCG0F5w4KnUxLyuaJvE9k4wPltbtRfObBly2wDKRg9tJZ8lA9oDt5"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Mr. ?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Male"
+type = "phrase"
+
+[[cards.sides]]
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Explanation: Who"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:RuySz2sY5ozXfC6M1S9MdUu6lzE-07xKtzQlN4Oms4AyZiMTfl1EZhjgTOV_fWur"
+href = "urn:sha384:sWYEgznSBYJNa7GzgXn9o1Gsc6aIT54at8LKD8wI0M6XL4PxruVNOERUqXwB3uY7"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "English"
+type = "phrase"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "谁"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:XejKkUNMkYgI3m6dYMI0T1NdS8NEgBPRZkmUBvVJWU3a1JfpBXkDLgjsr92qJ-Hg"
+href = "urn:sha384:XYuwYicdtJ6j3TUoocftnsYv5XNqcRAdB_ERH4yRMmsKTMnPSI6C17CcEWabJNEe"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Ms. ?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "shéi"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "谁"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:XejKkUNMkYgI3m6dYMI0T1NdS8NEgBPRZkmUBvVJWU3a1JfpBXkDLgjsr92qJ-Hg"
+href = "urn:sha384:pk4kOdZkUqUV06Z6KrU6l01lYzngDcv3eEVSyRmrzVWKserBqz08XsNcS52mZlOC"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Ms. ?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "shéi"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "谁"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:XejKkUNMkYgI3m6dYMI0T1NdS8NEgBPRZkmUBvVJWU3a1JfpBXkDLgjsr92qJ-Hg"
+href = "urn:sha384:Zr3IYL8HKYemQHqJXD3TKuCTWyfzW0XotFZifnmBgjdrCSB4QKklBXvyb2hX-ZZn"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Mandarin"
+type = "phrase"
+
+[[cards.sides]]
+text = "Ms. ?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "shéi"
 type = "phrase"
 
 [[cards]]
