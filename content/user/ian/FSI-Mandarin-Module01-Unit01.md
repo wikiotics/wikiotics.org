@@ -651,7 +651,10 @@ text = "Instructions"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JnXf219IlJmpilRL4d36OsmTQ_IL1EiXSFiZkcGJXMu_wTqfn-0SxE-VHAfnnWHH"
+href = "urn:sha384:v4wIBEF9WTo_gI-x4shkCLYdyI7DVzE7WIEMGvuvLcyTo6sccgJli0snfViM3pnh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -672,7 +675,10 @@ text = "Who are you?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:eyx9rE0ngyviTpqz0s1RpI_0lf8grBHOX6Yft4pW9JLdIUXzUnFo65LF4K5rrvCq"
+href = "urn:sha384:TmvmNSCgNZH2KL8z4Fs3IxkDxtM9OI7UC59q616aj9C9MlAYMuBjS6zCTXIszNch"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -693,7 +699,10 @@ text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GTLDtxexMQSGfeGo9bWWsHgSoTVqU3yvq5DtxiDquTSek-tBb7jokHfThM5DpzcA"
+href = "urn:sha384:i2WlrEz17DcMFJMTeWi5uVA1wVxpA9LpQKzMfqUnKLgmioD8VtxcgbA2Fh6AZcE4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -714,7 +723,10 @@ text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GTLDtxexMQSGfeGo9bWWsHgSoTVqU3yvq5DtxiDquTSek-tBb7jokHfThM5DpzcA"
+href = "urn:sha384:yIQL9ZGXbnaqTD3N6V8Bxej5_6YbH85p-0mXmGx_IwvJhc-kVVxKwneyygHdp_07"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -735,7 +747,10 @@ text = "I'm Wáng Dànián。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:t_J51CfBLlW0_AtBk-HZYWB-yaoHNyg2OAx2KbPMuhpFki9dCZ56UXjlgX1udOmg"
+href = "urn:sha384:UBZ7ZyA8ndPwts2xWJXKo-tDFUnQSRXnSsTK1BLLNXehSf1vl8x-bpA2r9Dcm_4P"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -756,7 +771,10 @@ text = "我是 Wáng Dànián。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fxuvAyAfVmA61YVfPLFzXWsuhrIInMOZvUg5QF59c2m8TqKLgthYX5f0H_i9zcPd"
+href = "urn:sha384:Lj8wcn5QKkZZs2zEsdUUUI0Lht9fDVs2W2QsCsxnZOIDq3MeH13aJhP7eQdYhGc0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -777,7 +795,10 @@ text = "我是 Wáng Dànián。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fxuvAyAfVmA61YVfPLFzXWsuhrIInMOZvUg5QF59c2m8TqKLgthYX5f0H_i9zcPd"
+href = "urn:sha384:8F8JlME9K5L3CnWJlOYUF5qvuWKnl3ltzHpJJhwaSiskaRanLqF4vINDboyKF0mg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -798,7 +819,10 @@ text = "Here's the word for \"I\"。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:2WPQB2bEa0NEo6omgBcIZYRUwI9OxyuHwk3zSQRNNo1BSMy1n6O9_rRaYyIDj7hh"
+href = "urn:sha384:Y_wph-vFHS9EW9D7ZxZzDUKUaxwh6Llwb1gVQQXsNPoN-hAweROPprgx-IJG2Uaj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -819,7 +843,10 @@ text = "我"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hPeohtAUJVwn2Pxcw-3QQmafCYs4G7oO_3SQoJ5emuIBq77FEsgzCm0EYGGGGu-c"
+href = "urn:sha384:O3jhl5FRyY0NZ_OPLJBMF1JXQUEgVOotiKe3xtGvKd2VOrqse2jtL2pI_w6wJYK0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -840,7 +867,10 @@ text = "我"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hPeohtAUJVwn2Pxcw-3QQmafCYs4G7oO_3SQoJ5emuIBq77FEsgzCm0EYGGGGu-c"
+href = "urn:sha384:QU7tEh719LasW0phMJmYqOk_ohNx3INuRtK5IsRv9mkS8oQeCxcgAd40Msf-qMeT"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -861,7 +891,10 @@ text = "我"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hPeohtAUJVwn2Pxcw-3QQmafCYs4G7oO_3SQoJ5emuIBq77FEsgzCm0EYGGGGu-c"
+href = "urn:sha384:yLOkHUVkPQmzLw7gerKDEYcwifGyO0ZQVVxPuW9U3pEkt0dUgSE4Vd1jEN_ghu0s"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -882,7 +915,10 @@ text = "Instructions"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qdaaDnc49z_wGEIuCghQBnfoPIEOqHIDAd_yFo2SUPltd8BlO81kHLt7038GWN5i"
+href = "urn:sha384:ISn1wvMdm9veUAiP5Gz_bS_z4Mo4pGKj1OGBt5i-K0uAQT2Slj7VS-qb5lLSY3Zk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -903,7 +939,10 @@ text = "Who are you?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:eyx9rE0ngyviTpqz0s1RpI_0lf8grBHOX6Yft4pW9JLdIUXzUnFo65LF4K5rrvCq"
+href = "urn:sha384:Y5GpB_UXFQJWxLClhxoSDPglptko24cQWTWJJCZDcSNpyNm7wj-ZuUsJxyy3tljk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -924,7 +963,10 @@ text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GTLDtxexMQSGfeGo9bWWsHgSoTVqU3yvq5DtxiDquTSek-tBb7jokHfThM5DpzcA"
+href = "urn:sha384:UFybExCFwVQTast6XYbKSYwJ3aaHrby_ftHyvQLReWhOO2mmAVv2N1KsOfaZBqIh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -945,7 +987,10 @@ text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GTLDtxexMQSGfeGo9bWWsHgSoTVqU3yvq5DtxiDquTSek-tBb7jokHfThM5DpzcA"
+href = "urn:sha384:3geXeEtAylXKWOyjKaLQENvQDUrDvMTj0_ivemZeZ3lHiwffoMx6FTgXWtJz1W6s"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -966,7 +1011,10 @@ text = "I'm Wáng Dànián。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:t_J51CfBLlW0_AtBk-HZYWB-yaoHNyg2OAx2KbPMuhpFki9dCZ56UXjlgX1udOmg"
+href = "urn:sha384:spqrylJCRLyS4DB6OKSZXj6GzHVZfdLO3Bw0ULoDjqgLV7eJa4PS8jExw84jHESN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -987,7 +1035,10 @@ text = "我是 Wáng Dànián。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fxuvAyAfVmA61YVfPLFzXWsuhrIInMOZvUg5QF59c2m8TqKLgthYX5f0H_i9zcPd"
+href = "urn:sha384:-2_cUqux0HUt0RAudCPvJeTwh6opQhP8M6waJNQZw6BDBQMaqj1YHggthtUpg8Df"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1008,7 +1059,10 @@ text = "我是 Wáng Dànián。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fxuvAyAfVmA61YVfPLFzXWsuhrIInMOZvUg5QF59c2m8TqKLgthYX5f0H_i9zcPd"
+href = "urn:sha384:C6RHP8-xkCo_wtstW1GfpEpNdLFAnseyuseFceLDAOHUA1-uQMDknGyvJc64sgLP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
