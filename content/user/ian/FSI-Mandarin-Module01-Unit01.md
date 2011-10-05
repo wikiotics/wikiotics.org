@@ -396,7 +396,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "你是谁。"
+text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
@@ -424,7 +424,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "你是谁。"
+text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
@@ -452,7 +452,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "I'm Wáng Dànián。"
+text = "I'm Wáng Dànián."
 type = "phrase"
 
 [[cards.sides]]
@@ -815,7 +815,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Here's the word for \"I\"。"
+text = "Here's the word for \"I\"."
 type = "phrase"
 
 [[cards.sides]]
@@ -1528,7 +1528,8 @@ type = "audio"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1576,7 +1577,8 @@ type = "audio"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "Hu"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1624,7 +1626,8 @@ type = "audio"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1648,7 +1651,8 @@ type = "audio"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "King"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1659,17 +1663,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "I am Hú Měilíng. "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hLznOeLhg2BxHEEr7rtDpYlU3WLJzWojQEN5MoUrz9SixIporWv1wCuJmvRB4Z_p"
+href = "urn:sha384:HUHU6Wx7GJHPJNm36vtqWdwm6D80_fcPR7NEJCSbcOKFHOmQwL6Z4JbzrQRtB3pE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1680,17 +1688,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "我是 Hú Měilíng。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:A3-vaFEAFcExSaumoi0pWECg8YYdQPlv077IOzv_LV4rFAoZoxw84TWxHQI-f1in"
+href = "urn:sha384:JuuiHNT4JFXg2JPmhlFeynbMaBLsqHc87wA7gFwZJGylj-SydDgcdg2rCvLVxgD-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "Hu"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1701,32 +1713,14 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "我是 Hú Měilíng。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:A3-vaFEAFcExSaumoi0pWECg8YYdQPlv077IOzv_LV4rFAoZoxw84TWxHQI-f1in"
+href = "urn:sha384:y-WkIfInbMoUZ1P_sHS0_Mg1sS8ut8kvfxsE3DI5g82q0wzYm1JcJaqCXnKl2iH6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1743,11 +1737,14 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Instructions"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:CYXUpgXz-HQ2lhss1df15-0A_G9ijKxjnMuJfWHhR3yzYDhvqF71apUVxyv1qwII"
+href = "urn:sha384:yxZAOzxx-RaGjliHtVoCCq2-TTVod5FRY_5X7oja9v7q2PwLStQPpgq3vkzDA9td"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1764,11 +1761,114 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "你是谁？"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:GTLDtxexMQSGfeGo9bWWsHgSoTVqU3yvq5DtxiDquTSek-tBb7jokHfThM5DpzcA"
+href = "urn:sha384:_8oyx1ws8a0evqG_8spS2pbxpxGDtLfVyLQvs8EKXFPv-JlQNnPnCI90LqXCd1tp"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Hu"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "我是 Wáng Dànián。"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:fxuvAyAfVmA61YVfPLFzXWsuhrIInMOZvUg5QF59c2m8TqKLgthYX5f0H_i9zcPd"
+href = "urn:sha384:DYsRLyqKdvEbptEmiZ2HDff5I5-4wpg6yBqNoW8W-1e3ZiFgLRmnSoiTXYAmtOAR"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "King"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "你是谁？"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:80TXWJT8cJ8uhWZ3PXbhgJpjowCmSi7GFlUGgNc9tFG0SCKCRSlXb09q33whah6c"
+href = "urn:sha384:k0xLwdRw2GX8-E_rM8D6lq03u_Z1Xa2jSpr9Bdmtm0XSca1xTreCKWbUDFblBnzH"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "King"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "我是 Hú Měilíng。"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:A3-vaFEAFcExSaumoi0pWECg8YYdQPlv077IOzv_LV4rFAoZoxw84TWxHQI-f1in"
+href = "urn:sha384:IsYxAayuRxV4XuXthch4KbOo9K2fS4d9aE83jHiaT2g8DqV0Whmsl3fP4rQHxvfj"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Hu"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Again."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Fr4TH1Pw22gqArTMJ9zvq5MFwtlmXcF8klF19xu0Cs07k2H-jd4l5cvhLxkNX1wM"
+href = "urn:sha384:Kn2lnt0T9RUQA_bsPyHyMz4MibWWgLmFBu5W5p8glKdIZXVa24KGJIwlRZurzz_W"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1785,17 +1885,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GTLDtxexMQSGfeGo9bWWsHgSoTVqU3yvq5DtxiDquTSek-tBb7jokHfThM5DpzcA"
+href = "urn:sha384:gNS9LJbyMNF3_SbR1dODTnI99tVOQMgfhx_r4VJDqfoOIOfF-FF75ux-fOehGggc"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "Hu"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1806,17 +1910,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "我是 Wáng Dànián。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fxuvAyAfVmA61YVfPLFzXWsuhrIInMOZvUg5QF59c2m8TqKLgthYX5f0H_i9zcPd"
+href = "urn:sha384:qU2a5afoQfMAO1APyjV7q2jv7oV4JhDAahs1yfmndWkgEYzH3R8etBqSSX0u80jW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "King"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1827,17 +1935,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:80TXWJT8cJ8uhWZ3PXbhgJpjowCmSi7GFlUGgNc9tFG0SCKCRSlXb09q33whah6c"
+href = "urn:sha384:tJVbJv0ATcGPHcXW_HPf8QuPX31M5fB-TIBecPAQrJF4UdddqGH2QOuI3X3CkKMf"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "King"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1848,80 +1960,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "我是 Hú Měilíng。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:A3-vaFEAFcExSaumoi0pWECg8YYdQPlv077IOzv_LV4rFAoZoxw84TWxHQI-f1in"
+href = "urn:sha384:5rvZUK5fUiUrPk81fmgW93q0ePLUU1CpZvCiKO1ZCSwcy6s02l56OBCzT68P9IeR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
+text = "Hu"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards.sides]]
 type = "empty"
