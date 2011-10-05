@@ -1443,22 +1443,26 @@ text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:GTLDtxexMQSGfeGo9bWWsHgSoTVqU3yvq5DtxiDquTSek-tBb7jokHfThM5DpzcA"
-href = "urn:sha384:7JMRNljbR8d-qiGgC1TpsYnJovEF3NMrwx_uxvwj22nr0puID8bJzY4uJIjP6yUB"
+blob_href = "urn:sha384:80TXWJT8cJ8uhWZ3PXbhgJpjowCmSi7GFlUGgNc9tFG0SCKCRSlXb09q33whah6c"
+href = "urn:sha384:_T06gbpf7SLgYsQLxkevQR4d8GF5hq_kXTkL-wY56Ln_gtzmZdFNuYE6cPqy46bH"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Nǐ shi shéi"
+type = "phrase"
 
 [[cards]]
 
@@ -1487,35 +1491,14 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "我是 Hú Měilíng。"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:A3-vaFEAFcExSaumoi0pWECg8YYdQPlv077IOzv_LV4rFAoZoxw84TWxHQI-f1in"
-href = "urn:sha384:EeYungGIyMGUgQaSR69irmbpcOGQ6Vwu-LQiifNNCBO2S5ixS2phYrQd7i7m6ka5"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Instructions"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HXtTmla7HlwHFjcs-9C2RkKKEF9tO2qbKjDmrLamOzpSA_OcK-K5VFQ41uxvyyZc"
+href = "urn:sha384:aV_VKrppwuzaAeL5Mg9ush0SU4rCSdCBIzjiNM8rPn3XnVfbKdi-vSZF51u4yyRO"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -2394,6 +2377,27 @@ type = "empty"
 
 [[cards.sides]]
 text = "Instruction: New Speaker: Mr. King"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards.sides]]
