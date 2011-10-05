@@ -1519,7 +1519,10 @@ text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:80TXWJT8cJ8uhWZ3PXbhgJpjowCmSi7GFlUGgNc9tFG0SCKCRSlXb09q33whah6c"
+href = "urn:sha384:VpRP_yEdvcWEOYdeD0wymnPYKrMJsTx2vc4Ap6kayKnUIehkN8Tct3Ea-2jSAVlF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1536,32 +1539,14 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "我是 Wáng Dànián。"
+text = "This time Mr. King is finding out the woman's name. Here's how it goes."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "你是谁？"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:sb1m2GdaWEFSES1uDJzxgc4GMOunD4pcJBdRJxvvA3QeJe4sQvGOmBeDe4RUjJCk"
+href = "urn:sha384:3L5p4iTCLRjSrfdybYAFIphj7YivKsA3ficz_TJFWs3OqK2V91JiqAMjfegjZrtv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1582,7 +1567,10 @@ text = "我是 Hú Měilíng。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:A3-vaFEAFcExSaumoi0pWECg8YYdQPlv077IOzv_LV4rFAoZoxw84TWxHQI-f1in"
+href = "urn:sha384:CwwFNP2OOc5n1PNdSAbZam7pHp0iMUAh_OpIMthAj00ZlUKdaHB7u2bcoyGska5-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1599,11 +1587,14 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Again."
+text = "Who are you?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LAxH2F9ykWIqb0HFjJ8VYm-jkeLnM7JtgeubH7olzWOyZSIRicQZldebRgD0AmAN"
+href = "urn:sha384:wd6z6R6JahQsDzwZ0PhDF538lsqDnYrrzhQUyV9yoKiDr8RhcZV_TUm4JHUC7rcr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1624,28 +1615,10 @@ text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "我是 Wáng Dànián。"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:80TXWJT8cJ8uhWZ3PXbhgJpjowCmSi7GFlUGgNc9tFG0SCKCRSlXb09q33whah6c"
+href = "urn:sha384:8OL2QjW_9ot7bD7LP4RrsekApxq_3IGvAB1bNVVze_PC10r_uCcbsQdrkRCBm5jE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1666,7 +1639,10 @@ text = "你是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:80TXWJT8cJ8uhWZ3PXbhgJpjowCmSi7GFlUGgNc9tFG0SCKCRSlXb09q33whah6c"
+href = "urn:sha384:GZxwxrTIXYv-Ts7agxTtGECeY_EfyZGoOtI6Ty2dcNrMwknrauEXj8OYZqjsOVUh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -1683,7 +1659,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "我是 Hú Měilíng。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1704,7 +1680,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Instructions"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1725,7 +1701,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Who is he?"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1746,7 +1722,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他是谁？"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1767,7 +1743,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他是谁？"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1788,7 +1764,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他是Mǎ Mínglǐ。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1809,7 +1785,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他是Mǎ Mínglǐ。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1830,7 +1806,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Explanation: He"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1851,7 +1827,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1872,7 +1848,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1893,7 +1869,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1914,7 +1890,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Instructions"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1935,7 +1911,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Who is he?"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1956,7 +1932,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他是谁？"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1977,7 +1953,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他是谁？"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -1998,7 +1974,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "He's Mǎ Mínglǐ."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2019,7 +1995,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他是 Mǎ Mínglǐ。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2040,7 +2016,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他是 Mǎ Mínglǐ。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2061,7 +2037,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Explanation: Single verb form."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2082,7 +2058,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "I'm Hú Mělíng."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2103,7 +2079,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "我是 Hú Mělíng。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2124,7 +2100,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "我是 Hú Mělíng。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2145,7 +2121,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "You're Wáng Dànián."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2166,7 +2142,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "你是 Wáng Dànián。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2187,7 +2163,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "你是 Wáng Dànián。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2208,7 +2184,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "He is Mǎ Mínglǐ."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2229,7 +2205,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他是 Mǎ Mínglǐ。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2250,7 +2226,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他是 Mǎ Mínglǐ。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2271,7 +2247,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Explanation: Single verb form."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2292,7 +2268,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Instruction"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2313,7 +2289,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "我是 Hú Mělíng。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2334,7 +2310,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "你是 Wáng Dànián。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2355,7 +2331,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "他是 Mǎ Mínglǐ。"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -2376,7 +2352,49 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Instruction: New Speaker: Mr. King"
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards.sides]]
