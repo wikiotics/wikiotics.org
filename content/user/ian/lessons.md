@@ -32,4 +32,4 @@ This is the list of lessons I have personally made and/or corrected.
 # Mandarin lessons
 
   - Basic sentence structure: [Who are
-    you?](/en/MandarinWhoAreYouStructure)
+    you?](/user/ian/MandarinWhoAreYouStructure)
