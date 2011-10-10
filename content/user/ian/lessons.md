@@ -1,8 +1,11 @@
 +++
 title = "lessons"
+languageCode = "en"
 +++
 
 This is the list of lessons I have personally made and/or corrected.
+
+# English Lessons
 
 ## Picture Choice lessons
 
@@ -25,3 +28,8 @@ This is the list of lessons I have personally made and/or corrected.
   - [WANY 1 - Grammar](/user/ian/WANY-1-grammar)
   - [WANY 5 - Grammar](/user/ian/WANY-5-grammar)
   - [WANY 3 - Grammar](/user/ian/WANY-3-grammar)
+
+# Mandarin lessons
+
+  - Basic sentence structure: [Who are
+    you?](/en/MandarinWhoAreYouStructure)
