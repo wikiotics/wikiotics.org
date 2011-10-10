@@ -16,5 +16,5 @@ not explained fully will be covered in future lessons.
 
   - Lesson 1: Pictures: [Basic vocabulary](/en/zh/%E7%AE%80%E4%BB%8B)
   - Lesson 2: Listening: [Asking a person's
-    name](/en/user/ian/FSI-Mandarin-Module01-Unit01)
+    name](/user/ian/FSI-Mandarin-Module01-Unit01)
   - Lesson 3: Structure: (coming soon)
