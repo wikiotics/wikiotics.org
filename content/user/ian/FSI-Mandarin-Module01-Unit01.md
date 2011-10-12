@@ -2003,7 +2003,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "I am Hú Měilíng. "
+text = "I'm Hú Měilíng. "
 type = "phrase"
 
 [[cards.sides]]
@@ -2090,8 +2090,8 @@ text = "Instructions"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:HXtTmla7HlwHFjcs-9C2RkKKEF9tO2qbKjDmrLamOzpSA_OcK-K5VFQ41uxvyyZc"
-href = "urn:sha384:Hr9Idjv4NAmtv97YSMrs8i87pcdxsaII5rVQ_H0ekRoloBqsZdeGfROPW9FxYZyu"
+blob_href = "urn:sha384:CYXUpgXz-HQ2lhss1df15-0A_G9ijKxjnMuJfWHhR3yzYDhvqF71apUVxyv1qwII"
+href = "urn:sha384:Rrx_iBoiVBsgcZaXpw3kTQkEcVV9fKfAbwSoQPUroxwS9hdYQ5rpQd7YOZd3EzF3"
 mime_type = "audio/ogg"
 type = "audio"
 
