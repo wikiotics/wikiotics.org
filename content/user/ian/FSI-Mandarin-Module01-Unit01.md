@@ -84,7 +84,7 @@ text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-text = "Nǐ shi shéi"
+text = "Nǐ shi shéi?"
 type = "phrase"
 
 [[cards]]
@@ -112,7 +112,7 @@ text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-text = "Nǐ shi shéi"
+text = "Nǐ shi shéi?"
 type = "phrase"
 
 [[cards]]
@@ -140,7 +140,7 @@ text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-text = "I'm Wáng Dànián"
+text = "I'm Wáng Dànián."
 type = "phrase"
 
 [[cards]]
@@ -168,7 +168,7 @@ text = "Male"
 type = "phrase"
 
 [[cards.sides]]
-text = "Wǒ shi Wáng Dànián"
+text = "Wǒ shi Wáng Dànián."
 type = "phrase"
 
 [[cards]]
@@ -196,7 +196,7 @@ text = "Male"
 type = "phrase"
 
 [[cards.sides]]
-text = "Wǒ shi Wáng Dànián"
+text = "Wǒ shi Wáng Dànián."
 type = "phrase"
 
 [[cards]]
@@ -418,7 +418,7 @@ text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-text = "Nǐ shi shéi"
+text = "Nǐ shi shéi?"
 type = "phrase"
 
 [[cards]]
@@ -446,7 +446,7 @@ text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-text = "Nǐ shi shéi"
+text = "Nǐ shi shéi?"
 type = "phrase"
 
 [[cards]]
@@ -474,7 +474,7 @@ text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-text = "I'm Wáng Dànián"
+text = "I'm Wáng Dànián."
 type = "phrase"
 
 [[cards]]
@@ -502,7 +502,7 @@ text = "Male"
 type = "phrase"
 
 [[cards.sides]]
-text = "Wǒ shi Wáng Dànián"
+text = "Wǒ shi Wáng Dànián."
 type = "phrase"
 
 [[cards]]
@@ -530,7 +530,7 @@ text = "Male"
 type = "phrase"
 
 [[cards.sides]]
-text = "Wǒ shi Wáng Dànián"
+text = "Wǒ shi Wáng Dànián."
 type = "phrase"
 
 [[cards]]
@@ -546,15 +546,15 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = ""
+text = "English"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Female"
 type = "phrase"
 
 [[cards.sides]]
@@ -573,15 +573,15 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = ""
+text = "English"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Female"
 type = "phrase"
 
 [[cards.sides]]
@@ -601,19 +601,19 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = ""
+text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Ms. Hú"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Nǐ shi shéi?"
 type = "phrase"
 
 [[cards]]
@@ -633,15 +633,15 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Ms. Hú"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Female"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Nǐ shi shéi?"
 type = "phrase"
 
 [[cards]]
@@ -657,16 +657,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -681,16 +685,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
 
 [[cards]]
 
@@ -705,16 +713,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
 
 [[cards]]
 
@@ -729,13 +741,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -753,16 +768,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "nǐ"
+type = "phrase"
 
 [[cards]]
 
@@ -777,16 +796,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "nǐ"
+type = "phrase"
 
 [[cards]]
 
@@ -801,16 +824,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "nǐ"
+type = "phrase"
 
 [[cards]]
 
@@ -825,13 +852,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -849,13 +879,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -873,16 +906,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -897,16 +934,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -921,13 +962,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -945,16 +989,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
 
 [[cards]]
 
@@ -969,16 +1017,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
 
 [[cards]]
 
@@ -993,13 +1045,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1017,16 +1072,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wǒ"
+type = "phrase"
 
 [[cards]]
 
@@ -1041,16 +1100,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wǒ"
+type = "phrase"
 
 [[cards]]
 
@@ -1065,16 +1128,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wǒ"
+type = "phrase"
 
 [[cards]]
 
@@ -1089,13 +1156,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1113,13 +1183,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1137,16 +1210,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -1161,16 +1238,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -1185,13 +1266,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1209,16 +1293,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
 
 [[cards]]
 
@@ -1233,16 +1321,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
 
 [[cards]]
 
@@ -1257,13 +1349,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1281,16 +1376,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "shì"
+type = "phrase"
 
 [[cards]]
 
@@ -1305,16 +1404,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "shì"
+type = "phrase"
 
 [[cards]]
 
@@ -1324,21 +1427,25 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Mg77GZxNxHXghEC9Do3gcCGNARVuzxwWSaZOWJFjFQJwYFyHav3WU2XrWbT7T8A_"
-href = "urn:sha384:jAbJUJJzLhecg-KLWha9un_QP22mjyg2M6pF4d5OSX3FNnHWy_n5Iu3_3Anzf8T4"
+href = "urn:sha384:zoSu7mULGZHaq3RmsowbUuYMckbq2Adb54uHSX0-hFFiCs1IMxx5nURMiWd4KtTH"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "shì"
+type = "phrase"
 
 [[cards]]
 
@@ -1353,13 +1460,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1377,13 +1487,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1401,16 +1514,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -1425,16 +1542,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -1449,15 +1570,15 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = ""
+text = "English"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Female"
 type = "phrase"
 
 [[cards.sides]]
@@ -1477,16 +1598,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
 
 [[cards]]
 
@@ -1501,16 +1626,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
 
 [[cards]]
 
@@ -1525,14 +1654,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "English"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1550,16 +1681,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -1574,17 +1709,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
+
+[[cards.sides]]
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
 
 [[cards]]
 
@@ -1599,13 +1737,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1623,17 +1764,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
+
+[[cards.sides]]
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -1648,17 +1792,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "Wǒ shi Hú Měilíng。"
+type = "phrase"
 
 [[cards]]
 
@@ -1673,14 +1820,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "English"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1698,17 +1847,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
+
+[[cards.sides]]
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -1723,13 +1875,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1747,16 +1902,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Hú Měilíng。"
+type = "phrase"
 
 [[cards]]
 
@@ -1771,14 +1930,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "English"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1796,17 +1957,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
+
+[[cards.sides]]
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -1821,17 +1985,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
+
+[[cards.sides]]
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -1846,14 +2013,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "English"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1871,16 +2040,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Hú Měilíng。"
+type = "phrase"
 
 [[cards]]
 
@@ -1895,17 +2068,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "Wǒ shi Hú Měilíng。"
+type = "phrase"
 
 [[cards]]
 
@@ -1920,14 +2096,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "English"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1945,17 +2123,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hu"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
+
+[[cards.sides]]
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -1970,17 +2151,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
+
+[[cards.sides]]
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
 
 [[cards]]
 
@@ -1995,16 +2179,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -2019,16 +2207,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Hú Měilíng。"
+type = "phrase"
 
 [[cards]]
 
@@ -2043,13 +2235,16 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "English"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -2067,16 +2262,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -2091,16 +2290,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Wáng Dànián"
+type = "phrase"
 
 [[cards]]
 
@@ -2115,16 +2318,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Mr. King"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Male"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Nǐ shi shéi?"
+type = "phrase"
 
 [[cards]]
 
@@ -2139,16 +2346,20 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Mandarin"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Ms. Hú"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Female"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Wǒ shi Hú Měilíng。"
+type = "phrase"
 
 [[cards]]
 
