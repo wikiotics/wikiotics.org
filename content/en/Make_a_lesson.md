@@ -1,7 +1,9 @@
 +++
-title = "The Material"
+title = "Make a lesson"
 languageCode = "en"
 +++
+
+## Assemble Materials
 
 Making a lesson starts with the material. What do you want to teach,
 what do you want to learn? Start by clicking the "[make a
