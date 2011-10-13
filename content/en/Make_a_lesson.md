@@ -1,7 +1,33 @@
 +++
-title = "Make a lesson"
+title = "The Material"
 languageCode = "en"
 +++
+
+Making a lesson starts with the material. What do you want to teach,
+what do you want to learn? Start by clicking the "[make a
+lesson](/new/flashcard_deck)" button. That will move you to an empty
+lesson page. Here you can start jotting down the material you want your
+new lesson to cover. You can begin entering full dialogues or just start
+with a list of words, phrases, or pictures; whatever you want to use
+when building the lesson.
+
+The new lesson page works a little like graph paper or a spreadsheet.
+Each item you want to focus on in your lesson should be placed in a new
+row. If you want to add more information about these items, you can add
+that information next to them in new columns.
+
+For example, if I want to learn the word " 猫" in Mandarin Chinese, I
+would put " 猫" on a new row and then add a column next to it with the
+English definition: "cat". That would give me enough material to build a
+flash card. If I wanted to build a picture choice lesson instead, I
+would add an additional column and put a picture of a cat next to the
+definition. If you don't know what kind of lesson you want to make, then
+don't worry about columns just yet and focus on getting all the material
+you want in rows.
+
+Once you have a collection of materials, it is time to start thinking
+about how you want to interact with that material by building your
+collection into one or more lessons.
 
 ## Picture Choice Lessons
 
