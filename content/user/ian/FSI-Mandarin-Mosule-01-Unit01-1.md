@@ -446,7 +446,10 @@ text = "他是 Ma Mingli。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:suhIev22DGU0lqXPDpKeySwRuTyRlNgYWGJwlNrX0Km9Dok21yw7ART_QK3VV097"
+href = "urn:sha384:S7G3-AGhtEBDMS6uCG4HnQLvA20EvGnFmQuFPPvVFxbjzsTs-_Yp4Q55dliD52mJ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -470,7 +473,10 @@ text = "他是 Ma Mingli。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:suhIev22DGU0lqXPDpKeySwRuTyRlNgYWGJwlNrX0Km9Dok21yw7ART_QK3VV097"
+href = "urn:sha384:7J8PqVWSSwqT-VpUssN9zN9_U3xBoZtS9JawnnFZZXMT_caWEnmST_ZBRX3q9uYF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -521,7 +527,10 @@ text = "I'm Hu Meiling."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Fd3-otfbQg1Rf7kzJeWh5p0EIsoguKSWaBu4o5dAswzVRXO01VKFm9MRK4leX5nY"
+href = "urn:sha384:770PCB3-ZmNSHKhMy9NaP1wBjRBt149n3BZx8KrfAo-J9p2nXovNJnmT1Gs8Cv7y"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -545,7 +554,10 @@ text = "我是 Hú Měilíng。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:byIK8HPffGORqt_Hn0Gf9zLPvRlVwBIDW2V85naNKdKaORyY1ZP_MXCU2LBOUGtf"
+href = "urn:sha384:MjJed-FwlYl8sT8iwBvgPq6N7rmGNVmoQ93isx9RdrgrDU679khE7XYHZmuGaDG7"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -570,7 +582,10 @@ text = "我是 Hú Měilíng。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:byIK8HPffGORqt_Hn0Gf9zLPvRlVwBIDW2V85naNKdKaORyY1ZP_MXCU2LBOUGtf"
+href = "urn:sha384:XHIOf9_1srD7ot6qmXZ5cFgibBPv9vY-yzKYx9sEzOIHfLixXU8kIAu7HYjDaguB"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -594,7 +609,10 @@ text = "You're Wáng Dànián."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XgGOygNXfabaJMgQt5cRJ1oPyPGehFDx6-BI_4hjgGZrqJsKzzLFFcSmWnQTigyG"
+href = "urn:sha384:jgC56FauUrp7Z2wRK99XWyHoKyQkeGz7l3x_wFb5g1cXmOhLnvEXg09zjQgZ2Tdf"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -618,7 +636,10 @@ text = "你是 Wáng Dànián。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LOJLX-Svchxu3BW3ciDYW-b_pGLfVYzVCAGzQIJ2plVqFWj9Wlmv7dxi2t8FXJFI"
+href = "urn:sha384:FFjNuBwR-dkv_bLq8_GEbBqdL_NcSqkk7qRmynX9ofKRoMGdf3RgXDwrJwx2MfJ4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -642,7 +663,10 @@ text = "你是 Wáng Dànián。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LOJLX-Svchxu3BW3ciDYW-b_pGLfVYzVCAGzQIJ2plVqFWj9Wlmv7dxi2t8FXJFI"
+href = "urn:sha384:MSlJcCddCP1DrmWfEGsNJAPnxqmwL9cZ3upMhcY06WlKKcgVkTczwtxLZGIpC-ey"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -693,7 +717,10 @@ text = "他是 Ma Mingli。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:suhIev22DGU0lqXPDpKeySwRuTyRlNgYWGJwlNrX0Km9Dok21yw7ART_QK3VV097"
+href = "urn:sha384:65N1RpJUxHFCXeOqBM3L47QOIxB_HrFfpgSAz-FNKpXRsVo_Zkup5naUFKpqK3-f"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -717,7 +744,10 @@ text = "他是 Ma Mingli。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:suhIev22DGU0lqXPDpKeySwRuTyRlNgYWGJwlNrX0Km9Dok21yw7ART_QK3VV097"
+href = "urn:sha384:gM24yqx2LPo750aYbkhBZI_ChYRfKu6ccmdJMVwfoSM9OnahUYysHs_frCCRbu1h"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -795,7 +825,10 @@ text = "我是 Hú Měilíng。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:byIK8HPffGORqt_Hn0Gf9zLPvRlVwBIDW2V85naNKdKaORyY1ZP_MXCU2LBOUGtf"
+href = "urn:sha384:vHeE-hKRiLVt60RknFA_r7S-zxvHX0NG7bpvX1VU4SbfcYhfso0ma1fB7MSjWtD4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -819,7 +852,10 @@ text = "你是 Wáng Dànián。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LOJLX-Svchxu3BW3ciDYW-b_pGLfVYzVCAGzQIJ2plVqFWj9Wlmv7dxi2t8FXJFI"
+href = "urn:sha384:pSd_gVm-4psu8z2ZR4CzpPRY6MIjjRFxbK1DbW1W2VgNiGyrMalKK-ufeHoA4eNM"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -843,7 +879,10 @@ text = "他是 Ma Mingli。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:suhIev22DGU0lqXPDpKeySwRuTyRlNgYWGJwlNrX0Km9Dok21yw7ART_QK3VV097"
+href = "urn:sha384:23ByGmpnU_f5EKEx8S-KBzq1N21Mwo8rOv_XKZNCKXcjCyDAchyPz1Shlqua9LnS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
