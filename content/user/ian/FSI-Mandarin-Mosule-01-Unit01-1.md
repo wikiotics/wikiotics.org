@@ -10,7 +10,10 @@ text = "Instruction"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zjZ75nRwdOAPvC1cn0ua8wbQS_bsFtCwrCLutqpbJU7DV08r3V2fgkS8uxqKpI_p"
+href = "urn:sha384:T9W1hwtyDGAwlseL1urKlIaibW3OaOk3hadi2yYYZX3EhNkjdWqIkMXkrcxNodZR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "English"
