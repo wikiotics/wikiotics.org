@@ -3,9 +3,12 @@ title = "Welcome to Wikiotics"
 languageCode = "en"
 +++
 
-Wikiotics is a new type of tool for building interactive language
-lessons using rich multimedia elements. We aim to make lessons as easy
-to create, customize, and re-mix as editing a wiki page.
+Wikiotics is part of the global language community dedicated to making
+learning in every language possible for everyone. This site is a new
+type of tool to make that possible by building interactive language
+lessons using rich multimedia elements. We aim to make lessons easy to
+create, customize, and re-mix for everyone. If you know or want to know
+a language, you have something to contribute.
 
 ## Learn a language
 
