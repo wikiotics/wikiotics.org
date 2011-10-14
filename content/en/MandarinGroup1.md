@@ -20,4 +20,4 @@ not explained fully will be covered in future lessons.
   - Lesson 3: Listening: [Gender and referring to other
     people](/user/ian/FSI-Mandarin-Mosule-01-Unit01-1)
   - Lesson 4: Structure: [Sentence structure -
-    1](/user/ian/Mandarin-group1-structure-1)
+    beginning](/user/ian/Mandarin-group1-structure-1)**(coming soon)**
