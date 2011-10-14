@@ -31,10 +31,10 @@ This is the list of lessons I have personally made and/or corrected.
 
 # Mandarin lessons
 
-  - [Asking a person's name](/en/user/ian/FSI-Mandarin-Module01-Unit01)
+  - [Asking a person's name](/user/ian/FSI-Mandarin-Module01-Unit01)
   - [Gender and referring to other
-    people](/en/user/ian/FSI-Mandarin-Mosule-01-Unit01-1)
+    people](/user/ian/FSI-Mandarin-Mosule-01-Unit01-1)
   - [Sentence structure -
-    beginning](/en/user/ian/Mandarin-group1-structure-1)
+    beginning](/user/ian/Mandarin-group1-structure-1)
   - Basic sentence structure: [Who are
     you?](/user/ian/MandarinWhoAreYouStructure)
