@@ -62,11 +62,8 @@ text = "她是 Ma Mingli。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
 blob_href = "urn:sha384:uEJfCmJ708wwGRAhXNf6b9xmSxgRatikNDQPinIyIcKT8ChihEHMl2gGSnv-02b3"
-href = "urn:sha384:L2fRn2rUJDEJjuphfeflkSfXl8s7hKa72rVkFwIZIDc7SwARxypjhqS3WvJmtCMJ"
+href = "urn:sha384:M7MlFld3xqnoiDB5AcPpgH2ZwRm3gqJ9CvEfrXtZQzsNvkxZpRtbjHHLjwyQEfdc"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -79,6 +76,9 @@ title = "Beautiful Asian Woman Thinking"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -86,11 +86,8 @@ text = "他是 Hú Měilíng"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
 blob_href = "urn:sha384:FVmTsUu9WdTALKrjUVUUi-xTAGi4KZgb7YEYuMoBOJcNSNDfJa5Ynk-S9KS6MMrR"
-href = "urn:sha384:f6ZiR1LimYNN5VlOevsUb86mKIbi-tswIzfPw_xU06A1B8Ss-k-Ft4fdI-h2kOTr"
+href = "urn:sha384:NK5VOYfyEcN-ydKlqpx8UEXTfLop2na-j8Dkv1w_2dspjW6cH8lFhYCTzGpqYCro"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -100,6 +97,9 @@ author_url = "http://www.flickr.com/people/45959769@N02/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/45959769@N02/5421101621"
 title = "China - Portrait Chinese man"
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
@@ -132,7 +132,7 @@ type = "empty"
 type = "empty"
 
 [[interactions]]
-answer = 3
+answer = 1
 prompt = [ 0,]
 type = "choice"
 
