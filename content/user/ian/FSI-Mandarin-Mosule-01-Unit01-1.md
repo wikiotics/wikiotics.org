@@ -81,7 +81,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -110,7 +111,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -169,7 +171,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wang"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -198,7 +201,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wang"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -257,7 +261,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -286,7 +291,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -315,7 +321,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -404,7 +411,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -433,7 +441,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -492,7 +501,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wang"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -521,7 +531,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wang"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -610,7 +621,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -639,7 +651,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -698,7 +711,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -727,7 +741,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -786,7 +801,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -814,7 +830,8 @@ type = "audio"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -962,7 +979,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Hú Měilíng"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1171,7 +1189,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wang"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1199,7 +1218,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wangf"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1256,7 +1276,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wang"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1284,7 +1305,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wang"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1308,11 +1330,12 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Mandarin"
+text = "English"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1336,11 +1359,12 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Mandarin"
+text = "English"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1368,7 +1392,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wang"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1396,7 +1421,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wang"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1420,11 +1446,12 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Mandarin"
+text = "English"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1452,7 +1479,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wang"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1480,7 +1508,8 @@ text = "Mandarin"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "wang"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -1504,11 +1533,12 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "Mandarin"
+text = "English"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Teacher"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
