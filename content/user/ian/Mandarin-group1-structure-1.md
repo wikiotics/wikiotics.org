@@ -137,6 +137,38 @@ type = "phrase"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "column 0, row 7"
+type = "phrase"
+
+[[cards.sides]]
+text = "column 1, row 7"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "column 0, row 8"
+type = "phrase"
+
+[[cards.sides]]
+text = "column 1, row 8"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0,]
