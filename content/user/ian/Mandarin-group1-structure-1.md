@@ -116,32 +116,15 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "column 0, row 5"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = "column 1, row 5"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = "column 2, row 5"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "column 0, row 6"
-type = "phrase"
-
-[[cards.sides]]
-text = "column 1, row 6"
-type = "phrase"
-
-[[cards.sides]]
-text = "column 2, row 6"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -150,15 +133,15 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "column 0, row 7"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = "column 1, row 7"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = "column 2, row 7"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -167,15 +150,32 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "column 0, row 8"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = "column 1, row 8"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = "column 2, row 8"
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards.sides]]
