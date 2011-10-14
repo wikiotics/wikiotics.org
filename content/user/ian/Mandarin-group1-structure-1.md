@@ -1,16 +1,17 @@
 +++
 title = "Mandarin-group1-structure-1"
 contributors = [ "ian",]
-headings = [ "", "Audio", "", "Romanization",]
+headings = [ "", "", "", "Romanization",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "她是 Hú Měilíng。"
+text = "__是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "她"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:uEJfCmJ708wwGRAhXNf6b9xmSxgRatikNDQPinIyIcKT8ChihEHMl2gGSnv-02b3"
@@ -25,17 +26,18 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
 title = "Beautiful Asian Woman Thinking"
 [[cards.sides]]
-text = "Tā shi Hú Měilíng."
+text = ""
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "他是 Ma Mingli。"
+text = "__是谁？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "他"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:FVmTsUu9WdTALKrjUVUUi-xTAGi4KZgb7YEYuMoBOJcNSNDfJa5Ynk-S9KS6MMrR"
@@ -50,8 +52,56 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/45959769@N02/5421101621"
 title = "China - Portrait Chinese man"
 [[cards.sides]]
-text = "Tā shi Ma Mingli."
+text = ""
 type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "她是 Ma Mingli。"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:uEJfCmJ708wwGRAhXNf6b9xmSxgRatikNDQPinIyIcKT8ChihEHMl2gGSnv-02b3"
+href = "urn:sha384:L2fRn2rUJDEJjuphfeflkSfXl8s7hKa72rVkFwIZIDc7SwARxypjhqS3WvJmtCMJ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
+title = "Beautiful Asian Woman Thinking"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "他是 Hú Měilíng"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:FVmTsUu9WdTALKrjUVUUi-xTAGi4KZgb7YEYuMoBOJcNSNDfJa5Ynk-S9KS6MMrR"
+href = "urn:sha384:f6ZiR1LimYNN5VlOevsUb86mKIbi-tswIzfPw_xU06A1B8Ss-k-Ft4fdI-h2kOTr"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Anja Disseldorp (jadis1958)"
+author_url = "http://www.flickr.com/people/45959769@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/45959769@N02/5421101621"
+title = "China - Portrait Chinese man"
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -82,7 +132,7 @@ type = "empty"
 type = "empty"
 
 [[interactions]]
-answer = 2
+answer = 3
 prompt = [ 0,]
 type = "choice"
 
