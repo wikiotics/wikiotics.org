@@ -116,15 +116,73 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "__ 是谁？"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "她"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+blob_href = "urn:sha384:uEJfCmJ708wwGRAhXNf6b9xmSxgRatikNDQPinIyIcKT8ChihEHMl2gGSnv-02b3"
+href = "urn:sha384:dR5ZvGvLfHmEKw4Lxr0yGsC-2fyX4SBzveL8hTI-CE1p2jsU-HFkYG0SQmybce8M"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
+title = "Beautiful Asian Woman Thinking"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "__ 是谁？"
+type = "phrase"
+
+[[cards.sides]]
+text = "他"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:FVmTsUu9WdTALKrjUVUUi-xTAGi4KZgb7YEYuMoBOJcNSNDfJa5Ynk-S9KS6MMrR"
+href = "urn:sha384:-3AOTYiAY1zd20bg6UO25ziG0kpRyEGm7uePmNxs6lSUUQvzO9S4KhAHUKB6tEpw"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Anja Disseldorp (jadis1958)"
+author_url = "http://www.flickr.com/people/45959769@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/45959769@N02/5421101621"
+title = "China - Portrait Chinese man"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "他是谁？"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:FVmTsUu9WdTALKrjUVUUi-xTAGi4KZgb7YEYuMoBOJcNSNDfJa5Ynk-S9KS6MMrR"
+href = "urn:sha384:5l4a2ao9PoQ0DThW-KwMjWj8dNixPEFVay2hFmLyfWTr0NywZ0g9T-0KUnV8Iabb"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Anja Disseldorp (jadis1958)"
+author_url = "http://www.flickr.com/people/45959769@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/45959769@N02/5421101621"
+title = "China - Portrait Chinese man"
+[[cards.sides]]
+text = "Ma Mingli"
 type = "phrase"
 
 [[cards.sides]]
@@ -133,49 +191,23 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "她是谁？"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
+blob_href = "urn:sha384:uEJfCmJ708wwGRAhXNf6b9xmSxgRatikNDQPinIyIcKT8ChihEHMl2gGSnv-02b3"
+href = "urn:sha384:oitvuUYv3PqISipgeABpO9q1zdvHeTjIDHeiR8MLUzK7w-DKvYBDtpq0LwaEPpuS"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
+title = "Beautiful Asian Woman Thinking"
 [[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
+text = "Hú Měilíng"
 type = "phrase"
 
 [[cards.sides]]
