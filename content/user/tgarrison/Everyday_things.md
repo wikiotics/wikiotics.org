@@ -21,4 +21,9 @@ author_url = "http://www.flickr.com/people/54796434@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/54796434@N00/488056465"
 title = "Cat on the Bed (\"before\")"
+[[interactions]]
+answer = 0
+prompt = [ 1,]
+type = "choice"
+
 +++
