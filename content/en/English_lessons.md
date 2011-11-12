@@ -20,6 +20,7 @@ instructions on [copying pages to your user area](/en/User_Pages).
   - "[We Are New York](/en/WANY)" lesson series
   - [Animals](/en/Animals)
   - [Take Off phrasal verb](/en/Take_Off_phrasal_verb)
+  - [Meetup 101](/en/Meetup_101)
 
 ## Help Expand These
 
