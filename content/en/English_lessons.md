@@ -19,7 +19,6 @@ instructions on [copying pages to your user area](/en/User_Pages).
   - [Food types](/en/Food)
   - "[We Are New York](/en/WANY)" lesson series
   - [Animals](/en/Animals)
-  - [Take Off phrasal verb](/en/Take_Off_phrasal_verb)
   - [Meetup 101](/en/Meetup_101)
 
 ## Help Expand These
@@ -45,14 +44,13 @@ instructions on [copying pages to your user area](/en/User_Pages).
   - [guitar parts](/en/guitar_parts)
   - [stringed instruments](/en/stringed_instruments)
   - [NYC vocabulary](/en/NYC_vocabulary)
+  - [Barcelona architecture](/en/Barcelona_architecture)
   - [guitar-making tools](/en/guitar-making_tools)
   - ["Islamic Center Near Ground Zero Sparks Controversy" NPR article
     vocab](/en/vocabulary_for_NPR_article%2C_%27Islamic_Center_Near_Ground_Zero_Sparks_Controversy%27)
 
 ## Ideas for future
 
-  - [Barcelona architecture](/en/Barcelona_architecture)
-  - [Basic situations](/en/Basic_situations)
   - [Basic numbers](/en/Basic_numbers)
   - [Birds of NYC](/en/Birds_of_NYC)
   - [Trees of NYC](/en/Trees_of_NYC)
