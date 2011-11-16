@@ -1,6 +1,6 @@
 +++
 title = "FrenchGreetings-WikiBabel"
-contributors = [ "ian",]
+contributors = [ "garrison", "ian",]
 headings = [ "Text", "Audio", "Language", "Speaker", "Gender", "",]
 type = "lesson"
 [[cards]]
@@ -1784,5 +1784,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[interactions]]
+audio = 1
+transcript = 0
+type = "podcast"
 
 +++
