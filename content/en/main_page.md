@@ -37,7 +37,7 @@ If you like what you see and want to help, there are [many ways to get
 involved](/en/Get_involved).
 
 For more information about the project, take a look at the
-[about](/group/wikiotics/about) page and feel free to [contact
+[about](/group/wikiotics/en/about) page and feel free to [contact
 us](/en/contact).
 
 `<<WikioticsDonateButton>>`
