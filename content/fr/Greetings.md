@@ -47,7 +47,10 @@ text = "Bonjour."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8-cRBOeKGREYvmbfxtF7tKEzReULmfb-m4vaLH5PEC40Tx73NmUcKLLjpF0a3GCp"
+href = "urn:sha384:VZUspqu63uMm7SZXv5fISfBk8_hpSFhU-OgNs5otCrOcStmbjZKIvxtNjaHQPyAM"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
