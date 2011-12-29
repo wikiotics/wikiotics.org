@@ -53,7 +53,10 @@ text = "1 - едно"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:oCPZ-JkeWcmSSRiIl3ENUYUhys9jh0lgVksSMGEOJWdm18t0h6Ax2Fi7CXHhOi_z"
+href = "urn:sha384:G5q46gw9zfT9UssUShxF2RNmW_0JxrQm_4CM1ewRgSVinkyLOTibjg_j5363XhPy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -70,7 +73,10 @@ text = "един, една "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IQJ2VNUziX3slsYwDV5nBqieo4TIL3FhPp5t09CWKFFoOGRgZZRUh4nM5Vh4xnox"
+href = "urn:sha384:zgntkoF1QWbE1uSgxJhsVA2T1VW0NBXG4lhS5gMUoCgGZ6zezLZxCtq16X2K8g8F"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -87,7 +93,10 @@ text = "2 - две"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hLFPeUmncZ1znZ66tv1fcvajKRrjNgZduXwTGVADiLx7ewgYGYZxyu1dQtyy4V0B"
+href = "urn:sha384:WRGYoCmfdvGR067L465VMUy_g7yEQ2Jr6kon-3CGxV4ZvaqF5hg4J5P-_bdaI2dN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -104,7 +113,10 @@ text = "3 - три"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_DDHb02EyrnJltL749GY7NfY3Kaj5iu79k6GP4RqcFJq2Rue5CtpSvT87iqI4hXC"
+href = "urn:sha384:uEblIza0_le2LabfYQYeQjkW8N9yfYWOwTaX2MyXiy2s-gNP-JE28UmiymJB3Ofj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -121,7 +133,10 @@ text = "4 - четири"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ovmyqwIZXinWU_7xbmhlu95W0xD22pK4SOvq5CHM3jj0zKtycQvX3oaEWgzsyTNm"
+href = "urn:sha384:1R2uYgO-NkpAnHRyQ-bQoAwzVfbwkQ57e8YPIKCXQ2NREVExuyZZukI2qjZGHlf1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -138,7 +153,10 @@ text = "5 - пет"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yvm8TDyKYjNa3BJDdwWS_zHWc43cVC9ECLC8F97yvXf_ZpaQzNnV4VZGaVap0jRK"
+href = "urn:sha384:anlYAQMKVj4v7g9af3793hoKrlH1Ja2HCuPZg3lI1uEhWY6qU1gBUeu6pBv7ty3b"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -155,7 +173,10 @@ text = "6 - шест"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9lzJz5x1ri7tMHgkUjGBsv1MvBL3ZiuzEdc7SeSGhgtSeOlILzskaQ7LxUGdwJdP"
+href = "urn:sha384:uB-zQHAoCbfHzr5HBKNHQfPwfk7gsMDzCEO46DTNXhrzpptz0Acamh_L4ui83xyV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -172,7 +193,10 @@ text = "7 - седем"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1JUpyuiUNu0xN-m6c8ylyAThCp4Tn1ianK_4QW0VUciyYHR3M-6hT7h1Ah0o0uqN"
+href = "urn:sha384:55rYwX6hLBtSQERuuzfpNyyrJE16rggn-yIx_Jb9v6Taz4000HavCKqOZInGpEol"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -189,7 +213,10 @@ text = "8 - осем"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:y0rQEu5EVE3F911HtlhdYeXJ_L_B36erRcZ8SQ3rSwRsFYW7ZWXAddHBFcB-Dm0C"
+href = "urn:sha384:FfpR7EE-BMen51N41E4WLRuetLcVJ5qwpRChKRxP-r7RJse-Bw4fIOGt_5RpSXKZ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -206,7 +233,10 @@ text = "9 - девет"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:SE1-CZMR5Mfa8icwoGrCUeRu--BebJ-kq7tQcvqVZHLYZocIFw2wB9z5QhINEvJF"
+href = "urn:sha384:s7tex6lCGDthwY2DVhHWylswHK4K4IeSI5hNJAAZ-RKt2EidtkVLnsm_lpQi82sd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -223,7 +253,10 @@ text = "10 - десет"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Fpkr84V2LWWVq_idOporXqJsHtpZiVSacvdJtHN7ibqkJ6Jr8yBvAfQ2kDCN0QSZ"
+href = "urn:sha384:BwXGLioDK3yl3HcLn0NP7XhgY9SgoE7iWqmjwc_qMvl_s0eIad7Exr2K_CTaBfOD"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -260,7 +293,10 @@ text = "0 - нула"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EVzCFjGP4nbjMgO8z2WY2y7AwT3aZ8bjMKytI-MU2kIN4o5Ty7zth2zUppFgg8m1"
+href = "urn:sha384:ACUC7mBdLCnT7rHk8r8QeZwipQLUNjZihHARULPlduuUXIM6VAkmn8rA7Mmmz8TN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -297,7 +333,10 @@ text = "две"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ryWJTXUKkl-wIgIhxidX2MGuUWDeyVeguNSZUQOJctvqhCrEK92MQyNv0_0nqK86"
+href = "urn:sha384:ygTj2CoXPQM7uxdM4C1LCPwqx8pp3MpMrm_7TQfzn2B-Dt2RVJ2rQJeE23b-srFP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -334,7 +373,10 @@ text = "пет"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:MRYrzN2fvuqko-rTAF6tsm-5hS4ypuEFVc2SIdFj099AY8c5pBxjAg73EXC4h4s1"
+href = "urn:sha384:Ev_Ha4oLP0zR5WEDNO9PKVE50tHcolnAJ1RUSvbdkxCLxhRVx1_1VtnSiNZtEIyK"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -371,7 +413,10 @@ text = "девет"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:k7OMpvZXJNj_LTUCPLlrsj4q6oPYVY1feRCMTRpEhYAeyRo055eElAjXPtMuPOLN"
+href = "urn:sha384:-ZIPq8X1KIXqgE9lJ7psDnIsd7mo26xQN-kxqbA8sk3uORyxnzLZUKBOwyY51tza"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -408,7 +453,10 @@ text = "три - четири"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uoooMQh5CKkfhueLDJpv846YWmy2G-LbRxQ_5rIhxZY0EqiQQ0-7vpyJs2UEvbLQ"
+href = "urn:sha384:nZtDA2n18UfQXOwFNka2gsJFRS0bFiiqpevKGPVesMnT4Vu90h9vRyF5nzHWHN5N"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -445,7 +493,10 @@ text = "седем"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:CK9e39AmzCYg4UIt4A5-3fBWBGkWnxJ2s3dQQlxwzTDRdlmxXj5BMEplXgBZLgee"
+href = "urn:sha384:W1TA2CmnT-1LU5c6pTE0VcOok_IMkU0lDl4gUObSKzogzcFQLTrmYSdvIJvijWFF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -482,7 +533,10 @@ text = "осем"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:otdZsKGCPhkztCd7Abx9U9b0rFExb8lk6W-NbYOIaUE1INEAwhv-IxodPOX0EI-H"
+href = "urn:sha384:DMRAEd8wcazztXRKwqrPSYIgqKLBBZ32l4astaPifxSeoHdqeXVzG_nV5LUIxWgB"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -519,7 +573,10 @@ text = "един, една, едно"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3HFUftis2rnDtf6VKRDU6g3XIgcRQTLo4GbfwGbITLV15aNjZpu0Ygqx1bBfVnVc"
+href = "urn:sha384:EHwtCvB0beoddwbBwLOwfzzYjhHDptJ254Pq7lfeoQIH4rIU_dpeYa7CbbBvnh2A"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -556,7 +613,10 @@ text = "осем"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Rg1LlhLublRA6hCXHxGrA7g7jn1j9teYPk0JZP4-1-kYXMSxbZyNmGN2XJ23xUY4"
+href = "urn:sha384:XXJM4SwijU0QutVixdb6l2J6IZnPxuXYw5q3cGwI_QOXTYHI1MD1bwoGzfsRgu_2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -593,7 +653,10 @@ text = "едно, две, три, четири, пет"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:PQ6Zq9CovvkbYTLkN4L5SAWbzHGqhs9_a0zCdSMVb2Oa_RBxrnVLOdWS47qOhdTl"
+href = "urn:sha384:ClIKLz5S_6R26yFCFPtek2sd3np-uaVvXq7MIz4QL-iv7ukWuuhK31kJHt0XxXah"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -630,7 +693,10 @@ text = "шест, седем, осем, девет, десет"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0_sduOna8PRJoe-eCT7hTrWNOE2dMYYdICp984X-bcx_Net8nSpVkdleNzUyMbBh"
+href = "urn:sha384:75XzplNlipkbpWe0dQvSIysB_0dGwquTOYfFDTZC6El_OG0DIESBdQsqu3lqmG1m"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
