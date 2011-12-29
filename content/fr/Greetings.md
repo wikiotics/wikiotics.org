@@ -855,7 +855,10 @@ text = "Ask again \"how are you?\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GFPrcNHf-28glEF8NHKYIjY8NCfIofOwmp4L2jpYnaPGPljqwitGKb7ldEE84oOk"
+href = "urn:sha384:9IhgCym1X8AD8n91dTmiONPIwEl_tHUZUa_p7dG_hpfTB9mWam9FaXbB93GlATvt"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -892,7 +895,10 @@ text = "Now the informal equivalent:"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8bI59lNatbLt--UBiVrHJMJ7RVemLbICTPQP2GWJ1Soxk0QcwAOUtGv07PLJmaF0"
+href = "urn:sha384:53u0kwWw4C2DICLphZmhnG-Pd1jPFvtIOvc1NUavln0aYdpZ-sdZK3gaFp0-q2t9"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
