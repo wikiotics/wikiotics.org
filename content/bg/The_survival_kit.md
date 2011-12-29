@@ -67,7 +67,10 @@ text = "Добър ден ! "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7qtrvUa2PZmvh2o5EHiSxS1eKdulGLTlFze1trupfXJ6SmQsjKOj4TU8I9EtbzSt"
+href = "urn:sha384:sxxHw5B-fzOtqLpK-ER8DBBsclzuyggpKrfHVnW3Bxcuq6WwcQAyXc6R-GUrReJg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
