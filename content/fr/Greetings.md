@@ -63,7 +63,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "This is litterally \"good day\"."
+text = "This is literally \"good day\"."
 type = "phrase"
 
 [[cards.sides]]
