@@ -162,6 +162,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "17 through 19 are regular. Just say \"ten-seven\", \"ten-eight\" and \"ten-nine\"."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "17 - dix-sept"
 type = "phrase"
 
@@ -384,6 +401,108 @@ type = "phrase"
 
 [[cards.sides]]
 text = "treize"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Say 14 again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "quatorze"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Say 16."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Seize"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Can you repeat 17 through 19?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "dix-sept - dix-huit - dix-neuf"
 type = "phrase"
 
 [[cards.sides]]
