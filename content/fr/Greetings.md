@@ -113,7 +113,10 @@ text = "Bon"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vqul03n0RukJrYbl3U_m0okZCjFGX20pvRMlvC5ld8vjfHrEoqonFKv3YOmWbD_A"
+href = "urn:sha384:d27emzWkijsoOX3pEG8BBLdBhqC9-bgZxstqAdb27mlMOlh2B7wYLEALEnVhvsKw"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
