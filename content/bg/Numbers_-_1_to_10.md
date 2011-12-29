@@ -49,7 +49,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "1 - un"
+text = "1 - едно"
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +66,24 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "2 - deux"
+text = "един, една "
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "2 - две"
 type = "phrase"
 
 [[cards.sides]]
@@ -83,7 +100,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "3 - trois"
+text = "3 - три"
 type = "phrase"
 
 [[cards.sides]]
@@ -100,7 +117,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "4 - quatre"
+text = "4 - четири"
 type = "phrase"
 
 [[cards.sides]]
@@ -117,7 +134,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "5 - cinq"
+text = "5 - пет"
 type = "phrase"
 
 [[cards.sides]]
@@ -134,7 +151,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "6 - six"
+text = "6 - шест"
 type = "phrase"
 
 [[cards.sides]]
@@ -151,7 +168,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "7 - sept"
+text = "7 - седем"
 type = "phrase"
 
 [[cards.sides]]
@@ -168,7 +185,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "8 - huit"
+text = "8 - осем"
 type = "phrase"
 
 [[cards.sides]]
@@ -185,7 +202,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "9 - neuf"
+text = "9 - девет"
 type = "phrase"
 
 [[cards.sides]]
@@ -202,7 +219,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "10 - dix"
+text = "10 - десет"
 type = "phrase"
 
 [[cards.sides]]
@@ -239,44 +256,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "0 - zéro"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "bg"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Also note that one has a different feminin form"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:dV64S1BhlmvOUj-6BBWJAf9Cp3yo_DHLqcrSy4vyHJaYvF0ycky-4umKkeFWCF-C"
-href = "urn:sha384:J4Y9Q1LbGB6r6Bl1u3a2GQG7k7jDmmmdwKNMVo1Jq-716qGJj9GnxuWzHIdhoMLd"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "1 - une"
+text = "0 - нула"
 type = "phrase"
 
 [[cards.sides]]
@@ -313,7 +293,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "deux"
+text = "две"
 type = "phrase"
 
 [[cards.sides]]
@@ -350,7 +330,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "cinq"
+text = "пет"
 type = "phrase"
 
 [[cards.sides]]
@@ -387,7 +367,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "neuf"
+text = "девет"
 type = "phrase"
 
 [[cards.sides]]
@@ -424,7 +404,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "trois - quatre"
+text = "три - четири"
 type = "phrase"
 
 [[cards.sides]]
@@ -461,7 +441,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "sept"
+text = "седем"
 type = "phrase"
 
 [[cards.sides]]
@@ -498,7 +478,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "huit"
+text = "осем"
 type = "phrase"
 
 [[cards.sides]]
@@ -515,7 +495,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "What is one in french? Say both masculin and feminin forms."
+text = "What is one in french? Say both masculin, feminin and neutral forms."
 type = "phrase"
 
 [[cards.sides]]
@@ -535,7 +515,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Un - une"
+text = "един, една, едно"
 type = "phrase"
 
 [[cards.sides]]
@@ -572,7 +552,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "huit"
+text = "осем"
 type = "phrase"
 
 [[cards.sides]]
@@ -609,7 +589,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "un deux trois quatre cinq"
+text = "едно, две, три, четири, пет"
 type = "phrase"
 
 [[cards.sides]]
@@ -646,7 +626,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "six sept huit neuf dix"
+text = "шест, седем, осем, девет, десет"
 type = "phrase"
 
 [[cards.sides]]
