@@ -376,7 +376,10 @@ text = "Au revoir"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xbV5VPzn4ADi1KJHOntN2A5qeOBngs4omo-6THJ6ucmVtY62z3w3H9OIASMagR4T"
+href = "urn:sha384:dwSHDzvrpodwD1z6g7csNCGhVIv2VOeqEpiZ3N-hgmSs3q2TOEGbx50VozQOn_Xj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
