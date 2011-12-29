@@ -47,7 +47,10 @@ text = "Start by saying hello"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hfimJGTdw_ZM74B3WAnRT1QpU2OvY36PKgY-a-6jKtap54GvoB9rJaHe2Ve6Dnzd"
+href = "urn:sha384:Wtr8ZXm7Zc6afG0TWI86m753C0K9UY0dNxZwSZ6NDhRQd4jRny4v_Ndf0TeYm6P1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -80,11 +83,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Here's how to say \"yes\""
+text = "Here's how you say \"yes\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nOvRPUDu7iTio5Xcr835x9mgqjwXH3AK4tCgALp2zZS4PD5py-clzGsrqaTOOf6G"
+href = "urn:sha384:MF3vbtYoTvChl4xJUH33ZqeWboewXoajikYT1SC-OwsAIgkaqkspzUgRzasgc0W3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -121,7 +127,10 @@ text = "and \"no\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yZrjvIDZYzfYW56p-Ngt7xJ4tER8GRETm0wZ1Vfd1RGHBMvH2PQY8njpuis47VDe"
+href = "urn:sha384:H4CMzVGh_nn7f03CaxEeCwF4p64nDm8yZ67oLyUP_x7TlfZTEW9p4bloEa4tKT8i"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -158,7 +167,10 @@ text = "Excuse me, for instance to ask a question, or if you bumped into someone
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fnnUMkDngbK6GT3nRNyobIW63fphtcUYeiGK7zAvYfjfrC_BaoPykxC5aQVpAUmq"
+href = "urn:sha384:K_bCwwxYHTXPZ6n0e2fHciXVRwEU2jDfYKL2fOK4_hVqGNFAgfcI0AipZI2SqYIk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -191,11 +203,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "To say thank you:"
+text = "To say thank you, say:"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qCHR_ttVvlvZa6pbE5zYkYTE8VW3W99bdZt5KiN7P0e1YQslgb_nmrJ9L4MKM-Vh"
+href = "urn:sha384:ZC2dpZ4e1GHb3ujD0HHfqObfhzp-yxvJogbOMxZwbd_L9eXk5IXWzRo3aouILcLp"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -228,11 +243,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "to which you'll reply \"you're welcome\""
+text = "to which one can reply \"you're welcome\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6_p0c4UOGKeBMjo62fkoNcy_fXs9whrSBN9vmU-rGmK0yy-X1GsZuDMG5QhhFnZ5"
+href = "urn:sha384:vc-bcZIjiIR-GD06S0DrerNEFUQ2YrQioxFj9QPp_0ORXDcwsDiDkRhh_S9Pg702"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -265,11 +283,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "If you don't understand what you're told:"
+text = "If you don't understand what you're being told:"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kzznZ6Irw32qVRXOpc8D1UnSSSAgen7fQAXHb1BVUKTMXj11XCauRYXkVva48hOV"
+href = "urn:sha384:g5jow1YEfcX0b2mPhE9yT0PpS5w1Dml6_8oLkMjGDoHb2v5x5T1EO0twCKpbXplC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -306,7 +327,10 @@ text = "Then you can ask that they repeat:"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YG3rbVPomypFqQvS1-HIm0JoW6j1STKpKFDKP4tPSW869e3u5G3lbV9TM2gSPtyl"
+href = "urn:sha384:7VMk7s2Rb2odshAmHOsTh3xpjvTkbR6bltwvTD2nwRcbUgP10BljEuBgW2vrYegj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -343,7 +367,10 @@ text = "Make sure you add a \"please\" wherever needed"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VuHmxNx6B8l7vxU-DCcbnu_uVoTVFrkQ5jaomsiJ3LJEAdm60YcT8arUb34bVb2s"
+href = "urn:sha384:dZ1CHfoMYVF6d-0umEDf2yAlfVWift1hOPf-a8a3rl4FAVkbUbcWHRWSoEjfE6g1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -360,7 +387,10 @@ text = "S'il vous plait"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wrlmssPTfbjJnVpWDxh7oxMd97Cd_uYwUUIKyISC_8SadOiSjnjuzStl82vFR3dh"
+href = "urn:sha384:cqw5cV1cEfiWfmZa1FFbSuUzQVqKSXNIqsO5Og2ktK1huN9sQIyKdUmnVKemSjh1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -377,7 +407,10 @@ text = "For instance when asking how much something costs"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:PAEzp-dvpm41JMTSA3iSoZJEtGhqBA6pcXUqLdZEuFl94BIZyivrzQDhF5TJ_JFA"
+href = "urn:sha384:mPO8cDa_DwmLKwtFDsJx6J489Iv74-nD4xnGVYlj1KNE_FnmEc8Br3rbYIvCSh5F"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -394,7 +427,10 @@ text = "Combien ça coûte?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UbFc-lFkU35L9zXwh-a8kiIAFgGJj-aZsSxGvJ-DvkiXvCnAaqNst-8RzqO1zCHM"
+href = "urn:sha384:AJ_WJ_6U82lqmgiKqzIGCBT7Qj8s36xRZODuThE04ubUmSk82DsI0k-gU2ODS7ao"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -411,7 +447,10 @@ text = "This means \"how much does this cost?\", and should work for anything yo
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fxyyzaWE-h0HFVrjwhDJJAwkYlvv7lWBC2I8BIDargH0nVxYO6EbyaaI17ppLj2X"
+href = "urn:sha384:O_djbsV8bRIV9kGU-qNiu7IGh2jlHYoaElYDxHdUo3JT8stSW6NEUdc0S30ghlSF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -428,7 +467,10 @@ text = "And finally, always say goodbye when you leave."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:H3DB3H32LW9yKxlXjMFbTD-Y_ZvcNIxiNkHINaN0PZoIUj8pPu_UfVso0ZO4R8td"
+href = "urn:sha384:4gyg-a60lo_aL6ZlZupUpsVmZf-_uxRrliMWBpfI_UcEtpNSj_r7iY9F4QQ7FB8Q"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
