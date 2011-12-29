@@ -872,7 +872,10 @@ text = "vas-tu"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:MWM7Lw_5WObffvrz5yLxXgphvKGBjDjYDbjS1JtM3BjVJYGOWn6QD1ft9cIRZp4o"
+href = "urn:sha384:tikkT6-LB1CvirL9VPEWQgceCDSVZQQ4571FSwbjWa4yR8MuAd-DhLVj_OZbAAKr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -889,7 +892,10 @@ text = "Comment vas-tu?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cNV4NNaFS-Vj6paxUqV-BOKqV8kK1ukbqbPsgangpZ962TrWE-2P7e7GODZC5hSk"
+href = "urn:sha384:yDYvpPHvZqwz7qcY_2oi-3DE4ATPABfIydoxe1Bx6MnZUF7rGWNDtpnKxoblYLWi"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
