@@ -421,7 +421,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "What's the french for 7?"
+text = "What's the bulgarian for 7?"
 type = "phrase"
 
 [[cards.sides]]
@@ -495,7 +495,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "What is one in french? Say both masculin, feminin and neutral forms."
+text = "What is one in bulgarian? Say both masculin, feminin and neutral forms."
 type = "phrase"
 
 [[cards.sides]]
