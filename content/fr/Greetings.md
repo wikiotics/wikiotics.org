@@ -502,7 +502,10 @@ text = "ça va?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DLRsDpnJZX-wXOJnimnf8hgsZRiUkPbrLTp8XnVKXUu2XHR8ojiAGAESYAOGYnGN"
+href = "urn:sha384:kBbe3C0wFAwXSTThoK-nvrEJ8Y7OXlowhoawP_hchMJ7zIvKhnGulD8OZ3-NZ5ul"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -553,7 +556,10 @@ text = "Bonjour"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0Gn8Cf_njRepm_P75JhfeujP21q4bnE3I6pPfGh4tqvmGUlL_NkRKqhJ46LC0Mbk"
+href = "urn:sha384:TZwVoI70DXk-3FboH95PWvAriUvG5rEZlKV6OhXQ1GbHWuQF2iTZdOCwUVluAM_q"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -587,7 +593,10 @@ text = "Bonsoir."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:eXrOzCjb8Mb0juoJrmoEY3dDdm-YGXBJL8ZdtGIMZsZwRlVAW4eCPU9P70RZ-w91"
+href = "urn:sha384:BHAKBubh0M2umH_CarT5GNMs-7wBZUwgga8SUw75BcAtB_LSHWGFnvbcTvNwp7kW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -655,7 +664,10 @@ text = "Comment allez vous?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gs1UNss8lepztw6tO4DOhkM5T29qeYvquUZQrMG5y3fAHAlgVGelOXSdZukvYnyB"
+href = "urn:sha384:Ak8Kh-hETvkBUn94OmI_Ggw14-GVYd1mX_ujnmigkUaUhDbR4TEXKOTZUnYv19ro"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -672,7 +684,10 @@ text = "Comment"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dP9Qd6xEDTh5_CgtRSsSqmJwrqmFu5BRLTdnfymZXqEzhECLNoWrum9azj1_mRNq"
+href = "urn:sha384:vlHc9TIGSIyQArQQqQDwuPmP0fP5KPTf3DPZv_7280MA3L6ajx5DW8OUOe-7yj2j"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -689,7 +704,10 @@ text = "allez"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JLUK_9MJToCtivJhnL-YNh-ZcAewjyi9PFTUGYbWW8vFpKnb8EaHuPtSLph3WiiM"
+href = "urn:sha384:pEsDcpkHVGFrWIemRJT41nOT6IEyTzw_Eijtw0z00a_Ee2GBrh65EQUse6VpiDSP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -706,7 +724,10 @@ text = "vous"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:V4ukgkMpYS-Jf_Aafc7qAN9PG0E6yPe_bvi6QTFqKBkztIhTnCVaHB2eK5Vs_RZw"
+href = "urn:sha384:mtSSK_O82mAqLElJO1wuJZsBQnD2rjolaUA3K_N4gcL294xLZh-XpaYTckexQZI5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -723,7 +744,10 @@ text = "Comment allez vous?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nK5YybZTA_eVude20PhECqbOgnzWy-ljLyAk_GXZ3CxNM20e4jOfhLje_fwsG4dn"
+href = "urn:sha384:19RkPpZpFppVZpnBsc9us1KtJMp82kzniQL4U3WgnBOh_1N_yA-XBxhHNlQSnuQZ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -791,7 +815,10 @@ text = "Comment allez vous?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:grZVG150S3-M28tUyL6NE4OzMfeNgUJ6LN5yameO1nH5NTkeRkd1ggyDJ1aH7SS7"
+href = "urn:sha384:hXUoeDfnv3uuAYCvwzGQfkRXDEDyaffmNL2qK1qlzhZv-_OCsR2EYvrgtChOye-X"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
