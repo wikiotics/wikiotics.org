@@ -106,7 +106,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "oui"
+text = "Ano"
 type = "phrase"
 
 [[cards.sides]]
@@ -143,7 +143,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "non"
+text = "Ne"
 type = "phrase"
 
 [[cards.sides]]
@@ -180,7 +180,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excusez-moi!"
+text = "Promiňte !"
 type = "phrase"
 
 [[cards.sides]]
@@ -217,7 +217,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Merci."
+text = "Děkuji."
 type = "phrase"
 
 [[cards.sides]]
@@ -254,7 +254,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "De rien."
+text = "Není zač."
 type = "phrase"
 
 [[cards.sides]]
@@ -291,7 +291,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Je ne comprends pas."
+text = "Nerozumím."
 type = "phrase"
 
 [[cards.sides]]
@@ -328,7 +328,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pouvez-vous répeter?"
+text = "Můžete zopakovat?"
 type = "phrase"
 
 [[cards.sides]]
@@ -365,7 +365,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "S'il vous plait"
+text = "Prosím."
 type = "phrase"
 
 [[cards.sides]]
@@ -402,7 +402,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Combien ça coûte?"
+text = "Kolik to stojí?"
 type = "phrase"
 
 [[cards.sides]]
@@ -459,7 +459,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = "Nashledanou."
 type = "phrase"
 
 [[cards.sides]]
