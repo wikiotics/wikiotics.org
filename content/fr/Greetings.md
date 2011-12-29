@@ -169,7 +169,10 @@ text = "Bonjour."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:crFNgc2jC1MBB8zZp5plHYV5oQQ__mzKE-1mvXZIYRmlWiQcrLBuZNpV6bWG6F2p"
+href = "urn:sha384:46I1eo1spG26ywfpm3mVymfv4z8cImcDrqHZwMaU8pj3MFEmPbzcWZDRA0uN-DUb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
