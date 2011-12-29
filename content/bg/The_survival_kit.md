@@ -107,7 +107,10 @@ text = "Да"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4Dr6wjx1GYx1GytWR31ptr9GohSxm8yKxDUJdXXTKn7U3jbyYtMw1H6R7f45hzqq"
+href = "urn:sha384:S4cLVQxMJaPfD91ww85UPr_VDo4zePoPESdARq5hMLTlAVnu7nsL0wF5H6plCEbz"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -144,7 +147,10 @@ text = "Не"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8jBLylQPTg-dd2J0HFGzKXp7gYULE6mAidmsYRFtwZ5ex0d4U7VxPsLlYfaqjr7t"
+href = "urn:sha384:-C9RlXS1FgUMhFM0dHJe2a_u2Xn-7fePHhXbCb5RIH_YSkVzduzQPr7mDoQYriMP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -181,7 +187,10 @@ text = "Извинете."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9_qcV6oPkbfnE5_wM79EBTtgdAmcobYKVgEM7UwhmdeObCQ5qMfRnXIlVlpSdXmM"
+href = "urn:sha384:noDw5Zdcv4v1_3AGAKeok8j2rHeJ-UhjCOWeWS2H2jxKzz9P4XizSYQ6nRMzobvl"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -218,7 +227,10 @@ text = "Благодаря."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:KiFEoD-pDqqtTvjoSKQyHdWPk3uune4fWAxzYDr74bzeW4iXoEq7v4TaoIdoQOHk"
+href = "urn:sha384:nr8FSuS06-W0bbBFSxMRbLS0d226sks1uYYyxRR6tqQILJikZEQaHNlS8Cc6WctI"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -255,7 +267,10 @@ text = "Няма защо."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cVmO4QtbTivh5leOCxL2C5iEDEsz4mbeG8rttjhydV4EkCn4IasImgJKlEdOVe0k"
+href = "urn:sha384:MwQY3AX6mZnAHOHQVqlrgo5ACID647i4vK2yZcbSlZs12Jynns2gvD7VRvxt3EYp"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -292,7 +307,10 @@ text = "Не разбирам."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6NcHaulaSt3c9fiVtsk4KkDNZZ6sU33YGNzhIpNS3vv5myVeEcPVlGe0rUYGQ0Xn"
+href = "urn:sha384:hnG5LRmPK38CkIIY30QEp67PVxdQGbC6WGVJ3EHpVauZR2ztI8nIqBIiCBBwy4CR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -329,7 +347,10 @@ text = "Повторете."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ec5Zp5na65YfvnjCc9vlKPupdwdz5D_CvbHRu59AO24VBwOBWQffczz26EGkehsd"
+href = "urn:sha384:yBTunkSPGS44B9_qs9JLqFy1cavJaR30FMRM4771Vgyr9F7PnMFuMZ3AVyDWAcIE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -366,7 +387,10 @@ text = "Моля."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jwKaagqAVEjdp_Vd_J3-rGgrR6GcMfYKKgcpFKlxdGSkFWqeq8WLdMexcpbb9IVg"
+href = "urn:sha384:uMmlEBKRrwrMRZKv1Z7eFkIXAkpo9NJDSdui_gjNQJ4tCyJ6J2vV2eUH9MvGOQzG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -403,7 +427,10 @@ text = "Колко струва ?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:QqVD9KOWQsBXWBGUW3YM7tn_A2GpHwlrAAASgGXyZdma14ErPZ00I1H2Ae64qz5i"
+href = "urn:sha384:i_hbRqGcue7wowsUh7rwdS61Rb-MAPozwZkoYBs-0-2lFMTcl-pK-g45VeQe4Gh3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
@@ -460,7 +487,10 @@ text = "Довиждане."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EP0p-Em2Kttl4JqRsxtu0mecHy7ale7coSBg_FqjJZOb6j8AYJbuxNQcb3MRt9tY"
+href = "urn:sha384:KVlBb91o6NDp2Cxrwv-6rO-W6e8cBPMUsU2LQ3jPX2sabgYfWamdhpVFWtTzLQBo"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "bg"
