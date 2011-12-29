@@ -343,7 +343,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pouvez-vous répeter?"
+text = "Pouvez-vous répéter?"
 type = "phrase"
 
 [[cards.sides]]
