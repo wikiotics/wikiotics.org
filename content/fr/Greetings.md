@@ -30,7 +30,10 @@ text = "The most usual way to say hello is"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fiLN3c0gQY0ETucQYbh_nY4fMaebOsbt07v8sXy8xxybV0uig5qfBVjuZ8hIOBd8"
+href = "urn:sha384:ZplKaocYegdhqKskHeXXhVdYWM73tFNHlFK1jFKUznL9Ep1lQBsQ0_FM1bt2iFjE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -67,7 +70,10 @@ text = "This is literally \"good day\"."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:BApMJpQ0bkeUKHoDte7obp_mYAw2QTVHCdxYFNsXsnwD0yJ1jkKBK1utzwv7ULix"
+href = "urn:sha384:_NocBUvLCEb3sNQ60NZDKSzG9vllRTfNM-UOzTMkWmxd-LQmf18j4tnU6Do4Rxxp"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -84,7 +90,10 @@ text = "Listen to it bit by bit. First 'good'."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xZxRnYABhgWK0d2t8uH_ypdJmztV9DDh9E3kpfa8hj913Uzha8qMEY3o1A6U0bZ-"
+href = "urn:sha384:DijtWNPG6qcozn3-yayr7ZMZAh48S8LH8EZBU8M93TZilEEoktAl8-6w6ar6klzt"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -135,7 +144,10 @@ text = "and then 'day'."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:__8JUUh9XjEXjQl2TKnrkiFjzrfeLTjcho5o72Rqz4FyS8nCyL2Z_gGAkMfO1mWg"
+href = "urn:sha384:Qh8DbOiduYQq0P3-wllCdVL8jYmbXFTbJrfGJBtfZu865nx1cCLFFE0bN5gWzU3v"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -192,7 +204,10 @@ text = "In the evening, you will often hear an equivalent to \"good evening\"."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Qcwe4yv1JHh1RZokcEmsY9vv8KqLjJW4niGDDl_qc3VbfNQWUSet3mFXgT-onqGx"
+href = "urn:sha384:Tv2EY47KPnMpyBzF3InuhEGXOuQhLuyVKowDoFh_mqX-JU5aRZdS9rPoRcWUgHOG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -269,7 +284,10 @@ text = "Repeat the word for hello during the day."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dKktx9kLMEUdo36hCxisDWXH39I8p5aJbB6waU9fvfIADiqNoRe_uTe_9yGXSS2M"
+href = "urn:sha384:CLXqeo8hQ-OU59x6G-rmctU990_kDRatfXHPSQFhJSBesDvzYnIh3katyjD1m5A-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -306,7 +324,10 @@ text = "Say \"good evening\" again."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:C4PTBGDtBkoqnWVYLSZwvkeC0kIjs18ym9f-5ZmkBIHdLCqNquJ6l37HmzvbSXze"
+href = "urn:sha384:yttWqwEH3eG-1RS8DzC1vhyECk4SSNYYO8BdMjLEZx3apb60bA_8aUeqjNJy0Nlz"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -343,7 +364,10 @@ text = "It's not perfectly clear at what point you switch to it. When you think 
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6XQwdJG5wL2rQZW6RO6PsCkrtNvbgg2kUx_yXQjFeK4qBW-agseKNFH7mmp3AHwA"
+href = "urn:sha384:xMfXTHLiEaaYxXo5yTViIQprUY5iEJDXp3-z68za-Tzvr1_OompsDuil1xMTBOv5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -377,7 +401,10 @@ text = "To say goodbye, you'll want to say:"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:NEVJUakoCXgfjxRS4v-hY_PJIT5Fe-nIByLD4uDLFlx2H7QL4KF69JcyYO3OEKrm"
+href = "urn:sha384:tKeUNFvDvcZ0CdYA06-5LHlHG0wWFa2tOGcqrI56tLUQOlVL5XeWegpnN6bz2n-Z"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -414,7 +441,10 @@ text = "Now some more unformal options. You can use these when meeting friends, 
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:092HCWrbWGJ56v0RNqEQgjo606oZvBr7NUxcqQyghvo7asy_-Bp4tG6Ioxvqr5dn"
+href = "urn:sha384:hM7-FToVQjwH_XKJzei8DPyqreDzet5wT0AuBnKaO7Zo1nX1KMfktM1ftwNb28_C"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -431,7 +461,10 @@ text = "Do not use them when walking into a shop, that will sound rude."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ftPgH_zALxBRZM2H5s0seNSxs4t3EpADWvOCCzmy1xxJ3ntO0n-J7BXusrel5HEn"
+href = "urn:sha384:b4G3nbFeC5vp2wic2dkedqaWqLAcnVpAf4wfKyBp4DqL7aHOHkfAIeXu8NV2hODx"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -448,7 +481,10 @@ text = "Both hello and goodbye are the same word, which makes it easy."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uqeCG0nxVN2E65gsnGe6L-TAu1Xk1cz65dz2rVFUZf8r02XDnykdvPIWaMgPEAYN"
+href = "urn:sha384:vJ-jOzJPAupamKt0_MQ_Ay_alRHawF9f51v9HdMhlIWt3OOva7CAke_-4t0mt5L6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -485,7 +521,10 @@ text = "Often you will also hear "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3yEQH3a6V2i9UR_oo80WUYAj9ZR6XHNCxC8b-rQXG7J2F14dAG7A5bIiWe0_ZKvr"
+href = "urn:sha384:ynJfQa2HTFuHCqnl12bFvx5kjf3YThO1910464sohh3ibfTUNNZ02c63h9qobTnK"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -522,7 +561,10 @@ text = "This normally means \"how are you?\" but is often used to say hi, mostly
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fnrOmXW1dPgYOB7FDUJ_al_NP27c8mM1d9MoJEpXw7F33kX_fYbWaWu6itOioYYG"
+href = "urn:sha384:rFolDgRZbSB3-8P9rMcZoy7K4gQVcEqFd3RAk9tTTTd6oik8VIHIEFpT_J66doq0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -539,7 +581,10 @@ text = "Do you remember how to say hello?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:G3ifJ23Ly0p-whs3oGX5mfzv-ynyVYbZiPrlk7n0e7SsZYhQhAeWD0QF1FJymQwx"
+href = "urn:sha384:13q4LUyY9MbPxDAxQG360WRfhx0v_Q3o-0ut9fhwaHHAeAiMUtp5XvBUUCc3dVqA"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -576,7 +621,10 @@ text = "What would you rather say in the evening?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:KKxdn6_IgCo0FRo-1AdzSz4eV-USu9ebsuNCzGXdDxPVxAWd4uJ15g8XHY5dlTrW"
+href = "urn:sha384:YxRx7laZ95tKgMSAmKDxoprwYuk7ykaVXot2o8SeVSbWYbUarZSlebWKGwDRqlNm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -613,7 +661,10 @@ text = "It is usual to ask people how they are doing in most circumstances."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:O9PF6HW2IdWXXFpFT8VmkAh3Zbf-dIVVVLdipcEoBsXs4BUE3dgfy87L1C_M1AEm"
+href = "urn:sha384:ZhTv5FejnoHMLWLq27IbiZDjv4jJgj3vIxiG3UMzZhabQIV3QhlrNrwfhpIbBR0w"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -630,7 +681,10 @@ text = "This is not normally used in shops, where people would feel you are inte
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:weiqUvkRCBDWkXuy9QIhm9miUbvcsWF2cK5CukGRUorQsjZw9gBHMjfzJdzfQFAt"
+href = "urn:sha384:hT9QcWeweR1fnEJrjA0QwwUL-_qlt9cQRveXMG5wFCJcV7_yPYsypvyu3OBwNzeK"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -647,7 +701,10 @@ text = "Here is how to ask formally \"how are you?\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:USPn8CEzEZ5L6PrxuojysZyeb7jMUZwOY88h1jCllxw_yfuB1qXoqiojISwMdfrW"
+href = "urn:sha384:fV1uj8vFA-7bTyHQan8xK2GusYg7VINVLm419Q4lXIVp5l2MtYTQ3a_lTijOkoC9"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
