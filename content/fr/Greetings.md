@@ -804,7 +804,10 @@ text = "Comment vas-tu?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jHj3Y3TVm1WBjqwNp9DfrMK4Y29MAxT2IMae8Td_DCFmbBjj7rmW9lVpy0kJT_b5"
+href = "urn:sha384:sR32jSvlSzmJjNwZEHrjyFgElcMK1KgLu4Ktsa1yA6Y8gVDIJ13CxLpNOVd2sv1E"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
