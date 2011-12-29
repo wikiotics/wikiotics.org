@@ -101,7 +101,10 @@ text = "oui"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yR4wSpqnYtg2zdxOBv19ynTKyegja68547f5CoBs_U1L3tfeauhbI76Ea4S9qzc6"
+href = "urn:sha384:NLlC8PjVPo0FaX9vKTUt6eXuUjsmpx3w_mavZXCziLOw68kOUGO-23GOjQCeQKwk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -135,7 +138,10 @@ text = "non"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TrqU0ZubYYas-Cf5_c47nL_IcJ-pe34B0_ulCnJpl5byPPD7ACLXyk-RhfDfKNSH"
+href = "urn:sha384:giBmE6ks6OLbNlQ4b3XfWEX9waDYGrxWYnf6YahInT04sbGEn82bYXmvdwt0KkND"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -169,7 +175,10 @@ text = "Excusez-moi!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:H5lWR_ZJms9Czxn7zJ7SNUCPWXSMLpQZq4_CrpvPYf1Baok7Q-wc2Ujp4wGze4sa"
+href = "urn:sha384:x7vEHLBO1QLnaeQSuMKWFc4-bjg-9wOMEwhAl9DRspCPrB8fIPUSFjBLTVUMLmzk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -203,7 +212,10 @@ text = "Merci."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Z6K-3W0LVuqZOlZR8B4CB-7UjZ9QqZkLKy6OUQ-jZdeEQAILv_baqomQMkMZ7KKk"
+href = "urn:sha384:alsuloMA7ET31Pme1iVSR68nxU3Xg1pLCJJJY3eKpvQrB9IA9Fr4ArYm7jeBYKoN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -237,7 +249,10 @@ text = "De rien."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:raI_I2uHbee80l01fwQkj9MMsHICYS_BoJ6zlfcUFqtXEhNZwZnTVi1ZeFSu0RVY"
+href = "urn:sha384:OXC8GsVCzXj_O51bRMc81lvmn2NkNPit7Rn8j5VI-Mb1W-s9BKHgMH8f1ZKuU_Qr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -271,7 +286,10 @@ text = "Je ne comprends pas."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8eCGJ9mBCiVWqLrwGbCK3045dvIaUig9I8r53NOCZrp6fbGevDNz4Ty_pvBFQVwr"
+href = "urn:sha384:FvVjn2s9Biq7-CDjO4F3Hj3z5D1cNcZzjBj4rTDIhpMPXJZQCTB-m_BOs6BR-UqD"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -305,7 +323,10 @@ text = "Pouvez-vous répeter?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4w4-sO9xvjQ_SpKOYhxX1g2N-IKPDHGZMuUol9w4mvFw-4dhumkSG2EY8ECtC_aW"
+href = "urn:sha384:kq8mVPc6D9FIUbduZD5frTZU0W6DefQapU4c6tZu0qIVoFiLWbXv72tB7Mfs5WEq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -424,7 +445,10 @@ text = "Au revoir"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_QxuXH1jkJpfIn9lJr15YTMzVGsLqp-i4eZmQ3b4Y_A32hqZfeghQDudIs33twIC"
+href = "urn:sha384:z2dPxzqdNEffhZc6MsGkh1MeSrVZv_G0TKmlatXLxuN_NCQdHR897fLp4DJRBkQ9"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
