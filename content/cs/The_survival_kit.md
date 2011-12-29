@@ -9,11 +9,14 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn the bare minimum you should know before going to a French speaking country or region."
+text = "In this lesson, we'll learn the bare minimum you should know before going to a Czech speaking country or region."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5utr9VkNX0FKNTFpukTVDPF1K-D3HV1d7HDgyCoPvmaH5NXr9PrPQHBsxUjmmOfi"
+href = "urn:sha384:Me6xEGxvh8ksZW7aLH5eSetAhahCCz2vvmww-bKKPfSviayJpfkkQCwV0zh5W9Z5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -63,11 +66,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour"
+text = "Dobrý den"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5utr9VkNX0FKNTFpukTVDPF1K-D3HV1d7HDgyCoPvmaH5NXr9PrPQHBsxUjmmOfi"
+href = "urn:sha384:Me6xEGxvh8ksZW7aLH5eSetAhahCCz2vvmww-bKKPfSviayJpfkkQCwV0zh5W9Z5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "cs"
