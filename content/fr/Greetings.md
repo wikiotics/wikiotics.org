@@ -13,7 +13,10 @@ text = "In this lesson, we'll learn how to be civilised in French, and say hello
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gE3qYnNCluXibdxRzr36X-Y2GF5YG8mwYkozVH9PokI2mZ6pwXQybMnVF30U8UYr"
+href = "urn:sha384:A4danAE4W6wBcDbjp3TPz0kWbL2XUFIbF2dqUaCYImGQ22D7Xnqhdq0eCMGfh3Ij"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -127,7 +130,10 @@ text = "Notice there is no 'n' sound at the end. Your tongue never touches the p
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XKEXFicVE_D4QJ9TxRskGEZUZQb_GYhJwM1l2BXNRzcV3XPZGohnnBhw3Asalvfu"
+href = "urn:sha384:LrsL9eBIwbT_ZGAfRMda7nQ3IIY1PFp_xA5y5Qob6nuWPM0RTvIaQ_pZ8Ta5buOs"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -384,7 +390,10 @@ text = "Also, French does not have an equivalent to \"good morning\". You simply
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:06aR4tnVVa2w086rIFcZOKGKvFrX6ZVSOx4vxbilp6l3vdQoqGzlf3PXPvvAwUtt"
+href = "urn:sha384:CiqU6iIxYUPdnZoWGuaq2gB1-dpaktAk8QKh9S8Q9c3O7dD9bfDuoJdSc5Be9OEL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -821,7 +830,10 @@ text = "Notice the 't' sound that is added between 'comment' and 'allez'."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qeHBJ_Y4P3fJIbZe-B4oZzwZz2OEvEquhZCKJ_fS9QYnXY-D1ukY20v7rgtD35JP"
+href = "urn:sha384:ko5mjZmoeQhLdXcv6s6D1xIS-AD92YjGekwpHwxetejtd1L-gkvzr5FzIuQMt4u6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -838,7 +850,10 @@ text = "It is called \"liaison\" in French, and is added for phonetic reasons."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:g8G9v3uibkvy7dwnlp1IWtT6pl1d3NnAQhu-FqOR2TOfinVqhSZlqk58E1wrvSAH"
+href = "urn:sha384:DEl9UaEs79rwmtsev1CG5UJgtzR57zbeLjtaOKUUeCqqdfVsuEeOq6S2faV4IlQa"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
