@@ -152,7 +152,10 @@ text = "jour"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1lXbfG_ZHCsR6sstw5PBU9EqwvFdnLmA2eBWeIXMVEIJg8WXGraWK5UqFDRi7ytK"
+href = "urn:sha384:ofiv_UUNlMkubOyK-lZjqp51b67udt2b5FLYO_tzF3HDTBXwItHCKsNKk2PvjXA2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
@@ -206,7 +209,10 @@ text = "Bonsoir."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wHEs7BKRz5ZtvgjnPR0IewFqwfgH_qXxJe1ZPvdH0PtR1vo2TF-lKoGGcyBvzWoP"
+href = "urn:sha384:vZmpeSDVHL1D5GaJKxc3NrpGwSus7gXdKWn2E7XzvK1QlUc23jJ0gBLhIRIcBPHF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "fr"
