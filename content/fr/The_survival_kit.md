@@ -63,7 +63,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour"
+text = "Bonjour!"
 type = "phrase"
 
 [[cards.sides]]
@@ -383,7 +383,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "S'il vous plait"
+text = "S'il vous plait."
 type = "phrase"
 
 [[cards.sides]]
