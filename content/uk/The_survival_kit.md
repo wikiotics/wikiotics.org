@@ -63,23 +63,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Добър ден ! "
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "uk"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Here's how you say \"yes\""
 type = "phrase"
 
@@ -91,23 +74,6 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Да"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "uk"
 type = "phrase"
 
 [[cards.sides]]
@@ -137,23 +103,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Не"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "uk"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Excuse me, for instance to ask a question, or if you bumped into someone by mistake."
 type = "phrase"
 
@@ -165,23 +114,6 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Извинете."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "uk"
 type = "phrase"
 
 [[cards.sides]]
@@ -211,23 +143,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Благодаря."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "uk"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "to which one can reply \"you're welcome\""
 type = "phrase"
 
@@ -239,23 +154,6 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Няма защо."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "uk"
 type = "phrase"
 
 [[cards.sides]]
@@ -285,23 +183,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Не разбирам."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "uk"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Then you can ask that they repeat:"
 type = "phrase"
 
@@ -313,23 +194,6 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Повторете."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "uk"
 type = "phrase"
 
 [[cards.sides]]
@@ -359,23 +223,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Моля."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "uk"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "For instance when asking how much something costs"
 type = "phrase"
 
@@ -387,23 +234,6 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Колко струва ?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "uk"
 type = "phrase"
 
 [[cards.sides]]
@@ -444,23 +274,6 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Довиждане."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "uk"
 type = "phrase"
 
 [[cards.sides]]
