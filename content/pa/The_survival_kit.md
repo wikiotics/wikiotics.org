@@ -359,7 +359,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "ਮੇਹਰਬਾਨੀ ਕਰਕੇ"
+text = "ਮਿਹਰਬਾਨੀ ਕਰਕੇ"
 type = "phrase"
 
 [[cards.sides]]
