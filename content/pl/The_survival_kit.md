@@ -67,7 +67,10 @@ text = "DZIEŃ DOBRY"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:I3d0wmxqOJBUA8V7DgSP2ePw9x-iaiDFFSjzOoNGJgOcyhimGaNGcQe3o4J9XKdI"
+href = "urn:sha384:l88C0fW_DSwXFtLnwXCfU_DWIEJo1eNnKcCV4N-kUDxHAadC8Fh6gxyAUDMMTxTW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pl"
