@@ -9,7 +9,7 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn the bare minimum you should know before going to a French speaking country or region."
+text = "In this lesson, we'll learn the bare minimum you should know before going to a Spanish speaking country or region."
 type = "phrase"
 
 [[cards.sides]]
@@ -63,7 +63,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour!"
+text = "Buenos dias!"
 type = "phrase"
 
 [[cards.sides]]
@@ -100,7 +100,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "oui"
+text = "si"
 type = "phrase"
 
 [[cards.sides]]
@@ -137,7 +137,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "non"
+text = "no"
 type = "phrase"
 
 [[cards.sides]]
@@ -174,7 +174,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excusez-moi!"
+text = "Perdon"
 type = "phrase"
 
 [[cards.sides]]
@@ -211,7 +211,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Merci."
+text = "Gracias"
 type = "phrase"
 
 [[cards.sides]]
@@ -248,7 +248,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "De rien."
+text = "De nada"
 type = "phrase"
 
 [[cards.sides]]
@@ -285,7 +285,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Je ne comprends pas."
+text = "No entiendo"
 type = "phrase"
 
 [[cards.sides]]
@@ -322,7 +322,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pouvez-vous répéter?"
+text = "Puede usted repetir?"
 type = "phrase"
 
 [[cards.sides]]
@@ -359,7 +359,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "S'il vous plait."
+text = "Por favor"
 type = "phrase"
 
 [[cards.sides]]
@@ -396,7 +396,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Combien ça coûte?"
+text = "Cuanto cuesta esto?"
 type = "phrase"
 
 [[cards.sides]]
@@ -453,7 +453,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = "adios"
 type = "phrase"
 
 [[cards.sides]]
