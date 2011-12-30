@@ -189,7 +189,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excuse me, for instance to ask a question, or if you bumped into someone by mistake."
+text = "Excuse me, for instance to ask a question, or if you bumped into someone."
 type = "phrase"
 
 [[cards.sides]]
@@ -273,7 +273,10 @@ text = "Thank you, more slowly this time"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:n-EUNo3bgxH6hPBO1UtOxCll2KZk6TPJ9a5XrpR4MbMUPtOg8afB0YJjuWwrpCM4"
+href = "urn:sha384:a6ni2R8EB50kfvLHGboiNh0EmJgcLnl7nlWBlttUcuiPdmCwnQDID89U0d0h6JiQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -306,7 +309,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "to which one can reply \"you're welcome\""
+text = "to which you can reply \"you're welcome\""
 type = "phrase"
 
 [[cards.sides]]
