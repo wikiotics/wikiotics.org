@@ -26,7 +26,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "We assume you have already learnt numbers before taking this lesson."
+text = "We assume you have already learnt numbers and the survival kit before taking this lesson."
 type = "phrase"
 
 [[cards.sides]]
