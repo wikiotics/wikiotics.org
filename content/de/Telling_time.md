@@ -720,40 +720,6 @@ type = "phrase"
 text = ""
 type = "phrase"
 
-[[cards]]
-
-[[cards.sides]]
-text = "Or in the 24h system:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "19 heures."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "de"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
 [[interactions]]
 audio = 1
 transcript = 0
