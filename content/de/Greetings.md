@@ -332,7 +332,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Also, German does have an equivalent to \"good morning\"."
+text = "Also, German does have an equivalent to \"good morning\":"
 type = "phrase"
 
 [[cards.sides]]
@@ -340,6 +340,57 @@ type = "empty"
 
 [[cards.sides]]
 text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Guten Morgen!"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "de"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "You will come across this word often. It also has the meaning: \"tomorrow\"."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Morgen."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -367,6 +418,40 @@ type = "phrase"
 
 [[cards.sides]]
 text = "Auf Wiedersehen."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "de"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "It literally means: See you again. Can you guess which part of it means \"to see\"?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Richtig! \"sehen\""
 type = "phrase"
 
 [[cards.sides]]
@@ -434,7 +519,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Salut."
+text = "Servus."
 type = "phrase"
 
 [[cards.sides]]
@@ -468,7 +553,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "ça va?"
+text = "Wie geht es Dir?"
 type = "phrase"
 
 [[cards.sides]]
@@ -519,7 +604,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour"
+text = "Guten Tag."
 type = "phrase"
 
 [[cards.sides]]
@@ -553,7 +638,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonsoir."
+text = "Guten Abend."
 type = "phrase"
 
 [[cards.sides]]
@@ -621,7 +706,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Comment allez vous?"
+text = "Wie geht es Ihnen?"
 type = "phrase"
 
 [[cards.sides]]
@@ -638,7 +723,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Comment"
+text = "Wie"
 type = "phrase"
 
 [[cards.sides]]
@@ -655,7 +740,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "allez"
+text = "geht es"
 type = "phrase"
 
 [[cards.sides]]
@@ -672,7 +757,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "vous"
+text = "Ihnen"
 type = "phrase"
 
 [[cards.sides]]
@@ -689,7 +774,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Comment allez vous?"
+text = "Wie geht es Ihnen?"
 type = "phrase"
 
 [[cards.sides]]
@@ -706,7 +791,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Notice the 't' sound that is added between 'comment' and 'allez'."
+text = "Notice how easy it is to switch from personal to formal adress?"
 type = "phrase"
 
 [[cards.sides]]
@@ -723,14 +808,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "It is called \"liaison\" in French, and is added for phonetic reasons."
+text = "Wie geht es Dir? Wie geht es Ihnen?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "en"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -757,7 +842,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Comment allez vous?"
+text = "Wie geht es Ihnen?"
 type = "phrase"
 
 [[cards.sides]]
@@ -791,7 +876,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Comment vas-tu?"
+text = "Wie geht es Dir?"
 type = "phrase"
 
 [[cards.sides]]
@@ -808,7 +893,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "vas-tu"
+text = "Dir"
 type = "phrase"
 
 [[cards.sides]]
@@ -825,7 +910,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Comment vas-tu?"
+text = "Wie geht es Dir?"
 type = "phrase"
 
 [[cards.sides]]
