@@ -13,7 +13,10 @@ text = "In this lesson, we'll learn how to be civilised in German, and say hello
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:eyMs6MQT509-ZTlyGX7bfiiZ5bXgPsDwj6QZj2DyU7wZq5nDivUFVOpV3EVaFhFJ"
+href = "urn:sha384:MqMTrAHgq5YhTf_bzxg-Ahfvgrm02hM3nTq0HpR7-X17ISsOo_SRWgE0z2P-szPk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -30,7 +33,10 @@ text = "The most usual way to say hello is"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DhMhrx1IbwxRva7zGxeUHDuj96RLqKgsJv4fv3fMPjO82rEt6gO4IJuv4bTsAOxU"
+href = "urn:sha384:qKAl_RRmkxL4QBDPyw-dx9LPtcrP4NHrRcO243G59d1BvHtyi12t5F2hk2evjxL6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -64,7 +70,10 @@ text = "This is litterally \"good day\"."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:87TYNI5CeCpC2kEuofhg5LucORWoyQF0rUjWmkovT1pep8r6y-yvnyBVb_lF98Rv"
+href = "urn:sha384:9lyTXzBzVNeKpdrfwgO9_c03TKDkPPb6NRSJ-WjmQGswb2ndc_H-LjE6Fl3s99ij"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -81,7 +90,10 @@ text = "Listen to it bit by bit. First 'good'."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6PhGxCBqBT4IMw6WzBkLEuEmDN5dcSGUh4lqRSgMwBRkIg5zXjgBYyBsRhXgk4Q7"
+href = "urn:sha384:bK1L783aHIIsaneDjNObffL0bWXnu34q1Q7XMXwGIvNZkOA6jPHXvthubkCTY6jN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
