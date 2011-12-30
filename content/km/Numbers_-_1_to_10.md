@@ -353,7 +353,10 @@ text = "Pram boon"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UI_ikWDJHGQULUN_rCg4f_8UfyIZ8qi-bpQ3ytoqIeDa2HFF-aajtjfGNMaIo3EI"
+href = "urn:sha384:TKe_73KEmVGobWPVQS_Nhs1x5ndFkR4kL0i-l00bJH80ryt43vSI7Eep-vwHBgom"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -427,7 +430,10 @@ text = "pram pee"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6eYyJKgsxGg7jtkNGdok4lb6ReCECszgOXV3estI6LJ25ZznAUyTHuslafMuwOod"
+href = "urn:sha384:VYkIuFpMWG6WHbVEUtfqWXzHE7fXz3orkn87ZwNBSZpMEHCd1MmRI_N2dohjl7Af"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -464,7 +470,10 @@ text = "pram bai"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LiYd-NhvuFilG3zoOVjgWXczgaeLuBxHcYoIMutKmoOi7Au0Oaa871q5nQhE9sTe"
+href = "urn:sha384:NHysdZhJybC0aahntqcHwSbwo1g8I7DibOFnjDKR9ot9b1kPx6sOS7Jlf272zeNi"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -501,7 +510,10 @@ text = "mooy"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GjsGGubLDQuLzN1aL5k7Uxvx4q5ZPQRa2YxwhPM9x7_TRf53HBqWfSolwOEReghF"
+href = "urn:sha384:gSvylri5oxk1JiZVRB_RceUhyzxD0HF3pfMKJR1BcWYyJo7Y6mG6SJ3zG7tRKF-X"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -538,7 +550,10 @@ text = "pram bai"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vcYBkNnvj4UQuE_Rq_jgXibrs9oNY1r0g_xU9dxxshANPJ_eM4JW3RNZTM7EI-1T"
+href = "urn:sha384:XfLXf7-CN9Xzk7BD5VtjZHVFkqWFNdwI4TViKQ29sSVBk3axzfK4DiKKsBNWJK4B"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
