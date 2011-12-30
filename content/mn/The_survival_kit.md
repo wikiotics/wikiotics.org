@@ -9,28 +9,14 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn the bare minimum you should know before going to Mongolia."
+text = "Here are a few essential words and sentences you should know before going to Mongolia."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Let's aim for a few essential words and sentences:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UJ_S7qXwOaVDHafGgH-jkkuKgEbzP6Tx2qfj7VyAOCjiXmXjySQ2ld7N6Xtocppq"
+href = "urn:sha384:vNT7tOyph4ARDpP2KOJ2AHQaECW0H6KMPDx1m1G6oMGUfrjHZgQOJXQ118Alu18l"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -87,7 +73,10 @@ text = "Another more formal way to say hello is"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:T6Zf9tcz5ur7xf_-dZmV1LtspBa03vmui9RtSyTfglwD9ThBlm0jLzF4Le2Yj960"
+href = "urn:sha384:b9iP-TnwhcJxSexlZhCImXFW50LTKK6Dy1yGH2LN0auoE8mrBYcon9scrTAUGmYo"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
