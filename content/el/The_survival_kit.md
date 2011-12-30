@@ -13,7 +13,10 @@ text = "hello"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HKF4kovijDk_gaEp5p9DI7WI2BiDqIR2Mb2joHiCTcFutwArYpGEKyrlccWoXUwW"
+href = "urn:sha384:NoFT_pVxtzM0Ktgx8LowiYPAXV2waBrnAuWWcgfCaAnM1zlR3bR_IjW4N2C4mg3k"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -50,7 +53,10 @@ text = "This is the unformal singular version, which you can use with friends or
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:O8GZz1I0IRSJ7hds5b6uNIBflKw8U7nEPzofjP2z0SwWOzWouFTgacK1tw0BvvuU"
+href = "urn:sha384:n49FSSIv0bGhpC9FNyXRa8bvRe1LpgNNug4kwJ7DzYMtjjI29j4x_TWpOlNC6WvW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -67,7 +73,10 @@ text = "The formal version of hello would be"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pTho6SGdItLC5zaHND8YhH1gR45MiL6TyBw4a7NcqKF-a7kAsOhmr4HiNaJomfa6"
+href = "urn:sha384:8yOEPky8CT1WTBKgDPJ76LJwkcXCC9bgzzWWS21Zrit782QC9hdF77fiCCoM16Xm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -104,7 +113,10 @@ text = "yes"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HOa3l717nAIqscugRi_vwsKBnaTsNY4kH7eElpFR4ew5rCQw6t1EOLP8dBbyhVZI"
+href = "urn:sha384:YQHp2y9NvwkktLxmcwom0w7q06JLPN4sRVs0P7zuSDotScS8MFsMplloMLgkH1u_"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -141,7 +153,10 @@ text = "no"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:X7qFkTfTtJjvXgfbK50bnjc9h7MUKE2_rxFGKMYPCNzi3fuyU68Zbq9u6FMFwwB9"
+href = "urn:sha384:3kXx4upPnHKj6egyYpw0ep8TfJgBo2zEE-ptXcsK5bvb0kp8NWP63farMsgVsoLS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -178,7 +193,10 @@ text = "Please."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3anT1qb6GOkJzZluSbBj5uKZauWii6r3XZ1TbtQ54b-QH8WzZyqneRjYF8VR46Eg"
+href = "urn:sha384:qx37kjEzPFJ_q5gzMrB51PIPXAAnoCi2snsyuCjzNHobwGVwdZbz-3Ps-TfQHiYZ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -215,7 +233,10 @@ text = "thank you"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:aPzFzMO9j5F8vMmpCfa37QLh1B1_r4Qe5BfVY9R6sRdwFWpK5HS4_9TcSss8RfxV"
+href = "urn:sha384:OEIHDZzjNE7fOzm3qv23bA-bSRmEjZj6P3hwiMqAUDXkx0SXw7WliVI9brag4a9j"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -252,7 +273,10 @@ text = "you're welcome"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:v5eDDTM30p4yyMTwzOy6ICKDVMtEiJDJisSg_3vRIY3UL4sCwMrmBu4iChXqAz-Z"
+href = "urn:sha384:3wzkWrBYqwIusqfTN53okwQJ8PJx-vmETXSIW6PdYVrrfSRBQXLJfYn2G-DxDmr0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -289,7 +313,10 @@ text = "This is the same word as \"please\"."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xgWzUTrA6HegofSBKIgUoO7kZNWTo6u8JMOtSVTggb1NC-hlHpPg144bLvpsHRoD"
+href = "urn:sha384:E0cVoDzsSEm3CAyAQTezuEaIGReMzR1o8A0PaG1GF4Gkn0kgdetxdM9jLbUtKtax"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -306,7 +333,10 @@ text = "Help!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_S4lLG2NrbYSO3KhifWc_p8hm3pQ71XA6ZsoQrKnNZ7haMzPbqsfViJDVLWTmbzP"
+href = "urn:sha384:qsg4l_xCn0RKq0aN1l4qF5ZH9ENTp7YG2kR7B_A4dkjQYFcovz5BKJR90P2gIWQJ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -343,7 +373,10 @@ text = "Sorry"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7WrvW1Qod__F3fLiyloQqTfcFxbAhZLBbKgQzKGcwHBasaTlwe4NX3jwC6KGGl0q"
+href = "urn:sha384:jjNehGmapKM5ZwWy14ZSPozHbC0LOCLdMP6Qxu7Muwj5lrdqJU0KebH0DH_0lDAk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -380,7 +413,10 @@ text = "I would like to have a beer."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DC_AR9ylmv3JfCTot2HKBfqWUhem2ZdLmr0xCHYLF-uhTNVRl2GHNChDhRMvZZ46"
+href = "urn:sha384:yLo590dofkHQnuaozGiujszLiMiQP-3zM8QkhWRvF-EM9ciWrZ5GPu-WI8DGFSSh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -417,7 +453,10 @@ text = "I'm feeling sick."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qZC-a5q4or6ifFnPtUs8KeLDY3KZlA40AekEsO7I9XDu7RMYGC3El4yYwnwnbxzS"
+href = "urn:sha384:z3hOrMLbUkRJTlwXHpx1LFliqvJZq0654Prirh46cvy5MNuf4Rhq4JrvdmNTzTdv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -454,7 +493,10 @@ text = "Good morning."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xTdT2M_Ie2Ns0pKyi1ttJ_R-jLSjRRyMilrDCQCJpeQhW6utds1wsHSk9BDFQRD2"
+href = "urn:sha384:t1ftqhxin--jOWdqY5hkt4InYvbUKdmK3NueTMPzizP_dMfHplbrh-SsuQsE08sf"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -487,11 +529,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "goodevening"
+text = "good evening"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:SIc7eWPlZV-15bN0MOBGyipk3ypKoBKUY4UssfCyGRKIqf-kuiIgCBOUoWrQYvY5"
+href = "urn:sha384:Mlf5iQMf_EF7i8oB-54W28E2kE5_dlLrBYz-ICZ3cWTvEDvx0DZNWncCpOHlQyZE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -528,7 +573,10 @@ text = "Good night"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:u9xaAtHa_t3vmDugu3BUi6VqI3DWA8RkwnG7wyBsXu4BfV4ngEZisPXNyrmE2wrp"
+href = "urn:sha384:aEwr4QtsYMEvhW4vBaSC1VXLUqbC46B_hdsv01TO_Q6OxCz4fFDG523CjfUK7FbC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -565,7 +613,10 @@ text = "Cheers!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TntxvnJwXbSafEdebfbiwqT71yeVqcsjYqe9Co7h_x1OxdTphvJOha11xtGQON-0"
+href = "urn:sha384:Hb7hRLqFhova7AjwmZ0XI83-3d148q_OvtqFTG_m-0zTbvrl09tywMzkMbbA9q_z"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -602,7 +653,10 @@ text = "a simpler version is "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:mwhAo-CPrIs7E9rS70zpNS-nvUZWUXVI7TR-QUlpHQEyOwwm4cA0kW0fwXtMbTbO"
+href = "urn:sha384:ss46ty7z7Yt362x_nPS5A_7CNiCi7w5LLqI66njA75YAKj2mg3mqX3SKaBrFqnxH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
