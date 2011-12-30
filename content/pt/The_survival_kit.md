@@ -84,7 +84,10 @@ text = "Sim"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zASpma50eAHCnz7giUBkntf1qwAQmDlbbE1-WtYQIQGTEDtGYxeyvYXdZ0sjjivJ"
+href = "urn:sha384:yosARbwrxea7BBj7hhAjrls6xhCzesIz_0X2qT3J0T49UGKRH2ACx2L4q8W5ECat"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pt"
@@ -121,7 +124,10 @@ text = "Não"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9E-sJJSpyasoBcK4c2igVE1Eqfssr8YR6uoOXon6wm47ZBIl5sZ5t23yZuqQkV2c"
+href = "urn:sha384:6TZo4pMFfjkdlnFvwlovJV_feLh7xi-b32e0XP79799_Yb1SjYV4C_icUjh1K_Im"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pt"
@@ -158,7 +164,10 @@ text = "Desculpa"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xBC79FzRve91r-ARjEnxLwKzT8P1GB_wjrcTgMlOIHis9nNBMB37Xg8Nnk2EJWz8"
+href = "urn:sha384:r_Je3gATdjyw6qlV04-WIxqPzIEuaVx2h7n2uq3UbzJ43DpyVrsbegIpQPCzZQ4z"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pt"
@@ -195,7 +204,10 @@ text = "Obrigado"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DWacq8AhCbzzVdL2dE6v2_05tunOD0-fF0X0CTnu_GJWxw0dyn2sW6L8eSDv748w"
+href = "urn:sha384:HSE9Xv9NQah03SuqZns5zk2TKaOlTVQ4cWK2kfCppC2wNBHLXlaQ6avJlZzh_PBu"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pt"
@@ -229,7 +241,10 @@ text = "Obrigada"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VJt574eLy-froUO0Zk4N0eM-ETlgv9btpEibmNH60PiHVjFQQhcL6aOursRkBBTn"
+href = "urn:sha384:S4YC8Bh5ywMBHXX9AYX8l17L_q2pUhph_S7iWOzAYcYLypYbe3WT_Byu1xonW6f1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pt"
@@ -266,7 +281,10 @@ text = "De nada"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gOIzgIwZMC6WF-CsjyQqOAAWrEX5xNwYr2Gdp5uhvKUYgtKgJK5-KUUUa5zydesy"
+href = "urn:sha384:UI6YzSWFiNOZ7xGqHFeSnDt9lJN_Eonz8nQSLSBCGn7e1La0lMUGXtJ2GOmQ23KX"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pt"
@@ -303,7 +321,10 @@ text = "Não entendo"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vl97NeGIzfxApGEQJYGvKNkDRiFx7HCnMs1G62vUFCMQos_J8x82G_6VlzMhBkmj"
+href = "urn:sha384:pcmyaVrCSnAj0S7Jx280a0LcJ0OOCRY3yYIAd9G__7L24rHQlcdAMS_2w-CU0ASZ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pt"
@@ -340,7 +361,10 @@ text = "Pode repetir?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:o1n35-DJ0JzLllp8JVsJFy5XSSl5Sf2wg_CA55ZafryfND_0M490UyYogWDhAEDf"
+href = "urn:sha384:Nah5iXnz0f2ELA0mWV5UOJ_w9Mvy2loDT-btkeJgieP8RBkcWL-7oLy749v0k7UP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pt"
@@ -377,7 +401,10 @@ text = "Por favor"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vXvWt155ng3N3qYakfrlsjh7NLwh57H-LvLZxb3uaZIsGREueeTtDKLKaeyS24c3"
+href = "urn:sha384:SV0xjEbyHaih7Q52Fr1qtN9I5ItJvjWd3wTuXUWxXwBlyM5A4Zu5EyrFeH3a6esR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pt"
@@ -414,7 +441,10 @@ text = "Quanto custa este?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:eVFboUzr5jct49eaBNbHn66LByW9tN4t85daDk9HCP2Yze6cBMA31m_i5nMc3XT5"
+href = "urn:sha384:Wmve3QQe-z5jk_dVrzzhlTPf0qYw0VFTmpxx8Mpc-3r8rj-ECFO6TZmFRKHhFFWa"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pt"
@@ -471,7 +501,10 @@ text = "Ate logo."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ad18I_c6x5iqZBx_Ywpk_d2E3Un1jqenkDhElnfxFvx9qM0KglqqCiSvljMFH89O"
+href = "urn:sha384:GDSPGaUlpfY5rjJlfSddfp5PBPfJ69_2V76W0NJ69Gu0UgrngC_508dps0wu82zD"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pt"
