@@ -191,6 +191,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "To apologise, for instance if you bump into someone:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "죄송합니다."
 type = "phrase"
 
@@ -310,6 +327,23 @@ type = "empty"
 
 [[cards.sides]]
 text = "ko"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "or to make it a lot simpler, just say:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
 type = "phrase"
 
 [[cards.sides]]
