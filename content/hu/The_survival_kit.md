@@ -549,7 +549,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Harem"
+text = "Harom"
 type = "phrase"
 
 [[cards.sides]]
@@ -652,6 +652,40 @@ type = "phrase"
 
 [[cards.sides]]
 text = "Hat"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "hu"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Seven"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Het"
 type = "phrase"
 
 [[cards.sides]]
