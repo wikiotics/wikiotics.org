@@ -43,43 +43,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Start by saying hello"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:g6gr7MB4P9DT7kzMOZnLkF0eXbhfkO0oWiyavQU2XKdnygak-kC7YXtYAZ9S6atk"
-href = "urn:sha384:PaXn6X8tEiSdQQ-d7KU7pE-22wdlTbthmBRQjR6RoHuBkHiKTKEzmuhbeNjGrO5M"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Szia"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "hu"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Here's how you say \"yes\""
 type = "phrase"
 
