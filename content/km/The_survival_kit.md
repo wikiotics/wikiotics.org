@@ -67,7 +67,10 @@ text = "សួរស្តី"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GUGlvBIMaBX2kZX8kYR6UOpk9l-22RkAuPm5WhWUQ4ifyW0AtSpnR8NoumdOaxLE"
+href = "urn:sha384:BsvD7sfvEZwetDJGmeQ_v37bEgG86BmaGC7PqmeO5KD0VTJep1T7J9_YK8NvO8yV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -104,7 +107,10 @@ text = "jaa"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7PH-Xh4jXyp4S-DgYN1F47YvCuQew8KYvpxNN5QbaK8NxoJJ83Nf2ws1ba6Y334U"
+href = "urn:sha384:dKKRN7Cb6MMj2pLHopq9rrSaXp2ag_3TZMqNvcLz1E_D-RTNJZ1RuSBprsJAzmfe"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -175,7 +181,10 @@ text = "ot tay"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_a4D6HQQF_V-2Mhf8Adw3miZoHBITy32RUBLFy5yBUXSRHiTJUN9A44iOCVgMDhr"
+href = "urn:sha384:vm_B-zcJM3ykNm9sv4I3ykVvmuICWAGBfk2yZyaFYxKSahxlr8HwEFEZDWp-K8fn"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -212,7 +221,10 @@ text = "som toh - សូមទោស"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8sLwLc6JF-MJgOWjZ-EOLgchCRcvPX21YEky4m8PpJ3om3NP9beZar02g-E-14rh"
+href = "urn:sha384:tWmjXMzNcqU1vzTtRV1E0_PE74VZFak_7Q9RBx-Alj9FrPRlTjcM_Yx5ooVF06ut"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -249,7 +261,10 @@ text = "aw kunh"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iUafwuzmeh0KIQs25xuXQxOu1bEjmhUnx3jXEyTJrgh60NOpji-Vo0A6kwwL9tlb"
+href = "urn:sha384:oEqWSP8NjoOO9-YXKGGTQJVqSRDQQCsSHSN245jGt6MmRgef4YCfTITLgycOl14Q"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -417,7 +432,10 @@ text = "តើវាថ្លាប៉ុន្មាន"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4m48Ve-gC41l3763JN5jHIh8db1D7-Xpu-Zh9eYeU2fzOAWn5hlkIs74ERs8yrqS"
+href = "urn:sha384:thNU-JIjvExjbc680rWPsEaikVM87h6Zc0PWsJ1higCItvKpjkJgAcLCCBW1STv5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
