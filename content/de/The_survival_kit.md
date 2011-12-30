@@ -9,11 +9,14 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn the bare minimum you should know before going to a German speaking country or region."
+text = "In this lesson, we'll learn the bare minimum you should know before going to a German speaking country."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hvuxT7ygkH9uDxvrB3bIR2KgxSav1mskiaEkO9LE1HzeKAk2MyKzjlCXeyIeJkPu"
+href = "urn:sha384:sCXnT7aB9HIa2oKNuCfYmJzFicJGzsBNdUKkqTuYA8g7YlZrEOe07re9sk6mRQ6z"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -30,7 +33,10 @@ text = "Let's aim for a few essential words and sentences:"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8907rVqH7BNRDLjTvAtwlB3NGDnf0QrZZ5klWfEVAZsaOQ9Q10JfYhuIFWCNPibZ"
+href = "urn:sha384:rfAoS404F2n7iRxoRIcw0PZHdWV5c28iBe3F71wn2PGY0bkUMHk6i2r62KZnaU8O"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
