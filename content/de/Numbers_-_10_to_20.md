@@ -9,7 +9,7 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "Like in english, numbers between 10 and 20 have irregular forms."
+text = "Like in english, the numbers 11 and 12 have irregular forms."
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Numbers higher than 21 then follow more regular and easier rules."
+text = "Numbers higher than 12 then follow more regular and easier rules."
 type = "phrase"
 
 [[cards.sides]]
@@ -60,7 +60,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "11 - onze"
+text = "11 - elf"
 type = "phrase"
 
 [[cards.sides]]
@@ -77,7 +77,24 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "12 - douze"
+text = "12 - zwölf"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Watch out for those dots! They turn a vowel into an \"Umlaut\", which sounds a bit weird to ears not used to it. Make an effort to copy it from the speech announcement (soon to follow), as for ears used to it, it sounds weird when it's missing."
 type = "phrase"
 
 [[cards.sides]]
