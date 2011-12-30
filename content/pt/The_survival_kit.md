@@ -63,7 +63,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Sí"
+text = "Sim"
 type = "phrase"
 
 [[cards.sides]]
@@ -100,7 +100,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "No"
+text = "Naõ"
 type = "phrase"
 
 [[cards.sides]]
@@ -137,7 +137,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Perdón"
+text = "Disculpa"
 type = "phrase"
 
 [[cards.sides]]
@@ -154,7 +154,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "To say thank you, say:"
+text = "To say thank you, if you're a man:"
 type = "phrase"
 
 [[cards.sides]]
@@ -174,7 +174,41 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Gracias"
+text = "Obrigado"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "pt"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "and if you're a woman"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Obrigada"
 type = "phrase"
 
 [[cards.sides]]
@@ -248,7 +282,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "No entiendo"
+text = "Naõ entendo"
 type = "phrase"
 
 [[cards.sides]]
@@ -285,7 +319,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "¿Puede repetir?"
+text = "Pode repetir?"
 type = "phrase"
 
 [[cards.sides]]
@@ -359,7 +393,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "¿Cuánto cuesta esto?"
+text = "Quanto custa este?"
 type = "phrase"
 
 [[cards.sides]]
@@ -416,7 +450,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Adiós"
+text = "Ate logo."
 type = "phrase"
 
 [[cards.sides]]
