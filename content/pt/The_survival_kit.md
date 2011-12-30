@@ -117,7 +117,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Naõ"
+text = "Não"
 type = "phrase"
 
 [[cards.sides]]
@@ -154,7 +154,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Disculpa"
+text = "Desculpa"
 type = "phrase"
 
 [[cards.sides]]
@@ -299,7 +299,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Naõ entendo"
+text = "Não entendo"
 type = "phrase"
 
 [[cards.sides]]
