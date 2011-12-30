@@ -255,7 +255,10 @@ text = "Obviously, and to maintain the fun, there are also a few ways to say goo
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:exN-A6J3kt7Kd2FG-zsP4v-5F8ILSnZ53Ua_gx7iklcbHanaqyopcy-7Qst26b3N"
+href = "urn:sha384:6_t-0p2_pOh6Ncu6V5cQt4tTKJoNfv_BdtqdSltor6if_yLUAY4g0HpxukORwAlv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -272,7 +275,10 @@ text = "Here is a simple unformal goodbye:"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:a7rZoX7zUfZO__FxTLffofz1g1NnJFkeAsWC84klYmEznpjr3pbzQcIyko0miN1S"
+href = "urn:sha384:-z3tPmxJav8KuTjcoKdoCnOd1f32l8bqWD3YjrGcfzOpX253ddziaRJ1Qh_UGsFG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -306,7 +312,10 @@ text = "And a more formal way to wish goodbye, or when speaking to multiple peop
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LwXKngmN9h-Lt14G8KKSVvYMigMEeWEelZ0SENL2pAo6tPrrRRtrX4i0OP9-XAwx"
+href = "urn:sha384:Sb--RJlul0YXyLEu-IW89qY_MHPsM02yJHyMl6VfcCUb9I0wwBPDT9CWnC5dT9Kx"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -340,7 +349,10 @@ text = "If you want to ask how someone is doing, unformally:"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Dq80VK05dwDl1P1721dy6CRGFNeYIlWZgNxTNWxW0QUd06ETDCS_wTjvcjCOSAHS"
+href = "urn:sha384:X_i9N26Y1ZZj20dxSIQE_5oqTz0uw3f_9tgzNxBQvV2IIK9gaU6pljPy1xFS3eX5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -374,7 +386,10 @@ text = "The formal version is only a syllable longer."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IVDRFGkFd2hw-qIlcWUy6vJFeaioy6jBkqE_5Ex69XpxSQrtGxXdZ-pOEFSJBybb"
+href = "urn:sha384:Ua7_zu60ZpXrFsQ0ey4eNCF9ei-G2_JVARkvYFJzaR0cg_Qlvcd2eSjO_vTZw3oe"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -408,7 +423,10 @@ text = "The last one can also be used if you're talking to several people."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gl8eqiOaatNHzIEBs1TAkMvCZd1lksDuEu3H-hGm1GV0IAFoQQ85R1lOiD00Ms9C"
+href = "urn:sha384:YFeOVLR7zqWaqx1eACRhnSyP6rscGASRpWIP8uB3Os0Gyvm_iV7xVKvHKL_IxPuo"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -425,7 +443,10 @@ text = "You can say you are fine with:"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FNdF09r2pt9b48ogRQq8Yh-fg1RqJh3nEvkEncHnsY0h3W0q2J4BPhOttdCQaIYP"
+href = "urn:sha384:Ia5_4rMwbN1JO8mKR2fi18V-UNU5yR6VwL_2WHHSr-ztukVAz4LiRD8dVcuJmVUy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -459,10 +480,50 @@ text = "which literally means \"I'm fine, thank you\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_PZVMfhacPDQFeKU5qTgb5C0hHMhgE0M7hlKiZmjy8xPg6PSFyv73nywmDFYxYYK"
+href = "urn:sha384:Bo69HaD0ANKYrXx-n648ic_n9iaGRIe5A_cUPuAyeySASyVbtr6lBusWBVyUcP9i"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This will invariably be followed by something like \"and you?\""
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:8MQWFk0Y0_LZ2x33u27EuWueVDNq3l0A4r5Mm8uadnmnaEOlhE0mqmhyU237Zqqm"
+href = "urn:sha384:Gc5OBFsssjExxZdgyDG30lSj_Mn2rYELMKkr7fawyNxYmvph6uE6AOcen1ZYoVy_"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ya siz"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "tr"
 type = "phrase"
 
 [[cards.sides]]
