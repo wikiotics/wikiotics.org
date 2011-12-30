@@ -63,7 +63,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour"
+text = "DZIEŃ DOBRY"
 type = "phrase"
 
 [[cards.sides]]
@@ -100,7 +100,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "oui"
+text = "Tak"
 type = "phrase"
 
 [[cards.sides]]
@@ -137,7 +137,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "non"
+text = "Nie"
 type = "phrase"
 
 [[cards.sides]]
@@ -174,7 +174,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excusez-moi!"
+text = "Przepraszam."
 type = "phrase"
 
 [[cards.sides]]
@@ -211,7 +211,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Merci."
+text = "Dziękuję"
 type = "phrase"
 
 [[cards.sides]]
@@ -248,7 +248,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "De rien."
+text = "Nic"
 type = "phrase"
 
 [[cards.sides]]
@@ -285,7 +285,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Je ne comprends pas."
+text = "Nie rozumiem."
 type = "phrase"
 
 [[cards.sides]]
@@ -322,7 +322,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pouvez-vous répeter?"
+text = "Czy możesz powtórzyć?"
 type = "phrase"
 
 [[cards.sides]]
@@ -359,7 +359,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "S'il vous plait"
+text = "Bardzo proszę."
 type = "phrase"
 
 [[cards.sides]]
@@ -396,7 +396,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Combien ça coûte?"
+text = "Ile to kosztuje?"
 type = "phrase"
 
 [[cards.sides]]
@@ -453,7 +453,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = "Do widzenia."
 type = "phrase"
 
 [[cards.sides]]
