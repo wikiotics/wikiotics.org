@@ -322,7 +322,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "??"
+text = "tekrar konid (تکرار کنید)"
 type = "phrase"
 
 [[cards.sides]]
