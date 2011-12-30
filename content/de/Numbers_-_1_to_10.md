@@ -293,7 +293,10 @@ text = "Note that for counting things, 1 changes according to the word's gender:
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YTqCWejTHHqApNJG1QZtEDsfqkmpPukWdHqr8VdFJtTz8UD8y3Uk_e0j9p0Bn4k9"
+href = "urn:sha384:GjjkV0HosyHLDCp2vkUImLG2lseQM1zxX-xFBwElTETF1s1LIl530loxCLKoozV8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
