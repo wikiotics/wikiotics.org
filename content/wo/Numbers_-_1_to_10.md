@@ -49,23 +49,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "един, една "
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "As a bonus, we'll give you zero:"
 type = "phrase"
 
