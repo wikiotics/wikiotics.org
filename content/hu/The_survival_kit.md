@@ -767,6 +767,40 @@ type = "phrase"
 text = ""
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Ten"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tiz"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "hu"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[interactions]]
 audio = 1
 transcript = 0
