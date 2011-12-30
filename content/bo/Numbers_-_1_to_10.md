@@ -49,7 +49,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "1 - un"
+text = "1 - chig"
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "2 - deux"
+text = "2 - nyi"
 type = "phrase"
 
 [[cards.sides]]
@@ -89,7 +89,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "3 - trois"
+text = "3 - sum"
 type = "phrase"
 
 [[cards.sides]]
@@ -109,7 +109,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "4 - quatre"
+text = "4 - zhi"
 type = "phrase"
 
 [[cards.sides]]
@@ -129,7 +129,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "5 - cinq"
+text = "5 - nga"
 type = "phrase"
 
 [[cards.sides]]
@@ -149,7 +149,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "6 - six"
+text = "6 - dug"
 type = "phrase"
 
 [[cards.sides]]
@@ -169,7 +169,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "7 - sept"
+text = "7 - dun"
 type = "phrase"
 
 [[cards.sides]]
@@ -189,7 +189,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "8 - huit"
+text = "8 - gyed"
 type = "phrase"
 
 [[cards.sides]]
@@ -209,7 +209,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "9 - neuf"
+text = "9 - gu"
 type = "phrase"
 
 [[cards.sides]]
@@ -229,7 +229,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "10 - dix"
+text = "10 - chu"
 type = "phrase"
 
 [[cards.sides]]
@@ -269,7 +269,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "0 - zéro"
+text = "0 - laykor"
 type = "phrase"
 
 [[cards.sides]]
@@ -306,7 +306,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "1 - une"
+text = "1 - chig"
 type = "phrase"
 
 [[cards.sides]]
@@ -343,7 +343,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "deux"
+text = "nyi"
 type = "phrase"
 
 [[cards.sides]]
@@ -383,7 +383,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "cinq"
+text = "nga"
 type = "phrase"
 
 [[cards.sides]]
@@ -423,7 +423,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "neuf"
+text = "gu"
 type = "phrase"
 
 [[cards.sides]]
@@ -463,7 +463,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "trois - quatre"
+text = "sum zhi"
 type = "phrase"
 
 [[cards.sides]]
@@ -500,7 +500,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "sept"
+text = "dun"
 type = "phrase"
 
 [[cards.sides]]
@@ -540,7 +540,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "huit"
+text = "gyed"
 type = "phrase"
 
 [[cards.sides]]
@@ -560,7 +560,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "What is one in french? Say both masculin and feminin forms."
+text = "What is one in Tibetan? Say both masculin and feminin forms."
 type = "phrase"
 
 [[cards.sides]]
@@ -580,7 +580,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Un - une"
+text = "chig"
 type = "phrase"
 
 [[cards.sides]]
@@ -617,7 +617,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "huit"
+text = "gyed"
 type = "phrase"
 
 [[cards.sides]]
@@ -657,7 +657,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "un deux trois quatre cinq"
+text = "chig nyi sum zhi nga"
 type = "phrase"
 
 [[cards.sides]]
@@ -694,7 +694,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "six sept huit neuf dix"
+text = "dug dun gyed gu chu"
 type = "phrase"
 
 [[cards.sides]]
