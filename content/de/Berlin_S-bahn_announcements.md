@@ -133,7 +133,10 @@ text = "Nächste Station"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:B_SdZBRykBiS7puLQjL6poW96yvNKdowlnuIe4ByvYV1Krd93rw4k5IGO5O-0-2b"
+href = "urn:sha384:GmnGpQWXd29OET9bAZmXEsPgEamaXQkdkS_nrUAnmFsnGsK40Eb3dD1JsBMsALGn"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
