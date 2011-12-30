@@ -63,7 +63,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour"
+text = "Guten tag"
 type = "phrase"
 
 [[cards.sides]]
@@ -100,7 +100,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "oui"
+text = "ja"
 type = "phrase"
 
 [[cards.sides]]
@@ -137,11 +137,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "non"
+text = "nein"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7kLMOstl_1v-dny0caxguyasOf2wQTwZ91a_LKZPngiZea5GV0JO4g0jUKjkMG2H"
+href = "urn:sha384:Ni2kbccE75GL35n-tRAQN15nsNKp2TWtnQeZKhny2-8UZXr5stn-7qLzPca-0VOT"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -174,11 +177,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excusez-moi!"
+text = "Entschuldigen sie bitte"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GI4TnrdNRALWIqZBetoPc4x3ayytBXofzxnf6fBJdDzy4dbFG3-NTVAOyJON7B5J"
+href = "urn:sha384:I54Yc4fXfCseBXf19e3dQiMJ_2SySXngwPndTWX-E5Q2Jz84Qxt6ii_SEruFHI21"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -211,7 +217,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Merci."
+text = "Danke"
 type = "phrase"
 
 [[cards.sides]]
@@ -248,7 +254,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "De rien."
+text = "-"
 type = "phrase"
 
 [[cards.sides]]
@@ -285,7 +291,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Je ne comprends pas."
+text = "Ich verstehe nicht"
 type = "phrase"
 
 [[cards.sides]]
@@ -322,23 +328,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pouvez-vous répeter?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "de"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Make sure you add a \"please\" wherever needed"
 type = "phrase"
 
@@ -359,7 +348,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "S'il vous plait"
+text = "Bitte"
 type = "phrase"
 
 [[cards.sides]]
@@ -396,7 +385,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Combien ça coûte?"
+text = "Was kostet das"
 type = "phrase"
 
 [[cards.sides]]
@@ -453,11 +442,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = "Auf wiedersehen"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hAu3ceiI4PwXm6jXfx2JKelO5IWejbIk_Tmr51_kbvZVGYLPgN2O9d_I2ckI-7dB"
+href = "urn:sha384:Vzc2oxPpndV9iBiiS30qeOdroRPPZPrTW8mb5_JcjGztCAlekwhHExbbiIv6ipeq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
