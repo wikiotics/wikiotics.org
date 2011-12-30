@@ -77,7 +77,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Note that in French, you don't ask \"what time is it?\" but \"How much watch is it?\" (See also: Casablanca)"
+text = "Note that in German, you don't ask \"what time is it?\" but literally \"how much watch is it?\" (as can be seen in Casablanca)"
 type = "phrase"
 
 [[cards.sides]]
