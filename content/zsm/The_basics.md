@@ -13,7 +13,10 @@ text = "The first thing I'm going to say is \"how are you?\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gerj-x-jIQwTpFdEEk5GeRyNcdY6EJma-j0KbBWAudsnEmuNc0CEBacK_QwW_jin"
+href = "urn:sha384:tYQn1EjijY2Vxx8oT_kEX0oZklO7PclbwrHNaghbvRYzWCnnC-OdSoMVu5siLJjC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -87,7 +90,10 @@ text = "The next thing I'm going to say is \"I'm fine\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_5mdAioifaEB14e39oBInUkOqk0v47RVZXkm442WDVHroozQ5iuc6r6nvxCRsMbL"
+href = "urn:sha384:zE4bq8b8_xHVLXojobvj3s_xWssWGPfBPUWZCJmc79opvh0L_mw8HpsefqcboVw-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -124,7 +130,10 @@ text = "The next thing I'm going to say is \"I'm sorry\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Tqj1b8-1iDfQTzXHMaxjJ2LlJBwiHaxsWAya-rXMhljtU1vdjQni_7bUK-q1OC8R"
+href = "urn:sha384:GC2KCMb5QOOJm9ipK93da_CuGVdi3wv3aA8Y0xe7iDiJ73AEtmG1L01dY0XXtt4m"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -181,7 +190,10 @@ text = "Thank you"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:g7RSgSt5wNUAapTxRlzEef4pl118fF_2nVCynjroAgOlcXjWkUFd5fFP3aBVV-JC"
+href = "urn:sha384:JxKQKfGmvYSnOT94yDtkzEDLn0YcJUutWCVsq5q9o_nByHbx5ifGBLf6FfmLpjEW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -218,7 +230,10 @@ text = "The next thing I'm going to say is"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:CL8eWDM0SiTHQJu6LRlh0_Bu1UALKDvchAEp6Phu5nEGePKr9S9j7Dfs_TScocqy"
+href = "urn:sha384:Mgxy7jLISO_g_KvLk9FpKSv7FL7bcREoA4jyeSUSc9l8AtpcWrECUcQ1axyam87q"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -235,7 +250,10 @@ text = "You're welcome."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:NKZnLtKW68yOhUGm3OZTLb-8vL5IOcLdE747U_0FJtiw10W4N_DxilCKvEtVAGU7"
+href = "urn:sha384:B8JqwvTj1qyT_hQSiJUOVAMIQBnYD8rsygaYovRI7j0kIR79_DIsaaCxjT3xHrgm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -332,7 +350,10 @@ text = "where are you going?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pmkr_ax_mIupFDCuBGQwcZh58eg_GgM3Y7hgC3vHV-xqw87dY1NdRDZk-0WNrS3r"
+href = "urn:sha384:udOAjqG7TmZsIp4hueMxhbEoD_Of0-Ph7Jldsekr40GPmqfBNMw_4X1ojuh8Leha"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
