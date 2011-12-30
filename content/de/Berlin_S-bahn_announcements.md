@@ -193,7 +193,10 @@ text = "Übergang zur U-Bahn Linie 8"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:MIbtW69i1eZIzQ26yXsNc7bxPlQRRgi0FtLwt9AVWsf9f1mB7ea4u_hndcAKmUfB"
+href = "urn:sha384:A3sKpMxKjHR6x6dPeAfTxrmmi_oaGdZx--yjlEmEAxpN7Va8SHqi2BvLDwV_2-ax"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -230,7 +233,10 @@ text = "Übergang"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YMi9JuYbRrCpDVr88TkvJYioG7TjZIdwM8W9N4dnfUPLc017mhhWy7-hhCThE6ph"
+href = "urn:sha384:TADvP_FVFw2pBDlQug5JrX3_jfus-yfbZQw-s0YjsuWE5tK-m8MEpSNB6kLwQ-bt"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -267,7 +273,10 @@ text = "U-Bahn"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:G5Ic4Xxlra7NpsllOOQhqwMnRVP7w4tfkQ-j6GKqI8LOahGF0c4ZKPsCeYpopebe"
+href = "urn:sha384:T4ifLOnZ7bCiWXdcniys63zJC0PcYY5w8dXy3o8CO0AKUXkx-y7jOCzRQyxYC-jb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -304,7 +313,10 @@ text = "Linie 8"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ld4Tofy6XzZrtf4Vlng4OwBnNyGR9mPefJOvXz8wJHvbwSdHSsFc8obZqo7zHRJF"
+href = "urn:sha384:jycqRxmlp745FDpmUGNmyU83bSqHLlo6pbYLcKS5Lwipy0dRPqZPGHed9_YfGc2k"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -381,7 +393,10 @@ text = "Ausstieg"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ZS9D6J7Xwy6eOlF9kQdE4lslauuUNlLvhGTrUAM1i1323ybm3iEj_uf3Ad7mEPVt"
+href = "urn:sha384:JFyDRKIZDrVYVodl_FjEhhpDKN0D3je1N-lLpBh0Gt0hd8u1IIFzH4-xfqapeR5G"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -418,7 +433,10 @@ text = "links"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:u59CN8lJa5RPsUMavId-ScnmNSqIzuhOGinZTrzUSgZWI1HacfA9ncRV_lZzUll1"
+href = "urn:sha384:WhY91tBfxeBzKhtAz-4Mv2CSshVRtmmTWrNMcNT6YXM5YzLvgZleFOicLj-4Y5IO"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
