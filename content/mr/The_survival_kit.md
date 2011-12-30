@@ -63,7 +63,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Namaste"
+text = "Namaskar"
 type = "phrase"
 
 [[cards.sides]]
@@ -100,7 +100,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Haan / Bilkul"
+text = "ho"
 type = "phrase"
 
 [[cards.sides]]
@@ -137,7 +137,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Nahi"
+text = "Naahi"
 type = "phrase"
 
 [[cards.sides]]
@@ -174,7 +174,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Mafkijiye"
+text = "shama kara"
 type = "phrase"
 
 [[cards.sides]]
@@ -211,7 +211,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Shuriya"
+text = "Abhari aahota"
 type = "phrase"
 
 [[cards.sides]]
@@ -248,7 +248,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Aap ka Swagat hey."
+text = "Aapala swagat ahe."
 type = "phrase"
 
 [[cards.sides]]
@@ -285,7 +285,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Mujhe Samaj Nahi Aaya"
+text = "ma la samagala nahi"
 type = "phrase"
 
 [[cards.sides]]
@@ -322,7 +322,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Kya aap doharayenge."
+text = "parat sanga"
 type = "phrase"
 
 [[cards.sides]]
@@ -396,7 +396,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "aye kitane ka hey"
+text = "kitila ahe"
 type = "phrase"
 
 [[cards.sides]]
@@ -453,7 +453,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "alvida"
+text = "nighato"
 type = "phrase"
 
 [[cards.sides]]
