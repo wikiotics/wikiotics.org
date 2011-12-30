@@ -444,6 +444,57 @@ type = "phrase"
 text = ""
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Let's count to ten."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "One"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Edgy"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "hu"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[interactions]]
 audio = 1
 transcript = 0
