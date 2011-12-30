@@ -9,7 +9,24 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn the bare minimum you should know before going to a Spanish speaking country or region."
+text = "In this lesson, we'll learn the bare minimum you should know before going to a Portuguese speaking country."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Beware that accents and uses vary quite widely between Brasil, Portugal and African versions of the language."
 type = "phrase"
 
 [[cards.sides]]
