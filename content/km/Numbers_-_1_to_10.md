@@ -53,7 +53,10 @@ text = "1 - ១ - Mooy"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jzWyg9rGi1PUqqyypKY5TLeJT934JjUn8mL38jBCpzBnUFhWOJ5ojC6_KFX-iX98"
+href = "urn:sha384:ItogzIha0sVu-BE98QbxPb0ue8FrbH5aNZ7HHMuEjCclcfl-FF5utFOzEmYrcXO2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -70,7 +73,10 @@ text = "2 - ២ - Pee"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DqXW9fAMd8rgIvoeSDInnUXJNLxAfsNIpv4prkNqS3tR5rS5PCPq_GOMuif8YX4P"
+href = "urn:sha384:RTBqCjwLQs0qAI0gQ_hB71Yw1i2PpghD8m_QYC-vJ6www9utDRqjBkMnQ0ShlgTR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -87,7 +93,10 @@ text = "3 - ៣ - Bai"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rNOYwqNIYEmCOtpqLgICxjvPxO9HkcvJ5pShVXjvHJXnzPy65vVyA5rlj4judLiv"
+href = "urn:sha384:7iRir1zWJ5rhgaDFbfrwbdh8F24f7YJ2j290AIwc8-0YjYTw0LqJguV1jy0KonE5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -104,7 +113,10 @@ text = "4 - ៤ - Boon"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:V9II9UKprCpujZApvAYurhlmB6R9JZQFVDP6Ihv3HFFZvhVL_9HMhWlhVFk-O4dU"
+href = "urn:sha384:V5J2LvSL6uJ3KkF0TROYtOLyjJR_0y-q4U7E5q794gTN9s2NnPwbB9qqzY4X8oXt"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -121,7 +133,10 @@ text = "5 - ៥ - Pram"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:h2LyKXvpYrTV2_G87CBfi_uhzYe2lF7AY_DXnSHf0dtpA4yOtZ8juHTPgdjOs7a5"
+href = "urn:sha384:YFJt6vHb5opGe7uaW8ZuhsZvYpsm1yQYbZuLe7ZwUe49BZFZey4oEnbjb7mgjuhY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -138,7 +153,10 @@ text = "6 - ៦ - Pram mooy"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:i3ywsyXH8T1drzVGDV6myKKbtZ7s9IpYFxVmTIb_NYuU1BRSRDD1wA9nhOBhMS5M"
+href = "urn:sha384:zjKKPgPvIJLT_l4H8ZRriu4hrAyAqaJ3BBnVfmGqN3gPiHKgDgU09SURBqRkBtiY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -155,7 +173,10 @@ text = "7 - ៧ - Pram pee"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yXpfoXZkTMNC3MM97LOIX0p6HNZF89KQR4grINR52vnuJudtVFEqdAsSVaoMYJ_Z"
+href = "urn:sha384:mPr59suYqx0JXScEfx_TUy7IPEPYXG9vhVm_XBnEtx6spoTmJJ_27eqxMu2ZJ7z8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -172,7 +193,10 @@ text = "8 - ៨ - Pram bai"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8PCDmO_tr6g1i_rAbPig21-lgoyddhBYMqs6AgYt-dwtLuarf5U_3yXtkdnt_uHL"
+href = "urn:sha384:fqO2jSq2TcQXZXKyc4G5m1g9qYeXOUBxC3BaQDeH68QSZl7SMBB7nC5iCJflrFyS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -189,7 +213,10 @@ text = "9 - ៩ - Pram boon"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rbfYI_w44LruIWMRHa3taI3-BGtnx5ZMt2YqkEb19-Pt9s5BLM5cJgARydfc8puP"
+href = "urn:sha384:DGjYzN0B4U3KplTzJssf7puB-7YIsCkh6f49vCT15ZTIj1csyIXyvG1GlRjviNlZ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -206,7 +233,10 @@ text = "10 - ១០ - dop"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Qg47hmDegI0bx9n0aXvog9vR_9X2dBCita-6GMBojPofazFV_9S6j87UYxajLvri"
+href = "urn:sha384:Sss85E-f-KWxZBfoT9fZRJ7v2lix3fHTlD4lIYioq1IFhNfnnTLWgVBWPjXnxx2Z"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -243,7 +273,10 @@ text = "Pee"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:V99qfaJ3OAib8PkZCIsEJScI5aEa-6U7k8spmBidREKfDX7JbZsSWaINOtHJ99pO"
+href = "urn:sha384:CQpVBKywN-vnZgg9D6ey3JWGwz6sWo84vzOZAx0zSLFNgXJ8q4urRBoeSTMQOjwE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -280,7 +313,10 @@ text = "Pram"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fisemUN8HMbhEJYiwDzKM65NxviUCsRBzu5U_PFxKbNChWY9ZUsbSZbtsAGTH-TF"
+href = "urn:sha384:EpA1u-nvBj3iAowAwar_kL2zrzCEqBSdSLwIrE-KhgkjyTnp2yevu9zzQmyu9vU4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
