@@ -246,6 +246,143 @@ type = "phrase"
 text = ""
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "As a bonus, here's zero: "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:dkgfQjdHxt77HBKDAgQBmHFn4bd2y9L7gmD6jThaPj2oCduJdnUKjHERXUU5h4rf"
+href = "urn:sha384:xDHwLnl5gw_iZ8i22u1yM2WyyazuoRqTQ89rf_NiUwMJhbVSJRfZ6pZvUmVO_wup"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "0 - null"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:x6R4kR4xFPvoLLhJxjwp74IkWt8pMlnjqm0_nr5Doy9xGPogCZ3omF1DytFrknfh"
+href = "urn:sha384:RyjTsjB3f9OB_h23bAvO5mXPkZe51yGigRKywFMeyPI9W_I3BSfrIo6w_j9LloaA"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "de"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Note that for counting things, 1 changes according to the word's gender: "
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The male and neutral form for one is "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:GLYhQEu030o2hPMwOVBjzdA50oOIJE_UIVDXRWBr4OdktzP-zs1ri-TdgOORjxC3"
+href = "urn:sha384:Ld0D8-LqxFsdBDrYqDZ3RH17mHZVq23otY61srQ_ooQ4htdTxHVDQCyO796bI7lE"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "ein"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:t7yQWHG0_lyez-2l3W_Cc0sZIWCARNhOMC0ajnzxBgVrkaFqDlQ8_iwVJhM0cSJv"
+href = "urn:sha384:lmdjPXsLXQh7drCbl-s1VjgQit3E5Xim_auvuUvQjf52tdPw5XMbzkJJypWQp9Uv"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "de"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "the female form is "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:7vtc4dwF73xZy46Ir1S9V3yOkLN85dkhq6qhdjI7dELsnTKtBexpBwjjjgeztL4s"
+href = "urn:sha384:-c79DmHkmAf0rmyo7wrCeXkVOl4NigS5K9QW3QjhTlJxEkgK_U5gn0WXaMR-4Pu8"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "eine"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:nZAEbLL9yeCcTSXzqhX7qkn02WDIKITrsMICcEdpwWD9dR2DRirTUa1-HT8awOsR"
+href = "urn:sha384:LcRFvSK-guvunbnfFCqy6aHA9sX75AguBthcxfKOR6tykv__PxH1H5rVEr03XkPW"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "de"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[interactions]]
 audio = 1
 transcript = 0
