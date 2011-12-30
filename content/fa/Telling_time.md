@@ -60,92 +60,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Quelle heure est-il?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "fa"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Note that in French, you don't ask \"what time is it?\" but \"what hour is it?\""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Listen and repeat the first part:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Quelle heure"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "fa"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "and the second half:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "est-il?"
+text = "che sâatì ast?  (چه ساعتی است)"
 type = "phrase"
 
 [[cards.sides]]
@@ -179,7 +94,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Quelle heure est-il?"
+text = "che sâatì ast?  (چه ساعتی است)"
 type = "phrase"
 
 [[cards.sides]]
@@ -213,7 +128,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Here's how you say \"it is one o'clock':"
+text = "Here's how you say \"it is one o'clock (AM)':"
 type = "phrase"
 
 [[cards.sides]]
@@ -230,7 +145,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Il est une heure."
+text = "yekè sobh (یک صبح)"
 type = "phrase"
 
 [[cards.sides]]
@@ -247,7 +162,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "You use the same for 10 o'clock:"
+text = "You use the same for 2 o'clock (AM):"
 type = "phrase"
 
 [[cards.sides]]
@@ -264,7 +179,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Il est dix heures."
+text = "doè sobh (دو صبح)"
 type = "phrase"
 
 [[cards.sides]]
@@ -298,7 +213,143 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Quelle heure est-il?"
+text = "che sâatì ast?  (چه ساعتی است)"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "fa"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Noon\" is called:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "zohr (ظهر)"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "fa"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "and \"afternoon\" is"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "baød-az-zohr (بعدازظهر)"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "fa"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "so you would say \"it's one PM\" as \"one after noon\":"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "yekè baød-az-zohr (یک بعدازظهر)"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "fa"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "and \"it's 2PM\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "doè baød-az-zohr (دو بعدازظهر)"
 type = "phrase"
 
 [[cards.sides]]
@@ -332,57 +383,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Il est cinq heures et demi."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "fa"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "or just like you say 5:30, you can also say:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Il est cinq heures trente."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "fa"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Say again: it's half past 5."
 type = "phrase"
 
@@ -400,23 +400,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Il est cinq heures et demi."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "fa"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Here's how you say: it's quarter past three:"
 type = "phrase"
 
@@ -425,23 +408,6 @@ type = "empty"
 
 [[cards.sides]]
 text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Il est trois heures et quart."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "fa"
 type = "phrase"
 
 [[cards.sides]]
@@ -510,142 +476,6 @@ type = "empty"
 
 [[cards.sides]]
 text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Il est quatre heures trente six."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "fa"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Note however that the AM and PM system common in English speaking countries does not really work for french speakers."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "So usually PM times will either be said as AM times in spoken language, and when no doubt is possible."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Alternatively, to avoid doubt or in more formal environments, you would use the 24h system."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "So to mean 7pm, you could either say:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "7 heures."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "fa"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Or in the 24h system:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "19 heures."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "fa"
 type = "phrase"
 
 [[cards.sides]]
