@@ -67,7 +67,10 @@ text = "ਸਤ ਸ਼ੀਰੀ ਅਕਾਲ"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Z7-a8aa_4hMkmk6vcGy6cZZA1TpXolqHYiv31zcHfOzZsuA0a47IHYqq5ycI9FeP"
+href = "urn:sha384:xuG1ZwsIVRT4sOW6EMcSuCjT04XKTDaVJCieGNDxjbapivpZokLF8lCucNw05760"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pa"
@@ -104,7 +107,10 @@ text = "ਹਾਂ"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:d3ENII6tbM8ZJvKZDja7HXLIi58A3UweGDvNem5kcn2M_aMSiVfP7PHvfwcCofKp"
+href = "urn:sha384:uE3eqBTgxODVEH2CFJigT4V1WJmIUqnYDZF_iTECZ1v03Yz95o5gCy4YcP1APLwF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pa"
@@ -141,7 +147,10 @@ text = "ਨਹੀਂ"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0gA2uXTco2yxWOsniv-nZb1cxXwkKNd--Oi-4wpYmVyNJ4iMNM7kXE6xoRm3h1PK"
+href = "urn:sha384:Nli4RY4lXOZHVgdubKoIskPfbCkUn3Un8eQjuZUuYoMYIqBmOSLv1uXJljDtzP16"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pa"
@@ -178,7 +187,10 @@ text = "ਮੈਨੂੰ ਮੁਆਫ ਕਰੋ "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Fd5NiS6L7qoeKESZnQfDoOvc-ZflnSrEuSwwJZjz5aRBHW1KqzIg_2Fw13vWZ_hu"
+href = "urn:sha384:2lcDH8oYF2Q6uzaDTj-x9aDlMgukji9NelE_ZMfJJiLHgF0x6H89ynRrS9WATjgi"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pa"
@@ -215,7 +227,10 @@ text = "ਸ਼ੁਕਰੀਆ"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:acRHXqCyBQmYRsdEfjaHW10qVAOxPoCCQD4LNPJ5E5GuphATB6ki-DDp2X9VvbTi"
+href = "urn:sha384:CbiP6hyswuM8B52853LRe3F8ToDYe5X0z9wirBZh4NE5j7gPSIAvmKcsayE2XijZ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pa"
@@ -252,7 +267,10 @@ text = "ਸਵਾਗਤ ਹੈ"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zkS4qb-kBTnhOh71bgsajSrdrX1bH5w_pYfjrKmTr3d2KgKaK3V3yMeLWZJgKszW"
+href = "urn:sha384:-ltG72p3ev-UjTOadEoi2-YW_P3fNiN5X_jds54pZKWT5d9r9PbobKQ7uLyGHCTI"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pa"
@@ -289,7 +307,10 @@ text = "ਮੈਂ ਸਮਝਾ ਨਹੀਂ"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:sGxFK02dfIg9TGqsPqOmuJV0l2W_v8G4Cj13uJxR7iKZB-esWwuDO7kpd0tfEj7i"
+href = "urn:sha384:iQ7TB9sf6qVNlLA-PX8Cy8bLGw0MWeN4OgxSNaC_6ggR0rObYbMdpdkPJdo4b9QV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pa"
@@ -322,11 +343,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "ਆਪ ਦੁਬਾਰਾ ਬੋਲ ਸਕਦੇ ਹੋ"
+text = "ਆਪ ਦੁਬਾਰਾ ਬੋਲ ਸਕਦੇ ਹੋ ?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:THj7g6XjVR8aCliKRnVKC3gU-B4c3eODgKOzLCStIpkKXtWYE_LvsgiIQ5J4z04e"
+href = "urn:sha384:N2P0imsDoTbn793qILMH3u7cVbeH3Iw_0IAbuY6M_VauAf8QN0JWBukuD1-UYRGQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pa"
@@ -363,7 +387,10 @@ text = "ਮਿਹਰਬਾਨੀ ਕਰਕੇ"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ZObvC4IJgtxJY373tVzv7bfKYFEJiG4IEqemYWvrPXKhyEB2hU_bUCVzTCEucl8s"
+href = "urn:sha384:H9BT3cwUbTAsOCnHapqdqzKD1kZMCLB1LxnBkX46-eOfRIaE-WKWEZt4ArNTfN4y"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pa"
@@ -396,11 +423,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "ਕੀਮਤ ਕੀ ਹੈ"
+text = "ਕੀਮਤ ਕੀ ਹੈ ?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:K6TfQCno-rJc6F2h1SW_fg8G2JLAn9v6fy-6QEctZJbGHbmcxtyO1LQ5nhx2mSym"
+href = "urn:sha384:g5qMaSDuzZVrcfnK4GhBDgmDdwZMoG3AtvSW6LD6YrzrwAWr3jmZBrGzjnewiHwi"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pa"
@@ -457,7 +487,10 @@ text = "ਵਾਇ ਵਾਇ"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:f5D6TCXHoetee8rOpYukaoqiKPOjBH9wpsSn03rTsbzQyLr8fxqWFJRYvnbrBR4_"
+href = "urn:sha384:jszMrwpMTLZbexPvKWVK-iZlbYJG6upSqus8-avcKGv9MIOu3svqS3Tg2dxHcR9t"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "pa"
