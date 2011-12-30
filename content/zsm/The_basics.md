@@ -312,7 +312,10 @@ text = "The next thing I'm going to say is"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WGkJk5a9X_SiHf5DANhVNf7GwuSZ3OmCtD4bqxMmRugXgpQJutH3dj_bK4b37_Tc"
+href = "urn:sha384:K6nKwARWRczEaMWjwb144ZRCECQhATv1ktY4HXvChpmRNGfOMjasquLOwE5xU3bW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -346,7 +349,10 @@ text = "Pergi mana?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nLQ-JlUZ4YlwVkpK_iY_Pbr2TGA9vOr53ZtXlvW78wJRAfHeck524aJJS6hsECtA"
+href = "urn:sha384:g5hPScBZejsNVFb1Dd1x63Hj39ITuCpbpqzavTyQWd3z5LDJQMSxuDLvfH-_oXaC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "zsm"
@@ -363,7 +369,10 @@ text = "The next thing I'm going to say is"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uPzDEryJfIc6rgXA8-hdCkD3Dz0BrYi-pXF-h302FV8UDI1fsFdLBsOKsR06oOcW"
+href = "urn:sha384:vNk7SML-ICwVStD-SCDUfjKl9Grccsh0WJtXS_0pHGWP-Z1hzfR7aztGeF8fIb9G"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "en"
@@ -380,7 +389,30 @@ text = "See you later!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:X_Tyaw-QKEWy8ixj5YX3n71ka1HLn4gVnrKFNgAEuPvdq8dWuSthXWLQmL1BKLlC"
+href = "urn:sha384:ETTKrTSXWrnVL0f4HUmgBMRw-EMq02IlvUmqnAVoQ2vE5pISx8cDejg6ghD0PSqD"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "jumpa lagih"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:_I2fnO3qj2rbZOinqHHS1SuImYE3oJQWEsY75-UEDL__jJYrlQSat_DubLpEeNJX"
+href = "urn:sha384:xcGREdE2ZtmcrYJHHArOCf7Umuwl4kwvj_puWdvdboZE6rEAXN4IVfee4JsoA067"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "zsm"
