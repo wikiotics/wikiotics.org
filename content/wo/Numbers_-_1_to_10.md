@@ -109,6 +109,26 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:gj_hYRg5H9gVZ8pEB0W9n_vzX_ZS3xn5ibI19uvzuQisqmMa2f0IfDQNASKJjYtz"
+href = "urn:sha384:9QJTPcwVWKwtzlc6iYSPOKt2xQChGEsr9tv2ys1jrye06bIbj0bK1pOXGBV96fUz"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "wo"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "How about 9?"
 type = "phrase"
 
