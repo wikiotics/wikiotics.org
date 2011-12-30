@@ -225,14 +225,11 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "to which one can reply \"you're welcome\""
+text = "This is how to say \"you're welcome,\" which literally translates to \"from the heart\""
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:cxpfPT10pi5U4ndKBsGVeBcV-7TEadB2uc5_eWuD9taHlxoZzB_NjpVowh_-an6W"
-href = "urn:sha384:dzvtVcBTxUpd2ddVv23Av56qjdoVRDGQVCyj1h365SKE2ehCZzRALUUpDlbQWkvg"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards.sides]]
 text = "en"
@@ -249,10 +246,7 @@ text = "szivesen"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:gBMa_XqMDSYc9folSS8mN5fgmyuGfxpDTKZoU5fi3wGBWLtZF7z_VJ3XL92evycs"
-href = "urn:sha384:h54GxjnWA1Lhz2iRDOwib3ZUsIprnAEQC0L_-4gYT1EPK4jH6v4OgFylTndDufny"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards.sides]]
 text = "hu"
