@@ -124,7 +124,10 @@ text = "Да"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nXndMfyyeGQYZX2KRlKF2JjBJunI1YoJBy3Y7r_F1mPJj0ijUVyov9m2jkGhZJ-i"
+href = "urn:sha384:ZgEyJi-ubn2Bcm_da8lMS95Z602FeMd2XuQa3cTJ-pIgBpkqz4eZoVTbKqgn8Ugc"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ru"
@@ -178,7 +181,10 @@ text = "Нет"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_RhRxdyGBZm_L5eqy53U_FlDaBflxJdmX1eGAyno1bAu569GRAwPVEb0Hp6Tfqud"
+href = "urn:sha384:RSIRS0oYlg-7vEfuSe_8GTgzaGn3Q1heartJRe1MOJg5vUISpEbm2DMeYned0gRn"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ru"
@@ -232,7 +238,10 @@ text = "Извинете."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ueKi2tb3i-D5q69dwYkTx4Sj9BHgYjzz4vMo0c6RulxCEGLS0C_fZRijB_YaeujA"
+href = "urn:sha384:96HP58tDmDuYK8doAgI42jr8sUMRVmbRpPEiZRDgoEhqNSx_6z7roB2xw5lZ7P4k"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ru"
@@ -323,7 +332,10 @@ text = "пожалусто"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6EPDjUCwRJNWVX1oSwh7F5DRYDDRukDzOB6oDc4_7szRrg8C8SKDF17onGMd7nar"
+href = "urn:sha384:HLzbYhCVB4uAr5NMQAWTlXYY07pZAuFCZ1f9fjkWtyZ6rl0ZDcO8_UOkgmRIaif6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ru"
@@ -340,7 +352,10 @@ text = "Pojalusto"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7GaBnUkFXaXkikyTASkGyMBFPHKwIx9IIOt7a-HxRSO9Nw87bZhwt3tdgWIZIrj9"
+href = "urn:sha384:qi9kCzcY4dKPQiBhYZvCwyJ7VjFfJ7u8gLts8q98PpkT0YXp2K7tUIrssEuPt8Te"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ru"
@@ -377,7 +392,10 @@ text = "Не понимаю"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:px0sxHnhkbZiY2H-CPAQxcXuzwI343wmC5jWjGyZOaAHprg3_48UKluI4SNVpn4Z"
+href = "urn:sha384:bYLJn1AvpWZ2UWy7P4lDBCmBd1FERfq9-PcwuOs0NAlR2uKf21Uim3-Rbt81yvng"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ru"
@@ -431,7 +449,10 @@ text = "Повторете."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:aLZrv_hubUgJIVOL60vXcSrXzsWGy83mED8YG1RhobiwhjAG5SgkIpf7zdOVVB5h"
+href = "urn:sha384:L-SPIZBUR-FKa4irjZF3IIk_Q5Jj0T8Tr_r8r7GjrGCUOzXXB_jQG2EWvkATnPan"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ru"
@@ -502,7 +523,10 @@ text = "Pojalusto"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ywlPdwLV_f3RpnEymzXU9J8-H5pVedCvD0IJs8JHnneUtY2hAJWpnEYWD0hVxsy_"
+href = "urn:sha384:KGMq1pgfSDA2z3b6kkffc9tSASWw5dZ6t_GrJbeBLb7Mep1uuEEYBMl3q91nZTam"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ru"
@@ -539,7 +563,10 @@ text = "Сколько стоит ?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nudewHbJoI2AwUJpUqS4s6OnJ7wX9mTDLh9r5NSZ1eXWfQesptQOeadOJrMkIsOR"
+href = "urn:sha384:_GF6e2LQh-WUH42R6z1qYQqeF1KKsNOXTub7v0rZci5BsUQFO5qxm335A8y-O1Gm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ru"
@@ -613,7 +640,10 @@ text = "Досвидания."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4k8ugF11PFNlNBaeTNLRx-n3lFGqo07W19ED7FZZBKOhcjktcOwQDEnyZhkBAW1r"
+href = "urn:sha384:d27HBxd6uqIT08HV3kmb-X83Wejm3sSGI-YEKnX-86Zj7gg_K4mDjCWyei61jVRw"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ru"
