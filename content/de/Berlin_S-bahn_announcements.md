@@ -486,6 +486,23 @@ type = "phrase"
 text = ""
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "This says: Next station \"Main station\". Connection to metro line 55 and to regional and intercity transport."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[interactions]]
 audio = 1
 transcript = 0
