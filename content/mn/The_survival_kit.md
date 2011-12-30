@@ -9,7 +9,7 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, we'll learn the bare minimum you should know before going to a French speaking country or region."
+text = "In this lesson, we'll learn the bare minimum you should know before going to Mongolia."
 type = "phrase"
 
 [[cards.sides]]
@@ -63,11 +63,51 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour!"
+text = "САЙН УУ"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:0UZj2UNZxz8Rm42lZEDbf73cfLlCLynIdNsDFdFA1Dso_-o1VjcF3bopGGzVCEjF"
+href = "urn:sha384:kg-DsSbgO3UZN3G9wgH5E80DrVxDGZIsnsrTM_x92M7Jk82Lu_jfU1sZad_2JBOn"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "mn"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Another more formal way to say hello is"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "САЙН БАЙНА УУ"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:a9z56bcyHCxn2zta2mHzY7TCjuLGsbFEJm2Z1pPKh5eTrWaOur7j46xqP_pWAgbn"
+href = "urn:sha384:aYXyL6GrY6hY3OyYTf4JsRV7IeEFCHJ_XjgnX3aRZ3W42n9hloiBegS37QoafkWm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "mn"
@@ -100,11 +140,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "oui"
+text = "ТИЙМ"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Ww41RD-qEfFl5IBVA6NmzvSTxmeuDeNavUS_C2O0c8JIG4lGHElV85O4cUAcgxeH"
+href = "urn:sha384:MmvMbIYJ-k3kF4CPfClSUAZGH8RitSk88GKYcl8oQ0liq-d3zU9Dkmdg6GMcbzlv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "mn"
@@ -137,11 +180,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "non"
+text = "ҮГҮЙ"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:tZdBq-TsdQlb6lpuMkyNsM__T94AslWgDlAoQ2Un2xucUtHqF2O11qrk0mzorDCn"
+href = "urn:sha384:wjGSTesS7JL2peBEUJkJda_-LZTPek5nPQdw7_qugeCH3TCL-OkNCODNksy9_Csd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "mn"
@@ -174,11 +220,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Excusez-moi!"
+text = "УУЧЛААРАЙ"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:t89jiYxVf-JGSUHdEEniPWaWn7e97m3ItLWywA5Cb-9lqRyL7YZj8Y6Lq3ZJf5or"
+href = "urn:sha384:u1x-sYXRNm4OlsxruQZ9YQ5RAPY-DZTJuvgZ4OpmWVrygd3fecYfCcyNLF-g6F5f"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "mn"
@@ -211,11 +260,51 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Merci."
+text = "БАЯРЛАЛАА"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:emuxRsKZq8A-nxFszqmATjeKpu5xFzZYvGHFKliU1Ag9frImpPNWPnmCk7QjCeai"
+href = "urn:sha384:wDElOvQmDmQDd1x9oXEZic7EcuscxORZgKH5KPlLSnkkYfMTr5t0IMY17lfQgbGT"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "mn"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Thank you, more slowly this time"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "БАЯРЛАЛАА"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:jr1F7JPJRxlHF8sTzvJglNrm2qxQLqiRRY-fm3pi_16IGg52jz4FtVGkokCWyfUT"
+href = "urn:sha384:a0_f3jzBLBULWBFPRaKyIjinz7UClPYfzMdlJzJJ1dH8mr7eBWGv4aSzJ8bwg3le"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "mn"
@@ -248,11 +337,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "De rien."
+text = "ЗЏГЭЭР ЗЏГЭЭР"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:NkOHQtFqaYo4muZgljCb63cwWk7AslXrrHWK-bbO8QqrzNnyI3HGmgwXkUEwKvok"
+href = "urn:sha384:un1aO_1slG-hWUt0vqX1xU49VT_aMPJA9tAoTH0xRAfjMmyJXpsQWo-h1oe-kEny"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "mn"
@@ -285,11 +377,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Je ne comprends pas."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VLpmfakHIVJows5YeTjhjXy1V19vx1ZRRTTycu8UVsv5uUWhVuJsB7EE4TGT216I"
+href = "urn:sha384:O85qvcBHjKQKAV_dPCYSyYIfyvQ3nRD9Qa_d48GYQgbOM46FDVzly5S_xcV_s1kb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "mn"
@@ -322,23 +417,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pouvez-vous répéter?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "mn"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Make sure you add a \"please\" wherever needed"
 type = "phrase"
 
@@ -350,23 +428,6 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "S'il vous plait."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "mn"
 type = "phrase"
 
 [[cards.sides]]
@@ -396,11 +457,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Combien ça coûte?"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7NWMG04uWyVQcIDqjCTTuCCMYo0G4KFbvm3YKlrle9-8NTqXKnkdu6nvpcErEMoa"
+href = "urn:sha384:RmIIdJCWEsOJHltWuSmL3Kpo4ffqm3Jnr_GufI59oh8ozAWahGK50klchDfAOraB"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "mn"
@@ -453,11 +517,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pcybRHacyD-8QLEB-0SdNHUjriMWDGLG-JzLoiQmJUpTIrEhfU6ZrsW_C02Q9tyr"
+href = "urn:sha384:rq_u_qTjZTGgn69_ewgBGnu0mpADgpT3lDE3pmYeLrNxuf3pREPp6rVYDzk9UZhv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "mn"
