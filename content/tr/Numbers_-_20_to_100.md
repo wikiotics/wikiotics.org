@@ -43,23 +43,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Most of it is very logic and simple, except the seventies and up, which follow a specific pattern."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Do you remember how to say 20?"
 type = "phrase"
 
@@ -77,7 +60,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "vingt"
+text = "yirmi"
 type = "phrase"
 
 [[cards.sides]]
@@ -111,7 +94,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "trente"
+text = "otuz"
 type = "phrase"
 
 [[cards.sides]]
@@ -145,7 +128,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Quarante"
+text = "kırk"
 type = "phrase"
 
 [[cards.sides]]
@@ -179,7 +162,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Cinquante."
+text = "elli"
 type = "phrase"
 
 [[cards.sides]]
@@ -213,7 +196,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Soixante."
+text = "altmış"
 type = "phrase"
 
 [[cards.sides]]
@@ -230,7 +213,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "We'll leave the higher ones out for now."
+text = "70"
 type = "phrase"
 
 [[cards.sides]]
@@ -247,7 +230,92 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "From 20 to 70, numbers are simply said like 'dozens-units'."
+text = "yetmiş"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "tr"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "80"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "seksen"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "tr"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "90"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "doksan"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "tr"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "All numbers are said as \"dozens-units\"."
 type = "phrase"
 
 [[cards.sides]]
@@ -281,7 +349,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "vingt-trois"
+text = "yirmi üç"
 type = "phrase"
 
 [[cards.sides]]
@@ -315,7 +383,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "cinquante-sept"
+text = "elli yedi"
 type = "phrase"
 
 [[cards.sides]]
@@ -323,57 +391,6 @@ type = "empty"
 
 [[cards.sides]]
 text = "tr"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "The \"dozen and one\" numbers are slightly different for phonetics reasons, like 41:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Quarante-et-un"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "tr"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Notice the \"et\" between dozens and units."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
 type = "phrase"
 
 [[cards.sides]]
@@ -400,7 +417,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "soixante-et-un"
+text = "altmış bir"
 type = "phrase"
 
 [[cards.sides]]
@@ -434,7 +451,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "trente-neuf"
+text = "otuz dokuz"
 type = "phrase"
 
 [[cards.sides]]
@@ -468,7 +485,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "vingt-six"
+text = "yirmi altı"
 type = "phrase"
 
 [[cards.sides]]
@@ -485,7 +502,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Now let's add the seventies."
+text = "Say 78:"
 type = "phrase"
 
 [[cards.sides]]
@@ -502,24 +519,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "In French, 70 is said as \"sixty-ten\":"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "soixante-dix"
+text = "yetmiş sekiz"
 type = "phrase"
 
 [[cards.sides]]
@@ -536,7 +536,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "And from there, you keep counting, 71 is 'sixty-and-eleven':"
+text = "This is how you say 100:"
 type = "phrase"
 
 [[cards.sides]]
@@ -553,7 +553,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "soixante-et-onze"
+text = "yüz"
 type = "phrase"
 
 [[cards.sides]]
@@ -570,7 +570,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "72 will be 'sixty-twelve':"
+text = "Multiples of a hundred are said as you'd expect:"
 type = "phrase"
 
 [[cards.sides]]
@@ -587,7 +587,24 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "soixante-douze"
+text = "200 is:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "iki yüz"
 type = "phrase"
 
 [[cards.sides]]
@@ -604,7 +621,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "And so on up to 79. Can you guess 79?"
+text = "300 is:"
 type = "phrase"
 
 [[cards.sides]]
@@ -621,7 +638,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "soixante-dix-neuf."
+text = "üç yüz"
 type = "phrase"
 
 [[cards.sides]]
@@ -638,7 +655,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "80 is yet another logic. It's four times 20, or:"
+text = "and so on."
 type = "phrase"
 
 [[cards.sides]]
@@ -655,7 +672,24 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "quatre-vingt"
+text = "Can you say 600?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "altı yüz"
 type = "phrase"
 
 [[cards.sides]]
@@ -672,7 +706,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Numbers from 81 to 99 then follow a similar logic to the ones from 61 to 79."
+text = "How would you say 450?"
 type = "phrase"
 
 [[cards.sides]]
@@ -689,41 +723,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "That is, 80-1, 80-2 up to 80-10 and then 80-11 to 80-19, which is 99."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "From those explanations, can you guess how to say 82?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "quatre-vingt-deux"
+text = "dört yüz elli"
 type = "phrase"
 
 [[cards.sides]]
@@ -740,7 +740,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How would you say 90? (or 80-10 in french logic)"
+text = "For thousands, keep applying the same simple logic."
 type = "phrase"
 
 [[cards.sides]]
@@ -757,7 +757,24 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "quatre-vingt-dix"
+text = "Here's how to say 1000:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "bin"
 type = "phrase"
 
 [[cards.sides]]
@@ -774,7 +791,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "And now 96? (remember it's said as 80-16)"
+text = "Guess how you say 2000?"
 type = "phrase"
 
 [[cards.sides]]
@@ -791,7 +808,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "quatre-vingt-seize"
+text = "iki bin"
 type = "phrase"
 
 [[cards.sides]]
@@ -808,58 +825,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "And to finish off, this is how you say 100:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "cent."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "tr"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "As a side note, you may notice that people in Belgium and Switzerland use a slightly different counting system."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "We will cover these differences in a separate lesson."
+text = "That's it for today!"
 type = "phrase"
 
 [[cards.sides]]
