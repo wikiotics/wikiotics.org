@@ -672,7 +672,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "So to mean 7pm, you could either say:"
+text = "2 p.m."
 type = "phrase"
 
 [[cards.sides]]
@@ -689,7 +689,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "7 heures."
+text = "Zwei Uhr nachmittags - OR - Vierzehn Uhr."
 type = "phrase"
 
 [[cards.sides]]
@@ -697,6 +697,23 @@ type = "empty"
 
 [[cards.sides]]
 text = "de"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nachmittags\" translates literally to \"after noon\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
 type = "phrase"
 
 [[cards.sides]]
