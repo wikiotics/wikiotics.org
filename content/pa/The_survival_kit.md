@@ -63,6 +63,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "ਸਤ ਸ਼ੀਰੀ ਅਕਾਲ"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "pa"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Here's how you say \"yes\""
 type = "phrase"
 
@@ -74,6 +91,23 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "ਹਾਂ"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "pa"
 type = "phrase"
 
 [[cards.sides]]
