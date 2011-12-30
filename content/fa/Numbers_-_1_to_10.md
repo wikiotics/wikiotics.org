@@ -49,7 +49,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "1 - un"
+text = "1 - yek (یک)"
 type = "phrase"
 
 [[cards.sides]]
@@ -66,7 +66,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "2 - deux"
+text = "2 - do (دو)"
 type = "phrase"
 
 [[cards.sides]]
@@ -83,7 +83,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "3 - trois"
+text = "3 - se (سه)"
 type = "phrase"
 
 [[cards.sides]]
@@ -100,7 +100,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "4 - quatre"
+text = "4 - chahâr (چهار)"
 type = "phrase"
 
 [[cards.sides]]
@@ -117,7 +117,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "5 - cinq"
+text = "5 - panj (پنج)"
 type = "phrase"
 
 [[cards.sides]]
@@ -134,7 +134,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "6 - six"
+text = "6 - šeš (شش)"
 type = "phrase"
 
 [[cards.sides]]
@@ -151,7 +151,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "7 - sept"
+text = "7 - haft (هفت)"
 type = "phrase"
 
 [[cards.sides]]
@@ -168,7 +168,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "8 - huit"
+text = "8 - hašt (هشت)"
 type = "phrase"
 
 [[cards.sides]]
@@ -185,7 +185,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "9 - neuf"
+text = "9 - noh (نه)"
 type = "phrase"
 
 [[cards.sides]]
@@ -202,7 +202,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "10 - dix"
+text = "10 - dah (ده)"
 type = "phrase"
 
 [[cards.sides]]
@@ -239,44 +239,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "0 - zéro"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "fa"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Also note that one has a different feminin form"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:dV64S1BhlmvOUj-6BBWJAf9Cp3yo_DHLqcrSy4vyHJaYvF0ycky-4umKkeFWCF-C"
-href = "urn:sha384:C0dkcfIQc6ggJnIAskNvNgJkXxpN5QHstCxEFEkGMVAAZUQcbKytftbzvRHhVp-3"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards.sides]]
-text = "en"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "1 - une"
+text = "0 - sefr (صفر)"
 type = "phrase"
 
 [[cards.sides]]
@@ -313,7 +276,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "deux"
+text = "2 - do (دو)"
 type = "phrase"
 
 [[cards.sides]]
@@ -350,7 +313,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "cinq"
+text = "5 - panj (پنج)"
 type = "phrase"
 
 [[cards.sides]]
@@ -387,7 +350,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "neuf"
+text = "9 - noh (نه)"
 type = "phrase"
 
 [[cards.sides]]
@@ -404,7 +367,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Say 3 and 4"
+text = "Say 3"
 type = "phrase"
 
 [[cards.sides]]
@@ -424,7 +387,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "trois - quatre"
+text = "3 - se (سه)"
 type = "phrase"
 
 [[cards.sides]]
@@ -441,7 +404,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "What's the french for 7?"
+text = "What's the persian word for 7?"
 type = "phrase"
 
 [[cards.sides]]
@@ -461,7 +424,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "sept"
+text = "7 - haft (هفت)"
 type = "phrase"
 
 [[cards.sides]]
@@ -498,7 +461,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "huit"
+text = "8 - hašt (هشت)"
 type = "phrase"
 
 [[cards.sides]]
@@ -515,7 +478,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "What is one in french? Say both masculin and feminin forms."
+text = "What is one in persian?"
 type = "phrase"
 
 [[cards.sides]]
@@ -535,7 +498,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Un - une"
+text = "1 - yek (یک)"
 type = "phrase"
 
 [[cards.sides]]
@@ -572,7 +535,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "huit"
+text = "8 - hašt (هشت)"
 type = "phrase"
 
 [[cards.sides]]
@@ -609,7 +572,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "un deux trois quatre cinq"
+text = "yek - do - se - chahâr - panj"
 type = "phrase"
 
 [[cards.sides]]
@@ -646,7 +609,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "six sept huit neuf dix"
+text = "šeš - haft - hašt - noh - dah"
 type = "phrase"
 
 [[cards.sides]]
