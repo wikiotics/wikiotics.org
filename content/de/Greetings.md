@@ -53,7 +53,10 @@ text = "Guten Tag."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UdQ7EHdGPzXAt8gygWV7qA52tKIPSzSL7nFl5byxkOQuIq8ZQUH70TKL5abhTsiF"
+href = "urn:sha384:_DCj-Lnb5q6I1pgvJXJGVuZbmUd7sqHZA3j0ko_6T6xo120WTah4MB5H_VS-ti2I"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -110,7 +113,10 @@ text = "Guten"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8gDWwCUkzSVyvyIIYPuTJLSXC4cCJLFENEjmYj1Mv2S3FdsYoV6ypBd1gEdJegfq"
+href = "urn:sha384:XW4zmGHAwAekruPE0GnUfmnrr78E1zXW0hvN_bzilTuAF6jDxEDbQY7zaesGiC1c"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -167,10 +173,33 @@ text = "Tag"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dJdvnx672enfxcR7vRbPkCGPf94LyQyIAHhrdvtmOZNyTR-y9VYzbKNkyOerY4ar"
+href = "urn:sha384:vhPgJ0QwEFWw2Ub7D5kkUNMYtV7cSJz-GayPPSZyAJxJ4B4CMKYcks_cndrgTx1M"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:1FlfvBPK7ndmIszMrIsVAYVf7MNocg3zv27GqPC8alI3i1WA73COwGP3G3nn2A3O"
+href = "urn:sha384:lyh2JtObdWZzT2Fz-18TOK1agbgxVuLxcgejV8v8iEJ-S5ue_TY2T7ekLcX-TRpv"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "en"
 type = "phrase"
 
 [[cards.sides]]
@@ -184,7 +213,10 @@ text = "Guten Tag"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_YARNFTbymqxDVqVMm8HDAUkhdph3jfAU_b4hjfazoG84umCpXD5UJEs6SSSatDS"
+href = "urn:sha384:2PCY3QPSb70CcysoJW9baDzEtZEWi8J_SZ8nsrswoD2X7wmEw2NiajbwdafRjHZq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -221,10 +253,33 @@ text = "Guten Abend."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YWyp3arvl4UpNKfJvjBMYs_VmLgfj357K1zgCarkIMWO008GBqS-fkgTyVXR7an1"
+href = "urn:sha384:crYeQBo-Y1FmQaJBoKbncB1Ba9bAy55bTbC3vQhAZ7NYbHu5K5ODKjMhfVNObDf_"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:XIsJHApBAOaxMBaTNpOxLPeqcJrKsMkI0acEV5NNHn-kSghRDHDdbEWn3Y5mTTtc"
+href = "urn:sha384:St-9sBz4fdaDi2jJD7frEwkE9RP-l7Wd4EM1522800IjaK7Csrcbul65l8LZFwEu"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "en"
 type = "phrase"
 
 [[cards.sides]]
@@ -238,10 +293,33 @@ text = "Abend"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3AVRC6FyYkPwYkJ36EOcYp2af2s_b4MaWJ0goriwDDPM_gWyeWRWbwVVvNp4gQaW"
+href = "urn:sha384:oORBfoDwwp7Mmey63DJazllGeDHRA690NHPTcz0NqKqWRCSV-7JPVu6eO-PLzTWC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:YM6gg-yLm2efvuCZpJi9ujNeTTA6u1IgMIcnLfKZkOe3B7HlcpUbPSZzsMY4Bobr"
+href = "urn:sha384:Q7eqylGcp3QupWkEvMJj3o5Wsji9017IjS1JG3ig0rAivwnzFC9w1DndahMQesBO"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "en"
 type = "phrase"
 
 [[cards.sides]]
@@ -255,7 +333,10 @@ text = "Abend"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:CqeGvPDeb3Vx1KupW0BODliEfTtYncIXq1p0rEN4vM4jphva0zbpP6J2XHf247SU"
+href = "urn:sha384:2dArPrW5U9VF0Z08_KAEdHMxpLLwIAypVo2xwua2X2vTOdw1vJHdf9C0FNAd3EoG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -292,7 +373,10 @@ text = "Guten Tag."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:aMd6n8Z7AqA1JrArLFbRyDPvH-S0DKg54raFSR77JCc9HTBa78z56yCsM07U70E8"
+href = "urn:sha384:NBxdmplgyLkWp5D-WurUGy01eZxVfcbZqJ4aqP09R1kOFQd-wqQfFzkRQZf8pkfR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -329,7 +413,10 @@ text = "Guten Abend."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:BlEG0XkU1fUINfBDYdfm4YLKXd1Yn1rDfmcJ-UI3DioN-BpiFMLyViPS_apQ6XQR"
+href = "urn:sha384:v3oG5IbZ25SGI-l7C5fNGJUdKLhnb6tXALFHPAHVNTBiMdoW_J5wyYTVz_8OZvZq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
