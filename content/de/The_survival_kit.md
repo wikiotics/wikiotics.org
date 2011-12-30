@@ -269,7 +269,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Aber gerne doch."
+text = "Gern!"
 type = "phrase"
 
 [[cards.sides]]
@@ -306,7 +306,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Ich verstehe nicht"
+text = "Ich verstehe Sie leider nicht."
 type = "phrase"
 
 [[cards.sides]]
@@ -346,7 +346,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Können Sie das bitte nochmal wiederholen?"
+text = "Können Sie das bitte wiederholen?"
 type = "phrase"
 
 [[cards.sides]]
@@ -423,7 +423,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Wieviel kostet das?"
+text = "Wieviel kostet das bitte?"
 type = "phrase"
 
 [[cards.sides]]
