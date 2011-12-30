@@ -400,11 +400,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Was kostet das?"
+text = "Wie viel kostet das?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jMeHQncFxDrN1A2KTFzwcmgAOSEw7muF4dKOkLFFvrldzG1oNStjUFz8Kvud0lTd"
+href = "urn:sha384:xg8OoDqK0WwzOpEUpp_RGoA47GZH8KRxY9WgfAWRQSVFC05jXe-oVxU5jc7MfcKA"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
