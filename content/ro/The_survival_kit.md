@@ -63,11 +63,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bonjour"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:19qIojDhyxPv_ppG-SPKY3DFPJphjfqKCgGJty3tYTPRShKaUYJg7WYsFVFH3aU1"
+href = "urn:sha384:w8PhOuX7xivBgki8X-iC0RUf_pazt5Iv6mNjdojJjtU-oYmlJYAUi-4HqTimKAJ_"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ro"
@@ -100,11 +103,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "oui"
+text = "da"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:tdhB9WSz0XiHY5GZva00zGUY7hI4LmaQfNYKvbJdQu_3rX51C59fE32tw_sCrknt"
+href = "urn:sha384:mX7ZqB1DwTdJIShkVglhZfnRe7xcKewUWxhLiqBfu41KJFCUMEieYq3BD1AXvbLT"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ro"
@@ -137,11 +143,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "non"
+text = "nu"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yCNgNucEkm-Al_ZaOIldThPOg1MSvvCf9RXNYCBXA2O381AvCjxwPVjvvCR0r3KF"
+href = "urn:sha384:0KkwEp43Z-So4aC5g2jcUfGuHLzoNUbgXPwEpiWe8-JFlBT3heth3efsibS7Fa9-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ro"
@@ -211,7 +220,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Merci."
+text = "mulţumesc"
 type = "phrase"
 
 [[cards.sides]]
@@ -285,11 +294,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Je ne comprends pas."
+text = "Nu înţeleg."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VUrn2BMd3ImieFAJyL2MJiQuFAGQIYAPmQMlB1wby-B2OFQqDvipiaA7cGGcbhOa"
+href = "urn:sha384:vBlSmMUk2dAszTjdy2NSr_2jj5tc2kSJT20g0OoZ8GhaK0JkGSxGGle1GKb-1FBT"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ro"
@@ -396,11 +408,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Combien ça coûte?"
+text = "cât costã"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cOy6Aml07zmVIyttZ9vNMFFT5jsFVz3wrGhpOeI8RMNGUr1Ji7iyObVnsMBjdECv"
+href = "urn:sha384:fGKWLXXOxpSFPyoSrg7hnLWMkeSSdgw-x8B0t3l5z-zh88SC7YN4-oWKvpGdkuaB"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ro"
