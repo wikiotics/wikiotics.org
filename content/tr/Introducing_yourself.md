@@ -43,6 +43,74 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "Adınız ne?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "tr"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is the formal way to ask."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "But you can also ask in a more unformal way (when?) like"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Adın ne?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "tr"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "And here's how you'd say \"my name is John\"."
 type = "phrase"
 
