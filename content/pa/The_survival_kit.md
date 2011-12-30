@@ -137,6 +137,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "ਨਹੀਂ"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "pa"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Excuse me, for instance to ask a question, or if you bumped into someone by mistake."
 type = "phrase"
 
@@ -148,6 +165,23 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "ਮੈਨੂੰ ਮੁਆਫ ਕਰੋ "
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "pa"
 type = "phrase"
 
 [[cards.sides]]
@@ -177,6 +211,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "ਸ਼ੁਕਰੀਆ"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "pa"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "to which one can reply \"you're welcome\""
 type = "phrase"
 
@@ -188,6 +239,23 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "ਸਵਾਗਤ ਹੈ"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "pa"
 type = "phrase"
 
 [[cards.sides]]
@@ -217,6 +285,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "ਮੈਂ ਸਮਝਾ ਨਹੀਂ"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "pa"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Then you can ask that they repeat:"
 type = "phrase"
 
@@ -228,6 +313,23 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "ਆਪ ਦੁਬਾਰਾ ਬੋਲ ਸਕਦੇ ਹੋ"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "pa"
 type = "phrase"
 
 [[cards.sides]]
@@ -257,6 +359,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "ਮੇਹਰਬਾਨੀ ਕਰਕੇ"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "pa"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "For instance when asking how much something costs"
 type = "phrase"
 
@@ -268,6 +387,23 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "ਕੀਮਤ ਕੀ ਹੈ"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "pa"
 type = "phrase"
 
 [[cards.sides]]
@@ -308,6 +444,23 @@ type = "audio"
 
 [[cards.sides]]
 text = "en"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "ਵਾਇ ਵਾਇ"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "pa"
 type = "phrase"
 
 [[cards.sides]]
