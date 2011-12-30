@@ -53,7 +53,10 @@ text = "Suosi dai"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_oW20-8GBREs-0R-vM9YsltYqynM5m_2m0DL48PtWOnk-ecqfYY1hvSIXjQjIZr_"
+href = "urn:sha384:EXhFh6-KVMGr5luG59SEDKumTvabKYm65jzOHtrha8jkKGMNrs0bcg9lnz1C092E"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -103,40 +106,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Soir."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "km"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Bonsoir."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "km"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "Repeat the word for hello during the day."
 type = "phrase"
 
@@ -161,7 +130,10 @@ text = "suosi dai"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:MyQJ8oMCaoTjFFk1msUNADH2-8cywXCfLLilXx90NO3wq20cg9vUaEdRl47N9gjp"
+href = "urn:sha384:MnlMyfkMZk-6tuqx7ZANY3evfaSkmj_v5FdYEstJuZYJOf9XT5TFkQE8m0UFfpeD"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -211,11 +183,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "sok sabbai tay?"
+text = "sok sabbai?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Ei9USrzEQVYvtlngzvB0DKju672eSItfNeyvc7T9fZtjtJHpCQbjnwlmodJd2Mki"
+href = "urn:sha384:8nOzbrl405g6qYgsXNW4kfMiD-SHIlTcs9bLElZiB-5AlHyB7rUPcYhVH8TTFk75"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -249,7 +224,10 @@ text = "sok sabbai"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:acdmXmA5Pyfenvj4R1VCFclCBFRhZzgIif26uliNWporrechomqD7PMir1y0myQo"
+href = "urn:sha384:kVTWiiZqDplvSstlQM2DvBn-3-9ToSEepSgt4IF192LqKFzSBQx3zbWapCpDLlAv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
@@ -302,11 +280,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Sok sabbai tay?"
+text = "Sok sabbai?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:PBti2Xyr-khIVDHA_AjX0OSctmJztaJ0ua6Iy-DWm_HOjeDeMY_RixnkFD3pmxDP"
+href = "urn:sha384:T_LHAIhw7Y8nu8EpRQjFmSkPBwu_BZjsTZkFzeYh_g3QpOs7-JQJlWjZkscc_ScQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "km"
