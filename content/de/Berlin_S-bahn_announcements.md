@@ -89,7 +89,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Nächste Station: JannovitzBrücke - Übergang zur U-Bahn Linie 8"
+text = "Nächste Station: Jannovitzbrücke - Übergang zur U-Bahn Linie 8"
 type = "phrase"
 
 [[cards.sides]]
@@ -146,7 +146,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "JannovitzBrücke is the name of the station the train is arriving at, which means Jannovitz bridge."
+text = "Jannovitzbrücke is the name of the station the train is arriving at, which means Jannovitz bridge."
 type = "phrase"
 
 [[cards.sides]]
@@ -240,7 +240,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "The metro is called U-bahn in German, for Untergrundbahn."
+text = "The metro is called U-Bahn in German, for Untergrundbahn."
 type = "phrase"
 
 [[cards.sides]]
@@ -428,7 +428,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Here's another longer annoucement from the S-bahn:"
+text = "Here's another longer annoucement from the S-Bahn:"
 type = "phrase"
 
 [[cards.sides]]
