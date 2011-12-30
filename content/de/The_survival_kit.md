@@ -67,7 +67,10 @@ text = "Guten tag"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:bs3aspi8fbzLIXGbxDMXL-K7d9ZTHx2h3LRE5pjwbyyxfDfC3tWOMv0esWB8kVrY"
+href = "urn:sha384:xqhdcye7907Uexg1fY3HPnUGHr87LDW_0yO_EIu-LH1xmza123swt-QkzUZueBLC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -104,7 +107,10 @@ text = "ja"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Mp_S6hfBdq6e7cjmQCMRdaKORzJN1I0NvRdrZ5DxD6YvRbporQKJ2sDJVLKqPZh_"
+href = "urn:sha384:BtDgDs9yCSsWSCzJtjiSFlxhum7rfzrHDY9at2aBBUWnZXH8HIcjyqkOwzLNywsE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -221,7 +227,10 @@ text = "Danke"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5lHs536jKNzRMC7rJk2J_qdm7R3QVTjXbpXWhuNR6NCvcpYMQCj5GyyXs36U8IFp"
+href = "urn:sha384:wyT8cgs2qwUNirpSFuhXVxN55YMuBRiEssHYzpikNXwOl7MMXP1NPIJYAAO6uw51"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -295,7 +304,10 @@ text = "Ich verstehe nicht"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:d4-nLhzCIeh1iWGHaghgKbRNxQW1haGYRK_MWbQCIlKpz_MjWLcBXgCs02lN4QbO"
+href = "urn:sha384:-UW-sekHj_1UZSeyX6vcFcqNB3t6n9eN58FHxSDYvE0cZxuWN4ni_EFCEtuX50St"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -352,7 +364,10 @@ text = "Bitte"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ql0LDD4NID8vgPvI07G84oQ8w1u9iVsbUapmydw0UwP2Nc7WKEwrzVFRA5HjmT-m"
+href = "urn:sha384:zg_oihgMTaa_L7mUiryy_ZKKXMPcA5Q8_OG8MBZ5IqdDlATf6As1dKtRImRJ4nkn"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "de"
@@ -385,7 +400,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Was kostet das"
+text = "Was kostet das?"
 type = "phrase"
 
 [[cards.sides]]
