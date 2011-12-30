@@ -289,7 +289,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Note that for counting things, 1 changes according to the word's gender: "
+text = "Note that for counting things, 1 changes according to the word's gender."
 type = "phrase"
 
 [[cards.sides]]
