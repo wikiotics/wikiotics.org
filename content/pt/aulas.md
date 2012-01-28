@@ -8,3 +8,7 @@ languageCode = "pt"
 <!-- end list -->
 
   - [Animais](/pt/Animais)
+
+<!-- end list -->
+
+  - [Verbos de Movimento](/pt/Verbos_de_Movimento)
