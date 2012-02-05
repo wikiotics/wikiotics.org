@@ -110,7 +110,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "As mulheres estão andando de cavalo"
+text = "As mulheres estão andando à cavalo"
 type = "phrase"
 
 [[cards.sides]]
