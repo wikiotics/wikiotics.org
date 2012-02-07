@@ -1,5 +1,5 @@
 +++
-title = "Deutsch Lektion"
+title = "Deutsch-Lektion"
 languageCode = "de"
 +++
 
