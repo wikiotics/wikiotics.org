@@ -7,6 +7,8 @@ Voici quelques moyens de vous tenir informé(e) des évolutions du site,
 suivant ce qui vous convient le mieux:
 
   - le blog du projet <http://blog.wikiotics.org>;
+  - la page facebook
+    <https://www.facebook.com/pages/Wikiotics/136169443162603>;
   - la liste de messagerie [mailing
     list](http://groups.google.com/group/wikiotics);
   - la [page du
