@@ -1,6 +1,6 @@
 +++
 title = "Meetup Greetings"
-contributors = [ "ian",]
+contributors = [ "83.101.69.165", "ian",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
 type = "lesson"
 [[cards]]
@@ -40,7 +40,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "The most common greeting in Enlish is:"
+text = "The most common greeting in English is:"
 type = "phrase"
 
 [[cards.sides]]
@@ -210,7 +210,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say \"Bonjur\"?"
+text = "How do you say \"Bonjour\"?"
 type = "phrase"
 
 [[cards.sides]]
