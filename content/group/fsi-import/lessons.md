@@ -76,8 +76,10 @@ available here:
     03](/group/fsi-import/FSI-Mandarin-Module5-Transportation-Unit3-Tape3C-1)
   - [Unit
     04](/group/fsi-import/FSI-Mandarin-Module5-Transportation-Unit4-Tape4C-1)
-  - \[\[|Unit 05\]\]
-  - \[\[|Unit 06\]\]
+  - [Unit
+    05](/group/fsi-import/FSI-Mandarin-Module5-Transportation-Unit5-Tape5C-1)
+  - [Unit
+    06](/group/fsi-import/FSI-Mandarin-Module5-Transportation-Unit6-Tape6C-1)
   - \[\[|Unit 07\]\]
   - \[\[|Unit 08\]\]
 
