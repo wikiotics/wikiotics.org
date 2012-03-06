@@ -60,5 +60,7 @@ available here:
     02](/group/fsi-import/FSI-Mandarin-Module4-Directions-Unit2-Tape2C-1)
   - [Unit
     03](/group/fsi-import/FSI-Mandarin-Module4-Directions-Unit3-Tape3C-1)
-  - \[\[|Unit 04\]\]
-  - \[\[|Unit 05\]\]
+  - [Unit
+    04](/group/fsi-import/FSI-Mandarin-Module4-Directions-Unit4-Tape4C-1)
+  - [Unit
+    05](/group/fsi-import/FSI-Mandarin-Module4-Directions-Unit4-Tape4C-1)
