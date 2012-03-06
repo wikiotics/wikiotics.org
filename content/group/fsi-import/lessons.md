@@ -68,8 +68,10 @@ available here:
 
 ## Module 5: Transportation
 
-  - \[\[|Unit 01\]\]
-  - \[\[|Unit 02\]\]
+  - [Unit
+    01](/group/fsi-import/FSI-Mandarin-Module5-Transportation-Unit1-Tape1C-1)
+  - [Unit
+    02](/group/fsi-import/FSI-Mandarin-Module5-Transportation-Unit2-Tape2C-1)
   - \[\[|Unit 03\]\]
   - \[\[|Unit 04\]\]
   - \[\[|Unit 05\]\]
