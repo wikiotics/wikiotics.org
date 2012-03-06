@@ -80,8 +80,10 @@ available here:
     05](/group/fsi-import/FSI-Mandarin-Module5-Transportation-Unit5-Tape5C-1)
   - [Unit
     06](/group/fsi-import/FSI-Mandarin-Module5-Transportation-Unit6-Tape6C-1)
-  - \[\[|Unit 07\]\]
-  - \[\[|Unit 08\]\]
+  - [Unit
+    07](/group/fsi-import/FSI-Mandarin-Module5-Transportation-Unit7-Tape7C-1)
+  - [Unit
+    08](/group/fsi-import/FSI-Mandarin-Module5-Transportation-Unit8-Tape8C-1)
 
 ## Module 6: Arranging a Meeting
 
