@@ -81,7 +81,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English speaker 1"
+text = "John"
 type = "phrase"
 
 [[cards.sides]]
@@ -115,7 +115,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English speaker 1"
+text = "Paul"
 type = "phrase"
 
 [[cards.sides]]
@@ -154,6 +154,278 @@ type = "phrase"
 
 [[cards.sides]]
 text = "fr/en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "How do you say \"Bonjour\"?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Paul"
+type = "phrase"
+
+[[cards.sides]]
+text = "en/fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "John"
+type = "phrase"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Now that you have both greeted each other it is time to learn each other's names."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "To tell someone your name you say:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "My name is"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "John"
+type = "phrase"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "and then give your personal name."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Our first speaker is named John so he would say:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "My name is John."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "John"
+type = "phrase"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "My name is John."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "John"
+type = "phrase"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "You can pu this together with a greeting by simply saying:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello. My name is John"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "John"
+type = "phrase"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards]]
