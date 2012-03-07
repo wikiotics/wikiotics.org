@@ -363,18 +363,35 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Now you know how to introduce yourself to someone else. Try practicing out loud."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "How would you introduce yourself?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "fr"
 type = "phrase"
 
 [[cards]]
@@ -397,18 +414,222 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Great. Now that we have introduced ourselves, we ask someone else their name by saying:"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What is your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "John"
+type = "phrase"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What is your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "John"
+type = "phrase"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Listen to John's conversation partner Paul answer this question."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "My name is Paul."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Paul"
+type = "phrase"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Again"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "My name is Paul."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Paul"
+type = "phrase"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Now that John and Paul have learned each other's names, the polite way to acknowledge each other is to say:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nice to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "John"
+type = "phrase"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "fr"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nice to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "John"
+type = "phrase"
+
+[[cards.sides]]
+text = "en"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Listen to John and Paul's exchange all together."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards.sides]]
+text = "fr"
 type = "phrase"
 
 [[cards]]
