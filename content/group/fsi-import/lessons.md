@@ -106,36 +106,84 @@ available here:
 
 ### Module 7: Society
 
-  - \[\[|Unit 01\]\]
-  - \[\[|Unit 02\]\]
-  - \[\[|Unit 03\]\]
-  - \[\[|Unit 04\]\]
-  - \[\[|Unit 05\]\]
-  - \[\[|Unit 06\]\]
-  - \[\[|Unit 07\]\]
-  - \[\[|Unit 08\]\]
+  - Unit 01
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 02
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 03
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 04
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 05
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 06
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 07
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 08
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
 
 ### Module 8: Traveling in China
 
-  - \[\[|Unit 01\]\]
-  - \[\[|Unit 02\]\]
-  - \[\[|Unit 03\]\]
-  - \[\[|Unit 04\]\]
-  - \[\[|Unit 05\]\]
-  - \[\[|Unit 06\]\]
-  - \[\[|Unit 07\]\]
-  - \[\[|Unit 08\]\]
+  - Unit 01
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 02
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 03
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 04
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 05
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 06
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 07
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 08
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
 
 ### Module 9: Life in China
 
-  - \[\[|Unit 01\]\]
-  - \[\[|Unit 02\]\]
-  - \[\[|Unit 03\]\]
-  - \[\[|Unit 04\]\]
-  - \[\[|Unit 05\]\]
-  - \[\[|Unit 06\]\]
-  - \[\[|Unit 07\]\]
-  - \[\[|Unit 08\]\]
+  - Unit 01
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 02
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 03
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 04
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 05
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 06
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 07
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
+  - Unit 08
+      - \[\[|Part 1\]\]
+      - \[\[|Part 2\]\]
 
 ### Optional Module: Car
 
