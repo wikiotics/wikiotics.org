@@ -107,7 +107,8 @@ available here:
 ### Module 7: Society
 
   - Unit 01
-      - \[\[|Part 1\]\]
+      - [Part
+        1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit1-Tape1C-1)
       - \[\[|Part 2\]\]
   - Unit 02
       - \[\[|Part 1\]\]
