@@ -87,14 +87,22 @@ available here:
 
 ### Module 6: Arranging a Meeting
 
-  - \[\[|Unit 01\]\]
-  - \[\[|Unit 02\]\]
-  - \[\[|Unit 03\]\]
-  - \[\[|Unit 04\]\]
-  - \[\[|Unit 05\]\]
-  - \[\[|Unit 06\]\]
-  - \[\[|Unit 07\]\]
-  - \[\[|Unit 08\]\]
+  - [Unit
+    01](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit1-Tape1C-1)
+  - [Unit
+    02](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit2-Tape2C-1)
+  - [Unit
+    03](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit3-Tape31C-1)
+  - [Unit
+    04](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit4-Tape4-1)
+  - [Unit
+    05](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit5-Tape5C-1)
+  - [Unit
+    06](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit6-Tape6C-1)
+  - [Unit
+    07](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit7-Tape7C-1)
+  - [Unit
+    08](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit8-Tape8C-1)
 
 ### Module 7: Society
 
