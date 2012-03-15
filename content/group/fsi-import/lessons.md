@@ -106,100 +106,60 @@ available here:
 
 ### Module 7: Society
 
-  - Unit 01
-      - [Part
-        1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit1-Tape1C-1)
-      - [Part
-        2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit1-Tape2C-1)
-  - Unit 02
-      - [Part
-        1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit2-Tape1C-1)
-      - [Part
-        2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit2-Tape2C-1)
-  - Unit 03
-      - [Part
-        1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit3-Tape1C-1)
-      - [Part
-        2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit3-Tape2C-1)
-  - Unit 04
-      - [Part
-        1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit4-Tape1C-1)
-      - [Part
-        2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit4-Tape2C-1)
-  - Unit 05
-      - [Part
-        1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit5-Tape1C-1)
-      - [Part
-        2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit5-Tape2C-1)
-  - Unit 06
-      - [Part
-        1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit6-Tape1C-1)
-      - [Part
-        2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit6-Tape2C-1)
-  - Unit 07
-      - [Part
-        1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit7-Tape1C-1)
-      - [Part
-        2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit7-Tape2C-1)
-  - Unit 08
-      - [Part
-        1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit8-Tape1C-1)
-      - [Part
-        2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit8-Tape2C-1)
+  - Unit 01: [Part
+    1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit1-Tape1C-1)
+    --- [Part
+    2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit1-Tape2C-1)
+  - Unit 02: [Part
+    1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit2-Tape1C-1)
+    --- [Part
+    2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit2-Tape2C-1)
+  - Unit 03: [Part
+    1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit3-Tape1C-1)
+    --- [Part
+    2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit3-Tape2C-1)
+  - Unit 04: [Part
+    1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit4-Tape1C-1)
+    --- [Part
+    2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit4-Tape2C-1)
+  - Unit 05: [Part
+    1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit5-Tape1C-1)
+    --- [Part
+    2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit5-Tape2C-1)
+  - Unit 06: [Part
+    1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit6-Tape1C-1)
+    --- [Part
+    2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit6-Tape2C-1)
+  - Unit 07: [Part
+    1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit7-Tape1C-1)
+    --- [Part
+    2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit7-Tape2C-1)
+  - Unit 08: [Part
+    1](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit8-Tape1C-1)
+    --- [Part
+    2](/group/fsi-import/FSI-Mandarin-Module7-Society-Unit8-Tape2C-1)
 
 ### Module 8: Traveling in China
 
-  - Unit 01
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 02
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 03
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 04
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 05
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 06
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 07
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 08
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
+  - Unit 01: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 02: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 03: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 04: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 05: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 06: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 07: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 08: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
 
 ### Module 9: Life in China
 
-  - Unit 01
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 02
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 03
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 04
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 05
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 06
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 07
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
-  - Unit 08
-      - \[\[|Part 1\]\]
-      - \[\[|Part 2\]\]
+  - Unit 01: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 02: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 03: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 04: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 05: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 06: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 07: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
+  - Unit 08: \[\[|Part 1\]\] --- \[\[|Part 2\]\]
 
 ### Optional Module: Car
 
