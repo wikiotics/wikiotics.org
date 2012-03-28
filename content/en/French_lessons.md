@@ -8,3 +8,6 @@ languageCode = "en"
   - [Introduction](/fr/Introduction)
   - [Greetings](/en/FrenchGreetings-WikiBabel)
   - [Numbers](/fr/Nombres)
+
+We have a growing number of French lessons imported from
+[FSI](/fr/FSI_French_lessons).
