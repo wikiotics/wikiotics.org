@@ -20,47 +20,32 @@ FSI tapes.
 
 #### Unit 1
 
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-01-lesson-01|lesson
-1\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-01-lesson-02|lesson
-2\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-01-lesson-03|lesson
-3\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-01-lesson-04|lesson
-4\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-01-lesson-05|lesson
-5\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-01-lesson-06|lesson
-6\]
+[lesson
+1](/fr/FSI-French-basic-course-revised-volume-01-unit-01-lesson-01)[lesson
+2](/fr/FSI-French-basic-course-revised-volume-01-unit-01-lesson-02)[lesson
+3](/fr/FSI-French-basic-course-revised-volume-01-unit-01-lesson-03)[lesson
+4](/fr/FSI-French-basic-course-revised-volume-01-unit-01-lesson-04)[lesson
+5](/fr/FSI-French-basic-course-revised-volume-01-unit-01-lesson-05)[lesson
+6](/fr/FSI-French-basic-course-revised-volume-01-unit-01-lesson-06)
 
 #### Unit 2
 
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-02-lesson-01|lesson
-1\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-02-lesson-02|lesson
-2\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-02-lesson-03|lesson
-3\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-02-lesson-04|lesson
-4\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-02-lesson-05|lesson
-5\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-02-lesson-06|lesson
-6\]
+[lesson
+1](/fr/FSI-French-basic-course-revised-volume-01-unit-02-lesson-01)[lesson
+2](/fr/FSI-French-basic-course-revised-volume-01-unit-02-lesson-02)[lesson
+3](/fr/FSI-French-basic-course-revised-volume-01-unit-02-lesson-03)[lesson
+4](/fr/FSI-French-basic-course-revised-volume-01-unit-02-lesson-04)[lesson
+5](/fr/FSI-French-basic-course-revised-volume-01-unit-02-lesson-05)[lesson
+6](/fr/FSI-French-basic-course-revised-volume-01-unit-02-lesson-06)
 
 #### Unit 3
 
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-03-lesson-01|lesson
-1\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-03-lesson-02|lesson
-2\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-03-lesson-03|lesson
-3\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-03-lesson-04|lesson
-4\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-03-lesson-05|lesson
-5\]
-\[\[fr:FSI-French-basic-course-revised-volume-01-unit-03-lesson-06|lesson
-6\]
+[lesson
+1](/fr/FSI-French-basic-course-revised-volume-01-unit-03-lesson-01)[lesson
+2](/fr/FSI-French-basic-course-revised-volume-01-unit-03-lesson-02)[lesson
+3](/fr/FSI-French-basic-course-revised-volume-01-unit-03-lesson-03)[lesson
+4](/fr/FSI-French-basic-course-revised-volume-01-unit-03-lesson-04)[lesson
+5](/fr/FSI-French-basic-course-revised-volume-01-unit-03-lesson-05)[lesson
+6](/fr/FSI-French-basic-course-revised-volume-01-unit-03-lesson-06)
 
 Following lessons coming soon...
