@@ -97,7 +97,7 @@ found here: <http://wikiotics.org/zh/FSI_Mandarin_lessons>
   - [Unit
     02](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit2-Tape2C-1)
   - [Unit
-    03](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit3-Tape31C-1)
+    03](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit3-Tape3C-1)
   - [Unit
     04](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit4-Tape4-1)
   - [Unit
