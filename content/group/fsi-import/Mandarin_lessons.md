@@ -99,7 +99,7 @@ found here: <http://wikiotics.org/zh/FSI_Mandarin_lessons>
   - [Unit
     03](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit3-Tape3C-1)
   - [Unit
-    04](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit4-Tape4-1)
+    04](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit4-Tape4C-1)
   - [Unit
     05](/group/fsi-import/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit5-Tape5C-1)
   - [Unit
