@@ -50,7 +50,7 @@ they are available in the "fsi-import" group here:
 
 ### Module 4: Directions
 
-  - [Unit 01](/zh/FSI-Mandarin-Module4-Directions--Unit1-Tape1C-1)
+  - [Unit 01](/zh/FSI-Mandarin-Module4-Directions-Unit1-Tape1C-1)
   - [Unit 02](/zh/FSI-Mandarin-Module4-Directions-Unit2-Tape2C-1)
   - [Unit 03](/zh/FSI-Mandarin-Module4-Directions-Unit3-Tape3C-1)
   - [Unit 04](/zh/FSI-Mandarin-Module4-Directions-Unit4-Tape4C-1)
@@ -74,9 +74,9 @@ they are available in the "fsi-import" group here:
   - [Unit
     02](/zh/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit2-Tape2C-1)
   - [Unit
-    03](/zh/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit3-Tape31C-1)
+    03](/zh/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit3-Tape3C-1)
   - [Unit
-    04](/zh/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit4-Tape4-1)
+    04](/zh/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit4-Tape4c-1)
   - [Unit
     05](/zh/FSI-Mandarin-Module6-Arranging_a_Meeting-Unit5-Tape5C-1)
   - [Unit
