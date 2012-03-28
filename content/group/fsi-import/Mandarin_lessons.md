@@ -7,6 +7,11 @@ List of Mandarin Chinese lessons imported from the FSI materials
 available here:
 <http://fsi-language-courses.org/Content.php?page=Chinese>
 
+These lessons are preserved here as they were originally imported. This
+is primarily an archival list and the lessons are not-editable here. A
+publicly editable version of these lessons, with new additions, can be
+found here: <http://wikiotics.org/zh/FSI_Mandarin_lessons>
+
 ### Module 1: Orientation
 
   - [Unit
