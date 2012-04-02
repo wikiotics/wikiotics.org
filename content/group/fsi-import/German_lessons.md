@@ -17,4 +17,12 @@ editable version is available from [this page](/de/FSI_German_lessons).
 
 [tape
 01](/group/fsi-import/FSI_German_Basic_Course-Volume_01-Unit_01-Tape_01)[tape
-02](/group/fsi-import/FSI_German_Basic_Course-Volume_01-Unit_01-Tape_02)
+02](/group/fsi-import/FSI_German_Basic_Course-Volume_01-Unit_01-Tape_02)[tape
+03](/group/fsi-import/FSI_German_Basic_Course-Volume_01-Unit_01-Tape_03)
+
+#### Unit 2
+
+[tape
+01](/group/fsi-import/FSI_German_Basic_Course-Volume_01-Unit_02-Tape_01)
+
+more coming soon...
