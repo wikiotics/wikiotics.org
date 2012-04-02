@@ -9,3 +9,7 @@ title = "German lessons"
 <!-- end list -->
 
   - [Ein erster Versuch](/de/Ein_erster_Versuch)
+
+We are in the process of importing [FSI
+lessons](/de/FSI_German_lessons). Check them out, there is a lot of
+material available there.
