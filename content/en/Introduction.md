@@ -383,8 +383,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/30901369@N00/3998158534"
 title = "Friend."
 [[cards.sides]]
-blob_href = "urn:sha384:S_soer6spBDZ1OCRdf5Y_G_oPrkiLWxxAl0xYzHKjtC-UhyfHCpGe4GUaHwk3fpH"
-href = "urn:sha384:beJ-6fm-k4bn3LlKBwbqw2KY1aQLt5eQwMDZQGo5WEVkjJ491eMoct6Me4MdltWf"
+blob_href = "urn:sha384:MyEJWz5KmjoMNVajwPYSg_ofJZxSE21aWJGiUfJ91_ZKOBGeclQYxR5gLQsVe-0n"
+href = "urn:sha384:FmKzWCPNfhnFAA2Cq6-jMmYOFhUhvhffSEMxFn7xk6sXjhMuavtEMwKY1suH5y-a"
 mime_type = "audio/ogg"
 type = "audio"
 
