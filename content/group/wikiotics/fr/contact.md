@@ -3,8 +3,9 @@ title = "Contacter Wikiotics"
 languageCode = "fr"
 +++
 
-Voici quelques moyens de vous tenir informé(e) des évolutions du site,
-suivant ce qui vous convient le mieux:
+Le plus simple: par email: <contact@wikiotics.org>
+
+Pour vous tenir informé(e) des évolutions du site:
 
   - le blog du projet <http://blog.wikiotics.org>;
   - la page facebook
