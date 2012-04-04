@@ -27,4 +27,9 @@ editable version is available from [this page](/de/FSI_German_lessons).
 02](/group/fsi-import/FSI_German_Basic_Course-Volume_01-Unit_02-Tape_02)[tape
 03](/group/fsi-import/FSI_German_Basic_Course-Volume_01-Unit_02-Tape_03)
 
+#### Unit 3
+
+[tape
+01](/group/fsi-import/FSI_German_Basic_Course-Volume_01-Unit_03-Tape_01)
+
 more coming soon...
