@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Dit son skyn. "
+text = "Die son skyn. "
 type = "phrase"
 
 [[cards.sides]]
