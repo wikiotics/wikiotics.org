@@ -1,12 +1,12 @@
 +++
 title = "Temperature"
-contributors = [ "ian",]
+contributors = [ "ian", "johanroux",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "The drink is cool."
+text = "Die drankie is koel."
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The soup is hot. "
+text = "Die sop is warm. "
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Lying in the snow is cold."
+text = "Dit is koud om in die sneeu te lê."
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Lying on the beach is warm."
+text = "Dit is warm om op die strand te lê."
 type = "phrase"
 
 [[cards.sides]]
