@@ -1,12 +1,12 @@
 +++
 title = "Weather"
-contributors = [ "192.160.130.14", "Kalle", "ian", "mxc",]
+contributors = [ "192.160.130.14", "Kalle", "ian", "johanroux", "mxc",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "It's raining. "
+text = "Dit reën. "
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It's sunny. "
+text = "Dit son skyn. "
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It's cloudy. "
+text = "Dit is bewolk. "
 type = "phrase"
 
 [[cards.sides]]
@@ -69,7 +69,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "It's snowing!"
+text = "Dit sneeu!"
 type = "phrase"
 
 [[cards.sides]]
