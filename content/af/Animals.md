@@ -1,12 +1,12 @@
 +++
 title = "Animals"
-contributors = [ "garrison",]
+contributors = [ "garrison", "johanroux",]
 headings = [ "word", "picture",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "snake"
+text = "slang"
 type = "phrase"
 
 [[cards.sides]]
@@ -24,7 +24,7 @@ title = "Snake"
 [[cards]]
 
 [[cards.sides]]
-text = "bird"
+text = "voël"
 type = "phrase"
 
 [[cards.sides]]
@@ -42,7 +42,7 @@ title = "Bird of Prey"
 [[cards]]
 
 [[cards.sides]]
-text = "fowl"
+text = "haan"
 type = "phrase"
 
 [[cards.sides]]
@@ -60,7 +60,7 @@ title = "Jungle Fowl"
 [[cards]]
 
 [[cards.sides]]
-text = "fish"
+text = "vis"
 type = "phrase"
 
 [[cards.sides]]
@@ -78,7 +78,7 @@ title = "Blue Fin"
 [[cards]]
 
 [[cards.sides]]
-text = "cow"
+text = "koei"
 type = "phrase"
 
 [[cards.sides]]
@@ -96,7 +96,7 @@ title = "Young Cow in White Horse Wood Country Park"
 [[cards]]
 
 [[cards.sides]]
-text = "horse"
+text = "perd"
 type = "phrase"
 
 [[cards.sides]]
@@ -114,7 +114,7 @@ title = "Horse"
 [[cards]]
 
 [[cards.sides]]
-text = "goat"
+text = "bok"
 type = "phrase"
 
 [[cards.sides]]
@@ -132,7 +132,7 @@ title = "Goat"
 [[cards]]
 
 [[cards.sides]]
-text = "pig"
+text = "vark"
 type = "phrase"
 
 [[cards.sides]]
@@ -150,7 +150,7 @@ title = "Pig"
 [[cards]]
 
 [[cards.sides]]
-text = "rat"
+text = "rot"
 type = "phrase"
 
 [[cards.sides]]
@@ -168,7 +168,7 @@ title = "Rats at the park"
 [[cards]]
 
 [[cards.sides]]
-text = "cat"
+text = "kat"
 type = "phrase"
 
 [[cards.sides]]
@@ -186,7 +186,7 @@ title = "Cat"
 [[cards]]
 
 [[cards.sides]]
-text = "dog"
+text = "hond"
 type = "phrase"
 
 [[cards.sides]]
@@ -204,7 +204,7 @@ title = "Socks the dog"
 [[cards]]
 
 [[cards.sides]]
-text = "sheep"
+text = "skaap"
 type = "phrase"
 
 [[cards.sides]]
@@ -222,7 +222,7 @@ title = "Sheep"
 [[cards]]
 
 [[cards.sides]]
-text = "monkey"
+text = "aap"
 type = "phrase"
 
 [[cards.sides]]
