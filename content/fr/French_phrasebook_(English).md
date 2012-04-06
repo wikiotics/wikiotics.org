@@ -35,7 +35,10 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yCzylWJFqMXVxXatUQwlEY4VJiyT--4q7i15-jclSwZCBOFaBu24_Wc0cSI4fIkQ"
+href = "urn:sha384:Wg41V4EnrdQvIqg2-Uz63z6HgUXVUv2aEnEoUeNjAaixXE32Zdgzm6WEYbdg3dIF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
