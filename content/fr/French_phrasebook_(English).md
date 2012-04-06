@@ -2,7 +2,9 @@
 title = "French phrasebook (English)"
 contributors = [ "Laurent",]
 headings = [ "English", "French", "Transcription", "Audio",]
+tags = [ "phrasebook",]
 type = "lesson"
+target-languages = [ "fr",]
 [[cards]]
 
 [[cards.sides]]
@@ -21,11 +23,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Hello (formal)"
+text = "Hello"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Bonjour."
 type = "phrase"
 
 [[cards.sides]]
@@ -42,7 +44,7 @@ text = "Hello (informal)"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Salut."
 type = "phrase"
 
 [[cards.sides]]
@@ -58,7 +60,24 @@ text = "How are you?"
 type = "phrase"
 
 [[cards.sides]]
+text = "Comment allez-vous?"
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "How are you? (informal)"
+type = "phrase"
+
+[[cards.sides]]
+text = "Comment vas-tu?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -73,7 +92,8 @@ text = "Fine, thank you."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Bien, merci."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -88,7 +108,8 @@ text = "What is your name? (formal)"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Comment vous appelez-vous?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -103,7 +124,8 @@ text = "What is your name? (informal)"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Comment t'appelles-tu?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -118,7 +140,8 @@ text = "My name is..."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Je m'appelle ..."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -133,7 +156,8 @@ text = "Nice to meet you."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Enchanté(e) (said by male/female)"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -144,11 +168,28 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Please."
+text = "Please (formal)"
+type = "phrase"
+
+[[cards.sides]]
+text = "S'il vous plait."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Please (informal)"
+type = "phrase"
+
+[[cards.sides]]
+text = "S'il te plait."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -163,7 +204,8 @@ text = "Thank you."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Merci"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -178,7 +220,8 @@ text = "You're welcome."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "De rien."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -193,7 +236,8 @@ text = "yes."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Oui."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -208,7 +252,8 @@ text = "No."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Non."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -223,7 +268,8 @@ text = "Excuse me."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Excusez-moi"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -238,7 +284,8 @@ text = "(I am) Sorry"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Pardon."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -253,7 +300,8 @@ text = "What's the time?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Quelle heure est-il?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -268,7 +316,8 @@ text = "Goodbye (formal)"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Au revoir."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -283,7 +332,8 @@ text = "Goodbye (informal)"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Salut"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -298,7 +348,8 @@ text = "I can't speak French [well]."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Je ne parle pas [bien] français."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -313,7 +364,8 @@ text = "Do you speak English?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Parlez-vous anglais?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -328,7 +380,8 @@ text = "Is there someone here who speaks English?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Est-ce qu'il y'a quelqu'un qui parle anglais ici?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -343,7 +396,8 @@ text = "Help!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Au secours."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -358,7 +412,8 @@ text = "Look out!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Attention!"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -373,7 +428,8 @@ text = "Have a nice day."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Bonne journée!"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -388,7 +444,8 @@ text = "Good day."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Bonjour."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -403,7 +460,8 @@ text = "Good morning."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Bonjour."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -418,7 +476,8 @@ text = "Good evening."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Bonsoir."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -433,7 +492,8 @@ text = "Good night."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Bonne nuit."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -448,7 +508,8 @@ text = "Sweet dreams."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Fais de beaux rêves."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -463,7 +524,8 @@ text = "I don't understand."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Je ne comprends pas."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -478,7 +540,8 @@ text = "Where is the toilet?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Où sont les toilettes?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -493,7 +556,8 @@ text = "How do you say...?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Comment dit-on...?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -508,7 +572,8 @@ text = "What is this called?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Comment appelle-t-on ça?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
