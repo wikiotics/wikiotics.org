@@ -21,6 +21,11 @@ that only you can edit, it will also give you an account on our [Bug
 Tracker](http://code.ductus.us/), where you can report any problems you
 find with the technology or new features you would like to see us build.
 
+If you speak French, [here](/fr/Contributing_for_french_speakers) is a
+list of specific ways to contribute.
+
+[This page](/en/Contribute) is a more general list of ways to help.
+
 ## Help with pictures
 
 The most time consuming part of building a new picture choice lesson is
@@ -69,7 +74,8 @@ features for the site, all of that is software development work being
 done on ductus. The more help we get, the more of it we can build.
 
 If you are interested in helping to improve the basic capabilities of
-Wikiotics, we would be love to [hear from you](/en/contact).
+Wikiotics, we would love to [hear from
+you](/group/wikiotics/en/contact).
 
 For a gauge of project activity at any given time, see this site's
 [recent changes](/special/recent_changes) or the [Ductus development
