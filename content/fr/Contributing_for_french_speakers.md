@@ -1,5 +1,5 @@
 +++
-title = "Contributing for french speakers"
+title = "Contribuer en français"
 languageCode = "fr"
 +++
 
