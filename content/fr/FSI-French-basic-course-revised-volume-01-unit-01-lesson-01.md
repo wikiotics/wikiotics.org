@@ -99,7 +99,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Ne lisez pas."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:LXPGjjpwzkikYPVZQTr8GoBQQWKaPQ5D4VG1s8JP9ZGxzfl47hUfBCikE1qsbi7J"
@@ -114,7 +115,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Ne lisez pas."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:TVTj_Gs_9z3Cs7XhSzTOZ08KSQ3YdiY7eW4es7fdUAsW7jXhlmlttNjfZw9WzSvm"
@@ -129,7 +131,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Je ne vous entends pas."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:ZdMC6P4LOBb3ibInHyKjQr5v0nFk1lg1lm_OMafFMSlTCm6hNChkAd6g7ImD0tC7"
@@ -144,7 +147,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Je ne vous entends pas."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:sQFZIWkdH2CrDkXzVBYA2HYjrlQCuta6DII-z_jZCJrsvi-H8GBsvcXqqhRg7Cr7"
@@ -159,7 +163,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Je ne vous comprends pas."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:YfQGz2f-l2bW2Ie_jxck_iVt-5Lm9Ksa8Qr0uFvkQFRdhYTbh95ojZwCUVqaQgVA"
@@ -174,7 +179,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Je ne vous comprends pas."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:ggIZ7mpH2Nkrpo0gdvdzt0USfzhEsQumHtmoMaYpHYDfLAlYXkPetJNvVUYbWJCr"
@@ -189,7 +195,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Vous êtes en retard."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:d0FNYpAIAbGO97JfQj1rsCigYA4QhpQaL3ozTUxIkS96IGcWlktgLpuuO7bzHjCY"
@@ -204,7 +211,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Vous êtes en retard."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:GHh08ttcP52_m1cxpH56t8vL7QRSiYQo8MwfFzvdjRQl20nGIwLsPNdyWC7Lzldq"
@@ -219,7 +227,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Ecoutez la phrase."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:UYdzLdyrlPd49TuI53dUrhWV41O0hZ9YnOWbP1SDf12lCwm_BTmB2lj6RuJHS21V"
@@ -234,7 +243,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Ecoutez la phrase."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:ifwq7AiEhUCVFUMXooVaDPzZMLB9K2G_b7DNjUGC_ZXzdSZRUNAX8mnM8eatyTAA"
