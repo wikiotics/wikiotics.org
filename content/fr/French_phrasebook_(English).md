@@ -54,7 +54,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:mPeG0dCyWuuvvovY9H2-VJQ4Lu0y1MnLziypA0eqrVIkobJ5sKvV7CwwZ2sNAf8e"
+href = "urn:sha384:dszfgxN-xvbfiOaMr0WR-0HH3nRtWarZ1lu-M2D1LM4QE1TthwiOXjeFe3C-Blq8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -70,7 +73,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ZrgNXHhgRqMoE3JST41BcJwiksGzrwXonp7u8ZMcsP4eMRhdj3UkDwmOIB8iM20G"
+href = "urn:sha384:pSHbnGRF5vOGiQvqqucnqtZcGDmlsIiruBSqYE-XISBEBwcsoGyQdlnbs4ALI-z5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -86,7 +92,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0kffoMKioamuzHzhNgPD7uvcB-64_YGsYhD5hgn-xn48NkyrlUET_N0fVRv43jlT"
+href = "urn:sha384:26K2gkbraGSQAmmSy7K2Ek4ps3dl_LPeBPr1lwaQ2wJl8rGpKgsplX6iYbk9W3G8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
