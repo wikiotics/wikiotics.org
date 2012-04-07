@@ -45,6 +45,6 @@ ne vous embêteront pas.
 
 Pas besoin d'être informaticien, le site est très bien fait.
 
-Une fois vos traductions enregistrées, n'hésitez pas à
-\[group:wikiotics/fr/contact|nous le faire savoir\] pour que nous
-mettions le site à jour.
+Une fois vos traductions enregistrées, n'hésitez pas à [nous le faire
+savoir](/group/wikiotics/fr/contact) pour que nous mettions le site à
+jour.
