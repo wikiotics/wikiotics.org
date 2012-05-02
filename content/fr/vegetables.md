@@ -64,8 +64,17 @@ text = "un radis"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:scS_cosviSHoP-wo9Mhh0p4GQnjZyy3ACHGE0DS8pRKnzySAGh9K8UMoYy0UmURl"
+href = "urn:sha384:StKRn5q2D66dfIP3qymnpbQCw59lSa3kd8RZKYw5reaQpgYhx6GRlw91mDEcEo5m"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Alexandre Duret-Lutz (gadl)"
+author_url = "http://www.flickr.com/people/24183489@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/24183489@N00/2305883566"
+title = "Mr Radish"
 [[cards]]
 
 [[cards.sides]]
@@ -127,8 +136,17 @@ text = "un champignon"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ilHHz22Z_fvQqo6KKQzjIQUpIQJ0mFc0Xypuq9Eswd1ffnHjQe9-YRWQUM2sRLzZ"
+href = "urn:sha384:ntqii0wacGRBQyQnmebh8npalmTr9m4OuBOOu3bqdbbWUD-lVCtGsV42XDQXE8jh"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (peupleloup)"
+author_url = "http://www.flickr.com/people/10601432@N08/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/10601432@N08/2925054398"
+title = "Champignon / Mushroom"
 [[cards]]
 
 [[cards.sides]]
@@ -136,13 +154,39 @@ text = "un concombre"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UuO4tEsIDBzJqJRkGLuF0DPcLcAV_p0KKrc3iP2BWsYyTcD-z8Rqod1-XFonMIl2"
+href = "urn:sha384:a39jf31yCXdLdilX7QD_4aIz-6uLqTcPvO2-_JP5udiwXbup_Unl0kq3l9cHOVFE"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Karen and Brad Emerson (karenandbrademerson)"
+author_url = "http://www.flickr.com/people/10293577@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10293577@N03/4927704196"
+title = "Cucumbers"
 [[cards]]
 
 [[cards.sides]]
 text = "de l'ail"
 type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:KYHcTgeHLPTbOEo82owLX9xLTZh5TQdaR67-T5MoM6hnWf7SUUzBQKf8Fl6_APWS"
+href = "urn:sha384:F6WEKkbjm5zkV1XbHZ6F7hceUN5VFpF-V4aK4zJCeGM-7AfnYMSnYXVHUpL7wDGV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "liz west (Muffet)"
+author_url = "http://www.flickr.com/people/53133240@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/53133240@N00/4131748658"
+title = "garlic"
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
 
 [[cards.sides]]
 type = "empty"
