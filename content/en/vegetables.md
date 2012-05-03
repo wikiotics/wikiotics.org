@@ -1,12 +1,13 @@
 +++
 title = "vegetables"
-contributors = [ "Laurent",]
+contributors = [ "Laurent", "ian",]
 headings = [ "names", "pictures",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "une tomate"
+text = "a tomato"
 type = "phrase"
 
 [[cards.sides]]
@@ -24,7 +25,7 @@ title = "tomate 05"
 [[cards]]
 
 [[cards.sides]]
-text = "un poireau"
+text = "some leeks"
 type = "phrase"
 
 [[cards.sides]]
@@ -42,7 +43,7 @@ title = "Leeks"
 [[cards]]
 
 [[cards.sides]]
-text = "une carotte"
+text = "a carrot"
 type = "phrase"
 
 [[cards.sides]]
@@ -60,7 +61,7 @@ title = "Bon appétit Monsieur Lapin"
 [[cards]]
 
 [[cards.sides]]
-text = "un radis"
+text = "a radish"
 type = "phrase"
 
 [[cards.sides]]
@@ -78,7 +79,7 @@ title = "Mr Radish"
 [[cards]]
 
 [[cards.sides]]
-text = "une courgette"
+text = "a zuchini"
 type = "phrase"
 
 [[cards.sides]]
@@ -96,7 +97,7 @@ title = "courgette"
 [[cards]]
 
 [[cards.sides]]
-text = "un oignon"
+text = "an onion"
 type = "phrase"
 
 [[cards.sides]]
@@ -114,7 +115,7 @@ title = "oignon"
 [[cards]]
 
 [[cards.sides]]
-text = "une aubergine"
+text = "an eggplant"
 type = "phrase"
 
 [[cards.sides]]
@@ -132,7 +133,7 @@ title = "Aubergines - permaculture."
 [[cards]]
 
 [[cards.sides]]
-text = "un champignon"
+text = "a mushroom"
 type = "phrase"
 
 [[cards.sides]]
@@ -150,7 +151,7 @@ title = "Champignon / Mushroom"
 [[cards]]
 
 [[cards.sides]]
-text = "un concombre"
+text = "a cucumber"
 type = "phrase"
 
 [[cards.sides]]
@@ -168,7 +169,7 @@ title = "Cucumbers"
 [[cards]]
 
 [[cards.sides]]
-text = "de l'ail"
+text = "a head of garlic"
 type = "phrase"
 
 [[cards.sides]]
