@@ -1,8 +1,9 @@
 +++
 title = "vegetables"
-contributors = [ "Laurent",]
+contributors = [ "Laurent", "ian",]
 headings = [ "names", "pictures",]
 type = "lesson"
+target-languages = [ "fr",]
 [[cards]]
 
 [[cards.sides]]
