@@ -1,6 +1,7 @@
 +++
 title = "Animals"
-contributors = [ "garrison",]
+contributors = [ "83.189.158.33", "garrison",]
+dividers = [ 4, 8, 12,]
 headings = [ "word", "picture",]
 type = "lesson"
 [[cards]]
@@ -237,6 +238,14 @@ author_url = "http://www.flickr.com/people/60417477@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/60417477@N00/6010643359"
 title = "MONKEY BUSINESS"
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0,]
