@@ -23,3 +23,15 @@ the way to advanced French.
 
   - [Fruit](/fr/fruit)
   - [Vegetables](/fr/vegetables)
+
+## podcast lessons
+
+  - [Greetings](/fr/Greetings)
+  - [Introducing yourself](/fr/Introducing_yourself)
+  -  [Hitch hiking](/fr/Hitch_hiking)
+  - [Numbers from 1 to 10](/fr/Numbers_-_1_to_10)
+  - [Numbers from 10 to 20](/fr/Numbers_-_10_to_20)
+  - [Numbers from 20 to 100](/fr/Numbers_-_20_to_100)
+  - [Sounds in French](/fr/Sounds_in_French)
+  - [Telling time](/fr/Telling_time)
+  - [The survival kit](/fr/The_survival_kit)
