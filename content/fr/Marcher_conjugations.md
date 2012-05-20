@@ -1,10 +1,16 @@
 +++
-title = "Conjugating avoir"
+title = "Conjugating chanter (and other first group verbs)"
 languageCode = "fr"
 +++
 
-Below are the complete conjugations for the verb *avoir* (to have in
+Below are the complete conjugations for the verb *marcher* (to walk in
 French).
+
+Verbs of the first group have their infinitive ending in **-er**. To
+conjugate them, take their infinitive, drop **er**, you get the "root"
+(for instance: **march-** for marcher).
+
+Use that root and append the ending as found in the table below.
 
 ## Indicatif (indicative)
 
@@ -25,69 +31,69 @@ French).
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>j'ai</td>
-<td>j'avais</td>
-<td>eu</td>
-<td>j'ai eu</td>
-<td>j'avais eu</td>
-<td>j'eus eu</td>
-<td>aurai</td>
-<td>j'aurai eu</td>
+<td>march<strong>e</strong></td>
+<td>march<strong>ais</strong></td>
+<td>march<strong>ai</strong></td>
+<td>j'ai march<strong>é</strong></td>
+<td>j'avais march<strong>é</strong></td>
+<td>j'eus march<strong>é</strong></td>
+<td>march<strong>erai</strong></td>
+<td>j'aurai march<strong>é</strong></td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>as</td>
-<td>avais</td>
-<td>eus</td>
-<td>as eu</td>
-<td>avais eu</td>
-<td>eus eu</td>
-<td>auras</td>
-<td>auras eu</td>
+<td>march<strong>es</strong></td>
+<td>march<strong>ais</strong></td>
+<td>march<strong>as</strong></td>
+<td>as march<strong>é</strong></td>
+<td>avais march<strong>é</strong></td>
+<td>eus march<strong>é</strong></td>
+<td>march<strong>eras</strong></td>
+<td>auras march<strong>é</strong></td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>a</td>
-<td>avait</td>
-<td>eut</td>
-<td>a eu</td>
-<td>avait eu</td>
-<td>eut eu</td>
-<td>aura</td>
-<td>aura eu</td>
+<td>march<strong>e</strong></td>
+<td>march<strong>ait</strong></td>
+<td>march<strong>a</strong></td>
+<td>a march<strong>é</strong></td>
+<td>avait march<strong>é</strong></td>
+<td>eut march<strong>é</strong></td>
+<td>march<strong>era</strong></td>
+<td>aura march<strong>é</strong></td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>avons</td>
-<td>avions</td>
-<td>eûmes</td>
-<td>avons eu</td>
-<td>avions eu</td>
-<td>eûmes eu</td>
-<td>aurons</td>
-<td>aurons eu</td>
+<td>march<strong>ons</strong></td>
+<td>march<strong>ions</strong></td>
+<td>march<strong>âmes</strong></td>
+<td>avons march<strong>é</strong></td>
+<td>avions march<strong>é</strong></td>
+<td>eûmes march<strong>é</strong></td>
+<td>march<strong>erons</strong></td>
+<td>aurons march<strong>é</strong></td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>avez</td>
-<td>aviez</td>
-<td>eûtes</td>
-<td>avez eu</td>
-<td>aviez eu</td>
-<td>eûtes eu</td>
-<td>aurez</td>
-<td>aurez eu</td>
+<td>march<strong>ez</strong></td>
+<td>march<strong>iez</strong></td>
+<td>march<strong>âtes</strong></td>
+<td>avez march<strong>é</strong></td>
+<td>aviez march<strong>é</strong></td>
+<td>eûtes march<strong>é</strong></td>
+<td>march<strong>erez</strong></td>
+<td>aurez march<strong>é</strong></td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>ont</td>
-<td>avaient</td>
-<td>eurent</td>
-<td>ont eu</td>
-<td>avaient eu</td>
-<td>eurent eu</td>
-<td>auront</td>
-<td>auront eu</td>
+<td>march<strong>ent</strong></td>
+<td>march<strong>aient</strong></td>
+<td>march<strong>èrent</strong></td>
+<td>ont march<strong>é</strong></td>
+<td>avaient march<strong>é</strong></td>
+<td>eurent march<strong>é</strong></td>
+<td>march<strong>eront</strong></td>
+<td>auront march<strong>é</strong></td>
 </tr>
 </tbody>
 </table>
@@ -107,45 +113,45 @@ French).
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>aie</td>
-<td>j'aie eu</td>
-<td>eusse</td>
-<td>j'eusse eu</td>
+<td>march<strong>e</strong></td>
+<td>j'aie march<strong>é</strong></td>
+<td>march<strong>asse</strong></td>
+<td>j'eusse march<strong>é</strong></td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>aies</td>
-<td>aies eu</td>
-<td>eusses</td>
-<td>eusses eu</td>
+<td>march<strong>es</strong></td>
+<td>aies march<strong>é</strong></td>
+<td>march<strong>asses</strong></td>
+<td>eusses march<strong>é</strong></td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>ait</td>
-<td>ait eu</td>
-<td>eût</td>
-<td>eût eu</td>
+<td>march<strong>e</strong></td>
+<td>ait march<strong>é</strong></td>
+<td>march<strong>ât</strong></td>
+<td>eût march<strong>é</strong></td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>ayons</td>
-<td>ayons eu</td>
-<td>eussions</td>
-<td>eussions eu</td>
+<td>march<strong>ions</strong></td>
+<td>ayons march<strong>é</strong></td>
+<td>march<strong>assions</strong></td>
+<td>eussions march<strong>é</strong></td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>ayez</td>
-<td>ayez eu</td>
-<td>eussiez</td>
-<td>eussiez eu</td>
+<td>march<strong>iez</strong></td>
+<td>ayez march<strong>é</strong></td>
+<td>march<strong>assiez</strong></td>
+<td>eussiez march<strong>é</strong></td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>aient</td>
-<td>aient eu</td>
-<td>eussent</td>
-<td>eussent eu </td>
+<td>march<strong>ent</strong></td>
+<td>aient march<strong>é</strong></td>
+<td>marchassent**</td>
+<td>eussent march<strong>é</strong> </td>
 </tr>
 </tbody>
 </table>
@@ -164,39 +170,39 @@ French).
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>j'aurais</td>
-<td>j'aurais eu</td>
-<td>j'eusse eu</td>
+<td>march<strong>erais</strong></td>
+<td>j'aurais march<strong>é</strong></td>
+<td>j'eusse march<strong>é</strong></td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>aurais</td>
-<td>aurais eu</td>
-<td>eusses eu</td>
+<td>march<strong>erais</strong></td>
+<td>aurais march<strong>é</strong></td>
+<td>eusses march<strong>é</strong></td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>aurait</td>
-<td>aurait eu</td>
-<td>eût eu</td>
+<td>march<strong>erait</strong></td>
+<td>aurait march<strong>é</strong></td>
+<td>eût march<strong>é</strong></td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>aurions</td>
-<td>aurions eu</td>
-<td>eussions eu</td>
+<td>march<strong>erions</strong></td>
+<td>aurions march<strong>é</strong></td>
+<td>eussions march<strong>é</strong></td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>auriez</td>
-<td>auriez eu</td>
-<td>eussiez eu</td>
+<td>march<strong>eriez</strong></td>
+<td>auriez march<strong>é</strong></td>
+<td>eussiez march<strong>é</strong></td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>auraient</td>
-<td>auraient eu</td>
-<td>eussent eu</td>
+<td>march<strong>eraient</strong></td>
+<td>auraient march<strong>é</strong></td>
+<td>eussent march<strong>é</strong></td>
 </tr>
 </tbody>
 </table>
@@ -212,16 +218,16 @@ French).
 </thead>
 <tbody>
 <tr class="odd">
-<td>aie</td>
-<td>aie eu</td>
+<td>march<strong>e</strong></td>
+<td>aie march<strong>é</strong></td>
 </tr>
 <tr class="even">
-<td>ayons</td>
-<td>ayons été</td>
+<td>march<strong>ons</strong></td>
+<td>ayons march<strong>é</strong></td>
 </tr>
 <tr class="odd">
-<td>ayez</td>
-<td>ayez été</td>
+<td>march<strong>ez</strong></td>
+<td>ayez march<strong>é</strong></td>
 </tr>
 </tbody>
 </table>
@@ -237,20 +243,8 @@ French).
 </thead>
 <tbody>
 <tr class="odd">
-<td>ayant</td>
-<td>eu</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>eue</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>eus</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>eues</td>
+<td>march<strong>ant</strong></td>
+<td>march<strong>é</strong></td>
 </tr>
 </tbody>
 </table>
@@ -260,7 +254,7 @@ French).
 <table>
 <tbody>
 <tr class="odd">
-<td>avoir</td>
+<td>march<strong>er</strong></td>
 </tr>
 </tbody>
 </table>
