@@ -1,8 +1,10 @@
 +++
 title = "Introdução"
-contributors = [ "127.0.0.1", "187.116.78.32", "216.27.154.200", "83.99.100.200", "ian",]
+contributors = [ "127.0.0.1", "187.116.78.32", "216.27.154.200", "83.99.100.200", "Laurent", "ian",]
+dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "pt",]
 [[cards]]
 
 [[cards.sides]]
