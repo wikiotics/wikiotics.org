@@ -1,5 +1,5 @@
 +++
-title = "Conjugating chanter (and other first group verbs)"
+title = "Conjugating marcher (and other first group verbs)"
 languageCode = "fr"
 +++
 
