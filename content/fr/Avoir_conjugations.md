@@ -3,7 +3,8 @@ title = "Conjugating avoir"
 languageCode = "fr"
 +++
 
-Below are the complete conjugations for the verb *avoir* (to have).
+Below are the complete conjugations for the verb *avoir* (to have in
+French).
 
 ## Indicatif (indicative)
 
@@ -45,7 +46,7 @@ Below are the complete conjugations for the verb *avoir* (to have).
 <td>auras eu</td>
 </tr>
 <tr class="odd">
-<td>il/elle</td>
+<td>il/elle*</td>
 <td>a</td>
 <td>avait</td>
 <td>eut</td>
@@ -119,7 +120,7 @@ Below are the complete conjugations for the verb *avoir* (to have).
 <td>eusses eu</td>
 </tr>
 <tr class="odd">
-<td>il/elle</td>
+<td>il/elle*</td>
 <td>ait</td>
 <td>ait eu</td>
 <td>eût</td>
@@ -174,7 +175,7 @@ Below are the complete conjugations for the verb *avoir* (to have).
 <td>eusses eu</td>
 </tr>
 <tr class="odd">
-<td>il/elle</td>
+<td>il/elle*</td>
 <td>aurait</td>
 <td>aurait eu</td>
 <td>eût eu</td>
@@ -263,3 +264,5 @@ Below are the complete conjugations for the verb *avoir* (to have).
 </tr>
 </tbody>
 </table>
+
+\* **on** follows the same conjugation as **elle** and **il**
