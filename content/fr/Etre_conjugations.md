@@ -3,6 +3,8 @@ title = "Conjugating être"
 languageCode = "fr"
 +++
 
+Below are the complete conjugations for the verb *être* (to be).
+
 ## Indicatif (indicative)
 
 <table>
