@@ -18,6 +18,7 @@ the way to advanced French.
 
   - [Masculine and feminine](/fr/Masculine_and_feminine_in_French)
   - [Tu and Vous](/fr/Tu_and_vous_in_French)
+  - [French verbs](/fr/French_verbs)
 
 ## Vocabulary quizzes
 
