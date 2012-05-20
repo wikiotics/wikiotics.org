@@ -31,7 +31,7 @@ French has several "modes" for verbs.
 French regular verbs are split in 3 groups:
 
   - First group: verbs whose infinitive ends in "-er" (except "aller").
-    "Chanter" (to sing) is a good example.
+    They are conjugated like [marcher](/fr/Marcher_conjugations).
   - Second group: verbs whose infinitive ends in "-ir". The typical
     example is "finir" (to finish).
   - Third group: everything else, with infinitives usually ending in
