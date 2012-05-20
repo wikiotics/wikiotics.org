@@ -1,9 +1,9 @@
 +++
-title = "Conjugating être"
+title = "Conjugating avoir"
 languageCode = "fr"
 +++
 
-Below are the complete conjugations for the verb *être* (to be).
+Below are the complete conjugations for the verb *avoir* (to have).
 
 ## Indicatif (indicative)
 
@@ -24,69 +24,69 @@ Below are the complete conjugations for the verb *être* (to be).
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>suis</td>
-<td>j'étais</td>
-<td>fus</td>
-<td>j'ai été</td>
-<td>j'avais été</td>
-<td>j'eus été</td>
-<td>serai</td>
-<td>j'aurai été</td>
+<td>j'ai</td>
+<td>j'avais</td>
+<td>eu</td>
+<td>j'ai eu</td>
+<td>j'avais eu</td>
+<td>j'eus eu</td>
+<td>aurai</td>
+<td>j'aurai eu</td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>es</td>
-<td>étais</td>
-<td>fus</td>
-<td>as été</td>
-<td>avais été</td>
-<td>eus été</td>
-<td>seras</td>
-<td>auras été</td>
+<td>as</td>
+<td>avais</td>
+<td>eus</td>
+<td>as eu</td>
+<td>avais eu</td>
+<td>eus eu</td>
+<td>auras</td>
+<td>auras eu</td>
 </tr>
 <tr class="odd">
 <td>il/elle</td>
-<td>est</td>
-<td>était</td>
-<td>fut</td>
-<td>a été</td>
-<td>avait été</td>
-<td>eut été</td>
-<td>sera</td>
-<td>aura été</td>
+<td>a</td>
+<td>avait</td>
+<td>eut</td>
+<td>a eu</td>
+<td>avait eu</td>
+<td>eut eu</td>
+<td>aura</td>
+<td>aura eu</td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>sommes</td>
-<td>étions</td>
-<td>fûmes</td>
-<td>avons été</td>
-<td>avions été</td>
-<td>eûmes été</td>
-<td>serons</td>
-<td>aurons été</td>
+<td>avons</td>
+<td>avions</td>
+<td>eûmes</td>
+<td>avons eu</td>
+<td>avions eu</td>
+<td>eûmes eu</td>
+<td>aurons</td>
+<td>aurons eu</td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>êtes</td>
-<td>étiez</td>
-<td>fûtes</td>
-<td>avez été</td>
-<td>aviez été</td>
-<td>eûtes été</td>
-<td>serez</td>
-<td>aurez été</td>
+<td>avez</td>
+<td>aviez</td>
+<td>eûtes</td>
+<td>avez eu</td>
+<td>aviez eu</td>
+<td>eûtes eu</td>
+<td>aurez</td>
+<td>aurez eu</td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>sont</td>
-<td>étaient</td>
-<td>furent</td>
-<td>ont été</td>
-<td>avaient été</td>
-<td>eurent été</td>
-<td>seront</td>
-<td>auront été</td>
+<td>ont</td>
+<td>avaient</td>
+<td>eurent</td>
+<td>ont eu</td>
+<td>avaient eu</td>
+<td>eurent eu</td>
+<td>auront</td>
+<td>auront eu</td>
 </tr>
 </tbody>
 </table>
@@ -106,45 +106,45 @@ Below are the complete conjugations for the verb *être* (to be).
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>sois</td>
-<td>j'aie été</td>
-<td>fusse</td>
-<td>j'eusse été</td>
+<td>aie</td>
+<td>j'aie eu</td>
+<td>eusse</td>
+<td>j'eusse eu</td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>sois</td>
-<td>aies été</td>
-<td>fusses</td>
-<td>eusses été</td>
+<td>aies</td>
+<td>aies eu</td>
+<td>eusses</td>
+<td>eusses eu</td>
 </tr>
 <tr class="odd">
 <td>il/elle</td>
-<td>soit</td>
-<td>ait été</td>
-<td>fût</td>
-<td>eût été</td>
+<td>ait</td>
+<td>ait eu</td>
+<td>eût</td>
+<td>eût eu</td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>soyons</td>
-<td>ayons été</td>
-<td>fussions</td>
-<td>eussions été</td>
+<td>ayons</td>
+<td>ayons eu</td>
+<td>eussions</td>
+<td>eussions eu</td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>soyez</td>
-<td>ayez été</td>
-<td>fussiez</td>
-<td>eussiez été</td>
+<td>ayez</td>
+<td>ayez eu</td>
+<td>eussiez</td>
+<td>eussiez eu</td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>soient</td>
-<td>aient été</td>
-<td>fussent</td>
-<td>eussent été </td>
+<td>aient</td>
+<td>aient eu</td>
+<td>eussent</td>
+<td>eussent eu </td>
 </tr>
 </tbody>
 </table>
@@ -163,39 +163,39 @@ Below are the complete conjugations for the verb *être* (to be).
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>serais</td>
-<td>j'aurais été</td>
-<td>j'eusse été</td>
+<td>j'aurais</td>
+<td>j'aurais eu</td>
+<td>j'eusse eu</td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>serais</td>
-<td>aurais été</td>
-<td>eusses été</td>
+<td>aurais</td>
+<td>aurais eu</td>
+<td>eusses eu</td>
 </tr>
 <tr class="odd">
 <td>il/elle</td>
-<td>serait</td>
-<td>aurait été</td>
-<td>eût été</td>
+<td>aurait</td>
+<td>aurait eu</td>
+<td>eût eu</td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>serions</td>
-<td>aurions été</td>
-<td>eussions été</td>
+<td>aurions</td>
+<td>aurions eu</td>
+<td>eussions eu</td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>seriez</td>
-<td>auriez été</td>
-<td>eussiez été</td>
+<td>auriez</td>
+<td>auriez eu</td>
+<td>eussiez eu</td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>seraient</td>
-<td>auraient été</td>
-<td>eussent été</td>
+<td>auraient</td>
+<td>auraient eu</td>
+<td>eussent eu</td>
 </tr>
 </tbody>
 </table>
@@ -205,25 +205,21 @@ Below are the complete conjugations for the verb *être* (to be).
 <table>
 <thead>
 <tr class="header">
-<th>Tense</th>
 <th>Présent</th>
 <th>Passé</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td>sois</td>
-<td>aie été</td>
+<td>aie</td>
+<td>aie eu</td>
 </tr>
 <tr class="even">
-<td></td>
-<td>soyons</td>
+<td>ayons</td>
 <td>ayons été</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td>soyez</td>
+<td>ayez</td>
 <td>ayez été</td>
 </tr>
 </tbody>
@@ -240,18 +236,30 @@ Below are the complete conjugations for the verb *être* (to be).
 </thead>
 <tbody>
 <tr class="odd">
-<td>étant</td>
-<td>été</td>
+<td>ayant</td>
+<td>eu</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>eue</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>eus</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>eues</td>
 </tr>
 </tbody>
 </table>
 
-## Infinitif (infintive)
+## Infinitif (infinitive)
 
 <table>
 <tbody>
 <tr class="odd">
-<td>être</td>
+<td>avoir</td>
 </tr>
 </tbody>
 </table>
