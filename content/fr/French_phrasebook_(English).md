@@ -1378,6 +1378,182 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "80"
+type = "phrase"
+
+[[cards.sides]]
+text = "quatre-vingt"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "90"
+type = "phrase"
+
+[[cards.sides]]
+text = "quatre-vingt-dix"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "100"
+type = "phrase"
+
+[[cards.sides]]
+text = "cent"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "200"
+type = "phrase"
+
+[[cards.sides]]
+text = "deux cent"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "300"
+type = "phrase"
+
+[[cards.sides]]
+text = "trois cent"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "1000"
+type = "phrase"
+
+[[cards.sides]]
+text = "mille"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "2000"
+type = "phrase"
+
+[[cards.sides]]
+text = "deux mille"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "1,000,000"
+type = "phrase"
+
+[[cards.sides]]
+text = "un million"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "number ___"
+type = "phrase"
+
+[[cards.sides]]
+text = "numéro ___"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "less"
+type = "phrase"
+
+[[cards.sides]]
+text = "moins"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "more"
+type = "phrase"
+
+[[cards.sides]]
+text = "plus"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
