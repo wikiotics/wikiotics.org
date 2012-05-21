@@ -5,7 +5,7 @@ headings = [ "English", "French", "Transcription", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
 target-languages = [ "fr",]
-source-languages = [ "af",]
+source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
