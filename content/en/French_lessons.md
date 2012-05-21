@@ -36,3 +36,8 @@ the way to advanced French.
   - [Sounds in French](/fr/Sounds_in_French)
   - [Telling time](/fr/Telling_time)
   - [The survival kit](/fr/The_survival_kit)
+
+## Phrasebook
+
+We have a [phrasebook](/fr/French_phrasebook) in the making. Feel free
+to contribute\!
