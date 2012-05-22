@@ -60,6 +60,6 @@ French regular verbs are split in 3 groups:
   - First group: verbs whose infinitive ends in "-er" (except "aller").
     They are conjugated like [marcher](/fr/Marcher_conjugations).
   - Second group: verbs whose infinitive ends in "-ir". The typical
-    example is "finir" (to finish).
+    example is ["finir"](/fr/Finir_conjugations) (to finish).
   - Third group: everything else, with infinitives usually ending in
     "-re" or "-oir".
