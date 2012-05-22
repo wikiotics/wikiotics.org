@@ -6,11 +6,14 @@ languageCode = "fr"
 Below are the complete conjugations for the verb *finir* (to finish in
 French).
 
-Verbs of the first group have their infinitive ending in **-ir**. To
+Verbs of the second group have their infinitive ending in **-ir**. To
 conjugate them, take their infinitive, drop **ir**, you get the "root"
 (for instance: **fin-** for finir).
 
 Use that root and append the ending as found in the table below.
+
+Other examples of verbs of the second group are: choisir (to choose),
+nourrir (to feed)...
 
 ## Indicatif (indicative)
 
