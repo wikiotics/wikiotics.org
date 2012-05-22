@@ -1,14 +1,14 @@
 +++
-title = "Conjugating marcher (and other first group verbs)"
+title = "Conjugating finir (and other second group verbs)"
 languageCode = "fr"
 +++
 
-Below are the complete conjugations for the verb *marcher* (to walk in
+Below are the complete conjugations for the verb *finir* (to finish in
 French).
 
-Verbs of the first group have their infinitive ending in **-er**. To
-conjugate them, take their infinitive, drop **er**, you get the "root"
-(for instance: **march-** for marcher).
+Verbs of the first group have their infinitive ending in **-ir**. To
+conjugate them, take their infinitive, drop **ir**, you get the "root"
+(for instance: **fin-** for finir).
 
 Use that root and append the ending as found in the table below.
 
@@ -31,69 +31,69 @@ Use that root and append the ending as found in the table below.
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>march<strong>e</strong></td>
-<td>march<strong>ais</strong></td>
-<td>march<strong>ai</strong></td>
-<td>j'ai march<strong>é</strong></td>
-<td>j'avais march<strong>é</strong></td>
-<td>j'eus march<strong>é</strong></td>
-<td>march<strong>erai</strong></td>
-<td>j'aurai march<strong>é</strong></td>
+<td>fin<strong>is</strong></td>
+<td>fin<strong>issais</strong></td>
+<td>fin<strong>is</strong></td>
+<td>j'ai fin<strong>i</strong></td>
+<td>j'avais fin<strong>i</strong></td>
+<td>j'eus fin<strong>i</strong></td>
+<td>fin<strong>irai</strong></td>
+<td>j'aurai fin<strong>i</strong></td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>march<strong>es</strong></td>
-<td>march<strong>ais</strong></td>
-<td>march<strong>as</strong></td>
-<td>as march<strong>é</strong></td>
-<td>avais march<strong>é</strong></td>
-<td>eus march<strong>é</strong></td>
-<td>march<strong>eras</strong></td>
-<td>auras march<strong>é</strong></td>
+<td>fin<strong>is</strong></td>
+<td>fin<strong>issais</strong></td>
+<td>fin<strong>is</strong></td>
+<td>as fin<strong>i</strong></td>
+<td>avais fin<strong>i</strong></td>
+<td>eus fin<strong>i</strong></td>
+<td>fin<strong>iras</strong></td>
+<td>auras fin<strong>i</strong></td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>march<strong>e</strong></td>
-<td>march<strong>ait</strong></td>
-<td>march<strong>a</strong></td>
-<td>a march<strong>é</strong></td>
-<td>avait march<strong>é</strong></td>
-<td>eut march<strong>é</strong></td>
-<td>march<strong>era</strong></td>
-<td>aura march<strong>é</strong></td>
+<td>fin<strong>is</strong></td>
+<td>fin<strong>issait</strong></td>
+<td>fin<strong>it</strong></td>
+<td>a fin<strong>i</strong></td>
+<td>avait fin<strong>i</strong></td>
+<td>eut fin<strong>i</strong></td>
+<td>fin<strong>ira</strong></td>
+<td>aura fin<strong>i</strong></td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>march<strong>ons</strong></td>
-<td>march<strong>ions</strong></td>
-<td>march<strong>âmes</strong></td>
-<td>avons march<strong>é</strong></td>
-<td>avions march<strong>é</strong></td>
-<td>eûmes march<strong>é</strong></td>
-<td>march<strong>erons</strong></td>
-<td>aurons march<strong>é</strong></td>
+<td>fin<strong>issons</strong></td>
+<td>fin<strong>issions</strong></td>
+<td>fin<strong>îmes</strong></td>
+<td>avons fin<strong>i</strong></td>
+<td>avions fin<strong>i</strong></td>
+<td>eûmes fin<strong>i</strong></td>
+<td>fin<strong>irons</strong></td>
+<td>aurons fin<strong>i</strong></td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>march<strong>ez</strong></td>
-<td>march<strong>iez</strong></td>
-<td>march<strong>âtes</strong></td>
-<td>avez march<strong>é</strong></td>
-<td>aviez march<strong>é</strong></td>
-<td>eûtes march<strong>é</strong></td>
-<td>march<strong>erez</strong></td>
-<td>aurez march<strong>é</strong></td>
+<td>fin<strong>issez</strong></td>
+<td>fin<strong>issiez</strong></td>
+<td>fin<strong>îtes</strong></td>
+<td>avez fin<strong>i</strong></td>
+<td>aviez fin<strong>i</strong></td>
+<td>eûtes fin<strong>i</strong></td>
+<td>fin<strong>irez</strong></td>
+<td>aurez fin<strong>i</strong></td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>march<strong>ent</strong></td>
-<td>march<strong>aient</strong></td>
-<td>march<strong>èrent</strong></td>
-<td>ont march<strong>é</strong></td>
-<td>avaient march<strong>é</strong></td>
-<td>eurent march<strong>é</strong></td>
-<td>march<strong>eront</strong></td>
-<td>auront march<strong>é</strong></td>
+<td>fin<strong>issent</strong></td>
+<td>fin<strong>issaient</strong></td>
+<td>fin<strong>irent</strong></td>
+<td>ont fin<strong>i</strong></td>
+<td>avaient fin<strong>i</strong></td>
+<td>eurent fin<strong>i</strong></td>
+<td>fin<strong>iront</strong></td>
+<td>auront fin<strong>i</strong></td>
 </tr>
 </tbody>
 </table>
@@ -113,45 +113,45 @@ Use that root and append the ending as found in the table below.
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>march<strong>e</strong></td>
-<td>j'aie march<strong>é</strong></td>
-<td>march<strong>asse</strong></td>
-<td>j'eusse march<strong>é</strong></td>
+<td>fin<strong>isse</strong></td>
+<td>j'aie fin<strong>i</strong></td>
+<td>fin<strong>isse</strong></td>
+<td>j'eusse fin<strong>i</strong></td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>march<strong>es</strong></td>
-<td>aies march<strong>é</strong></td>
-<td>march<strong>asses</strong></td>
-<td>eusses march<strong>é</strong></td>
+<td>fin<strong>isses</strong></td>
+<td>aies fin<strong>i</strong></td>
+<td>fin<strong>isses</strong></td>
+<td>eusses fin<strong>i</strong></td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>march<strong>e</strong></td>
-<td>ait march<strong>é</strong></td>
-<td>march<strong>ât</strong></td>
-<td>eût march<strong>é</strong></td>
+<td>fin<strong>isse</strong></td>
+<td>ait fin<strong>i</strong></td>
+<td>fin<strong>ît</strong></td>
+<td>eût fin<strong>i</strong></td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>march<strong>ions</strong></td>
-<td>ayons march<strong>é</strong></td>
-<td>march<strong>assions</strong></td>
-<td>eussions march<strong>é</strong></td>
+<td>fin<strong>issions</strong></td>
+<td>ayons fin<strong>i</strong></td>
+<td>fin<strong>issions</strong></td>
+<td>eussions fin<strong>i</strong></td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>march<strong>iez</strong></td>
-<td>ayez march<strong>é</strong></td>
-<td>march<strong>assiez</strong></td>
-<td>eussiez march<strong>é</strong></td>
+<td>fin<strong>issiez</strong></td>
+<td>ayez fin<strong>i</strong></td>
+<td>fin<strong>issiez</strong></td>
+<td>eussiez fin<strong>i</strong></td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>march<strong>ent</strong></td>
-<td>aient march<strong>é</strong></td>
-<td>marchassent**</td>
-<td>eussent march<strong>é</strong> </td>
+<td>fin<strong>issent</strong></td>
+<td>aient fin<strong>i</strong></td>
+<td>fini<strong>issent</strong></td>
+<td>eussent fin<strong>i</strong></td>
 </tr>
 </tbody>
 </table>
@@ -170,39 +170,39 @@ Use that root and append the ending as found in the table below.
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>march<strong>erais</strong></td>
-<td>j'aurais march<strong>é</strong></td>
-<td>j'eusse march<strong>é</strong></td>
+<td>fin<strong>irais</strong></td>
+<td>j'aurais fin<strong>i</strong></td>
+<td>j'eusse fin<strong>i</strong></td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>march<strong>erais</strong></td>
-<td>aurais march<strong>é</strong></td>
-<td>eusses march<strong>é</strong></td>
+<td>fin<strong>irais</strong></td>
+<td>aurais fin<strong>i</strong></td>
+<td>eusses fin<strong>i</strong></td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>march<strong>erait</strong></td>
-<td>aurait march<strong>é</strong></td>
-<td>eût march<strong>é</strong></td>
+<td>fin<strong>irait</strong></td>
+<td>aurait fin<strong>i</strong></td>
+<td>eût fin<strong>i</strong></td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>march<strong>erions</strong></td>
-<td>aurions march<strong>é</strong></td>
-<td>eussions march<strong>é</strong></td>
+<td>fin<strong>irions</strong></td>
+<td>aurions fin<strong>i</strong></td>
+<td>eussions fin<strong>i</strong></td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>march<strong>eriez</strong></td>
-<td>auriez march<strong>é</strong></td>
-<td>eussiez march<strong>é</strong></td>
+<td>fin<strong>iriez</strong></td>
+<td>auriez fin<strong>i</strong></td>
+<td>eussiez fin<strong>i</strong></td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>march<strong>eraient</strong></td>
-<td>auraient march<strong>é</strong></td>
-<td>eussent march<strong>é</strong></td>
+<td>fin<strong>iraient</strong></td>
+<td>auraient fin<strong>i</strong></td>
+<td>eussent fin<strong>i</strong></td>
 </tr>
 </tbody>
 </table>
@@ -218,16 +218,16 @@ Use that root and append the ending as found in the table below.
 </thead>
 <tbody>
 <tr class="odd">
-<td>march<strong>e</strong></td>
-<td>aie march<strong>é</strong></td>
+<td>fin<strong>is</strong></td>
+<td>aie fin<strong>i</strong></td>
 </tr>
 <tr class="even">
-<td>march<strong>ons</strong></td>
-<td>ayons march<strong>é</strong></td>
+<td>fin<strong>ssons</strong></td>
+<td>ayons fin<strong>i</strong></td>
 </tr>
 <tr class="odd">
-<td>march<strong>ez</strong></td>
-<td>ayez march<strong>é</strong></td>
+<td>fin<strong>issez</strong></td>
+<td>ayez fin<strong>i</strong></td>
 </tr>
 </tbody>
 </table>
@@ -243,8 +243,8 @@ Use that root and append the ending as found in the table below.
 </thead>
 <tbody>
 <tr class="odd">
-<td>march<strong>ant</strong></td>
-<td>march<strong>é</strong></td>
+<td>fin<strong>issant</strong></td>
+<td>fin<strong>i</strong></td>
 </tr>
 </tbody>
 </table>
@@ -254,7 +254,7 @@ Use that root and append the ending as found in the table below.
 <table>
 <tbody>
 <tr class="odd">
-<td>march<strong>er</strong></td>
+<td>fin<strong>ir</strong></td>
 </tr>
 </tbody>
 </table>
