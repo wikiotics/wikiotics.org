@@ -1,7 +1,7 @@
 +++
 title = "French phrasebook basics"
 contributors = [ "207.86.247.126", "Laurent",]
-headings = [ "English", "French", "Transcription", "Audio",]
+headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
 target-languages = [ "fr",]
