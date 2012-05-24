@@ -1,11 +1,11 @@
 +++
 title = "French phrasebook basics"
-contributors = [ "Laurent",]
+contributors = [ "207.86.247.126", "Laurent",]
 headings = [ "English", "French", "Transcription", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
 target-languages = [ "fr",]
-source-languages = [ "af",]
+source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
