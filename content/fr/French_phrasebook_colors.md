@@ -1,7 +1,7 @@
 +++
 title = "French phrasebook colors"
 contributors = [ "Laurent",]
-headings = [ "English", "French", "Transcription", "Audio",]
+headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
 target-languages = [ "fr",]
@@ -184,7 +184,7 @@ type = "empty"
 
 [[interactions]]
 audio = 3
-transcript = 0
+transcript = 1
 type = "podcast"
 
 +++
