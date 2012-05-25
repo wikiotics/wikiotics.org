@@ -1,19 +1,12 @@
 +++
-title = "Conjugating finir (and other second group verbs)"
+title = "Conjugating partir"
 languageCode = "fr"
 +++
 
-Below are the complete conjugations for the verb *finir* (to finish in
-French).
+Below are the complete conjugations for the verb *partir* (to go / to
+leéte in French).
 
-Verbs of the second group have their infinitive ending in **-ir**. To
-conjugate them, take their infinitive, drop **ir**, you get the "root"
-(for instance: **fin-** for finir).
-
-Use that root and append the ending as found in the table below.
-
-Other examples of verbs of the second group are: choisir (to choose),
-nourrir (to feed)...
+Partir is a third group verb.
 
 ## Indicatif (indicative)
 
@@ -34,69 +27,69 @@ nourrir (to feed)...
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>fin<strong>is</strong></td>
-<td>fin<strong>issais</strong></td>
-<td>fin<strong>is</strong></td>
-<td>j'ai fin<strong>i</strong></td>
-<td>j'avais fin<strong>i</strong></td>
-<td>j'eus fin<strong>i</strong></td>
-<td>fin<strong>irai</strong></td>
-<td>j'aurai fin<strong>i</strong></td>
+<td>par<strong>s</strong></td>
+<td>par<strong>tais</strong></td>
+<td>par<strong>tis</strong></td>
+<td>suis par<strong>ti</strong></td>
+<td>j'étais par<strong>ti</strong></td>
+<td>fus par<strong>ti</strong></td>
+<td>par<strong>tirai</strong></td>
+<td>serai par<strong>ti</strong></td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>fin<strong>is</strong></td>
-<td>fin<strong>issais</strong></td>
-<td>fin<strong>is</strong></td>
-<td>as fin<strong>i</strong></td>
-<td>avais fin<strong>i</strong></td>
-<td>eus fin<strong>i</strong></td>
-<td>fin<strong>iras</strong></td>
-<td>auras fin<strong>i</strong></td>
+<td>par<strong>s</strong></td>
+<td>par<strong>tais</strong></td>
+<td>par<strong>tis</strong></td>
+<td>es par<strong>ti</strong></td>
+<td>étais par<strong>ti</strong></td>
+<td>fus par<strong>ti</strong></td>
+<td>par<strong>tiras</strong></td>
+<td>seras par<strong>ti</strong></td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>fin<strong>is</strong></td>
-<td>fin<strong>issait</strong></td>
-<td>fin<strong>it</strong></td>
-<td>a fin<strong>i</strong></td>
-<td>avait fin<strong>i</strong></td>
-<td>eut fin<strong>i</strong></td>
-<td>fin<strong>ira</strong></td>
-<td>aura fin<strong>i</strong></td>
+<td>par<strong>t</strong></td>
+<td>par<strong>tait</strong></td>
+<td>par<strong>tit</strong></td>
+<td>est par<strong>ti</strong></td>
+<td>était par<strong>ti</strong></td>
+<td>fut par<strong>ti</strong></td>
+<td>par<strong>tira</strong></td>
+<td>sera par<strong>ti</strong></td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>fin<strong>issons</strong></td>
-<td>fin<strong>issions</strong></td>
-<td>fin<strong>îmes</strong></td>
-<td>avons fin<strong>i</strong></td>
-<td>avions fin<strong>i</strong></td>
-<td>eûmes fin<strong>i</strong></td>
-<td>fin<strong>irons</strong></td>
-<td>aurons fin<strong>i</strong></td>
+<td>par<strong>tons</strong></td>
+<td>par<strong>tions</strong></td>
+<td>par<strong>tîmes</strong></td>
+<td>sommes par<strong>tis</strong></td>
+<td>étions par<strong>tis</strong></td>
+<td>fûmes par<strong>tis</strong></td>
+<td>par<strong>tirons</strong></td>
+<td>serons par<strong>tis</strong></td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>fin<strong>issez</strong></td>
-<td>fin<strong>issiez</strong></td>
-<td>fin<strong>îtes</strong></td>
-<td>avez fin<strong>i</strong></td>
-<td>aviez fin<strong>i</strong></td>
-<td>eûtes fin<strong>i</strong></td>
-<td>fin<strong>irez</strong></td>
-<td>aurez fin<strong>i</strong></td>
+<td>par<strong>tez</strong></td>
+<td>par<strong>tiez</strong></td>
+<td>par<strong>tîtes</strong></td>
+<td>êtes par<strong>tis</strong></td>
+<td>étiez par<strong>tis</strong></td>
+<td>fûtes par<strong>tis</strong></td>
+<td>par<strong>tirez</strong></td>
+<td>serez par<strong>tis</strong></td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>fin<strong>issent</strong></td>
-<td>fin<strong>issaient</strong></td>
-<td>fin<strong>irent</strong></td>
-<td>ont fin<strong>i</strong></td>
-<td>avaient fin<strong>i</strong></td>
-<td>eurent fin<strong>i</strong></td>
-<td>fin<strong>iront</strong></td>
-<td>auront fin<strong>i</strong></td>
+<td>par<strong>tent</strong></td>
+<td>par<strong>taient</strong></td>
+<td>par<strong>tirent</strong></td>
+<td>sont par<strong>tis</strong></td>
+<td>étaient par<strong>tis</strong></td>
+<td>furent par<strong>tis</strong></td>
+<td>par<strong>tiront</strong></td>
+<td>seront par<strong>tis</strong></td>
 </tr>
 </tbody>
 </table>
@@ -116,45 +109,45 @@ nourrir (to feed)...
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>fin<strong>isse</strong></td>
-<td>j'aie fin<strong>i</strong></td>
-<td>fin<strong>isse</strong></td>
-<td>j'eusse fin<strong>i</strong></td>
+<td>par<strong>te</strong></td>
+<td>suis par<strong>ti</strong></td>
+<td>par<strong>tisse</strong></td>
+<td>fusse par<strong>ti</strong></td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>fin<strong>isses</strong></td>
-<td>aies fin<strong>i</strong></td>
-<td>fin<strong>isses</strong></td>
-<td>eusses fin<strong>i</strong></td>
+<td>par<strong>tes</strong></td>
+<td>es par<strong>ti</strong></td>
+<td>par<strong>tisses</strong></td>
+<td>fusses par<strong>ti</strong></td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>fin<strong>isse</strong></td>
-<td>ait fin<strong>i</strong></td>
-<td>fin<strong>ît</strong></td>
-<td>eût fin<strong>i</strong></td>
+<td>par<strong>te</strong></td>
+<td>est par<strong>ti</strong></td>
+<td>par<strong>tît</strong></td>
+<td>fût par<strong>ti</strong></td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>fin<strong>issions</strong></td>
-<td>ayons fin<strong>i</strong></td>
-<td>fin<strong>issions</strong></td>
-<td>eussions fin<strong>i</strong></td>
+<td>par<strong>tions</strong></td>
+<td>sommes par<strong>tis</strong></td>
+<td>par<strong>tissions</strong></td>
+<td>fussions par<strong>tis</strong></td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>fin<strong>issiez</strong></td>
-<td>ayez fin<strong>i</strong></td>
-<td>fin<strong>issiez</strong></td>
-<td>eussiez fin<strong>i</strong></td>
+<td>par<strong>tiez</strong></td>
+<td>êtes par<strong>tis</strong></td>
+<td>par<strong>tissiez</strong></td>
+<td>fussiez par<strong>tis</strong></td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>fin<strong>issent</strong></td>
-<td>aient fin<strong>i</strong></td>
-<td>fini<strong>issent</strong></td>
-<td>eussent fin<strong>i</strong></td>
+<td>par<strong>tent</strong></td>
+<td>sont par<strong>tis</strong></td>
+<td>pari<strong>tissent</strong></td>
+<td>fussent par<strong>tis</strong></td>
 </tr>
 </tbody>
 </table>
@@ -173,39 +166,39 @@ nourrir (to feed)...
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>fin<strong>irais</strong></td>
-<td>j'aurais fin<strong>i</strong></td>
-<td>j'eusse fin<strong>i</strong></td>
+<td>par<strong>tirais</strong></td>
+<td>serais par<strong>ti</strong></td>
+<td>fusse par<strong>ti</strong></td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>fin<strong>irais</strong></td>
-<td>aurais fin<strong>i</strong></td>
-<td>eusses fin<strong>i</strong></td>
+<td>par<strong>tirais</strong></td>
+<td>serais par<strong>ti</strong></td>
+<td>fusses par<strong>ti</strong></td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>fin<strong>irait</strong></td>
-<td>aurait fin<strong>i</strong></td>
-<td>eût fin<strong>i</strong></td>
+<td>par<strong>tirait</strong></td>
+<td>serait par<strong>ti</strong></td>
+<td>fût par<strong>ti</strong></td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>fin<strong>irions</strong></td>
-<td>aurions fin<strong>i</strong></td>
-<td>eussions fin<strong>i</strong></td>
+<td>par<strong>tirions</strong></td>
+<td>serions par<strong>tis</strong></td>
+<td>fussions par<strong>tis</strong></td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>fin<strong>iriez</strong></td>
-<td>auriez fin<strong>i</strong></td>
-<td>eussiez fin<strong>i</strong></td>
+<td>par<strong>tiriez</strong></td>
+<td>seriez par<strong>tis</strong></td>
+<td>fussiez par<strong>tis</strong></td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>fin<strong>iraient</strong></td>
-<td>auraient fin<strong>i</strong></td>
-<td>eussent fin<strong>i</strong></td>
+<td>par<strong>tiraient</strong></td>
+<td>seraient par<strong>tis</strong></td>
+<td>fussent par<strong>tis</strong></td>
 </tr>
 </tbody>
 </table>
@@ -221,16 +214,16 @@ nourrir (to feed)...
 </thead>
 <tbody>
 <tr class="odd">
-<td>fin<strong>is</strong></td>
-<td>aie fin<strong>i</strong></td>
+<td>par<strong>s</strong></td>
+<td>sois par<strong>ti</strong></td>
 </tr>
 <tr class="even">
-<td>fin<strong>ssons</strong></td>
-<td>ayons fin<strong>i</strong></td>
+<td>par<strong>tons</strong></td>
+<td>soyons par<strong>tis</strong></td>
 </tr>
 <tr class="odd">
-<td>fin<strong>issez</strong></td>
-<td>ayez fin<strong>i</strong></td>
+<td>par<strong>tez</strong></td>
+<td>soyez par<strong>tis</strong></td>
 </tr>
 </tbody>
 </table>
@@ -246,18 +239,33 @@ nourrir (to feed)...
 </thead>
 <tbody>
 <tr class="odd">
-<td>fin<strong>issant</strong></td>
-<td>fin<strong>i</strong></td>
+<td>par<strong>issant</strong></td>
+<td>par<strong>ti</strong></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>par<strong>tie</strong></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>par<strong>tis</strong></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>par<strong>ties</strong></td>
 </tr>
 </tbody>
 </table>
 
-## Infinitif (infinitive)
+Note: the past participle in all forms above must be bent according to
+the subject, as *partir* uses the auxiliary verb *être*.
+
+## Inparitif (inparitive)
 
 <table>
 <tbody>
 <tr class="odd">
-<td>fin<strong>ir</strong></td>
+<td>par<strong>ir</strong></td>
 </tr>
 </tbody>
 </table>
