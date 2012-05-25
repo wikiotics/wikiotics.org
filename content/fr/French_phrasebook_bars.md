@@ -9,27 +9,11 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "black"
+text = "Do you serve alcohol?"
 type = "phrase"
 
 [[cards.sides]]
-text = "noir"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "white"
-type = "phrase"
-
-[[cards.sides]]
-text = "blanc"
+text = "Servez-vous de l'alcool?"
 type = "phrase"
 
 [[cards.sides]]
@@ -41,27 +25,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "gray"
+text = "A beer, please"
 type = "phrase"
 
 [[cards.sides]]
-text = "gris"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "red"
-type = "phrase"
-
-[[cards.sides]]
-text = "rouge"
+text = "Une bière s'il vous plaît."
 type = "phrase"
 
 [[cards.sides]]
@@ -73,27 +41,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "green"
+text = "A glass of wine, please."
 type = "phrase"
 
 [[cards.sides]]
-text = "vert"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "blue"
-type = "phrase"
-
-[[cards.sides]]
-text = "bleu"
+text = "Un verre de vin, s'il vous plaît."
 type = "phrase"
 
 [[cards.sides]]
@@ -105,27 +57,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "yellow"
+text = "A bottle, please."
 type = "phrase"
 
 [[cards.sides]]
-text = "jaune"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "orange"
-type = "phrase"
-
-[[cards.sides]]
-text = "orange"
+text = "Une bouteille, s'il vous plaît."
 type = "phrase"
 
 [[cards.sides]]
@@ -137,27 +73,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "purple"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = "mauve"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "brown"
-type = "phrase"
-
-[[cards.sides]]
-text = "marron"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -169,11 +89,59 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "pink"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = "rose"
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards.sides]]
