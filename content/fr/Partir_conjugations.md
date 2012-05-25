@@ -258,14 +258,19 @@ Partir is a third group verb.
 </table>
 
 Note: the past participle in all forms above must be bent according to
-the subject, as *partir* uses the auxiliary verb *être*.
+the subject, as *partir* uses the auxiliary verb *être*. For instance:
 
-## Inparitif (inparitive)
+  - **il** est par**ti**
+  - **elle** est par**tie**
+  - **ils** sont par**tis**
+  - **elles** sont par**ties**
+
+## Impératif (imperative)
 
 <table>
 <tbody>
 <tr class="odd">
-<td>par<strong>ir</strong></td>
+<td>par<strong>tir</strong></td>
 </tr>
 </tbody>
 </table>
