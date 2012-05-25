@@ -1,9 +1,13 @@
 +++
-title = "Conjugating être"
+title = "Conjugating aller"
 languageCode = "fr"
 +++
 
-Below are the complete conjugations for the verb *être* (to be).
+Below are the complete conjugations for the verb *aller* (to go).
+
+Despite its ending in "-er", *aller* is a third group verb, not a first
+group one. It has a few irregular forms, but is a very commonly used
+verb, so is worth learning correctly.
 
 ## Indicatif (indicative)
 
@@ -24,69 +28,69 @@ Below are the complete conjugations for the verb *être* (to be).
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>suis</td>
-<td>j'étais</td>
-<td>fus</td>
-<td>j'ai été</td>
-<td>j'avais été</td>
-<td>j'eus été</td>
-<td>serai</td>
-<td>j'aurai été</td>
+<td>vais</td>
+<td>j'allais</td>
+<td>allai</td>
+<td>suis allé</td>
+<td>j'étais allé</td>
+<td>fus allé</td>
+<td>irai</td>
+<td>serai allé</td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>es</td>
-<td>étais</td>
-<td>fus</td>
-<td>as été</td>
-<td>avais été</td>
-<td>eus été</td>
-<td>seras</td>
-<td>auras été</td>
+<td>vas</td>
+<td>allais</td>
+<td>allas</td>
+<td>es allé</td>
+<td>étais allé</td>
+<td>fus allé</td>
+<td>iras</td>
+<td>seras allé</td>
 </tr>
 <tr class="odd">
 <td>il/elle</td>
-<td>est</td>
-<td>était</td>
-<td>fut</td>
-<td>a été</td>
-<td>avait été</td>
-<td>eut été</td>
-<td>sera</td>
-<td>aura été</td>
+<td>va</td>
+<td>allait</td>
+<td>alla</td>
+<td>est allé</td>
+<td>était allé</td>
+<td>fut allé</td>
+<td>ira</td>
+<td>sera allé</td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>sommes</td>
-<td>étions</td>
-<td>fûmes</td>
-<td>avons été</td>
-<td>avions été</td>
-<td>eûmes été</td>
-<td>serons</td>
-<td>aurons été</td>
+<td>allons</td>
+<td>allions</td>
+<td>allâmes</td>
+<td>sommes allés</td>
+<td>étions allés</td>
+<td>fûmes allés</td>
+<td>irons</td>
+<td>serons allés</td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>êtes</td>
-<td>étiez</td>
-<td>fûtes</td>
-<td>avez été</td>
-<td>aviez été</td>
-<td>eûtes été</td>
-<td>serez</td>
-<td>aurez été</td>
+<td>allez</td>
+<td>alliez</td>
+<td>allâtes</td>
+<td>êtes allés</td>
+<td>étiez allés</td>
+<td>fûtes allés</td>
+<td>irez</td>
+<td>serez allés</td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>sont</td>
-<td>étaient</td>
-<td>furent</td>
-<td>ont été</td>
-<td>avaient été</td>
-<td>eurent été</td>
-<td>seront</td>
-<td>auront été</td>
+<td>vont</td>
+<td>allaient</td>
+<td>allèrent</td>
+<td>sont allés</td>
+<td>étaient allés</td>
+<td>furent allés</td>
+<td>iront</td>
+<td>seront allés</td>
 </tr>
 </tbody>
 </table>
@@ -106,45 +110,45 @@ Below are the complete conjugations for the verb *être* (to be).
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>sois</td>
-<td>j'aie été</td>
-<td>fusse</td>
-<td>j'eusse été</td>
+<td>aille</td>
+<td>sois allé</td>
+<td>allasse</td>
+<td>fusse allé</td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>sois</td>
-<td>aies été</td>
-<td>fusses</td>
-<td>eusses été</td>
+<td>ailles</td>
+<td>sois allé</td>
+<td>allasses</td>
+<td>fusses allé</td>
 </tr>
 <tr class="odd">
 <td>il/elle</td>
-<td>soit</td>
-<td>ait été</td>
-<td>fût</td>
-<td>eût été</td>
+<td>aille</td>
+<td>soit allé</td>
+<td>allât</td>
+<td>fût allé</td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>soyons</td>
-<td>ayons été</td>
-<td>fussions</td>
-<td>eussions été</td>
+<td>allions</td>
+<td>soyons allés</td>
+<td>allassions</td>
+<td>fussions allés</td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>soyez</td>
-<td>ayez été</td>
-<td>fussiez</td>
-<td>eussiez été</td>
+<td>alliez</td>
+<td>soyez allés</td>
+<td>allassiez</td>
+<td>fussiez allés</td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>soient</td>
-<td>aient été</td>
-<td>fussent</td>
-<td>eussent été </td>
+<td>aillent</td>
+<td>soient allés</td>
+<td>allassent</td>
+<td>fussent allés </td>
 </tr>
 </tbody>
 </table>
@@ -163,39 +167,39 @@ Below are the complete conjugations for the verb *être* (to be).
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>serais</td>
-<td>j'aurais été</td>
-<td>j'eusse été</td>
+<td>irais</td>
+<td>serais allé</td>
+<td>fusse allé</td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>serais</td>
-<td>aurais été</td>
-<td>eusses été</td>
+<td>irais</td>
+<td>serais allé</td>
+<td>fusses allé</td>
 </tr>
 <tr class="odd">
 <td>il/elle</td>
-<td>serait</td>
-<td>aurait été</td>
-<td>eût été</td>
+<td>irait</td>
+<td>serait allé</td>
+<td>fût allé</td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>serions</td>
-<td>aurions été</td>
-<td>eussions été</td>
+<td>irions</td>
+<td>serions allés</td>
+<td>fussions allés</td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>seriez</td>
-<td>auriez été</td>
-<td>eussiez été</td>
+<td>iriez</td>
+<td>series allés</td>
+<td>fussiez allés</td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>seraient</td>
-<td>auraient été</td>
-<td>eussent été</td>
+<td>iraient</td>
+<td>seraient allés</td>
+<td>fussent allés</td>
 </tr>
 </tbody>
 </table>
@@ -213,21 +217,23 @@ Below are the complete conjugations for the verb *être* (to be).
 <tbody>
 <tr class="odd">
 <td></td>
-<td>sois</td>
-<td>aie été</td>
+<td>va*</td>
+<td>sois allé</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>soyons</td>
-<td>ayons été</td>
+<td>allons</td>
+<td>soyons allés</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>soyez</td>
-<td>ayez été</td>
+<td>allez</td>
+<td>soyez allés</td>
 </tr>
 </tbody>
 </table>
+
+\* *va* becomes *vas* in front of "y", like: *vas-y*
 
 ## Participes
 
@@ -240,18 +246,37 @@ Below are the complete conjugations for the verb *être* (to be).
 </thead>
 <tbody>
 <tr class="odd">
-<td>étant</td>
-<td>été</td>
+<td>allant</td>
+<td>allé</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>allée</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>allés</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>allées</td>
 </tr>
 </tbody>
 </table>
 
-## Infinitif (infintive)
+## Infinitif (infinitive)
 
 <table>
+<thead>
+<tr class="header">
+<th>présent</th>
+<th>passé</th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td>être</td>
+<td>aller</td>
+<td>être aller</td>
 </tr>
 </tbody>
 </table>
