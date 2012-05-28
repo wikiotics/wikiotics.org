@@ -26,6 +26,7 @@ phrasebook and adapt it to your accent.
   - [Accomodation](/fr/French_phrasebook_accomodation)
   - [Transportation](/fr/French_phrasebook_transportation) (incl:
     directions, bus, train, taxi...)
+  - [At the airport](/fr/French_phrasebook_airport)
   - [Money](/fr/French_phrasebook_money)
   - [Eating](/fr/French_phrasebook_eating)
   - [Bars](/fr/French_phrasebook_bars)
