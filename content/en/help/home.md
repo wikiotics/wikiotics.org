@@ -13,7 +13,8 @@ existing content on the site.
 
 ## Contributing content
 
-  - [Correcting mistakes](/en/help/Correcting_mistakes)
+  - [Correcting mistakes or improving a
+    lesson](/en/help/Modifying_content)
   - [Creating a lesson from scratch](/en/help/Creating_a_lesson)
   - [Using a lesson as a
     template](/en/help/Using_a_lesson_as_a_template)
