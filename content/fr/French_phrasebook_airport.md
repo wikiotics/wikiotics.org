@@ -9,27 +9,11 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "Do you serve alcohol?"
+text = "the airport"
 type = "phrase"
 
 [[cards.sides]]
-text = "Servez-vous de l'alcool?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "A beer, please"
-type = "phrase"
-
-[[cards.sides]]
-text = "Une bière s'il vous plaît."
+text = "l'aéroport"
 type = "phrase"
 
 [[cards.sides]]
@@ -41,27 +25,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "A glass of wine, please."
+text = "Where is the check-in?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Un verre de vin, s'il vous plaît."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "A bottle, please."
-type = "phrase"
-
-[[cards.sides]]
-text = "Une bouteille, s'il vous plaît."
+text = "Où est l'enregistrement?"
 type = "phrase"
 
 [[cards.sides]]
@@ -73,27 +41,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "I would like to check-in."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
+text = "Je voudrais m'enregistrer."
 type = "phrase"
 
 [[cards.sides]]
@@ -105,27 +57,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "I am going to ..."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
+text = "Je vais à ..."
 type = "phrase"
 
 [[cards.sides]]
@@ -137,11 +73,59 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "I'm checking-in this bag."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "J'enregistre ce sac."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is my cabin luggage."
+type = "phrase"
+
+[[cards.sides]]
+text = "Ceci est mon bagage cabine."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What time is the boarding?"
+type = "phrase"
+
+[[cards.sides]]
+text = "A quelle heure est l'embarquement?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Où est la porte d'embarquement?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Where is the boarding gate?"
 type = "phrase"
 
 [[cards.sides]]
