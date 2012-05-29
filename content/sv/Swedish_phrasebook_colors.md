@@ -4,7 +4,7 @@ contributors = [ "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
-target-languages = [ "fr",]
+target-languages = [ "sv",]
 source-languages = [ "en",]
 [[cards]]
 
@@ -13,7 +13,7 @@ text = "black"
 type = "phrase"
 
 [[cards.sides]]
-text = "noir"
+text = "svart"
 type = "phrase"
 
 [[cards.sides]]
@@ -29,7 +29,7 @@ text = "white"
 type = "phrase"
 
 [[cards.sides]]
-text = "blanc"
+text = "vit"
 type = "phrase"
 
 [[cards.sides]]
@@ -45,7 +45,7 @@ text = "gray"
 type = "phrase"
 
 [[cards.sides]]
-text = "gris"
+text = "grå"
 type = "phrase"
 
 [[cards.sides]]
@@ -61,7 +61,7 @@ text = "red"
 type = "phrase"
 
 [[cards.sides]]
-text = "rouge"
+text = "röd"
 type = "phrase"
 
 [[cards.sides]]
@@ -77,7 +77,7 @@ text = "green"
 type = "phrase"
 
 [[cards.sides]]
-text = "vert"
+text = "grön"
 type = "phrase"
 
 [[cards.sides]]
@@ -93,7 +93,7 @@ text = "blue"
 type = "phrase"
 
 [[cards.sides]]
-text = "bleu"
+text = "blå"
 type = "phrase"
 
 [[cards.sides]]
@@ -109,7 +109,7 @@ text = "yellow"
 type = "phrase"
 
 [[cards.sides]]
-text = "jaune"
+text = "gul"
 type = "phrase"
 
 [[cards.sides]]
@@ -141,7 +141,7 @@ text = "purple"
 type = "phrase"
 
 [[cards.sides]]
-text = "mauve"
+text = "lilafärgad"
 type = "phrase"
 
 [[cards.sides]]
@@ -157,7 +157,7 @@ text = "brown"
 type = "phrase"
 
 [[cards.sides]]
-text = "marron"
+text = "brun"
 type = "phrase"
 
 [[cards.sides]]
@@ -173,7 +173,7 @@ text = "pink"
 type = "phrase"
 
 [[cards.sides]]
-text = "rose"
+text = "rosa"
 type = "phrase"
 
 [[cards.sides]]
