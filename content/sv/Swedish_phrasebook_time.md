@@ -4,8 +4,8 @@ contributors = [ "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
-target-languages = [ "fr",]
-source-languages = [ "af",]
+target-languages = [ "sv",]
+source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
@@ -13,7 +13,7 @@ text = "What time is it?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Quelle heure est-il?"
+text = "Vad är klockan?"
 type = "phrase"
 
 [[cards.sides]]
@@ -29,23 +29,7 @@ text = "It's (ten) o'clock."
 type = "phrase"
 
 [[cards.sides]]
-text = "Il est (dix) heures."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "It's noon."
-type = "phrase"
-
-[[cards.sides]]
-text = "Il est midi."
+text = "Klockan är tio."
 type = "phrase"
 
 [[cards.sides]]
@@ -61,7 +45,7 @@ text = "It's at 5(pm)"
 type = "phrase"
 
 [[cards.sides]]
-text = "C'est à 5 heures (de l'après-midi)"
+text = "Det är klockan 5."
 type = "phrase"
 
 [[cards.sides]]
@@ -77,7 +61,7 @@ text = "now"
 type = "phrase"
 
 [[cards.sides]]
-text = "maintenant"
+text = "nu"
 type = "phrase"
 
 [[cards.sides]]
@@ -93,7 +77,7 @@ text = "later"
 type = "phrase"
 
 [[cards.sides]]
-text = "plus tard"
+text = "senare"
 type = "phrase"
 
 [[cards.sides]]
@@ -109,7 +93,7 @@ text = "before"
 type = "phrase"
 
 [[cards.sides]]
-text = "avant"
+text = "före"
 type = "phrase"
 
 [[cards.sides]]
@@ -125,7 +109,7 @@ text = "after"
 type = "phrase"
 
 [[cards.sides]]
-text = "après"
+text = "efter"
 type = "phrase"
 
 [[cards.sides]]
@@ -141,7 +125,7 @@ text = "morning"
 type = "phrase"
 
 [[cards.sides]]
-text = "le matin"
+text = "morgon"
 type = "phrase"
 
 [[cards.sides]]
@@ -157,7 +141,7 @@ text = "afternoon"
 type = "phrase"
 
 [[cards.sides]]
-text = "l'après-midi"
+text = "eftermiddag"
 type = "phrase"
 
 [[cards.sides]]
@@ -173,7 +157,7 @@ text = "evening"
 type = "phrase"
 
 [[cards.sides]]
-text = "le soir"
+text = "kväll"
 type = "phrase"
 
 [[cards.sides]]
@@ -189,7 +173,7 @@ text = "night"
 type = "phrase"
 
 [[cards.sides]]
-text = "la nuit"
+text = "natt"
 type = "phrase"
 
 [[cards.sides]]
@@ -205,7 +189,7 @@ text = "hour"
 type = "phrase"
 
 [[cards.sides]]
-text = "heure"
+text = "timme"
 type = "phrase"
 
 [[cards.sides]]
@@ -221,7 +205,7 @@ text = "minute"
 type = "phrase"
 
 [[cards.sides]]
-text = "minute"
+text = "minut"
 type = "phrase"
 
 [[cards.sides]]
@@ -237,7 +221,7 @@ text = "today"
 type = "phrase"
 
 [[cards.sides]]
-text = "aujourd'hui"
+text = "idag"
 type = "phrase"
 
 [[cards.sides]]
@@ -253,7 +237,7 @@ text = "tomorrow"
 type = "phrase"
 
 [[cards.sides]]
-text = "demain"
+text = "imorgon"
 type = "phrase"
 
 [[cards.sides]]
@@ -269,22 +253,8 @@ text = "yesterday"
 type = "phrase"
 
 [[cards.sides]]
-text = "hier"
+text = "igår"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards.sides]]
 type = "empty"
