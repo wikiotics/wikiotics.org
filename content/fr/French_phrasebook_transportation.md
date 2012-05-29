@@ -89,6 +89,70 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "Does this train go to ...?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Est-ce que ce train va à ...?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the bus to ...?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Où est le bus pour ...?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Can you take me to ...?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Pouvez-vous me conduire à ...?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Is it far?"
+type = "phrase"
+
+[[cards.sides]]
+text = "C'est loin?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
