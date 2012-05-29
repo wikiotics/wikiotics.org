@@ -9,11 +9,60 @@ source-languages = [ "af",]
 [[cards]]
 
 [[cards.sides]]
-text = "TIME"
+text = "What time is it?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Quelle heure est-il?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "It's (ten) o'clock."
+type = "phrase"
+
+[[cards.sides]]
+text = "Il est (dix) heures."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "It's noon."
+type = "phrase"
+
+[[cards.sides]]
+text = "Il est midi."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "It's at 5(pm)"
+type = "phrase"
+
+[[cards.sides]]
+text = "C'est à 5 heures (de l'après-midi)"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -152,21 +201,6 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "CLOCK TIME"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
 text = "hour"
 type = "phrase"
 
@@ -188,6 +222,54 @@ type = "phrase"
 
 [[cards.sides]]
 text = "minute"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "today"
+type = "phrase"
+
+[[cards.sides]]
+text = "aujourd'hui"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "tomorrow"
+type = "phrase"
+
+[[cards.sides]]
+text = "demain"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "yesterday"
+type = "phrase"
+
+[[cards.sides]]
+text = "hier"
 type = "phrase"
 
 [[cards.sides]]
