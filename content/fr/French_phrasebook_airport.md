@@ -121,11 +121,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Où est la porte d'embarquement?"
+text = "Where is the boarding gate?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Where is the boarding gate?"
+text = "Où est la porte d'embarquement?"
 type = "phrase"
 
 [[cards.sides]]
