@@ -4,8 +4,8 @@ contributors = [ "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
-target-languages = [ "fr",]
-source-languages = [ "af",]
+target-languages = [ "sv",]
+source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
