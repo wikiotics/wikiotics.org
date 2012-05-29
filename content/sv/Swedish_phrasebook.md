@@ -1,34 +1,30 @@
 +++
-title = "French phrasebook"
+title = "Swedish phrasebook"
 languageCode = "fr"
 +++
 
 This phrasebook is split in several sections according to topics. It
 includes a variety of words and sentences in English and their
-translations in French, as well as an audio recording so you can
+translations in Swedish, as well as an audio recording so you can
 actually hear how things are pronounced.
 
 Each section is available as a podcast, so you can download the audio
 version, copy it to your audio player, print out the text, and rehearse
-on your way to France :)
-
-The vocabulary and pronunciation here are French as you'll hear it in
-France. If you speak another version of French, feel free to copy this
-phrasebook and adapt it to your accent.
+on your way to Sweden :)
 
 ## Sections
 
-  - [Basics](/fr/French_phrasebook_basics)
-  - [Problems](/fr/French_phrasebook_problems)
-  - [Numbers](/fr/French_phrasebook_numbers)
-  - [Time](/fr/French_phrasebook_time)
-  - [Colors](/fr/French_phrasebook_colors)
-  - [Accomodation](/fr/French_phrasebook_accomodation)
-  - [Transportation](/fr/French_phrasebook_transportation) (incl:
+  - [Basics](/sv/Swedish_phrasebook_basics)
+  - [Problems](/sv/Swedish_phrasebook_problems)
+  - [Numbers](/sv/Swedish_phrasebook_numbers)
+  - [Time](/sv/Swedish_phrasebook_time)
+  - [Colors](/sv/Swedishh_phrasebook_colors)
+  - [Accomodation](/sv/Swedish_phrasebook_accomodation)
+  - [Transportation](/sv/Swedish_phrasebook_transportation) (incl:
     directions, bus, train, taxi...)
-  - [At the airport](/fr/French_phrasebook_airport)
-  - [Money](/fr/French_phrasebook_money)
-  - [Eating](/fr/French_phrasebook_eating)
-  - [Bars](/fr/French_phrasebook_bars)
-  - [Shopping](/fr/French_phrasebook_shopping)
-  - [Authority](/fr/French_phrasebook_authority)
+  - [At the airport](/sv/Swedish_phrasebook_airport)
+  - [Money](/sv/Swedish_phrasebook_money)
+  - [Eating](/sv/Swedish_phrasebook_eating)
+  - [Bars](/sv/Swedish_phrasebook_bars)
+  - [Shopping](/sv/Swedish_phrasebook_shopping)
+  - [Authority](/sv/Swedish_phrasebook_authority)
