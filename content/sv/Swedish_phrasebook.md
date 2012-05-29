@@ -18,7 +18,7 @@ on your way to Sweden :)
   - [Problems](/sv/Swedish_phrasebook_problems)
   - [Numbers](/sv/Swedish_phrasebook_numbers)
   - [Time](/sv/Swedish_phrasebook_time)
-  - [Colors](/sv/Swedishh_phrasebook_colors)
+  - [Colors](/sv/Swedish_phrasebook_colors)
   - [Accomodation](/sv/Swedish_phrasebook_accomodation)
   - [Transportation](/sv/Swedish_phrasebook_transportation) (incl:
     directions, bus, train, taxi...)
