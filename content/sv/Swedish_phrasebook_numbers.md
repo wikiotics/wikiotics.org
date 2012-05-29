@@ -4,8 +4,8 @@ contributors = [ "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
-target-languages = [ "fr",]
-source-languages = [ "af",]
+target-languages = [ "sv",]
+source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
@@ -28,7 +28,7 @@ text = "1"
 type = "phrase"
 
 [[cards.sides]]
-text = "un"
+text = "en / ett"
 type = "phrase"
 
 [[cards.sides]]
@@ -44,7 +44,7 @@ text = "2"
 type = "phrase"
 
 [[cards.sides]]
-text = "deux"
+text = "två"
 type = "phrase"
 
 [[cards.sides]]
@@ -60,7 +60,7 @@ text = "3"
 type = "phrase"
 
 [[cards.sides]]
-text = "trois"
+text = "tre"
 type = "phrase"
 
 [[cards.sides]]
@@ -76,7 +76,7 @@ text = "4"
 type = "phrase"
 
 [[cards.sides]]
-text = "quatre"
+text = "fyra"
 type = "phrase"
 
 [[cards.sides]]
@@ -92,7 +92,7 @@ text = "5"
 type = "phrase"
 
 [[cards.sides]]
-text = "cinq"
+text = "fem"
 type = "phrase"
 
 [[cards.sides]]
@@ -108,7 +108,7 @@ text = "6"
 type = "phrase"
 
 [[cards.sides]]
-text = "six"
+text = "sex"
 type = "phrase"
 
 [[cards.sides]]
@@ -124,7 +124,7 @@ text = "7"
 type = "phrase"
 
 [[cards.sides]]
-text = "sept"
+text = "sju"
 type = "phrase"
 
 [[cards.sides]]
@@ -140,7 +140,7 @@ text = "8"
 type = "phrase"
 
 [[cards.sides]]
-text = "huit"
+text = "åtta"
 type = "phrase"
 
 [[cards.sides]]
@@ -156,7 +156,7 @@ text = "9"
 type = "phrase"
 
 [[cards.sides]]
-text = "neuf"
+text = "nio"
 type = "phrase"
 
 [[cards.sides]]
@@ -172,7 +172,7 @@ text = "10"
 type = "phrase"
 
 [[cards.sides]]
-text = "dix"
+text = "tio"
 type = "phrase"
 
 [[cards.sides]]
@@ -188,7 +188,7 @@ text = "11"
 type = "phrase"
 
 [[cards.sides]]
-text = "onze"
+text = "elva"
 type = "phrase"
 
 [[cards.sides]]
@@ -204,7 +204,7 @@ text = "12"
 type = "phrase"
 
 [[cards.sides]]
-text = "douze"
+text = "tolv"
 type = "phrase"
 
 [[cards.sides]]
@@ -220,7 +220,7 @@ text = "13"
 type = "phrase"
 
 [[cards.sides]]
-text = "treize"
+text = "tretton"
 type = "phrase"
 
 [[cards.sides]]
@@ -236,7 +236,7 @@ text = "14"
 type = "phrase"
 
 [[cards.sides]]
-text = "quatorze"
+text = "fjorton"
 type = "phrase"
 
 [[cards.sides]]
@@ -252,7 +252,7 @@ text = "15"
 type = "phrase"
 
 [[cards.sides]]
-text = "quinze"
+text = "femton"
 type = "phrase"
 
 [[cards.sides]]
@@ -268,7 +268,7 @@ text = "16"
 type = "phrase"
 
 [[cards.sides]]
-text = "seize"
+text = "sexton"
 type = "phrase"
 
 [[cards.sides]]
@@ -284,7 +284,7 @@ text = "17"
 type = "phrase"
 
 [[cards.sides]]
-text = "dix-sept"
+text = "sjutton"
 type = "phrase"
 
 [[cards.sides]]
@@ -300,7 +300,7 @@ text = "18"
 type = "phrase"
 
 [[cards.sides]]
-text = "dix-huit"
+text = "arton"
 type = "phrase"
 
 [[cards.sides]]
@@ -316,7 +316,7 @@ text = "19"
 type = "phrase"
 
 [[cards.sides]]
-text = "dix-neuf"
+text = "nitton"
 type = "phrase"
 
 [[cards.sides]]
@@ -332,7 +332,7 @@ text = "20"
 type = "phrase"
 
 [[cards.sides]]
-text = "vingt"
+text = "tjugo"
 type = "phrase"
 
 [[cards.sides]]
@@ -348,7 +348,7 @@ text = "21"
 type = "phrase"
 
 [[cards.sides]]
-text = "vingt-et-un"
+text = "tjugo ett"
 type = "phrase"
 
 [[cards.sides]]
@@ -364,7 +364,7 @@ text = "22"
 type = "phrase"
 
 [[cards.sides]]
-text = "vingt-deux"
+text = "tjugo två"
 type = "phrase"
 
 [[cards.sides]]
@@ -380,7 +380,7 @@ text = "23"
 type = "phrase"
 
 [[cards.sides]]
-text = "vingt-trois"
+text = "tjugo tre"
 type = "phrase"
 
 [[cards.sides]]
@@ -396,7 +396,7 @@ text = "30"
 type = "phrase"
 
 [[cards.sides]]
-text = "trente"
+text = "trettio"
 type = "phrase"
 
 [[cards.sides]]
@@ -412,7 +412,7 @@ text = "40"
 type = "phrase"
 
 [[cards.sides]]
-text = "quarante"
+text = "fyrtio"
 type = "phrase"
 
 [[cards.sides]]
@@ -428,7 +428,7 @@ text = "50"
 type = "phrase"
 
 [[cards.sides]]
-text = "cinquante"
+text = "femtio"
 type = "phrase"
 
 [[cards.sides]]
@@ -444,7 +444,7 @@ text = "60"
 type = "phrase"
 
 [[cards.sides]]
-text = "soixante"
+text = "sextio"
 type = "phrase"
 
 [[cards.sides]]
@@ -460,7 +460,7 @@ text = "70"
 type = "phrase"
 
 [[cards.sides]]
-text = "soixante-dix"
+text = "sjutio"
 type = "phrase"
 
 [[cards.sides]]
@@ -476,7 +476,7 @@ text = "80"
 type = "phrase"
 
 [[cards.sides]]
-text = "quatre-vingt"
+text = "åttio"
 type = "phrase"
 
 [[cards.sides]]
@@ -492,7 +492,7 @@ text = "90"
 type = "phrase"
 
 [[cards.sides]]
-text = "quatre-vingt-dix"
+text = "nittio"
 type = "phrase"
 
 [[cards.sides]]
@@ -508,7 +508,7 @@ text = "100"
 type = "phrase"
 
 [[cards.sides]]
-text = "cent"
+text = "hundra"
 type = "phrase"
 
 [[cards.sides]]
@@ -524,7 +524,7 @@ text = "200"
 type = "phrase"
 
 [[cards.sides]]
-text = "deux cent"
+text = "två hundra"
 type = "phrase"
 
 [[cards.sides]]
@@ -540,7 +540,7 @@ text = "300"
 type = "phrase"
 
 [[cards.sides]]
-text = "trois cent"
+text = "tre hundra"
 type = "phrase"
 
 [[cards.sides]]
@@ -556,7 +556,7 @@ text = "1000"
 type = "phrase"
 
 [[cards.sides]]
-text = "mille"
+text = "tusen"
 type = "phrase"
 
 [[cards.sides]]
@@ -572,7 +572,7 @@ text = "2000"
 type = "phrase"
 
 [[cards.sides]]
-text = "deux mille"
+text = "två tusen"
 type = "phrase"
 
 [[cards.sides]]
@@ -588,7 +588,7 @@ text = "1,000,000"
 type = "phrase"
 
 [[cards.sides]]
-text = "un million"
+text = "en miljon"
 type = "phrase"
 
 [[cards.sides]]
@@ -604,7 +604,7 @@ text = "number ___"
 type = "phrase"
 
 [[cards.sides]]
-text = "numéro ___"
+text = "nummer ..."
 type = "phrase"
 
 [[cards.sides]]
@@ -620,7 +620,7 @@ text = "less"
 type = "phrase"
 
 [[cards.sides]]
-text = "moins"
+text = "mindre"
 type = "phrase"
 
 [[cards.sides]]
@@ -636,7 +636,7 @@ text = "more"
 type = "phrase"
 
 [[cards.sides]]
-text = "plus"
+text = "mer"
 type = "phrase"
 
 [[cards.sides]]
