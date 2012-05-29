@@ -1,7 +1,7 @@
 +++
 title = "Swedish phrasebook basics"
 contributors = [ "207.86.247.126", "Laurent",]
-headings = [ "English", "French", "Pronunciation", "Audio",]
+headings = [ "English", "Swedish", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
 target-languages = [ "fr",]
@@ -28,7 +28,7 @@ text = "Hello"
 type = "phrase"
 
 [[cards.sides]]
-text = "Bonjour."
+text = "God dag."
 type = "phrase"
 
 [[cards.sides]]
@@ -36,10 +36,7 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:yCzylWJFqMXVxXatUQwlEY4VJiyT--4q7i15-jclSwZCBOFaBu24_Wc0cSI4fIkQ"
-href = "urn:sha384:Wg41V4EnrdQvIqg2-Uz63z6HgUXVUv2aEnEoUeNjAaixXE32Zdgzm6WEYbdg3dIF"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -48,17 +45,14 @@ text = "Hello (informal)"
 type = "phrase"
 
 [[cards.sides]]
-text = "Salut."
+text = "Hej."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:mPeG0dCyWuuvvovY9H2-VJQ4Lu0y1MnLziypA0eqrVIkobJ5sKvV7CwwZ2sNAf8e"
-href = "urn:sha384:dszfgxN-xvbfiOaMr0WR-0HH3nRtWarZ1lu-M2D1LM4QE1TthwiOXjeFe3C-Blq8"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -67,17 +61,14 @@ text = "How are you?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Comment allez-vous?"
+text = "Hur mår du?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:ZrgNXHhgRqMoE3JST41BcJwiksGzrwXonp7u8ZMcsP4eMRhdj3UkDwmOIB8iM20G"
-href = "urn:sha384:pSHbnGRF5vOGiQvqqucnqtZcGDmlsIiruBSqYE-XISBEBwcsoGyQdlnbs4ALI-z5"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -86,17 +77,14 @@ text = "How are you? (informal)"
 type = "phrase"
 
 [[cards.sides]]
-text = "Comment vas-tu?"
+text = "Hur är läget?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:0kffoMKioamuzHzhNgPD7uvcB-64_YGsYhD5hgn-xn48NkyrlUET_N0fVRv43jlT"
-href = "urn:sha384:26K2gkbraGSQAmmSy7K2Ek4ps3dl_LPeBPr1lwaQ2wJl8rGpKgsplX6iYbk9W3G8"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -105,7 +93,7 @@ text = "Fine, thank you."
 type = "phrase"
 
 [[cards.sides]]
-text = "Bien, merci."
+text = "Bra! Tack!"
 type = "phrase"
 
 [[cards.sides]]
@@ -117,27 +105,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "What is your name? (formal)"
+text = "What is your name?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Comment vous appelez-vous?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "What is your name? (informal)"
-type = "phrase"
-
-[[cards.sides]]
-text = "Comment t'appelles-tu?"
+text = "Vad heter du?"
 type = "phrase"
 
 [[cards.sides]]
@@ -153,7 +125,7 @@ text = "My name is..."
 type = "phrase"
 
 [[cards.sides]]
-text = "Je m'appelle ..."
+text = "Jqg heter ..."
 type = "phrase"
 
 [[cards.sides]]
@@ -169,39 +141,7 @@ text = "Nice to meet you."
 type = "phrase"
 
 [[cards.sides]]
-text = "Enchanté(e) (said by male/female)"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Please (formal)"
-type = "phrase"
-
-[[cards.sides]]
-text = "S'il vous plait."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Please (informal)"
-type = "phrase"
-
-[[cards.sides]]
-text = "S'il te plait."
+text = "Trevligt (att träffas)!"
 type = "phrase"
 
 [[cards.sides]]
@@ -217,17 +157,14 @@ text = "Thank you."
 type = "phrase"
 
 [[cards.sides]]
-text = "Merci"
+text = "Tack."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:l6-ICz8tP6Z7G6phoBCBqYixQCSJh6smo7uUkdMD1-jPdoHkf_-FUyazbvsYmk5i"
-href = "urn:sha384:HfZTEvF_G9oxYKj1takvKqczyTgSx3nDwa72BFzxJUKZCVFBdG3FIH-3WlHc48Zl"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -236,17 +173,14 @@ text = "You're welcome."
 type = "phrase"
 
 [[cards.sides]]
-text = "De rien."
+text = "Var så god."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:tnBSmDk4W6DnCwFp1coCm6wfOq8QcE4yJEud-xdqVIZnVpv88PB3OTLi5G7cf7jm"
-href = "urn:sha384:un5M5F3UY13JS-NBbvSHbNTMx_PeE07mDFA4uAg6tdOgJ9dvfZXuJy-GYcGAktSD"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -255,17 +189,14 @@ text = "yes."
 type = "phrase"
 
 [[cards.sides]]
-text = "Oui."
+text = "Ja"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:OK9d348JKyHzMalD8aMHZcTmbdLiWbXMWOOdAbARkXH6NbzjRdUEb_YqBjg2TulV"
-href = "urn:sha384:0H3VTDOuQmux4cJsV-udfQmUWsqwSIORhhjYH-ktEvUmGlllBDRB7MAoT5ywpgaX"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -274,17 +205,14 @@ text = "No."
 type = "phrase"
 
 [[cards.sides]]
-text = "Non."
+text = "Nej"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:dzoZHA4pbF3c99QZ1-oGM2fD_HVW0-4Zw4ewewsMepf8fgP-N-4zdCvolWFxXRdE"
-href = "urn:sha384:f9LTg4EmleRt3dZPPISNaLsZoDIrcukAmpxngwon-lo-7WJmxEZBGvqdwBBp7PXb"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -293,17 +221,14 @@ text = "Excuse me."
 type = "phrase"
 
 [[cards.sides]]
-text = "Excusez-moi"
+text = "Ursäkta"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:V7YXyGVdAhPY1zzgbNlE-EACDIX6Dyb4zgEE4dHaAJQAvqmKNQWMNXyUGc-TX1HO"
-href = "urn:sha384:L-ivygK3Io8D9IMd1-QjULk6pOiLdY7Xw5GZz8uoFh5gB482noihifx65GwmvcTr"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -312,7 +237,7 @@ text = "(I am) Sorry"
 type = "phrase"
 
 [[cards.sides]]
-text = "Pardon."
+text = "Förlåt."
 type = "phrase"
 
 [[cards.sides]]
@@ -328,7 +253,7 @@ text = "What's the time?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Quelle heure est-il?"
+text = "Vad är klockan?"
 type = "phrase"
 
 [[cards.sides]]
@@ -340,49 +265,27 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Goodbye (formal)"
+text = "Goodbye"
 type = "phrase"
 
 [[cards.sides]]
-text = "Au revoir."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-blob_href = "urn:sha384:0lyRAs2wBqgthNCRx88dW5_MSkYONZzOeaGqonxIb7sfR-RQgrVuDC0JtqaZjlPF"
-href = "urn:sha384:ejPZ6K3aIDFKQR2PrFeI7RNQVKnjuvcv3uUM4ACnGFM6cJObG4LgXsKENbyLj8vw"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Goodbye (informal)"
-type = "phrase"
-
-[[cards.sides]]
-text = "Salut"
+text = "Hej då."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:mPeG0dCyWuuvvovY9H2-VJQ4Lu0y1MnLziypA0eqrVIkobJ5sKvV7CwwZ2sNAf8e"
-href = "urn:sha384:QD9G_UbL4AnYQ0q_plQzpt44GMrGUpa7CaIBXEZvXjTeNaILIHU33vqjvUGnl2bZ"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "I can't speak French [well]."
+text = "I can't speak Swedish."
 type = "phrase"
 
 [[cards.sides]]
-text = "Je ne parle pas [bien] français."
+text = "Jag kan inte svenska."
 type = "phrase"
 
 [[cards.sides]]
@@ -398,7 +301,7 @@ text = "Do you speak English?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Parlez-vous anglais?"
+text = "Pratar du Engelska?"
 type = "phrase"
 
 [[cards.sides]]
@@ -414,7 +317,7 @@ text = "Is there someone here who speaks English?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Est-ce qu'il y'a quelqu'un qui parle anglais ici?"
+text = "Pratar någon Engelska?"
 type = "phrase"
 
 [[cards.sides]]
@@ -430,23 +333,7 @@ text = "Help!"
 type = "phrase"
 
 [[cards.sides]]
-text = "Au secours."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Look out!"
-type = "phrase"
-
-[[cards.sides]]
-text = "Attention!"
+text = "Hjälp!"
 type = "phrase"
 
 [[cards.sides]]
@@ -462,7 +349,7 @@ text = "Have a nice day."
 type = "phrase"
 
 [[cards.sides]]
-text = "Bonne journée!"
+text = "Ha en trevlig dag."
 type = "phrase"
 
 [[cards.sides]]
@@ -478,17 +365,14 @@ text = "Good day."
 type = "phrase"
 
 [[cards.sides]]
-text = "Bonjour."
+text = "God dag."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:1ZngyUIzuexQkXBaBpc466UX6zYHM-a6jN2JlsGx6bnKuEHdwMV-UDyrQhgfZc5J"
-href = "urn:sha384:W6fJd9d1ob8qnHn5LGVFEVm6Ux6n44kKPoRZ5FKQ9lxtEGgHWTBnzHuh57oMIQlY"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -497,17 +381,14 @@ text = "Good morning."
 type = "phrase"
 
 [[cards.sides]]
-text = "Bonjour."
+text = "God morgon."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:yCzylWJFqMXVxXatUQwlEY4VJiyT--4q7i15-jclSwZCBOFaBu24_Wc0cSI4fIkQ"
-href = "urn:sha384:7Qorj9MCAbRIqUB2NMWTl6ys1uB04BUsP8l8tiyWZPGq3lwUFSo1sMx4Ozky9WMS"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -516,17 +397,14 @@ text = "Good evening."
 type = "phrase"
 
 [[cards.sides]]
-text = "Bonsoir."
+text = "God kväll."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:onaFBLgQ6sIqmc3T3g4d3LBCoYfOkjew5fiAmbiNFutArFrzeOtrpajY1nzpMQCI"
-href = "urn:sha384:AJFJ4eX_0xjAIWm2uyWeRsa89v_MfZ8xejNs4va5Lq26XmuIHS8mcf9ugPgkINBa"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -535,7 +413,7 @@ text = "Good night."
 type = "phrase"
 
 [[cards.sides]]
-text = "Bonne nuit."
+text = "God natt."
 type = "phrase"
 
 [[cards.sides]]
@@ -551,7 +429,7 @@ text = "Sweet dreams."
 type = "phrase"
 
 [[cards.sides]]
-text = "Fais de beaux rêves."
+text = "Sov gott"
 type = "phrase"
 
 [[cards.sides]]
@@ -567,17 +445,14 @@ text = "I don't understand."
 type = "phrase"
 
 [[cards.sides]]
-text = "Je ne comprends pas."
+text = "Jag förstår inte."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:AiRJh_Hx5rtfPuE3GBxszP2GPsKWuYNUIukMfHdEekKjMUQN-xukNNgQGZetk2c9"
-href = "urn:sha384:nBGJWZT71AOs5ufwf1qR8ShzZSd-kUZ78kDRIjQRZ69kQoRXeXXdrDNTLKxQtdZq"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -586,7 +461,7 @@ text = "Where is the toilet?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Où sont les toilettes?"
+text = "Vart är toaletten?"
 type = "phrase"
 
 [[cards.sides]]
@@ -602,7 +477,7 @@ text = "How do you say...?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Comment dit-on...?"
+text = "Hur säger man ...?"
 type = "phrase"
 
 [[cards.sides]]
@@ -618,22 +493,8 @@ text = "What is this called?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Comment appelle-t-on ça?"
+text = "Hur kallar man detta?"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards.sides]]
 type = "empty"
