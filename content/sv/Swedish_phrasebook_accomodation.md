@@ -4,7 +4,7 @@ contributors = [ "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
-target-languages = [ "fr",]
+target-languages = [ "sv",]
 source-languages = [ "en",]
 [[cards]]
 
@@ -13,7 +13,7 @@ text = "I'm looking for ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "Je cherche ..."
+text = "Jag letar ..."
 type = "phrase"
 
 [[cards.sides]]
@@ -29,7 +29,7 @@ text = "a hotel"
 type = "phrase"
 
 [[cards.sides]]
-text = "un hotel"
+text = "ett hotell"
 type = "phrase"
 
 [[cards.sides]]
@@ -45,7 +45,7 @@ text = "a guesthouse"
 type = "phrase"
 
 [[cards.sides]]
-text = "une auberge"
+text = "ett gästhem"
 type = "phrase"
 
 [[cards.sides]]
@@ -61,7 +61,7 @@ text = "a camping ground"
 type = "phrase"
 
 [[cards.sides]]
-text = "un camping"
+text = "en campingplats"
 type = "phrase"
 
 [[cards.sides]]
@@ -77,7 +77,7 @@ text = "a youth hostel"
 type = "phrase"
 
 [[cards.sides]]
-text = "une auberge de jeunesse"
+text = "ett vandrarhem"
 type = "phrase"
 
 [[cards.sides]]
@@ -93,7 +93,7 @@ text = "I'd like a ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "Je voudrais ..."
+text = "Jag skulle vilja ..."
 type = "phrase"
 
 [[cards.sides]]
@@ -109,7 +109,7 @@ text = "a single room"
 type = "phrase"
 
 [[cards.sides]]
-text = "une chambre simple"
+text = "ett rum för en person."
 type = "phrase"
 
 [[cards.sides]]
@@ -125,7 +125,7 @@ text = "a double room"
 type = "phrase"
 
 [[cards.sides]]
-text = "une chambre double"
+text = "ett rum för två."
 type = "phrase"
 
 [[cards.sides]]
@@ -141,7 +141,7 @@ text = "a (dorm) bed"
 type = "phrase"
 
 [[cards.sides]]
-text = "un lit (en dortoir)"
+text = "en säng"
 type = "phrase"
 
 [[cards.sides]]
@@ -153,11 +153,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "How much is it per night?"
+text = "How much is the room?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Combien coûte la nuit?"
+text = "Vad kostar rummet?"
 type = "phrase"
 
 [[cards.sides]]
@@ -173,7 +173,7 @@ text = "Is breakfast included?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Le petit déjeûner est inclus?"
+text = "inkluderas frökost i rummet?"
 type = "phrase"
 
 [[cards.sides]]
@@ -189,7 +189,7 @@ text = "Can I see the room?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Puis-je voir la chambre?"
+text = "Kan jag se rummet?"
 type = "phrase"
 
 [[cards.sides]]
@@ -205,7 +205,7 @@ text = "It's fine, I'll take it."
 type = "phrase"
 
 [[cards.sides]]
-text = "C'est bon, je la prends."
+text = "Okej, jag tar det."
 type = "phrase"
 
 [[cards.sides]]
@@ -221,7 +221,7 @@ text = "private bathroom"
 type = "phrase"
 
 [[cards.sides]]
-text = "salle de bain privée"
+text = "eget badrum"
 type = "phrase"
 
 [[cards.sides]]
@@ -237,7 +237,7 @@ text = "shared bathroom"
 type = "phrase"
 
 [[cards.sides]]
-text = "salle de bain partagée"
+text = "gemensamt badrum"
 type = "phrase"
 
 [[cards.sides]]
@@ -253,7 +253,7 @@ text = "It's too expensive."
 type = "phrase"
 
 [[cards.sides]]
-text = "C'est trop cher."
+text = "Det är för dyrt."
 type = "phrase"
 
 [[cards.sides]]
@@ -265,26 +265,12 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "discount"
+text = "Can I get a discount?"
 type = "phrase"
 
 [[cards.sides]]
-text = "réduction"
+text = "kan jag få rabatt?"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards.sides]]
 type = "empty"
