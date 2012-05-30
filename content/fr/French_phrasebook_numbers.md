@@ -396,8 +396,8 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:B7JaVpDy0GbnS81nNA0b3ywiO1-0WjWRKWGdBSxuis-ee1hdGcl0Eb8DP_O7kL-6"
-href = "urn:sha384:JatDAwUE2qxtXsNoJqBygqBItZByTeNUuBK0QEAsZiF6kdVXZQDWQeZNZM6-2euK"
+blob_href = "urn:sha384:FuL1ye04EMMI5bawBodTavyh7z3c96Wo_D4QD2pnDwDegWeEEctBdGiEwZLmhdoF"
+href = "urn:sha384:2kVYP7bBKMhijPkamBvMXCp-rQXmCZ9HBSwHxh8U6t2swSpwfxQdkQy4DpFFVEY1"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -415,7 +415,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:L-ZQ7_oj5SnwkNsmRwDfyNY4qA5S3dZ5BhCbNMvU1Raam9TYzbh0_2Bj-OyLPQqa"
+href = "urn:sha384:HK9mgE6gVkGCCqnX7-RgA34n3YdBpb1azmS9fVnT02Y29Ivf-9RAMowJ-epz9c9l"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
