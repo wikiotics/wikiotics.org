@@ -32,3 +32,5 @@ phrasebook and adapt it to your accent.
   - [Bars](/fr/French_phrasebook_bars)
   - [Shopping](/fr/French_phrasebook_shopping)
   - [Authority](/fr/French_phrasebook_authority)
+
+More French lessons [here](/en/French_lessons)
