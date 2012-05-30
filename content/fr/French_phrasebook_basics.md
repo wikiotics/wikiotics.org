@@ -112,7 +112,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DOSCGs2YjCD2ei4gF4DQao73MlSoKyv-8NF0isz1Vfmmt-KueJViKESH0T_3_KLE"
+href = "urn:sha384:d294AujiShnrSlgJmTza1895_Bgh-ezPuMmT0yuweospd-0Q_NEYcJPFt5wU4KTW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -128,7 +131,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iaAk1X7_asVkLpUIWGIP8k6InMF1OcJO4I47k98fz-1y9zXR7XylMlIJLzxKdC3f"
+href = "urn:sha384:oc9arVjE0XF2tnHeYS1Tqoc5IcQ65UJ786llT4lCZbt48i7ELh3br7dLiaSBoJe3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -144,7 +150,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UWBtfnlBxUqEtoQ53aAR3SSGKs5w0GuHDMW4YrcWOnRT2UtkRsdJf2CoYOtkZhJp"
+href = "urn:sha384:DuhYB5bC810AqJEvbWKmIaNW8aEIksbBiuJn_42mndViVn9VMsE2uZ0wHx2hPaXw"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -160,7 +169,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:j6I1FfZDcihzNfY4IDKYljz74eGA912AmPkQ30L0VI-BZbzk9NKFvfQoTeMlm5so"
+href = "urn:sha384:8BPgHXoUqoqUF_ZMP0KuT0Vy9BsymBtYIhNQEm7QzaX2HaNK62GnAo_NLbInCjTF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -176,7 +188,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XOObimLaLZWSfvEwl_ZrF9umfTVa8NfNJGnPrIYbDcQKIrai9FSRBUVhrbpQ5fdg"
+href = "urn:sha384:O0o2vJvONe2Hq3zrWMTMeBxXZHn6FCQiRpDR4evYNLomWuGo_nVb1XQiJN24pMdz"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -192,7 +207,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DcZ1xS5rWWpas3HIcJ-GwuNJlZKtgpA5uolLXwW8nds6y5i4uxLPAHI9Sw1ET2q8"
+href = "urn:sha384:dVflEDyKJj-jBQmTsQDOiDAXcLhjeMffRui5A4z7K_lhqV9Bf8DytAXa3pci4DN0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -208,7 +226,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Oz3o4nW6gfYnw9VEPhDAvEi357AVvzMBYaFliCWtbKwcp-UV5xqIL44rbMAUCEub"
+href = "urn:sha384:drBtjqD4E6Z-sO-TmZ2IQx1pizK8SzOMqotNP2xA42eDxPzsQl0WAo8gFDArVvwW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
