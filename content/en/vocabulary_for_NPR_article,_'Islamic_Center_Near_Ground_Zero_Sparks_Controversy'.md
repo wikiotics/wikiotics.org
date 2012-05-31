@@ -1,8 +1,9 @@
 +++
 title = "vocabulary for NPR article, 'Islamic Center Near Ground Zero Sparks Controversy'"
-contributors = [ "briannaavenia",]
+contributors = [ "Laurent", "briannaavenia",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
