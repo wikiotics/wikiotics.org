@@ -1,8 +1,9 @@
 +++
 title = "WANY 7 grammar"
-contributors = [ "68.192.218.137", "ian",]
+contributors = [ "68.192.218.137", "Laurent", "ian",]
 headings = [ "prompt", "answer",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
