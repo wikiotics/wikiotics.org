@@ -1,8 +1,9 @@
 +++
 title = "NYC vocabulary"
-contributors = [ "briannaavenia",]
+contributors = [ "Laurent", "briannaavenia",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
