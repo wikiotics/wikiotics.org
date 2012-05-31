@@ -1,8 +1,9 @@
 +++
 title = "WANY 2 article practice"
-contributors = [ "ian",]
+contributors = [ "Laurent", "ian",]
 headings = [ "prompt", "answer",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
