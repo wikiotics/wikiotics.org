@@ -1,8 +1,9 @@
 +++
 title = "Food"
-contributors = [ "garrison", "ian",]
+contributors = [ "Laurent", "garrison", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
