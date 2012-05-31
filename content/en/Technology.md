@@ -1,8 +1,9 @@
 +++
 title = "Technology"
-contributors = [ "mxc",]
+contributors = [ "Laurent", "mxc",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
