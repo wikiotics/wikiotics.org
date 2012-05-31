@@ -1,8 +1,9 @@
 +++
 title = "Meetup Introductions"
-contributors = [ "41.35.131.92", "ian",]
+contributors = [ "41.35.131.92", "Laurent", "ian",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
