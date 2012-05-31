@@ -1,8 +1,9 @@
 +++
 title = "Flowers"
-contributors = [ "169.231.48.249", "216.27.154.200", "91.35.222.241", "garrison",]
+contributors = [ "169.231.48.249", "216.27.154.200", "91.35.222.241", "Laurent", "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
