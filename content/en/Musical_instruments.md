@@ -1,8 +1,9 @@
 +++
 title = "Musical instruments"
-contributors = [ "garrison",]
+contributors = [ "Laurent", "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
