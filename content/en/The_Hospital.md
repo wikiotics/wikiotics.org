@@ -1,8 +1,9 @@
 +++
 title = "The Hospital"
-contributors = [ "briannaavenia", "ian",]
+contributors = [ "Laurent", "briannaavenia", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
