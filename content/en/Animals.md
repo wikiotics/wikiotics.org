@@ -1,9 +1,9 @@
 +++
 title = "Animals"
-contributors = [ "83.189.158.33", "garrison",]
-dividers = [ 4, 8, 12,]
+contributors = [ "83.189.158.33", "Laurent", "garrison",]
 headings = [ "word", "picture",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
