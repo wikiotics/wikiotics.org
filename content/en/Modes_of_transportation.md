@@ -1,8 +1,9 @@
 +++
 title = "Modes of transportation"
-contributors = [ "216.27.154.200", "garrison",]
+contributors = [ "216.27.154.200", "Laurent", "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
