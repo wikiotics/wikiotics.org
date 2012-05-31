@@ -1,8 +1,9 @@
 +++
 title = "Love and Money vocabulary"
-contributors = [ "216.27.154.194", "ian",]
+contributors = [ "216.27.154.194", "Laurent", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
