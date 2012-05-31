@@ -1,8 +1,9 @@
 +++
 title = "Welcome, Parents"
-contributors = [ "24.45.15.36", "briannaavenia", "ian",]
+contributors = [ "24.45.15.36", "Laurent", "briannaavenia", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
