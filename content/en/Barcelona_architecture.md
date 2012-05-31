@@ -1,8 +1,9 @@
 +++
 title = "Barcelona architecture"
-contributors = [ "173.52.138.26",]
+contributors = [ "173.52.138.26", "Laurent",]
 headings = [ "", "",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
