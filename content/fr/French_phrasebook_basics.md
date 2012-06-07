@@ -1,6 +1,6 @@
 +++
 title = "French phrasebook basics"
-contributors = [ "207.86.247.126", "Laurent",]
+contributors = [ "207.86.247.126", "217.21.230.66", "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
@@ -291,6 +291,22 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
+text = "yes, please."
+type = "phrase"
+
+[[cards.sides]]
+text = "Oui, s'il vous plaît."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = "No."
 type = "phrase"
 
@@ -306,6 +322,22 @@ blob_href = "urn:sha384:dzoZHA4pbF3c99QZ1-oGM2fD_HVW0-4Zw4ewewsMepf8fgP-N-4zdCvo
 href = "urn:sha384:f9LTg4EmleRt3dZPPISNaLsZoDIrcukAmpxngwon-lo-7WJmxEZBGvqdwBBp7PXb"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "No, thank you."
+type = "phrase"
+
+[[cards.sides]]
+text = "Non, merci."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -629,6 +661,22 @@ blob_href = "urn:sha384:AiRJh_Hx5rtfPuE3GBxszP2GPsKWuYNUIukMfHdEekKjMUQN-xukNNgQ
 href = "urn:sha384:nBGJWZT71AOs5ufwf1qR8ShzZSd-kUZ78kDRIjQRZ69kQoRXeXXdrDNTLKxQtdZq"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I don't know."
+type = "phrase"
+
+[[cards.sides]]
+text = "Je ne sais pas."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
