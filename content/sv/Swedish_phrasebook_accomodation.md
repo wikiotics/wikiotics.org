@@ -173,7 +173,7 @@ text = "Is breakfast included?"
 type = "phrase"
 
 [[cards.sides]]
-text = "inkluderas frökost i rummet?"
+text = "inkluderas frukost i rummet?"
 type = "phrase"
 
 [[cards.sides]]
