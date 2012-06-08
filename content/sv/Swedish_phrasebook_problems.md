@@ -1,6 +1,6 @@
 +++
 title = "Swedish phrasebook problems"
-contributors = [ "Laurent",]
+contributors = [ "213.114.82.171", "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
@@ -77,7 +77,7 @@ text = "It's an emergency."
 type = "phrase"
 
 [[cards.sides]]
-text = "C'est une urgence."
+text = "Det är en nödsituation"
 type = "phrase"
 
 [[cards.sides]]
