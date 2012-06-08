@@ -150,7 +150,7 @@ Use that root and append the ending as found in the table below.
 <td>ils/elles</td>
 <td>march<strong>ent</strong></td>
 <td>aient march<strong>é</strong></td>
-<td>marchassent**</td>
+<td>march<strong>assent</strong></td>
 <td>eussent march<strong>é</strong> </td>
 </tr>
 </tbody>
