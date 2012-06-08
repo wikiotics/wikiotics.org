@@ -1,6 +1,6 @@
 +++
 title = "Swedish phrasebook basics"
-contributors = [ "207.86.247.126", "Laurent",]
+contributors = [ "207.86.247.126", "213.114.82.171", "Laurent",]
 headings = [ "English", "Swedish", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
@@ -125,7 +125,7 @@ text = "My name is..."
 type = "phrase"
 
 [[cards.sides]]
-text = "Jqg heter ..."
+text = "Jag heter ..."
 type = "phrase"
 
 [[cards.sides]]
