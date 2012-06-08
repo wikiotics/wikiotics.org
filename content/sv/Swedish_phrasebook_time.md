@@ -1,7 +1,7 @@
 +++
 title = "Swedish phrasebook time"
-contributors = [ "Laurent",]
-headings = [ "English", "French", "Pronunciation", "Audio",]
+contributors = [ "89.253.78.194", "Laurent",]
+headings = [ "English", "Swedish", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
 target-languages = [ "sv",]
