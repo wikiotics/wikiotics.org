@@ -1,6 +1,6 @@
 +++
 title = "vegetables"
-contributors = [ "Laurent", "ian",]
+contributors = [ "213.114.82.171", "Laurent", "ian",]
 headings = [ "names", "pictures",]
 type = "lesson"
 target-languages = [ "fr",]
@@ -47,17 +47,17 @@ text = "une carotte"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:DmKhejPSFqYitVLDz0Ri0fsCt2bKQfFzLFaKTJt_NnbenLM26sPmzIyWCsJFRe6B"
-href = "urn:sha384:6xlyFNLZwIeG6pOL6d3q3PPBiuqYPCvHrU67flsnbLoQCqyUHo2zAEgFs8gNQB1F"
+blob_href = "urn:sha384:LTUypE_fgBzN4Ubzp11CqpWSAZGEyEx4XDu0sdBJolk253Jx1DxJKx7x2K2j1bMY"
+href = "urn:sha384:hDEev2lolagEk-r2NFyinXx2nelH7MQbUIg2_HwwQLR8DfWNmY62wV7WzscE_D_A"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Jérôme (Môsieur J. [version 7.0.1])"
-author_url = "http://www.flickr.com/people/11445550@N00/"
+author = "Fiona Shields (f_shields)"
+author_url = "http://www.flickr.com/people/9295970@N08/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/11445550@N00/2506309830"
-title = "Bon appétit Monsieur Lapin"
+original_url = "http://www.flickr.com/photos/9295970@N08/6812868577"
+title = "carrots..."
 [[cards]]
 
 [[cards.sides]]
