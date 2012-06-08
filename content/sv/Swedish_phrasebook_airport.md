@@ -1,7 +1,7 @@
 +++
 title = "Swedish phrasebook airport"
 contributors = [ "89.253.78.194", "Laurent",]
-headings = [ "English", "French", "Pronunciation", "Audio",]
+headings = [ "English", "Swedish", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
 target-languages = [ "sv",]
