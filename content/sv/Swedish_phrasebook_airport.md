@@ -1,6 +1,6 @@
 +++
 title = "Swedish phrasebook airport"
-contributors = [ "Laurent",]
+contributors = [ "89.253.78.194", "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
@@ -29,7 +29,7 @@ text = "Where is the check-in?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Var är checkin disken?"
+text = "Var är checkindisken?"
 type = "phrase"
 
 [[cards.sides]]
@@ -77,7 +77,7 @@ text = "I'm checking-in this bag."
 type = "phrase"
 
 [[cards.sides]]
-text = "Jag checkat in den väska."
+text = "Jag checkat in denna väska."
 type = "phrase"
 
 [[cards.sides]]
