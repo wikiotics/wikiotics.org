@@ -1,7 +1,7 @@
 +++
 title = "Swedish phrasebook money"
-contributors = [ "217.174.67.70", "Laurent",]
-headings = [ "English", "French", "Pronunciation", "Audio",]
+contributors = [ "217.174.67.70", "89.253.78.194", "Laurent",]
+headings = [ "English", "Swedish", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
 target-languages = [ "sv",]
@@ -45,7 +45,7 @@ text = "Do you have anything cheaper?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Har du något billigare?"
+text = "Har ni något billigare?"
 type = "phrase"
 
 [[cards.sides]]
@@ -61,7 +61,7 @@ text = "Do you accept American/Canadian/Australian dollars?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Tar du amerikanska / kanadiensiska / australiensiska dollars?"
+text = "Tar ni amerikanska / kanadiensiska / australiensiska dollars?"
 type = "phrase"
 
 [[cards.sides]]
@@ -77,7 +77,7 @@ text = "Do you accept British pounds?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Tar du brittiska pund?"
+text = "Tar ni brittiska pund?"
 type = "phrase"
 
 [[cards.sides]]
@@ -93,7 +93,7 @@ text = "Do you accept Euros?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Tar du euros?"
+text = "Tar ni euros?"
 type = "phrase"
 
 [[cards.sides]]
@@ -109,7 +109,7 @@ text = "Do you accept credit cards?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Tar du kreditkort?"
+text = "Tar ni kreditkort?"
 type = "phrase"
 
 [[cards.sides]]
@@ -157,7 +157,7 @@ text = "Can you change a traveler's check for me?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Kan du växlar en travelers check åt mig?"
+text = "Kan du växla en resecheck åt mig?"
 type = "phrase"
 
 [[cards.sides]]
@@ -173,7 +173,7 @@ text = "Where can I get a traveler's check changed?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Var kan jag växla en travelers check?"
+text = "Var kan jag växla en resecheck?"
 type = "phrase"
 
 [[cards.sides]]
