@@ -1,6 +1,6 @@
 +++
 title = "Swedish phrasebook accomodation"
-contributors = [ "Laurent",]
+contributors = [ "89.253.78.194", "Laurent",]
 headings = [ "English", "French", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
@@ -93,7 +93,7 @@ text = "I'd like a ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "Jag skulle vilja ..."
+text = "Jag skulle vilja ha..."
 type = "phrase"
 
 [[cards.sides]]
