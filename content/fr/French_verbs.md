@@ -85,12 +85,34 @@ Here is a short summary of each of them:
 
 <!-- end list -->
 
-  - **plus-que-parfait**: mostly used for the *concordance des temps* in
-    the past.
+  - **plus-que-parfait**: a past tense, mostly used for the *concordance
+    des temps* in the past. It can indicate:
+      - one or more completed actions prior to another action in the
+        past: Il *avait terminé* son repas quand elle arriva/est
+        arrivée. - He had finished his meal when she arrived.
+      - an action that was started prior to another one in the past, but
+        still ongoing when the second happened: Elle *avait disparu*
+        depuis 3 jours lorsque la police l'a retrouvée.
 
 <!-- end list -->
 
-  - **passé antérieur**: rarely used in modern French.
+  - **passé antérieur**: It is formed with the **passé simple +
+    participe passé**. Rarely used in modern French, this tense belongs
+    to formal language. It can be used:
+      - to show that an action happened just before another one in the
+        past. The verb will then follow *après que, dès que, lorsque,
+        quand* in a subordinate proposition: Dès que le soleil se fut
+        couché, ils se mirent en route. - As soon as the sun set, they
+        set off.
+      - in a fairly rare construct to show the consequence of an action
+        in the past, it is then used with *tôt, vite, bientôt...*: Elle
+        *eut* vite *fait* de comprendre ce qui se passait. - She quickly
+        understood what was going on. (in spoken French, you will mostly
+        hear **passé composé** instead: Elle *a* vite *fait* de
+        comprendre ce qui se passait.)
+
+<!-- end list -->
+
   - **futur antérieur**: used to indicate that an action will happen
     before another one in the future.
 
