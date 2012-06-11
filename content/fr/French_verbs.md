@@ -22,7 +22,7 @@ French has several "modes" for verbs.
     to mark wish/will, judgement, necessity, etc...
   - Imperative: as in English, this is the mode to give orders.
 
-## Tenses
+## Indicative tenses
 
 The indicative mode boasts 8 different tenses, but not all are commonly
 used in conversation.
@@ -30,9 +30,28 @@ used in conversation.
 Here is a short summary of each of them:
 
   - **présent**: the present tense is used as an equivalent to both the
-    English *present simple* and *present continuous*
-  - **imparfait**: used to indicate actions that last in the past, or in
-    certain constructions to indicate simultaneous actions in the past.
+    English *present simple* and *present continuous*. It can be used to
+    indicate:
+      - an action currently happening: *je marche* - I am walking.
+      - general truth: *un jour dure 24h* - a day lasts 24h.
+      - an action repeated regularly: *je mange à midi* - I eat at noon.
+
+<!-- end list -->
+
+  - **imparfait**: used to indicate:
+      - actions that last in the past: Quand *j'étais* étudiant, je
+        *travaillais* beaucoup. - When I was a student, I was working a
+        lot (or: I used to work a lot). (Note that this sentence does
+        not necessarily imply anything for the present situation of the
+        speaker, he may or may not still be working a lot)
+      - simultaneous actions in the past: Quand je l'ai vu, il
+        *marchait* dans la rue. - When I saw him, he was walking in the
+        street.
+      - descriptions in the past tense: Il *pleuvait*. - It was raining.
+        Elles *avaient* 30 ans. - They were 30 years old...
+
+<!-- end list -->
+
   - **passé composé**: the most commonly used tense for verbs in the
     past in spoken French.
   - **futur simple** or **futur**: equivalent to the English *will +
