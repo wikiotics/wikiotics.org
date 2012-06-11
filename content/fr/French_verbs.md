@@ -70,7 +70,15 @@ Here is a short summary of each of them:
 <!-- end list -->
 
   - **futur simple** or **futur**: equivalent to the English *will +
-    verb*.
+    verb*. It indicates actions that will happen in the future.
+      - example: Demain, nous *irons* nous promener.
+      - It can often be replaced by *aller + infinitive*, especially in
+        the spoken language: Elle *va venir* la semaine prochaine. -
+        (this is very similar to the English construct: She's going to
+        come next week.)
+      - for actions that are just about to happen, **futur simple** is
+        replaced with **présent**: J'*arrive* tout de suite. - I'm
+        coming right away.
 
 <!-- end list -->
 
