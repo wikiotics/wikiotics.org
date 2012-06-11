@@ -53,7 +53,17 @@ Here is a short summary of each of them:
 <!-- end list -->
 
   - **passé composé**: the most commonly used tense for verbs in the
-    past in spoken French.
+    past in spoken French. It can indicate:
+      - a brief action: Hier, je *suis allé* à l'école. - Yesterday, I
+        went to school.
+      - a repeated action: Ton ami *a téléphoné* 4 fois. - Your friend
+        called 4 times.
+      - a series of short actions: Il *a acheté* le journal, *s'est
+        assis* sur un banc et *a lu* pendant une heure. - He bought the
+        newspaper, sat on a bench and read for an hour.
+      - an action with a certain duration in the past, but now finished:
+        Nous *avons vécu* à Lyon pendant 3 ans. - We lived in Lyon for 3
+        years.
 
 <!-- end list -->
 
