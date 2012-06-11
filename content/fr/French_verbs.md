@@ -63,7 +63,9 @@ Here is a short summary of each of them:
         newspaper, sat on a bench and read for an hour.
       - an action with a certain duration in the past, but now finished:
         Nous *avons vécu* à Lyon pendant 3 ans. - We lived in Lyon for 3
-        years.
+        years. It is roughly equivalent to passé simple, but used both
+        in spoken and written language. In writing, it is a lot less
+        formal than passé simple.
 
 <!-- end list -->
 
