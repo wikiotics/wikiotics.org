@@ -54,13 +54,30 @@ Here is a short summary of each of them:
 
   - **passé composé**: the most commonly used tense for verbs in the
     past in spoken French.
+
+<!-- end list -->
+
   - **futur simple** or **futur**: equivalent to the English *will +
     verb*.
-  - **passé simple**: while very common in writing, it sounds quite
-    formal in spoken French. French speakers usually prefer to use
-    **passé composé** when speaking.
+
+<!-- end list -->
+
+  - **passé simple**: It is mostly used in formal written French. It
+    sounds very formal in speech, where **passé composé** is used
+    instead (see above). In writing, it indicates:
+      - sudden/short actions: Il *sortit* - he left.
+      - actions with a limited duration: Elle *dirigea* la société
+        pendant 4 ans. - She led the company for 4 years.
+      - actions repeated a limited number of times: Elles *visitèrent*
+        Paris quelques fois. - They visited Paris a few times.
+
+<!-- end list -->
+
   - **plus-que-parfait**: mostly used for the *concordance des temps* in
     the past.
+
+<!-- end list -->
+
   - **passé antérieur**: rarely used in modern French.
   - **futur antérieur**: used to indicate that an action will happen
     before another one in the future.
