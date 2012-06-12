@@ -16,8 +16,8 @@ editable and have talk pages for public discussion.
 
 ## Goals
 
-Our goal is to bring completely new students to A2 fluency on the Common
-European Framework of Reference for Languages
+Our goal is to bring completely new students to A2 fluency in English on
+the Common European Framework of Reference for Languages
 ([CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)).
 A1 and A2 fluency are [described by
 Wikipedia](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
