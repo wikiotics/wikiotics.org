@@ -57,31 +57,28 @@ goals of each stage.
 
 Stage 1: Can understand and use familiar everyday expressions and very
 basic phrases aimed at the satisfaction of needs of a concrete type.
-([Coverage
-map](/en/group/thelastlanguagetextbook/A1-Stage1-CoverageMap))
+([Coverage map](/en/en/LLT-A1-Stage1-CoverageMap))
 
 Stage 2: Can introduce him/herself and others and can ask and answer
 questions about personal details such as where he/she lives, people
 he/she knows and things he/she has. ([Coverage
-map](/en/group/thelastlanguagetextbook/A1-Stage2-CoverageMap))
+map](/en/gen/LLT-A1-Stage2-CoverageMap))
 
 Stage 3: Can interact in a simple way provided the other person talks
 slowly and clearly and is prepared to help. ([Coverage
-map](/en/group/thelastlanguagetextbook/A1-Stage3-CoverageMap))
+map](/en/en/LLT-A1-Stage3-CoverageMap))
 
 **A2 Stages**
 
 Stage 1: Can understand sentences and frequently used expressions
 related to areas of most immediate relevance (e.g. very basic personal
 and family information, shopping, local geography, employment).
-([Coverage
-map](/en/group/thelastlanguagetextbook/A2-Stage1-CoverageMap))
+([Coverage map](/en/en/LLT-A2-Stage1-CoverageMap))
 
 Stage 2: Can communicate in simple and routine tasks requiring a simple
 and direct exchange of information on familiar and routine matters.
-([Coverage
-map](/en/group/thelastlanguagetextbook/A2-Stage2-CoverageMap))
+([Coverage map](/en/en/LLT-A2-Stage2-CoverageMap))
 
 Stage 3: Can describe in simple terms aspects of his/her background,
 immediate environment and matters in areas of immediate need.([Coverage
-map](/en/group/thelastlanguagetextbook/A2-Stage3-CoverageMap))
+map](/en/en/LLT-A2-Stage3-CoverageMap))
