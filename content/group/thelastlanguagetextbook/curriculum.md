@@ -11,8 +11,8 @@ This is the outline of introductory English material to cover in The
 Last Language Textbook described at
 [thelastlanguagetextbook.org](http://thelastlanguagetextbook.org/).
 Because this is a reference document, only members of the project group
-can make changes. All pages about actual teaching materials have
-publicly editable talk pages so that everyone's voices can be heard.
+can make changes. All pages about actual teaching materials are publicly
+editable and have talk pages for public discussion.
 
 ## Goals
 
