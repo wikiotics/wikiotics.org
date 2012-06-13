@@ -2,7 +2,9 @@
 title = "Food"
 contributors = [ "garrison", "ian",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "user-ian",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
