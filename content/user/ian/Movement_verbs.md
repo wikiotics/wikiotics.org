@@ -2,7 +2,7 @@
 title = "Movement verbs"
 contributors = [ "ian",]
 headings = [ "phrase", "picture", "audio",]
-tags = [ "WANY", "user-ian",]
+tags = [ "user-ian",]
 type = "lesson"
 target-languages = [ "en",]
 [[cards]]
