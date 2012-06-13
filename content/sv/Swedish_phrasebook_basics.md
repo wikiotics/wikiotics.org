@@ -1,10 +1,10 @@
 +++
 title = "Swedish phrasebook basics"
-contributors = [ "207.86.247.126", "213.114.82.171", "Laurent",]
+contributors = [ "207.86.247.126", "213.114.82.171", "Laurent", "garrison",]
 headings = [ "English", "Swedish", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
-target-languages = [ "fr",]
+target-languages = [ "sv",]
 source-languages = [ "en",]
 [[cards]]
 
