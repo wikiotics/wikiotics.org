@@ -16,6 +16,9 @@ phrases aimed at the satisfaction of needs of a concrete type.
 
 ### Grammar
 
-Simple sentences.
+  - Simple sentences.
+  - Greetings and Expressions.
+  - Articles and Adjectives.
+  - Numbers and Time.
 
-## Vocabulary
+### Vocabulary
