@@ -1,9 +1,10 @@
 +++
 title = "Swedish phrasebook transportation"
-contributors = [ "89.253.78.194",]
-headings = [ "Side 1", "",]
+contributors = [ "89.253.78.194", "Laurent",]
+headings = [ "English", "Swedish", "Pronunciation", "Audio",]
 type = "lesson"
-target-languages = [ "af",]
+target-languages = [ "sv",]
+source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
@@ -13,6 +14,12 @@ type = "phrase"
 [[cards.sides]]
 text = "Var är.........?"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -24,6 +31,12 @@ type = "phrase"
 text = ".....tågstationen?"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -33,6 +46,12 @@ type = "phrase"
 [[cards.sides]]
 text = ".....busstationen?"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -44,6 +63,12 @@ type = "phrase"
 text = "....flygplatsen?"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -53,6 +78,12 @@ type = "phrase"
 [[cards.sides]]
 text = "... den amerikanska/kanadensiska/brittiska ambasaden?"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -64,6 +95,12 @@ type = "phrase"
 text = "Går det här tåget till...?"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -73,6 +110,12 @@ type = "phrase"
 [[cards.sides]]
 text = "Var är bussen till...?"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -84,6 +127,12 @@ type = "phrase"
 text = "Kan du ta mig till...?"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -94,12 +143,15 @@ type = "phrase"
 text = "Är det långt?"
 type = "phrase"
 
-[[cards]]
-
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
 type = "empty"
+
+[[interactions]]
+audio = 3
+transcript = 1
+type = "podcast"
 
 +++
