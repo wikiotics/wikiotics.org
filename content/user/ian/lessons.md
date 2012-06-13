@@ -3,7 +3,9 @@ title = "lessons"
 languageCode = "en"
 +++
 
-This is the list of lessons I have personally made and/or corrected.
+This is the manually updated list of lessons I have personally made
+and/or corrected. For the automatically generated list, [click
+here](/special/search?tag=user-ian)
 
 # English Lessons
 
