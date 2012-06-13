@@ -14,11 +14,30 @@ languageCode = "en"
 Can understand and use familiar everyday expressions and very basic
 phrases aimed at the satisfaction of needs of a concrete type.
 
-### Grammar
+### Learning goals
 
-  - Simple sentences.
-  - Greetings and Expressions.
-  - Articles and Adjectives.
-  - Numbers and Time.
+This is the current list of goals for what students will learn in the
+A1-S1 series of lessons along with suggestions of the type of lesson
+that will most fit best for those topics.
 
-### Vocabulary
+##### Picture choice
+
+  - Person words: Wo/man, boy/girl
+  - Simple nouns
+  - Simple verbs
+  - And
+
+##### Podcast
+
+  - Greetings
+  - Asking someone's name
+
+##### Multiple choice
+
+  - Word order
+  - Gender + personal pronoun matching
+  - Singular/plural match
+
+##### Storybook
+
+  - Was?
