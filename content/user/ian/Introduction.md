@@ -2,7 +2,9 @@
 title = "Introduction"
 contributors = [ "127.0.0.1", "216.27.154.200", "ian",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "user-ian",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
