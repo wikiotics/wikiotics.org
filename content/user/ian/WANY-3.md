@@ -2,7 +2,9 @@
 title = "WANY-3"
 contributors = [ "24.45.15.36", "briannaavenia", "ian",]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "WANY", "user-ian",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
