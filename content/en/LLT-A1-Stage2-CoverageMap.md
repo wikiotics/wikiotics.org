@@ -26,6 +26,7 @@ that will most fit best for those topics.
 ##### Picture Choice
 
   - Plural simple nouns (Wo/men, boys/girls)
+  - Adjectives
   - am/are
   - S/he
   - Countries
