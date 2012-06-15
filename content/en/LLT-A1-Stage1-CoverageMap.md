@@ -3,11 +3,12 @@ title = "LLT-A1-Stage1-CoverageMap"
 languageCode = "en"
 +++
 
-**[Curriculum home](/group/thelastlanguagetextbook/curriculum)**
+([Discuss this page](/en/LLT-A1-Stage1-Talk))
 
 ## Level A1 - Stage 1
 
-[Discuss this page](/en/LLT-A1-Stage1-Talk)
+  - **[Curriculum home](/group/thelastlanguagetextbook/curriculum)**
+  - **[Next stage](/en/LLT-A1-Stage2-CoverageMap)**
 
 ### Summary
 
