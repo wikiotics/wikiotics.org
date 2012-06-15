@@ -17,6 +17,31 @@ Can understand sentences and frequently used expressions related to
 areas of most immediate relevance (e.g. very basic personal and family
 information, shopping, local geography, employment).
 
-### Grammar
+### Learning goals
 
-## Vocabulary
+This is the current list of goals for what students will learn in the
+A1-S1 series of lessons along with suggestions of the type of lesson
+that will most fit best for those topics.
+
+##### Picture choice
+
+  - Positions-relative (above/below, in/out, next to, behind/in front)
+
+##### Podcast
+
+  - Possession (mine/yours/his/hers/ours/theirs')
+  - Give, get, got
+  - Have/Has/had
+  - Asking for things, asking for directions
+
+##### Multiple choice
+
+  - Gender and quantity of possession terms
+  - Give/get/got
+  - Have/has/had
+  - Position-relative
+
+##### Storybook
+
+  - Possession (stone soup, giving tree, something )
+  - Locations in town
