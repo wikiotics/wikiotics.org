@@ -41,4 +41,4 @@ that will most fit best for those topics.
 
 ##### Storybook
 
-  - Was?
+  - Awake, asleep, busy, available
