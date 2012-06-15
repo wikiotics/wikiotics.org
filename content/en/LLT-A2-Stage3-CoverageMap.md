@@ -15,6 +15,25 @@ languageCode = "en"
 Can describe in simple terms aspects of his/her background, immediate
 environment and matters in areas of immediate need.
 
-### Grammar
+##### Picture choice
 
-## Vocabulary
+  - Position-directions-inside (halls, rooms, up/down, stairs,
+    elevators, escalators)
+  - Adverbs
+  - Likes and hobbies
+  - Health
+
+##### Podcast
+
+  - Deciding on and traveling to a restaurant with friends
+  - Asking about people's health
+
+##### Multiple choice
+
+  - Position/location
+  - Word order
+
+##### Storybook
+
+  - Going on errands
+  - Deciding on and traveling to a restaurant with friends
