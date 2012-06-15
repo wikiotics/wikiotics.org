@@ -16,6 +16,24 @@ languageCode = "en"
 Can communicate in simple and routine tasks requiring a simple and
 direct exchange of information on familiar and routine matters.
 
-### Grammar
+##### Picture choice
 
-## Vocabulary
+  - Positions-directions-outside (left/right, N/S/E/W, up/downtown)
+  - Modes of transport (plane, train, car, bus, bike)
+
+##### Podcast
+
+  - Asking for/giving directions around town (turn, face)
+
+##### Multiple choice
+
+  - Word order
+  - Talking about self and others
+  - Position
+
+##### Storybook
+
+  - Wants-basic (hungry, tired, thirsty, have fun, relax)
+  - Talking about self and others
+  - Adverbs
+  - Likes and hobbies
