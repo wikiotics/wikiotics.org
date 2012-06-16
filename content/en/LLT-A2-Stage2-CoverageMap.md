@@ -16,6 +16,12 @@ languageCode = "en"
 Can communicate in simple and routine tasks requiring a simple and
 direct exchange of information on familiar and routine matters.
 
+### Learning goals
+
+This is the current list of goals for what students will learn in the
+A2-S2 series of lessons along with suggestions of the type of lesson
+that will most fit best for those topics.
+
 ##### Picture choice
 
   - Positions-directions-outside (left/right, N/S/E/W, up/downtown)
