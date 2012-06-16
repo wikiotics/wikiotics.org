@@ -3,7 +3,11 @@ title = "Sandbox"
 +++
 
 [New Picture Choice
-lesson](/new/flashcard_deck%3Ftemplate%3Dpicture_choice%26tag%3DLLT%26tag%3Dtarget-language%3Aen)
+lesson](/new/flashcard_deck%3Ftemplate%3Dpicture_choice)
+
+[test?attr=something](/en/test%3Fattr%3Dsomething)
+
+[en:test?attr=something](/en/test%3Fattr%3Dsomething)
 
 [user:ian](/user/ian)
 
