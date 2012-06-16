@@ -47,3 +47,16 @@ that will most fit best for those topics.
 ##### Storybook
 
   - Moving between countries
+
+### The Lessons
+
+Make a new lesson for this stage by clicking on one of the links below:
+
+  - [New Picture Choice
+    lesson](https://wikiotics.org/new/flashcard_deck?template=picture_choice&tag=LLT&tag=A1-S2&tag=target-language:en)
+  - [New Podcast
+    lesson](https://wikiotics.org/new/flashcard_deck?template=podcast&tag=LLT&tag=A1-S2&tag=target-language:en)
+  - [New Multiple Choice text
+    lesson](https://wikiotics.org/new/flashcard_deck?template=phrase_choice&tag=LLT&tag=A1-S2&tag=target-language:en)
+  - [New storybook
+    lesson](https://wikiotics.org/new/flashcard_deck?template=storybook&tag=LLT&tag=A1-S2&tag=target-language:en)
