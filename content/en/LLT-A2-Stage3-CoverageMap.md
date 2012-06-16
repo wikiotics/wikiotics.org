@@ -15,6 +15,12 @@ languageCode = "en"
 Can describe in simple terms aspects of his/her background, immediate
 environment and matters in areas of immediate need.
 
+### Learning goals
+
+This is the current list of goals for what students will learn in the
+A2-S2 series of lessons along with suggestions of the type of lesson
+that will most fit best for those topics.
+
 ##### Picture choice
 
   - Position-directions-inside (halls, rooms, up/down, stairs,
