@@ -18,7 +18,7 @@ environment and matters in areas of immediate need.
 ### Learning goals
 
 This is the current list of goals for what students will learn in the
-A2-S2 series of lessons along with suggestions of the type of lesson
+A2-S3 series of lessons along with suggestions of the type of lesson
 that will most fit best for those topics.
 
 ##### Picture choice
