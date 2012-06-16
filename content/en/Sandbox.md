@@ -2,9 +2,8 @@
 title = "Sandbox"
 +++
 
-test edit 4
-
-something here\!
+[New Picture Choice
+lesson](/new/flashcard_deck%3Ftemplate%3Dpicture_choice%26tag%3DLLT%26tag%3Dtarget-language%3Aen)
 
 [user:ian](/user/ian)
 
