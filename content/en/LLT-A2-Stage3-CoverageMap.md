@@ -43,3 +43,16 @@ that will most fit best for those topics.
 
   - Going on errands
   - Deciding on and traveling to a restaurant with friends
+
+### The Lessons
+
+Make a new lesson for this stage by clicking on one of the links below:
+
+  - [New Picture Choice
+    lesson](https://wikiotics.org/new/flashcard_deck?template=picture_choice&tag=LLT&tag=A2-S3&tag=target-language:en)
+  - [New Podcast
+    lesson](https://wikiotics.org/new/flashcard_deck?template=podcast&tag=LLT&tag=A2-S3&tag=target-language:en)
+  - [New Multiple Choice text
+    lesson](https://wikiotics.org/new/flashcard_deck?template=phrase_choice&tag=LLT&tag=A2-S3&tag=target-language:en)
+  - [New storybook
+    lesson](https://wikiotics.org/new/flashcard_deck?template=storybook&tag=LLT&tag=A2-S3&tag=target-language:en)
