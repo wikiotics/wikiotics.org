@@ -580,9 +580,10 @@ type = "empty"
 
 
 [[cards]]
-tags = [ "fsi",]
+tags = [ "language:fr",]
 [[cards.sides]]
-type = "empty"
+text = "Répondez en français."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:d2LLpE0fDQyN2JJaAShnkLuzzUTF0Z2aN28z8kTqpPfhZIufDlu8_xhvd1aH-tur"
