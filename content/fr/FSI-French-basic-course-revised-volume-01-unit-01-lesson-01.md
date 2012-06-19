@@ -3871,9 +3871,10 @@ type = "empty"
 
 
 [[cards]]
-tags = [ "fsi",]
+tags = [ "language:fr",]
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:L-SHoeNa6U8tasAy8jUR6Yscj1Plh6XQTHdOmHz9Hh1OH30CLmYq3utAbYBGsmep"
