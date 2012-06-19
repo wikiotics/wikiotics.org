@@ -46,6 +46,12 @@ that will most fit best for those topics.
   - Possession (stone soup, giving tree, something )
   - Locations in town
 
+### Add example sentences
+
+A running list of example sentences that can be used to teach these
+learning goals is available here:
+[LLT-A2-S1-ExampleSentences](/en/LLT-A2-S1-ExampleSentences).
+
 ### Make a lesson
 
 Make a new lesson for this stage by clicking on one of the links below:
