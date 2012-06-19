@@ -48,6 +48,12 @@ that will most fit best for those topics.
 
   - Moving between countries
 
+### Add example sentences
+
+A running list of example sentences that can be used to teach these
+learning goals is available here:
+[LLT-A1-S2-ExampleSentences](/en/LLT-A1-S2-ExampleSentences).
+
 ### Make a lesson
 
 Make a new lesson for this stage by clicking on one of the links below:
