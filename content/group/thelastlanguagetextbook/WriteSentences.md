@@ -3,7 +3,7 @@ title = "Writing example sentences for a language lesson"
 languageCode = "en"
 +++
 
-Language lessons here generally begin with text, simple sentences that
+Language lessons here generally begin with simple sentences that
 illustrate one of the language skills outlined in the [curriculum
 plan](/group/thelastlanguagetextbook/curriculum). Sentences are the
 building blocks lessons are created from and we always need more. You
