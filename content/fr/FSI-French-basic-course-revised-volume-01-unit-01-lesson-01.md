@@ -2696,9 +2696,10 @@ type = "empty"
 
 
 [[cards]]
-tags = [ "fsi",]
+tags = [ "language:fr",]
 [[cards.sides]]
-type = "empty"
+text = "Je suis heureux de faire votre connaissance, mademoiselle."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:mku1QIef62t3PfQfR0HHpDpGYoyJZ7duYvnaxUttuPB8hbwnXfYjlJ3ZttX3rpg_"
