@@ -2,7 +2,7 @@
 title = "FSI-French-basic-course-revised-volume-01-unit-02-lesson-01"
 contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "speaker",]
-tags = [ "fsi",]
+tags = [ "five-sec-widget-fodder", "fsi",]
 type = "lesson"
 target-languages = [ "fr",]
 source-languages = [ "en",]
