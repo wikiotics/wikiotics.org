@@ -2,6 +2,7 @@
 title = "brown shoes"
 contributors = [ "garrison",]
 headings = [ "Phrase", "Picture", "Audio",]
+tags = [ "brown",]
 type = "lesson"
 [[cards]]
 
