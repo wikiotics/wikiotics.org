@@ -44,7 +44,13 @@ that will most fit best for those topics.
   - Going on errands
   - Deciding on and traveling to a restaurant with friends
 
-### The Lessons
+### Add example sentences
+
+A running list of example sentences that can be used to teach these
+learning goals is available here:
+[LLT-A2-S3-ExampleSentences](/en/LLT-A2-S3-ExampleSentences).
+
+### Make a lesson
 
 Make a new lesson for this stage by clicking on one of the links below:
 
