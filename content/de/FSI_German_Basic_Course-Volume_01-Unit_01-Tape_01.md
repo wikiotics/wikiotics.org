@@ -2,9 +2,9 @@
 title = "FSI German Basic Course-Volume 01-Unit 01-Tape 01"
 contributors = [ "Laurent",]
 headings = [ "phrase", "audio", "speaker",]
-tags = [ "fsi",]
+tags = [ "five-sec-widget-fodder", "fsi",]
 type = "lesson"
-target-languages = [ "fr",]
+target-languages = [ "de",]
 source-languages = [ "en",]
 [[cards]]
 tags = [ "fsi",]
