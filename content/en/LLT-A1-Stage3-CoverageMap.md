@@ -45,6 +45,12 @@ that will most fit best for those topics.
   - Time
   - Units of time
 
+### Add example sentences
+
+A running list of example sentences that can be used to teach these
+learning goals is available here:
+[LLT-A1-S3-ExampleSentences](/en/LLT-A1-S3-ExampleSentences).
+
 ### Make a lesson
 
 Make a new lesson for this stage by clicking on one of the links below:
