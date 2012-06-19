@@ -836,9 +836,10 @@ type = "empty"
 
 
 [[cards]]
-tags = [ "fsi",]
+tags = [ "language:fr",]
 [[cards.sides]]
-type = "empty"
+text = "Comment dit-on bonjour en anglais?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:2b-Y2XlGkQwYXdLIsXYZKJFRJ6stVhPbSyHuy55uQ-di3cbSp4Jn3effzRK3iWQz"
