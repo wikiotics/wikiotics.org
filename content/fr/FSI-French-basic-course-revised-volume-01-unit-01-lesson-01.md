@@ -3735,9 +3735,10 @@ type = "empty"
 
 
 [[cards]]
-tags = [ "fsi",]
+tags = [ "language:fr",]
 [[cards.sides]]
-type = "empty"
+text = "Bonjour Monsieur."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:0Xg9YsTKHAIJ2ReBb7aVDRyooRN1baaQykBg3LoJE3M45yDguJmFAdDGxTuUSTcJ"
