@@ -2982,9 +2982,10 @@ type = "empty"
 
 
 [[cards]]
-tags = [ "fsi",]
+tags = [ "language:fr",]
 [[cards.sides]]
-type = "empty"
+text = "Excusez-moi, je suis pressée."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:TaxhPCa6lza1IHkoaIlayhO44FwZW0_H_KArINiSGyDcsp9lm2c-B_aCrZ1JelQ6"
