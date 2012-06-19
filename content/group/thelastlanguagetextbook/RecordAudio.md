@@ -10,3 +10,7 @@ microphone on your computer, you can help us record some of the [example
 sentences](/group/thelastlanguagetextbook/WriteSentences) put together
 to illustrate the [curriculum
 plan](/group/thelastlanguagetextbook/curriculum). Simple click below.
+
+The audio recorder is being finalized as we speak. Expect to see it here
+in the next few days. In the meantime, why not try your hand at [writing
+example sentences](/group/thelastlanguagetextbook/WriteSentences)?
