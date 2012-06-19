@@ -389,6 +389,29 @@ href = "urn:sha384:FmKzWCPNfhnFAA2Cq6-jMmYOFhUhvhffSEMxFn7xk6sXjhMuavtEMwKY1suH5
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards]]
+
+[[cards.sides]]
+text = "hello world"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
