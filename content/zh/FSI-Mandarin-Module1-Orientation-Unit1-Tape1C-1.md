@@ -1,8 +1,8 @@
 +++
 title = "FSI-Mandarin-Module1-Orientation-Unit1-Tape1C-1"
-contributors = [ "ian",]
+contributors = [ "Laurent", "ian",]
 headings = [ "phrase", "audio", "speaker",]
-tags = [ "fsi",]
+tags = [ "five-sec-widget-fodder", "fsi",]
 type = "lesson"
 target-languages = [ "zh",]
 source-languages = [ "en",]
