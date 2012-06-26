@@ -17,7 +17,6 @@ The different lesson types available are:
 
 **[Phrase choice](http://wikiotics.org/en/WANY_Hospital_grammar)**
 
-**[Storybook](http://laurent.dev.wikiotics.net/en/storybook1)***Coming
-soon*
+**[Storybook](http://wikiotics.org/en/LittleRedRidingHood)**
 
 (video coming soon)
