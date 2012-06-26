@@ -1,7 +1,7 @@
 +++
 title = "LittleRedRidingHood"
 contributors = [ "ian",]
-headings = [ "Phrase", "Picture", "Audio",]
+headings = [ "Text", "Audio", "Illustration",]
 type = "lesson"
 [[cards]]
 
