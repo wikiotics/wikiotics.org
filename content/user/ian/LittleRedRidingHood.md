@@ -97,8 +97,17 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uKExhl3pFL6HWPAkAN7q_xAwJ0QU6ytnLT072sS61eCHG-ft7ksLM94V--LTJVcJ"
+href = "urn:sha384:JAYCNSH39BxtldKCOVP0Kn3xbHN_KMkz-8M2Uoy07VZ2hdaGgKOp0uNwLL_c3OnM"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Eden, Janine and Jim (edenpictures)"
+author_url = "http://www.flickr.com/people/10485077@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10485077@N06/6301333532"
+title = "Big Bad Wolf"
 [[cards]]
 
 [[cards.sides]]
