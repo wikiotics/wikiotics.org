@@ -109,8 +109,17 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:BjgUmuXsa869fpb8nwp2pkpQVzfkYClgxxIdFixp67RkD2rKjEAI23MFjQcMbv7R"
+href = "urn:sha384:rvn1EsYjsMT0UGb7M2PDAtbqD5PesqDB8dThZf-yU-n7OwovBhwMMyNB7E2EfCFK"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Simon Q (simononly)"
+author_url = "http://www.flickr.com/people/10287726@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10287726@N02/4741276147"
+title = "Little Red Riding Hood"
 [[cards]]
 
 [[cards.sides]]
