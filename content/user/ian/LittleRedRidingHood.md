@@ -180,8 +180,17 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:RzJ8Zm66JKKHd8IRu--ByOc_IITPpI3S1OdWjpFpo5ilSVA6vmaV8hP6wFQpDgSq"
+href = "urn:sha384:BgCpHP_fYwvYwmPmgf3f-8JsRKYkHpB-UjXsNyGyggZ0Gbhv8BCB-PE2XSPJRwnk"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (brittgow)"
+author_url = "http://www.flickr.com/people/26489950@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/26489950@N03/4781607809"
+title = "Axe in wood"
 [[cards]]
 
 [[cards.sides]]
