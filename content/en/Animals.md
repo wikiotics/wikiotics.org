@@ -1,6 +1,6 @@
 +++
 title = "Animals"
-contributors = [ "83.189.158.33", "Laurent", "garrison",]
+contributors = [ "140.247.98.18", "83.189.158.33", "Laurent", "garrison",]
 dividers = [ 4, 8, 12,]
 headings = [ "word", "picture",]
 tags = [ "animals",]
@@ -27,7 +27,7 @@ title = "Snake"
 [[cards]]
 
 [[cards.sides]]
-text = "bird"
+text = "hawk"
 type = "phrase"
 
 [[cards.sides]]
