@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "There once was a little girl who wore a red rigin cloak everwhere she went."
+text = "There once was a little girl who wore a red riding cloak everwhere she went."
 type = "phrase"
 
 [[cards.sides]]
