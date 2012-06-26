@@ -34,8 +34,17 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cDS8QHtSXLW5p6AhRrqZrsrQc3bcjVf2pP-mV9wBCTiLaJ6fIYSq9dK7WEAblwga"
+href = "urn:sha384:Pp0ZL_E5ABPVlxhdmwESSGX0mQVcOiHY7O-MpDxxruZ0i1A0bT40hEUerTWEctjk"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (amboo who?)"
+author_url = "http://www.flickr.com/people/39437954@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/39437954@N00/6315047564"
+title = "Little Red Riding Hood2"
 [[cards]]
 
 [[cards.sides]]
@@ -58,8 +67,17 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GXyamMztKRNHgiACugiQ5U1N66R2fCc-hdImSuARdwvmOOME4y4iRVjCwxXYzfDz"
+href = "urn:sha384:kVV9S-oSnmfX5XWXHWJU9_xKWtlOHPLOtIPJip7EXs45xblDlt84SjWdTIc9_W4p"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Chris Short (Chris_Short)"
+author_url = "http://www.flickr.com/people/88478656@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/88478656@N00/4806673718"
+title = "IMG_7122-Tweaked"
 [[cards]]
 
 [[cards.sides]]
