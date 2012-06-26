@@ -55,8 +55,17 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iyUhdmzr9KB8BtWRtwzp3qv0OT_FHfj4tpehIZhuMEd9wvVdc8WydqpPtIOF35Gn"
+href = "urn:sha384:ga9ukO23naFxofMhxeapQH1CbVsVOomJJt9MrDRQ6aFYbwldd8g9vZmw7LSime6f"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (Yael P)"
+author_url = "http://www.flickr.com/people/55998004@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/55998004@N03/5494795444"
+title = "Who's Afraid of the Big Bad Wolf ?"
 [[cards]]
 
 [[cards.sides]]
