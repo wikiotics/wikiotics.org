@@ -139,8 +139,16 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4iosHhHDR7KdzEtbBNkdrRwXLF1yCI9d-KzuB5ScuxFLIE5f5saZKa1x_rdUn1V9"
+href = "urn:sha384:tCLEjgPmwsLeTi30VElcM2B3cgJxLD24NpeGijMsF6Qt3lpIqxM9NsrXobH_qFPl"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Libby Livermore (evilibby)"
+author_url = "http://www.flickr.com/people/14331809@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/14331809@N00/2930346529"
 [[cards]]
 
 [[cards.sides]]
