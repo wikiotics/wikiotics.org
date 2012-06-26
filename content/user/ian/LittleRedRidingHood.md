@@ -13,8 +13,17 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:I18faUcWAemV3WBpYRb3yg8Bn3DFNtAXdg-WRadmKdJoFI6ZNJO76nSUpt4PuyaN"
+href = "urn:sha384:tiFo_WFXZnKDq8dqLHDQ6blJDzVAajVgPmv1ymU8XYHHwIXzRb_r60H07Er2faV1"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Johnathan Nightingale (Johnath)"
+author_url = "http://www.flickr.com/people/23586883@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/23586883@N00/3505743077"
+title = "Deb"
 [[cards]]
 
 [[cards.sides]]
