@@ -159,8 +159,17 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JupVzxiIJ9EARMWMQmgr00jM_BnILLpdTw3xrS3d6I_CXNI-_tXwS_bDFlA6yBhX"
+href = "urn:sha384:VcDujBIGDkV5j08dRP3zivfcdaSIJ_MFZzt8OKIyzFcNOwL_hl5nrd7WJbueKzLl"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Pablo (LordFerguson)"
+author_url = "http://www.flickr.com/people/33854765@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/33854765@N00/2366976983"
+title = "Scream"
 [[cards]]
 
 [[cards.sides]]
