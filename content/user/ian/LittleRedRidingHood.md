@@ -201,8 +201,17 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yODRs6SOuusmfBS4MmRAue7ZgvO91z62dv87TmFMFhCJwYje3OTzQAN5CBGqX9QP"
+href = "urn:sha384:oVX1iq_HXnKccy3_njZQcntHu5NVpZBj4-0XLQFQUKUn9Ej6RHOzFqp3dsrGWmHu"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "pop culture geek (Pop Culture Geek)"
+author_url = "http://www.flickr.com/people/26728047@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/26728047@N05/5594662914"
+title = "WonderCon 2011 Masquerade - Red Riding Hood (?) and Chris Redfield from Resident Evil"
 [[cards]]
 
 [[cards.sides]]
