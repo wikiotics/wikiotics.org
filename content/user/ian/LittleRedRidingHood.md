@@ -201,28 +201,17 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:yODRs6SOuusmfBS4MmRAue7ZgvO91z62dv87TmFMFhCJwYje3OTzQAN5CBGqX9QP"
-href = "urn:sha384:oVX1iq_HXnKccy3_njZQcntHu5NVpZBj4-0XLQFQUKUn9Ej6RHOzFqp3dsrGWmHu"
+blob_href = "urn:sha384:fPoDC_6n3qIJg5e_LmDb39NzvxfYaVAT-EvEDT4wa2pNeLWn7NAYzkWgerc8F5Si"
+href = "urn:sha384:t9aOdq-nRAJgBHo4xt3OzIyL_ejYMrX1ONSowJmFL2yOH6noMDxwk9aeXEx2zydj"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "pop culture geek (Pop Culture Geek)"
-author_url = "http://www.flickr.com/people/26728047@N05/"
+author = " (martinak15)"
+author_url = "http://www.flickr.com/people/64636777@N03/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/26728047@N05/5594662914"
-title = "WonderCon 2011 Masquerade - Red Riding Hood (?) and Chris Redfield from Resident Evil"
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
+original_url = "http://www.flickr.com/photos/64636777@N03/6704595405"
+title = "105/365 Little Red Riding Hood"
 [[interactions]]
 type = "storybook"
 
