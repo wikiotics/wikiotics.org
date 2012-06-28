@@ -1,7 +1,7 @@
 +++
 title = "family members"
 contributors = [ "tomfy",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -77,11 +77,51 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Your aunt's husband is your ..."
+text = "Your aunt's son or daughter is your ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "uncle"
+text = "cousin"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your brother's daughter is your ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "niece"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "My son's wife is my ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "daughter-in-law"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your mother's mother is your ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "grandmother"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your sister's son is your ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "nephew"
 type = "phrase"
 
 [[cards]]
