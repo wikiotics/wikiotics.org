@@ -37,11 +37,31 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "My daughter's daugher is my ..."
+text = "My daughter's daughter is my ..."
 type = "phrase"
 
 [[cards.sides]]
 text = "granddaughter"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your son's son is your ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "grandson"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your father's sister is your ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "aunt"
 type = "phrase"
 
 [[cards]]
