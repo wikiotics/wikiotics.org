@@ -1,7 +1,7 @@
 +++
 title = "family members"
 contributors = [ "tomfy",]
-dividers = [ 4,]
+dividers = [ 4, 8,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -62,6 +62,26 @@ type = "phrase"
 
 [[cards.sides]]
 text = "aunt"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your mother's brother is your ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "uncle"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your aunt's husband is your ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "uncle"
 type = "phrase"
 
 [[cards]]
