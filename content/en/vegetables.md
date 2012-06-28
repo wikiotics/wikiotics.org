@@ -116,7 +116,7 @@ title = "oignon"
 [[cards]]
 
 [[cards.sides]]
-text = "an eggplant"
+text = "some eggplants"
 type = "phrase"
 
 [[cards.sides]]
