@@ -1,6 +1,7 @@
 +++
 title = "vegetables"
-contributors = [ "Laurent", "ian",]
+contributors = [ "Laurent", "ian", "tomfy",]
+dividers = [ 4, 8,]
 headings = [ "names", "pictures",]
 type = "lesson"
 target-languages = [ "en",]
@@ -47,17 +48,17 @@ text = "a carrot"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:DmKhejPSFqYitVLDz0Ri0fsCt2bKQfFzLFaKTJt_NnbenLM26sPmzIyWCsJFRe6B"
-href = "urn:sha384:6xlyFNLZwIeG6pOL6d3q3PPBiuqYPCvHrU67flsnbLoQCqyUHo2zAEgFs8gNQB1F"
+blob_href = "urn:sha384:d6XoelzBsjPeJX-W8wbGd5dJxzIVnMK5Mn4vHOtfdgrDwEhDfiuGY7abh3PvJmM2"
+href = "urn:sha384:fmZ-6K-7dwYQqA-aAUGKAAvol8E1VC9ya1rdYVKreOwpAO0z-oBL396PpbO_3rcj"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Jérôme (Môsieur J. [version 7.0.1])"
-author_url = "http://www.flickr.com/people/11445550@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/11445550@N00/2506309830"
-title = "Bon appétit Monsieur Lapin"
+author = "Melissa Doroquez (Merelymel13)"
+author_url = "http://www.flickr.com/people/62967061@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/62967061@N00/1423751189"
+title = "One Carrot in the Garden"
 [[cards]]
 
 [[cards.sides]]
@@ -79,7 +80,7 @@ title = "Mr Radish"
 [[cards]]
 
 [[cards.sides]]
-text = "a zuchini"
+text = "a zucchini"
 type = "phrase"
 
 [[cards.sides]]
