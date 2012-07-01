@@ -1,37 +1,37 @@
 +++
 title = "family members"
 contributors = [ "tomfy",]
-dividers = [ 4, 8, 12,]
+dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "My father's mother is my ..."
+text = "My father's brother is my ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "grandmother"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "My mother's sister is my ..."
-type = "phrase"
-
-[[cards.sides]]
-text = "aunt"
+text = "uncle."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "My sister's husband is my ..."
+text = "My brother's daughter is may ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "brother-in-law"
+text = "niece."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "My wife's sister is my ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "sister-in-law."
 type = "phrase"
 
 [[cards]]
@@ -41,87 +41,7 @@ text = "My daughter's daughter is my ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "granddaughter"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Your son's son is your ..."
-type = "phrase"
-
-[[cards.sides]]
-text = "grandson"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Your father's sister is your ..."
-type = "phrase"
-
-[[cards.sides]]
-text = "aunt"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Your mother's brother is your ..."
-type = "phrase"
-
-[[cards.sides]]
-text = "uncle"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Your aunt's son or daughter is your ..."
-type = "phrase"
-
-[[cards.sides]]
-text = "cousin"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Your brother's daughter is your ..."
-type = "phrase"
-
-[[cards.sides]]
-text = "niece"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "My son's wife is my ..."
-type = "phrase"
-
-[[cards.sides]]
-text = "daughter-in-law"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Your mother's mother is your ..."
-type = "phrase"
-
-[[cards.sides]]
-text = "grandmother"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Your sister's son is your ..."
-type = "phrase"
-
-[[cards.sides]]
-text = "nephew"
+text = "granddaughter."
 type = "phrase"
 
 [[cards]]
