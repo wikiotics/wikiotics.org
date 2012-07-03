@@ -1,6 +1,6 @@
 +++
 title = "family members"
-contributors = [ "tomfy",]
+contributors = [ "190.181.128.164", "tomfy",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
@@ -17,7 +17,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "My brother's daughter is may ..."
+text = "My brother's daughter is my ..."
 type = "phrase"
 
 [[cards.sides]]
