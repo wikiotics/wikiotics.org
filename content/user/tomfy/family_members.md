@@ -2,7 +2,7 @@
 title = "family members"
 contributors = [ "190.181.128.164", "tomfy",]
 dividers = [ 4, 8,]
-headings = [ "Prompt", "Answer",]
+headings = [ "Prompt", "Answer", "what can I do with this column?",]
 type = "lesson"
 [[cards]]
 
@@ -14,6 +14,9 @@ type = "phrase"
 text = "uncle."
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -23,6 +26,9 @@ type = "phrase"
 [[cards.sides]]
 text = "niece."
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -34,6 +40,9 @@ type = "phrase"
 text = "sister-in-law."
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -43,6 +52,9 @@ type = "phrase"
 [[cards.sides]]
 text = "granddaughter."
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -54,6 +66,9 @@ type = "phrase"
 text = "nephew."
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -63,6 +78,9 @@ type = "phrase"
 [[cards.sides]]
 text = "grandson."
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -74,6 +92,9 @@ type = "phrase"
 text = "grandmother."
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -84,11 +105,6 @@ type = "phrase"
 text = "son-in-law."
 type = "phrase"
 
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
 [[cards.sides]]
 type = "empty"
 
@@ -100,6 +116,9 @@ type = "empty"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -108,7 +127,24 @@ type = "empty"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
 
 [[cards.sides]]
 type = "empty"
@@ -117,7 +153,7 @@ type = "empty"
 type = "empty"
 
 [[interactions]]
-answer = 1
+answer = 2
 prompt = [ 0,]
 type = "choice"
 
