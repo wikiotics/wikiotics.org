@@ -96,17 +96,17 @@ text = "This is a violin"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:0DoUojCXI2izFsJZl6uJBzRXr-Qex3uldAB5CifpOAfpdVb5QP3uPQYbJQXn8Q1d"
-href = "urn:sha384:yjFJrLscZzA2eqRye22mRHszkuD9QmtXePmYBAnoOGXKyX1kgZ17tf1qmv6_tCge"
+blob_href = "urn:sha384:2a0luZKAnZEeiuLK-r0JRYuHOzfo1UpbuQqTV9SBlupUdzxsSq0ES-UEA-seapWB"
+href = "urn:sha384:n7m27DFsxE1Q9wv10vllh770MnKJpTToK364x-0KqNxD7MWWH2XDCfsHeevFvafC"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (born1945)"
-author_url = "http://www.flickr.com/people/12567713@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/12567713@N00/501589455"
-title = "Violin"
+author = "Peter (Pedronet)"
+author_url = "http://www.flickr.com/people/40271931@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/40271931@N00/2208548725"
+title = "Violin lesson at the Moosic Muster"
 [[cards.sides]]
 type = "empty"
 
@@ -117,17 +117,17 @@ text = "This is a cello"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:WZ-6NubMLclpHimwcSyzYgm_MRfST1oeJYp3JCCb7-G3yCbBGf0O9ACNZgToB9kJ"
-href = "urn:sha384:NjiD8KZUHDQehhKLBIJJDSjg28yDbIs4vHa4uBBczqR9jqt6FglcRAUsXW0ET1n0"
+blob_href = "urn:sha384:oevxRchmoG8QlsvWqSPPX7onhLh6pp43OHZR1Pau2doJfFXdkpF6bXzpzvK63ZC4"
+href = "urn:sha384:Iv6k-SPtR3E95FPg6oxJUzHv7kY7nyngzGijet-2T3acpQnfLLKRgM4JCjAAXKg2"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (nosha)"
-author_url = "http://www.flickr.com/people/77316550@N00/"
+author = "Roger Wollstadt (roger4336)"
+author_url = "http://www.flickr.com/people/24736216@N07/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/77316550@N00/5450059766"
-title = "Cello"
+original_url = "http://www.flickr.com/photos/24736216@N07/5478043402"
+title = "Sarasota - Lance Isakson Playing Cello (2003)"
 [[cards.sides]]
 type = "empty"
 
@@ -138,17 +138,17 @@ text = "This is a trombone"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:YcFR0w2gQLmrDdc97h-Xu0l6c1m62bfR-QqluM0sP-i-_3QJobF7dDyXYSeYtP7F"
-href = "urn:sha384:8fI2HQuSsR9e6CAUELckXnSyyHdx-7d0QqZUfU_mcKvKt1OPFcPsi5pe1N8fRC7o"
+blob_href = "urn:sha384:-sC05enZ_WK7BR5oP2axtbhUgG5hW7kZbBiNqADPi8KwK8Ss4Mngbl7okyrwhfGT"
+href = "urn:sha384:quGo23CrdnvpsJSPsxNFVBU-vc5Uxio1fYDloPznGrWCkg-MmDHXffplJOUZT9Cx"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Greg Younger (gregor_y)"
-author_url = "http://www.flickr.com/people/96552722@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/96552722@N00/14097444"
-title = "Trombone - New Orleans, Louisiana"
+author = "Miles Gehm (milesgehm)"
+author_url = "http://www.flickr.com/people/48600095270@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/48600095270@N01/465773257"
+title = "Jeanne plays trombone for THE UPTONES"
 [[cards.sides]]
 type = "empty"
 
