@@ -1,6 +1,7 @@
 +++
 title = "Flowers"
-contributors = [ "169.231.48.249", "216.27.154.200", "91.35.222.241", "Laurent", "garrison",]
+contributors = [ "169.231.48.249", "216.27.154.200", "74.79.145.89", "91.35.222.241", "Laurent", "garrison",]
+dividers = [ 4, 8,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 target-languages = [ "en",]
@@ -85,6 +86,101 @@ author_url = "http://www.flickr.com/people/22666220@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/22666220@N00/4869199894"
 title = "Girasoli - Grattacoppa, Ravenna"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is an iris"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:rJ_wjY0CZ483AdOtnlYwnx_NnHc1npFMqdO2gJ9XSb9cHVCGpxFoALujnN6v-qve"
+href = "urn:sha384:ux9JI1p645lfvPH7ssXMAuxlCJEbEncGELPh5SJ2aF5C3Qr0sJy_hsFXTepI4EVj"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (terren in Virginia)"
+author_url = "http://www.flickr.com/people/8136496@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8136496@N05/3514772821"
+title = "Iris"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is a peony"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:O7HC--VjY2lB4-G47VD-9f3m5-P1Our1NjGchlddDgJ8lrqDQikW71JQzF5dmmY5"
+href = "urn:sha384:JOmxPo9Arb0S7zj3YIwGDm0wcUb3nB2Jpx0GrGGt5xYaI6BtQ9r8HQChoYL4WFpx"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Linda N.)"
+author_url = "http://www.flickr.com/people/22748341@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/22748341@N00/129419999"
+title = "Peonies"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is a poppy"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Afb2LE5pfqSoFlMPsveMyHxQXNFlvjfknBqnbDD4myBiUc2xOle8rZUiEswzMR9s"
+href = "urn:sha384:ZiXZOBsDomu8JreRoh6-9wXDEgXQpThJUc_38lZqm_PNdPvBwfFwm0K1SYfRBfWD"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (brx0)"
+author_url = "http://www.flickr.com/people/78153302@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/78153302@N00/490670724"
+title = "poppy"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is a daffodil"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:uvzSdDmO4o5pjXmotH3CYVwBlF-1vAq1qkaPmJ9k7U6yTCylA7Mcinw1oDH5xJP6"
+href = "urn:sha384:p4ooKAuolNr0DT9FiDU5yCf9LXmgTRwWh5SU76T45Qwv3VgD61BTVFIxvgxaEC3I"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Russell James Smith (russelljsmith)"
+author_url = "http://www.flickr.com/people/48889087714@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/48889087714@N01/3388114640"
+title = "Daffodils"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
