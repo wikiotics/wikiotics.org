@@ -1,7 +1,7 @@
 +++
 title = "vegetables"
 contributors = [ "Laurent", "ian", "tomfy",]
-dividers = [ 4, 8, 12,]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "names", "pictures",]
 type = "lesson"
 target-languages = [ "en",]
@@ -221,6 +221,78 @@ author_url = "http://www.flickr.com/people/64194289@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/64194289@N04/7179302542"
 title = "Lone broccoli"
+[[cards]]
+
+[[cards.sides]]
+text = "celery"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:nlXLML7zIpWFfNEV5GSNSXvRNoyXZ8SUPpAErYw-nffYcctgDHuHqX1nD2cmkOfQ"
+href = "urn:sha384:S1C6X3fzqTieQQDsd-iNpWJkvIY1tAZeOtLuCHBuqRJgxkLc3OsXp4OjM1M49qoJ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (TheDeliciousLife)"
+author_url = "http://www.flickr.com/people/33715728@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/33715728@N05/4249693470"
+title = "Celery Stalks"
+[[cards]]
+
+[[cards.sides]]
+text = "some beets"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:UY6nugYkzaAN1CEVQkBFw94-f7nchGskyAjeMplGQI54yeRDvKXJY1Usdtto9RU4"
+href = "urn:sha384:nSfhQEQwV5-NGTDY7au_yWk77hgkw-9338MyZP-U91d6-R7pUG7gSq7tBTBFCAMr"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (B.D.'s world)"
+author_url = "http://www.flickr.com/people/72141646@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/72141646@N00/2727788545"
+title = "Beet It"
+[[cards]]
+
+[[cards.sides]]
+text = "some hot peppers"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:_wSsJpEU_QS2t3sMjtNvK2awZ4T1yR4Yh6tDhjNJH0Ephj-tJpo0YbceNbkdHAoQ"
+href = "urn:sha384:Q-spaAr9ewp3UTfJ0zXszouPeHJuFqQi1Ee-UYI8NQF8-DzNB3wZIiSwzkNhhdHH"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "John Winkelman (John Winkelman)"
+author_url = "http://www.flickr.com/people/99494849@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/99494849@N00/1366960323"
+title = "Peppers from my garden"
+[[cards]]
+
+[[cards.sides]]
+text = "some potatoes"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:2WGPWBaZNRaScejVippIlyBNkqYfeeM3bI2-XUYywa9TgBzP2o52tlc-R4nRXEp5"
+href = "urn:sha384:2JcmZGf-MahTQCmWh3yOBCuysV5TL7z5Pn0YfPOvAAFZKW50NxY-ToWsJMmI3puY"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Glenn (graibeard)"
+author_url = "http://www.flickr.com/people/8393288@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/8393288@N04/4121218392"
+title = "Potatoes-Kipfler-HeatAffectedHarvest-9288-2040gram"
 [[cards]]
 
 [[cards.sides]]
