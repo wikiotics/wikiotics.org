@@ -1,7 +1,7 @@
 +++
 title = "vegetables"
 contributors = [ "Laurent", "ian", "tomfy",]
-dividers = [ 4, 8, 12, 16, 20,]
+dividers = [ 4, 8, 12, 16, 20, 24,]
 headings = [ "names", "pictures",]
 type = "lesson"
 target-languages = [ "en",]
@@ -367,6 +367,78 @@ author_url = "http://www.flickr.com/people/59432011@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/59432011@N00/3786828825"
 title = "fresh shelling peas"
+[[cards]]
+
+[[cards.sides]]
+text = "a head of lettuce"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:yk075MJHPEwQhX81MBG19JEyxjMLRLOtVUwQCCZIdGYheAJjm8gnUSQHztNAMXis"
+href = "urn:sha384:OinJG1YAH3PeOawuOtE_UFUvYtaBBO_58o_Wqh2n_Mv0h6qQCI8-JDVSbqLPkn9n"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Eunice (sleepyneko)"
+author_url = "http://www.flickr.com/people/15244081@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/15244081@N00/495526828"
+title = "romaine lettuce"
+[[cards]]
+
+[[cards.sides]]
+text = "an avocado"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:pJv4PSILUs1Bw-7NrDWM5jTLnPctdKPvbjIuTdnM183ooWhEd5ptb4U3KS10cU1N"
+href = "urn:sha384:9B47c0j5b0LktQQrp-mg9YSK996Uo7TYthI_oCXtU2_N7bQkbZof5_mrcIW23U9_"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Like_the_Grand_Canyon)"
+author_url = "http://www.flickr.com/people/22508531@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/22508531@N08/2735380221"
+title = "Hass Avocado"
+[[cards]]
+
+[[cards.sides]]
+text = "summer squash"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:7vPUbIebQc1NHSpT4LjkDZdsps-EAaz432Nh3HYatvsTVu6DgWFm4O-OAFKdJen3"
+href = "urn:sha384:dVJnVAv15d0Zsme1T4LCM1hUn-xJFVeT4EflYOcx5O65rUwxGOLLJ7YbnVCMa915"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (ilovebutter)"
+author_url = "http://www.flickr.com/people/53464383@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/53464383@N00/852676029"
+title = "Zephyr Summer Squash"
+[[cards]]
+
+[[cards.sides]]
+text = "winter squash"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:eOlRwoQtE5RBHqr4P4yHeT7sn_2skfRJE7B5_LFJ2E5eCL6b3z0akUGSEJI7EbxK"
+href = "urn:sha384:_sNoVC0Z81xjTcDAsvkPpygk0wgOk6uYIDbCHCBABa-TGB079Jtc-i15eBDY5DWZ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Rudi Riet (randomduck)"
+author_url = "http://www.flickr.com/people/96463101@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/96463101@N00/365154794"
+title = "Winter squash"
 [[cards]]
 
 [[cards.sides]]
