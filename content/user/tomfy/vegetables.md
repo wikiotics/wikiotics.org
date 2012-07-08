@@ -1,0 +1,237 @@
++++
+title = "vegetables"
+contributors = [ "Laurent", "ian", "tomfy",]
+dividers = [ 4, 8, 12,]
+headings = [ "names", "pictures",]
+type = "lesson"
+target-languages = [ "en",]
+[[cards]]
+
+[[cards.sides]]
+text = "a tomato"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:ZW7hPprV4ALXCrDCUDURTAJwyy-bBgzBj12KQnAefyIQv-Tmlj8FsbmPtIQIDqUa"
+href = "urn:sha384:1Id6_1-V-XooTMzTymnfQg7-1ptg9401zEVRfIAxtHS_eqZsRSx-L1f9EcKvmQe1"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (-Merce-)"
+author_url = "http://www.flickr.com/people/14264808@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/14264808@N00/2775127757"
+title = "tomate 05"
+[[cards]]
+
+[[cards.sides]]
+text = "some leeks"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:nYz5N5Vo37mAKyHKAwEWsML_XDyHEfXN3T9lvNcS3OGOPRY-6GVmLpyfYulz7i4r"
+href = "urn:sha384:7gj5_epFgpDZS_gfGVOgMPFF4VbfuA8-cFT58YJgqU3ta8B9hg0CZ9ap8klk_jEn"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Karen and Brad Emerson (karenandbrademerson)"
+author_url = "http://www.flickr.com/people/10293577@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10293577@N03/3388423657"
+title = "Leeks"
+[[cards]]
+
+[[cards.sides]]
+text = "a carrot"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:d6XoelzBsjPeJX-W8wbGd5dJxzIVnMK5Mn4vHOtfdgrDwEhDfiuGY7abh3PvJmM2"
+href = "urn:sha384:fmZ-6K-7dwYQqA-aAUGKAAvol8E1VC9ya1rdYVKreOwpAO0z-oBL396PpbO_3rcj"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Melissa Doroquez (Merelymel13)"
+author_url = "http://www.flickr.com/people/62967061@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/62967061@N00/1423751189"
+title = "One Carrot in the Garden"
+[[cards]]
+
+[[cards.sides]]
+text = "a radish"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:scS_cosviSHoP-wo9Mhh0p4GQnjZyy3ACHGE0DS8pRKnzySAGh9K8UMoYy0UmURl"
+href = "urn:sha384:StKRn5q2D66dfIP3qymnpbQCw59lSa3kd8RZKYw5reaQpgYhx6GRlw91mDEcEo5m"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Alexandre Duret-Lutz (gadl)"
+author_url = "http://www.flickr.com/people/24183489@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/24183489@N00/2305883566"
+title = "Mr Radish"
+[[cards]]
+
+[[cards.sides]]
+text = "a zucchini"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:dELkZQNt4aAyJG6f4SxfRdTfEXdFm13gyWlUYGdYBSa-yGZxwRDeTt9r2W35hOWn"
+href = "urn:sha384:B1o0NuYt31z5F_RgTn4PtvtZVDoGcafQ5PtX7Gbr3AnvWJGRLEBsHCIeuEgI7l-t"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "ben dalton (noii's)"
+author_url = "http://www.flickr.com/people/17306001@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/17306001@N00/3780829256"
+title = "courgette"
+[[cards]]
+
+[[cards.sides]]
+text = "an onion"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:E5IW-3vqu4MnqItB0IWxVeuyr9oGPuNl3XSuA0jgptwSb0_aHXYkr_FhSsOVDYgw"
+href = "urn:sha384:vmJY5KexS4h-kMWrhHPPUCEPmia8q-frBZT1UtW_csNVvmHVaXjZucV4kv-z-lOB"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Kyle MacDonald (kylemac)"
+author_url = "http://www.flickr.com/people/36002228@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36002228@N00/66010632"
+title = "oignon"
+[[cards]]
+
+[[cards.sides]]
+text = "some eggplants"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:fi4dx0hz_vsHWHatW0HDs6lmlFlelg6dZLr5fHI--bpARBJcMhWg0Xqzv6mrpRZ8"
+href = "urn:sha384:vsYdQvPGoMSqTOKIRhqx_mzhZtZryJkV5jlb9Ij7m1X7RjP8g-jW7axc4Q0Q3TtP"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (hardworkinghippy)"
+author_url = "http://www.flickr.com/people/25918339@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/25918339@N00/237807924"
+title = "Aubergines - permaculture."
+[[cards]]
+
+[[cards.sides]]
+text = "a mushroom"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:ilHHz22Z_fvQqo6KKQzjIQUpIQJ0mFc0Xypuq9Eswd1ffnHjQe9-YRWQUM2sRLzZ"
+href = "urn:sha384:ntqii0wacGRBQyQnmebh8npalmTr9m4OuBOOu3bqdbbWUD-lVCtGsV42XDQXE8jh"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (peupleloup)"
+author_url = "http://www.flickr.com/people/10601432@N08/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/10601432@N08/2925054398"
+title = "Champignon / Mushroom"
+[[cards]]
+
+[[cards.sides]]
+text = "a cucumber"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:UuO4tEsIDBzJqJRkGLuF0DPcLcAV_p0KKrc3iP2BWsYyTcD-z8Rqod1-XFonMIl2"
+href = "urn:sha384:a39jf31yCXdLdilX7QD_4aIz-6uLqTcPvO2-_JP5udiwXbup_Unl0kq3l9cHOVFE"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Karen and Brad Emerson (karenandbrademerson)"
+author_url = "http://www.flickr.com/people/10293577@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10293577@N03/4927704196"
+title = "Cucumbers"
+[[cards]]
+
+[[cards.sides]]
+text = "a head of garlic"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:KYHcTgeHLPTbOEo82owLX9xLTZh5TQdaR67-T5MoM6hnWf7SUUzBQKf8Fl6_APWS"
+href = "urn:sha384:F6WEKkbjm5zkV1XbHZ6F7hceUN5VFpF-V4aK4zJCeGM-7AfnYMSnYXVHUpL7wDGV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "liz west (Muffet)"
+author_url = "http://www.flickr.com/people/53133240@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/53133240@N00/4131748658"
+title = "garlic"
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:HfJYHEQNXMSvz9Zg8i5Le99TMRQNO1DvcEzaxVBW-TcxibqPIN7mypartuKKjS7W"
+href = "urn:sha384:8A7sH9UMQyFfzWgJOorKyS_0aPD8CPUhbVWOt-rF8-N4gl05eXFZlW7tPPZ_Rl-S"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Tristan Schmurr (kewl)"
+author_url = "http://www.flickr.com/people/58411470@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/58411470@N00/6471030841"
+title = "Cabbage"
+[[cards.sides]]
+text = "a cabbage"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:NFuN0JghzE0yL2D7-S6LtUqvTfOyZ94Yk5aMhYDi6F-1IyZfko4gcwgrkMZBIyiF"
+href = "urn:sha384:fSTezDzgIiW7LrRScUQF2MHpNNfPvuk0wAj4lKkHiCo2vP0IG7oYsmBDtg95DMHr"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " ([puamelia])"
+author_url = "http://www.flickr.com/people/26226522@N08/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/26226522@N08/2579890315"
+title = "broccoli"
+[[cards.sides]]
+text = "a head of broccoli"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[interactions]]
+answer = 1
+prompt = [ 0,]
+type = "choice"
+
++++
