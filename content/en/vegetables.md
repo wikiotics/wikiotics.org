@@ -1,7 +1,7 @@
 +++
 title = "vegetables"
 contributors = [ "Laurent", "ian", "tomfy",]
-dividers = [ 4, 8, 12, 16,]
+dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "names", "pictures",]
 type = "lesson"
 target-languages = [ "en",]
@@ -293,6 +293,79 @@ author_url = "http://www.flickr.com/people/8393288@N04/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/8393288@N04/4121218392"
 title = "Potatoes-Kipfler-HeatAffectedHarvest-9288-2040gram"
+[[cards]]
+
+[[cards.sides]]
+text = "some sweet potatoes"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:mZcyKEXSlnl6n5idIm3k32yVSNHiDuglBBoNbNIK-Jeqk1mESeLPD_1-pEJ6MkDY"
+href = "urn:sha384:ovnzRlkhCVFbmjXaWiAZUz7AtlBpRnOrq8MubvYAIWaj6AMQ0EDZj0jHEkhhI8i9"
+mime_type = "image/jpeg"
+rotation = "270"
+type = "picture"
+
+[cards.sides.credit]
+author = " (NatalieMaynor)"
+author_url = "http://www.flickr.com/people/93178668@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/93178668@N00/3998726817"
+title = "Sweet Potatoes"
+[[cards]]
+
+[[cards.sides]]
+text = "some asparagus"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:cqxXkSNyDNm1NrYi37rWK0ZkkKhRVwMIV2hsD6mb-XZ675IrpI-Qts5hqHybun6Q"
+href = "urn:sha384:jV6Cv08lYfhnaPV7yKvFUxl0l3n1ax-lfOiJzrEDgjrTC2NGf9qHb6eaIVgH0P0F"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Laurel F (Laurel Fan)"
+author_url = "http://www.flickr.com/people/18295242@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/18295242@N00/766109980"
+title = "Roasted Asparagus"
+[[cards]]
+
+[[cards.sides]]
+text = "some green beans"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:qyUTxHHUff3dHPasqjtmmIMe1Yd5AI6KKnmwMWmNHhTb0msSkTQovWiwfXrqHCfZ"
+href = "urn:sha384:idX6HNFjO50eJrn4c7DBHafQvkeGm8y4QlTwr4k5sqCC8oSVCuhpEExtsbu-frSA"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Christian Heilmann (codepo8)"
+author_url = "http://www.flickr.com/people/11414938@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/11414938@N00/2786852318"
+title = "Green Beans"
+[[cards]]
+
+[[cards.sides]]
+text = "some peas"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:k5zC3ginFl7e-Rd12D9Ze0L9bIbyaNwJNl-7n5Uc-AkRG7dsyvXtVB4VWmzsqH3q"
+href = "urn:sha384:gBY3Uer6h74oz95mk4OwKUQ3UDeJIdQRZ5KDUbAgdLsNiVfvDOI9VovdmapvRoZU"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Liz (LizMarie_AK)"
+author_url = "http://www.flickr.com/people/59432011@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/59432011@N00/3786828825"
+title = "fresh shelling peas"
 [[cards]]
 
 [[cards.sides]]
