@@ -2,7 +2,7 @@
 title = "family members"
 contributors = [ "190.181.128.164", "tomfy",]
 dividers = [ 4, 8,]
-headings = [ "Prompt", "Answer", "what can I do with this column?",]
+headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
 
@@ -11,11 +11,8 @@ text = "My father's brother is my ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "uncle."
+text = "My uncle"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards]]
 
@@ -24,11 +21,8 @@ text = "My brother's daughter is my ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "niece."
+text = "My niece"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards]]
 
@@ -37,11 +31,8 @@ text = "My wife's sister is my ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "sister-in-law."
+text = "My sister-in-law"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards]]
 
@@ -50,11 +41,8 @@ text = "My daughter's daughter is my ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "granddaughter."
+text = "granddaughter"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards]]
 
@@ -63,11 +51,8 @@ text = "My sister's son is my ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "nephew."
+text = "nephew"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards]]
 
@@ -76,11 +61,8 @@ text = "My son's son is my ... "
 type = "phrase"
 
 [[cards.sides]]
-text = "grandson."
+text = "grandson"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards]]
 
@@ -89,11 +71,8 @@ text = "My father's mother is my ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "grandmother."
+text = "grandmother"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards]]
 
@@ -102,27 +81,10 @@ text = "My daughter's husband is my ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "son-in-law."
+text = "son-in-law"
 type = "phrase"
 
-[[cards.sides]]
-type = "empty"
-
 [[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
 
 [[cards.sides]]
 type = "empty"
@@ -138,13 +100,15 @@ type = "empty"
 [[cards.sides]]
 type = "empty"
 
-[[cards.sides]]
-type = "empty"
-
 [[cards]]
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
 
 [[cards.sides]]
 type = "empty"
@@ -153,7 +117,7 @@ type = "empty"
 type = "empty"
 
 [[interactions]]
-answer = 2
+answer = 1
 prompt = [ 0,]
 type = "choice"
 
