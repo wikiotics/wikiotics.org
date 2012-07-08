@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "My father's brother is my ..."
+text = "My father's brother"
 type = "phrase"
 
 [[cards.sides]]
@@ -17,7 +17,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "My brother's daughter is my ..."
+text = "My brother's daughter"
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "My wife's sister is my ..."
+text = "My wife's sister"
 type = "phrase"
 
 [[cards.sides]]
@@ -37,51 +37,51 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "My daughter's daughter is my ..."
+text = "My daughter's daughter"
 type = "phrase"
 
 [[cards.sides]]
-text = "granddaughter"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "My sister's son is my ..."
-type = "phrase"
-
-[[cards.sides]]
-text = "nephew"
+text = "My granddaughter"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "My son's son is my ... "
+text = "My sister's son"
 type = "phrase"
 
 [[cards.sides]]
-text = "grandson"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "My father's mother is my ..."
-type = "phrase"
-
-[[cards.sides]]
-text = "grandmother"
+text = "My nephew"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "My daughter's husband is my ..."
+text = "My son's son"
 type = "phrase"
 
 [[cards.sides]]
-text = "son-in-law"
+text = "My grandson"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "My father's mother"
+type = "phrase"
+
+[[cards.sides]]
+text = "My grandmother"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "My daughter's husband"
+type = "phrase"
+
+[[cards.sides]]
+text = "My son-in-law"
 type = "phrase"
 
 [[cards]]
