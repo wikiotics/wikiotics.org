@@ -1,7 +1,7 @@
 +++
 title = "Buildings"
 contributors = [ "tomfy",]
-dividers = [ 4, 8, 12,]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "Side 1", "",]
 type = "lesson"
 [[cards]]
@@ -259,19 +259,37 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-blob_href = "urn:sha384:t3DTet0--ZsvccaylKTt3wAHPQgFGh5OUrXwlSEeXi7QaAfkys0Q7-47M6HOvwSn"
-href = "urn:sha384:HcatKR0jXnqOhjmRCzkja5Sey-6VlaaP63jlBdvXyMFyZWIY4pnGiZJsxqJPrKgH"
+blob_href = "urn:sha384:Q0_cKYlaSCyw9wdo-WJpj60YC7Ey1O3DVmO43MvPRWt6OQAXYc28EPcLlMmzqSKZ"
+href = "urn:sha384:5n-oZO10z64YLFYq0R8RA2nxNLatbIiio_w230TIlFzqO9k0zI6ESazkDkRWdWzc"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Omar Bárcena (Omar Omar)"
-author_url = "http://www.flickr.com/people/51186333@N00/"
+author = " (benketaro)"
+author_url = "http://www.flickr.com/people/56525796@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/51186333@N00/3083390597"
-title = "Mortmar-Motel"
+original_url = "http://www.flickr.com/photos/56525796@N00/3939724973"
+title = "motel on the outskirts of reno"
 [[cards.sides]]
 text = "Motel"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:Gb5e06yewMsYPrGWnVrrgwIM9Lfq79XLv07wBsufzpgAXGT0KikcTiPecJAPS3yn"
+href = "urn:sha384:HY9d99ejJmfJ9UF-7600JmRb_OkUyW9VKsl5lzQiH6AHsZRQX5fPAqwFXR82oLwY"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Elliott Brown (ell brown)"
+author_url = "http://www.flickr.com/people/39415781@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/39415781@N06/5014494604"
+title = "Burger King, Shirley (like the one in Back to the Future)"
+[[cards.sides]]
+text = "fast-food restaurant"
 type = "phrase"
 
 [[cards]]
