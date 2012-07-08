@@ -93,7 +93,7 @@ type = "empty"
 type = "empty"
 
 [[interactions]]
-answer = 1
+answer = 0
 prompt = [ 1,]
 type = "choice"
 
