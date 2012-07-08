@@ -47,17 +47,17 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "My aunt's daughter is my ..."
+text = "My sister's son is my ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "cousin."
+text = "nephew."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "My son's son is my ..."
+text = "My son's son is my ... "
 type = "phrase"
 
 [[cards.sides]]
@@ -67,21 +67,21 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "My son's wife is my ..."
+text = "My father's mother is my ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "daughter-in-law."
+text = "grandmother."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "My father's sister is my ..."
+text = "My daughter's husband is my ..."
 type = "phrase"
 
 [[cards.sides]]
-text = "aunt."
+text = "son-in-law."
 type = "phrase"
 
 [[cards]]
@@ -94,7 +94,7 @@ type = "empty"
 
 [[interactions]]
 answer = 1
-prompt = [ 0,]
+prompt = [ 1,]
 type = "choice"
 
 +++
