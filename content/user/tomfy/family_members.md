@@ -211,7 +211,7 @@ text = "The son of my daughter"
 type = "phrase"
 
 [[cards.sides]]
-text = "My granddaughter"
+text = "My grandson"
 type = "phrase"
 
 [[cards]]
