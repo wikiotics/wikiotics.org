@@ -1,7 +1,7 @@
 +++
 title = "fruit"
-contributors = [ "Laurent", "garrison", "ian",]
-dividers = [ 4, 8, 12,]
+contributors = [ "74.79.145.89", "Laurent", "garrison", "ian",]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "", "",]
 type = "lesson"
 target-languages = [ "en",]
@@ -12,17 +12,17 @@ text = "An apple"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:n1It8hqoAa4KxbC2zj3tJzEG4XtUb22GfgxAnuIxfudLDjARDW_gKwZ0p1AABpKT"
-href = "urn:sha384:m2HbuIOTUaNwqyJOfhY-LZIQn2Ty9er4K68hEGO1QcPz0Je1KOF8z145EJAzF3F8"
+blob_href = "urn:sha384:URIPZhph7z_dfXDTf3_d34Q-TEvqUcJwqwfRkOkOkGRCijkJXWiS1EfXno2ydraI"
+href = "urn:sha384:ewde7bZBeYCE2Zqz4Q7EJIkEzGaPSN2Cisor29M941J0WPTX7XVf07iGLZoc0I1u"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Isabelle Palatin (balise42)"
-author_url = "http://www.flickr.com/people/22722986@N08/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/22722986@N08/4509811275"
-title = "Pomme / Apple"
+author = "Andy / Andrew Fogg (ndrwfgg)"
+author_url = "http://www.flickr.com/people/69024001@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/69024001@N00/282363160"
+title = "apple picking 3"
 [[cards]]
 
 [[cards.sides]]
@@ -30,17 +30,17 @@ text = "a pear"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:znFjdzpB87-7M7al9hLzUmG9RBAzQiFjU8R-nc8rI8MyCNQaguBXSeudTSz42aGN"
-href = "urn:sha384:Cs2RbuvHi7WKpkqdUpxLwGL0zikxNwUljJYB5H3WuGjssKLaPmoGkiBIvM7qIW_F"
+blob_href = "urn:sha384:yASPmnTXh0GD0s3gr6FFDpQeHwXoaFZl6XooZIfe9_CD_KR95AVzo5_vZeCbzq3_"
+href = "urn:sha384:PenYMU41_21iKkPd6-djduShizJbMAlmnvnDfIE5k9stgf4Nbz-hCBCxy9do6obr"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Frederic Potet (Fr33d)"
-author_url = "http://www.flickr.com/people/41667414@N06/"
+author = "Chris Buecheler (cwbuecheler)"
+author_url = "http://www.flickr.com/people/46328592@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/41667414@N06/6924956250"
-title = "Crumble de Poire revisité au caramel beurre salé maison"
+original_url = "http://www.flickr.com/photos/46328592@N00/1434342632"
+title = "Delicious Pear"
 [[cards]]
 
 [[cards.sides]]
@@ -239,6 +239,68 @@ author_url = "http://www.flickr.com/people/34145688@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/34145688@N00/1449766004"
 title = "| higos |"
+[[cards]]
+
+[[cards.sides]]
+text = "blueberries"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:0qu3boNGEh9i4mof6FQ02KzlDgeYc-eCxz2FyQ7I5BIPX4IgS9XyiUkzZzAaVMzE"
+href = "urn:sha384:NEWmx2T7oKSDdT8oDeACTyV6ogTBOFfW4YJyDBTvJzeKtTe5EUirwB0oXnFppMkP"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (brx0)"
+author_url = "http://www.flickr.com/people/78153302@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/78153302@N00/257551906"
+title = "blueberries"
+[[cards]]
+
+[[cards.sides]]
+text = "raspberries"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:1pwTRNm4UnjHXyyUmXpSbX_Fpo2Ah6CQ1LutSgNiSHAbb9ZaX6qMEhKIZJtQa1OP"
+href = "urn:sha384:U7u3tBqpAwKgm4VvL8-6fukIomcWNo3tJMN5KFOofIrO-WNbXT4pRMyHGyONW4ig"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "liz west (Muffet)"
+author_url = "http://www.flickr.com/people/53133240@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/53133240@N00/3999025000"
+title = "raspberries"
+[[cards]]
+
+[[cards.sides]]
+text = "strawberries"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:y8Ab9u3-vn-jzxgFFpuy3ZkbEe-GGnJXQ6OF2n58ZGZNYVu9XnQYwsS-C1xwhxGc"
+href = "urn:sha384:e_cLp82b_WX6Rmg3Rp3PVR_tRNPqDJ5Tsq1s8_D07DP9Tg2YalW4Gjx-VlJgmJRh"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Sancho McCann (sanchom)"
+author_url = "http://www.flickr.com/people/7163248@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/7163248@N04/2842525085"
+title = "Strawberries"
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0,]
