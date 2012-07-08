@@ -62,21 +62,21 @@ title = "One Carrot in the Garden"
 [[cards]]
 
 [[cards.sides]]
-text = "a radish"
+text = "some radishes"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:scS_cosviSHoP-wo9Mhh0p4GQnjZyy3ACHGE0DS8pRKnzySAGh9K8UMoYy0UmURl"
-href = "urn:sha384:StKRn5q2D66dfIP3qymnpbQCw59lSa3kd8RZKYw5reaQpgYhx6GRlw91mDEcEo5m"
+blob_href = "urn:sha384:WwgGOzVrJCgtFRH3KpxRq3Y6VvImkSIYFjCjlLfgsVltfuHNGKsyij8FH-YJDpkP"
+href = "urn:sha384:i2Ilx5eCoNJx7Bs-r1H5l7pjD5OO7-0gOsgZh5bvxrGwn8BQDtSKOluZC0j-gt2d"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Alexandre Duret-Lutz (gadl)"
-author_url = "http://www.flickr.com/people/24183489@N00/"
+author = " (kanshiketsu)"
+author_url = "http://www.flickr.com/people/31344171@N03/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/24183489@N00/2305883566"
-title = "Mr Radish"
+original_url = "http://www.flickr.com/photos/31344171@N03/3552499160"
+title = "Radishes"
 [[cards]]
 
 [[cards.sides]]
@@ -102,17 +102,18 @@ text = "an onion"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:E5IW-3vqu4MnqItB0IWxVeuyr9oGPuNl3XSuA0jgptwSb0_aHXYkr_FhSsOVDYgw"
-href = "urn:sha384:vmJY5KexS4h-kMWrhHPPUCEPmia8q-frBZT1UtW_csNVvmHVaXjZucV4kv-z-lOB"
+blob_href = "urn:sha384:0bbutNM8qcIeSXOLuX7ca-S65Zvy4R9a1jfy2JTOntGkAySp_V8zzIAppTNiUSVK"
+href = "urn:sha384:cLTrwv2_CnyJLbZbw1h9kMMlg74jJrOFDcMdZGghU5Ga061ge_t3nv9FtdH85bkU"
 mime_type = "image/jpeg"
+rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
-author = "Kyle MacDonald (kylemac)"
-author_url = "http://www.flickr.com/people/36002228@N00/"
+author = "Ano Lobb (Ano Lobb. @healthyrx)"
+author_url = "http://www.flickr.com/people/27384147@N02/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/36002228@N00/66010632"
-title = "oignon"
+original_url = "http://www.flickr.com/photos/27384147@N02/5211738745"
+title = "Red onion sliced to the heart"
 [[cards]]
 
 [[cards.sides]]
