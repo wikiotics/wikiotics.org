@@ -1,7 +1,7 @@
 +++
 title = "Buildings"
 contributors = [ "tomfy",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12,]
 headings = [ "Side 1", "",]
 type = "lesson"
 [[cards]]
@@ -61,17 +61,17 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-blob_href = "urn:sha384:I1wqUX8W2j3nZjnCNsvDT1bF93fZf9uuYG3xTwqj8AndEGd_K_BzUiKBS0MLUHq3"
-href = "urn:sha384:_FmabWuZbC-d18GMU90h3sR-e296kmy2kINjycA-AFjyCmR5xTlUOn1WmnwCra6H"
+blob_href = "urn:sha384:YJDjs2tfxZdCXu6jaNzwCgaitKmzkTF6a97tPohuvtCStnEj8Ukron0EBvTgcMGY"
+href = "urn:sha384:b9yPnh_Ijhf_szAILDfbPgZIuWv4dKCLVP6cQxdlsxah39rSuEx2jpALrsCUTckq"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "USAG- Humphreys (USAG-Humphreys)"
-author_url = "http://www.flickr.com/people/31687107@N07/"
+author = " (Retailmania)"
+author_url = "http://www.flickr.com/people/64645188@N06/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/31687107@N07/3132336124"
-title = "U.S. Army Garrison Humphreys celebrates the official grand opening of AAFES’ first gas station"
+original_url = "http://www.flickr.com/photos/64645188@N06/6315598729"
+title = "Exxon"
 [[cards.sides]]
 text = "Gas station"
 type = "phrase"
@@ -79,17 +79,17 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-blob_href = "urn:sha384:T34jc8HkESVKMErJiO3hZ_-y7zocSkA-gDyro1zGd4SAZjB4m83Bmw90VDZ08SNM"
-href = "urn:sha384:PXT9pcE34AzEcfEqjdGBupRBe0KdXIPjME1Ws7wopxCW40XvuknAWtcGR9zceVba"
+blob_href = "urn:sha384:cthChnfHQmO1C6YpxwCJsfzfBNadbvnI6F-7qCbU-SYqfYtbZ___tzWOnKcO-8uB"
+href = "urn:sha384:Y2YY11xLCZr9nCoWNfH8TgDSeiZ7AMIS-J0PqBXbfm2RN1TVdAYmnzP40OpFlOQb"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Sean MacEntee (Sean MacEntee)"
-author_url = "http://www.flickr.com/people/18090920@N07/"
+author = "Janice Waltzer (liberalmind1012)"
+author_url = "http://www.flickr.com/people/50631797@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/18090920@N07/5982086509"
-title = "Supermarket"
+original_url = "http://www.flickr.com/photos/50631797@N00/91923434"
+title = "German Corner, Owasso"
 [[cards.sides]]
 text = "Supermarket"
 type = "phrase"
@@ -146,6 +146,132 @@ original_url = "http://www.flickr.com/photos/35034346243@N01/9574466"
 title = "apartment building"
 [[cards.sides]]
 text = "Apartment building"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:_gb1GRRBDNK0bnqur0YVFS3ilnStTlKX4AHYxXRoqXVLk9NArGMcJoSGRngva21b"
+href = "urn:sha384:j_KD3cciKDM6UvqW8wG0ZSkMwx8hxk_GGLBnXnfPdcEZ_sSOBV5mAVXVKFDOM1hx"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Anthony Easton (PinkMoose)"
+author_url = "http://www.flickr.com/people/82072056@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/82072056@N00/3292421964"
+title = "Parking Garage, Dundas, Near Unversity"
+[[cards.sides]]
+text = "Parking garage"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:VYP4YjV3cqY667ZmJnKX-PsSJUBjA9VC7o0KTTVqTebREsg-UM8IGUrhdxozGkaM"
+href = "urn:sha384:OeUDwwSOwE-LhqZbkbiLVhSqz3StZ3-F3haUqxosI5NGgGio6nscRXYzJzz2GGOV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Ari Helminen (Ari Helminen)"
+author_url = "http://www.flickr.com/people/36093266@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36093266@N06/4507452208"
+title = "Skyscraper of Mexico city"
+[[cards.sides]]
+text = "Skyscraper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:ZWuHOsrgZa1gq_vd9aqrXcOIhCtoHtdxYo6O9RJ3DdwCU3PgW2nZJsOzfdTNANys"
+href = "urn:sha384:7zmq0CgKrjwpKHbbRrPiSfLKGfIdOCouEWHnw8m89tl8CRlepzddV8MXV2_o9cBZ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Monica Arellano-Ongpin)"
+author_url = "http://www.flickr.com/people/22118036@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/22118036@N00/2936014238"
+title = "Metropolitan Museum of Art, NYC - facade"
+[[cards.sides]]
+text = "Museum"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:vwRAGCTBmR-7hITP-mNJ9Y4O_MsUgh2swN1qOGSuznFdTXPGXXgo514kmwSSTtwm"
+href = "urn:sha384:ClJiTfmNst-opGjj2Hh2DNlAAzDiB0A8E7Cx60WGvy_LOMt9q6MO0r7HAKX_OX8c"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Eric Beato (Eric Beato)"
+author_url = "http://www.flickr.com/people/27447301@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/27447301@N02/2773633756"
+title = "Yankee Stadium entrance"
+[[cards.sides]]
+text = "Stadium"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:aWQNMQjR_X4uD8x8vFLS3mmo6WbQmbQtupDKbln-Ol1o1Bc9EqGHQeCgxHsppWMr"
+href = "urn:sha384:nVv4YafQBkrFnLGZxf6eEBNGsD5dlaPSVEiLDVoW3Ing_UTlrQOHnL5FqYUN3tqt"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (besopha)"
+author_url = "http://www.flickr.com/people/26700188@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/26700188@N05/5452898650"
+title = "Restaurant"
+[[cards.sides]]
+text = "Restaurant"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:o2H0F-kkauqk1XG4YCOuZJMRpoP6MfpGz44J1KwRuWWh8KKFO7dQV8b00rHtkNYJ"
+href = "urn:sha384:OgaCDF3TFZUI4JqXhqe_jdDgrRP5ULIPGOp_U-H3AVgE6mDAihmj7BGMYtSlRR6t"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Chris Lawrence (lordsutch)"
+author_url = "http://www.flickr.com/people/87345328@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/87345328@N00/18601215"
+title = "Office building in downtown Jackson"
+[[cards.sides]]
+text = "Office building"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:t3DTet0--ZsvccaylKTt3wAHPQgFGh5OUrXwlSEeXi7QaAfkys0Q7-47M6HOvwSn"
+href = "urn:sha384:HcatKR0jXnqOhjmRCzkja5Sey-6VlaaP63jlBdvXyMFyZWIY4pnGiZJsxqJPrKgH"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Omar Bárcena (Omar Omar)"
+author_url = "http://www.flickr.com/people/51186333@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/51186333@N00/3083390597"
+title = "Mortmar-Motel"
+[[cards.sides]]
+text = "Motel"
 type = "phrase"
 
 [[cards]]
