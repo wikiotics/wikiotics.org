@@ -1,7 +1,7 @@
 +++
 title = "family members"
 contributors = [ "190.181.128.164", "tomfy",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -87,26 +87,82 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Your mother's sister"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Your aunt"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Your sister's husband"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Your brother-in-law"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Your father's father"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Your grandfather"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your uncle's son or daughter"
+type = "phrase"
+
+[[cards.sides]]
+text = "Your cousin"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your child's child"
+type = "phrase"
+
+[[cards.sides]]
+text = "Your grandchild"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your mother and father"
+type = "phrase"
+
+[[cards.sides]]
+text = "Your parents"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your daughters and sons"
+type = "phrase"
+
+[[cards.sides]]
+text = "Your children"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your brothers and sisters"
+type = "phrase"
+
+[[cards.sides]]
+text = "Your siblings"
+type = "phrase"
 
 [[cards]]
 
