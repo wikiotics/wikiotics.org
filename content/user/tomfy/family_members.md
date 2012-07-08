@@ -1,7 +1,7 @@
 +++
 title = "family members"
 contributors = [ "190.181.128.164", "tomfy",]
-dividers = [ 4, 8, 12, 16,]
+dividers = [ 4, 8, 12, 16, 20, 24,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -162,6 +162,86 @@ type = "phrase"
 
 [[cards.sides]]
 text = "Your siblings"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The brother of my mother"
+type = "phrase"
+
+[[cards.sides]]
+text = "My uncle"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The sister of my husband"
+type = "phrase"
+
+[[cards.sides]]
+text = "My sister-in-law"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The son of my brother"
+type = "phrase"
+
+[[cards.sides]]
+text = "My nephew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The mother of my mother"
+type = "phrase"
+
+[[cards.sides]]
+text = "My grandmother"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The son of my daughter"
+type = "phrase"
+
+[[cards.sides]]
+text = "My granddaughter"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The wife of my son"
+type = "phrase"
+
+[[cards.sides]]
+text = "My daughter-in-law"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The daughter of my son"
+type = "phrase"
+
+[[cards.sides]]
+text = "My granddaughter"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The daughter of my sister"
+type = "phrase"
+
+[[cards.sides]]
+text = "My niece"
 type = "phrase"
 
 [[cards]]
