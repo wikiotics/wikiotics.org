@@ -96,17 +96,17 @@ text = "This is a violin"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:2a0luZKAnZEeiuLK-r0JRYuHOzfo1UpbuQqTV9SBlupUdzxsSq0ES-UEA-seapWB"
-href = "urn:sha384:n7m27DFsxE1Q9wv10vllh770MnKJpTToK364x-0KqNxD7MWWH2XDCfsHeevFvafC"
+blob_href = "urn:sha384:La7lfccV-1Sd7cGjC6y13YrFPU64MEK0jThcLbMVGlo1mHG8WG4vQOjtNJT3F4ef"
+href = "urn:sha384:9CUHiyNRbWwKRwPyLXMq1NceIAPstsUGKZGb-GCWI4h6zf5m2KHCTQl5cnqbCdA5"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Peter (Pedronet)"
-author_url = "http://www.flickr.com/people/40271931@N00/"
+author = " (jekert gwapo)"
+author_url = "http://www.flickr.com/people/22128291@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/40271931@N00/2208548725"
-title = "Violin lesson at the Moosic Muster"
+original_url = "http://www.flickr.com/photos/22128291@N07/3078199224"
+title = "violin"
 [[cards.sides]]
 type = "empty"
 
@@ -138,17 +138,17 @@ text = "This is a trombone"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:-sC05enZ_WK7BR5oP2axtbhUgG5hW7kZbBiNqADPi8KwK8Ss4Mngbl7okyrwhfGT"
-href = "urn:sha384:quGo23CrdnvpsJSPsxNFVBU-vc5Uxio1fYDloPznGrWCkg-MmDHXffplJOUZT9Cx"
+blob_href = "urn:sha384:tfRg9OkHcPUPgvzNRUpQX90bUsipXeIiFLlYUR2WwABm9N8iBCuOMOLT7ljNZbcn"
+href = "urn:sha384:HxY1uYcDrc3hpMXSClGL4is-KDN3KGhfn24zJol3Jo3s_HxTVPG1jmbekjYLwro_"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Miles Gehm (milesgehm)"
-author_url = "http://www.flickr.com/people/48600095270@N01/"
+author = "Infrogmation of New Orleans (Infrogmation)"
+author_url = "http://www.flickr.com/people/29350288@N06/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/48600095270@N01/465773257"
-title = "Jeanne plays trombone for THE UPTONES"
+original_url = "http://www.flickr.com/photos/29350288@N06/4682445912"
+title = "Grits Bar NOLA trombone"
 [[cards.sides]]
 type = "empty"
 
