@@ -1,7 +1,7 @@
 +++
 title = "Clothing 1"
 contributors = [ "tomfy",]
-dividers = [ 4,]
+dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -74,17 +74,101 @@ text = "Someone is wearing bluejeans and sitting on the ground."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Fjs02KBMgx7LBAyuMcqccvGc-Nzy0LEmWtJXZbYHNHeFBeM4Yr_niZD1ZeN46Q_W"
-href = "urn:sha384:HloDnaZpaUUjqT8oMOhdJj5vbmUPWp52h1FHsrDlNhwCjwfcYVFF9mfrG6kDR5ni"
+blob_href = "urn:sha384:r97yZfepx06FfMv_XtbsMXN093vv67ekNZcVecSU5zcEir3otnF2FnxfAZTUZfXC"
+href = "urn:sha384:9CzdLVk1yLitBH04pwxJVpobWdFCP8cKnNVm0IFnxhIMDhkY9ooHrYkDcRF7LQ4m"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "DODO DODO (__DODO)"
-author_url = "http://www.flickr.com/people/80728032@N00/"
+author = " (FaceMePLS)"
+author_url = "http://www.flickr.com/people/38891071@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/80728032@N00/995913686"
-title = "FHM shoot/Korobkoff (Dodolev)"
+original_url = "http://www.flickr.com/photos/38891071@N00/389409609"
+title = "Pleiner"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is a pair of socks."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:pzDVAi28hdjcQxgMVMQ_iroaPx5MQNQmQpLFBRbVFZr8i-OhXcGVNW2qIFIyP1TA"
+href = "urn:sha384:kULwITkeNqDvfCS6yFhvPgI37qMl_O7vjlhwrl_JgGt47Ri3vxxxTZOTk688r6MN"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Aine (Aine D)"
+author_url = "http://www.flickr.com/people/48600087038@N01/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/48600087038@N01/353421864"
+title = "Socks!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The boy is only wearing underpants."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:QEqOuraJJW6Z9OGFeSBHU4yRzRSyeVH2nb5679pYeC9ESsaiqbn2_BL-9KkLr6Kl"
+href = "urn:sha384:BR6vPmY04ia_XF8o2V26HZ5KdDo9VZiraH9tEYqls2SxbjsmRpihMd1DkIjnOIpi"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Mark Evans (chimothy27)"
+author_url = "http://www.flickr.com/people/8641421@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8641421@N07/4850946183"
+title = "New Underpants"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "A red bra is hanging on a clothesline."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:lbT9ZdiIC-gLS6-kazOxTIYrAnwwoFKi8-0e8IqBNjNxrbVBBhc3YSvduINqcxeq"
+href = "urn:sha384:LC2IeVmGFU44wlU1yYpyALrgqCy1rxc6YBUxhPTNjAIpHRv0qYN7MUghJuMgQv8_"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Nina Matthews (Nina Matthews Photography)"
+author_url = "http://www.flickr.com/people/21560098@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/21560098@N06/5887121089"
+title = "Ohhh nooooo .............."
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "He is wearing a tie but she is not."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:uThtseiMHq6lm4RPBtEzxOmW3pp1O-EwEufggo_o1vnJvYIm7tPeYsX9M_hIcLt4"
+href = "urn:sha384:AQWNTV2vRf_-FOXMADjRQU5_fZ363euyd8twKpjnzBI-jP2UX8Yzu5OeUy04k5Xg"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Russell James Smith (russelljsmith)"
+author_url = "http://www.flickr.com/people/48889087714@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/48889087714@N01/4236429927"
+title = "Sharon & Nathan"
 [[cards.sides]]
 type = "empty"
 
