@@ -49,7 +49,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Both men are wearing T-shirts."
+text = "Both men are wearing T shirts."
 type = "phrase"
 
 [[cards.sides]]
@@ -70,7 +70,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Someone is wearing bluejeans and sitting on the ground."
+text = "The woman is wearing bluejeans."
 type = "phrase"
 
 [[cards.sides]]
@@ -96,8 +96,9 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:pzDVAi28hdjcQxgMVMQ_iroaPx5MQNQmQpLFBRbVFZr8i-OhXcGVNW2qIFIyP1TA"
-href = "urn:sha384:kULwITkeNqDvfCS6yFhvPgI37qMl_O7vjlhwrl_JgGt47Ri3vxxxTZOTk688r6MN"
+href = "urn:sha384:_quTtlqXkZJV2EJaT60zrByqHNllsEF-UcxMGaedxRA3994umw1tD-G-AmAsOMwY"
 mime_type = "image/jpeg"
+rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
