@@ -20,7 +20,7 @@ direct exchange of information on familiar and routine matters.
 
 This is the current list of goals for what students will learn in the
 A2-S2 series of lessons along with suggestions of the type of lesson
-that will most fit best for those topics.
+that will work best for those topics.
 
 ##### Picture choice
 
