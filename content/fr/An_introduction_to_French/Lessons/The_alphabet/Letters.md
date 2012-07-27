@@ -1,7 +1,7 @@
 +++
 title = "Letters"
 contributors = [ "Laurent",]
-headings = [ "Letter", "Audio", "Pronunciation",]
+headings = [ "Letter", "Audio", "Name in French", "Pronunciation",]
 type = "lesson"
 target-languages = [ "fr",]
 source-languages = [ "en",]
@@ -13,6 +13,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/a/ (ah)"
+type = "phrase"
 
 [[cards.sides]]
 text = "like a in father"
@@ -28,6 +32,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/be/ (bay)"
+type = "phrase"
+
+[[cards.sides]]
 text = "like b in maybe"
 type = "phrase"
 
@@ -39,6 +47,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/se/ (say)"
+type = "phrase"
 
 [[cards.sides]]
 text = "before e and i: like c in center / before a, o, or u: like c in cat"
@@ -54,6 +66,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/de/ (day)"
+type = "phrase"
+
+[[cards.sides]]
 text = "like d in dog"
 type = "phrase"
 
@@ -65,6 +81,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/ə/ (uh)"
+type = "phrase"
 
 [[cards.sides]]
 text = "approximately like u in burp"
@@ -80,6 +100,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/ɛf/ (ehf)"
+type = "phrase"
+
+[[cards.sides]]
 text = "like f in fog"
 type = "phrase"
 
@@ -91,6 +115,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/ʒe/ (zhay)"
+type = "phrase"
 
 [[cards.sides]]
 text = "before e and i: like s in measure / before a, o, or u: like g in get"
@@ -106,6 +134,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/aʃ/ (ahsh)"
+type = "phrase"
+
+[[cards.sides]]
 text = "See Notes in the main lesson: never pronounced"
 type = "phrase"
 
@@ -117,6 +149,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/i/ (ee)"
+type = "phrase"
 
 [[cards.sides]]
 text = "like ea in team"
@@ -132,6 +168,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/ʒi/ (zhee)"
+type = "phrase"
+
+[[cards.sides]]
 text = "like s in measure"
 type = "phrase"
 
@@ -143,6 +183,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/ka/ (kah)"
+type = "phrase"
 
 [[cards.sides]]
 text = "like k in kite"
@@ -158,6 +202,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/ɛl/ (ehl)"
+type = "phrase"
+
+[[cards.sides]]
 text = "like l in lemon"
 type = "phrase"
 
@@ -169,6 +217,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/ɛm/ (ehm)"
+type = "phrase"
 
 [[cards.sides]]
 text = "like m in minute"
@@ -184,6 +236,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/ɛn/ (ehn)"
+type = "phrase"
+
+[[cards.sides]]
 text = "like n in note"
 type = "phrase"
 
@@ -195,6 +251,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/o/ (oh)"
+type = "phrase"
 
 [[cards.sides]]
 text = "closed: approximately like u in nut / open: like o in nose"
@@ -210,6 +270,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/pe/ (pay)"
+type = "phrase"
+
+[[cards.sides]]
 text = "like p in pen"
 type = "phrase"
 
@@ -221,6 +285,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/ky/ (kew)"
+type = "phrase"
 
 [[cards.sides]]
 text = "like k in kite"
@@ -236,6 +304,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/ɛʁ/ (ehr)"
+type = "phrase"
+
+[[cards.sides]]
 text = "force air through the back of your throat near the position of gargling, but sounding soft"
 type = "phrase"
 
@@ -247,6 +319,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/ɛs/ (ehs)"
+type = "phrase"
 
 [[cards.sides]]
 text = "like s in sister at beginning of word or with two s's or like z in amazing if only one s"
@@ -262,6 +338,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/te/ (tay)"
+type = "phrase"
+
+[[cards.sides]]
 text = "like t in top"
 type = "phrase"
 
@@ -273,6 +353,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/y/ (ew)"
+type = "phrase"
 
 [[cards.sides]]
 text = "say the English letter e, but make your lips say oo"
@@ -288,6 +372,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/ve/ (vay)"
+type = "phrase"
+
+[[cards.sides]]
 text = "like v in violin"
 type = "phrase"
 
@@ -299,6 +387,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/dubləve/ (doo-bluh-vay)"
+type = "phrase"
 
 [[cards.sides]]
 text = "depending on the derivation of the word, like v as in violin, or w in water"
@@ -314,6 +406,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/iks/ (eeks)"
+type = "phrase"
+
+[[cards.sides]]
 text = "either /ks/ in socks, or /gz/ in exit"
 type = "phrase"
 
@@ -327,6 +423,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
+text = "/igʁɛk/ (ee-grehk)"
+type = "phrase"
+
+[[cards.sides]]
 text = "like ea in leak"
 type = "phrase"
 
@@ -338,6 +438,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "/zɛd/ (zehd)"
+type = "phrase"
 
 [[cards.sides]]
 text = "like z in zebra"
