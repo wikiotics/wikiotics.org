@@ -21,7 +21,7 @@ and things he/she has.
 
 This is the current list of goals for what students will learn in the
 A1-S2 series of lessons along with suggestions of the type of lesson
-that will most fit best for those topics.
+that will work best for those topics.
 
 ##### Picture Choice
 
