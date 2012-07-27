@@ -1,6 +1,7 @@
 +++
 title = "Introduction"
 contributors = [ "124.63.101.22", "127.0.0.1", "201.37.129.76", "216.27.154.200", "65.91.246.2", "Laurent", "ian",]
+dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 target-languages = [ "en",]
@@ -388,29 +389,6 @@ blob_href = "urn:sha384:MyEJWz5KmjoMNVajwPYSg_ofJZxSE21aWJGiUfJ91_ZKOBGeclQYxR5g
 href = "urn:sha384:FmKzWCPNfhnFAA2Cq6-jMmYOFhUhvhffSEMxFn7xk6sXjhMuavtEMwKY1suH5y-a"
 mime_type = "audio/ogg"
 type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "hello world"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
 
 [[interactions]]
 answer = 1
