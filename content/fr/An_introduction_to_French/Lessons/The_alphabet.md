@@ -193,4 +193,4 @@ not compulsory any more (maître --\> maitre, boîte --\> boite...)
 The cedilla is used only with the letter c, and is said to make the c
 soft, making it equivalent to the English and French s.
 
-garçon (Listen /ɡaʁsɔ̃/)
+garçon (/ɡaʁsɔ̃/)
