@@ -29,6 +29,96 @@ make it sound like an English s: ç.
 Listen to the alphabet
 [here](/fr/An_introduction_to_French/Lessons/The_alphabet/Letters).
 
+## Notes
+
+### Final consonants
+
+In French, certain consonants are silent when they are the final letter
+of a word. The letters p (as in coup (/ku/ (koo))), s (as in héros
+(/e.ʁɔ/ (ay-roh))), t (as in chat (/ʃa/ (shah))), d (as in marchand
+(/maʁ.ʃɑ̃/ (mahr-shah(n)))), and x (as in paresseux (/pa.ʁɛ.sø/
+(pah-reh-sew))), are generally not pronounced at the end of a word. They
+are pronounced if there is an e letter after it (coupe (/kup/ (koop)),
+chatte (/ʃat/ (shaht)), marchande (/maʁ.ʃɑ̃d/ (mahr-shah(n)d))).
+
+### Dental consonants
+
+The letters d, l, n,s, t, and z are pronounced with the tip of the
+tongue against the lower teeth and the middle of the tongue against the
+roof of the mouth. In English, one would pronounce these letters with
+the tip of the tongue at the roof of one's mouth. It is very difficult
+to pronounce a word like voudrais (/vud.ʁɛ/) properly with the d formed
+in the English manner.
+
+### b and p
+
+Unlike English, when you pronounce the letters b and p in French, little
+to no air should come out of your mouth. In terms of phonetics, the
+difference in the French b and p and their English counterparts is one
+of aspiration. Fortunately, in English both aspirated and unaspirated
+variants (allophones) exist, but only in specific environments. If
+you're a native speaker, say the word pit and then the word spit out
+loud. Did you notice the extra puff of air in the first word that
+doesn't come with the second? The p in 'pit' is aspirated (\[pʰ\]); the
+p in 'spit' is not (like the p in any position in French).
+
+### q
+
+The letter 'q' is always followed by a 'u'. There are only two cases
+where there is an exception, and that is 'cinq' (five) and 'coq'
+(rooster).
+
+### r
+
+A final 'r' after 'e' is generally mute, but it is pronounced on words
+of one syllable 'fer', 'mer' and 'hier'.
+
+### Aspirated and non-aspirated h
+
+In French, the letter h can be aspirated (h aspiré), or not aspirated (h
+non aspiré), depending on which language the word was borrowed from. The
+h is never pronounced, whether it is aspirated or not aspirated.
+
+For example, the word héros (/e.ʁɔ/) has an aspirated h. When a definite
+article (le, la, l', les) is placed before it, the result is le héros,
+and both words must be pronounced separately. However, the feminine form
+of héros, héroïne (/eʁɔin/) is a non-aspirated h. Therefore, when you
+put a definite article in front of it, it becomes l'héroïne, and is
+pronounced as one word.
+
+The only way to tell if the h at the beginning of a word is aspirated is
+to look it up in the dictionary. Some dictionaries will place an
+asterisk (\*) in front of the entry word in the French-English H section
+if the h is aspirated. Other dictionaries will include it in the
+pronunciation guide after the key word by placing an apostrophe ( ' )
+before the pronunciation. In short, the words must be memorized.
+
+Here is a table of some basic h words that are aspirated and not
+aspirated:
+
+<table>
+<thead>
+<tr class="header">
+<th>aspirated</th>
+<th>non-aspirated</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>héros, hero (le héros)</td>
+<td>héroïne, heroine (l'héroïne)</td>
+</tr>
+<tr class="even">
+<td>haïr, to hate (je haïs)</td>
+<td>habiter, to live (j'habite)</td>
+</tr>
+<tr class="odd">
+<td>huit, eight (le huit novembre)</td>
+<td>harmonie, harmony (l'harmonie)</td>
+</tr>
+</tbody>
+</table>
+
 ## Punctuation
 
 The punctuation symbols in French operates very similarly to English
