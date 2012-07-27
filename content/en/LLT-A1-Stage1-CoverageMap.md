@@ -24,6 +24,7 @@ that will most fit best for those topics.
 ##### Picture choice
 
   - Person words: Wo/man, boy/girl
+      - [Introduction](/en/Introduction)
   - Simple nouns
   - Simple verbs
   - And
@@ -31,6 +32,8 @@ that will most fit best for those topics.
 ##### Podcast
 
   - Greetings
+      - [Basic "Hello" greetings for a French-speaking
+        audience.](/en/Meetup_Introductions)
   - Asking someone's name
 
 ##### Multiple choice
