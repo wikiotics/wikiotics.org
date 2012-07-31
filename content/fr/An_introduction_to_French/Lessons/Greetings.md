@@ -4,7 +4,7 @@ languageCode = "fr"
 +++
 
 This lesson should be read along with the [attached audio
-lesson](/fr/An_introduction_to_French/Lessons/Greetings/podcast).
+lesson](/fr/An_introduction_to_French/Lessons/Greetings/podcast1).
 
 ## Greetings - Les salutations
 
@@ -42,7 +42,9 @@ may also respond with *Je m'appelle \[name\].* meaning I am called....
 
 ## How are you? - Ça va?
 
-(podcast)
+Listen to the [audio
+lesson](/fr/An_introduction_to_French/Lessons/Greetings/podcast2) for
+this section.
 
 *Ça va?* is used to ask someone how they are doing. The phrase literally
 means It goes?, referring to the body and life. A more formal way to say
