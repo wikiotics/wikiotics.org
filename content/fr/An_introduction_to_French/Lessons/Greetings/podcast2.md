@@ -1,122 +1,109 @@
 +++
 title = "podcast2"
 contributors = [ "Laurent",]
-headings = [ "Phrase in French", "Audio", "IPA", "English equivalent", "",]
+headings = [ "Phrase in French", "Audio", "IPA", "English equivalent", "Comment",]
 type = "lesson"
 target-languages = [ "fr",]
 source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "Greetings - Salutations"
+text = "Comment allez-vous?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Bonjour."
+text = "/kɔmɑ̃‿tal.e vu/"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "/bɔ̃.ʒuʁ/"
+text = "How are you?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Hello"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Bonsoir."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "/bɔ̃.swaʁ/"
-type = "phrase"
-
-[[cards.sides]]
-text = "Good evening"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Salut."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "/sa.ly/"
-type = "phrase"
-
-[[cards.sides]]
-text = "Hi"
-type = "phrase"
-
-[[cards.sides]]
-text = "informal"
+text = "(formal)"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Goodbye - Au revoir"
+text = "Comment vas-tu?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "/kɔmɑ̃ va ty/"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "How are you?"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "(informal)"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Au revoir"
+text = "Comment ça va?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "/o ʁɘ.vwaʁ/"
+text = "/kɔmɑ̃ sa va/"
 type = "phrase"
 
 [[cards.sides]]
-text = "goodbye"
+text = "How are you?"
+type = "phrase"
+
+[[cards.sides]]
+text = "(informal)"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ca va?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "/sa va/"
+type = "phrase"
+
+[[cards.sides]]
+text = "How are you?"
+type = "phrase"
+
+[[cards.sides]]
+text = "(informal)"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ca va!"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "/sa va/"
+type = "phrase"
+
+[[cards.sides]]
+text = "I'm fine!"
 type = "phrase"
 
 [[cards.sides]]
@@ -125,39 +112,18 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Salut"
+text = "Ca va (très) bien."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "/sa.ly/"
+text = "/sa va (tʁɛ) bjɛ̃/"
 type = "phrase"
 
 [[cards.sides]]
-text = "Bye"
-type = "phrase"
-
-[[cards.sides]]
-text = "informal"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "A demain"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "/a dɘmɛ̃/"
-type = "phrase"
-
-[[cards.sides]]
-text = "see you tomorrow"
+text = "I'm (very) well"
 type = "phrase"
 
 [[cards.sides]]
@@ -166,18 +132,81 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "A tout à l'heure"
+text = "Très bien, merci!"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "/a tu‿ta lœʁ/"
+text = "/tʁɛ bjɛ̃ mɛʁsi/"
 type = "phrase"
 
 [[cards.sides]]
-text = "see you later (if you intend to meet again within a few hours)"
+text = "Very well, thanks!"
+type = "phrase"
+
+[[cards.sides]]
+text = "(mostly formal, but works in informal conversation too)"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Et vous?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "/e vu/"
+type = "phrase"
+
+[[cards.sides]]
+text = "How about you?"
+type = "phrase"
+
+[[cards.sides]]
+text = "(formal)"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Et toi?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "/e twɑ/"
+type = "phrase"
+
+[[cards.sides]]
+text = "How about you?"
+type = "phrase"
+
+[[cards.sides]]
+text = "(informal)"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pas mal."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "/pa mal/"
+type = "phrase"
+
+[[cards.sides]]
+text = "Not bad."
 type = "phrase"
 
 [[cards.sides]]
@@ -186,118 +215,19 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "A la prochaine"
+text = "Comme ci, comme ça"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "/a la proʃɛn/"
+text = "/kɔm si kɔm sa/"
 type = "phrase"
 
 [[cards.sides]]
-text = "see you later (informal)"
+text = "So so."
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "A bientôt"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "/a bjɛ̃.to/"
-type = "phrase"
-
-[[cards.sides]]
-text = "see you later (you intend to meet at least a few days later)"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "A plus tard"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "/a ply tahr/"
-type = "phrase"
-
-[[cards.sides]]
-text = "see you later"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Bonne journée"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "/bɔn ʒuʁ.ne/"
-type = "phrase"
-
-[[cards.sides]]
-text = "\"have a good day\", when leaving"
-type = "phrase"
-
-[[cards.sides]]
-text = "do not confuse with \"Bonjour\""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Bonne soirée"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "/bɔn swaʁ.e/"
-type = "phrase"
-
-[[cards.sides]]
-text = "\"have a good evening\", when leaving"
-type = "phrase"
-
-[[cards.sides]]
-text = "do not confuse with \"Bonsoir\""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards.sides]]
 type = "empty"
