@@ -88,18 +88,30 @@ Remember to save your lesson regularly to avoid losing work\!
 
 ## Step 3: Save your lesson on the wiki
 
-To save your lesson click on the "Save" item in the side bar located on
-the right of the screen. Here you can give your lesson a name, which
-will become part of the URL you use to open the lesson in a web browser,
-and decide whether to add your lesson to the community collection or
-keep it in your user area. Unless you have a reason to keep your lesson
-in your user area, choose the "community wiki" option and use the drop
-down menu to select the language that your lesson teaches. Now enter a
-name for the lesson in the first text box. You can also enter a message
-in the second text box to add a note to the lesson log. This will help
-you keep track of what changes you make to the lesson but is optional.
-Once you have selected the community wiki and given your lesson a name
-hit the "save" button below the two text boxes and your lesson is saved.
+To save your lesson, follow these steps:
 
-Unless you have a reason to keep your lesson in your user area we
-recommend everyone save lessons as part of the community collections
+  - Click the "Save" item in the side bar on the right of the screen.
+
+<!-- end list -->
+
+  - Select the language your lesson teaches from the drop-down menu
+    called "Community wiki".
+
+<!-- end list -->
+
+  - Give your lesson a name by typing in the "Page title" text box.
+
+<!-- end list -->
+
+  - Click the "Save" button below both text boxes.
+
+You can also add a log message by typing in the second text box. This
+will help you keep track of what changes you make to the lesson but is
+optional.
+
+Registered users also have the option of saving lessons to their user
+area rather than to one of the community collections. Lessons in your
+user area can only be edited by you, though they are publicly visible
+and anyone can copy them to other areas of the site for community
+editing. To save a lesson to your user area simply select the "my user
+directory" option rather than the "community wiki" one while saving.
