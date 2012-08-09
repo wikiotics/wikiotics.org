@@ -135,6 +135,27 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:SjUPLhKvpucz2_dQ8iTAjyAY1lxoSMqJwzfWCTJERS94LpD5yvZzT7nnrLuVAeiN"
+href = "urn:sha384:p7sF8NW_yE6U13OPCI5y2p3imMr3AAr7oor1ceLb4WngflWEk_u7VhO4xaHBmG4J"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Glen (glenmcbethlaw)"
+author_url = "http://www.flickr.com/people/9133510@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/9133510@N05/708849985"
+title = "Nurse watching over expectant mother"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
