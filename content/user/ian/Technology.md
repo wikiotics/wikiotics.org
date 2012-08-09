@@ -1,6 +1,6 @@
 +++
 title = "Technology"
-contributors = [ "37.98.36.178", "Laurent", "mxc",]
+contributors = [ "37.98.36.178", "Laurent", "ian", "mxc",]
 dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
@@ -8,7 +8,7 @@ target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "This is a keyboard."
+text = "The keyboard is for typing."
 type = "phrase"
 
 [[cards.sides]]
@@ -29,7 +29,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a monitor."
+text = "The monitor shows you images."
 type = "phrase"
 
 [[cards.sides]]
@@ -50,7 +50,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a mouse."
+text = "The mouse moves with your hand."
 type = "phrase"
 
 [[cards.sides]]
@@ -71,28 +71,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is the computer."
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:DvL1d_ltpt7kD7Su7sX7v8YuIqavFlUZpp1NVh6vY1urtJgrEdLhvM7YKeVC0CLy"
-href = "urn:sha384:3cwsjpTZrVl3estMIZvY6Oguryb68W0V3XjSktUM_EMHAlmK-eVo1Z1cnaRor3x3"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Rob DiCaterino (goodrob13)"
-author_url = "http://www.flickr.com/people/25030443@N03/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/25030443@N03/2500174475"
-title = "Unboxing my new HP, NYC, 5/17/08 - 10 of 34"
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "This is a laptop."
+text = "The laptop is a computer you can take with you."
 type = "phrase"
 
 [[cards.sides]]
@@ -113,63 +92,52 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a battery."
+text = "The mouse has a cord"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:0bcX7eIO2ntHkNQCYIWAlNnJmPZPBUxASLQcw5bRA3GAnunz43ID4JG38oO0VgcP"
-href = "urn:sha384:WsYe7u_qItYeUgtIvLgId1rROHjDjE91DvyH3LtAgqVZsbmS-baBL5KqApF7UfFx"
-mime_type = "image/jpeg"
-type = "picture"
+text = "mouse connected to computer with cord"
+type = "phrase"
 
-[cards.sides.credit]
-author = "Eirik Solheim (eirikso)"
-author_url = "http://www.flickr.com/people/47402349@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/47402349@N00/3983187032"
-title = "MacBook Battery"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is a power cord."
+text = "The monitor has a cord"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:e1CiqAM4X5wzrAMm5GbW3EcGVwJmHTsmvmD45UhrFweCuemPkaCt8ML4isV5zMyH"
-href = "urn:sha384:xkqrkbh_3ckHbze4h0sREu7RbnTXnbrjWOea7xuhrTS_UkaBEkf8C1lxzdhlUU3e"
-mime_type = "image/jpeg"
-type = "picture"
+text = "monitor connected to computer with cord"
+type = "phrase"
 
-[cards.sides.credit]
-author = "Justin Grimes (justgrimes)"
-author_url = "http://www.flickr.com/people/44718928@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/44718928@N00/2083223032"
-title = "Macbook Power Cable Defect"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is the track pad."
+text = "The laptop has no cord."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:wZBoqKQPtwP-8HSD3o9N3RWyNao_2_ofgVKKdU3Xqrlq2geH5AQEf6h8n5W07w_q"
-href = "urn:sha384:Tj0VSeeNN7f_5tJQb0eDxxNZO0_ZzGvZ8dCx-5inFlaxnQYhP20pgOekcLIjcJ-9"
-mime_type = "image/jpeg"
-type = "picture"
+text = "laptop operating on table with no cord visible"
+type = "phrase"
 
-[cards.sides.credit]
-author = "Quinn Dombrowski (quinn.anya)"
-author_url = "http://www.flickr.com/people/53326337@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/53326337@N00/3044632561"
-title = "Trackpad fail"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The cellphone has no cord."
+type = "phrase"
+
+[[cards.sides]]
+text = "Picture of someone making a call on a cell phone  iwth the cell phone facing the camera and the person in profile."
+type = "phrase"
+
 [[cards.sides]]
 type = "empty"
 
