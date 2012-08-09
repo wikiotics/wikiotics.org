@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Baker"
+text = "Which Person Works as a Baker?"
 type = "phrase"
 
 [[cards.sides]]
