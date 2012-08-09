@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Baker"
+text = "Which Person Works as a Baker?"
 type = "phrase"
 
 [[cards.sides]]
@@ -50,17 +50,17 @@ type = "empty"
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:iU4KnGNMOpkLk1R7VLd6MdvomjLNPoiBXVvlNvic_TSxXie6jAC4xn8nJwSq5yir"
-href = "urn:sha384:y9nMOtBY5ZJzg_cUT51vIqpu546-aHEsZBPmtGAhplUUlxOSmS5ZHZvVWclxU3NA"
+blob_href = "urn:sha384:kO9KKq5TbnutAUM7I8jtV4bKMS3A8guUC5l24_LzZ2gd3Ca4Hnf1T74WaOoLl1pB"
+href = "urn:sha384:Duq75n-tjmNUt9DVfqL7hkoLq6xBju8-nMAyeQsZG84NsMaOZbszjMUM6uPxIBcO"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Parker Michael Knight)"
-author_url = "http://www.flickr.com/people/10845359@N02/"
+author = "Vancouver Film School (vancouverfilmschool)"
+author_url = "http://www.flickr.com/people/38174668@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/10845359@N02/4381888793"
-title = "Hair Stylists and Makeup Artists"
+original_url = "http://www.flickr.com/photos/38174668@N05/4379767587"
+title = "Emmy-Winning Makeup Artist Eve Pearl visits VFS"
 [[cards.sides]]
 type = "empty"
 
