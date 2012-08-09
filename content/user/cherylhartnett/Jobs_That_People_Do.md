@@ -50,8 +50,17 @@ type = "empty"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kO9KKq5TbnutAUM7I8jtV4bKMS3A8guUC5l24_LzZ2gd3Ca4Hnf1T74WaOoLl1pB"
+href = "urn:sha384:5MrY-uEHEjpa-Psp8fpu7MZoeIqtoWoKK4epTJK-x-tvEIlX7QVuSSBVgcvUHSNO"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Vancouver Film School (vancouverfilmschool)"
+author_url = "http://www.flickr.com/people/38174668@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/38174668@N05/4379767587"
+title = "Emmy-Winning Makeup Artist Eve Pearl visits VFS"
 [[cards.sides]]
 type = "empty"
 
