@@ -88,7 +88,20 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "Which Person Works as a Nurse?"
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
