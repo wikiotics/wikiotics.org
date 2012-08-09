@@ -88,7 +88,50 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "Which Person Works as a Nurse?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:p7wqf_gnpFunkZOYG2JCaie_JOoFN6ONTXxmUkw8j8c674Y4-LGIH3iZ7YS39zZ-"
+href = "urn:sha384:HN94GDY7E3TOJ4HH2ZpWZCD02GG9sQJrsNN3RlAXbr_kQRdxZepY2ig32l4xCb9v"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Tony Alter (Tobyotter)"
+author_url = "http://www.flickr.com/people/78428166@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/78428166@N00/7498470494"
+title = "Skinny Lifeguard"
+[[cards.sides]]
 type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:S39867MaweOohWD6V-ocRP04hKx8rAQ_XNH21OJOPs3edyOnxWjbBdKQv4IZ-8W4"
+href = "urn:sha384:EMA2RTSBqxNp31fmS2NUSOy-bFjuKWA6fSiLfuaQ066SSR2ikmmCtObK-6tXU8qb"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Klearchos Kapoutsis (Klearchos Kapoutsis)"
+author_url = "http://www.flickr.com/people/8383084@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8383084@N06/4548332580"
+title = "Fisherman selling lobsters"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
