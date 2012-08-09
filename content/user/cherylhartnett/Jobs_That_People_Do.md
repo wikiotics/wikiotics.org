@@ -1,6 +1,7 @@
 +++
 title = "Jobs That People Do"
 contributors = [ "cherylhartnett",]
+dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -61,6 +62,26 @@ author_url = "http://www.flickr.com/people/38174668@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/38174668@N05/4379767587"
 title = "Emmy-Winning Makeup Artist Eve Pearl visits VFS"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:DDyed9lPA5fAh_MeV0HZoNs2-k6vHtYGiddbcA0MRDeWbxagqrq2G67-rg7MELDa"
+href = "urn:sha384:_CD4ZVOQLaAW-XFBrEBoBhuEoSBp3hzpwcRCOaa7s4CT2_gfwSrjuV-u90FImOQY"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Matt Jiggins (mattjiggins)"
+author_url = "http://www.flickr.com/people/8466254@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8466254@N03/4009306287"
+title = "Stop"
 [[cards.sides]]
 type = "empty"
 
