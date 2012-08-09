@@ -4,6 +4,7 @@ contributors = [ "cherylhartnett",]
 dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
