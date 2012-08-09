@@ -1,9 +1,9 @@
 +++
 title = "Jobs That People Do"
 contributors = [ "cherylhartnett",]
-dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
@@ -134,14 +134,51 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:SjUPLhKvpucz2_dQ8iTAjyAY1lxoSMqJwzfWCTJERS94LpD5yvZzT7nnrLuVAeiN"
+href = "urn:sha384:p7sF8NW_yE6U13OPCI5y2p3imMr3AAr7oor1ceLb4WngflWEk_u7VhO4xaHBmG4J"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Glen (glenmcbethlaw)"
+author_url = "http://www.flickr.com/people/9133510@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/9133510@N05/708849985"
+title = "Nurse watching over expectant mother"
+[[cards.sides]]
 type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:twaJ_aISdHMBTg8Oo6Y9dKuHO9J--ajxagRmda2nPm9oVtLkGAZfPo6LJ4W11J5F"
+href = "urn:sha384:X-3qy5dH7fALgzZlFeiyGvsuoNBxBh4tbncGwYXTRxZpbwhX9aN0VTw49_4CPApM"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Supermac1961)"
+author_url = "http://www.flickr.com/people/72752141@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72752141@N00/6159766148"
+title = "Mechanic fettling an Aston"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
-[[interactions]]
-answer = 1
-prompt = [ 0, 2,]
-type = "choice"
+[[cards.sides]]
+type = "empty"
 
 +++
