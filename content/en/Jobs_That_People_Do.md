@@ -88,7 +88,29 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "Which Person Works as a Doctor?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:WLbGZTUQ4xa_J_CFsN-85Tr5zpzXfQE0kFpW6t6x1EqAi2HYAdutntBiTJQQiqfI"
+href = "urn:sha384:E3eQrbYF_i0Fp91Y8GWoFfhQhJ2mfZfXK4Ls1BIXNKI42bWD-DrYupHIdyZypdiz"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jeremy Keith (adactio)"
+author_url = "http://www.flickr.com/people/74105777@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/74105777@N00/42135333"
+title = "Doctor who?"
+[[cards.sides]]
 type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
