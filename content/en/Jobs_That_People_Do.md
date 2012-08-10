@@ -406,6 +406,27 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "This man paints pictures.  He is an artist."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:b6SttpxxCfvjhFqHdQr39iGATTK10LtRDDegdmYxFkK7T9tEVcE3j0py91sD3k1s"
+href = "urn:sha384:MyNtllTi8IzlJvOB500tVGZS7y7njmcGKmc93seQJUeE_XIXLR8bzefeC-lxte_o"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (katsrcool)"
+author_url = "http://www.flickr.com/people/40775084@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/40775084@N05/6997411498"
+title = "Artist At Work"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = ""
 type = "phrase"
 
