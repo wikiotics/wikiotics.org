@@ -385,6 +385,27 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "This man fixes plumbing.  He is a _________."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:tYcOg0q50wg4SIagHsjAZ1X8DkbxcOIQN__iTUxssqJpS-ESiDiRzAyOklmnHl_e"
+href = "urn:sha384:ajewv4MdAsu8Z1SVULpyXbup-Go7KlnIyvCLYinebPDTm9DnghRxfmrHY6UOdq9D"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (rick)"
+author_url = "http://www.flickr.com/people/35034361412@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/35034361412@N01/294035034"
+title = "the plumber"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = ""
 type = "phrase"
 
