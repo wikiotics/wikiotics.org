@@ -343,6 +343,27 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "This woman takes care of sick poets.  What is she? "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:qhm_LxGFmiQyLFIs8UoIiviSUEC4flgYo5-JjYboq6noozV3YGlwSysSA2THPIqh"
+href = "urn:sha384:NDQH5axmlYF5wXysCDp8nJi1z2nzU3QwX-MMcmzFoCUGlQ5fQ7c51Ef0f7yNM-X0"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Tony Alter (Tobyotter)"
+author_url = "http://www.flickr.com/people/78428166@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/78428166@N00/5559945520"
+title = "Vet Visit"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = ""
 type = "phrase"
 
