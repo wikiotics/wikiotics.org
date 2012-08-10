@@ -196,7 +196,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "They put out fires.  What are they?"
+text = "They fight fires.  What are they?"
 type = "phrase"
 
 [[cards.sides]]
