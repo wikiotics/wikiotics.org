@@ -322,6 +322,27 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "This man takes care of a garden.  What is his job?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:CgVXzw6BsRnfYgw2lmH31y2bpm-c4qW_JVX9rxYtE2RhwLcQY88S0Px26f2dVgt9"
+href = "urn:sha384:kC1x38Fg7iSIFF01ivU2hI_-sH1F3BXuQeGp6p6TRobtatAc2WNArBtXsQAVtp5g"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Andra MIhali (LianaAn)"
+author_url = "http://www.flickr.com/people/33724654@N06/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/33724654@N06/4285187387"
+title = "Gardener "
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = ""
 type = "phrase"
 
