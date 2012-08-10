@@ -223,7 +223,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "They fight fires.  What are they?"
+text = "He fight fires.  What is he?"
 type = "phrase"
 
 [[cards.sides]]
@@ -239,8 +239,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36281822@N08/6120113202"
 title = "Firefighter training in Djibouti, August 2011"
 [[cards.sides]]
-blob_href = "urn:sha384:RHIGyvyCkcMmmgXc9bpBn7bsGlZH7P5ep1lGici06IzC-lukpkxnmI5u6L03fd43"
-href = "urn:sha384:lJDtJhpeIAouYQPtZb13xAU7tFkuLDCYEx_spSmlRDkIL-enV-nN7bp6i5NcJtIt"
+blob_href = "urn:sha384:kDMKCBFcpBWGp6WgadU58_F_9JMCJa80VDA8NdA0G2rqEbJZFz2AyVIX9i_49Kyh"
+href = "urn:sha384:fnq0hgTGGod7aJ-gqt971MG3zz0Smczb8P5XF7u7eV94jrG85l1DVjfG22KUolIN"
 mime_type = "audio/ogg"
 type = "audio"
 
