@@ -301,12 +301,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This man cleans buildings. What is he?"
+text = "This woman cleans buildings. What is she?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FvFMTep-BB75bqyX-N6BVk1QRKWZ_0WQRtwTLo7maWlx4JYjauEpg-p8CV7zIKVv"
+href = "urn:sha384:81yErZFsUnEsWNgJ1HN2P7kjUZ0ENZRZ8k0YMCxQjDP2tlOvg_nWzLPOE33qgbms"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (marja kingma)"
+author_url = "http://www.flickr.com/people/33395898@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/33395898@N02/7748351924"
+title = "P1000672"
 [[cards.sides]]
 type = "empty"
 
