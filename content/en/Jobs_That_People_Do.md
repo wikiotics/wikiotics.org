@@ -242,6 +242,27 @@ text = "This man heals the sick.  What is his job? "
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:IpdHNMxBCUz6XmCN86aUZkDvZXbNm3vnXTAwXfUrVSV8dYTJ03twmTzV8qR-oczs"
+href = "urn:sha384:xzezsRyI_Af1PHDfrbr7Po8Y1uoNa2KLJqCzJdNwPprNnCqfp4NaSPdvop0DcRL6"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Eden, Janine and Jim (edenpictures)"
+author_url = "http://www.flickr.com/people/10485077@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10485077@N06/4133664894"
+title = "Doctor"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
