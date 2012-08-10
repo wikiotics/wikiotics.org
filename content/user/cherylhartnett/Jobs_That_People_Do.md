@@ -175,7 +175,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This woman works in a school. What does she do?"
 type = "phrase"
 
 [[cards.sides]]
