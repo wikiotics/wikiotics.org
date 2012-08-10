@@ -356,7 +356,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/33395898@N02/7748351924"
 title = "P1000672"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:g-BvWBCSOTHjxGT7fcgntSSSkytfpcvCcAExVXilKwxE_gcUmlQ-KTBKirqPNTGX"
+href = "urn:sha384:3Dkl0P_qxa-780vignSFOrhNXHJZGNmjg1kMy1CKfc4UySoYoPxIaTqK72UZfQHn"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -377,7 +380,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/33724654@N06/4285187387"
 title = "Gardener "
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Ls3TYZSVdnfvBYONnPJfY9HqlcFsOFXt0Pdfk2PTJKP3hmagW7CsZQ02x4fy18AN"
+href = "urn:sha384:wxQpLXIeBMy9EwoM0KVFqR0JUubRNF5DNm-KNNfSHZw6MIA45osTDA_agd3-eIXH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
