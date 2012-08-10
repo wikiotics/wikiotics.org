@@ -1,6 +1,7 @@
 +++
 title = "Out of the Box"
 contributors = [ "lisa_a",]
+dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "en",]
@@ -73,13 +74,340 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This is an arrow."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
+text = "This is an arrow."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jack is in the box."
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "Jack is in the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jack is out of the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jack is out of the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jack is in front of the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jack is in front of the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jack is behind the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jack is behind the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The elf is in the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The elf is in the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The elf is out of the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The elf is out of the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The elf is in front of the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The elf is in front of the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The elf is behind the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The elf is behind the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jack and the elf are above the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jack and the elf are above the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jack and the elf are below the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jack and the elf are below the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jack and the elf are next to the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jack and the elf are next to the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jack and the elf are on the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jack and the elf are on the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The elf is above Jack."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The elf is above Jack."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jack is behind the elf."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jack is behind the elf."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jack is in front of the elf."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jack is in front of the elf."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The elf is below Jack."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The elf is below Jack."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is a restaurant."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "This is a restaurant."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The bank is behind the house."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The bank is behind the house."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The elf and Jack are in the restaurant."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The elf and Jack are in the restaurant."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The restaurant is in front of the bank."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The restaurant is in front of the bank."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is an arrow."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "This is an arrow."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is a boy."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "This is a boy."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is the boy's right hand."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "This is the boy's right hand."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is the boy's left hand."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "This is the boy's left hand."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[interactions]]
 answer = 1
