@@ -217,7 +217,28 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This woman is a police officer."
+text = "This woman is a __________."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Pj5W2wpkZfQCjqzdDuIQwmUTrQK5VvDndXwhw4kbLRNmSzzZJTBi4iQxYL8Fm9eI"
+href = "urn:sha384:-Qg6-K2oqbaC0M6gXkkwO_PO_pVMjH82QKfLCahM0ROpdWOy50RAgQQeNgQuw8Je"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Robert Thivierge (thivierr)"
+author_url = "http://www.flickr.com/people/45382436@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/45382436@N00/1237256375"
+title = "Female Police Officer"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards.sides]]
