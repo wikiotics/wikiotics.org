@@ -196,6 +196,27 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "They put out fires.  What are they?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:zdiWtHvAShh6SeEgpfB8E3-4TvwKzTyKKf33Wx_hzxnKPSnyAwb00UexIYk9viOO"
+href = "urn:sha384:iPjtCwTwidlWFbqlJyr8aYEqJxW_Tl_U6zDKkMdRSsvkspCKEdmjWB_jtsZ8KWWF"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "US Army Africa (US Army Africa)"
+author_url = "http://www.flickr.com/people/36281822@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36281822@N08/6120113202"
+title = "Firefighter training in Djibouti, August 2011"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = ""
 type = "phrase"
 
