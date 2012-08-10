@@ -13,7 +13,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:4O-DajHZZOkJxiYvjx3tQ7eFFSk5OG3tPTLCGnfxSGmqyoWvsntns4-qGwB15Hr1"
-href = "urn:sha384:sCgfm4sZL6cOdCt3f-i8oDJaYDj6nUvzn-JYOtdMeSOM_T3xqervObzar8P3vdtd"
+href = "urn:sha384:Or_iqazv0wxYp87_8o3nrkabCNtYWrTUU0UgO_Q-Pg-UxqHlEowT69rQcNmf6qKa"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -78,8 +78,17 @@ text = "This is an arrow."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3z9ugknDgYumuT5SQqRvmk-CVd4jvUAeh78XV_D1LT3qf-ZUe8SY11i1ZWDVVarT"
+href = "urn:sha384:V_NyAjMnZbhE-YTkMg6z2XI-bsLjmvlYWZ34V54mBcfyc0_7AbcgRe79gNvjn1Kp"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (antony_mayfield)"
+author_url = "http://www.flickr.com/people/31433424@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/31433424@N00/3221876089"
+title = "Arrow"
 [[cards.sides]]
 text = "This is an arrow."
 type = "phrase"
