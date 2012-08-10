@@ -7,18 +7,6 @@ target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "What do these women do?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
 text = "What does this person do?"
 type = "phrase"
 
@@ -307,6 +295,18 @@ author_url = "http://www.flickr.com/people/22588240@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/22588240@N04/3490297585"
 title = "sisimiut3 471"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This man cleans buildings. What is he?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
