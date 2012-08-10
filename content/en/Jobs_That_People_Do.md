@@ -1,7 +1,7 @@
 +++
 title = "Jobs That People Do"
 contributors = [ "cherylhartnett",]
-headings = [ "Phrase", "Picture", "Audio",]
+headings = [ "The Jobs That People Do", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "en",]
 [[cards]]
