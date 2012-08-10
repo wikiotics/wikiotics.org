@@ -3,6 +3,7 @@ title = "Out of the Box"
 contributors = [ "lisa_a",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
