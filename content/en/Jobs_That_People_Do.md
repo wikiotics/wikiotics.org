@@ -364,6 +364,27 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "This man works in a restaurant.  What does he do?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:mA7DKFGRHIW71U_uTW9aFn4KuE_ZEmKHSthcYp6r9vhonCNkLxFfksAyJJVgpbn_"
+href = "urn:sha384:YYthP05e8jocGyvg9j7q6wwXdzGFkHIehZHnx-K6xUcqzsMl8VQLmwqaaCFu40_q"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Alpha (avlxyz)"
+author_url = "http://www.flickr.com/people/10559879@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/10559879@N00/2259669811"
+title = "Chef - Mabrown's famous spicy quails"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = ""
 type = "phrase"
 
