@@ -179,6 +179,27 @@ text = "This woman works in a school. What does she do?"
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:Ss84cp6tv6D6pHSCfjbvzGldmfpHM2BMvTD6lxvOFeKs8J82KtAz7JpIKPkDZuOO"
+href = "urn:sha384:MFazlWnPlKyZEBJKXvnaSAxGWCZiAhaYOSh0OxfGi-lLlGT5j3icp5cx4y26-GpG"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Renato Ganoza (Renato Ganoza)"
+author_url = "http://www.flickr.com/people/24147261@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/24147261@N02/3900085107"
+title = "All work and no play."
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
