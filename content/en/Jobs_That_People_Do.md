@@ -140,7 +140,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8383084@N06/4548332580"
 title = "Fisherman selling lobsters"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9_Va42Nf-jt5J4sk9JsAutfMEwUgnmPpSviZYm6xHH9I_urv07ZrNZz3pJ1u5a7W"
+href = "urn:sha384:tsBnrLr3r3RY32TPxPEJ5_hbYEcODjR8HINKtg_Pb4njhA-uW7I_AZ06h8RgxjZ5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
