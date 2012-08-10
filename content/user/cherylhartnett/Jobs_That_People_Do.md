@@ -154,7 +154,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This man can fix cars.  What is His job?"
+text = "This man can fix cars. What is his job?"
 type = "phrase"
 
 [[cards.sides]]
@@ -175,12 +175,96 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This woman works in a school. What does she do?"
+text = "What is the job of the woman fixing the hair of another person?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:EygIcWv0M84tDEKxElRSq6evZCD_ZyjsKdFMYO0hOGtl7J6yrxYLOVBUMufj5M6d"
+href = "urn:sha384:WTIDwEdKdFjvmEbj3S38z5IxmIU1k2bHM_fPQDFzcJPQh5Y4EI_OShLH2xybt4Vv"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Parker Michael Knight)"
+author_url = "http://www.flickr.com/people/10845359@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10845359@N02/4382580500"
+title = "Hair Stylists and Makeup Artists"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "They put out fires.  What are they?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:zdiWtHvAShh6SeEgpfB8E3-4TvwKzTyKKf33Wx_hzxnKPSnyAwb00UexIYk9viOO"
+href = "urn:sha384:iPjtCwTwidlWFbqlJyr8aYEqJxW_Tl_U6zDKkMdRSsvkspCKEdmjWB_jtsZ8KWWF"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "US Army Africa (US Army Africa)"
+author_url = "http://www.flickr.com/people/36281822@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36281822@N08/6120113202"
+title = "Firefighter training in Djibouti, August 2011"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This woman is a __________."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Pj5W2wpkZfQCjqzdDuIQwmUTrQK5VvDndXwhw4kbLRNmSzzZJTBi4iQxYL8Fm9eI"
+href = "urn:sha384:-Qg6-K2oqbaC0M6gXkkwO_PO_pVMjH82QKfLCahM0ROpdWOy50RAgQQeNgQuw8Je"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Robert Thivierge (thivierr)"
+author_url = "http://www.flickr.com/people/45382436@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/45382436@N00/1237256375"
+title = "Female Police Officer"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This man heals the sick.  What is his job? "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:IpdHNMxBCUz6XmCN86aUZkDvZXbNm3vnXTAwXfUrVSV8dYTJ03twmTzV8qR-oczs"
+href = "urn:sha384:xzezsRyI_Af1PHDfrbr7Po8Y1uoNa2KLJqCzJdNwPprNnCqfp4NaSPdvop0DcRL6"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Eden, Janine and Jim (edenpictures)"
+author_url = "http://www.flickr.com/people/10485077@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10485077@N06/4133664894"
+title = "Doctor"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This woman teaches the young.  She is a __________."
 type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Ss84cp6tv6D6pHSCfjbvzGldmfpHM2BMvTD6lxvOFeKs8J82KtAz7JpIKPkDZuOO"
-href = "urn:sha384:MFazlWnPlKyZEBJKXvnaSAxGWCZiAhaYOSh0OxfGi-lLlGT5j3icp5cx4y26-GpG"
+href = "urn:sha384:ee2SUI6dhqp5uvDHuakZQhDMtv1pX2sbOuk2TFdeiaZvu9rimcsTuMJMKqlzu9Fi"
 mime_type = "image/jpeg"
 type = "picture"
 
