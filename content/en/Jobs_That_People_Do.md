@@ -154,7 +154,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This man can fix cars. What is his job?"
 type = "phrase"
 
 [[cards.sides]]
