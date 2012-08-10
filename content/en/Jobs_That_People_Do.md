@@ -70,7 +70,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "What does this man do?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:DDyed9lPA5fAh_MeV0HZoNs2-k6vHtYGiddbcA0MRDeWbxagqrq2G67-rg7MELDa"
@@ -90,7 +91,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Which Person Works as a Nurse?"
+text = "This man works as a ______ at the beach."
 type = "phrase"
 
 [[cards.sides]]
