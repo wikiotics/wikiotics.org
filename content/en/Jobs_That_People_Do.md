@@ -449,7 +449,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/35034361412@N01/294035034"
 title = "the plumber"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:2NMxtTqJldMjbSvNxHvQsEJWE6zMCMAM7AfqBI2Awoump5k_48uc--NuHzFiOBSF"
+href = "urn:sha384:V22343PFrbJwAkUks_DdLLnyuXuES3zR9p0QTIBnOFhjdDyfACyoUePuVdsUfVee"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
