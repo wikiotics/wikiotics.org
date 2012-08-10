@@ -23,7 +23,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/19451080@N00/5486509995"
 title = "VB Bakery"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:l8I3jcmwx6KYV8m0xMhOdQczKoxqQLJo_j7iwqhPUFuOsFrqVD-ps64zg0yFmYSk"
+href = "urn:sha384:aqfHfmtDbMEO1o_2dr8U0tPFZo6vG7TCbsXLPyRRkcxjvjchSf-hsEu1S0YPAJhk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -44,7 +47,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/13286453@N00/5337695316"
 title = "waiter"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:C1ZlOJnC4Z9OTZPOoCzcX6XzfU76yxEkAPq76fDsFfWjZ_W219h-MdglRrtdakoS"
+href = "urn:sha384:_4B5mdj8brzepMDSp-LJ6UDz6-tEMafT6Ecpd8opBJUb2cgwGypFjzl_vf52y1f8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -65,7 +71,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/38174668@N05/4379767587"
 title = "Emmy-Winning Makeup Artist Eve Pearl visits VFS"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:z5sBUzPQNFtM_t-JVC44e3QtjiqgYspkFapuCDiWxNDBySRGnbpSgEtkFq4j-Bb5"
+href = "urn:sha384:ZXMreiO_8fv7tgm2yXTRIo8Be9DsiwdZ-oZM5MCXI6syTWr68HveGoWu4g9AjHCb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -86,7 +95,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8466254@N03/4009306287"
 title = "Stop"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xJGu1eMQtYEy6CvWptjluTzavzaMfWvS2sBDtNC-HBQUhAsA8rxU1fDrhXq7ZUEQ"
+href = "urn:sha384:7o7aNlRTMDVRHrnjCvTgMvGfS1AsnLIY0vZ67_GRH5jfXCdBI8HxJUpINe0QnN_5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
