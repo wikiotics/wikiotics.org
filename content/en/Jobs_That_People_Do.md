@@ -175,6 +175,27 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "What is the job of the woman fixing the hair of another person?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:EygIcWv0M84tDEKxElRSq6evZCD_ZyjsKdFMYO0hOGtl7J6yrxYLOVBUMufj5M6d"
+href = "urn:sha384:WTIDwEdKdFjvmEbj3S38z5IxmIU1k2bHM_fPQDFzcJPQh5Y4EI_OShLH2xybt4Vv"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Parker Michael Knight)"
+author_url = "http://www.flickr.com/people/10845359@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10845359@N02/4382580500"
+title = "Hair Stylists and Makeup Artists"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = ""
 type = "phrase"
 
