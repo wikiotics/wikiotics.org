@@ -119,7 +119,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/78428166@N00/7498470494"
 title = "Skinny Lifeguard"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:z2VxRWWqAIsaeat4l1dtvFGEn6qRAfvx4b8YdxGb2MPZtvSriucOww-zKp4mBrI-"
+href = "urn:sha384:sEIaZ2TY9jSjk9Ns48BJ2AbVo7CzuXwHxrZBp4D1RGr5v4ACuiqa7eiXqybNpKW0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
