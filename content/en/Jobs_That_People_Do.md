@@ -263,6 +263,27 @@ text = "This woman teaches the young.  She is a __________."
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:Ss84cp6tv6D6pHSCfjbvzGldmfpHM2BMvTD6lxvOFeKs8J82KtAz7JpIKPkDZuOO"
+href = "urn:sha384:ee2SUI6dhqp5uvDHuakZQhDMtv1pX2sbOuk2TFdeiaZvu9rimcsTuMJMKqlzu9Fi"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Renato Ganoza (Renato Ganoza)"
+author_url = "http://www.flickr.com/people/24147261@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/24147261@N02/3900085107"
+title = "All work and no play."
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
