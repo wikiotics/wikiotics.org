@@ -473,7 +473,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40775084@N05/6997411498"
 title = "Artist At Work"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:eJlz3GRug5Oa7ISCFqFc3LpYfRJgx4JfYxp_ugtL_AQ8be3pRFtNTm-ByZOHmPyW"
+href = "urn:sha384:wrYR8E5Gc91Hws61dU1xlYBOWAbmXeBQMw33SK3nv4gAv0UMDrMCRIVuBsX88vfJ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
