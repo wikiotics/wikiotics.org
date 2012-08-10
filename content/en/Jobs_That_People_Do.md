@@ -164,7 +164,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/9133510@N05/708849985"
 title = "Nurse watching over expectant mother"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qfr33fAW1rE3Z90iaZPzMH71QZQQcyUrkvxts1SBeioxDfeiNy8SRU3xAjCMZqnQ"
+href = "urn:sha384:VS2BbE0OSPa0cCJxlr3Iem8Z8jg-Mm-T3DE8i5uAgx_VyBp1qD7fg2xu426jLn9h"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -185,7 +188,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/72752141@N00/6159766148"
 title = "Mechanic fettling an Aston"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:grQmQ9-bIA6PN7GjU-tdjmBYrKno307r9LosCxuRdPl0713YGE0LZIALr4-MB9WM"
+href = "urn:sha384:Ta2budEPO-GNHhR2h_hLCuAYCfPuPlTNcYEGH5Yy82VQAeRqn_cjTArVh0P85rdb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -206,7 +212,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/10845359@N02/4382580500"
 title = "Hair Stylists and Makeup Artists"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4oytt9GNVW6RVCowpNMmf6FSdIG0upjcOk4Ac5BBF_QTTodemUvOpXJAMDQu1ulH"
+href = "urn:sha384:Tnab94sOE6gC6OMBYWXRT4mPafhrtGKrlwHuiw3HujMsLFTGtHIPrBi6msNCcDyI"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -227,7 +236,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36281822@N08/6120113202"
 title = "Firefighter training in Djibouti, August 2011"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:RHIGyvyCkcMmmgXc9bpBn7bsGlZH7P5ep1lGici06IzC-lukpkxnmI5u6L03fd43"
+href = "urn:sha384:lJDtJhpeIAouYQPtZb13xAU7tFkuLDCYEx_spSmlRDkIL-enV-nN7bp6i5NcJtIt"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -248,7 +260,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/45382436@N00/1237256375"
 title = "Female Police Officer"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nBb_Cuv3T4Lq2jw4184GIpV1uCDfJwFjLkyYyVNroA0eWGVuQLCvHiPsYIMFEioB"
+href = "urn:sha384:tYjGsYo9Ovv0cCmGpeDEkmI6I8UG7ng-tbZcyk5AP0RLy4pWSpWAhwanTMYB0jR-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -269,7 +284,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/10485077@N06/4133664894"
 title = "Doctor"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lvg795SCEC2bz5fo0sqMC_T_xCu--iCqGtoF8-8wEd0sPPQ8sLwC2My35k_sNq7V"
+href = "urn:sha384:Km-rKr3oMO5xufEMjvcp31Hj4uaGHASmfIHoz1x5Da2_q8NH5PqktRENhKp-14qL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -290,7 +308,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/24147261@N02/3900085107"
 title = "All work and no play."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ORLivgxDQnElh4x4ClicmlQRRpVt5BtO6SV85bVqAZD-cXCl92eZdXowBxflYim6"
+href = "urn:sha384:yX_nAC_NBEeegQXC4plHRabeEnfj8f_I47M3_VOMVMZaaN3TvOJEv-53hmdnG5Zq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -311,7 +332,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/22588240@N04/3490297585"
 title = "sisimiut3 471"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IsNKbI5uC5JWxWk_qERea_WPLGSQVFySHy8BXUmyrvhac3q3UeT03rWKI7IIsQEO"
+href = "urn:sha384:MHmgLih4myafAz3ibj7q_S3ZLzSx1IWlFf_Y1E73pQv-tXeLs2bwQBm9m9Cj9uHs"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
