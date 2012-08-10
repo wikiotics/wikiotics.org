@@ -1,7 +1,7 @@
 +++
 title = "Out of the Box"
 contributors = [ "lisa_a",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "en",]
@@ -399,8 +399,121 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The boy is on the right of the elf."
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The boy is on the right of the elf."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The elf is on the right of the boy."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The elf is on the right of the boy."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jack is on the left of the boy."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The boy is on the left of Jack."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The boy is on the left of Jack."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pay attention to the arrow!"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pay attention to the arrow!"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The boy is on the left of the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The boy is on the left of the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The box is on the right of the boy."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The box is on the right of the boy."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The elf is on the left of the boy and the box."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "The elf is on the left of the boy and the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
 
 [[cards.sides]]
 type = "empty"
