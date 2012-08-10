@@ -407,7 +407,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/78428166@N00/5559945520"
 title = "Vet Visit"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WBL4pBQYVXu1CfM9rmf-cizkYxF9_NURzCtWOmA1ak4kqMCJ4Kpcb4HhO6_dEePP"
+href = "urn:sha384:8kP67rKlk_CEsR84RGWxcAnTOC_thxgfUuv1lMPXvL7ZVuwOXo7sIiD6w2bzTm8C"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
