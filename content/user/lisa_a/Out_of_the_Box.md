@@ -320,17 +320,17 @@ text = "The small rock is above the big rock."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:b0DSfZdtbWZ8bIgbeSHcj7f79NJLUXfNX1foyJ8JaEd_YKx-irKsfpmY5uZLH4sT"
-href = "urn:sha384:CnEMUQ0VPfu1yvnntng-fkibpx9HN40JKV7tvtlMzUFYU_hb_Bh1rkmZa9BP0bR-"
+blob_href = "urn:sha384:TO1BajDcu650B5WtZfo7IY3WGvtTOQDAhdu4L39z-56nf-fEcKh09PPDuS7HLEh2"
+href = "urn:sha384:TPWm2cKIyyzZHd2s3u15UWS84Bq_9F8DR8qXKosKp7X-zaQDD38yCZgkMs2So6aF"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Tim (Timothy) Pearce (Tim Pearce, Los Gatos)"
-author_url = "http://www.flickr.com/people/42937777@N00/"
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/42937777@N00/3499128504"
-title = "balanced rock in arches state park utah"
+original_url = "http://www.flickr.com/photos/66418768@N05/7765884090"
+title = "Wiki1Rocks"
 [[cards.sides]]
 text = "The small rock is above the big rock."
 type = "phrase"
@@ -342,18 +342,17 @@ text = "The small rock is below the big rock.."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:b0DSfZdtbWZ8bIgbeSHcj7f79NJLUXfNX1foyJ8JaEd_YKx-irKsfpmY5uZLH4sT"
-href = "urn:sha384:JWbASx2xub10hCk35DlfXxwLelOBDtdMeLYZl_OLPuATl0nc0MoW7U7M1KnCZ_oC"
+blob_href = "urn:sha384:TO1BajDcu650B5WtZfo7IY3WGvtTOQDAhdu4L39z-56nf-fEcKh09PPDuS7HLEh2"
+href = "urn:sha384:Wlec5cbA4baqqLWb_bLSCNAZWCMDoeb03f3BJ-HT8z1jsFh2TIK2Ckv5d_vmAfwS"
 mime_type = "image/jpeg"
-rotation = "180"
 type = "picture"
 
 [cards.sides.credit]
-author = "Tim (Timothy) Pearce (Tim Pearce, Los Gatos)"
-author_url = "http://www.flickr.com/people/42937777@N00/"
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/42937777@N00/3499128504"
-title = "balanced rock in arches state park utah"
+original_url = "http://www.flickr.com/photos/66418768@N05/7765884090"
+title = "Wiki1Rocks"
 [[cards.sides]]
 text = "The small rock is below the big rock.."
 type = "phrase"
@@ -361,7 +360,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "This is "
+text = "The big rock is next to the small rock."
 type = "phrase"
 
 [[cards.sides]]
