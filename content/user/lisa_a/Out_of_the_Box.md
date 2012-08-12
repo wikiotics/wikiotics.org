@@ -272,59 +272,95 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Jack and the elf are above the box."
+text = "This is a big rock."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9i23fda_NUDif9t13uqGNgysgWxC3_-xD0ow_xzcVDTs7kdTac_3PCwxESIS0ctN"
+href = "urn:sha384:yy40UjM_4Cp8iiEV9eWj-lHRXskXxwCRPdyfc--o_gKGZ1n0i-19KoWW7Km86e5V"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7765833502"
+title = "Wiki1BigRock"
 [[cards.sides]]
-text = "Jack and the elf are above the box."
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Jack and the elf are below the box."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Jack and the elf are below the box."
+text = "This is a big rock."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Jack and the elf are next to the box."
+text = "This is a small rock."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:i093zwdJOG3qGVcyFhbpKSqoYI-C-1i0yoIWHmO7YQUr67BjnIVljn2EZB1osVKJ"
+href = "urn:sha384:9VeCifI29f9DbVe8zXWvUWPztkCz3mGM7-Lyec1ze4Yp-9PQL08repc1b2r-AJBT"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7765837900"
+title = "Wiki1SmallRock"
 [[cards.sides]]
-text = "Jack and the elf are next to the box."
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Jack and the elf are on the box."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Jack and the elf are on the box."
+text = "This is a small rock."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "The elf is above Jack."
+text = "The small rock is above the big rock."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:b0DSfZdtbWZ8bIgbeSHcj7f79NJLUXfNX1foyJ8JaEd_YKx-irKsfpmY5uZLH4sT"
+href = "urn:sha384:CnEMUQ0VPfu1yvnntng-fkibpx9HN40JKV7tvtlMzUFYU_hb_Bh1rkmZa9BP0bR-"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Tim (Timothy) Pearce (Tim Pearce, Los Gatos)"
+author_url = "http://www.flickr.com/people/42937777@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/42937777@N00/3499128504"
+title = "balanced rock in arches state park utah"
+[[cards.sides]]
+text = "The small rock is above the big rock."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The small rock is below the big rock.."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:b0DSfZdtbWZ8bIgbeSHcj7f79NJLUXfNX1foyJ8JaEd_YKx-irKsfpmY5uZLH4sT"
+href = "urn:sha384:rIRip9jspzFi7FBsVKFe2mEmwNGkZOW2bhz2mh26LaJ4Cj2OsvKusm1OCmJoWuk_"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Tim (Timothy) Pearce (Tim Pearce, Los Gatos)"
+author_url = "http://www.flickr.com/people/42937777@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/42937777@N00/3499128504"
+title = "balanced rock in arches state park utah"
+[[cards.sides]]
+text = "The small rock is below the big rock.."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is "
 type = "phrase"
 
 [[cards.sides]]
