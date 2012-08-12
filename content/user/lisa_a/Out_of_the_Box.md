@@ -100,8 +100,17 @@ text = "Jack is in the box."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:SeAm8N2ejXE66PToQqdH6JZDCUeo7FaR7UmLksVkEyyXPnXCOLaLc5hUCNspWaht"
+href = "urn:sha384:kYB6HuNULGQATIfpwpCPcwArQ-zmPFRTfI8VBGYo-6CGRTwurzeHsBUUSS6a58Qt"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7752508134"
+title = "Wiki1JackInBox"
 [[cards.sides]]
 text = "Jack is in the box."
 type = "phrase"
@@ -113,8 +122,17 @@ text = "Jack is out of the box."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vf1ofCMKSGkGAwaQTAzCCMAnBavMJ-TpX31rt99dbzgn2P3qU_YOAUAAW7xm5cxr"
+href = "urn:sha384:X9JY91Eg7NZ3IVv9--9Lzj56xAVvvzyEUPsmumeXeddS5goLZos9dShBq_J4sflD"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7752669354"
+title = "Wiki1JackOutBox"
 [[cards.sides]]
 text = "Jack is out of the box."
 type = "phrase"
@@ -126,8 +144,17 @@ text = "Jack is in front of the box."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8LYunmug7oEsYlEjHMtuesloo7pcN5rUe5JHetKgH1p5LPxUVprSTg8EapWyqNRJ"
+href = "urn:sha384:4nN6dhiYcbhXIul63WtJshAjut2UgSUX9PH_bw6ZhR_ag9SdYR-4GRe93N8u9-fX"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7752569986"
+title = "Wiki1JackFront"
 [[cards.sides]]
 text = "Jack is in front of the box."
 type = "phrase"
@@ -139,8 +166,17 @@ text = "Jack is behind the box."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7mmo9gHC5zCTTQmb2dRxMbVW4CyxeyjWuQjtCQEJyM3Lj_f51GhcCketk0R9kBcD"
+href = "urn:sha384:XhQQmiyUJId-MJzRXyfEAsUCyHHhwcMzi8coINT6IYIBx32iLgCA_M4z7gyj8z3d"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7752570090"
+title = "Wiki1JackBehind"
 [[cards.sides]]
 text = "Jack is behind the box."
 type = "phrase"
@@ -152,8 +188,17 @@ text = "The elf is in the box."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DSXE8VuVdiCIcQFOM-IhVqn8sTPliv8YdlPWfvKG3-pItXgxXdW6bBwtq9lv23p5"
+href = "urn:sha384:Jgl_wC1cB-Boffeb8glmDNXR166rxY8f2VDqs90wrB2ljcXif5eG4qfrTvisfChJ"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7752641236"
+title = "Wiki1ElfIn"
 [[cards.sides]]
 text = "The elf is in the box."
 type = "phrase"
@@ -165,8 +210,17 @@ text = "The elf is out of the box."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Vzh7-s8t6XIIJ5IGD42L4SLmb9J3yxIw1k_IftbsmYxNmzYRgS8OLriT8fZFe1DR"
+href = "urn:sha384:lsOT6VvGL9REVJ64oeMyRnOS14F-Egv9eLt-hBn8-N8SFZMhjv3ebYAuua0J3WoC"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7752633248"
+title = "Wiki1ElfOut"
 [[cards.sides]]
 text = "The elf is out of the box."
 type = "phrase"
@@ -178,8 +232,17 @@ text = "The elf is in front of the box."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cF7fwYmSNMXE0slYj4nWvSpQt5DldW4i-wO-UXv1k2Uu2fS3hLag9kXlDm2S8T2t"
+href = "urn:sha384:WnmaOBIjX-8WXOBRP7fCd-exnXXkoBNPWQlC7UeCY71aN78ycvR8d54wlJTqLVZK"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7752633486"
+title = "Wiki1ElfInFront"
 [[cards.sides]]
 text = "The elf is in front of the box."
 type = "phrase"
@@ -191,8 +254,17 @@ text = "The elf is behind the box."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zT-yJO6QZB9vTBhcfrvth73WQcIy4Vmu4Z0myAYHfEwfN3CxdZPRqWJXi8C5lhJ9"
+href = "urn:sha384:cxTNgAH7z1vGBDiw7R7lcNRMbzxTYq3ksVC35OvHlOayrNUwLPSKGDCcAhwi5XzS"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7752633604"
+title = "Wiki1ElfBehind"
 [[cards.sides]]
 text = "The elf is behind the box."
 type = "phrase"
