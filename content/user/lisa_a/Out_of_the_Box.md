@@ -1,7 +1,7 @@
 +++
 title = "Out of the Box"
 contributors = [ "lisa_a",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "en",]
@@ -776,6 +776,62 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "\"Big\" and \"small\" are opposites."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pics of elephant and mouse - elephant should be significantly bigger than mouse)"
+type = "phrase"
+
+[[cards.sides]]
+text = "\"Big\" and \"small\" are opposites."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The opposite of \"in front of\" is ___ ."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of the word \"behind\")"
+type = "phrase"
+
+[[cards.sides]]
+text = "The opposite of \"in front of\" is ___ ."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The opposite of \"above\" is ___ ."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of the word \"below\")"
+type = "phrase"
+
+[[cards.sides]]
+text = "The opposite of \"above\" is ___ ."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The opposite of \"in\" is ___ ."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of the word \"out\")"
+type = "phrase"
+
+[[cards.sides]]
+text = "The opposite of \"in\" is ___ ."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "These are some coins."
 type = "phrase"
 
@@ -944,8 +1000,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a coin."
-type = "phrase"
+type = "empty"
 
 [[cards.sides]]
 type = "empty"
