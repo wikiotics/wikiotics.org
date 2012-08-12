@@ -1,7 +1,7 @@
 +++
 title = "Out of the Box"
 contributors = [ "lisa_a",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "en",]
@@ -712,14 +712,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pay attention to the arrow!"
+text = "Pay attention to (Think about) the arrow!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:-erWdBYIWv9zbyRhTH6y87LiL98FiH1dDUZwhxjubhGXzrNqJMN46lL7edzq-I66"
+href = "urn:sha384:iFX7gBcR3AevwxtLhHoNgMcPmS-yWN9M16tHmSYjz8jkdrpSRvoyTd-y2ENkVKlz"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7767452598"
+title = "Wiki1ThinkArrow"
 [[cards.sides]]
-text = "Pay attention to the arrow!"
+text = "Pay attention to (Think about) the arrow!"
 type = "phrase"
 
 [[cards]]
@@ -729,7 +738,8 @@ text = "The boy is on the left of the box."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "(pic of boy standing to left of box - arrow pointing to boy)"
+type = "phrase"
 
 [[cards.sides]]
 text = "The boy is on the left of the box."
@@ -742,7 +752,8 @@ text = "The box is on the right of the boy."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "(same pic as #34 BUT - arrow pointing to box)"
+type = "phrase"
 
 [[cards.sides]]
 text = "The box is on the right of the boy."
@@ -751,31 +762,190 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "The elf is on the left of the boy and the box."
+text = "The box is next to the boy, and the boy is next to the box."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "(same pic as #34 BUT - NO arrow)"
+type = "phrase"
 
 [[cards.sides]]
-text = "The elf is on the left of the boy and the box."
+text = "The box is next to the boy, and the boy is next to the box."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "These are some coins."
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "(pic of 3-4 coins)"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "This is a coin."
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This is one side of the coin.  It has a face."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of one side of the coin - this side has a face)"
+type = "phrase"
+
+[[cards.sides]]
+text = "This is one side of the coin.  It has a face."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is another side of the coin.  It doesn't have a face."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of the other side of the coin - anything BUT a face)"
+type = "phrase"
+
+[[cards.sides]]
+text = "This is another side of the coin.  It doesn't have a face."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "A box has six sides."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of a box with six arrows - each arrow points to a side of the box)"
+type = "phrase"
+
+[[cards.sides]]
+text = "A box has six sides."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We read \"the other side of the coin\"."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of open book with the phrase \"the other side of the coin\" printed on one of the open pages)"
+type = "phrase"
+
+[[cards.sides]]
+text = "We read \"the other side of the coin\"."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We think \"the other side of the coin?\".  NO!"
+type = "phrase"
+
+[[cards.sides]]
+text = "(same pic as #39 with red X on image)"
+type = "phrase"
+
+[[cards.sides]]
+text = "We think \"the other side of the coin?\".  NO!"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We understand \"the other side of the coin\" means \"a different idea/option\".  YES!"
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of math equation: pic as #39 = thought bubble with \"a different idea/option\" inside)"
+type = "phrase"
+
+[[cards.sides]]
+text = "We understand \"the other side of the coin\" means \"a different idea/option\".  YES!"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "One side of the coin: Eating a lot of candy is fun.  The other side of the coin: We can feel sick/get a stomachache."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of child holding a bowl with candies, slash (/), pic of same child with sad look on his/her face and holding his/her stomach)"
+type = "phrase"
+
+[[cards.sides]]
+text = "One side of the coin: Eating a lot of sweets is fun.  The other side of the coin: We can feel sick/get a stomachache."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We read \"two left feet\"."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of open book with the phrase \"two left feet\" printed on one of the open pages)"
+type = "phrase"
+
+[[cards.sides]]
+text = "We read \"two left feet\"."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We think \"two left feet?\".  NO!"
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of two left feet inside thought bubble with red X on image)"
+type = "phrase"
+
+[[cards.sides]]
+text = "We think \"two left feet?\".  NO!"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We understand \"two left feet\" means \"not good at something\".  YES!"
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of math equation: pic of two left feet = thought bubble with \"not good\" inside)"
+type = "phrase"
+
+[[cards.sides]]
+text = "We understand \"two left feet\" means \"not good at something\".  YES!"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The girl can't dance.  She has two left feet."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of girl stumbling about on dance floor - indicate music with a few music notes in the air)"
+type = "phrase"
+
+[[cards.sides]]
+text = "The girl can't dance.  She has two left feet."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is a coin."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
