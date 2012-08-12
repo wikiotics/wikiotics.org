@@ -540,8 +540,17 @@ text = "This is an arrow."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3z9ugknDgYumuT5SQqRvmk-CVd4jvUAeh78XV_D1LT3qf-ZUe8SY11i1ZWDVVarT"
+href = "urn:sha384:iRdlevLNzHHDhdPBGkQIXOKioCwrdsPWsUKCC6Am0hcWuZcScP6bqSV61SUw0BW_"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (antony_mayfield)"
+author_url = "http://www.flickr.com/people/31433424@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/31433424@N00/3221876089"
+title = "Arrow"
 [[cards.sides]]
 text = "This is an arrow."
 type = "phrase"
@@ -549,91 +558,155 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a boy."
+text = "The arrow is pointing to the left."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3z9ugknDgYumuT5SQqRvmk-CVd4jvUAeh78XV_D1LT3qf-ZUe8SY11i1ZWDVVarT"
+href = "urn:sha384:pr7f8zWb60v2VOdC_C3huqC8_PY6Yt3N0qXczk516aH5sx9BVl_jNfZzSmZ7x41y"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (antony_mayfield)"
+author_url = "http://www.flickr.com/people/31433424@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/31433424@N00/3221876089"
+title = "Arrow"
 [[cards.sides]]
-text = "This is a boy."
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "This is the boy's right hand."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "This is the boy's right hand."
+text = "The arrow is pointing to the left."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is the boy's left hand."
+text = "The arrow is pointing to the right."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3z9ugknDgYumuT5SQqRvmk-CVd4jvUAeh78XV_D1LT3qf-ZUe8SY11i1ZWDVVarT"
+href = "urn:sha384:o82rKbHT4sFOJ8TkT8IBueg--BP__uiLtQudGyM1LAg00OmOQrBCHJ9ZTna9qCfe"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (antony_mayfield)"
+author_url = "http://www.flickr.com/people/31433424@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/31433424@N00/3221876089"
+title = "Arrow"
 [[cards.sides]]
-text = "This is the boy's left hand."
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "The boy is on the right of the elf."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "The boy is on the right of the elf."
+text = "The arrow is pointing to the right."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "The elf is on the right of the boy."
+text = "The arrows are pointing right and left."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:E9GoAsFAudmqzZ3LfC2wzpY7KqXtp4kcxzU3tTl05xFq8POdW7jDXKco48q1Q3k5"
+href = "urn:sha384:YOCCr0IJ17iy4mNVGJ2d_miPYsulycgXZrOHO7FsK_wRljXoN7eNZFTk60qAmOnL"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7767320842"
+title = "Wiki1LRArrows"
 [[cards.sides]]
-text = "The elf is on the right of the boy."
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Jack is on the left of the boy."
+text = "The arrows are pointing right and left."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "The boy is on the left of Jack."
+text = "Jack is on the right of the table."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:igNs7Xvse3iY9qIoq3VhnkrYEc9hoFM7t0DAegjdFR66pJ_Z2d8gb8lkIrG-Acr_"
+href = "urn:sha384:6TI7cmrVI_lgOJgbFNZoip0z2M5GeoPqdVxweAhOXgfibCB2lfGJ_k9a2kohgRpv"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7767368730"
+title = "Wiki1JackRight"
+[[cards.sides]]
+text = "Jack is on the right of the table."
+type = "phrase"
+
+[[cards]]
 
 [[cards.sides]]
-text = "The boy is on the left of Jack."
+text = "Jack is on the left of the table."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:-mhYtBJ5HVLiCevSpT-J_THfTAS1gB0O9I8uOd48bL7z_1DSNxPnPBCCqhZ-ZOOo"
+href = "urn:sha384:Me90yZfP29mW3ZOXbU8J5MZc9ApRvrGg_p5qJinyRzlIrUZUBRhUSzw-6Xzv3TjK"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7767385750"
+title = "Wiki1JackLeft"
+[[cards.sides]]
+text = "Jack is on the right of the table."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The elf is on the right of the table."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:rjHeEQz8UAYH6mq2XjuB4HQlmuvd74kG8vG2s_Qs69-MaTywapYVK0dyGUuNiU6G"
+href = "urn:sha384:ucds4DlMo17_4njPu06k-jcJYAr9p7Qhwl7sWnMMwwRS82PBvrE2V5L9LtjlPxcP"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7767367760"
+title = "Wiki1ElfRight"
+[[cards.sides]]
+text = "The elf is on the right of the table."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The elf is on the left of the table."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:A_wkk0jJ9LZGsghqefplG-365UuG6KFEwoFclwe1lt8f31N-1GXY_lI25WUQH-jj"
+href = "urn:sha384:09AswWfxC-W3IjjG7C1xZw5PxmISJaQgVtvTkeTU7BIDeESi1AVKutvIU7mYfOcM"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7767367228"
+title = "Wiki1ElfLeft"
+[[cards.sides]]
+text = "The elf is on the left of the table."
 type = "phrase"
 
 [[cards]]
