@@ -12,17 +12,17 @@ text = "This is a box."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:4O-DajHZZOkJxiYvjx3tQ7eFFSk5OG3tPTLCGnfxSGmqyoWvsntns4-qGwB15Hr1"
-href = "urn:sha384:Or_iqazv0wxYp87_8o3nrkabCNtYWrTUU0UgO_Q-Pg-UxqHlEowT69rQcNmf6qKa"
+blob_href = "urn:sha384:dvYJ9vUQSpXc4qNNMPgrNNotHaIOvNGl2BsLPPpCr2HHTDWTYFF40mpn7BDGh6CE"
+href = "urn:sha384:moDCW9RnkZWvJoIT0RSFSZ_hNj4r40wB7ydU77QLo_JweyrJfvYHOCe9VkYQOgW5"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Andrew Magill (AMagill)"
-author_url = "http://www.flickr.com/people/85473033@N00/"
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/85473033@N00/2271154270"
-title = "Present"
+original_url = "http://www.flickr.com/photos/66418768@N05/7765916214"
+title = "Wiki1Box"
 [[cards.sides]]
 text = "This is a box."
 type = "phrase"
@@ -365,49 +365,85 @@ text = "The big rock is next to the small rock."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:QNL9npaxP2NZcd1fBvcQVAg3lCsnqzjrEWZIkqLbNyApFAB4Eoc21w6sC-vbJM9Q"
+href = "urn:sha384:wcCqsZ8OiBx1OSPmuWWipG_0Kyd2wsmh-7Gm4Xe_IZNkS17aCCakCl2CS9RtPf93"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7766044544"
+title = "Wiki1RocksNextTo"
 [[cards.sides]]
-text = "The elf is above Jack."
+text = "The big rock is next to the small rock."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Jack is behind the elf."
+text = "The elf is on the big rock."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:KybRiMqU814bmLy-p2-zbskEIyJAgKtXfGo8okuqbcvke4h-NSMwhKdvBdjS2kh3"
+href = "urn:sha384:17uOwCKBneuuM2Qp-CCXVSDE6cVW36Gp8H4VB3LA-cYDxflzMyCqO1NNSQmW-uPh"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7766029730"
+title = "Wiki1ElfBigRock"
 [[cards.sides]]
-text = "Jack is behind the elf."
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Jack is in front of the elf."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Jack is in front of the elf."
+text = "The elf is on the big rock."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "The elf is below Jack."
+text = "The elf is on the small rock."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yqcrtgBn0fw7OAaPPpJwdfzJ_u2W90nakvmBmEtY5Pqmyys0HtnxeTfiaPu0FhpP"
+href = "urn:sha384:Vm_vdpxnK-VfMIqGOC7Qm5B_U-QCboy8zhmlGkigZJJN0gd46XKrlQLN1d68Wxdt"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7766030200"
+title = "Wiki1ElfSmallRock"
+[[cards.sides]]
+text = "The elf is on the small rock."
+type = "phrase"
+
+[[cards]]
 
 [[cards.sides]]
-text = "The elf is below Jack."
+text = "The big rock is behind the small rock."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:9sashFc2YZu89h9kt-_C-xVUH0NF13GombcLdfXh6UYwdMcJmTCiSTvwg8CtxaK9"
+href = "urn:sha384:ABdQsK1-ryaRm5klmzcMJxI14slWuMR5lArsviyqvUoHGy2oWzBSic9sgFQvaCej"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7766145680"
+title = "Wiki1SmallFrontBig"
+[[cards.sides]]
+text = "The big rock is behind the small rock."
 type = "phrase"
 
 [[cards]]
