@@ -74,23 +74,23 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "This is an arrow."
+text = "This is Jack and (+) a box."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:3z9ugknDgYumuT5SQqRvmk-CVd4jvUAeh78XV_D1LT3qf-ZUe8SY11i1ZWDVVarT"
-href = "urn:sha384:V_NyAjMnZbhE-YTkMg6z2XI-bsLjmvlYWZ34V54mBcfyc0_7AbcgRe79gNvjn1Kp"
+blob_href = "urn:sha384:hixUhqcGM2WCfDdOyn9ttvZGZ-ZncaRtYDy1r4kQtxcwVlrsNJFqVPND6wtP3_if"
+href = "urn:sha384:A5AIZkqZXSC08y-aW6tf6Tw-9AbE_vO0v5XxGM2D6enfUouq_B2zlOywVyYQgH90"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (antony_mayfield)"
-author_url = "http://www.flickr.com/people/31433424@N00/"
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/31433424@N00/3221876089"
-title = "Arrow"
+original_url = "http://www.flickr.com/photos/66418768@N05/7767182272"
+title = "Wiki1And"
 [[cards.sides]]
-text = "This is an arrow."
+text = "This is Jack and (+) a box."
 type = "phrase"
 
 [[cards]]
@@ -342,18 +342,17 @@ text = "The small rock is below the big rock.."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:TO1BajDcu650B5WtZfo7IY3WGvtTOQDAhdu4L39z-56nf-fEcKh09PPDuS7HLEh2"
-href = "urn:sha384:jJY-ZRaMF0EYHS2geK7J_3rFNVoA5YTXcf0K94qfSUnvkKFyJ6DTJvr3xuDPAyBH"
+blob_href = "urn:sha384:J2iXql7fq9sklJIIwd1ZbvvCDBxuSjm-KR3A5BIOFnvIiraf2rnA-ptUx5ASfgsB"
+href = "urn:sha384:C8yt95RxVHJK153RsmgOJkcQMIXztXHf_S36wrq0UGZXjsrH1ZutvMaGnQaejXQu"
 mime_type = "image/jpeg"
-rotation = "180"
 type = "picture"
 
 [cards.sides.credit]
 author = " (maxxish)"
 author_url = "http://www.flickr.com/people/66418768@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/66418768@N05/7765884090"
-title = "Wiki1Rocks"
+original_url = "http://www.flickr.com/photos/66418768@N05/7767020932"
+title = "Wiki1SmallRockUnder"
 [[cards.sides]]
 text = "The small rock is below the big rock.."
 type = "phrase"
@@ -449,53 +448,89 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a restaurant."
+text = "This is a table and (+) two chairs."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9e2rm8-VemtfqFYsilZisZ3O5g5NbqBXd3hXNwu6tYo_Noj7QYPDno3u8Awsz7ch"
+href = "urn:sha384:N3YEcQiplFauHtBudqrfaSM2xuWt9aCMCtoqvSFRxHzIdpsY7pYweZUaKQr4lRk1"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Creative Tools (Creative Tools)"
+author_url = "http://www.flickr.com/people/33907867@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/33907867@N02/4325785386"
+title = "CreativeTools.se - PackshotCreator - 3D printed table and chairs"
 [[cards.sides]]
-text = "This is a restaurant."
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "The bank is behind the house."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "The bank is behind the house."
+text = "This is a table and (+) two chairs."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "The elf and Jack are in the restaurant."
+text = " Jack is on the table, and the elf is under the table."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lEx1ZOLkYM-YsLkcHtZ7RAiem81dRGKLaKOYTQGjJ1pRXc99L37ZBRf9bkYQlO1w"
+href = "urn:sha384:jerEOXT3NzNo5xlONShKUsgm8vPyqGGDzQzg4iumfXgt2raOqsdbtmhY9UvBEkpB"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7767212506"
+title = "Wiki1JackOnElfUnder"
 [[cards.sides]]
-text = "The elf and Jack are in the restaurant."
+text = " Jack is on the table, and the elf is under the table."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "The restaurant is in front of the bank."
+text = " Jack is under the table, and the elf is on the table."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7L8JKnZY2OoPY-_Xq4qNcgwhVb3Z4E9oH8ohbBMg6vGkLqlal_Xh_uP9CtryvQBl"
+href = "urn:sha384:qD8btiXzWVOdMW69FxxK2LjYPDcblZu0haVuvju8xldd14BIBVhp7nY1hqgQanDq"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7767212178"
+title = "Wiki1ElfOnJackUnder"
+[[cards.sides]]
+text = " Jack is under the table, and the elf is on the table."
+type = "phrase"
+
+[[cards]]
 
 [[cards.sides]]
-text = "The restaurant is in front of the bank."
+text = "Jack is next to the table, and the elf is on the chair."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:OLah_rE2ExbcRVcRMjPlSNHxWPlU9OCLwIJ_rqCdkG-i8RvRnhXDavIdnl5Uosvv"
+href = "urn:sha384:3Gasmfjv3WT0q_G4sudaW9QRcrHoZK456ES6ZwfKzhhLC3ULCly5vXo40TemJLVY"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (maxxish)"
+author_url = "http://www.flickr.com/people/66418768@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66418768@N05/7767252914"
+title = "Wiki1JackNextElfOn"
+[[cards.sides]]
+text = "Jack is next to the table, and the elf is on the chair."
 type = "phrase"
 
 [[cards]]
