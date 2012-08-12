@@ -1,7 +1,7 @@
 +++
 title = "Out of the Box"
 contributors = [ "lisa_a",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "en",]
@@ -1000,10 +1000,110 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This is zero.  This is also \"nothing\".."
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "(pic of the number zero)"
+type = "phrase"
+
+[[cards.sides]]
+text = "This is zero.  This is also \"nothing\".."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "There is nothing in the box."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of open box with nothing inside)"
+type = "phrase"
+
+[[cards.sides]]
+text = "There is nothing in the box."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We read \"next to nothing\", and we think \"next to nothing?\"  NO!"
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of child standing next to the number zero)"
+type = "phrase"
+
+[[cards.sides]]
+text = "We read \"next to nothing\", and we think \"next to nothing?\"  NO!"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We understand \"next to nothing\" means \"almost/near to nothing\".  YES!"
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of math equation: pic as #55 = thought bubble with pic of box with 1 or 2 pencils inside it)"
+type = "phrase"
+
+[[cards.sides]]
+text = "We understand \"next to nothing\" means \"almost/near to nothing\"."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The box had next to nothing inside."
+type = "phrase"
+
+[[cards.sides]]
+text = "(same pic as #56)"
+type = "phrase"
+
+[[cards.sides]]
+text = "The box had next to nothing inside."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The jeans cost next to nothing."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of blue jeans with price tag - price on tag is $100 with a red X over it and a new price in red $1)"
+type = "phrase"
+
+[[cards.sides]]
+text = "The jeans cost next to nothing."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Bob works.  James does next to nothing."
+type = "phrase"
+
+[[cards.sides]]
+text = "(pic of boy doing some hard work - perhaps digging - label above his head with arrow pointing down to him \"Bob\"; boy lying on his back looking up at the sky - label above his head with arrow pointing down to him \"James\")"
+type = "phrase"
+
+[[cards.sides]]
+text = "Bob works.  James does next to nothing."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 text = ""
