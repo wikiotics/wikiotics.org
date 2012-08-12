@@ -1,6 +1,6 @@
 +++
 title = "LLT-A1-S3-ExampleSentences"
-contributors = [ "ian",]
+contributors = [ "91.77.127.67", "ian",]
 headings = [ "Sentences",]
 tags = [ "LLT", "example-sentences",]
 type = "lesson"
@@ -8,115 +8,115 @@ target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "How much time left?"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "How many minutes to go?"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "How much money is there?"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "How many dollars is it?"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "I have some money."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "He has a lot of money."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "She has no money."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "They have not much money."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "There are not many dollars."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "We haven't much time."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "There aren't many minutes left."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "He needs some time."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "It takes a lot of time."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "There's no time left."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "How much work is there?"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "How many tasks will there be?"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "He wants some work."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "She likes a lot of work."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "I found no work."
 type = "phrase"
 
 [[cards]]
