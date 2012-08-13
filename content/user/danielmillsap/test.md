@@ -23,8 +23,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/58982967@N00/25888292"
 title = "Boy climbs tree"
 [[cards.sides]]
-blob_href = "urn:sha384:FJoAFIOhalg4JxV3yAY-TDFpvxBm_UwQCNwh5HfuCx_tWrHrf_-riFEvbJklMj_F"
-href = "urn:sha384:joi5Qkvt18Gush1eAHP_uo2LV64tsxcHdzgWQKdPybbMik1EpGAuwKTFY81jfP8O"
+blob_href = "urn:sha384:5xZIAF4lggT_pi0AA-P0AsDWWsg2JNIAeiy1VPEb5cVtYNVg0jhpkjV44J4hVlf0"
+href = "urn:sha384:ffWdkx1IG2MbtM1GHqgWbLJ0eM7koodAh23ww1tNTNIZtuUUGP2LvfeFJTNr9VjC"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -47,8 +47,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/72825507@N00/7123201071"
 title = "Young Hispanic girl with long black hair runs through the water on the wet sand on Morro Strand State Beach"
 [[cards.sides]]
-blob_href = "urn:sha384:HyUmEsBFSurCIbfbYy5fDlPnWu7qupk-THSGjNJ8hnzXqNFcrlHQBNda8HM3yiFq"
-href = "urn:sha384:BabKb0QJi-dUsYsO__47V29DurllHOt0oTFmnkUESL8Pmfvq5FRjENPFPNV-4G4h"
+blob_href = "urn:sha384:w-1XQ91PyLI66TPOY2UTJkh1Jf9pqfU25yCCX9L9MMf5sWUsoOrv7q80alUguEtA"
+href = "urn:sha384:n6lL4k_pat5lkX83FKHFaV-5DeWXzKtpNWntTrifrZ39SBNGDXf_qgUy0I2ZTwjd"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -71,8 +71,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/32029534@N00/129649817"
 title = "the old man and the sea"
 [[cards.sides]]
-blob_href = "urn:sha384:Qn6x_XBczRKAiaK2lfj6uMtCY5mTD7hwfzXU9Cw1eAE-iMNRuHUOmfu7mywid1wV"
-href = "urn:sha384:5xZrtOLhilmca-RzMS5J9VbKMiwwrnrSrevjd52YViKEcfTAYXmC3G6O6zj1wmnt"
+blob_href = "urn:sha384:wPeq5EVgKiWPul9QAAMcLrObutkqRa6dR-58IJIK9skb97A91-OBICLQmoRlEiQi"
+href = "urn:sha384:3xt-uHm51B4fhNlwQ97Z5g3t9_14jhV3XyCBnkwa7CkjaFafTOtP7JIanWlx7RHo"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -100,38 +100,71 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Dog"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:eW_c_HHtIysczL5-6R5Nyi33jLGBJBy_vOtW0xjBGk5A9K-HxHOu4BiJv3z9xg-H"
+href = "urn:sha384:uHh0jISDmTJmh2RUq9kq4P7jdtkV62tLlBqYcUWqzif8t5mGmBHxyQCOWgXTygvl"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36495803@N05/6750354499"
+title = "sad dog looking into eyes"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IYScPCIrr2Uqqvyp8BzpBrsck1SYc27612G4ApqJSB1SFRd8Mirt9TE_l7KFnE_1"
+href = "urn:sha384:948eFr3AHaUMbTIPfY92TBd6o0bQgV6tg04eGn8znQrAWLNiesN5e9miVFED2RPl"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Cat"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4wh0Bkaz5kMRHtbw2TJREQ1OH3kviswVQWojk5Qf2H9Mti2uTXUZzkiHHxMWZ5Yy"
+href = "urn:sha384:LF3eaekVRou9qJjvdVCITXre9ybWShSmo0Ofil-X0lbaMp5WevIY9OIIu_pH2S2a"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "House"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
+blob_href = "urn:sha384:ptX5NPPRvnx4DkbazfL-pEa1UN72qLLaAWVcBhb9yMNSMMVyL1oMQxmyeKvJtdgW"
+href = "urn:sha384:5WnLtNScQwLYImI_xrFJtu7Mrwa-Lkdi0BXxsnxMMR4yoopMVhBtq1X-d8SSe9Ma"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Car"
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:cGmFZ1NrKZxyRy8aMqO6nF3Cwe7saB4mhyUIPIkPXrDZLdfRuPW-026Esd5posaL"
+href = "urn:sha384:XZzQAMZIMn_mDc0_c-5yIazHDrjMs6hLu6bdeJnkq9kGxufJBndMk5xMknd0k7Wa"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
