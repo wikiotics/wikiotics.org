@@ -1,7 +1,7 @@
 +++
 title = "test"
 contributors = [ "danielmillsap",]
-dividers = [ 4, 8, 12,]
+dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -271,26 +271,266 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The woman is reading a book"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:L6wA5IgI_qBwQGGifEQpTPZi9neqbstTh5vIaNqxTTI5RDn6Pn2JNOrd5xszfLfi"
+href = "urn:sha384:yq_pB8TxwdqHYY1GqJwvivRqglPzn_hxf7w87fbi2O73cn3XsYNk5RkwCK1OC_Rq"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Pedro Ribeiro Simões (pedrosimoes7)"
+author_url = "http://www.flickr.com/people/46944516@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/46944516@N00/5442705616"
+title = "Reading a book in a sunny afternoon"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DeImuBb7AhcyWm-lerQYJI-Mml0yN7Pi9yyRnsGO1nHgKkRv90k1lztUWAlc4eeW"
+href = "urn:sha384:16IrWxtcXq_oWtVoNP3n8_ihzC2qFQwPLQGYlBBTqKJVKBuk_rqL1c5Hhn5PFk3u"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Boys"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1NxfzS__4aMCGAkbhyetIbD44RQKtMaWA3Mua6dcs5Hnn09KAZOyeEJKvx9G7ILt"
+href = "urn:sha384:L20lUJtMR5S429wf3mLORBaxw4GykfaKh4xh9tn5PEW0YmjGpSWsnQrvrJlFtRcH"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Adam Jones (Adam Jones, Ph.D.)"
+author_url = "http://www.flickr.com/people/41000732@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/41000732@N04/3794676268"
+title = "Boys Playing Chess on the Street - Santiago de Cuba - Cuba"
+[[cards.sides]]
+blob_href = "urn:sha384:37M9lELQ8-tPwWxtLGVDZ18ODjANNfMQDazfp2duml0qhumXMDG1vxzv-1kjKN1v"
+href = "urn:sha384:8KEXeTgJWi6GxjF9ezqp6EiZGqbGnwaWtA4qYOGbg6ppCCAlQ1-JFmQIKNKWOfj-"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Girls"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:XZdJhaOlMGdcq1A0xc32ereE-JcGNHoH3khEbYnRCYS0Zq5EY65XZe0Ra8FGZd0l"
+href = "urn:sha384:1FFwoHN-f2XRL9LUa7FGdxRkPmPTiPWE4M1P2-THWVPrX25IxbQE-x-j8V7yfnJo"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Richard Masoner / Cyclelicious)"
+author_url = "http://www.flickr.com/people/99247795@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/99247795@N00/156565159"
+title = "girls at treehouse"
+[[cards.sides]]
+blob_href = "urn:sha384:Q0A9i_C7BuJxzuOi5Lnfz5M3iIBAfkh4EsoInFwJs0j1JM73hSl0tGoFA3n91bkf"
+href = "urn:sha384:4e4pl1DrfwLB6SDViMZWbTXgjgSYwz8QjlB9KmSJorkpLZJo1eudd7mOsOPLeLJk"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Men"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:h_OEl-y9EoBIQh5gpdsvlP5KDQYHAj6j_Rgexz5ro2uava9rNtOxo6nA667v4eNz"
+href = "urn:sha384:Aa2CLbDdKRABFgR95yXsSDC2_jTIwgcd7v4tE9A5JKE8bJMDmJvLLRH_d4ZPW1ht"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Kheel Center (Kheel Center, Cornell University)"
+author_url = "http://www.flickr.com/people/38445726@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/38445726@N04/5279911924"
+title = "Black men listening to a speaker at an outdoor STFU meeting"
+[[cards.sides]]
+blob_href = "urn:sha384:0mnlVAf4V88kiyi8P-ktZann-sT9-vAmAe3jLn6MbmOrnLH2_UDEPgKlAyFZF2zv"
+href = "urn:sha384:W5IBQEW-TK6t3i98J3bjcAqHw5yKXj4klneS6fLmo0m8-f5ICE0TxA2YZDAIqi04"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Women"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:fip6u1X4psm-Kxc8SDtmwMov4N2SM1FEEGYTDeH_QExLrklwd-ZoiXdzjFCXdYoL"
+href = "urn:sha384:tuYaA4R7-EwU2xNF_v2v8d3aYqNBP-PR-saCT_mChTpbNi-2NuaptBfcjQApcylE"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jodi Womack (JodiWomack)"
+author_url = "http://www.flickr.com/people/22406955@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/22406955@N07/6217573246"
+title = "Women's Business Social 051"
+[[cards.sides]]
+blob_href = "urn:sha384:0a6GBdxn71JP_EGKKItV1iRQIoqyXtNjrgOe15xWgurVO1pwWuBUApPoRas0X1BZ"
+href = "urn:sha384:ucPBJqYjVX-LPaNghVdVmjhCgBo84L5w8c-fUWtVdZS7U5FxYhaxmgdX3ptj6Wzt"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The woman is fat"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:-SDoJrLSi6QOIFkiTnAJeDROHHisLT5WoZ_wguiqJPdTftaFe3hOH9Xo-BJ__q-n"
+href = "urn:sha384:FlaqXTs_DjKpmauSfIiKO21ZKzeLCN8t49-w0MUoG_eqURVrnEtRwdrCDER1i4dO"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Tony Alter (Tobyotter)"
+author_url = "http://www.flickr.com/people/78428166@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/78428166@N00/4921825364"
+title = "In the Food Line"
+[[cards.sides]]
+blob_href = "urn:sha384:Sy6jjJQIM655_A4QezUihKA8ErILV4-6T4T_uxGXg6-qz8CL5zr_FHfsxt4pdTdB"
+href = "urn:sha384:K1yuh2yJ1XlqtgNZfpfISJPlkv7claVPeTFSO8TF3097aNKDxUHTy6SQ3Hh3OxEv"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The woman is thin"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:yUV__gW0Ld_-fKUTFSLyP3C_GvlzCgE56jUClwT6jW68t3KewBLNvd5LLPsx25sf"
+href = "urn:sha384:5HRGW5FM4s9zmD8F0USzBciOF1rmC38F3eFVA7YARo2IHd3SGzoKLdaDc7VN_UyZ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Chantel Beam (chantel beam photography)"
+author_url = "http://www.flickr.com/people/24014153@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/24014153@N04/7019439141"
+title = "Wanderlust"
+[[cards.sides]]
+blob_href = "urn:sha384:k3VPurJnI1lD52maEOB5_IM94Qx-28mUeQjCmUaIcssEN7XRIr-HLSJT3a6h45rG"
+href = "urn:sha384:j9ErLstd6O0b7OX_6r9QIq9T8O1AkqhZCwsvkpEdRC4GTxo8eDHiW2u1UFe37Xkv"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "He is riding a bicycle "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:crfViwkcRHk_XvKuN56RDbkg_acd-CC5o1o_a6hGRvc72hAEJX3M4oayoSNdqj2e"
+href = "urn:sha384:k0_lBGm0GDT1hWZULaTXN5IORZJQrBFBc1_PUHl_yAbhlDOEopM5ZLqg5mbPPN7G"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Fernando de Sousa (Looking Glass)"
+author_url = "http://www.flickr.com/people/31157339@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/31157339@N00/382709077"
+title = "Riding Man"
+[[cards.sides]]
+blob_href = "urn:sha384:MIEn9UbcVq0A-fY1CyW6FrB3rZObH35hq_PhE6fD8rJyhkC0oCG_h0Z5IqrION8d"
+href = "urn:sha384:s5Ylv-Yqt1t1Lqi2qWIwINZn0VlRJtfCt3QUr39jSMY973D1HeS_N32W6cWk5ceF"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "She is reading a book "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:LHM6-fWosowatWA_KXCU2xh9OFV4OLjkAmMCj7vne47-ckZ6y1QVPivxKSdPmWn7"
+href = "urn:sha384:jO6YoWxKJ8rMmn7Bhr4IZnf-XTl9n6tg2irHCNwVRvjJGLX7cELpMltCuFXY7qog"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (The U.S. Army)"
+author_url = "http://www.flickr.com/people/35703177@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/35703177@N00/3771464505"
+title = "United through Reading"
+[[cards.sides]]
+blob_href = "urn:sha384:WyRiuNv7CDqiWNNDVDi5QZ3PCAiNBLDRPyupqpg1-i41pwGZpIz6RYWXbMtjlEWa"
+href = "urn:sha384:gJ_e5i_2zZrGZ0lgRfGmhzTQMfgWXxe_07qu1RpnS1jGwK3UCcBdmcyFI3OQrx1g"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The United States of America"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:7o2b6ks6N2aYjoi0eXQx34cv9gZDqM-ClpUalNURuG-yviAWJxN4-aUZNSmUGzNQ"
+href = "urn:sha384:MsErp6jRD6XOUlwrA70KL-xKJt1LDMUqWgfZsqhlylbutn8V8XrvSsz1LmQhqn0E"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (futureatlas.com)"
+author_url = "http://www.flickr.com/people/87913776@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/87913776@N00/3164823226"
+title = "Future Americas?"
+[[cards.sides]]
+blob_href = "urn:sha384:WX3DfL4eTAkLNsRYugMd-VWRQ8XicNUfVWZAGGwBY8AFAtU5Msw1w8NwEhhQgINA"
+href = "urn:sha384:q3ktF_SLf0ylxfAygHtG-8AZzrJ7FUmspCyjQb5bP49KuKknYUk2mWmKswT10azZ"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "China "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:prBa4mGE4vzTzP3sA2A6ykE0MXA9X6M-7mBmNMFEfWKyca97eznJXHKszc7hbdeH"
+href = "urn:sha384:YekiMiPBKUkOy_R1mzoYdSvA-GHjHvRr9GcSmlvH5jfOm2BPXcOrjC08TGzjiv8h"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "http://maps.bpl.org (Norman B. Leventhal Map Center at the BPL)"
+author_url = "http://www.flickr.com/people/24528911@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/24528911@N05/2675972715"
+title = "Nationalist government of Nanking - nominally ruling over entire China, 1930"
+[[cards.sides]]
+blob_href = "urn:sha384:sfLQkCX5IWa8BrkYY3d0c5KdXXDeZkxqb8XddbkbSt_8v7I8n_cy1p9DixOQ74SB"
+href = "urn:sha384:Jdr80oZN37gs-jC-qWXhZzm8iM6HGr5Gkxr3QgwdQgeS2bNolmpnrdQbG6Axglv4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
