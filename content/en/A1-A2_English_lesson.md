@@ -3,7 +3,9 @@ title = "A1-A2 English lesson"
 contributors = [ "danielmillsap",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40,]
 headings = [ "Phrase", "Picture", "Audio",]
+tags = [ "English",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
@@ -491,17 +493,17 @@ text = "The United States of America"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:7o2b6ks6N2aYjoi0eXQx34cv9gZDqM-ClpUalNURuG-yviAWJxN4-aUZNSmUGzNQ"
-href = "urn:sha384:MsErp6jRD6XOUlwrA70KL-xKJt1LDMUqWgfZsqhlylbutn8V8XrvSsz1LmQhqn0E"
+blob_href = "urn:sha384:nJiG5SApwGW6Qu7vxyQnK5UwuVL7BQdd-BTjjUPN4t_1LLFXDTGYIMn_w_DaWRGL"
+href = "urn:sha384:FNXu8uTsAn52JJK820Lu2vlZCnKyO3YA6lwR9FEFy_IusrF8dV7gcytnNfF1rlnt"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (futureatlas.com)"
-author_url = "http://www.flickr.com/people/87913776@N00/"
+author = "Tom (Marxchivist)"
+author_url = "http://www.flickr.com/people/86821724@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/87913776@N00/3164823226"
-title = "Future Americas?"
+original_url = "http://www.flickr.com/photos/86821724@N00/254460772"
+title = "Built-Rite United States Map Puzzle"
 [[cards.sides]]
 blob_href = "urn:sha384:WX3DfL4eTAkLNsRYugMd-VWRQ8XicNUfVWZAGGwBY8AFAtU5Msw1w8NwEhhQgINA"
 href = "urn:sha384:q3ktF_SLf0ylxfAygHtG-8AZzrJ7FUmspCyjQb5bP49KuKknYUk2mWmKswT10azZ"
