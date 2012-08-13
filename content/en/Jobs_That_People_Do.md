@@ -30,7 +30,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = ""
+text = "This person is a baker."
 type = "phrase"
 
 [[cards]]
