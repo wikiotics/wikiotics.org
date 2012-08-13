@@ -1,6 +1,7 @@
 +++
 title = "Jobs That People Do"
-contributors = [ "cherylhartnett",]
+contributors = [ "207.86.247.126", "cherylhartnett",]
+dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "The Jobs That People Do", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "en",]
@@ -495,5 +496,10 @@ type = "empty"
 
 [[cards.sides]]
 type = "empty"
+
+[[interactions]]
+answer = 1
+prompt = [ 0, 2,]
+type = "choice"
 
 +++
