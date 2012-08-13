@@ -2,7 +2,7 @@
 title = "Jobs That People Do"
 contributors = [ "207.86.247.126", "cherylhartnett",]
 dividers = [ 4, 8, 12, 16, 20,]
-headings = [ "The Jobs That People Do", "Picture", "Audio",]
+headings = [ "The Jobs That People Do", "Picture", "Audio", "What does the audio say",]
 type = "lesson"
 target-languages = [ "en",]
 [[cards]]
@@ -29,6 +29,10 @@ href = "urn:sha384:aqfHfmtDbMEO1o_2dr8U0tPFZo6vG7TCbsXLPyRRkcxjvjchSf-hsEu1S0YPA
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[cards]]
 
 [[cards.sides]]
@@ -52,6 +56,10 @@ blob_href = "urn:sha384:C1ZlOJnC4Z9OTZPOoCzcX6XzfU76yxEkAPq76fDsFfWjZ_W219h-Mdgl
 href = "urn:sha384:_4B5mdj8brzepMDSp-LJ6UDz6-tEMafT6Ecpd8opBJUb2cgwGypFjzl_vf52y1f8"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -77,6 +85,10 @@ href = "urn:sha384:ZXMreiO_8fv7tgm2yXTRIo8Be9DsiwdZ-oZM5MCXI6syTWr68HveGoWu4g9Aj
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[cards]]
 
 [[cards.sides]]
@@ -100,6 +112,10 @@ blob_href = "urn:sha384:xJGu1eMQtYEy6CvWptjluTzavzaMfWvS2sBDtNC-HBQUhAsA8rxU1fDr
 href = "urn:sha384:7o7aNlRTMDVRHrnjCvTgMvGfS1AsnLIY0vZ67_GRH5jfXCdBI8HxJUpINe0QnN_5"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -125,6 +141,10 @@ href = "urn:sha384:nnsm1FiKCuJv7NQ2ZiOaC7ndvL9PbiKWPObVWf1WTYSeORCWSm_5hhtWsyqrd
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[cards]]
 
 [[cards.sides]]
@@ -148,6 +168,10 @@ blob_href = "urn:sha384:4gd89L08cM_reIcoJZiaqFogBwrY3MT-v4Q9_fTmzN6ZJQMphE772sRv
 href = "urn:sha384:T1rr98KzswYqYGfyr6bkKsWvKNEn2BZ6ov4g_wZSRTysjG3R_Td2MRBRp6g7ylx9"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -173,6 +197,10 @@ href = "urn:sha384:VS2BbE0OSPa0cCJxlr3Iem8Z8jg-Mm-T3DE8i5uAgx_VyBp1qD7fg2xu426jL
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[cards]]
 
 [[cards.sides]]
@@ -196,6 +224,10 @@ blob_href = "urn:sha384:grQmQ9-bIA6PN7GjU-tdjmBYrKno307r9LosCxuRdPl0713YGE0LZIAL
 href = "urn:sha384:Ta2budEPO-GNHhR2h_hLCuAYCfPuPlTNcYEGH5Yy82VQAeRqn_cjTArVh0P85rdb"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -221,6 +253,10 @@ href = "urn:sha384:Tnab94sOE6gC6OMBYWXRT4mPafhrtGKrlwHuiw3HujMsLFTGtHIPrBi6msNCc
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[cards]]
 
 [[cards.sides]]
@@ -244,6 +280,10 @@ blob_href = "urn:sha384:kDMKCBFcpBWGp6WgadU58_F_9JMCJa80VDA8NdA0G2rqEbJZFz2AyVIX
 href = "urn:sha384:fnq0hgTGGod7aJ-gqt971MG3zz0Smczb8P5XF7u7eV94jrG85l1DVjfG22KUolIN"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -269,6 +309,10 @@ href = "urn:sha384:tYjGsYo9Ovv0cCmGpeDEkmI6I8UG7ng-tbZcyk5AP0RLy4pWSpWAhwanTMYB0
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[cards]]
 
 [[cards.sides]]
@@ -292,6 +336,10 @@ blob_href = "urn:sha384:lvg795SCEC2bz5fo0sqMC_T_xCu--iCqGtoF8-8wEd0sPPQ8sLwC2My3
 href = "urn:sha384:Km-rKr3oMO5xufEMjvcp31Hj4uaGHASmfIHoz1x5Da2_q8NH5PqktRENhKp-14qL"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -317,6 +365,10 @@ href = "urn:sha384:yX_nAC_NBEeegQXC4plHRabeEnfj8f_I47M3_VOMVMZaaN3TvOJEv-53hmdnG
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[cards]]
 
 [[cards.sides]]
@@ -340,6 +392,10 @@ blob_href = "urn:sha384:IsNKbI5uC5JWxWk_qERea_WPLGSQVFySHy8BXUmyrvhac3q3UeT03rWK
 href = "urn:sha384:MHmgLih4myafAz3ibj7q_S3ZLzSx1IWlFf_Y1E73pQv-tXeLs2bwQBm9m9Cj9uHs"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -365,6 +421,10 @@ href = "urn:sha384:3Dkl0P_qxa-780vignSFOrhNXHJZGNmjg1kMy1CKfc4UySoYoPxIaTqK72UZf
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[cards]]
 
 [[cards.sides]]
@@ -388,6 +448,10 @@ blob_href = "urn:sha384:Ls3TYZSVdnfvBYONnPJfY9HqlcFsOFXt0Pdfk2PTJKP3hmagW7CsZQ02
 href = "urn:sha384:wxQpLXIeBMy9EwoM0KVFqR0JUubRNF5DNm-KNNfSHZw6MIA45osTDA_agd3-eIXH"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -413,6 +477,10 @@ href = "urn:sha384:v4ewHzq40aJTqiAhvxds8E6h3W0wAx0eunn8y8bk0aaUy222Qi_It8U9ewqGM
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[cards]]
 
 [[cards.sides]]
@@ -436,6 +504,10 @@ blob_href = "urn:sha384:w6b37B_3DMRpgkH0TUTAryQaHDFAVkgxipyH8A_9LO-tv72MO4e-keLI
 href = "urn:sha384:LajqJEHJK0XIW6oyXwtzraw2PG4UyLyeTzVzwy5X1tpUOuPtmHcR0PzsAfQi9tZY"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -461,6 +533,10 @@ href = "urn:sha384:V22343PFrbJwAkUks_DdLLnyuXuES3zR9p0QTIBnOFhjdDyfACyoUePuVdsUf
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[cards]]
 
 [[cards.sides]]
@@ -485,6 +561,10 @@ href = "urn:sha384:wrYR8E5Gc91Hws61dU1xlYBOWAbmXeBQMw33SK3nv4gAv0UMDrMCRIVuBsX88
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[cards]]
 
 [[cards.sides]]
@@ -496,6 +576,26 @@ type = "empty"
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[interactions]]
 answer = 1
