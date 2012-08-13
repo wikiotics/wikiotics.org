@@ -131,8 +131,17 @@ text = "Cat"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EBWR8zb8TxzRylNdmcbkOdY1ZFDDpxxOdarzkPCZmpIfqa-82JV78WVh-z8UIh6g"
+href = "urn:sha384:S3nXSv2tbIWUr_YGfCoSXosWANFsI7pKfSrTtpqaz1nAPCGBbhl7aT-f0Fokyr6E"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Chester Oakley (cheesechoker)"
+author_url = "http://www.flickr.com/people/19951543@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/19951543@N00/169329862"
+title = "Cat"
 [[cards.sides]]
 blob_href = "urn:sha384:4wh0Bkaz5kMRHtbw2TJREQ1OH3kviswVQWojk5Qf2H9Mti2uTXUZzkiHHxMWZ5Yy"
 href = "urn:sha384:LF3eaekVRou9qJjvdVCITXre9ybWShSmo0Ofil-X0lbaMp5WevIY9OIIu_pH2S2a"
@@ -146,8 +155,17 @@ text = "House"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gCrJ2cYUfIqT6NtQePvADDI0G9U5p3qDmsxvFW4FUVgdxQoZ6miknFyfku80KVRt"
+href = "urn:sha384:ExaOxXp_g61OVe-vsOUCOOc-Y49Com1NIlaFaf6up7lideD-Gm9HceBTV9JYeqk5"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "James Thompson (james.thompson)"
+author_url = "http://www.flickr.com/people/45734014@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/45734014@N00/139445633"
+title = "Housing"
 [[cards.sides]]
 blob_href = "urn:sha384:ptX5NPPRvnx4DkbazfL-pEa1UN72qLLaAWVcBhb9yMNSMMVyL1oMQxmyeKvJtdgW"
 href = "urn:sha384:5WnLtNScQwLYImI_xrFJtu7Mrwa-Lkdi0BXxsnxMMR4yoopMVhBtq1X-d8SSe9Ma"
@@ -161,8 +179,17 @@ text = "Car"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:n1Mou4Jd95-nN4F9pqvY9ZcGasmtXuV5TR4cCNfMTkFRIXfjun34KqZCghF1E6XN"
+href = "urn:sha384:ENDrxGBEez2ddeGxhAk9RRnu_diP2eOXSgop9Hx1PNnPuK_SZdu4JcUHZ--8iOKY"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (|| UggBoy♥UggGirl || PHOTO || WORLD || TRAVEL ||)"
+author_url = "http://www.flickr.com/people/43102195@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/43102195@N08/4098274795"
+title = "Superb tuned new Porsche Turbo Cabriolet - in silver - super sports car - 01/11/2009 - in Geneva/Switzerland - A standard in raw luxury and power! Good one!"
 [[cards.sides]]
 blob_href = "urn:sha384:cGmFZ1NrKZxyRy8aMqO6nF3Cwe7saB4mhyUIPIkPXrDZLdfRuPW-026Esd5posaL"
 href = "urn:sha384:XZzQAMZIMn_mDc0_c-5yIazHDrjMs6hLu6bdeJnkq9kGxufJBndMk5xMknd0k7Wa"
