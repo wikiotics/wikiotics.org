@@ -1,7 +1,7 @@
 +++
 title = "test"
 contributors = [ "danielmillsap",]
-dividers = [ 4, 8, 12, 16, 20,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -535,14 +535,362 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Two eggs "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5yQO9kRWt962KjStSjujPcSFyJrUGyA_X2rTsBfCC9D8NbZ54C5DmIPoFLJiUjVV"
+href = "urn:sha384:RcazNc6G-klLJIKEm0FYfKZwy2ewnmrOnubYUtL1UwVN84bC8Dd-KOKW7_Mjw-R8"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (brittgow)"
+author_url = "http://www.flickr.com/people/26489950@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/26489950@N03/4781540407"
+title = "2 eggs in nest"
+[[cards.sides]]
+blob_href = "urn:sha384:M7MLBBP8bg1_6XI_JRwjN5GYR2PBLoHTd6_hiKs2yTm57pTMScqWwtO3_-lfRTZ3"
+href = "urn:sha384:5_1ZAqG9OAxnJ5Zi5mnyvHikamzDeiENUMNEGdjtb59WO45rN_qc0_mvZtMZC8Gk"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Two horses "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:682NAKElojpVaOuvnYz4TgSPZNBtZQsH0n8ylAIstlKKpuXSARoipihRwbv2HPq5"
+href = "urn:sha384:1-th4NUKukB7HspLk_AztncptmbQr0epVSb3oZWJGuW_NAnnyeLb3s6n0Y4MKsSZ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Tony Alter (Tobyotter)"
+author_url = "http://www.flickr.com/people/78428166@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/78428166@N00/6768679035"
+title = "Horses in Wiliamsburg"
+[[cards.sides]]
+blob_href = "urn:sha384:uRDbI03kkc-oSQbNOPlbjT9GgzXH8Gv4GIFIXi09TdItUjBVLm_ZXPf_tGMRmnys"
+href = "urn:sha384:tO7Cfkyws5LI8Bwlz2XO_JzmykHaI2MsTIDQx2QbEo_l-geiLdpfV5k6Sl_0gE0T"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "One egg"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:NVBOTowFiN3EgFVe8-bVdWHSxesQhJ85C12MiwxiJMt1Vv3qj87tW67SS6LEuRBT"
+href = "urn:sha384:iUUaMwk5rJyiWGjEFolgJOle3rm0Hvjyu9Spdaghme4peEU677ENguOFP0zHEKfn"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Steve Johnson (Steve A Johnson)"
+author_url = "http://www.flickr.com/people/14529257@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/14529257@N03/6125491981"
+title = "Egg"
+[[cards.sides]]
+blob_href = "urn:sha384:VQzu7I2RD0nxxajEB1B-cj4P5v2Bay-uHkkY-2JhyEUQ9tcBa07POEXMrUSOneX4"
+href = "urn:sha384:Xb_mKhh5MNvVDXc7hnnQSQCmyQHzCgbCujsgxAs1M-kyFNjz0z8hOTKCozHoN8y0"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "One horse"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:MfQy6hCG73er3vtvbWijVA40mfIx_cumDIhskX34G17hOCN-QIfUA4rQyaVHNDxu"
+href = "urn:sha384:TvxcrEpM5ZQB9XPbagvIdtsGzS9nmJ6mN8wf5WRTweq3SnZIiMFYJte6MDOdN79h"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36495803@N05/4924530313"
+title = "Beautiful Blonde Horse Stud"
+[[cards.sides]]
+blob_href = "urn:sha384:5wfRsZGxjPm8GDDUHUTuEAh28ak1Eqh1iUgGd29vF4jlVyN9YHfsynfhH-ioceHP"
+href = "urn:sha384:5KLmO5L1hU1O5r-I6aKbzdK25qXmzah-LeeIKrnLN7HuqMHQEROyqqf0zGA8lvIk"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Which will he eat first?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:7gbWMQoXrCUuYzFrlSkTAGcTdmzT5q3VuGkHpvy1tofddXABJ-wvK5GnmiTC8_ni"
+href = "urn:sha384:ln1P6t0gIlacLtfiFC2FB2IYQ-zZdTi0GquqGHVf4f_eT67dH-dEad6YKWo3nL5p"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jeffrey Bary (j_bary)"
+author_url = "http://www.flickr.com/people/70118259@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/70118259@N00/3333318346"
+title = "Hamburger"
+[[cards.sides]]
+blob_href = "urn:sha384:rKJ7mSzzLTj1Oe5GiISBNFKHMDQOHLru5gEX4ckcUISyV54b1_V3Va3lWeLAwTSy"
+href = "urn:sha384:Orxzi24ixSIo6p0esU099OTGewUqcPoZzGM3IhatCrYuhuvfhxjHOKofRIhcg9DI"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Which will he eat second?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:WxCE9tVItd4N2s4elo3iGf4zASbOaobKyVtUCgPXAKaCsxE7rEq73Tkkd1znkIoE"
+href = "urn:sha384:swpoF0x2lXVHSqlgiURd_VAEybjUrxh3TBAKpfhwPfHZA0n5GeKXCvVbn4V9udws"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Adria Richards (adria.richards)"
+author_url = "http://www.flickr.com/people/28694005@N07/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/28694005@N07/3443182999"
+title = "Home made french fries (chips) and home made BBQ sauce"
+[[cards.sides]]
+blob_href = "urn:sha384:rKJ7mSzzLTj1Oe5GiISBNFKHMDQOHLru5gEX4ckcUISyV54b1_V3Va3lWeLAwTSy"
+href = "urn:sha384:Orxzi24ixSIo6p0esU099OTGewUqcPoZzGM3IhatCrYuhuvfhxjHOKofRIhcg9DI"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Which will he eat third?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:JwTkkeEqT-9mdgte4_C6srVqwKbg279SGf7AAbkltoglWI5SA0e_WmphleDAHw0Q"
+href = "urn:sha384:TlOT8FlTQ3V485EspmIR1f45j_eLrHtgaUQzStyBiZ99lpoVjRi4ZaM9bsKDMnld"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Ted Sakshaug (tsakshaug)"
+author_url = "http://www.flickr.com/people/75389315@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/75389315@N00/4248386983"
+title = "Ice Cream"
+[[cards.sides]]
+blob_href = "urn:sha384:rKJ7mSzzLTj1Oe5GiISBNFKHMDQOHLru5gEX4ckcUISyV54b1_V3Va3lWeLAwTSy"
+href = "urn:sha384:Orxzi24ixSIo6p0esU099OTGewUqcPoZzGM3IhatCrYuhuvfhxjHOKofRIhcg9DI"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What time is it? It's one o'clock"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:fK36QxebTkujYtA_Ic7aXqqOO4S0ipKufHZysaMOZmWxaPE_aWEgCLTqJw1q3xfh"
+href = "urn:sha384:aL8Rqsa1YGg63XvUwcL7AaKXc01c3PyhcwO1oJfa2avF1dtxk2QCMe1VemVImacV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Rob and Stephanie Levy (robstephaustralia)"
+author_url = "http://www.flickr.com/people/59773274@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/59773274@N00/3339456730"
+title = "Clocks for Den"
+[[cards.sides]]
+blob_href = "urn:sha384:XGR00-KC-q5wcGPqqFeHYecVFK2qsh6lnRXpCZBWXV7XRTf2Q88tuiF9MUlwLwH6"
+href = "urn:sha384:YUdCyN6f_CwpEMh5qyCELJEDYbkfmtfZmBx8vrpG26fKuF7V9qhty342sIGjkdAT"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What time is it?  It's five minutes after twelve"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:PytdMr7WtY7_nt4958ptkZ63T0SL40HbKpOPiqnI255nqzuDIRTWRUzgEKA50NGE"
+href = "urn:sha384:ybu_oCcQ2QS3cWSI--EvO3LetxXRQ-vCqQ7Sjbqyx_qioXwQurvQvKkvgBn4QhuC"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Rob and Stephanie Levy (robstephaustralia)"
+author_url = "http://www.flickr.com/people/59773274@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/59773274@N00/3339463980"
+title = "Clocks for Den"
+[[cards.sides]]
+blob_href = "urn:sha384:lUEmjECxBmKNLnIVzYXxAUAcxrbjnJjXmShWkg1P_x9nfgmtQTj8vIp-jztDOtu2"
+href = "urn:sha384:OvX4tbMoPxbVVW8i_Mn19qTEXSLRh4RyKYXqWLDXhLZzpI2XN-o1tRSvJazIMh2T"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Winter"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:xklhPCCMiHRlKmhdITACFtZSknHq3FJgqLZ0N8fUMbjaAyJ3SsFQDsh4myC_0XB-"
+href = "urn:sha384:BWeMRy0cCC-oN5Up2vuMYGH5ZRl26xOMTk2QDgimaeMM3D8tbYAvFa50-gc1rdEA"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (glaciernps)"
+author_url = "http://www.flickr.com/people/43288043@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/43288043@N04/5230363852"
+title = "Winter Wonderland in Apgar Village"
+[[cards.sides]]
+blob_href = "urn:sha384:QBuFlqCUpQh5JnGVU8c5H4hStDjK-c_29ZkQlyNg4tiO9VUyCag1AUsLvY2zI53G"
+href = "urn:sha384:ICXiQjmyufFP5TSnwRor-kbtQEsOqzo6sfbSXTcOYbozoTV3AMmaH0AXzE4ARPhX"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Summer"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:uZ6CfRY2P5y6cc0ZF4Zamz8De9MIEZuR8-KX1H7lR32Uct5dH0xOr3ZjwDoNVfqd"
+href = "urn:sha384:_QBRDf9YGkbLOGpEgSSSt6ONdyK8QZK2W-CUT5-G3QVdJzcKM-1o1oVW2JL4A-Qb"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Timo Newton-Syms (timo_w2s)"
+author_url = "http://www.flickr.com/people/19935963@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/19935963@N00/305714542"
+title = "Summer Time"
+[[cards.sides]]
+blob_href = "urn:sha384:tQMrXxUqfWkW-36_eiF4HI_GMNqLGuRCrfloA7B39kptVWUYXg1azJPNVeUS0-5t"
+href = "urn:sha384:Nr4muLu28q6GpetuhCPdpmDxSQzYW3SXaITk_dLnZrg5zXxjK0JpsAKmT2jgb-RJ"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The books are on the table"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:RgNCzPXMqlzJ2yGZdbuQ8duZENnEDgEBI9VosM7M01lItYOHYP_34FUm_tGlnu9Q"
+href = "urn:sha384:Zmqq3JRuVwUebgCvMSUuLCWWoqggx3tubkpYbXCE0IVrFzolWN47pBa_B3oWTMz6"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (aroid)"
+author_url = "http://www.flickr.com/people/60546721@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/60546721@N00/171946215"
+title = "dilo: the kitchen table, June 21st"
+[[cards.sides]]
+blob_href = "urn:sha384:9Mi4W-AxlvK8bjtSx4N24DHbTx4sVd9t-GADfgpnTpIudWp96oml_Gn-uYwsElnL"
+href = "urn:sha384:LYnjLZ73p1dbeXbC7v08DTs1yg2DSJWhQJ34CB0N32raztwOmviUkTsacPcvzXyQ"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The dog is under the desk "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:g-9pCq9ZsQy7xCxPFJhvMobg1-xAzQYSkZNnZXhTNgZlMSCGe0Hewbtg506oRU4s"
+href = "urn:sha384:DPVY9xiC4hlumUsqLHczTdsTzdcMbrQa8f_voNW2IATFCz4z0fhneP7mV-tj3Ptb"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (germanny)"
+author_url = "http://www.flickr.com/people/18555503@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/18555503@N00/2543680689"
+title = "IMG_0419"
+[[cards.sides]]
+blob_href = "urn:sha384:6iwouKWL2tFh82RIMyb4eG-oaxp8ePS_c0s0vdZeCwbN0jpNAf4kq76rGOQZpc5p"
+href = "urn:sha384:VykvwCZIe4bB8NmVNX7stDeUe0P3hkqMR_eNrcZfWVrlMAWuDIxyXH8P7raFM7hb"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The children are behind the desk"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:qhJtLrRdlOZee0hE0t-FL82f-5c6ITZUbqeU200AqvmzSXZwHVkpfFnM9fHKL8L_"
+href = "urn:sha384:P_PUZFXIkKsqwwUhR57LOakhWkRfkFwsTTmtTqVburSfX4y8iIQdLHxAf8Bqzd07"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Chuck Simmins (simminch)"
+author_url = "http://www.flickr.com/people/75918822@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/75918822@N00/4068055449"
+title = "Children wait patiently in their classroom"
+[[cards.sides]]
+blob_href = "urn:sha384:qxVVdOv7EisDqqyGqsRgp4POxonOADg20UMO8hR2OShrgBy1goWfNii1FpVAbrOU"
+href = "urn:sha384:KTt1mHFcISlan8G7Bm0dHsNClMrdTmUQXcA4bY4KAgYH5mI7dFGCxdt7v_3vXcO2"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The man is sitting next to the woman "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:eVSjfV6aiU7mV6rVey792NXAZ7gnzhpt68djzm6nMnbEV7qLCcHOOKQS-5WLKeC1"
+href = "urn:sha384:8ApNLwm7GnHMWlsLsDSs_2NbJPKvryqZMPzfnh2w3U8ABXy2YY__1alYH6vnhh2x"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "PSSP (PSSPifpri)"
+author_url = "http://www.flickr.com/people/76635218@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/76635218@N02/7775196096"
+title = "Increasing Productivity and Unleashing Growth: Day 1 - May 26th, 2012"
+[[cards.sides]]
+blob_href = "urn:sha384:pNCSrTZG7T7ABefcbHcDLpQ-L2u4vzHXKY-DqDjKhh5v4-xSzOITWgHW4DE8rb0N"
+href = "urn:sha384:zKg7nGID-BxdfDaTL0JnnrHe3ny4JzHIK8ilCpVjuwGI1bMXJfc3lNP5gN94lRwo"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
