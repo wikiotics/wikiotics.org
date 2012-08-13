@@ -1,7 +1,7 @@
 +++
 title = "test"
 contributors = [ "danielmillsap",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -195,6 +195,114 @@ blob_href = "urn:sha384:cGmFZ1NrKZxyRy8aMqO6nF3Cwe7saB4mhyUIPIkPXrDZLdfRuPW-026E
 href = "urn:sha384:XZzQAMZIMn_mDc0_c-5yIazHDrjMs6hLu6bdeJnkq9kGxufJBndMk5xMknd0k7Wa"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Running"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:rNK0Q_bQL-jxJMJ4LLVy8V4JyrzEygL1KgRpDcrgD2Au1De97KcaVynPISXI_zS9"
+href = "urn:sha384:hG5dPDsEjfUkO27pyl3ESjTFgN6d5889ia4KTt9pu36lW66T8dCFDzqIZuq95Cxc"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "lululemon athletica (lululemon athletica)"
+author_url = "http://www.flickr.com/people/30011527@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/30011527@N05/4535733031"
+title = "run holly run!"
+[[cards.sides]]
+blob_href = "urn:sha384:HZAlnyMiL4_tuE5mZSqh1371WaHsRnQW9zDf70rZ8wCTUH77kMdN51zHpLaGLqkN"
+href = "urn:sha384:khFa988hFBZuQ6qtqhA5VNctaJEip2_ogVG0T0EBSeQK26jOTUeiDfbkjq4SzHqZ"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Swimming"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:IuworB4Pt81Wfut2sntrwyQeNFzjnE_3Q7FVInBBle9v5h8UHrgzo7GEWwybDJmg"
+href = "urn:sha384:S-ACTZakSAzI08tHgD-HbE2kY1XZ6IaGrMd0Cn9VLJT7owzPrg-wSxnSt-UuPmwy"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Hector Alejandro (hectorir)"
+author_url = "http://www.flickr.com/people/30806435@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/30806435@N04/4425163371"
+title = "Swim PT"
+[[cards.sides]]
+blob_href = "urn:sha384:Ehr8SZW6XC4dfQi0wpIIp98O8bMyCn1b48um9G_qMP50tlDokj4XpBGAQHMOUseZ"
+href = "urn:sha384:BotFhJUFjDEBgUslL959gLGHG-KN_mCu0iz-mFeL-vXwucDk4FfpugWxvas5iivh"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Reading a book"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:YEHmMf76ml_6iYXVQTa7282rpRg0V0ntB6--n1wZkodQDeA_O6nyK7hzqOvXOp13"
+href = "urn:sha384:3M2HgKAVRkCaYz_m3JULP_JK8rXhAU4vpQjJULuKiKXV4_gtGUPyVsX7yzLRZYC7"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Ed Yourdon (Ed Yourdon)"
+author_url = "http://www.flickr.com/people/72098626@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/72098626@N00/3366997044"
+title = "Reading"
+[[cards.sides]]
+blob_href = "urn:sha384:j3WjJ_IwtHeewWf9swkB7niCPoxH-d3VAM2VPDNn1pHvYFY6jKU-AFFVoQ4rmx0c"
+href = "urn:sha384:-wgcJI1s2YIJg4NR5OS3ay7ARMv6fftOxR1U0_eZNPjKSBvKbD32sETZnqo9EUoZ"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Eating"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:5_RuBG60ShgrPAuN2jqc4YgtrQBwr-OPwh51FX2UR5a-ssX_PicB2wGn73IoPO7A"
+href = "urn:sha384:46orjWgMtsei6QEVC9WDRnYuxSI5KIJtuW3mADSTVwYbBS8OM8DzreFBoCP5NG3Y"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Michael Coghlan (mikecogh)"
+author_url = "http://www.flickr.com/people/89165847@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/89165847@N00/5067219403"
+title = "Eating Quiche"
+[[cards.sides]]
+blob_href = "urn:sha384:BZwvBaFQYHx80xrpUa8MHzl1fhtJhQuibwxKMUptSqjMMXK_BO5WIzqJ-Ue6wU2W"
+href = "urn:sha384:XMac8co-KCpAyggcYwolDftvlwoxT5pmeW1kBAvl-z5R8475u8CC3JN-k_yUOI5w"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
