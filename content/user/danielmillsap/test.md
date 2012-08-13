@@ -23,7 +23,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/58982967@N00/25888292"
 title = "Boy climbs tree"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FJoAFIOhalg4JxV3yAY-TDFpvxBm_UwQCNwh5HfuCx_tWrHrf_-riFEvbJklMj_F"
+href = "urn:sha384:joi5Qkvt18Gush1eAHP_uo2LV64tsxcHdzgWQKdPybbMik1EpGAuwKTFY81jfP8O"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -44,7 +47,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/72825507@N00/7123201071"
 title = "Young Hispanic girl with long black hair runs through the water on the wet sand on Morro Strand State Beach"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HyUmEsBFSurCIbfbYy5fDlPnWu7qupk-THSGjNJ8hnzXqNFcrlHQBNda8HM3yiFq"
+href = "urn:sha384:BabKb0QJi-dUsYsO__47V29DurllHOt0oTFmnkUESL8Pmfvq5FRjENPFPNV-4G4h"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -65,7 +71,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/32029534@N00/129649817"
 title = "the old man and the sea"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Qn6x_XBczRKAiaK2lfj6uMtCY5mTD7hwfzXU9Cw1eAE-iMNRuHUOmfu7mywid1wV"
+href = "urn:sha384:5xZrtOLhilmca-RzMS5J9VbKMiwwrnrSrevjd52YViKEcfTAYXmC3G6O6zj1wmnt"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
