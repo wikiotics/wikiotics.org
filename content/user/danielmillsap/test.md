@@ -1,71 +1,146 @@
 +++
 title = "test"
 contributors = [ "danielmillsap",]
+dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "What will he buy?"
+text = "Boy"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:QFfzLrxofbd0fhJHGk4v00dIG0713N9H-xtxWkBrsHQtSSgKFh7dJkG3IpmDOb1J"
-href = "urn:sha384:6d5kawNI1A7cIgseBQXuebUgXBCZxQI2AttD6AJ1BcCnh0fxP_3Obvk1yabPyqZz"
+blob_href = "urn:sha384:-RlHM51QhhMPcP59_hayoJacGiSBAnD4AU-lCPqCoCBtOp512XUtueN9kIeJRG8X"
+href = "urn:sha384:rpR2CfBFkrjfbM-xIeVKqd8kqPykBwjmPcyxEyq9lj5cCcVOxl5rg8EBMmGwh-mL"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (acornchief)"
-author_url = "http://www.flickr.com/people/8463606@N07/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/8463606@N07/2707928051"
-title = "Birthday Cake"
+author = "Peter Harrison (cheetah100)"
+author_url = "http://www.flickr.com/people/58982967@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/58982967@N00/25888292"
+title = "Boy climbs tree"
 [[cards.sides]]
-blob_href = "urn:sha384:6oOEzXxR4kvyrJCP6p84MMdLtyDI1qqyd86720YKPKQ4Vel69JBtatEjIfBs3xtH"
-href = "urn:sha384:dvSxRvQD1YDWIO6E3QnScaP2KItmnrdqKqlm1UUnrJJjb69NnuY0uejWagx3BMPU"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "what will he buy?"
+text = "Girl"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:vEa587yI3Z9VA8e3semG17vGCDC_-GqWour8xIGxMO5hrt39T2N5xg3uwdPfQ71D"
-href = "urn:sha384:BEfGL2l7VKFWnrkYmFR0I2GnWKAUSkQD7IoahSYUl76fp1Ss_3vQ38ijE-PuiNBe"
+blob_href = "urn:sha384:JVs_g_F0byMAp6IGBxH9iGk1I3_epF8SSrAWJKLbXUV8EevOSzGflo47cVrUjBXK"
+href = "urn:sha384:nwUSnQQzDtbMpFfMUOJJwvz4uFbkUguN5_8aHPU20ex0019thSFByop7WrU1r98K"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (mararie)"
-author_url = "http://www.flickr.com/people/32404172@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/32404172@N00/301867941"
-title = "golden bracelet"
-[[cards.sides]]
-blob_href = "urn:sha384:GXTgFzT6RlICbtlgOXrC4Zeqx_G2PQs-BGriC42jRuLetEfzPfi8woMvhTlGrPCs"
-href = "urn:sha384:j1vO5PKH24GzU1T1r_42UgJueiUyoGkP8FjePCUaR64GxuAItcTZrMTz2TIqaCqc"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72825507@N00/7123201071"
+title = "Young Hispanic girl with long black hair runs through the water on the wet sand on Morro Strand State Beach"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
+text = "Man"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Ou5-zGDwRCvNI8J40Cb2yzwQpNsg0GFlbAWmmwVkPJClgpAo5yjGO8ysCB1apGob"
+href = "urn:sha384:Sy6tJnX9GEI53bFnmgfm76eQ0-AR7eRWJpLUCozjzqbcQZxToixONjks-ughs2Md"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (torbakhopper)"
+author_url = "http://www.flickr.com/people/32029534@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/32029534@N00/129649817"
+title = "the old man and the sea"
+[[cards.sides]]
 type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Woman"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:dU5oGiOV8voQyZQ6xcW3MnXiM6vTMfCavLuNFq42DN_Y7wNN9uTSirxsru6p2AdB"
+href = "urn:sha384:lYie92MZASnjFqZblRbSCTzF1E-VjekEjmt5U-KbBlk00wRSHEjcycRhulH1gxYp"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36495803@N05/4899548915"
+title = "Beautiful Woman is Asian Looking"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
