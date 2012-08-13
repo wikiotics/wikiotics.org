@@ -199,7 +199,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Running"
+text = "The Woman is running"
 type = "phrase"
 
 [[cards.sides]]
@@ -215,63 +215,39 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/30011527@N05/4535733031"
 title = "run holly run!"
 [[cards.sides]]
-blob_href = "urn:sha384:HZAlnyMiL4_tuE5mZSqh1371WaHsRnQW9zDf70rZ8wCTUH77kMdN51zHpLaGLqkN"
-href = "urn:sha384:khFa988hFBZuQ6qtqhA5VNctaJEip2_ogVG0T0EBSeQK26jOTUeiDfbkjq4SzHqZ"
+blob_href = "urn:sha384:HinDZPphWvruaE9jmysRYSSdtKw2g2F5nXLel5xmG8nFB4vDMycb03WGRbheWVoX"
+href = "urn:sha384:S1sL4hvXJEM-6VvcTL0egdVR6y5lHfN44-46r3r7L6gFhnuvBEUCCwV8R83-JZuA"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Swimming"
+text = "The man is Swimming"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:IuworB4Pt81Wfut2sntrwyQeNFzjnE_3Q7FVInBBle9v5h8UHrgzo7GEWwybDJmg"
-href = "urn:sha384:S-ACTZakSAzI08tHgD-HbE2kY1XZ6IaGrMd0Cn9VLJT7owzPrg-wSxnSt-UuPmwy"
+blob_href = "urn:sha384:e-VY1TV67jdEzl_MClyuJRr5BYxCypzxRhdXZLtXaOJI5XT3vniaqgTp38g1ypLK"
+href = "urn:sha384:h9ElByBe6ijj-QPQislCuBdeOi4raTHt-qr4gRr_wOnY01fcRwUYlvedXqz4iTym"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Hector Alejandro (hectorir)"
-author_url = "http://www.flickr.com/people/30806435@N04/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/30806435@N04/4425163371"
-title = "Swim PT"
-[[cards.sides]]
-blob_href = "urn:sha384:Ehr8SZW6XC4dfQi0wpIIp98O8bMyCn1b48um9G_qMP50tlDokj4XpBGAQHMOUseZ"
-href = "urn:sha384:BotFhJUFjDEBgUslL959gLGHG-KN_mCu0iz-mFeL-vXwucDk4FfpugWxvas5iivh"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Reading a book"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:YEHmMf76ml_6iYXVQTa7282rpRg0V0ntB6--n1wZkodQDeA_O6nyK7hzqOvXOp13"
-href = "urn:sha384:3M2HgKAVRkCaYz_m3JULP_JK8rXhAU4vpQjJULuKiKXV4_gtGUPyVsX7yzLRZYC7"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Ed Yourdon (Ed Yourdon)"
-author_url = "http://www.flickr.com/people/72098626@N00/"
+author = "Colin and Sarah Northway (apes_abroad)"
+author_url = "http://www.flickr.com/people/46174988@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/72098626@N00/3366997044"
-title = "Reading"
+original_url = "http://www.flickr.com/photos/46174988@N00/5116180648"
+title = "Rainy rain rain"
 [[cards.sides]]
-blob_href = "urn:sha384:j3WjJ_IwtHeewWf9swkB7niCPoxH-d3VAM2VPDNn1pHvYFY6jKU-AFFVoQ4rmx0c"
-href = "urn:sha384:-wgcJI1s2YIJg4NR5OS3ay7ARMv6fftOxR1U0_eZNPjKSBvKbD32sETZnqo9EUoZ"
+blob_href = "urn:sha384:xgucxcdih9fInBg8mwNKb6WxKV4t3dz__j_QCiNHnGEs3PcgqFlMEwfIDob1i1ne"
+href = "urn:sha384:l-OQqqaoM9Dyr8K64f2xxpa76WbRcXXmlLh6fa0EPRLolzYBnWHIaEnnO6he8xU_"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Eating"
+text = "The boy is eating"
 type = "phrase"
 
 [[cards.sides]]
@@ -287,10 +263,22 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/89165847@N00/5067219403"
 title = "Eating Quiche"
 [[cards.sides]]
-blob_href = "urn:sha384:BZwvBaFQYHx80xrpUa8MHzl1fhtJhQuibwxKMUptSqjMMXK_BO5WIzqJ-Ue6wU2W"
-href = "urn:sha384:XMac8co-KCpAyggcYwolDftvlwoxT5pmeW1kBAvl-z5R8475u8CC3JN-k_yUOI5w"
+blob_href = "urn:sha384:2t6WuD9iVboL9xu_vihPD3ydlhY-wzqSCy_s0qnkf44BKWtPN2LJ6qctVN0pTP6P"
+href = "urn:sha384:LhCyZeArAo9RLii6PoKrSkYzQUNPuuOCpjpPdjmSSpnEQQPrcXABsU4QcUXeVnue"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
