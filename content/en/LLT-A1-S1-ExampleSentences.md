@@ -1,8 +1,8 @@
 +++
 title = "LLT-A1-S1-ExampleSentences"
-contributors = [ "erinrussia", "ian",]
+contributors = [ "213.114.82.171", "erinrussia", "ian",]
 headings = [ "Sentences",]
-tags = [ "LLT", "example-sentences",]
+tags = [ "A1-S1", "LLT", "example-sentences",]
 type = "lesson"
 target-languages = [ "en",]
 [[cards]]
