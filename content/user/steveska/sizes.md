@@ -69,7 +69,7 @@ type = "empty"
 
 [[interactions]]
 answer = 2
-prompt = [ 1,]
+prompt = [ 0, 1,]
 type = "choice"
 
 +++
