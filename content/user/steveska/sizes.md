@@ -68,8 +68,8 @@ type = "empty"
 type = "empty"
 
 [[interactions]]
-answer = 1
-prompt = [ 0, 2,]
+answer = 2
+prompt = [ 1,]
 type = "choice"
 
 +++
