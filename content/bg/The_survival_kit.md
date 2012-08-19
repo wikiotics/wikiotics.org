@@ -1,6 +1,6 @@
 +++
 title = "The survival kit"
-contributors = [ "Laurent",]
+contributors = [ "92.247.220.61", "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "wikibabel",]
 type = "lesson"
@@ -63,7 +63,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Добър ден ! "
+text = "Добър ден! "
 type = "phrase"
 
 [[cards.sides]]
