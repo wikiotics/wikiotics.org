@@ -1,6 +1,6 @@
 +++
 title = "Countable and Uncountable Nouns"
-contributors = [ "180.191.16.198",]
+contributors = [ "jeremiad",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -10,16 +10,16 @@ text = "wasp"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:djgnZSM1fwNXfwojQbS1OszWmR-UoDgapspf_MQrB6sgPFx3pJA9hQQwphQSyYZT"
-href = "urn:sha384:u6qCWQyJgNx5EqtJJIe_F_52bOIiM6Ek421wVWkyG5RBolsi70PILE5zPV_db8nh"
+blob_href = "urn:sha384:WNi0WcIIY643FHeUgNO1_qZhnH52Q3zXCBURN4pANA9HD3fOvUU44m-UaCYESVde"
+href = "urn:sha384:G2eM7btRSFEiJHV0eOLUm9GbrTgxKLrZhaU54_Q4bTTYt4XAaAApX1pw1xGBfSa9"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Johan Hansson (plastAnka)"
-author_url = "http://www.flickr.com/people/29783237@N05/"
+author = " (Smabs Sputzer)"
+author_url = "http://www.flickr.com/people/10413717@N08/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/29783237@N05/4564971820"
+original_url = "http://www.flickr.com/photos/10413717@N08/4027679726"
 title = "Wasp"
 [[cards.sides]]
 type = "empty"
@@ -32,7 +32,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:TNFSXbHtJUKxFYfxZUPiEDo7Ifw43YyVa6vOfTJ6PilsGntePRRNyAn3p3Coz61q"
-href = "urn:sha384:qVwpP9ZkBWNFZE8N4q2QFZ71I0csRYBloe4PEXC9Mcy_P_1S7Vks7Ky6xm6BtK8L"
+href = "urn:sha384:p_xTJriFkJPiTr-gVXE5mQkHYNXq1Uab23T9ERMU9kb8WIUn_5oXamoUIMLkAJlD"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -53,7 +53,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Q-fhWZwHQ0Z_e8sWiWQSXLpdHFnsPDiIzg42VyI6Z4adIvdme0E3h7m7kQQARttW"
-href = "urn:sha384:ySF3JWXDlvMeBKw5ka1MvrIYT_6FOrDeuIWJsCTx_TJY2HrveQkNewUTXZ1gc9fS"
+href = "urn:sha384:rD819MX1CaO0Xl5mh1EEruu5Tzx0NZOp7-FHUoAb4UyGnaXPHoErGEK-VPp-IieP"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -73,8 +73,8 @@ text = "wastebasket"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Y03xGCXf9UsPhThzjt4mRX4qbzgF4PBjFaS-DY_G9BeNOJqJGEhzWsswDIOxwrZx"
-href = "urn:sha384:njUfKLBp_-vedxwy7CsD2_9X18cDl7SAUxFsQ1KKzeEiUEIHEtPL24AVwZRsnPGo"
+blob_href = "urn:sha384:YBh9Ykdleu86DLYWlc2kVoyqZa2uOr35yVa7xT6LaX4omnV_dhBlaKravqgCNXju"
+href = "urn:sha384:Twj_FAaFydzPn7UmCfOFwip6srN3sVs2wmVzShRnQl34G-TOg1PkwJR2mBXiSBY9"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -82,8 +82,8 @@ type = "picture"
 author = "Juan de Dios Santander Vela (juandesant)"
 author_url = "http://www.flickr.com/people/86651085@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/86651085@N00/2720599574"
-title = "DSC00138.cropped"
+original_url = "http://www.flickr.com/photos/86651085@N00/2719776731"
+title = "DSC00136.cropped"
 [[cards.sides]]
 type = "empty"
 
