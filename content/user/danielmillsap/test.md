@@ -1,32 +1,17 @@
 +++
 title = "test"
 contributors = [ "danielmillsap",]
-headings = [ "Prompt", "Answer",]
+headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "what color is the sky "
+text = "hi there"
 type = "phrase"
 
 [[cards.sides]]
-text = "yellow"
+text = "how are you "
 type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "what color is the hair "
-type = "phrase"
-
-[[cards.sides]]
-text = "green"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
 
 [[cards.sides]]
 type = "empty"
@@ -34,14 +19,17 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "hello"
+type = "phrase"
+
+[[cards.sides]]
+text = "im fine"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[interactions]]
-answer = 1
-prompt = [ 0,]
-type = "choice"
+type = "storybook"
 
 +++
