@@ -971,6 +971,48 @@ title = "Paparazzi"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Mafioso"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:-sLuVSq_zEevD7LIYX1Dl6b3lHckRTW9P0uOWqBr92nPp5ziWMQO7p9k3T1kB_Ty"
+href = "urn:sha384:rXwKECg3GaVcwPp0vwGVLe1in_VWBj57_ea7EVzfPiTdZANTNVvdOfBS0_kfExx-"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (TRF_Mr_Hyde)"
+author_url = "http://www.flickr.com/people/63770279@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/63770279@N04/7046992619"
+title = "The cat held by Marlon Brando in the opening scene of ‘The Godfather’ was not written into the scene. Marlon found the stray wandering around the Paramount Lot just before the scene was shot."
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Mafiosi"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:HzVzHAMuIAhRU0ISe-7ExIHZJVH02JMq9w0V_sVtlZif-PKmGK5760XigLgwc_6Q"
+href = "urn:sha384:KsUXMljpsNu3SQ97iBWCQgE4VJEq41uOEUYEWu38toLaLtkXgWICFqIw2r74iyMT"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (BazzaDaRambler)"
+author_url = "http://www.flickr.com/people/10390868@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10390868@N07/5425045483"
+title = "... for as long as they could remember my uncles always wanted to be Sunday school teachers ... shop window, Windermere."
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
