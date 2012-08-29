@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -758,6 +758,48 @@ author_url = "http://www.flickr.com/people/91241612@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/91241612@N00/2429009960"
 title = "The Colossi of Memnon"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "larva"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:fADMXjokd9Hi5l2uCL2ILDLBY6HyxzZZNdPzQu7vykd-DdsPBf7NZmiYq92UV_oG"
+href = "urn:sha384:8fiiG_2pZviz7z3gvNszAsvM1Nug6CMiW2IZhAg5xC-RIjQD8m9J-7Mc-Q-KGqtB"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Mick Talbot (Mick E. Talbot - off line 4 weeks 11/08/2012)"
+author_url = "http://www.flickr.com/people/25258702@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/25258702@N04/3523065197"
+title = "Coleoptera Larva"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "larvae"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:CpaYfryoQuPaT5lyw54Lzn2VT6JrYuf8PeWa0UU9as0-JALWIJi2Xk_b8fZRW3or"
+href = "urn:sha384:o1a8KwJXPBuw_mvZI-BFDCu_mmn8qBJoPhXXnEGO8RF7fKS9gciBWQ1EdJcFLRFB"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Mick Talbot (Mick E. Talbot - off line 4 weeks 11/08/2012)"
+author_url = "http://www.flickr.com/people/25258702@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/25258702@N04/3523064483"
+title = "Coleoptera Larva"
 [[cards.sides]]
 type = "empty"
 
