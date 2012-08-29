@@ -932,12 +932,42 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "paparazzo"
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:JLvuT8NDqRIAE1Z5BMyC3bjRy8VEPdKIriXbqiDZMchyE58zvv3aF--iOu6M2o3h"
+href = "urn:sha384:5LYY3EgkAWIImQEQC8GQyrxwSPugnX824xWyGHbBNo3g7qwn9qf0e8sjyTtZti_L"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72825507@N00/2273268382"
+title = "Female Photographer Morro Bay, CA 17feb08"
+[[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "paparazzi"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:54b0BlCatjREndQ41G6g6WYElw95TyTqiecMoj90yKtVrap-sdzPKgLDft1YWX-b"
+href = "urn:sha384:kyD4qIkGcXXIs8oe9uId-5wkbMFXd3lnTke47f3kCExUYfr7zNFllG9iY8SdkcWA"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jeremy Keith (adactio)"
+author_url = "http://www.flickr.com/people/74105777@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/74105777@N00/3916637835"
+title = "Paparazzi"
 [[cards.sides]]
 type = "empty"
 
