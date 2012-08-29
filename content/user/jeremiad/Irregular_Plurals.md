@@ -302,12 +302,42 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "die"
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:TGJfSFUBEV-EwD3tLV_SoC3FBjphnnL5h62Td6ITb845eLO0U6nGySEse-kdF9-9"
+href = "urn:sha384:5WC72eNKa6YIXCG2XNeLRXhAZWMuZFyxvJjxZuzHMmM22f5-d_7EPnqeRbUW2K84"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Steve Johnson (Steve A Johnson)"
+author_url = "http://www.flickr.com/people/14529257@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/14529257@N03/5650007134"
+title = "Dice"
+[[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "dice"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:_vFQGCV6rZzugB5m9a-9nCDCmTfbN73GmCtNDNG32_xy40GYZzDDZAMMKsZ6iM1B"
+href = "urn:sha384:Ji3dLazlz6uZAxSlEOYSUsJhii7LJX815FAoKjSeAe1yEdHfLqJfoh325qXt-qVI"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (sean_hickin)"
+author_url = "http://www.flickr.com/people/34738212@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/34738212@N00/4319839458"
+title = "Dice"
 [[cards.sides]]
 type = "empty"
 
