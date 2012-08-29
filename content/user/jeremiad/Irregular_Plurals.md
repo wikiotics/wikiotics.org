@@ -803,6 +803,48 @@ title = "Coleoptera Larva"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "alumna"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:N_RESvDQp6fK62PZZPdxBAN-N_xyBrms0rLxLo9YIypui1nm4-Nk20K1JnJeK7Sc"
+href = "urn:sha384:3vNNmwtIfhCySC8PQaqAnV4Kj5kABEGZDuZ_C7cweUWrf3Nt8xXofxqF-4EIA8ht"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Ralph Daily (ralph and jenny)"
+author_url = "http://www.flickr.com/people/92269745@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/92269745@N00/4612732045"
+title = "Graduated!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "alumnae"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:EnO1WgFBq4sdBO3HuvNARzHs_oy8I_KrthBfqmldKnBrZg6L-AIRHBLhsi9wQ_77"
+href = "urn:sha384:05CTv2S9PZlodsgijNdXWmu__H69iRaUb9fySmkYFxdPXFTTrccdDFCqWXvak_TQ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (UNE Photos)"
+author_url = "http://www.flickr.com/people/71926021@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/71926021@N06/6495937871"
+title = "Autumn graduates"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
