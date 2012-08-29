@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4, 8, 12,]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -302,7 +302,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "die"
+text = "die or dice"
 type = "phrase"
 
 [[cards.sides]]
@@ -338,6 +338,60 @@ author_url = "http://www.flickr.com/people/34738212@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/34738212@N00/4319839458"
 title = "Dice"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "mouse"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:A9KtL_ogMlSUqq5cTu3rvamL718nduP9X5bW2VoVmBj_hWa5aLyDc8-FkgmCFETT"
+href = "urn:sha384:fKS4evP0k0je0jnZfdnrs1xOjtjGtLPsUcNbHZNcr2zb69UDEXuUL6P59wLZGVHu"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Ernst Vikne (Ernst Vikne)"
+author_url = "http://www.flickr.com/people/42834622@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/42834622@N00/3752583075"
+title = "Mouse"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "mice"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:pBvUgAEVFUQEditNV0YDpQmA9cObPCRNfGNKovPjrvmaqgzt841ZM-DTrzUJNMBp"
+href = "urn:sha384:Z4heevFE00Teo6RsaAhgMMip9DOz61xdg0AvEX_XJpUP5NpCxV_XY6eqFeACaoGU"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Ruud Hein (Ruud Hein)"
+author_url = "http://www.flickr.com/people/14519929@N07/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/14519929@N07/3560693870"
+title = "Mice"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
