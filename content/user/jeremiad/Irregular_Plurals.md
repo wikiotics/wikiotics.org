@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -1178,6 +1178,48 @@ author_url = "http://www.flickr.com/people/37667416@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/37667416@N04/4407822309"
 title = "1022025"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "fireman"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:zD-wzFFxWZDqj7LjjzJrdQ_-m_EwQkWaNlUB9CQpvUpdiNpPXtwWCyOcd0mT8R_J"
+href = "urn:sha384:ZCZFBMc9XrAfLGO6BwjxrUOUNDk_o5-QOsREGZhoi7Tfw3TrJI8H3u-BFW6yszHq"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Nestor Galina (nestor galina)"
+author_url = "http://www.flickr.com/people/11755553@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/11755553@N08/2334057236"
+title = "Fireman"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "firemen"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:92UwE_m0IXgJkzcoIgjlPpHQEyOLkOFUkGxcY66c04tyGvcFATiSdhZwrVn9BIue"
+href = "urn:sha384:NdGdQScT6ZVBZ-wP-bLPRV6XBmEic-Ina7F7mcaUjXMEdge3140esrlNRN15X5FW"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Valerie Hepler (ICMA Photos)"
+author_url = "http://www.flickr.com/people/31418530@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/31418530@N02/3654252375"
+title = "Fireman Rescue"
 [[cards.sides]]
 type = "empty"
 
