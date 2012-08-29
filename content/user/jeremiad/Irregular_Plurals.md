@@ -554,12 +554,42 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "hippopotamus"
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:lgExwXLtNsiFHxV_vtzcz1erDSCPQ3HZJmQcTQuSkkUKDc4RwBfNUMFFTiji7LSK"
+href = "urn:sha384:g7JL5IRjG5zAmQIdDNwMgcawKLQab6-6rOJYz4cYCqLRn9X5_4tRPwtcbZBiBlvT"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Kabacchi)"
+author_url = "http://www.flickr.com/people/36197880@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36197880@N03/5668637047"
+title = "Hippopotamus - 16"
+[[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "hippopotami or hippopotamuses"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:lw9ursPpOmayQacwovJButnSPCdqcx-wDr7BZKqGxZJjKf4N9rUJk8v0__kE2qtn"
+href = "urn:sha384:CYLamnMO9GC3jaHXvffX6rS4ro59hdJzhKmEyjwAg0_nZ33jLdmwvBXuk69VUu3-"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (amanderson2)"
+author_url = "http://www.flickr.com/people/49399018@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/49399018@N00/4685749035"
+title = "Hippo Pool Serengeti 2"
 [[cards.sides]]
 type = "empty"
 
