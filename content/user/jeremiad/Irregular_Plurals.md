@@ -635,6 +635,48 @@ title = "2011 Graduates"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "gladiolus"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:6dl0q0suIm0uuG1FsCZv673z0gqcVXdVtTk6fAuXDqUfjUWXoZWooWD29lp01v_4"
+href = "urn:sha384:jM1LKD5fDpsDqHBkJdcOlbN9ZB1RSeULAraJZWNBE9Fdti5ZNusl2OoqKooE-8I2"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (pizzodisevo)"
+author_url = "http://www.flickr.com/people/31818720@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/31818720@N00/1345579492"
+title = "Gladiolus callianthus"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "gladioli"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:4hB1rGN1tOR6N4owAcsIF92e7MFodtJ9IsgtPrQxwPA80G7ZanUaq7l5K6PbU6Ok"
+href = "urn:sha384:GBb-1ct88T5IuJ6tgRVd4YUIHCw-OBhbGOsQl9ZGIiwdNJeIaWER0QHbugGZj_qt"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Verity Cridland (Verity Cridland)"
+author_url = "http://www.flickr.com/people/58789412@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/58789412@N00/798749761"
+title = "gladioli"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
