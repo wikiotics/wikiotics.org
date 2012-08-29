@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -842,6 +842,60 @@ author_url = "http://www.flickr.com/people/71926021@N06/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/71926021@N06/6495937871"
 title = "Autumn graduates"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "plateau"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:EH3TpJJ8i9HSUN1ePc2T0wGmoS_pIgtHCfCqfCulJvzbIbhrLggXVERRGcYiXm-c"
+href = "urn:sha384:gv6F8wA4VwjMXhgXuKZcQDgnIuqpB79ZI_0FOw-HLxp5EOHW6yG-4MrBhUF4GpoP"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (brewbooks)"
+author_url = "http://www.flickr.com/people/93452909@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/93452909@N00/3822361094"
+title = "Near Kaiparowits Plateau, Utah"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "plateaux or plateau"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:59SaqyLIFPdgdhZIwkMwnUCYQ0k1ll13fsMRm6kG9g4lzy089l7ZeuASmzohtL2f"
+href = "urn:sha384:ejyJi-THvdbOaeNOuRK-QypTFqb_dNrIUke5xl2lxkxQL9MZ2Zr0LyINFEL9T34U"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (brewbooks)"
+author_url = "http://www.flickr.com/people/93452909@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/93452909@N00/3821556741"
+title = "Near Kaiparowits Plateau, Utah"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
