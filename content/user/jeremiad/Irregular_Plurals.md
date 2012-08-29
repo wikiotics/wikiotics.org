@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -674,6 +674,48 @@ author_url = "http://www.flickr.com/people/58789412@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/58789412@N00/798749761"
 title = "gladioli"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "sarcophagus"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Qxt1kox4da7ychfxA-yeLPGd1qGyCGID8J3Rjyfsx5ZQji8M2BmtCK3oOGHk7z9D"
+href = "urn:sha384:KydLWIsiuKI8nACIHfuMj5ljoz7J8APIcDeEyxe3uOUKTtFCk6y1hMlcUDA1gLIy"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (wonderferret)"
+author_url = "http://www.flickr.com/people/65555826@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/65555826@N00/514520698"
+title = "Sarcophagus"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "sarcophagi"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:eMiH6kL6leh57SygrZUPLjlFQkBNtZ-lc3vxzsh3IT2kD0IU8JjTEBNi2iKf5Yz3"
+href = "urn:sha384:iBB0P7MEjbOOoiyjV2-jq7BOemH1TxeFuT-VqZ4Pwf5X1YED-WEseluheX29q6LB"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Andrew Wilkinson (andrew_j_w)"
+author_url = "http://www.flickr.com/people/8452611@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/8452611@N05/3870815480"
+title = "Sarcophagus In Cadiz's Museum"
 [[cards.sides]]
 type = "empty"
 
