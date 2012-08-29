@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -890,42 +890,54 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Mafioso"
+text = "beau"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:-sLuVSq_zEevD7LIYX1Dl6b3lHckRTW9P0uOWqBr92nPp5ziWMQO7p9k3T1kB_Ty"
-href = "urn:sha384:vCeGtAPyB3MyZ0rtK9NHKzEviYQxV79Ow2pEZxLCZYOxhdDfgGbdsKyS_66plfYg"
+blob_href = "urn:sha384:OBZEZdUD2dP-bi4w6B1iCYz69SUaPxovNZ8LLMquGGjjGAJ-2RRkV-x0729z-dKb"
+href = "urn:sha384:YBG0JWQ3ZGXNl4CMVccQFshF0W5UAFMTbaJw-WvLJBmDEBZGcy2NOXz1yxLzmpfi"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (TRF_Mr_Hyde)"
-author_url = "http://www.flickr.com/people/63770279@N04/"
+author = "Tony Alter (Tobyotter)"
+author_url = "http://www.flickr.com/people/78428166@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/63770279@N04/7046992619"
-title = "The cat held by Marlon Brando in the opening scene of ‘The Godfather’ was not written into the scene. Marlon found the stray wandering around the Paramount Lot just before the scene was shot."
+original_url = "http://www.flickr.com/photos/78428166@N00/6071132687"
+title = "Couples Dance"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Mafiosi"
+text = "beaux"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:HzVzHAMuIAhRU0ISe-7ExIHZJVH02JMq9w0V_sVtlZif-PKmGK5760XigLgwc_6Q"
-href = "urn:sha384:ZZlTrKgTHCeuU-43OML3SPeuAYf1mNjBSAPb4EwrekJSlvEckNBKC8BghtTyI9VS"
+blob_href = "urn:sha384:fknp2RrpXWH9b94NQeArThJi7FcMAKw37y-de0E5gMp3GFfed55TqJc7PY-G25zb"
+href = "urn:sha384:1R5uJmBCFl258sx94l1gZu1hd3FbVV_MlBxc76zXZrHuGkyJjK0shsKEA9TVI2Nh"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (BazzaDaRambler)"
-author_url = "http://www.flickr.com/people/10390868@N07/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/10390868@N07/5425045483"
-title = "... for as long as they could remember my uncles always wanted to be Sunday school teachers ... shop window, Windermere."
+author = "Chad (Chad and Steph)"
+author_url = "http://www.flickr.com/people/57734266@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/57734266@N00/6066496501"
+title = "Friendly Foursome"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
