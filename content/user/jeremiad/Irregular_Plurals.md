@@ -467,6 +467,48 @@ title = "cactus plant"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "fungus"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:dPxxeqDoOfhxfc0jaz9rSUVH37zuwjXngkf0aNJUecNlixwtWZaOZgqEFH7kGqiM"
+href = "urn:sha384:WyVVc6V7gNRhb56e3MDZXunu3dvKwVsPtySIkxht5OnfDIVOa5umjhE-It3mRjbF"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Emilian Robert Vicol (Public Domain Photos)"
+author_url = "http://www.flickr.com/people/28958738@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/28958738@N06/7419270442"
+title = "Fungus-on-Trees__14162"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "fungi"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:U4CQ76JJa5yAOJURAIs_tU4roHdKZLRc3oqt4EDcglm2MnYVGKo3mDQXEAGlAyIP"
+href = "urn:sha384:ZzNHc2cZ_Vi9DaaLptL0jfU5FEGsnjWmPbs0Nt8XJpjAilJFHoR3EIb88eWvQvKJ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "John Loo (John Loo)"
+author_url = "http://www.flickr.com/people/8510225@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8510225@N07/3398259573"
+title = "Fungus"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
