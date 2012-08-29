@@ -1223,6 +1223,48 @@ title = "Fireman Rescue"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "policeman"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:TKfuV_4nteVhSDBLGG3yIbJxWUIcDYQPMs6MnUXy8mKV2OBKfPSAmC9e3UMOHLV3"
+href = "urn:sha384:WwU0cFbT8fohQxWaQ9k66Jvn4ReGyjVR2JrWMiAalRZmls3fFHK2C6wtp8pjQL1_"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Seattle Municipal Archives (Seattle Municipal Archives)"
+author_url = "http://www.flickr.com/people/24256351@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/24256351@N04/2716928469"
+title = "Policeman downtown, 1981"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "policemen"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:4xn2cgKOfLZIRIOnkAn-GXXJ_bcPmGOa7Xo34LFoK2ei4W5jPA_kdBpdWY5qhdW6"
+href = "urn:sha384:M5gHX4Xh0W5stf4S3Xyxp9E5jfvxsr1EWf8O2nxc-2GnAK5crtzJAV348T_0VSsB"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Bruce R)"
+author_url = "http://www.flickr.com/people/81043902@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/81043902@N00/3854836367"
+title = "Police Group"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
