@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4, 8, 12, 16,]
+dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -422,6 +422,48 @@ author_url = "http://www.flickr.com/people/32611380@N06/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/32611380@N06/3775631069"
 title = "Head louse - כינת הראש"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "cactus"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:IXd--xWwep84owHTdY71b09cUsVAXFJ-yfSeznhdStw6Y6fYlno7WehKsN44f6Ok"
+href = "urn:sha384:TqKO1Whyzo0Hc3XV4tBqUYDMjMS2O0GqWXRbAjUhXQWeYQ0UmbXEig1op2EGMBJi"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Brian Snelson (exfordy)"
+author_url = "http://www.flickr.com/people/32659528@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/32659528@N00/2465921016"
+title = "Cactus"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "cacti"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:mgMxfll7Eod1fOwQoQlIhmcF06opd9VINQ2bALGh9OXqAeQGdvhHavdzGX2FNZnq"
+href = "urn:sha384:edm7vBVNvv8dKLrDW4_FqZUrIl-TrnJG6EwWwrjpU34NIJuy1RmrXR9C8cOQhaVw"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "sudarshan vijayaraghavan (~suchitra~)"
+author_url = "http://www.flickr.com/people/25776592@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/25776592@N02/2623544913"
+title = "cactus plant"
 [[cards.sides]]
 type = "empty"
 
