@@ -1139,6 +1139,48 @@ title = "Elephants"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "codex"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:cLzvzrq-yUiPSUEXuUY3BcSgizqNSCqMnXXnUMcMTc7W9UBDGydbYYa2pFlfkw9N"
+href = "urn:sha384:ZZhGZ6MxT5Bx7f144A_LFkyioDXrt4nkVCqnBsT3OUbj3Oh87dbuyvtJvkQxVvS-"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Certo Xornal (xornalcerto)"
+author_url = "http://www.flickr.com/people/15528381@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/15528381@N02/5911503451"
+title = "Codex Calixtinus. Copia de Salamanca"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "codices"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:qoux2GAiAvIHRzdrJ1tRQQN2Q1qLQGwOrn3zCaCXYqnwHbn38b1E8Rbi8E6yHUy3"
+href = "urn:sha384:baESH1MCMZf1NS4poy_aO81QN8_C_9OoWjqnPexnpntli7HsBSl7jMqJ3nD0D1DM"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Biblioteca de la Facultad de Derecho y Ciencias del Trabajo Universidad de Sevilla (El Bibliomata)"
+author_url = "http://www.flickr.com/people/37667416@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/37667416@N04/4407822309"
+title = "1022025"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
