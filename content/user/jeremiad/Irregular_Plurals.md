@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -233,6 +233,39 @@ author_url = "http://www.flickr.com/people/62479404@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/62479404@N00/426341843"
 title = "one tooth, one"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "teeth"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:-D0fDCHRK9okgJFgELc041uel2wM94ONjxCfGFh8m5Mw7mPKhSpNtkylR3T8bMo0"
+href = "urn:sha384:2xxsKoHab_guIPC6ZCFZeS7ZbD-ZoLQkRMX4Lj2kMt54jmXTRlJBZPG3naBBR1QP"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Scott Rettberg (srett)"
+author_url = "http://www.flickr.com/people/51035655075@N01/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/51035655075@N01/2529334"
+title = "Missing Tooth"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
