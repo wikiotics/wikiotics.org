@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -1010,6 +1010,48 @@ author_url = "http://www.flickr.com/people/10390868@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/10390868@N07/5425045483"
 title = "... for as long as they could remember my uncles always wanted to be Sunday school teachers ... shop window, Windermere."
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "cherub"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:w6uj9Xnmbzv64xar0TYgI6b5QrSMFEhK47NVGNyNobnZGV2JxFBDPjtO9p86v16x"
+href = "urn:sha384:NF1xwgI6mtLYnF74TZMicH2v5m5KcUJOkvsXHuvSiKZVREgaQW3fl_WN_y_U_5wq"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Janet McKnight (janetmck)"
+author_url = "http://www.flickr.com/people/43188309@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/43188309@N00/3136051044"
+title = "Cherub"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "cherubim"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:RjxEjnocw8L6595bZjZA72WJw1px5P7jSFHjceRsgPN0ZtzENEPCyePRPlwpSD_4"
+href = "urn:sha384:RICVtPi22P232nsQd-NKP2ED5gzAT6odaD0zcxwofOXB7iV8-zL6p3-oUG3eL83N"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Karen (vidalia_11)"
+author_url = "http://www.flickr.com/people/56832361@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/56832361@N00/537310252"
+title = "Cherubs"
 [[cards.sides]]
 type = "empty"
 
