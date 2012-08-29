@@ -1,6 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
+dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -80,6 +81,86 @@ author_url = "http://www.flickr.com/people/22406955@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/22406955@N07/6217573246"
 title = "Women's Business Social 051"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:3iDsAgrK8i_UU055ytZ4vqQCilPnVO6sNBO_NZuE1gbLjZHQsQMfGM6VEwbzdYFN"
+href = "urn:sha384:vYrpHo_djzXixwKjxOjCrQly749CFMf03QGbnOFDPkX3l05vsTMJtQ8IzjFOV4rv"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Romain Guy (romainguy)"
+author_url = "http://www.flickr.com/people/24046097@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/24046097@N00/230420772"
+title = "Sailor child"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:XLtVYtWexAp-m-JfBQd4ScpDk4R91FpJM5FO37VWD-052ffKmDtyrDX4LWcy0Tfc"
+href = "urn:sha384:xaxMY3Q_DBSpH4ZfSGg4QVVmbjyk01eCimonh6F0BaazT07cdxMhIPkW9_NNrePT"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Ananta Bhadra Lamichhane (anantal)"
+author_url = "http://www.flickr.com/people/33088287@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/33088287@N00/450690627"
+title = "Children posing for Camera"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:cRTj3Gxj3JBCZxvACjlevEdNI9W-7yv1aZz4HI5aO7P8GXLXNarIe7okb9zzGgJq"
+href = "urn:sha384:8ASjKG1ialZhE7uJxdEWaufMEZBxALzYNMT4zgwNUN0r74oPciLPvz54LEjQeT81"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Carly Lesser &  Art Drauglis (Carly & Art)"
+author_url = "http://www.flickr.com/people/60509459@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/60509459@N00/3372739953"
+title = "Ox"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:AyLxWnYDctC5TeSZDCWik6Vjubh1tPr2B95C1f1DlUFweUVHxzSDY-9kvKQgk1h5"
+href = "urn:sha384:zAJd9A1zd6TbF0EYIDY5lMe-Ok_lg9zMS7_uvP0rjrzBdZ6XCxdrU8zxAu3AKv_Q"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (BarbaraLN)"
+author_url = "http://www.flickr.com/people/46097950@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/46097950@N02/5716656729"
+title = "Oxen"
 [[cards.sides]]
 type = "empty"
 
