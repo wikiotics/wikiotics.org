@@ -386,12 +386,42 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "louse"
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:6Cd8b6OC3xDbwqTXhZckF_4G6i8gEAa3TXvsLOHlpdgK7yyoZAgu-p65KNy-n74X"
+href = "urn:sha384:QRUnuAl5Sza9IGNEyuUHWcgMHQ2oF0NbV2TyOfECCsJ0oHJL6QS19iyr7un4Du8W"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Gilles San Martin (Gilles San Martin)"
+author_url = "http://www.flickr.com/people/9082612@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/9082612@N05/4900867458"
+title = "Male human head louse"
+[[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "lice"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:oEyZamoZi-n6V7_sV0nbGGc0sYlJurHg85kpiBYtwtnRidHUhJ81Z9CLj8DFFtd6"
+href = "urn:sha384:xxGftPtfha8rbXpuEc43iJEbEQJZehurUT8LLNAvVXxnGUsEnpuRV8kOBJKvAQ-W"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Eran Finkle (Eran Finkle)"
+author_url = "http://www.flickr.com/people/32611380@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/32611380@N06/3775631069"
+title = "Head louse - כינת הראש"
 [[cards.sides]]
 type = "empty"
 
