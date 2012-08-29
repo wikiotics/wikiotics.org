@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4, 8, 12, 16, 20,]
+dividers = [ 4, 8, 12, 16, 20, 24,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -506,6 +506,60 @@ author_url = "http://www.flickr.com/people/8510225@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8510225@N07/3398259573"
 title = "Fungus"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "narcissus"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:rr0Rh1hEY8MmAuG-bjceRo7afoOOQoJyKCZMKennyNAaQpKFc_2PNacFFHz2CkkM"
+href = "urn:sha384:AhRp7cs_BbBCLm7xA11u17aTVrDM1yMUrBbQEo7ZyCnmeUFic4oEiOwoE2Vg3hD2"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Lee Coursey (Lee Coursey)"
+author_url = "http://www.flickr.com/people/73543141@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/73543141@N00/2321364479"
+title = "Narcissus in bloom in Decatur - March 2008"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "narcissi"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:FZFrFuv_Vcr5RQCUribkPb1LRKwOxGunuvUdH9gz0MQXpDLChfV0m65n9BPgyPPk"
+href = "urn:sha384:ij9RoLNX6ptnASD2ZsDtP39FKa10ku8osozEXlinAuiutLAT4JZuj6BJ0WMlsaSD"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Patrik Neckman (patrikneckman)"
+author_url = "http://www.flickr.com/people/48300695@N07/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/48300695@N07/7705490690"
+title = "Narcissus pseudonarcissus"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
