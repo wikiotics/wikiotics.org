@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4,]
+dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -169,6 +169,60 @@ author_url = "http://www.flickr.com/people/46097950@N02/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/46097950@N02/5716656729"
 title = "Oxen"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:-eFZmQO_eyvVwGyyJCf_MZKswvmJbCuTnRiSiijdMRS7bFd_rp6Dy0Ph_jGUANG_"
+href = "urn:sha384:XXG5bX5B_D0gXt0vH-2Ej7Gc03y_BGubO7Ir8uF6leQfeKBsNBgoLmnUTjhJhU4R"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "David DeHetre (davedehetre)"
+author_url = "http://www.flickr.com/people/22433418@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/22433418@N04/4741352402"
+title = "foot"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:nOt_j8gF8wNUSbIa5hlnaPLhAeNc6bDcZGJ7xJSvfrH3FAitbJP_x74rvXcnaES2"
+href = "urn:sha384:Tpds47ojzC7X_4h4kekimSA3rnPOTd8nKv20_DixeWLfhEE6f-Kxrhuz-CojnG1H"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (N1NJ4)"
+author_url = "http://www.flickr.com/people/61343210@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/61343210@N00/246575482"
+title = "Feet!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
