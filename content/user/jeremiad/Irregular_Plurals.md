@@ -579,17 +579,17 @@ text = "hippopotami or hippopotamuses"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:lw9ursPpOmayQacwovJButnSPCdqcx-wDr7BZKqGxZJjKf4N9rUJk8v0__kE2qtn"
-href = "urn:sha384:CYLamnMO9GC3jaHXvffX6rS4ro59hdJzhKmEyjwAg0_nZ33jLdmwvBXuk69VUu3-"
+blob_href = "urn:sha384:XPScPGxU-fep63izagpyBHuEZ37834-tEhKMU3FfnhE4GdTW8OpqLwAAxkCMlFt2"
+href = "urn:sha384:IF3VjNquOrWkVZGFG3MtffL5V_JD5ohK-NOsbuqXBVS7C5HnG1O3aDhhwde62FsQ"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (amanderson2)"
-author_url = "http://www.flickr.com/people/49399018@N00/"
+author = "William Warby (wwarby)"
+author_url = "http://www.flickr.com/people/26782864@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/49399018@N00/4685749035"
-title = "Hippo Pool Serengeti 2"
+original_url = "http://www.flickr.com/photos/26782864@N00/4915165869"
+title = "Hippos"
 [[cards.sides]]
 type = "empty"
 
