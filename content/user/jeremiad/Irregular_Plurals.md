@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -1094,6 +1094,48 @@ author_url = "http://www.flickr.com/people/22325431@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/22325431@N05/4039417311"
 title = "Pairs of angels, sculptures; Martyrs' Square - Place des Martyrs - Martelaarsplaats 7"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "proboscis"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:IF4Eh4eAUXCrXO7VctJAkCEEJBNooLinbcVqdcRBd5kkAukryzveYgt1ZrLi5yRy"
+href = "urn:sha384:hC6RLjx7X8AHB_7JJ28vpG-MShauMlHAMpApjwrdW6u1P0ndYa5ip39iErhtssNf"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (beachkat1)"
+author_url = "http://www.flickr.com/people/60056884@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/60056884@N07/6247271545"
+title = "Nose holes"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "probosces"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:BZn0_QO8ULpHDDAUJRiC4DbuMYnzXGy72-SCfLXnzoCilItTiYxq2SdbWj1Gs6a-"
+href = "urn:sha384:T2dVOtv-pC0sZWh1--at-2OaG4jiP8v3mQuH3DsnvauczJXMlmS54eTXIhxwr646"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (YoTuT)"
+author_url = "http://www.flickr.com/people/10088550@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10088550@N00/303094778"
+title = "Elephants"
 [[cards.sides]]
 type = "empty"
 
