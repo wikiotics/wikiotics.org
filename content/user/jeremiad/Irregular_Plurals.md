@@ -1055,6 +1055,48 @@ title = "Cherubs"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "seraph"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:2AwnVa6j3ahf_w9PkCH_LazRbSVjLAlxxy0gTtRFdjRs6ldKKOZ5FTkCF8c9hB6-"
+href = "urn:sha384:3aa76xANmLh2ek-DRySkZ71gKB1BwlLnNZqY2uMF8skb66sf3HwAPG9892LNvg8v"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Wayne  Wilkinson (wayne's eye view)"
+author_url = "http://www.flickr.com/people/66580911@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66580911@N04/7674003024"
+title = "Dies Irae"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "seraphim"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:5y-T9OBoMm0zJ0vdv5Wp1ydt3mjwAhbdHvF8KsMFsgnuiPDrsD-12eB1l5D8UUig"
+href = "urn:sha384:VP5Kb513rO0oH7y_WcDlrutEUeUda7du0VvoYz1cXL5iXcrPJJqK-MnD4nh1NJhe"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Dr Les (Leslie - Leszek) Sachs (historic.brussels)"
+author_url = "http://www.flickr.com/people/22325431@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/22325431@N05/4039417311"
+title = "Pairs of angels, sculptures; Martyrs' Square - Place des Martyrs - Martelaarsplaats 7"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
