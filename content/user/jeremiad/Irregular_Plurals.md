@@ -1188,17 +1188,17 @@ text = "fireman"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:zD-wzFFxWZDqj7LjjzJrdQ_-m_EwQkWaNlUB9CQpvUpdiNpPXtwWCyOcd0mT8R_J"
-href = "urn:sha384:ZCZFBMc9XrAfLGO6BwjxrUOUNDk_o5-QOsREGZhoi7Tfw3TrJI8H3u-BFW6yszHq"
+blob_href = "urn:sha384:VSUhn-jdxm2sTRQ1d4-47jU1cxKni18LK_kitUKI0OTXwzzbkscMND9tRcR8orOm"
+href = "urn:sha384:brnPM76Ah8tYMKbHtEn5UA4lyNWbpA0axpPmkHiGXydCxSld_3ADS1xVIbKJFN89"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Nestor Galina (nestor galina)"
-author_url = "http://www.flickr.com/people/11755553@N08/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/11755553@N08/2334057236"
-title = "Fireman"
+author = "Valerie Hepler (ICMA Photos)"
+author_url = "http://www.flickr.com/people/31418530@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/31418530@N02/3654248981"
+title = "Fireman with Hose"
 [[cards.sides]]
 type = "empty"
 
