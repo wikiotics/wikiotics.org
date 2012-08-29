@@ -1,7 +1,7 @@
 +++
 title = "Irregular Plurals"
 contributors = [ "jeremiad",]
-dividers = [ 4, 8, 12, 16, 20, 24,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -590,6 +590,48 @@ author_url = "http://www.flickr.com/people/26782864@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/26782864@N00/4915165869"
 title = "Hippos"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "alumnus"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:R6d3LnqOhwu7oYuU_7diGGHIAOcs2H8S0xKN_g0D94UgfXN_0_R_d2Txar2AOSc6"
+href = "urn:sha384:KcIbDmksuUflRod-_pb5zaVhFhPUX4jNoCcaIq_HyMoa-e_T3alH1uJHPIxkbYiG"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Rennett Stowe)"
+author_url = "http://www.flickr.com/people/10393601@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10393601@N08/4842033092"
+title = "Happy Graduate"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "alumni"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:o_T1LsntDKsSm7iPXK_P6tHzCAUxJYJTksAFo2pa_8VpOh0oMLHsTQpwFKJks2eg"
+href = "urn:sha384:nXsZ1dR-kUj9bJa5AbpaMrQq_AMuNH9Lfa9ym7RcXCC-k1D0PycMPyS5mOWIOapM"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "United Pentecostal Church (pentecostalsofoc)"
+author_url = "http://www.flickr.com/people/36558296@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36558296@N00/6277440534"
+title = "2011 Graduates"
 [[cards.sides]]
 type = "empty"
 
