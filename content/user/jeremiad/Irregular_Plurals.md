@@ -175,7 +175,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "foot"
 type = "phrase"
 
 [[cards.sides]]
@@ -196,7 +196,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "feet"
 type = "phrase"
 
 [[cards.sides]]
@@ -217,12 +217,22 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "tooth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:T3N48pOCxiV6WYQJ7f4Ana9m8qMDVu3X0md6xMfEWbMV-mW_Ez7gTyStXu3UbsOI"
+href = "urn:sha384:zmiUdvi7dRsA8QxFngrlGxtd15Y_RxljA83O2QcYS3yxtlTfR95Q0TWhLcnvt9IY"
+mime_type = "image/jpeg"
+rotation = "270"
+type = "picture"
 
+[cards.sides.credit]
+author = "Bec Plumbe (becstarr)"
+author_url = "http://www.flickr.com/people/62479404@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/62479404@N00/426341843"
+title = "one tooth, one"
 [[cards.sides]]
 type = "empty"
 
