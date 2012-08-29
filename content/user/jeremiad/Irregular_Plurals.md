@@ -719,6 +719,48 @@ title = "Sarcophagus In Cadiz's Museum"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "colossus"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:1VCSSYYzaITMWUWaU7mcxPwVd7BOd2wi3jZ22eyT3tztDdiR1OBl1hUERW_8Yhnr"
+href = "urn:sha384:9fx4ggKOH51BRBxP4GVCKvteznEWnQDXfaSt30N1h9ETedjXiHp9orsUi-2fjzCe"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jay Bergesen (jaybergesen)"
+author_url = "http://www.flickr.com/people/25887136@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/25887136@N00/3319987818"
+title = "Colossi of Memnon"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "colossi"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:-2hf0FwzH8UFznUusP8vXqL3eoP19Ejfh4lrzSJMpKQLLOVY6qFf56l4p8Wlgd6e"
+href = "urn:sha384:Wq84We2nG2E9VWK8tI4CKQL6KxJDnVX_Fl8Re_Rbn3z34ZBrnNPdaCn1bYP-Lc6L"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jerome Bon (girolame)"
+author_url = "http://www.flickr.com/people/91241612@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/91241612@N00/2429009960"
+title = "The Colossi of Memnon"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
