@@ -5,6 +5,8 @@ title = "Sandbox"
 [New Picture Choice
 lesson](/new/flashcard_deck%3Ftemplate%3Dpicture_choice)
 
+test
+
 [test?attr=something](/en/test%3Fattr%3Dsomething)
 
 [en:test?attr=something](/en/test%3Fattr%3Dsomething)
