@@ -95,12 +95,27 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/45734014@N00/139445633"
 title = "Housing"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:RF-LQULSztwUvNYfI7k911Z3hmq3lsUm8fzrOQzJWpUCl4e_uyWy5Lv4m3bgEC9V"
+href = "urn:sha384:hxjThHijQ7iWa1aEC958WBfCzxvHpRkitXqUjYf0bZI8gfxHoV3i7_R0jtvKfBI1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
