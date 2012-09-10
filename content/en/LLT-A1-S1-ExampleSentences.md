@@ -1,6 +1,6 @@
 +++
 title = "LLT-A1-S1-ExampleSentences"
-contributors = [ "213.114.82.171", "erinrussia", "ian",]
+contributors = [ "213.114.82.171", "39.47.126.43", "erinrussia", "ian",]
 headings = [ "Sentences",]
 tags = [ "A1-S1", "LLT", "example-sentences",]
 type = "lesson"
@@ -80,7 +80,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "I'm busy."
 type = "phrase"
 
 [[cards]]
