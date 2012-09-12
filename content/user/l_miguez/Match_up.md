@@ -1,6 +1,7 @@
 +++
 title = "Match up"
 contributors = [ "l_miguez",]
+dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -36,7 +37,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/38067884@N07/7247450726"
 title = "CeBIT 2012 - Showfloor Day 1"
 [[cards.sides]]
-text = "The shopping bags are yellow."
+text = "The bags are yellow."
 type = "phrase"
 
 [[cards]]
@@ -73,6 +74,78 @@ original_url = "http://www.flickr.com/photos/64726139@N03/7773868060"
 title = "The Yellow House - Event Venue"
 [[cards.sides]]
 text = "The house is yellow"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:arYbqHj62iz1wrtp9_lWivD7aDCXBN7xq4Y2q2fq6jBKeQxRledfT0NeL5f38OXy"
+href = "urn:sha384:FcesGiVaZYNLe5RNGnDPqtBo9-4Ou60npxzgVIH7t9iRwvCd3A4qe9F_1OTasMJf"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (°Florian)"
+author_url = "http://www.flickr.com/people/16634670@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/16634670@N00/6042425285"
+title = "Green bike"
+[[cards.sides]]
+text = "The bike is green."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:WM5WdYQhR9_oFAi_bFEG_Y_Kw0oN4tvjHTGIK663K_WO7xltaih7wslXiNQYSlNV"
+href = "urn:sha384:v-LVgmCT09JPGa--jOI8ShGNdpo4jBzr1NcRD_hxxrm0WMiGhAHApsh7eCc8qyi6"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Alex Proimos (Alex E. Proimos)"
+author_url = "http://www.flickr.com/people/34120957@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/34120957@N04/3927225729"
+title = "The Orange House"
+[[cards.sides]]
+text = "An orange house."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:niy-7HY0lm3iMjioqk634D-2BzKoF-lu_s5dKAnoz1Jn345eABdSRdi-H2Pt3GW2"
+href = "urn:sha384:54wMCUJodHexoVxvdteiv8Z9f_YsCgRoz0PikCLl6Sxsadv2dhdKqkmMUZn7Fxp_"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (brewbooks)"
+author_url = "http://www.flickr.com/people/93452909@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/93452909@N00/204836859"
+title = "Old car Ventura, CA"
+[[cards.sides]]
+text = "The old car is green."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:heLoSjVEXhDXCH-tGmd5IeTOKqTLuiYe6nSkF41kib7k9tWpjrKMalzZoXQ57uYQ"
+href = "urn:sha384:KI3dXNqIlAJxttt3Kuxv6S0VsbFfhNqM755Poytxjmw9IqsAHT3LFQKGiWzCWCaS"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Motohide Miwa (Moto@Club4AG)"
+author_url = "http://www.flickr.com/people/28742299@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/28742299@N04/3979269155"
+title = "Guu Watanabe \"Kao\" Purse with custom liner and pockets"
+[[cards.sides]]
+text = "An orange bag"
 type = "phrase"
 
 [[interactions]]
