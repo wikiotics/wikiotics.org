@@ -1,7 +1,7 @@
 +++
 title = "Match up"
 contributors = [ "l_miguez",]
-dividers = [ 4,]
+dividers = [ 4, 8,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -146,6 +146,78 @@ original_url = "http://www.flickr.com/photos/28742299@N04/3979269155"
 title = "Guu Watanabe \"Kao\" Purse with custom liner and pockets"
 [[cards.sides]]
 text = "An orange bag"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:YBPDoZ2z7plUCHCle7ZQ1YCWeyPLemX1d9xr9ESKDdpMP3GIHxxhS-6sHlbUiXiI"
+href = "urn:sha384:G2e3UNgxqX4xv0BiTAVZ88sdXttE4YYcH125Wlf-hVzStahbDwVLXg-f5D2-PAIO"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Bala Sivakumar (.Bala)"
+author_url = "http://www.flickr.com/people/43518209@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/43518209@N00/3205644196"
+title = "Red Door"
+[[cards.sides]]
+text = "Red doors."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:K0Gv2m6w1D9duMCIkaawMkoplu0G-pB2MIy0KiBTGVUiYm_7ybulQ3STvDxss6bH"
+href = "urn:sha384:EszshPo0yr5by6VFN3ds78Sx5JcyZZqxGeVF5gu7QTtHjDuXyk_n8f99aprFVj4c"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "James Lee (jronaldlee)"
+author_url = "http://www.flickr.com/people/37176760@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/37176760@N06/4490124998"
+title = "Red Tretorn Rubber Boots 2"
+[[cards.sides]]
+text = "The boots are red."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:yLWBR1sGmhSzKFkYYYxxXzdxt3sLigzvtpY9NLOsslDIFMErJrxDHavphKPn7DD0"
+href = "urn:sha384:oPdDutPdLzPbLpzk332-5KtKS92vEGjVqN3ym9O5662_DFUnKZTQt9dZAA5xrv7Q"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "David Wright (D H Wright)"
+author_url = "http://www.flickr.com/people/59521130@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/59521130@N00/4672242161"
+title = "Red Ducati"
+[[cards.sides]]
+text = "The motorbike is red."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:-Gvi0wy3tnerskd1TACiNxdsMEyubL1ehbpUlSIomvM4oDvfzHSXQh6ZF3WA1ViD"
+href = "urn:sha384:J-tQAzPSKrpSD9OFKMg4UvNjSZBCVL8FvrtCT6hsOP_EildNkHrZ6HE3uZkYu24r"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Amanda Slater (amandabhslater)"
+author_url = "http://www.flickr.com/people/15181848@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/15181848@N02/6910475601"
+title = "February 20th. Blue Door"
+[[cards.sides]]
+text = "A blue door."
 type = "phrase"
 
 [[interactions]]
