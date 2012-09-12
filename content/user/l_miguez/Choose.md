@@ -129,6 +129,48 @@ type = "phrase"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:DokveDfqgv-eb9V1YfbRWnqRN6Yn2d3CS_HoEMLlYIEtRi04StGyWHYkuV6Dm7yp"
+href = "urn:sha384:fDHeGndz4xdSfzKNDh9gvTGTV0Uli1rOIHnD2-GzhcERFrfJU9Q19sKFbYFQbvqd"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "David Sawyer (roarofthefour)"
+author_url = "http://www.flickr.com/people/18702768@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/18702768@N04/3278149698"
+title = "House"
+[[cards.sides]]
+text = "The houses are pink."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:bGUh5K-If-n-_Utdm98E1fKy6gJKJJRs3O1tsHH_v15d1Rz7bEhR5YncsfgUTu2Q"
+href = "urn:sha384:QqPgQ7g-OFqYlYr17DwQXyx1IvmNwunBZeZPS5i_fCcKfVZYhQkDLmemkos2QuHS"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "liz west (Muffet)"
+author_url = "http://www.flickr.com/people/53133240@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/53133240@N00/8616664"
+title = "pink Victorian"
+[[cards.sides]]
+text = "An expensive pink house."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
