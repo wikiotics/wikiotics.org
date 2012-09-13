@@ -1,6 +1,7 @@
 +++
 title = "Meetup 101"
 languageCode = "en"
+target-languages = [ "en",]
 +++
 
 Language MeetUps are a great way to practice and expand your language
