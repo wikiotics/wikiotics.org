@@ -1,6 +1,6 @@
 +++
 title = "Numbers - 20 to 100"
-contributors = [ "Laurent",]
+contributors = [ "184.198.49.69", "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "wikibabel",]
 type = "lesson"
@@ -84,7 +84,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -118,7 +118,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -152,7 +152,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -186,7 +186,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -220,7 +220,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -288,7 +288,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -322,7 +322,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -356,7 +356,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -407,7 +407,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -441,7 +441,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -475,7 +475,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -526,7 +526,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -560,7 +560,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -594,7 +594,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -628,7 +628,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -662,7 +662,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -730,7 +730,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -764,7 +764,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -798,7 +798,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
@@ -832,7 +832,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "fr"
+text = "de"
 type = "phrase"
 
 [[cards.sides]]
