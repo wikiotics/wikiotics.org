@@ -328,7 +328,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "пожалусто"
+text = "пожалуйста"
 type = "phrase"
 
 [[cards.sides]]
@@ -348,7 +348,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pojalusto"
+text = "Pojalusta"
 type = "phrase"
 
 [[cards.sides]]
@@ -445,7 +445,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Повторете."
+text = "Повторите."
 type = "phrase"
 
 [[cards.sides]]
@@ -502,7 +502,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "пожалусто"
+text = "пожалуйста"
 type = "phrase"
 
 [[cards.sides]]
@@ -559,7 +559,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Сколько стоит ?"
+text = "Сколько это стоит ?"
 type = "phrase"
 
 [[cards.sides]]
