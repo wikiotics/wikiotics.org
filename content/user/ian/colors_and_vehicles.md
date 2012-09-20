@@ -1,6 +1,6 @@
 +++
 title = "colors and vehicles"
-contributors = [ "steveska",]
+contributors = [ "ian", "steveska",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -763,84 +763,84 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a red motorcycle. "
+text = "This is a black motorcycle and a white motorcycle. "
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:WrC5MRtvyzi3dvvZEoJSVqW39StR6ZQavIWbjvDlQYSrt-NegmFc2lu-4RG-K5xn"
-href = "urn:sha384:wIoA_3Wl0pL1av_BsXshOU-OyscuU_8B2JhUnM8FwIO0ghwsZAU8wNYCjCqeeIJe"
+blob_href = "urn:sha384:wQuuncovhkqfsuIA2jnFrK3oMQPBShwdTdlBGCTw3V9LLZtMOwDc-7igp_KuIATV"
+href = "urn:sha384:9C8klVFpH7OdaoZV0mllMxQh_njjvYSCJx4JH5lKgF-VhSgHvNp7osRkoCHuDegG"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Duncan Brown (Cradlehall))"
-author_url = "http://www.flickr.com/people/23164545@N02/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/23164545@N02/3636642758"
-title = "Yamaha Motorbike"
+author = "Robert Kimberly (Mr. Kimberly)"
+author_url = "http://www.flickr.com/people/49413207@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/49413207@N00/271549185"
+title = "Blue Room Bikes 6"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is a green motorcycle."
+text = "This is a red car and a blue car."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:SdkZ9yi_cUxSnQPH2bWmQnJaypPj0ubcy_Ud2YXO6EtyWxepCzQHOB29u6lp-XbA"
-href = "urn:sha384:OJDjOV6q_vnY658EWVp1B7tTD37F5sHwGO8lwrtl7OSBnguqwRGnRcX-jg1-Repa"
+blob_href = "urn:sha384:061xUP_jtbel91dvZt6ULQZps9r5MPpSsDEe-eaXcyCJaqX1FHDyR0m63cnzSRWE"
+href = "urn:sha384:Mprs64vUMwRkHnHSPeVA7XuN6xHqJvs5OFhtirImUTKhRiXlbpCNXTJ9mKDI65bl"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Elliott Brown (ell brown)"
-author_url = "http://www.flickr.com/people/39415781@N06/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/39415781@N06/4816566640"
-title = "Green motorbike in Verona - Kawasaki"
+author = "Marco Varisco (mava)"
+author_url = "http://www.flickr.com/people/62621566@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/62621566@N00/2625862659"
+title = "two busted cars"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is a yellow boat. "
+text = "This is a yellow boat and a brown boat.. "
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:1w3LWGmNiP6P_2KabBGyBT-VSixHnIwmvH3hO4DHCiIqrHklYCb_GtF_f4ll3N9K"
-href = "urn:sha384:QCbaTGDOSuxw1akQdXyPz8g7QGnWLwTX0w2yHqWx4BD-uELaiKsG84YSkeI8G2PF"
+blob_href = "urn:sha384:dJTqz8i9jMb3K6FpVZAIC_M4AVgAMQ97Oi7eqO4nejP3xbR-frKOHVZl0faYHF24"
+href = "urn:sha384:EIjpbTlkOFuARcxdHnbwbUZmYt2GCUhzu-2_zgBw4cnA4RU9Vm5GQUfkmpymcFWB"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (George M. Groutas)"
-author_url = "http://www.flickr.com/people/22083482@N03/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/22083482@N03/2605995051"
-title = "Yellow Boat"
+author = "Garry Knight (garryknight)"
+author_url = "http://www.flickr.com/people/8176740@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/8176740@N05/3609638385"
+title = "Rowing Boats"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is a blue boat."
+text = "This is a blue truck and a white truck."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:_BdBETrkB-v0MbLllPQZMOjIe9j_fnXyG46u68zjNTzIZ8p25fvpejs6IpsYvcs6"
-href = "urn:sha384:J_YUtOq7nBNFdsmlxCCdvcnZh_4cGMc86pVek3CY62oEBxOLrIcUOiQLPS8Ej_8l"
+blob_href = "urn:sha384:ppUgp5_tU8VuTRgsufD96inQzWG3xGTVTfC4GrnMCnbgIEG6VEIVF37AtadVm50P"
+href = "urn:sha384:gM-tS1M_WSRygGM7Dex32c4Ub0Qyqz578RM6wXVm1d7TVNOWL5CNB8byaKih5TZm"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "julia Chapple (julia.chapple)"
-author_url = "http://www.flickr.com/people/33491653@N02/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/33491653@N02/5207362403"
-title = "blue boat"
+author = " (°Florian)"
+author_url = "http://www.flickr.com/people/16634670@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/16634670@N00/1805599318"
+title = "Two blue trucks"
 [[cards.sides]]
 type = "empty"
 
