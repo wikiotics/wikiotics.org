@@ -1,7 +1,9 @@
 +++
 title = "to play"
-contributors = [ "84.88.37.137", "Laurent",]
+contributors = [ "84.88.37.137", "Laurent", "ian",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "draft",]
 type = "lesson"
 target-languages = [ "en",]
 [[cards]]
