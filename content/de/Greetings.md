@@ -1,8 +1,8 @@
 +++
 title = "Greetings"
-contributors = [ "Laurent",]
+contributors = [ "Laurent", "ian",]
 headings = [ "phrase", "audio", "language", "speaker",]
-tags = [ "wikibabel",]
+tags = [ "EDL2012", "wikibabel",]
 type = "lesson"
 target-languages = [ "de",]
 source-languages = [ "en",]
