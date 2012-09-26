@@ -28,6 +28,8 @@ make a financial donation, please consider
   - [Ian Sullivan](/user/ian), President and Treasurer
   - [Jim Garrison](/user/garrison), Vice President
   - Aaron Williamson, Secretary
+  - Matthew Curinga
+  - Laurent Savaëte
 
 ## Other info
 
