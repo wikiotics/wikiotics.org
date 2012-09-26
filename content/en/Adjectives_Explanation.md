@@ -1,5 +1,5 @@
 +++
-title = "Adjectives Explanation"
+title = "Explanation"
 target-languages = [ "en",]
 +++
 
@@ -35,3 +35,8 @@ In English, adjectives are NEVER plural.
 
 You cannot say: The bigs houses. -or- The bananas are yellows. These are
 WRONG\!
+
+## Practice Lessons
+
+  - [Choose the Adjective](/en/Choose_the_Adjective)
+  - [Adjective Matchup](/en/Adjective_Match_up)
