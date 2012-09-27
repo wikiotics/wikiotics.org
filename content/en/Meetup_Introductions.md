@@ -5,7 +5,7 @@ headings = [ "Phrase", "Audio", "Speaker", "Language",]
 tags = [ "EDL2012",]
 type = "lesson"
 target-languages = [ "en",]
-source-languages = [ "af",]
+source-languages = [ "fr",]
 [[cards]]
 
 [[cards.sides]]
