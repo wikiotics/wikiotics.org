@@ -1,7 +1,7 @@
 +++
 title = "Adjective Match up"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8, 12, 16, 20,]
+dividers = [ 4, 8, 12, 16, 20, 24,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 target-languages = [ "en",]
@@ -436,6 +436,78 @@ original_url = "http://www.flickr.com/photos/28145073@N08/6672150457"
 title = "Cat"
 [[cards.sides]]
 text = "The black and white cat is happy."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:-pM59kmTpTon9WZqWTGjd0jjmvXWMbIz8ID4RUOLv0pR01f6uj6UzlOftLSeltZ7"
+href = "urn:sha384:Z9ZCcovloMostppd--AXiC_wCQtNxI124rYnJrd9X3GzP_kPYfB02WMsll2D5d91"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Tatiana Gerus (Tatters:))"
+author_url = "http://www.flickr.com/people/62938898@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/62938898@N00/3034868362"
+title = "The tree is ablaze!"
+[[cards.sides]]
+text = "The green trees have red flowers."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:9QbvcUIKpoKOHqxc-XcxNqIwEevfAuvVKkfuIfhwBfs10aT1jr4UoLT3dLwrG1rP"
+href = "urn:sha384:xAFbMsI0kMFEBoAokUk7FYlqL4Bgml9pAs1guPtaL5I-eVhMGX276aSmfxjVd10m"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Leonora Enking (wallygrom)"
+author_url = "http://www.flickr.com/people/33037982@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/33037982@N04/3450546907"
+title = "Baobab tree in the Spiny Desert"
+[[cards.sides]]
+text = "The tall tree is old."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:n8oZ8i4mNAlZ6P6lm1hToyA5XvMuON38QwzKsK14Xe3vYO5D3ND_cVkgBpipDT-f"
+href = "urn:sha384:V1VY7_UMkG_ZTKb4IUmnTXqq-3fBI6eTgVc_FSw-DuK_Ss7jtXdX6zs8JgzhNnbZ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Swaminathan (Swami Stream)"
+author_url = "http://www.flickr.com/people/21063397@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/21063397@N00/1475225158"
+title = "Tree"
+[[cards.sides]]
+text = "The tall trees are green."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:Z_2N8oAqHgEW1vxu-SRPWE90WQb0E3siJZHWXVRbrwqlq9VEcRd6_3A0iHNp0YI5"
+href = "urn:sha384:LOpw-8sHzzN3bFa9g_AMmmsqPot7gC9M9NBPrUeqs3_0YSNBTZ5AV536PL1XCYQl"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (WxMom)"
+author_url = "http://www.flickr.com/people/39456527@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/39456527@N00/1359996991"
+title = "Apple Trees"
+[[cards.sides]]
+text = "The tall green has red fruit."
 type = "phrase"
 
 [[interactions]]
