@@ -1,7 +1,7 @@
 +++
 title = "Adjective Match up"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8, 12, 16,]
+dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 target-languages = [ "en",]
@@ -236,7 +236,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/65973294@N00/2339775581"
 title = "shoes"
 [[cards.sides]]
-text = "The shoes are orange."
+text = "The shoes are red."
 type = "phrase"
 
 [[cards]]
@@ -254,7 +254,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40586164@N07/4609974270"
 title = "All God's Chllun Got Shoes"
 [[cards.sides]]
-text = "The shoes are red and purple."
+text = "The shoes are red and blue."
 type = "phrase"
 
 [[cards]]
@@ -363,7 +363,79 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/52634191@N08/4849276532"
 title = "Simplicity Cafe Table - White, Designed by Haldane Martin, Photo Jan Verboom"
 [[cards.sides]]
-text = "The white table is new."
+text = "The new white table is round."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:eoWxmhg4pjjfiwyLvSWC1vvn1ssLAbKzP7RPGMSM3lPm3v8ECoEDwM1LIqrB8h34"
+href = "urn:sha384:NneE6aeKAdxAc-_98K_CwRVz5lggQY3WVs0cAUn0aKOZtid2V7IwyS4zxv7Mwwuf"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (brittgow)"
+author_url = "http://www.flickr.com/people/26489950@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/26489950@N03/4782264442"
+title = "Black Angus bull"
+[[cards.sides]]
+text = "The big black animal is a cow."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:4Nql5eLSn-4E_UEvG3l9PiabdLDlYUhQMFZcm-j1LiGkZ3jehaml85w1iPKpk7Vw"
+href = "urn:sha384:Q6wxvI91yx9E5ra3-IdDH918m9oN6twKx1QQi8bmrfgWIUxNp5i7scNN18xmVHps"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (halfrain)"
+author_url = "http://www.flickr.com/people/54217251@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/54217251@N05/5990155428"
+title = "Sleeping"
+[[cards.sides]]
+text = ".The brown and white dog is tired."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:6KRdvS9m0hXCPkd3rP1lx9T51R6KQyuTGGNlGXYKghyOBt98J3_5XXRoReZnqOlm"
+href = "urn:sha384:vS3d5moIAtO0IlI9QkjVrdo8uTnm2Fl9NjUWZgaGOtVd6FG-CpEBi39HbLzxa6RJ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (brykmantra)"
+author_url = "http://www.flickr.com/people/35034360660@N01/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/35034360660@N01/27225538"
+title = "Schotzy's Bath"
+[[cards.sides]]
+text = "The small brown dog is wet."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:ds3O0f6YM1cwL5U8_r_XKe1e-t0xsBIU80jailBWZfYI1AN8U8XhKLSQKrl622U6"
+href = "urn:sha384:IEPDOmxTwY8kBeGY1PPzohA57BRXXlyIiYyXX2yYzzzKjkXAmVGlfF74MCfvd0IS"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Moyan Brenn (Moyan_Brenn)"
+author_url = "http://www.flickr.com/people/28145073@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/28145073@N08/6672150457"
+title = "Cat"
+[[cards.sides]]
+text = "The black and white cat is happy."
 type = "phrase"
 
 [[interactions]]
