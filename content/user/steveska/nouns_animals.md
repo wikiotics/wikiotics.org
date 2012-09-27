@@ -487,7 +487,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has wings."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -498,7 +499,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has fins."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -509,7 +511,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has hair."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -520,7 +523,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has stripes."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -531,7 +535,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has a tail. "
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -542,7 +547,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has wings."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -553,7 +559,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has a beak."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -564,7 +571,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has whiskers."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -575,7 +583,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has feathers."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -586,7 +595,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has a shell."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -597,7 +607,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has scales. "
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -608,7 +619,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has fur. "
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -619,7 +631,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal can swim. "
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -630,7 +643,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal can fly. "
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -641,7 +655,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal can not fly. "
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -652,7 +667,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal can not swim. "
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -663,7 +679,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has hooves."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -674,7 +691,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has paws."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -685,7 +703,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has a shell. "
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -696,7 +715,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This animal has tentacles."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
