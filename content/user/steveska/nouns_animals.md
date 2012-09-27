@@ -199,6 +199,102 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "Which one is a spider?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Which one is a snake?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Which one is a snail?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Which one is a scorpion?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Which one is a turtle?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Which one is a frog?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Which one is a crocodile?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Which one is a duck?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = "This animal lives on a farm."
 type = "phrase"
 
@@ -381,94 +477,6 @@ type = "empty"
 [[cards.sides]]
 text = "This animal lives in the water."
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
 
 [[cards.sides]]
 type = "empty"
