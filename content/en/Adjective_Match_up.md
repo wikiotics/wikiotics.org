@@ -1,7 +1,7 @@
 +++
 title = "Adjective Match up"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 target-languages = [ "en",]
@@ -219,6 +219,151 @@ original_url = "http://www.flickr.com/photos/15181848@N02/6910475601"
 title = "February 20th. Blue Door"
 [[cards.sides]]
 text = "A blue door."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:CRezBCYMj9gSqKL9nDdiGTg8on2iwloSgfVEZ_YGH5yTSh3CZeH3f4w_xJh_24_G"
+href = "urn:sha384:biViaw_Ez2r7SG27eUY_DJbL-1D1d6GmpxbndfRXRK0h8PA1N8XugLTiOaKkABW1"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "mark roy (electricnerve)"
+author_url = "http://www.flickr.com/people/65973294@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/65973294@N00/2339775581"
+title = "shoes"
+[[cards.sides]]
+text = "The shoes are orange."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:vymNzBppSGh8jay6Mle-MCMElfvl5bXVFwRSYQ7klY-kYFU1mHlagj2_HzxbPNpN"
+href = "urn:sha384:HV_yqErnNjZbjQw9msodQDoTLU6HmYBQ1OvKmGzmSm51Gh6fEJ-xYpPM-lDxsco4"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Mike Fisher (BFS Man)"
+author_url = "http://www.flickr.com/people/40586164@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/40586164@N07/4609974270"
+title = "All God's Chllun Got Shoes"
+[[cards.sides]]
+text = "The shoes are red and purple."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:ZE86gBm_s1iKQX0K2dQk2tKCVJa4sWoRbFrmykB2LJWDrdMFoksjqJE4CARknmzd"
+href = "urn:sha384:pd4c70X9NmNxWASLQJJILDKTz3x_Xzz4CZiOsjKBsvIqxqGqnBpx1Hl5jfGYDSGw"
+mime_type = "image/jpeg"
+rotation = "90"
+type = "picture"
+
+[cards.sides.credit]
+author = "Kim Woodbridge (kwbridge)"
+author_url = "http://www.flickr.com/people/53058637@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/53058637@N00/4037565416"
+title = "Purple Hemp Sneakers"
+[[cards.sides]]
+text = "Purple shoes."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:e1jfWOup42hdm1kfictc2p4JSnqzM9sAzaPCkuEK-9RSlcI6DiK4Ds19x69QKc23"
+href = "urn:sha384:hA3XCN3jUPhob13cusEPrdqZSRzC2b4Xgv7Lipy4toH9sHtOgOB0UdRjg8Y0Xisj"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Heather Kennedy (moria)"
+author_url = "http://www.flickr.com/people/49503029034@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/49503029034@N01/1076085228"
+title = "Purple Vegan Combat Boots"
+[[cards.sides]]
+text = "The new boots are purple."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:3k7hXi_s938wQiCu8q1glu8SJ439tane-4BdhC3QSDhWnqlOs90Mz-qf_ABIyOIf"
+href = "urn:sha384:a0qYBzTuE3NrYKzvOul-AYZru5HXw0KQ132GPZMr3aDX53zodtc92vgxcKo_kl9v"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "marc falardeau (marc falardeau)"
+author_url = "http://www.flickr.com/people/49889874@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/49889874@N05/5711167393"
+title = "BLUE TABLE, YELLOW TABLE"
+[[cards.sides]]
+text = "The tables are blue and yellow."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:Mqu2yvyHoelF6z2xwhds8Km2EHMu0RtlYuPcjmQRbZJF6D7o72JOvX3QGxjvEsjc"
+href = "urn:sha384:NThgOkiRQgXS_gKXFg01Xp7c3BkqHyZPIqsmmdV9NJcNStSNb1bOY2qJHi0qG2aw"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (dalbera)"
+author_url = "http://www.flickr.com/people/72746018@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72746018@N00/5466683414"
+title = "Table à ouvrage art nouveau (Musée des Beaux-Arts de Lyon)"
+[[cards.sides]]
+text = "An old table."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:GWn0zNpKtkBi85-ghQNDiWx5EHu0ql0p3e66BbOTVSfAfySHZcXGPAemvT3DbU4e"
+href = "urn:sha384:benEJI669CvHED37UP5LpLKlVEGZzH1WQxuRwaPe0cTlY_s5ShY0uYzGIWUAQ7zh"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Haldane Martin (HALDANE MARTIN)"
+author_url = "http://www.flickr.com/people/52634191@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/52634191@N08/4846495617"
+title = "Polyhedra modular coffee table, Designed By Haldane Martin, Photo Justin Patrick"
+[[cards.sides]]
+text = "The modern table is white."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:Cm0QjwI6HVR10_VLvQzDKRB_rH88EaWQ02GTYeg27nW6A82wmt_-G6BplVySMxbA"
+href = "urn:sha384:1r_EoL9Kbtedof3EuQJ6pYoYg3f6iL_6rMkpDDISkYEKzTUOTA37ZNTBw6LuEFXA"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Haldane Martin (HALDANE MARTIN)"
+author_url = "http://www.flickr.com/people/52634191@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/52634191@N08/4849276532"
+title = "Simplicity Cafe Table - White, Designed by Haldane Martin, Photo Jan Verboom"
+[[cards.sides]]
+text = "The white table is new."
 type = "phrase"
 
 [[interactions]]
