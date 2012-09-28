@@ -1,7 +1,7 @@
 +++
 title = "Adjective Match up"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 target-languages = [ "en",]
@@ -724,6 +724,114 @@ original_url = "http://www.flickr.com/photos/35342879@N00/105166597"
 title = "Cleaning up the mess"
 [[cards.sides]]
 text = "The room is clean and tidy."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:Tnn5gz1bhwCjZZWTeJ54qVoYR2NTxZ8htCwJeTXIT1VLBpRoxOPbHkHko-V8GcN2"
+href = "urn:sha384:hckiVuSFWRQcLtUDXxds0Ddn-XU4LjHzLzr95CUKnVrpfwqcKOMVik_xwhsJ4Cwt"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Alpha (avlxyz)"
+author_url = "http://www.flickr.com/people/10559879@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/10559879@N00/3901246983"
+title = "Fresh oysters, vegetables and chilli sauce - Bo Ssam Boiled Pork Belly - Sydney Madang Restaurant AUD27 small"
+[[cards.sides]]
+text = "This food is delicious and healthy."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:C7zrfXFSFdAnyQ6mDomPlsE5-ond-8PueF0pgFcSuZA3KY_7fw3oFijWqN-r2JVK"
+href = "urn:sha384:F_1Yxi6ClsUp0W7YuWGR_qus8MtNn45CwfAfzDOptNx23qAqs7p086sQEgAEdYKE"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (SteFou!)"
+author_url = "http://www.flickr.com/people/41614647@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/41614647@N04/6319155216"
+title = "Fast Food"
+[[cards.sides]]
+text = "Fast food is delicious but unhealthy."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:5Lwjx6bJGQ5NXc-czaWer02mjdFiXHhYNoS-TmrRMPofDmXXundAgCvVkWlsWC4Y"
+href = "urn:sha384:1cl8FcOi3k78zn70xoizB1otvUy48hZpmdtQUWVgLnDg3OGQW8cHGulcs9L7j_YU"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Fiona Henderson (fifikins)"
+author_url = "http://www.flickr.com/people/25925793@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/25925793@N00/3619593704"
+title = "Fast Food China Style"
+[[cards.sides]]
+text = "Asian food is very delicious."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:IJcEiaKSi-nPiMqUdzccGBaAMSx0eIo7nMvDTTozFo2QkcbWjEBNTH8XZU10jNA8"
+href = "urn:sha384:8dWvP5GTschE8FgA5EZUb_BS0VoI8DJ7zyDDojju28fEkd7HvfH6ioolwdDab9vV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Shawn Carpenter (spcbrass)"
+author_url = "http://www.flickr.com/people/14347196@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/14347196@N00/368281632"
+title = "Do I make you hungry?"
+[[cards.sides]]
+text = "Mexican food is hot and spicy."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:GbamzpWyVvOKR84-92noV-6xCodcfzZIQ_mCcGQXSqMVVtrzuzxjwIa1_P8PE0SJ"
+href = "urn:sha384:Xz_gwNh2CbW3HOdSiiD4AGjC5KCPv74kIuWf8f0xAxthV5lCEwj7WZ1kLEWDhVDO"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (jeffreyw)"
+author_url = "http://www.flickr.com/people/7927684@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/7927684@N03/5058084454"
+title = "Sweet potato/chorizo soup"
+[[cards.sides]]
+text = "The tomato soup is hot and creamy."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:ruA18DeqpbwwuKtCh6DsNdHRHPGCIcQJZsLUybfLfgd5-kdYYqZzsqOrZ5jA8u6x"
+href = "urn:sha384:sj0bcodTTA5pU2jkXPeFzvSgFxCB1Ih84yAeQxeNUNvGdGDjaZQK97RCyiB8bAUs"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Alpha (avlxyz)"
+author_url = "http://www.flickr.com/people/10559879@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/10559879@N00/2337446600"
+title = "鸭骨汤 Duck Bone Soup - Quanjude Melbourne"
+[[cards.sides]]
+text = "The onion soup is bland and watery."
 type = "phrase"
 
 [[interactions]]
