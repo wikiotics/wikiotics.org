@@ -103,8 +103,17 @@ type = "audio"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:23sutGssfMSbd2LL2UEXbUMeysxHqOjdlV_X9WLCLh9aaQpkfXe2imuftbJkwfGs"
+href = "urn:sha384:lpQSLzwk9S69-5muIas0Z3uDQ7ajK3Si8RePg_pTm4yL4oPHFylICrHLURs8b9wc"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Patrick Nouhailler (Nouhailler)"
+author_url = "http://www.flickr.com/people/7737054@N07/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/7737054@N07/5507110001"
+title = "Cars in Cuba - 40"
 [[cards.sides]]
 type = "empty"
 
@@ -114,8 +123,57 @@ type = "empty"
 type = "empty"
 
 [[cards.sides]]
+blob_href = "urn:sha384:RbsbaDdb9B-uEE9WuCU7gg4vvDhEBagO9yn3ZzQmoeUByodYNHT8xsQEnd7FMiMI"
+href = "urn:sha384:xi-wEkAQt0N8dEpdbHdiWaeU0qkhRsB28DegAA2j4PIKZ0w0IzoB5-C7DT_ZG8WB"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Nick Richards (nedrichards)"
+author_url = "http://www.flickr.com/people/35034348080@N01/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/35034348080@N01/169809892"
+title = "The Pink Panther Car"
+[[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:SLRszxYRH0qNeiuZj98GbkD2NeFoJGkGZYGeSChRKus4KKU-FErEqcHap9pUrdd5"
+href = "urn:sha384:zmWshht6-jD830sRFhmbjc72-U9-si43yTfp4FGxFyNfDieA0Me4-ytaeaY8SRch"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Martin Pettitt (Martin Pettitt)"
+author_url = "http://www.flickr.com/people/95012874@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/95012874@N00/2667859375"
+title = "Motor Bikes Racing At Snetterton Scanned (32)"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:fJ5wOVL2CBBZRqo6Jc5XQViqWtBico08RXtejlbA2pS-MUmMyQ2fihb8Lx1nLY0V"
+href = "urn:sha384:QHRyKubOFY3IEdD7FAyUxMKjM0t6hCYn2cJxk8rtIKBTx1SWQuo3PcvqpOW0g-s2"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Richard Masoner / Cyclelicious)"
+author_url = "http://www.flickr.com/people/99247795@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/99247795@N00/4367175430"
+title = "Urbana Bikes (blue)"
 [[cards.sides]]
 type = "empty"
 
