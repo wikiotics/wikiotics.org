@@ -1,8 +1,10 @@
 +++
 title = "Rørsle verb"
-contributors = [ "129.177.48.231", "ian",]
+contributors = [ "129.177.48.231", "Laurent", "ian",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "no",]
 [[cards]]
 
 [[cards.sides]]
