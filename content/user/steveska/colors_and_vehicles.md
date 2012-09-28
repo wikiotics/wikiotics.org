@@ -847,175 +847,103 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a blue motorcycle."
+text = "This is a blue motorcycle and a red car."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:im04A2YClE1TlV2TagkQvR-F0MrlUpPllJeNW58Af908Rt5W4VnmhuSwtYV5mux9"
-href = "urn:sha384:VHS7mgnwQ-2inTQM38EtJdqJlD7sDshP0LZYiAXeI33ucd--iWx0GuQja92JbRhz"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = "Peter Pearson (peter pearson)"
-author_url = "http://www.flickr.com/people/79476907@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/79476907@N00/1062282194"
-title = "Motorbike"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is a yellow truck. "
+text = "This is a yellow truck and a blue motorcycle. "
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:_AIPCI4Shtx3GRjASfapprh-k6c-nRr7LAxPKAkelJYMZz6bF8IfiBC9q68zKUNE"
-href = "urn:sha384:yughm259GwAafLYUGDDL3wkzykoNAkvmWSTmoB74PRLHtzoepH_tJr1rvm2zGNQ6"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = "Michael Gil (MSVG)"
-author_url = "http://www.flickr.com/people/13907834@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/13907834@N00/5194714251"
-title = "Tonka Truck"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is a blue car."
+text = "This is a blue car and a yellow truck."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:it_rLFD-qXDxLnLRitg0gdxyet-PGGGVwxQbz67cs1Xzjycu84JwEFxFh__7OZ_e"
-href = "urn:sha384:QsYbPfpOSext6EyIg_BNyZPDrJ4wp_g7VZDXDHxy0vVXoMW58EXX-rQF-2W6-Xus"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = "tiffany terry (libertygrace0)"
-author_url = "http://www.flickr.com/people/35168673@N03/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/35168673@N03/4622192358"
-title = "Blue Beetle"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is a yellow boat. "
+text = "This is a yellow boat and a green truck. "
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:1w3LWGmNiP6P_2KabBGyBT-VSixHnIwmvH3hO4DHCiIqrHklYCb_GtF_f4ll3N9K"
-href = "urn:sha384:QCbaTGDOSuxw1akQdXyPz8g7QGnWLwTX0w2yHqWx4BD-uELaiKsG84YSkeI8G2PF"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = " (George M. Groutas)"
-author_url = "http://www.flickr.com/people/22083482@N03/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/22083482@N03/2605995051"
-title = "Yellow Boat"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is a red motorcycle."
+text = "This is a red motorcycle and a yellow car."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:WrC5MRtvyzi3dvvZEoJSVqW39StR6ZQavIWbjvDlQYSrt-NegmFc2lu-4RG-K5xn"
-href = "urn:sha384:wIoA_3Wl0pL1av_BsXshOU-OyscuU_8B2JhUnM8FwIO0ghwsZAU8wNYCjCqeeIJe"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = " (Duncan Brown (Cradlehall))"
-author_url = "http://www.flickr.com/people/23164545@N02/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/23164545@N02/3636642758"
-title = "Yamaha Motorbike"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is a blue truck. "
+text = "This is a blue truck and a green boat. "
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:T7tB6YnhJ4aaGbeecBcypJGIh7KSDaE80jE2cfCO668uQxQwzOntU9GIAEomdIDK"
-href = "urn:sha384:VGpyomF6z_bybgz_kxnSsVuIuTvp-20isvNOhedetw3xS3I3VoAr_GyhRBIJjuBH"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = "Dwight Sipler (photofarmer)"
-author_url = "http://www.flickr.com/people/62528187@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/62528187@N00/7665096136"
-title = "Truck Modification"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is a red car. "
+text = "This is a red car and a yellow boat . "
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:fUfO2LW_SKP4GjVBzUmeSX68_7iXsjeea8lKRuw44IWovXLVHnOPM9HF13otUcSc"
-href = "urn:sha384:MjyGhq6k6Njkm0k6jCJ1jT6a_0_3v0x_QhUk1XqjGRB1A5E9dtYQxiOZG4wVRZ0Z"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = "Khairil Zhafri (Khairil Zhafri)"
-author_url = "http://www.flickr.com/people/26037046@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/26037046@N00/5722751191"
-title = "Red car"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is a green boat. "
+text = "This is a green boat and a red truck. "
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:50IDSuMityV_SD2Y2QA3kFb9aFya-5gIPHP6VjGGF5L93R2gH6K-PsIgmRyC7dJ0"
-href = "urn:sha384:zRE0rzDn7vrRiwTtoW8_d_F_QQBdOFwY5CeQrKw_iNVdzbLu62wmJ6kv-DBN-Vqd"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = "Randen Pederson (chefranden)"
-author_url = "http://www.flickr.com/people/48394718@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/48394718@N00/4559198379"
-title = "Green Fishing Boat"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This is a green motorcycle. "
+text = "This is a green motorcycle and a blue car. "
 type = "phrase"
 
 [[cards.sides]]
@@ -1036,7 +964,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a red truck. "
+text = "This is a red truck and a yellow truck. "
 type = "phrase"
 
 [[cards.sides]]
@@ -1057,7 +985,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a green car. "
+text = "This is a green car and a yellow truck. "
 type = "phrase"
 
 [[cards.sides]]
@@ -1078,7 +1006,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a red boat. "
+text = "This is a red boat and blue boat. "
 type = "phrase"
 
 [[cards.sides]]
@@ -1099,7 +1027,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a yellow motorcycle. "
+text = "This is a yellow motorcycle and a red car. "
 type = "phrase"
 
 [[cards.sides]]
@@ -1120,7 +1048,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a green truck. "
+text = "This is a green truck and a yellow motorcycle. "
 type = "phrase"
 
 [[cards.sides]]
@@ -1141,7 +1069,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a yellow car. "
+text = "This is a yellow car and a blue boat. "
 type = "phrase"
 
 [[cards.sides]]
@@ -1162,7 +1090,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a blue boat. "
+text = "This is a blue boat and a green truck. "
 type = "phrase"
 
 [[cards.sides]]
@@ -1183,7 +1111,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a blue motorcycle."
+text = "This is a blue motorcycle and a blue truck."
 type = "phrase"
 
 [[cards.sides]]
@@ -1204,7 +1132,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a blue truck. "
+text = "This is a blue truck and a green motorcycle. "
 type = "phrase"
 
 [[cards.sides]]
@@ -1225,7 +1153,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a green car. "
+text = "This is a green car and a blue boat. "
 type = "phrase"
 
 [[cards.sides]]
@@ -1246,7 +1174,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a yellow boat. "
+text = "This is a yellow boat and a red truck. "
 type = "phrase"
 
 [[cards.sides]]
