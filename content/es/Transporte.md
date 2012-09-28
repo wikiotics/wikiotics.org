@@ -1,8 +1,10 @@
 +++
 title = "Transporte"
-contributors = [ "216.27.154.200", "garrison",]
+contributors = [ "216.27.154.200", "Laurent", "garrison",]
+dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "es",]
 [[cards]]
 
 [[cards.sides]]
