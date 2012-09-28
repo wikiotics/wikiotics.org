@@ -1,8 +1,10 @@
 +++
 title = "Rörelseverb"
-contributors = [ "ian",]
+contributors = [ "Laurent", "ian",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
