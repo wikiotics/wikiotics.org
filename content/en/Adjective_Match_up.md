@@ -1,7 +1,7 @@
 +++
 title = "Adjective Match up"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8, 12, 16, 20, 24,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 target-languages = [ "en",]
@@ -399,7 +399,7 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/54217251@N05/5990155428"
 title = "Sleeping"
 [[cards.sides]]
-text = ".The brown and white dog is tired."
+text = "The brown and white dog is tired."
 type = "phrase"
 
 [[cards]]
@@ -435,7 +435,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28145073@N08/6672150457"
 title = "Cat"
 [[cards.sides]]
-text = "The black and white cat is happy."
+text = "The white and grey cat is happy."
 type = "phrase"
 
 [[cards]]
@@ -507,7 +507,106 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/39456527@N00/1359996991"
 title = "Apple Trees"
 [[cards.sides]]
-text = "The tall green has red fruit."
+text = "The green tree has red fruit."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:zC37wb_T1w9n93DZfFnZ4W_wh1c7QasCnq4XoiEIIT9hZEe4T4S1purEJu9h4Lg8"
+href = "urn:sha384:wISCC1m4_GIOGXvj-kRZ8qRU8_zsrsdWj7HUnNQ-CiHDsDPNsP6xUrXmwZ-MGZrB"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Taz (sporkist)"
+author_url = "http://www.flickr.com/people/17879025@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/17879025@N00/4556364523"
+title = "Shirts"
+[[cards.sides]]
+text = "The new shirts are different colours."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:k6rQ6_jm78H3Wf4WCppsHKkcAZrpa0uR-jpX77CKZNgV61NK3uZamNmOgiGvHXtf"
+href = "urn:sha384:qNmh3cj_iG7SJpJGdhIan_SRnKTWQvT1uSqija8b5HJwc8PHB7tVEI90JHPLaLKc"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Andrea (freakapotimus)"
+author_url = "http://www.flickr.com/people/55256972@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/55256972@N00/3720735589"
+title = "T-shirt Recon"
+[[cards.sides]]
+text = "The blue t-shirt is not big."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:8wiIMyajvWczi8td_1Zm2HeYOntvDme0-GTdZA98iD7zvZSad8HTcqN3Glj4GQr_"
+href = "urn:sha384:6Fkr0wciOpLe2KOCZtAi5zhDb3HAQ3_voUqx9lfg3QuCEI6bB3zOOC--sn2Wmrd1"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "inger maaike (ingermaaike2)"
+author_url = "http://www.flickr.com/people/17293359@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/17293359@N07/4749352148"
+title = "Purple summer shirt"
+[[cards.sides]]
+text = "The purple blouse is not new."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[interactions]]
