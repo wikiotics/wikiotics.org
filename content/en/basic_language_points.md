@@ -1,6 +1,7 @@
 +++
 title = "basic language points"
 languageCode = "en"
+target-languages = [ "en",]
 +++
 
 ## Basic language points
