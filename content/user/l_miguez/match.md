@@ -22,8 +22,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28742299@N04/3979269155"
 title = "Guu Watanabe \"Kao\" Purse with custom liner and pockets"
 [[cards.sides]]
-blob_href = "urn:sha384:Ac2bqQJ-TRzfcQLPOJwhsJVizNYOKwF0ovEF2lqXgjB5w6Aq3eGmMSJfXqXQcKPx"
-href = "urn:sha384:_oGdl54WmTvz6iz63yPL-6p-N8lVT76QSI4usj5DMLosRWGdO2TBjvf-ibmyv6hc"
+blob_href = "urn:sha384:iVL9tE3tE1Q3ObPiEL-W2nGAkV7cw2RW5jWgg0qw1CbHw7hCgKaKc0rlCHnQQc1h"
+href = "urn:sha384:ETw0SeWGpZMRQlmS4HURhkfm_OVI3eE_QkoTOjGTybndhSnIfwX77TLmGzuDkH67"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -92,7 +92,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40215657@N03/5301029627"
 title = "New Black Skirt I just Made!"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Ac2bqQJ-TRzfcQLPOJwhsJVizNYOKwF0ovEF2lqXgjB5w6Aq3eGmMSJfXqXQcKPx"
+href = "urn:sha384:umR15VPZzzGZcgqKqyHF457JpgGLIeJfQfSUUuhcUfq_5p-HZhrHyck09wJMbVF3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
