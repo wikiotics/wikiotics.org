@@ -1,6 +1,7 @@
 +++
 title = "Barcelona Architecture"
 languageCode = "en"
+target-languages = [ "en",]
 +++
 
   - Cathedral
