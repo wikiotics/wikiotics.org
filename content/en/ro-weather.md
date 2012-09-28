@@ -1,8 +1,9 @@
 +++
 title = "ro-weather"
-contributors = [ "84.88.37.137", "ian",]
+contributors = [ "84.88.37.137", "Laurent", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "ro",]
 [[cards]]
 
 [[cards.sides]]
