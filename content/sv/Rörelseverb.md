@@ -4,11 +4,11 @@ contributors = [ "Laurent", "ian",]
 dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
-target-languages = [ "en",]
+target-languages = [ "sv",]
 [[cards]]
 
 [[cards.sides]]
-text = "The boy is sitting"
+text = "Killen sitter."
 type = "phrase"
 
 [[cards.sides]]
@@ -28,7 +28,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The women are running"
+text = "Kvinnarna springer."
 type = "phrase"
 
 [[cards.sides]]
@@ -49,7 +49,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The woman is walking"
+text = "Kvinnan går."
 type = "phrase"
 
 [[cards.sides]]
@@ -70,7 +70,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The man is riding a bike"
+text = "Mannen cycklar."
 type = "phrase"
 
 [[cards.sides]]
@@ -91,7 +91,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The fish is swimming"
+text = "Fisken simmar."
 type = "phrase"
 
 [[cards.sides]]
@@ -112,7 +112,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The women are riding horses"
+text = "Kvinnorna rider häst."
 type = "phrase"
 
 [[cards.sides]]
@@ -133,7 +133,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The bird is flying"
+text = "Fågeln flyger."
 type = "phrase"
 
 [[cards.sides]]
@@ -154,7 +154,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The boy is swinging"
+text = "Påjken gungar."
 type = "phrase"
 
 [[cards.sides]]
