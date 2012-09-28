@@ -22,7 +22,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28742299@N04/3979269155"
 title = "Guu Watanabe \"Kao\" Purse with custom liner and pockets"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Ac2bqQJ-TRzfcQLPOJwhsJVizNYOKwF0ovEF2lqXgjB5w6Aq3eGmMSJfXqXQcKPx"
+href = "urn:sha384:_oGdl54WmTvz6iz63yPL-6p-N8lVT76QSI4usj5DMLosRWGdO2TBjvf-ibmyv6hc"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
