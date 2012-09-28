@@ -4,7 +4,7 @@ contributors = [ "Laurent", "ian",]
 dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
-target-languages = [ "en",]
+target-languages = [ "nl",]
 [[cards]]
 
 [[cards.sides]]
