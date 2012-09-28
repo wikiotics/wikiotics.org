@@ -1,8 +1,9 @@
 +++
 title = "testheather"
-contributors = [ "213.73.35.245", "ian",]
+contributors = [ "213.73.35.245", "Laurent", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "es",]
 [[cards]]
 
 [[cards.sides]]
