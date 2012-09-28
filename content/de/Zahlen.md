@@ -1,8 +1,9 @@
 +++
 title = "Zahlen"
-contributors = [ "ian",]
+contributors = [ "Laurent", "ian",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "de",]
 [[cards]]
 
 [[cards.sides]]
