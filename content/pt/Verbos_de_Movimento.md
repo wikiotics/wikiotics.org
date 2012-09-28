@@ -1,8 +1,10 @@
 +++
 title = "Verbos de Movimento"
-contributors = [ "ian", "saree",]
+contributors = [ "Laurent", "ian", "saree",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "pt",]
 [[cards]]
 
 [[cards.sides]]
