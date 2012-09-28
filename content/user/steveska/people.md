@@ -1,25 +1,13 @@
 +++
 title = "people"
 contributors = [ "steveska",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Who is a man?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Who is a woman?"
+text = "Who is an adult?"
 type = "phrase"
 
 [[cards.sides]]
@@ -55,7 +43,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Who is a male?"
+text = "Who is a teenager?"
 type = "phrase"
 
 [[cards.sides]]
@@ -67,7 +55,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Who is a female?"
+text = "Who is an adult male?"
 type = "phrase"
 
 [[cards.sides]]
@@ -79,18 +67,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
+text = "Who is an adult female?"
 type = "phrase"
 
 [[cards.sides]]
@@ -126,7 +103,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one shows a father?"
 type = "phrase"
 
 [[cards.sides]]
@@ -138,7 +115,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one shows a mother?"
 type = "phrase"
 
 [[cards.sides]]
@@ -150,7 +127,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Which one shows brothers?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -161,7 +139,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Which one shows sisters?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
