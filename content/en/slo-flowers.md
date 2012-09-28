@@ -1,8 +1,9 @@
 +++
 title = "slo-flowers"
-contributors = [ "169.231.48.249", "216.27.154.200", "84.88.37.137", "91.35.222.241", "garrison",]
+contributors = [ "169.231.48.249", "216.27.154.200", "84.88.37.137", "91.35.222.241", "Laurent", "garrison",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "sk",]
 [[cards]]
 
 [[cards.sides]]
