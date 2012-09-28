@@ -1,6 +1,7 @@
 +++
 title = "We Are New York"
 languageCode = "en"
+target-languages = [ "en",]
 +++
 
 "[We Are New
