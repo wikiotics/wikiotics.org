@@ -567,46 +567,91 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TQupXlzPVLKq29kPQxQXv8m7VwRGJOI2ZF_7V6zL2jJzq2-0Yuja2_LgNAjAa0ym"
+href = "urn:sha384:y7vR-MGWNfkWyo4Sgpx4pJclWyakEXMKUcyTYDgn2Sg1FuVhsRC-Bm36NQ44bP_F"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (brykmantra)"
+author_url = "http://www.flickr.com/people/35034360660@N01/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/35034360660@N01/29078083"
+title = "Mark & the Technicolor Dream Shirt"
 [[cards.sides]]
-text = ""
+text = "The shirt is colourful."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yzIE69-pd9tdJ5pa4xFRRY199CKWY_HPBuT9kJVZE6OtDqPQlgFHp_Mda-JnxqEz"
+href = "urn:sha384:2XCW01hDE10j-JcDPLh1nco9gVgRHngjqA3yzFI80AZ0pelcbtB7osHcT40OThvQ"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "john amato (juplife)"
+author_url = "http://www.flickr.com/people/47983457@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/47983457@N00/4626549055"
+title = "Michigan T-Shirts"
 [[cards.sides]]
-text = ""
+text = "The pretty girl has long, dark hair."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vwLyC3rbP72V-O3zelxKmscLOVAbbyPpDLay-WxiR6Od91mzyvHseaBz8Awok8BM"
+href = "urn:sha384:MNzSYmJQ-fI4Hc3tyzLMw2EvqoSFr8nX5Qd4zwqIfaob2ylPsw8QfeYfeb9QT7v-"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Bill Ward (Bill Ward's Brickpile)"
+author_url = "http://www.flickr.com/people/23501684@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/23501684@N00/145852891"
+title = "Paul's PodBrix Shirt"
 [[cards.sides]]
-text = ""
+text = "The man has brown hair and a moustache and beard."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WqSziyEGJBs7PEBtIKPKiIVvXLB8vDvyBL2svVc8E29OQb4RFYzRRzJYZBH6CTfL"
+href = "urn:sha384:LzefClEN9z4KahSBwSG5dG64Su0DcqvdYJ2enz8MQ3jCjLZXDLD5ALdJG16iTIh1"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Eddy Van 3000 (e³°°°)"
+author_url = "http://www.flickr.com/people/23566085@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/23566085@N00/7923892588"
+title = "Two smiling girls, blessed with melanocortine 1 receptor."
 [[cards.sides]]
-text = ""
+text = "The two red headed girls are pretty."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xp7jTK3L2PcvYw8Uk55kGjR3QBsvwA9SN-8QiXsc7iBvoCPGK710sd351Jfo72VO"
+href = "urn:sha384:LXcZiM3aeDarDjzR7kAdfITmDA7vB7AWo0Kf4qckqSJ7lCZYKo7YGEdtmfBMWogC"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Phil Whitehouse (Phillie Casablanca)"
+author_url = "http://www.flickr.com/people/19451080@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/19451080@N00/2052682252"
+title = "Boys will be boys"
 [[cards.sides]]
-text = ""
+text = "The young, dark haired boys are happy."
 type = "phrase"
 
 [[interactions]]
