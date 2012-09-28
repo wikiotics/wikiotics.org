@@ -1,8 +1,10 @@
 +++
 title = "El tiempo"
-contributors = [ "216.27.154.200",]
+contributors = [ "216.27.154.200", "Laurent",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "es",]
 [[cards]]
 
 [[cards.sides]]
