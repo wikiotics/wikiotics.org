@@ -1,8 +1,10 @@
 +++
 title = "Just playing"
-contributors = [ "84.88.37.137",]
+contributors = [ "84.88.37.137", "Laurent",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
