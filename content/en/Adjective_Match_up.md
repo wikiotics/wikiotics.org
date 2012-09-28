@@ -834,6 +834,42 @@ title = "鸭骨汤 Duck Bone Soup - Quanjude Melbourne"
 text = "The onion soup is bland and watery."
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:0JSvlZWKUZ3S0KKZRYYxTJaN2__G7BRz3S9_XB8x-Ds9niAPkLO6J2rV0FF0Zk75"
+href = "urn:sha384:feSI4s7gYOyKx_rrW89QjpTewVVOENX3bZ7_GWT-Ha2E87fJaJHHiptvl4Xzy0xd"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Alpha (avlxyz)"
+author_url = "http://www.flickr.com/people/10559879@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/10559879@N00/2145112149"
+title = "Spaghetti Bolognese - Michaelangelo, Aspendale Gardens"
+[[cards.sides]]
+text = "Italian food is not spicy bit it's very tasty."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:th0weWorSLjSLGL5HHhtzQhZvEg4-hsZWOxQj5OrHKvGxnDsEd3cmnB-9QYoqSpH"
+href = "urn:sha384:HNBjflF2mOi01nzYBQja9PuvfknPATayh4SZKbhZP74ENegctAZsrhvJCgMH8wpO"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Klearchos Kapoutsis (Klearchos Kapoutsis)"
+author_url = "http://www.flickr.com/people/8383084@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8383084@N06/4589719645"
+title = "Cheese of Akrotiri"
+[[cards.sides]]
+text = "This cheese is creamy but very salty."
+type = "phrase"
+
 [[interactions]]
 answer = 1
 prompt = [ 0,]
