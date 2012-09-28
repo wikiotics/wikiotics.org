@@ -1,6 +1,7 @@
 +++
 title = "Example dialogues"
 languageCode = "en"
+target-languages = [ "en",]
 +++
 
 *These were written by Ian for when we have audio lessons available on
