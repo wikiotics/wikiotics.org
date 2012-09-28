@@ -1,8 +1,10 @@
 +++
 title = "johdanto"
-contributors = [ "127.0.0.1", "216.27.154.200", "68.167.18.122", "ian",]
+contributors = [ "127.0.0.1", "216.27.154.200", "68.167.18.122", "Laurent", "ian",]
+dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "fi",]
 [[cards]]
 
 [[cards.sides]]
