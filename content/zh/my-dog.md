@@ -1,8 +1,10 @@
 +++
 title = "my-dog"
-contributors = [ "127.0.0.1", "ian", "jchan",]
+contributors = [ "127.0.0.1", "Laurent", "ian", "jchan",]
+dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "zh",]
 [[cards]]
 
 [[cards.sides]]
