@@ -391,7 +391,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is cereal."
 type = "phrase"
 
 [[cards.sides]]
@@ -403,7 +403,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is an egg."
 type = "phrase"
 
 [[cards.sides]]
@@ -415,7 +415,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is bacon."
 type = "phrase"
 
 [[cards.sides]]
@@ -427,7 +427,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is a bagel."
 type = "phrase"
 
 [[cards.sides]]
@@ -439,7 +439,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is steak."
 type = "phrase"
 
 [[cards.sides]]
@@ -451,7 +451,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is pizza."
 type = "phrase"
 
 [[cards.sides]]
@@ -463,7 +463,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is pasta."
 type = "phrase"
 
 [[cards.sides]]
@@ -475,7 +475,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is salad."
 type = "phrase"
 
 [[cards.sides]]
@@ -487,7 +487,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a dessert?"
 type = "phrase"
 
 [[cards.sides]]
@@ -499,7 +499,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which food is for breakfast?"
 type = "phrase"
 
 [[cards.sides]]
@@ -511,7 +511,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which food is for dinner?"
 type = "phrase"
 
 [[cards.sides]]
@@ -523,7 +523,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a fruit?"
 type = "phrase"
 
 [[cards.sides]]
@@ -535,7 +535,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a drink?"
 type = "phrase"
 
 [[cards.sides]]
@@ -547,7 +547,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which food is for dinner?"
 type = "phrase"
 
 [[cards.sides]]
@@ -559,7 +559,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which food is for breakfast?"
 type = "phrase"
 
 [[cards.sides]]
@@ -571,7 +571,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a vegetable?"
 type = "phrase"
 
 [[cards.sides]]
@@ -583,7 +583,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a drink?"
 type = "phrase"
 
 [[cards.sides]]
@@ -595,7 +595,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which food is for dinner?"
 type = "phrase"
 
 [[cards.sides]]
@@ -607,7 +607,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which food is for breakfast?"
 type = "phrase"
 
 [[cards.sides]]
@@ -619,7 +619,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a dessert?"
 type = "phrase"
 
 [[cards.sides]]
@@ -631,7 +631,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a fruit?"
 type = "phrase"
 
 [[cards.sides]]
@@ -643,7 +643,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a vegetable?"
 type = "phrase"
 
 [[cards.sides]]
@@ -655,7 +655,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is for dinner?"
 type = "phrase"
 
 [[cards.sides]]
@@ -667,7 +667,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is for breakfast?"
 type = "phrase"
 
 [[cards.sides]]
@@ -679,7 +679,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a fruit?"
 type = "phrase"
 
 [[cards.sides]]
@@ -691,7 +691,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a vegetable?"
 type = "phrase"
 
 [[cards.sides]]
@@ -703,7 +703,19 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a dessert?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Which food is for dinner?"
 type = "phrase"
 
 [[cards.sides]]
