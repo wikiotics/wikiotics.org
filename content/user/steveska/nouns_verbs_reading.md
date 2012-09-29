@@ -343,7 +343,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The woman is talking on the telephone."
 type = "phrase"
 
 [[cards.sides]]
@@ -355,7 +355,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The man is reading a newspaper."
 type = "phrase"
 
 [[cards.sides]]
@@ -367,7 +367,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The child is talking on the telephone."
 type = "phrase"
 
 [[cards.sides]]
@@ -379,7 +379,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is a newspaper."
 type = "phrase"
 
 [[cards.sides]]
@@ -391,7 +391,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is a book."
 type = "phrase"
 
 [[cards.sides]]
@@ -403,7 +403,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The man is reading a newspaper."
 type = "phrase"
 
 [[cards.sides]]
@@ -415,7 +415,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is a textbook."
 type = "phrase"
 
 [[cards.sides]]
@@ -427,7 +427,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The child is reading a textbook."
 type = "phrase"
 
 [[cards.sides]]
@@ -439,7 +439,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The woman is using a computer."
 type = "phrase"
 
 [[cards.sides]]
@@ -451,7 +451,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The woman is writing."
 type = "phrase"
 
 [[cards.sides]]
@@ -463,7 +463,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The woman reading a newspaper."
 type = "phrase"
 
 [[cards.sides]]
@@ -475,7 +475,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The child is reading a book."
 type = "phrase"
 
 [[cards.sides]]
