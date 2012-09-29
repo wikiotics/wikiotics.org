@@ -487,7 +487,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The television is on."
 type = "phrase"
 
 [[cards.sides]]
@@ -499,7 +499,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The television is off."
 type = "phrase"
 
 [[cards.sides]]
@@ -511,7 +511,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The book is open."
 type = "phrase"
 
 [[cards.sides]]
@@ -523,7 +523,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The book is closed."
 type = "phrase"
 
 [[cards.sides]]
@@ -535,7 +535,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The computer is on."
 type = "phrase"
 
 [[cards.sides]]
@@ -547,7 +547,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The computer is off."
 type = "phrase"
 
 [[cards.sides]]
@@ -559,7 +559,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The textbook is open."
 type = "phrase"
 
 [[cards.sides]]
@@ -571,7 +571,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The book is open."
 type = "phrase"
 
 [[cards.sides]]
@@ -583,7 +583,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The magazine is closed."
 type = "phrase"
 
 [[cards.sides]]
@@ -595,7 +595,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The magazine is open."
 type = "phrase"
 
 [[cards.sides]]
@@ -607,7 +607,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The telephone is open."
 type = "phrase"
 
 [[cards.sides]]
@@ -619,7 +619,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The telephone is closed."
 type = "phrase"
 
 [[cards.sides]]
@@ -631,7 +631,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The newspaper is open."
 type = "phrase"
 
 [[cards.sides]]
@@ -643,7 +643,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The newspaper is closed."
 type = "phrase"
 
 [[cards.sides]]
@@ -655,7 +655,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The magazine is open."
 type = "phrase"
 
 [[cards.sides]]
@@ -667,7 +667,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The book is open."
 type = "phrase"
 
 [[cards.sides]]
@@ -679,7 +679,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The computer is on."
 type = "phrase"
 
 [[cards.sides]]
@@ -691,7 +691,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The television is on."
 type = "phrase"
 
 [[cards.sides]]
@@ -703,7 +703,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The computer is off."
 type = "phrase"
 
 [[cards.sides]]
@@ -715,7 +715,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "The television is off."
 type = "phrase"
 
 [[cards.sides]]
