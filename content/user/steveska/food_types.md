@@ -55,7 +55,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is water"
 type = "phrase"
 
 [[cards.sides]]
@@ -67,7 +67,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is milk."
 type = "phrase"
 
 [[cards.sides]]
@@ -79,7 +79,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is juice."
 type = "phrase"
 
 [[cards.sides]]
@@ -91,7 +91,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is tea."
 type = "phrase"
 
 [[cards.sides]]
@@ -103,7 +103,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is lettuce."
 type = "phrase"
 
 [[cards.sides]]
@@ -115,7 +115,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is a pepper."
 type = "phrase"
 
 [[cards.sides]]
@@ -127,7 +127,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is an onion."
 type = "phrase"
 
 [[cards.sides]]
@@ -139,7 +139,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is a potatoe."
 type = "phrase"
 
 [[cards.sides]]
@@ -151,7 +151,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is cake."
 type = "phrase"
 
 [[cards.sides]]
@@ -163,7 +163,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is a cookie."
 type = "phrase"
 
 [[cards.sides]]
@@ -175,7 +175,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is a donut."
 type = "phrase"
 
 [[cards.sides]]
@@ -187,7 +187,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "This is ice cream"
 type = "phrase"
 
 [[cards.sides]]
@@ -199,7 +199,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a fruit?"
 type = "phrase"
 
 [[cards.sides]]
@@ -211,7 +211,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a vegetable?"
 type = "phrase"
 
 [[cards.sides]]
@@ -223,7 +223,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a dessert?"
 type = "phrase"
 
 [[cards.sides]]
@@ -235,7 +235,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a drink?"
 type = "phrase"
 
 [[cards.sides]]
@@ -247,7 +247,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a drink?"
 type = "phrase"
 
 [[cards.sides]]
@@ -259,7 +259,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a fruit?"
 type = "phrase"
 
 [[cards.sides]]
@@ -271,7 +271,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a vegetable?"
 type = "phrase"
 
 [[cards.sides]]
@@ -283,7 +283,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a dessert?"
 type = "phrase"
 
 [[cards.sides]]
@@ -295,7 +295,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a dessert?"
 type = "phrase"
 
 [[cards.sides]]
@@ -307,7 +307,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a vegetable?"
 type = "phrase"
 
 [[cards.sides]]
@@ -319,7 +319,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a drink?"
 type = "phrase"
 
 [[cards.sides]]
@@ -331,7 +331,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a fruit?"
 type = "phrase"
 
 [[cards.sides]]
@@ -343,7 +343,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a drink?"
 type = "phrase"
 
 [[cards.sides]]
@@ -355,7 +355,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a vegetable?"
 type = "phrase"
 
 [[cards.sides]]
@@ -367,7 +367,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Which one is a dessert?"
 type = "phrase"
 
 [[cards.sides]]
@@ -379,19 +379,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
+text = "Which one is a fruit?"
 type = "phrase"
 
 [[cards.sides]]
