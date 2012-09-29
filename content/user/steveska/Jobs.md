@@ -307,7 +307,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a fireman;"
+text = "This is a fireman."
 type = "phrase"
 
 [[cards.sides]]
