@@ -115,7 +115,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/7737054@N07/5507110001"
 title = "Cars in Cuba - 40"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:NvdOhAYD0WLi5bUm2g4oqcITt1UVpMjNmZG7aJ456CI285WauTEYLDVwziMbxXTk"
+href = "urn:sha384:qahEfDRP0HRFPuNkx31-GhylPltm3MzsrPCRBPe3wd-BxC74-uD-O4D5g3aPGnkv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -135,7 +138,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/35034348080@N01/169809892"
 title = "The Pink Panther Car"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JP4Af4XnZ80r1x7SsrZRpWftO70rRBy8N3_8Pp8hIuLTS6-BCw34MN7uCRtpk3lk"
+href = "urn:sha384:juURFqrXQU3wxkz_ELhLQlAzv_K1lHsKqsLvuTXlivJ0iv41lGgPK2oDPbigXsgd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -155,7 +161,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/95012874@N00/2667859375"
 title = "Motor Bikes Racing At Snetterton Scanned (32)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DgQQqDQQQZyigSiq5_lCiSasKFbQ1ZG00_ef5zwHGZbeUfAR1pnVswChyytEJLnx"
+href = "urn:sha384:evef5Y1vB2F0nR1BtYLAC9vS_w6W3usoRllHvO37lcnvR86DIBwWmFOCv8v78EAc"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -175,7 +184,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/99247795@N00/4367175430"
 title = "Urbana Bikes (blue)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:b75JTcp_PQ4E78YufzMzx9avksvjHAMZzkM7w2iVE4JhAcEr5BIMgKakV_qPvYYI"
+href = "urn:sha384:EoEX-tP7KPt5xgZxVItfZ0tlYlysQrLT33YWfnKkq96Xu5FH2NhoJsGt4lFD86JR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
