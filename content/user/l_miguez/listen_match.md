@@ -365,8 +365,8 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[interactions]]
-answer = 2
-prompt = [ 0, 2,]
+answer = 1
+prompt = [ 1, 2,]
 type = "choice"
 
 +++
