@@ -224,7 +224,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The old wooden chair is brown and green."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:WMvwlYpm0NRiofms2vyEW3bkKmRuy7z2hw98Qo31KHPsLytMRx-IZC693lFs52-D"
@@ -239,12 +240,16 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/58109753@N00/6867873676"
 title = "Green chair"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zSjFRMVPRq7IW-YOHZddg9COdotAYYusOwGNpTDNh2x2zil2n_m5c_wz1Q38qlAN"
+href = "urn:sha384:IRrgwdfT9CMCicLPPE2x2GYpT9kKfPax0y2pJcxTI4wA5y9I2CWFh_-NzBGRDycg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The new plastic chairs are red and yellow."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Sld8nFqR6Sy81T5pLccOfGtF8pEa1oDhNjqUIFixsIMLlM6qPnSk7q9ByuuIKV4I"
@@ -259,15 +264,16 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/14766679@N00/2911681783"
 title = "Chairs"
 [[cards.sides]]
-blob_href = "urn:sha384:QtS4bbP6YO_lnCvdjaUkxI8vqECirrB77n8Dv5Tl2A7AG3_FABjbzFvFJBVmzBPj"
-href = "urn:sha384:zan798iRuGCS9ggPnzYa94bDQ1e-E2sOjG8B0-F_Y1TnPa4UVXY-XVLK5Xd0MM5a"
+blob_href = "urn:sha384:HwEUVT6KxHH1WXIPTk_LisX_iGW-yGwu5_FnF4sa7fqO-2aRF9_z_Y9Y-oWvaHU_"
+href = "urn:sha384:LQNnKValN6w4oQiwirJfxZfVLcXRr6VhQGT_913ms5Aq-PaD0TKgHUMbmNRqBUEd"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The blue and white bag is new and sporty looking."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:2vHnJg1bZWPb3JNM2iv_85EXOoVQN83lidiJXVm6JV6BBQ6RupQMSOaVhgZBp68T"
@@ -290,7 +296,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The black house is modern but ugly."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:YWXCGJ0olVcyg4Lcw1sigbPYK927Ud6otND2HHPxaEo_k7xLgqQAMISM37ZFg49x"
@@ -305,15 +312,16 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/94852245@N00/2263988203"
 title = "bbb low-cost housing, tegnestuen vandkunsten"
 [[cards.sides]]
-blob_href = "urn:sha384:BDq8TBpYN6fzjcevM5imVt0N-5aPT366I35c5AfMXb0HT6jBstL7t7AiEMeV08wO"
-href = "urn:sha384:GIVmA3fUmsHlohCIg_-DmC5OSST001d3nd3t6Eru7EZpV58wnVoj5Qxgx2voojUx"
+blob_href = "urn:sha384:GBoRgzIRZwhA3j2Prt0jnZWtNdl56ERrTi1fUGkcvVp8pgL_9L_HhDrWNxEgCAMI"
+href = "urn:sha384:WKlXiKRJxYEbdQdxZniLhUx_bnwlzV4xaia4MKb1JLkkC5vcbf1FxslyFZfWAEfz"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The small house is in an old tree."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:50fibLadEmwnr_EqSlBSYG_EJr4SBx4A5vYPw_jDVsT3UedpId7iW1weWf49XkFO"
@@ -329,14 +337,15 @@ original_url = "http://www.flickr.com/photos/21372046@N00/4814405297"
 title = "Tree House "
 [[cards.sides]]
 blob_href = "urn:sha384:UgyzFViI-rbaM8JJ6Olr7W2p49edBJS1y-BLllOihtkwALJTnNJQTYcIdcTajfv_"
-href = "urn:sha384:9IaatYIabIYVw6PSHiuWJYMOz7KHvGBMQS7bEm4ZPfryvgvIts_JIvJ144IAMNZY"
+href = "urn:sha384:-RoDNnYZKnMCYoPO-PgKwu2k4Fbi7_EYVU3W09PIbwWd9_NpwHvQKbuiEkI93cC4"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The small but colorful houses are pretty."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:OpnoAoVFxaYHHFZt3DFyKaa96h73OWVx0wwn5iUjrx2RLAIYSV4AJ38uVb14FgD1"
@@ -351,15 +360,16 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/74227781@N00/1097366731"
 title = "Houses all in a row"
 [[cards.sides]]
-blob_href = "urn:sha384:Ck_VOmPdICXe7-PRLz_81d9n9-7oYX_atcgarw1vJV4hjTFqe-DRlUwviAKeUGNH"
-href = "urn:sha384:cmEJAt0rmBG7MboBN2J8Zk5iAtKz2US325hgq_k_2N_q1LODMORdC2kJCbQI6J-S"
+blob_href = "urn:sha384:Bqow6ew8MvlQqtU6iD4HznW15g03XxcbHHrhc85-pAy5hXfzOx7IBKKvNgZlYCbV"
+href = "urn:sha384:yTKI5fiIs_2J151rGDCZonXRGdV9A_S1GYIJLAt2PpSB9WwJbHaqCS8BJJO7wz3y"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The old stone house is very big."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:OgvhOf1UQnqdq8LUMYbeTtPvXRXkF4KQhlFMWVack1_a6IPeYXxb1Fw15KeAjZqt"
@@ -374,15 +384,16 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/29057345@N04/5445382446"
 title = "Belton House"
 [[cards.sides]]
-blob_href = "urn:sha384:gXswGGymNgRYKPmvKaQqyWfr3UZOc85ebigmRrccWbWR9LlDfQaGfvKQxoYSIPcg"
-href = "urn:sha384:1gysdvnFwCK_kV5liq9ANBL7v81eCFlzHkJbhMEtSVv-QY8042n7lRQzieakZE1W"
+blob_href = "urn:sha384:VdOfb8O9T-pBY0Yc223MZVQH_7t1XNB-yWLNPHkuSRgY5T558QHZw_KD4PQJmZuM"
+href = "urn:sha384:u8gcW59R6Y_uE9DtExnJy3c2ypX8IDEw-D4p0d-FD0SCWdJ_XqDc_WCV7sRb1uyg"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The small and orange cats are curious."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:VO-hru3k4tt9rIfH1bw56drBSEc2yqk06uguy8k0M9jTp5d63HIe8Yw3FtA8uvVb"
@@ -398,14 +409,15 @@ original_url = "http://www.flickr.com/photos/30447586@N00/170497393"
 title = "Today's Cat@20060619"
 [[cards.sides]]
 blob_href = "urn:sha384:MsANIEdeh18WKIXR50DTXQA5oaUPZ-58vT49TZMGVgl1WYagtMkdWdmBFG3z4JjW"
-href = "urn:sha384:NX75db2_pqoH-vqen-eJQFAd0TeqU0hgZ4IEPebu7Szun7maLaTKBj_RlhxOW8zZ"
+href = "urn:sha384:6-s84sQRntgXMFFZjkLRLgGOGqow3YUq6jlVXn0y_-96Zt3RE5aCK8DATmC3A2dV"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The orange and white cats are tired."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:h4hiOJTsfgim439zpxbcdx069StKAkj9XB-es3v_ER6_fErOd6yN4hh61qu0-Xnf"
@@ -420,15 +432,16 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/61132483@N00/20952852"
 title = "Cat flat"
 [[cards.sides]]
-blob_href = "urn:sha384:fWhP8ZkmvONRVlMe1QIzpMYkk2RhFZAgH2aZgPyThhtd0wioLM93eCApvrStrwzO"
-href = "urn:sha384:5Yt05lCXnhs852q4PuoyaHDq7QHhjF5ZFA4TXx9-trq7z6FrNC-6XsXLnW245NIc"
+blob_href = "urn:sha384:Qn8HpbOwHQG9TI0K1O-jg_o0Sm_ZUUc9u8L19lZFSNTFTwQ1GKU0qtIwRIOYN31A"
+href = "urn:sha384:OfrSkghGbvYddJ6qK464dlWgegevIvOb6vP1jd2JNVfC-Znba1n39bpspuyd9Jov"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The young dogs are playful."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:XwHqhsKhtL4M8VnNKBknD8t8tGm6ALtx7roCALeud5a5Swnr_4yuueoj0KKrZijD"
@@ -443,15 +456,16 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/78428166@N00/4855528696"
 title = "Dog Pile"
 [[cards.sides]]
-blob_href = "urn:sha384:4B3T4eWB3sw75Q1urraIIP6OZh6S4hNRZ6QpylRYAAxG9FedH_X9vc2FAxLDfs7n"
-href = "urn:sha384:9monJ8G-VIqyFeOqZ9f2eEfmV2Cpo58YNtHIb_UeY5A-u9ZFkNdVsWqVF0q5GwkU"
+blob_href = "urn:sha384:8_7xPh9XmhM0lpdJHxvUEymi7yslPoYIpfQeO-F6iWpezv4HQfMJKANWWzPZoKnb"
+href = "urn:sha384:o5Gniup7FEenhpNe3GQo19mWn0QOi-zNQ96uSBkTZpz7RYz2d472cfsW-gHLTwym"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The little dog is not thirsty, he is hungry."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:GjldCa3PextZpbRWRLXEXKPRxQzxGJaHoSbHwBdUOcqHurmxb3J7pd_NfhRIDI7i"
@@ -466,15 +480,16 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/51035566865@N01/1118715"
 title = "funny dog"
 [[cards.sides]]
-blob_href = "urn:sha384:1iaacHTw_9okUITfniw9Jyt5yenJKAxXooO-dSUuoqQSRKCOis39SpY2ZQXh_Ylq"
-href = "urn:sha384:80VBeucP-nIIEtVEJkBv_Xdud-CPONZITo-Dvmiimo_G5lScFYUw7ikRvo8sYiJB"
+blob_href = "urn:sha384:J6ZHQC30qi-fEyPGRouSGdAveGSqv-f6Bo3i0OzeRVQ3mpQENBXA41CJ2qyz76US"
+href = "urn:sha384:93OULCNbx-SJ06pwbgImphm0vaxOBagwAPXKyQEAtqBGwyRuRjjMHkNZOzwpFO6t"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The girl with long dark hair is happy."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:FwE3pU1qXIaCb8oXRlEkRqQxnwt1QUTKG9ElNCxXNo-hGRqpq4IFqIwcPSQefcGj"
@@ -497,7 +512,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The girl with blond hair is cold."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:_mqqWfAu6v-1RP4vqQie94NxwdIjwwAzsi3kxgPplduM9LvpNTjcB6cDIw4rfd1_"
@@ -520,7 +536,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The young boy is not happy, he is angry."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:SLtoJjinXk6OTaCGKqmlj-arMypw6ZgK3CA1hlulNGKwZ6o1386jQgSK2CHIy_UT"
@@ -543,7 +560,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The old man is not angry, he is happy and smiling."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Ou5-zGDwRCvNI8J40Cb2yzwQpNsg0GFlbAWmmwVkPJClgpAo5yjGO8ysCB1apGob"
