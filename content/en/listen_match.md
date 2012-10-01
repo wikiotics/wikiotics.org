@@ -1,6 +1,6 @@
 +++
 title = "listen match"
-contributors = [ "l_miguez",]
+contributors = [ "207.86.247.126", "l_miguez",]
 dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -365,8 +365,8 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[interactions]]
-answer = 1
-prompt = [ 1, 2,]
+answer = 0
+prompt = [ 2,]
 type = "choice"
 
 +++
