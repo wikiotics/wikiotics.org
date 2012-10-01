@@ -253,8 +253,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/14766679@N00/2911681783"
 title = "Chairs"
 [[cards.sides]]
-blob_href = "urn:sha384:QtS4bbP6YO_lnCvdjaUkxI8vqECirrB77n8Dv5Tl2A7AG3_FABjbzFvFJBVmzBPj"
-href = "urn:sha384:zan798iRuGCS9ggPnzYa94bDQ1e-E2sOjG8B0-F_Y1TnPa4UVXY-XVLK5Xd0MM5a"
+blob_href = "urn:sha384:HwEUVT6KxHH1WXIPTk_LisX_iGW-yGwu5_FnF4sa7fqO-2aRF9_z_Y9Y-oWvaHU_"
+href = "urn:sha384:6pv1siFAjujKUMX4kaQB3moj2QEagco0bkbgEQT7Nwk4BFO87sRIBTJONGW608ll"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -299,7 +299,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/94852245@N00/2263988203"
 title = "bbb low-cost housing, tegnestuen vandkunsten"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GBoRgzIRZwhA3j2Prt0jnZWtNdl56ERrTi1fUGkcvVp8pgL_9L_HhDrWNxEgCAMI"
+href = "urn:sha384:O3mgsJd63XUu7rZoJ61kzOKJeO8vTv-CxkbHnL5XB29bM4ZEJHIVqwYgIdVwlCUi"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -319,7 +322,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/21372046@N00/4814405297"
 title = "Tree House "
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UgyzFViI-rbaM8JJ6Olr7W2p49edBJS1y-BLllOihtkwALJTnNJQTYcIdcTajfv_"
+href = "urn:sha384:BIUS6uTI4qUkJ99BwffND_g8UWk1-NORrit9dFV9_mWhY02pj2bjTIGdKLyUmyLL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -339,7 +345,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/74227781@N00/1097366731"
 title = "Houses all in a row"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Bqow6ew8MvlQqtU6iD4HznW15g03XxcbHHrhc85-pAy5hXfzOx7IBKKvNgZlYCbV"
+href = "urn:sha384:s4Ij3eNJACm4C7nfnkKfgW_nqoAT6Wk6ZtyvM4gv3YyINQmzjJRpH1Unat8IHHKV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -359,7 +368,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/29057345@N04/5445382446"
 title = "Belton House"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VdOfb8O9T-pBY0Yc223MZVQH_7t1XNB-yWLNPHkuSRgY5T558QHZw_KD4PQJmZuM"
+href = "urn:sha384:YASxA9LfMOGnvb7YmphQMRuEI-AlCgOW5oSUiNQOZstnvArg0DrQZ55n7HkS0El_"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -379,7 +391,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/30447586@N00/170497393"
 title = "Today's Cat@20060619"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:MsANIEdeh18WKIXR50DTXQA5oaUPZ-58vT49TZMGVgl1WYagtMkdWdmBFG3z4JjW"
+href = "urn:sha384:0B6KazjLFPdN1uuhLQMtPU-agyBom-tVjoovBqJdPhiSlgiMjGWr_4MgDRkvInBF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -399,7 +414,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/61132483@N00/20952852"
 title = "Cat flat"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Qn8HpbOwHQG9TI0K1O-jg_o0Sm_ZUUc9u8L19lZFSNTFTwQ1GKU0qtIwRIOYN31A"
+href = "urn:sha384:tWWXJi8HHWlSI0HL5D-C5q-a0Ch1_uH6MBADK60vvNc4mp9pH-DzZ2rsJGeopJDF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -419,7 +437,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/78428166@N00/4855528696"
 title = "Dog Pile"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8_7xPh9XmhM0lpdJHxvUEymi7yslPoYIpfQeO-F6iWpezv4HQfMJKANWWzPZoKnb"
+href = "urn:sha384:ZW-hPTDOGrSa5YC3-TYSXwInr_P0UgpT8CHVkafrdiBj4BDq7UnkmzmP31bxLZkX"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -439,7 +460,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/51035566865@N01/1118715"
 title = "funny dog"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:J6ZHQC30qi-fEyPGRouSGdAveGSqv-f6Bo3i0OzeRVQ3mpQENBXA41CJ2qyz76US"
+href = "urn:sha384:gc1cIPmrmL98kI6h9600pbPORE8n3Wk44XbwAcKbiSOs8Itk5wyXpfS3mX2p_3Bd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
