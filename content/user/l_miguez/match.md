@@ -207,8 +207,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/31437555@N00/4392418334"
 title = "Brown Bag (with staple)"
 [[cards.sides]]
-blob_href = "urn:sha384:zyDxpATfVjFBT55H1RJ-sHUDR1kosAHk8Z_mLV8sD8kvrRy_q8SS5NiGqi_XPsfJ"
-href = "urn:sha384:AP1ETiYVg2eYdsvWTw2ZiEoVqM7FLCFOT-84nK6jybvjsDF08aLWfdLNWLKe0yXJ"
+blob_href = "urn:sha384:qaGG8-65PHRXhqe8BG1hxYDm8-Qz--o-orj2BIvsCtMHCYZT0sefeXiWE_jkNp9F"
+href = "urn:sha384:39Zgl7ywt3GRIQpuLQ_6YxPSSOp34iciYbyhE69cU-glBwuW5nBLBa1zg_1Z5LVA"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -230,10 +230,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/58109753@N00/6867873676"
 title = "Green chair"
 [[cards.sides]]
-blob_href = "urn:sha384:ZGhT6leXNedfwUCESu1NEt3omOhaG8t-f6itigIZD0q7DKA19RTTrhLyOl2CmbUb"
-href = "urn:sha384:R2wGLFq8NRgleaGntCHJmlrIjp5fO9neFQznnjzPOVVM-tXW2ekXeazCy8yyGsoN"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
