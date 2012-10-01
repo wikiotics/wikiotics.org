@@ -1,7 +1,7 @@
 +++
 title = "match"
 contributors = [ "l_miguez",]
-dividers = [ 4,]
+dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -174,6 +174,86 @@ author_url = "http://www.flickr.com/people/99247795@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/99247795@N00/4367175430"
 title = "Urbana Bikes (blue)"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:2qeiKe7GnvuMcmiYBHGdlZ8BKS_fuxIwXI1EiqVFe6sPTUddK7i3RMhq71UG5C1t"
+href = "urn:sha384:hu2PJTclpIatn3qYOf0E8qNAOtn3dK7IGkLGi0xzhfxz0e-c2ui8h-ZGYjQNbOag"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jeffrey Beall (Jeffrey Beall)"
+author_url = "http://www.flickr.com/people/31437555@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/31437555@N00/4392418334"
+title = "Brown Bag (with staple)"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:WMvwlYpm0NRiofms2vyEW3bkKmRuy7z2hw98Qo31KHPsLytMRx-IZC693lFs52-D"
+href = "urn:sha384:1wYWYVuFSvwHHeSzqIUaKblXF-o82lkg7Zg2n-hOWEm8pHPvdfTI7fdIWpykD_Cc"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Stew Dean (Stew Dean)"
+author_url = "http://www.flickr.com/people/58109753@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/58109753@N00/6867873676"
+title = "Green chair"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Sld8nFqR6Sy81T5pLccOfGtF8pEa1oDhNjqUIFixsIMLlM6qPnSk7q9ByuuIKV4I"
+href = "urn:sha384:03OlgdWFB5kQdjy2tV1zapoNTD3rdyCdprCNJ3FF-Xad7dGRm5G7T940S5FQhgWx"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Matthew Colvin de Valle (matthew.devalle)"
+author_url = "http://www.flickr.com/people/14766679@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/14766679@N00/2911681783"
+title = "Chairs"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:2vHnJg1bZWPb3JNM2iv_85EXOoVQN83lidiJXVm6JV6BBQ6RupQMSOaVhgZBp68T"
+href = "urn:sha384:Q8Wg6z-Z_mjsHqdb5ScDFDVkPD914sPv20eWVZS_iKkRpWdk_zos2ii7f6xapeow"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Luz (Nieve44/Luz)"
+author_url = "http://www.flickr.com/people/20978349@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/20978349@N00/2286150279"
+title = "The Bag!"
 [[cards.sides]]
 type = "empty"
 
