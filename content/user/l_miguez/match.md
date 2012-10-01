@@ -230,7 +230,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/58109753@N00/6867873676"
 title = "Green chair"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zSjFRMVPRq7IW-YOHZddg9COdotAYYusOwGNpTDNh2x2zil2n_m5c_wz1Q38qlAN"
+href = "urn:sha384:ZakivShvhit7rLGIwNp87eoDfXy0JMnTdY27ByHMkyXPjRrFKVP-mH8h4GLltH7C"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -296,10 +299,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/94852245@N00/2263988203"
 title = "bbb low-cost housing, tegnestuen vandkunsten"
 [[cards.sides]]
-blob_href = "urn:sha384:BDq8TBpYN6fzjcevM5imVt0N-5aPT366I35c5AfMXb0HT6jBstL7t7AiEMeV08wO"
-href = "urn:sha384:GIVmA3fUmsHlohCIg_-DmC5OSST001d3nd3t6Eru7EZpV58wnVoj5Qxgx2voojUx"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -319,10 +319,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/21372046@N00/4814405297"
 title = "Tree House "
 [[cards.sides]]
-blob_href = "urn:sha384:UgyzFViI-rbaM8JJ6Olr7W2p49edBJS1y-BLllOihtkwALJTnNJQTYcIdcTajfv_"
-href = "urn:sha384:9IaatYIabIYVw6PSHiuWJYMOz7KHvGBMQS7bEm4ZPfryvgvIts_JIvJ144IAMNZY"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -342,10 +339,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/74227781@N00/1097366731"
 title = "Houses all in a row"
 [[cards.sides]]
-blob_href = "urn:sha384:Ck_VOmPdICXe7-PRLz_81d9n9-7oYX_atcgarw1vJV4hjTFqe-DRlUwviAKeUGNH"
-href = "urn:sha384:cmEJAt0rmBG7MboBN2J8Zk5iAtKz2US325hgq_k_2N_q1LODMORdC2kJCbQI6J-S"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -365,10 +359,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/29057345@N04/5445382446"
 title = "Belton House"
 [[cards.sides]]
-blob_href = "urn:sha384:gXswGGymNgRYKPmvKaQqyWfr3UZOc85ebigmRrccWbWR9LlDfQaGfvKQxoYSIPcg"
-href = "urn:sha384:1gysdvnFwCK_kV5liq9ANBL7v81eCFlzHkJbhMEtSVv-QY8042n7lRQzieakZE1W"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -388,10 +379,7 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/30447586@N00/170497393"
 title = "Today's Cat@20060619"
 [[cards.sides]]
-blob_href = "urn:sha384:MsANIEdeh18WKIXR50DTXQA5oaUPZ-58vT49TZMGVgl1WYagtMkdWdmBFG3z4JjW"
-href = "urn:sha384:NX75db2_pqoH-vqen-eJQFAd0TeqU0hgZ4IEPebu7Szun7maLaTKBj_RlhxOW8zZ"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -411,10 +399,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/61132483@N00/20952852"
 title = "Cat flat"
 [[cards.sides]]
-blob_href = "urn:sha384:fWhP8ZkmvONRVlMe1QIzpMYkk2RhFZAgH2aZgPyThhtd0wioLM93eCApvrStrwzO"
-href = "urn:sha384:5Yt05lCXnhs852q4PuoyaHDq7QHhjF5ZFA4TXx9-trq7z6FrNC-6XsXLnW245NIc"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -434,10 +419,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/78428166@N00/4855528696"
 title = "Dog Pile"
 [[cards.sides]]
-blob_href = "urn:sha384:4B3T4eWB3sw75Q1urraIIP6OZh6S4hNRZ6QpylRYAAxG9FedH_X9vc2FAxLDfs7n"
-href = "urn:sha384:9monJ8G-VIqyFeOqZ9f2eEfmV2Cpo58YNtHIb_UeY5A-u9ZFkNdVsWqVF0q5GwkU"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -457,10 +439,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/51035566865@N01/1118715"
 title = "funny dog"
 [[cards.sides]]
-blob_href = "urn:sha384:1iaacHTw_9okUITfniw9Jyt5yenJKAxXooO-dSUuoqQSRKCOis39SpY2ZQXh_Ylq"
-href = "urn:sha384:80VBeucP-nIIEtVEJkBv_Xdud-CPONZITo-Dvmiimo_G5lScFYUw7ikRvo8sYiJB"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
