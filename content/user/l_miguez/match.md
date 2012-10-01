@@ -1,7 +1,7 @@
 +++
 title = "match"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -254,6 +254,86 @@ author_url = "http://www.flickr.com/people/20978349@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/20978349@N00/2286150279"
 title = "The Bag!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:YWXCGJ0olVcyg4Lcw1sigbPYK927Ud6otND2HHPxaEo_k7xLgqQAMISM37ZFg49x"
+href = "urn:sha384:11meAYAXAlHUotH7XpFe-rogz6sP755hLWMN-VrDFTH--36JaSgUnsIygrFrrO0c"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (seier+seier)"
+author_url = "http://www.flickr.com/people/94852245@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/94852245@N00/2263988203"
+title = "bbb low-cost housing, tegnestuen vandkunsten"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:50fibLadEmwnr_EqSlBSYG_EJr4SBx4A5vYPw_jDVsT3UedpId7iW1weWf49XkFO"
+href = "urn:sha384:MlqxMIYV5Lbp7kzQtSatV444lVRXOz1vHO5AF4dgTq_0ZIE3tgRWSRo-12EiC8X9"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Andy Roberts (AndyRobertsPhotos)"
+author_url = "http://www.flickr.com/people/21372046@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/21372046@N00/4814405297"
+title = "Tree House "
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:OpnoAoVFxaYHHFZt3DFyKaa96h73OWVx0wwn5iUjrx2RLAIYSV4AJ38uVb14FgD1"
+href = "urn:sha384:qHhhvTdGXzNNKW1PMozEXe97PYRvjOQPywaCoOKKmnVJeFzSEWkef2PlUr69I0bp"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "karol m (byrdiegyrl)"
+author_url = "http://www.flickr.com/people/74227781@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/74227781@N00/1097366731"
+title = "Houses all in a row"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:OgvhOf1UQnqdq8LUMYbeTtPvXRXkF4KQhlFMWVack1_a6IPeYXxb1Fw15KeAjZqt"
+href = "urn:sha384:vhS33J_MoM2Bqm0LbYsiaUUFZnfYnqhORmkJbme0k0BLOroHlLTTrvBUJ8D9A-zr"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Duncan Harris (Duncan~)"
+author_url = "http://www.flickr.com/people/29057345@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/29057345@N04/5445382446"
+title = "Belton House"
 [[cards.sides]]
 type = "empty"
 
