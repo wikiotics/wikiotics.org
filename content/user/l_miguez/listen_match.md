@@ -7,7 +7,8 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The bag is orange. "
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:heLoSjVEXhDXCH-tGmd5IeTOKqTLuiYe6nSkF41kib7k9tWpjrKMalzZoXQ57uYQ"
@@ -30,7 +31,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The purple shoes are new."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:ZE86gBm_s1iKQX0K2dQk2tKCVJa4sWoRbFrmykB2LJWDrdMFoksjqJE4CARknmzd"
@@ -54,7 +56,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The shirt is modern and colorful."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:973TRNvCXT2qXVdZROTih8RG1NsW2eJjVmcnRx0iIhDVEZOMoESenidVNzaQ91rW"
@@ -77,7 +80,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The black and white skirt is ugly."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:6xQ5PjvYUb16thYLUkSzA81ReltUvxgT2PWjdqTFbPh2cGcwG63xhFx00xfsR9B9"
@@ -100,7 +104,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The small blue car is not fast."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:23sutGssfMSbd2LL2UEXbUMeysxHqOjdlV_X9WLCLh9aaQpkfXe2imuftbJkwfGs"
@@ -123,7 +128,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This strange but fast car is pink."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:RbsbaDdb9B-uEE9WuCU7gg4vvDhEBagO9yn3ZzQmoeUByodYNHT8xsQEnd7FMiMI"
@@ -146,7 +152,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The fast motorbike is not green, it's yellow."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:SLRszxYRH0qNeiuZj98GbkD2NeFoJGkGZYGeSChRKus4KKU-FErEqcHap9pUrdd5"
@@ -169,7 +176,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The blue bicycle is not new, it's old. "
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:fJ5wOVL2CBBZRqo6Jc5XQViqWtBico08RXtejlbA2pS-MUmMyQ2fihb8Lx1nLY0V"
@@ -192,7 +200,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The brown paper bag is not expensive, it's cheap."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:2qeiKe7GnvuMcmiYBHGdlZ8BKS_fuxIwXI1EiqVFe6sPTUddK7i3RMhq71UG5C1t"
@@ -207,8 +216,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/31437555@N00/4392418334"
 title = "Brown Bag (with staple)"
 [[cards.sides]]
-blob_href = "urn:sha384:zyDxpATfVjFBT55H1RJ-sHUDR1kosAHk8Z_mLV8sD8kvrRy_q8SS5NiGqi_XPsfJ"
-href = "urn:sha384:AP1ETiYVg2eYdsvWTw2ZiEoVqM7FLCFOT-84nK6jybvjsDF08aLWfdLNWLKe0yXJ"
+blob_href = "urn:sha384:qaGG8-65PHRXhqe8BG1hxYDm8-Qz--o-orj2BIvsCtMHCYZT0sefeXiWE_jkNp9F"
+href = "urn:sha384:QaNy7E8N77S_iv3puN6ehsb-8gv0tJjDCxvRK-gc-oQ_emrbAYi8akKLPFF5ikaC"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -230,10 +239,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/58109753@N00/6867873676"
 title = "Green chair"
 [[cards.sides]]
-blob_href = "urn:sha384:ZGhT6leXNedfwUCESu1NEt3omOhaG8t-f6itigIZD0q7DKA19RTTrhLyOl2CmbUb"
-href = "urn:sha384:R2wGLFq8NRgleaGntCHJmlrIjp5fO9neFQznnjzPOVVM-tXW2ekXeazCy8yyGsoN"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
