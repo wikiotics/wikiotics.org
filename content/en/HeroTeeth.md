@@ -116,7 +116,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Alice: Thank you teeth, you do like me after all!"
+text = "Alice: Thank you teeth! you do like me after all."
 type = "phrase"
 
 [[cards.sides]]
