@@ -44,7 +44,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Villain: I've got you now! You will be friend, or else."
+text = "Villain: I've got you now! You will be my friend, or else."
 type = "phrase"
 
 [[cards.sides]]
