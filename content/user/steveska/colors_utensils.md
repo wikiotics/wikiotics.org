@@ -1,7 +1,7 @@
 +++
 title = "colors utensils"
 contributors = [ "steveska",]
-dividers = [ 4, 8, 12, 16, 20, 24,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -247,7 +247,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "A fork and a knife."
 type = "phrase"
 
 [[cards.sides]]
@@ -259,7 +259,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "A fork and a spoon."
 type = "phrase"
 
 [[cards.sides]]
@@ -271,7 +271,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "A fork and a plate. "
 type = "phrase"
 
 [[cards.sides]]
@@ -283,7 +283,55 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "A knife and a spoon."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "A spoon and a plate."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "A spoon and a cup."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "A spoon and a knife."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "A cup and a plate."
 type = "phrase"
 
 [[cards.sides]]
