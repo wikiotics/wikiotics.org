@@ -1799,7 +1799,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "[Pause]"
 type = "phrase"
 
 [[cards.sides]]
@@ -1812,7 +1812,228 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Now let's listen to an informal introduction. In informal settings, there is no need to say \"Allow me to introduce myself.\" Listen to this informal introduction between Andrew and Beth."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hi. My name is Andrew. What's your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hi. My name is Beth."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nice to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nice to meet you, too."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hi. My name is Andrew. What's your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hi. My name is Beth."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nice to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nice to meet you, too."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen one more time."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hi. My name is Andrew. What's your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hi. My name is Beth."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nice to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nice to meet you, too."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Now, Andrew will introduce himself to you informally. Respond like Beth did, but use your own name."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hi. My name is Andrew. What's your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
 type = "phrase"
 
 [[cards.sides]]
@@ -1825,7 +2046,20 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Nice to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
 type = "phrase"
 
 [[cards.sides]]
@@ -1838,7 +2072,33 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Let's practice that again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hi. My name is Andrew. What's your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
 type = "phrase"
 
 [[cards.sides]]
@@ -1851,7 +2111,20 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Nice to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
 type = "phrase"
 
 [[cards.sides]]
@@ -1864,7 +2137,33 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Let's practice that one more time."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hi. My name is Andrew. What's your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
 type = "phrase"
 
 [[cards.sides]]
@@ -1877,7 +2176,20 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Nice to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
 type = "phrase"
 
 [[cards.sides]]
@@ -1890,7 +2202,371 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "When introducing yourself, it is common to say where you are from. Andrew is from Chicago. Listen to how he expresses this."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I'm from Chicago."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I'm from Chicago."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen one more time. This time, repeat after Andrew, but name your own city or country."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I'm from Chicago."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen and repeat again. Remember to name your own city or country."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Tecaher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I'm from Chicago."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen and repeat one more time."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I'm from Chicago."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "When you say where you are from, you should also ask where your partner is from. English speakers ask the question, \"Where are you from?\" Listen to Andrew."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where are you from?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where are you from?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen one more time. This time, repeat the question yourself."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where are you from?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen and repeat again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where are you from?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen and repeat one more time."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where are you from?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Now, listen to Andrew tell Beth where he is from. Pay attention to Beth's response."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I'm from Chicago. Where are you from?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ah, I'm from New York."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I'm from Chicago. Where are you from?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ah, I'm from New York."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Now, Andrew will tell you where he is from and ask you the same question. Respond like Beth did, but name your own city or country."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I'm from Chicago. Where are you from?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
 type = "phrase"
 
 [[cards.sides]]
@@ -1903,7 +2579,33 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Let's practice that again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I'm from Chicago. Where are you from?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
 type = "phrase"
 
 [[cards.sides]]
@@ -1916,7 +2618,33 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Let's practice that one more time."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I'm from Chicago. Where are you from?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
 type = "phrase"
 
 [[cards.sides]]
@@ -1929,430 +2657,27 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Excellent."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "We've reached the end of Lesson 2. You're now ready to introduce yourself in English. In the next lesson, we'll discuss talking about work and school."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[interactions]]
