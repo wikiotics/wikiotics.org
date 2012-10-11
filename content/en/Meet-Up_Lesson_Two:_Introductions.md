@@ -162,7 +162,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "A third greeting is \"Hey.\" It is much less formal. Let's listen to \"Hi.\""
+text = "A third greeting is \"Hey.\" It is much less formal. Let's listen to \"Hey.\""
 type = "phrase"
 
 [[cards.sides]]
@@ -590,7 +590,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Now, ask your partner's name. English speakers ask the question, \"What is your name.\" Listen to Andrew."
+text = "Now, ask your partner's name. English speakers ask the question, \"What's your name.\" Listen to Andrew."
 type = "phrase"
 
 [[cards.sides]]
@@ -733,7 +733,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "What is your name?"
+text = "What's your name?"
 type = "phrase"
 
 [[cards.sides]]
