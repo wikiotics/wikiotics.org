@@ -39,7 +39,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1 (Male)"
 type = "phrase"
 
 [[cards]]
@@ -52,7 +52,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -65,7 +65,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -78,7 +78,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -91,7 +91,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -104,7 +104,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2 (Female)"
 type = "phrase"
 
 [[cards]]
@@ -117,7 +117,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -130,7 +130,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -143,7 +143,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -156,7 +156,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -169,7 +169,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -182,7 +182,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -195,7 +195,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -208,7 +208,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -221,7 +221,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -234,7 +234,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -247,7 +247,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -260,7 +260,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -273,7 +273,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -286,7 +286,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -299,7 +299,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -312,7 +312,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -325,7 +325,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -338,7 +338,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -351,7 +351,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -364,7 +364,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -377,7 +377,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -390,7 +390,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -416,7 +416,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -442,7 +442,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -468,7 +468,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -481,7 +481,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -494,7 +494,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -507,7 +507,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -520,7 +520,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -533,7 +533,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -546,7 +546,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -559,7 +559,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -572,7 +572,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -585,7 +585,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -598,7 +598,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -611,7 +611,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -624,7 +624,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -637,7 +637,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -650,7 +650,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -663,7 +663,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -676,7 +676,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -689,7 +689,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -702,7 +702,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -715,7 +715,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -741,7 +741,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -754,7 +754,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -767,7 +767,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -780,7 +780,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -793,7 +793,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -806,7 +806,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -819,7 +819,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -832,7 +832,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -845,7 +845,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -858,7 +858,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -871,7 +871,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -884,7 +884,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -910,7 +910,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -923,7 +923,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -936,7 +936,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -949,7 +949,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -962,7 +962,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -975,7 +975,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -988,7 +988,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1001,7 +1001,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1014,7 +1014,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1027,7 +1027,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1040,7 +1040,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1053,7 +1053,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1079,7 +1079,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1092,7 +1092,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1105,7 +1105,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1118,7 +1118,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1131,7 +1131,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1144,7 +1144,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1157,7 +1157,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1170,7 +1170,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1183,7 +1183,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1196,7 +1196,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1222,7 +1222,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1235,7 +1235,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1248,7 +1248,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1274,7 +1274,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1287,7 +1287,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1300,7 +1300,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1313,7 +1313,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1326,7 +1326,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1339,7 +1339,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1352,7 +1352,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1365,7 +1365,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1378,7 +1378,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1391,7 +1391,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1404,7 +1404,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1417,7 +1417,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1430,7 +1430,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1443,7 +1443,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1456,7 +1456,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1482,7 +1482,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1508,7 +1508,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1521,7 +1521,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1534,7 +1534,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1547,7 +1547,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1560,7 +1560,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1573,7 +1573,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1586,7 +1586,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1599,7 +1599,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1612,7 +1612,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1638,7 +1638,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1664,7 +1664,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1677,7 +1677,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1690,7 +1690,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1703,7 +1703,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1716,7 +1716,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1729,7 +1729,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1742,7 +1742,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1755,7 +1755,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1768,7 +1768,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1781,7 +1781,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1794,7 +1794,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1807,7 +1807,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1820,7 +1820,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1833,7 +1833,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1846,7 +1846,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1859,7 +1859,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1872,7 +1872,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1885,7 +1885,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1898,7 +1898,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1911,7 +1911,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1937,7 +1937,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1950,7 +1950,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -1963,7 +1963,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -1976,7 +1976,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -1989,7 +1989,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2002,7 +2002,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2015,7 +2015,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2028,7 +2028,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2054,7 +2054,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2080,7 +2080,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2093,7 +2093,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2106,7 +2106,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2119,7 +2119,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2132,7 +2132,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2145,7 +2145,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2158,7 +2158,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2171,7 +2171,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2184,7 +2184,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2197,7 +2197,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2210,7 +2210,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2223,7 +2223,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2249,7 +2249,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2262,7 +2262,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2275,7 +2275,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2288,7 +2288,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2301,7 +2301,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2314,7 +2314,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2327,7 +2327,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2340,7 +2340,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2353,7 +2353,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2366,7 +2366,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2392,7 +2392,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2405,7 +2405,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2418,7 +2418,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2431,7 +2431,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2444,7 +2444,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2457,7 +2457,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2470,7 +2470,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2483,7 +2483,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2496,7 +2496,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2509,7 +2509,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2522,7 +2522,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2535,7 +2535,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2548,7 +2548,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2561,7 +2561,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2574,7 +2574,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2600,7 +2600,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2626,7 +2626,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2652,7 +2652,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2678,7 +2678,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2704,7 +2704,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2717,7 +2717,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2743,7 +2743,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2769,7 +2769,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2782,7 +2782,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2795,7 +2795,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2808,7 +2808,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2821,7 +2821,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2834,7 +2834,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2847,7 +2847,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2860,7 +2860,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2873,7 +2873,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2886,7 +2886,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2899,7 +2899,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2912,7 +2912,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -2925,7 +2925,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2938,7 +2938,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -2951,7 +2951,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -2977,7 +2977,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -3003,7 +3003,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -3029,7 +3029,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 1"
 type = "phrase"
 
 [[cards]]
@@ -3055,7 +3055,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -3081,7 +3081,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -3094,7 +3094,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -3120,7 +3120,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -3146,7 +3146,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "English Speaker 2"
 type = "phrase"
 
 [[cards]]
@@ -3159,7 +3159,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[interactions]]
