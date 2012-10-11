@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Welcome to English Meet-Up. In our first lesson, we’ll learn key phrases and questions that will help you start conversations with other English speakers or learners. Let’s begin with some simple greetings."
+text = "Welcome to English Meet-Up. In our first lesson, we’ll learn key phrases and questions that will help you start conversations with American English speakers or learners. Let’s begin with some simple greetings."
 type = "phrase"
 
 [[cards.sides]]
