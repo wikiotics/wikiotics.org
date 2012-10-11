@@ -291,7 +291,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Let's listen again. This time, repeat the phrase yourself."
+text = "Let's listen one more time. This time, repeat the phrase yourself."
 type = "phrase"
 
 [[cards.sides]]
@@ -954,14 +954,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hi Andrew. My name is Beth."
+text = "Hello. My name is Beth."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Beth"
+text = "English Speaker 2 (Beth)"
 type = "phrase"
 
 [[cards]]
@@ -993,7 +993,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hi Andrew. My name is Beth."
+text = "Hello. My name is Beth."
 type = "phrase"
 
 [[cards.sides]]
@@ -1032,7 +1032,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hi Andrew. My name is Beth."
+text = "Hello. My name is Beth."
 type = "phrase"
 
 [[cards.sides]]
@@ -1162,7 +1162,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Once your partner has told you his or her name, you should express that you are pleased to meet him or her. In a formal setting, you can say, \"It's a pleasure to meet you.\" Listen to Andrew."
+text = "Once your partner has told you his or her name, you should express that you are pleased to meet him or her. In a formal setting, you can say, \"Pleasure to meet you.\" Listen to Andrew."
 type = "phrase"
 
 [[cards.sides]]
@@ -1175,7 +1175,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "It's a pleasure to meet you."
+text = "Pleasure to meet you."
 type = "phrase"
 
 [[cards.sides]]
@@ -1201,7 +1201,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "It's a pleasure to meet you."
+text = "Pleasure to meet you."
 type = "phrase"
 
 [[cards.sides]]
@@ -1227,7 +1227,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "It's a pleasure to meet you."
+text = "Pleasure to meet you."
 type = "phrase"
 
 [[cards.sides]]
@@ -1253,7 +1253,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "It's a pleasure to meet you."
+text = "Pleasure to meet you."
 type = "phrase"
 
 [[cards.sides]]
@@ -1279,7 +1279,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "It's a pleasure to meet you."
+text = "Pleasure to meet you."
 type = "phrase"
 
 [[cards.sides]]
@@ -1287,6 +1287,1007 @@ type = "empty"
 
 [[cards.sides]]
 text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Now, let's listen to Andrew introduce himself to Beth. Pay attention to Beth's response."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello. Allow me to introduce myself. My name is Andrew. What's your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello. My name is Beth."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pleasure to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pleasure to meet you, too."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello. Allow me to introduce myself. My name is Andrew. What's your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello. My name is Beth."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pleasure to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pleasure to meet you, too."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen one more time."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello. Allow me to introduce myself. My name is Andrew. What's your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello. My name is Beth."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pleasure to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pleasure to meet you, too."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Beth"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Now, Andrew will introduce himself to you. Please respond to Andrew like Beth did, but use your own name."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello. Allow me to introduce myself. My name is Andrew. What's your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pleasure to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's practice that again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello. Allow me to introduce myself. My name is Andrew. What's your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pleasure to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's practice that one more time."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello. Allow me to introduce myself. My name is Andrew. What's your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pleasure to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "In less formal settings, English speakers use other phrases to indicate that they are pleased to meet each other. A common less formal phrase is \"Nice to meet you.\" Listen to Andrew."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nice to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nice to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen one more time. This time, repeat the phrase yourself."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nice to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[Pause]"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen and repeat one more time."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Nice to meet you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Andrew"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards]]
