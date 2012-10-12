@@ -1,8 +1,9 @@
 +++
 title = "Countable and Uncountable Nouns"
-contributors = [ "jeremiad",]
+contributors = [ "Laurent", "jeremiad",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
