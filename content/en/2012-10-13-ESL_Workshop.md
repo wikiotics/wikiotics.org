@@ -8,8 +8,6 @@ are raw materials that we can build from or transform.
 
 ## Picture choice lessons
 
-## 
-
 1.  [Introduction - short](/en/Introduction)
 2.  [Introduction - expanded](/en/Introdutcion-Person_Words)
 3.  [Colors and vehicles](/en/colors_and_vehicles)
