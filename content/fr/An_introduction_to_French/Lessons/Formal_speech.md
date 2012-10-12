@@ -1,6 +1,7 @@
 +++
 title = "Formal speech"
 languageCode = "fr"
+target-languages = [ "fr",]
 +++
 
 ## Tu and Vous
