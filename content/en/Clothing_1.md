@@ -1,9 +1,10 @@
 +++
 title = "Clothing 1"
-contributors = [ "tomfy",]
+contributors = [ "Laurent", "tomfy",]
 dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
