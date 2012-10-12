@@ -1,6 +1,7 @@
 +++
 title = "French phrasebook"
 languageCode = "fr"
+target-languages = [ "fr",]
 +++
 
 This phrasebook is split in several sections according to topics. It
