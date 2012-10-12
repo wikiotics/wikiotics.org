@@ -433,8 +433,17 @@ text = "This is a man and a woman."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wOx5KzwkLCqpD7cgdw9OM8owlNfsK0_s4NondKcSXXQaNDyZ7DNT_oeGckH-_aco"
+href = "urn:sha384:kXOB7g2gRv9i_fq5CBTtB0rm9MrIgQMJ-acHG5pPPCgCARa7RgraM_06-3nJM49A"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (BiblioArchives / LibraryArchives)"
+author_url = "http://www.flickr.com/people/28853433@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/28853433@N02/7509282230"
+title = "Two cyclists - one man and one woman - consult a road map on the bank of the Ottawa River in Rockcliffe Park Village, Ontario / Deux cyclistes  un homme et une femme  consultent une carte routière sur le bord de la rivière Outaouais au parc Rockcliffe, en"
 [[cards.sides]]
 type = "empty"
 
@@ -445,8 +454,17 @@ text = "This is a girl and a boy."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dxhWBlTT1jw38uqRSDNib_WweIlhjCs0dJtNKB7GL9QXN0M_z3zIjeYCl3Tv9hhm"
+href = "urn:sha384:08Vh9eqYf14O7W5UTeNLWNfpQUU7Nr4VkPcthkRDGUvnB2TVoubd8S4lezP9csTe"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "woodleywonderworks (woodleywonderworks)"
+author_url = "http://www.flickr.com/people/73645804@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/73645804@N00/209574201"
+title = "full house"
 [[cards.sides]]
 type = "empty"
 
@@ -457,8 +475,17 @@ text = "This is a woman and a boy."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:c907YvqXOUObvW9UBrYMbLoinZttos2VuX0LmLwnfL4bK3Xfg9qXbmxCmREa8Qir"
+href = "urn:sha384:JhXdzujcoXV4MO5sMJwMIucLtFxRpApBk8-szLPzJSn5Z6MILETKfvPXm-yqrC7T"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (JAK SIE MASZ)"
+author_url = "http://www.flickr.com/people/44458546@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/44458546@N00/4084018261"
+title = "DSC_4575 2009-11-07 19-48"
 [[cards.sides]]
 type = "empty"
 
@@ -469,8 +496,17 @@ text = "This is a man and a girl."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ckpwZ0QD7znVvsSiJDE-3VWzwVi6zwQFtP1QygPXUpUT4KQERz-Z_k0zDFazwB1a"
+href = "urn:sha384:Fb7MpVUlFodTKpCeOOHi2JTYm3oLkT68QfYmYZTOl7wjPV8OZxqwVqLdTzyxPi31"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Ed Yourdon (Ed Yourdon)"
+author_url = "http://www.flickr.com/people/72098626@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/72098626@N00/2714766155"
+title = "Father and daughter"
 [[cards.sides]]
 type = "empty"
 
