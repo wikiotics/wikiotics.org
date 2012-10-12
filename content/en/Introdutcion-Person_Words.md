@@ -518,8 +518,17 @@ text = "The man and the woman are walking."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Q6PvrPMOG2EJSO8Q8J9BjATl12-HcdmryrXpnJuaYrA1zSWi6-2DwWFd7Y7Ks9GA"
+href = "urn:sha384:CWnSIMvqV1vEu1SrICZy2tzrCsZb03lywMkws_MhIPLIJoH-kJvsI5fixk9AwRid"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72825507@N00/6071605825"
+title = "A young couple walks towards Morro Rock from North Morro Strand State Beach, Morro Bay, CA 22 August 2011"
 [[cards.sides]]
 type = "empty"
 
@@ -530,8 +539,17 @@ text = "The man and the boy are sitting."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nHr5OgZbhvP0JOCEgTDfar3k6xv5SynoeGztGoe7AOUIAJSGbQz5Z_WOAW-wfScg"
+href = "urn:sha384:FQ72Jo36UuR3uFL20bQYjC4_j04DtmJdiewBdOa1kVuQWPrQXUFu1BIr_FOkjo-8"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "James Emery (hoyasmeg)"
+author_url = "http://www.flickr.com/people/62126383@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/62126383@N00/448750155"
+title = "Aaron and Kirk_0297c1"
 [[cards.sides]]
 type = "empty"
 
@@ -542,8 +560,17 @@ text = "The woman and the girl are walking."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wnax3uhC9iMQVtbhGLD6wPpTlKui90WdMtHt0q-HjszgYcPzv2O95ORfyBx8m2ii"
+href = "urn:sha384:Hd-1eVPF7TI7g0kgIui9bL4ShbBBaIzm1dSx7QHW19fExgRL2TZkikoanJ6R4oGz"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Carly Lesser &  Art Drauglis (Carly & Art)"
+author_url = "http://www.flickr.com/people/60509459@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/60509459@N00/5673457877"
+title = "The egg hunt is over: Time to go"
 [[cards.sides]]
 type = "empty"
 
@@ -554,8 +581,17 @@ text = "The girl and the man are sitting."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rUbJCn9yWQvYpH_9iG-RStUT22PQ6pZywQH86SYg4TFEdJwc6AINX3tgNtLZ5Dau"
+href = "urn:sha384:JuFTJnKSQJ10WB5Fcu2E5oi-JfyF9Ie3mBbn386X6hO8SeutyUdgK4eSlIFLGRoT"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Brian Kelley (nlnnet)"
+author_url = "http://www.flickr.com/people/39727414@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/39727414@N00/130723208"
+title = "Brian Tia 2006-04-17"
 [[cards.sides]]
 type = "empty"
 
