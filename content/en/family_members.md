@@ -1,9 +1,10 @@
 +++
 title = "family members"
-contributors = [ "190.181.128.164", "tomfy",]
+contributors = [ "190.181.128.164", "Laurent", "tomfy",]
 dividers = [ 4, 8, 12, 16, 20, 24,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
