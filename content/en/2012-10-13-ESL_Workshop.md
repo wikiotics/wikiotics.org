@@ -12,6 +12,9 @@ are raw materials that we can build from or transform.
 2.  [Introduction - expanded](/en/Introduction-Person_Words)
 3.  [Colors and vehicles](/en/colors_and_vehicles)
 4.  [Out of the box - relative positions](/en/Out_of_the_Box)
+5.  [Numbers and people](/en/numbers_people)
+6.  [Numbers and animals](/en/numbers_animals)
+7.  [Numbers and vehicles](/en/numbers_colors_vehicles)
 
 ## Podcasts
 
