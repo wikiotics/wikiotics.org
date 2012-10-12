@@ -1,9 +1,10 @@
 +++
 title = "Adjectives exercise"
-contributors = [ "121.54.92.59",]
+contributors = [ "121.54.92.59", "Laurent",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
