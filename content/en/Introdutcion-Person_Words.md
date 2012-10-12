@@ -33,8 +33,17 @@ text = "This is a boy."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:itlpV89fNinDWYLyKd3HAks7o62u6889O47XeoQiMBnx02bqmoT866XO5D8dxT3a"
+href = "urn:sha384:okWCf1KVvCHJdvW_21qvEUueVS84V8xiOA2hk8vK5VCHwIuo6tjVNZR923r-6oP0"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "José Antonio Morcillo Valenciano (2ose)"
+author_url = "http://www.flickr.com/people/53620105@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/53620105@N06/6107964619"
+title = "Little boy in Fatehpur Sikri"
 [[cards.sides]]
 type = "empty"
 
@@ -45,8 +54,17 @@ text = "This is a woman."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uEJfCmJ708wwGRAhXNf6b9xmSxgRatikNDQPinIyIcKT8ChihEHMl2gGSnv-02b3"
+href = "urn:sha384:78qKxDgBD-fH1UsIjfyzozokjnR_9dM35_6RDR_LXWRaOjrMRV4FR-Qv-metiXh0"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
+title = "Beautiful Asian Woman Thinking"
 [[cards.sides]]
 type = "empty"
 
@@ -57,8 +75,17 @@ text = "This is a girl."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JeaDPPKIoGh_-cnspjnSnQWhubAR3_yOUy90nEVlnYTTkdeX14jLZlWiStiKyeLA"
+href = "urn:sha384:ugnQ6Lx5O53WnTJRrX5UDQu65jJuFgPlDqeZMafwEDvyJO8ZQ3oF8tW-53zMwrQD"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36495803@N05/3837519481"
+title = "Beautiful Asian Woman in Dress"
 [[cards.sides]]
 type = "empty"
 
@@ -69,8 +96,17 @@ text = "Man"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4gRgPZ-hR27bVY7h9pjpbIt5Ipzp7R31gl3VbORBBfWKXGoSUMtbZnwt6N6OSOMl"
+href = "urn:sha384:35XHQFKSq18Cn15lttHdLZ32q0eD2FiqKJ6sF_sqDTeSZRABp7FBLM7MM19vtsig"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "David Dennis (DavidDennisPhotos.com)"
+author_url = "http://www.flickr.com/people/50852241@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/50852241@N00/2436720309"
+title = "Man in Cappadocia"
 [[cards.sides]]
 type = "empty"
 
@@ -81,8 +117,17 @@ text = "Boy"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:-RlHM51QhhMPcP59_hayoJacGiSBAnD4AU-lCPqCoCBtOp512XUtueN9kIeJRG8X"
+href = "urn:sha384:yY3JRQbBMbXceEud8u7H9yTL_IufTyZwGyUWW4wXSPmoh1IbPjWh9O9T4iB8oYIM"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Peter Harrison (cheetah100)"
+author_url = "http://www.flickr.com/people/58982967@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/58982967@N00/25888292"
+title = "Boy climbs tree"
 [[cards.sides]]
 type = "empty"
 
@@ -93,8 +138,17 @@ text = "Woman"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JeaDPPKIoGh_-cnspjnSnQWhubAR3_yOUy90nEVlnYTTkdeX14jLZlWiStiKyeLA"
+href = "urn:sha384:ABndaYrdQpMVUt_tuAFKpSYBdWLcMpIEbShaKGyMwDoHAkqpkr3uAIxev-OzRdvC"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36495803@N05/3837519481"
+title = "Beautiful Asian Woman in Dress"
 [[cards.sides]]
 type = "empty"
 
@@ -105,8 +159,18 @@ text = "Girl"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:RX6_PA8aph74tAQtticwYy_sPOjk1lAWN9ocmuLIoKCL_8pcCWcUOkIZygfJ8yol"
+href = "urn:sha384:olhTF-wG3zqKyTmyskBlo8c5OYRHH-bcWG7kN_V8-WKSpj2GpAhcZrd7qh_w4OFr"
+mime_type = "image/jpeg"
+rotation = "270"
+type = "picture"
 
+[cards.sides.credit]
+author = "Liz Mc (imallergic)"
+author_url = "http://www.flickr.com/people/11638547@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/11638547@N00/4619817238"
+title = "little girl"
 [[cards.sides]]
 type = "empty"
 
@@ -138,8 +202,17 @@ text = "The boy is running."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LLHa8d2WTMQq9WChv6TRcf4YFuECOsDXMA5YdWIAiMTSfC_9JMZHqeh6ILF16Ulz"
+href = "urn:sha384:OcxKfz1jkbV4YxUYJw8REJTOJzQ5lPINZAcHHpudQSdTbD0tZXm0FPz6FMjZTrwc"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "woodleywonderworks (woodleywonderworks)"
+author_url = "http://www.flickr.com/people/73645804@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/73645804@N00/3927296355"
+title = "boy, with back pack, running"
 [[cards.sides]]
 type = "empty"
 
@@ -150,8 +223,17 @@ text = "The woman is standing."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jrh7JngigsAjcXgGIOtbfIFFR3kDEc7_DX_5qSWbYY5oN7a8YC7mQkodqmxkBJbt"
+href = "urn:sha384:g7fQ2XzM0IF-I7Coa-pZPQow1WTrCMuLzETOrcrY5_StHEOtR8gAkDWLvA1t0HJL"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Neal Sanche (thorinside)"
+author_url = "http://www.flickr.com/people/35237096343@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/35237096343@N01/410874840"
+title = "Woman in Blue"
 [[cards.sides]]
 type = "empty"
 
@@ -162,8 +244,17 @@ text = "The girl is walking."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:F-QNs87cwq6m7bTyqNay3iA2KqrwSh43vyxKNvSaZhNE740D5u4msGf6zdU_i1CT"
+href = "urn:sha384:hd2LqABWFEv_2ye-f0lbrbGzzZXnUxlALwxEzR6EnkgA1b-zvG7c4Y3FegwrDF7S"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72825507@N00/3851362308"
+title = "Cute Little Girl in Pink Walking Beach.  People scenes, on the beach on Morro Strand State Park just north of Morro Rock in Morro Bay, CA.  23 August 2009"
 [[cards.sides]]
 type = "empty"
 
@@ -174,8 +265,17 @@ text = "Sitting"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:-HzEkwDZcK06PLtk6f3JHgSMDiBA1r5Hqjd5w4nA5OgBN1TuCHWg-t59MyX0nnRb"
+href = "urn:sha384:qEP6vjahautq7QqQmQieK0-8t8vfM6-Yzaz-cutvYybeD9VFU5gtUei0AMjAjd7N"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Fernando de Sousa (Looking Glass)"
+author_url = "http://www.flickr.com/people/31157339@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/31157339@N00/3368893699"
+title = "man sits and reads"
 [[cards.sides]]
 type = "empty"
 
@@ -186,8 +286,17 @@ text = "Running"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LLHa8d2WTMQq9WChv6TRcf4YFuECOsDXMA5YdWIAiMTSfC_9JMZHqeh6ILF16Ulz"
+href = "urn:sha384:Swsl0LkBtUY3DR-D5HCzuz64Kk66d9oYAXyMYwFw1GkOGaf119jLtn2yRNv3vBi5"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "woodleywonderworks (woodleywonderworks)"
+author_url = "http://www.flickr.com/people/73645804@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/73645804@N00/3927296355"
+title = "boy, with back pack, running"
 [[cards.sides]]
 type = "empty"
 
@@ -198,8 +307,17 @@ text = "Standing"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jrh7JngigsAjcXgGIOtbfIFFR3kDEc7_DX_5qSWbYY5oN7a8YC7mQkodqmxkBJbt"
+href = "urn:sha384:QVVwd1aeUMUUhUmBD6R9AZ0K_3MIxmA9CRjNJLisDkxiv9jt_ZqVlp2_M3RJkmTv"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Neal Sanche (thorinside)"
+author_url = "http://www.flickr.com/people/35237096343@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/35237096343@N01/410874840"
+title = "Woman in Blue"
 [[cards.sides]]
 type = "empty"
 
@@ -210,8 +328,17 @@ text = "Walking"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:F-QNs87cwq6m7bTyqNay3iA2KqrwSh43vyxKNvSaZhNE740D5u4msGf6zdU_i1CT"
+href = "urn:sha384:lbPqqpK7T5YQ1ZGw6nqyqGWH9pdWnCpHSbE6a2dNm2QcXE3oRWJ0fuCRpwF6RxyO"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72825507@N00/3851362308"
+title = "Cute Little Girl in Pink Walking Beach.  People scenes, on the beach on Morro Strand State Park just north of Morro Rock in Morro Bay, CA.  23 August 2009"
 [[cards.sides]]
 type = "empty"
 
@@ -264,8 +391,17 @@ text = "The woman is running."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:KexKUmqBV6EFOK0TVEJ7sZZy_7gtq9_0v9SMqK_sv0boDXzhWqmNmzmuCkbVKXQr"
+href = "urn:sha384:DlIPIIfuf4bxJ_-BzOedi-IAZHN2FBOIArCggoLdeObK50ljBbWL0fFAzD4WiT6j"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Raquel Baranow (666isMONEY ☮ ♥ & ☠)"
+author_url = "http://www.flickr.com/people/32645377@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/32645377@N06/4083813727"
+title = "Woman Running Barefoot (IMG_1153)"
 [[cards.sides]]
 type = "empty"
 
@@ -276,8 +412,17 @@ text = "The girl is standing."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5VAkQfIdWcalz7CMuPAlogjPY04QBiDfHcJKj8vu9Vl2tFVnCMGaLdT9MaalxyCh"
+href = "urn:sha384:-oM8OaJ7tG-T_W4C88NP_zcyFyPysj7sS3gApVmHOgKiMlp0FjKbRlOnUlaVFWlo"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "SuSanA Secretariat (Sustainable sanitation)"
+author_url = "http://www.flickr.com/people/23116228@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/23116228@N07/4206390528"
+title = "Girl proudly standing next to her UDDT"
 [[cards.sides]]
 type = "empty"
 
@@ -498,8 +643,17 @@ text = "The woman is running."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:KexKUmqBV6EFOK0TVEJ7sZZy_7gtq9_0v9SMqK_sv0boDXzhWqmNmzmuCkbVKXQr"
+href = "urn:sha384:HDZi1aHA94L8KYJ9CTaPcDsaQm9Us8KSBqKViypz0z7A3WCkIR71HUJcpT9eT7qb"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Raquel Baranow (666isMONEY ☮ ♥ & ☠)"
+author_url = "http://www.flickr.com/people/32645377@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/32645377@N06/4083813727"
+title = "Woman Running Barefoot (IMG_1153)"
 [[cards.sides]]
 type = "empty"
 
@@ -522,8 +676,17 @@ text = "The woman is walking."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:tR7mJ2_6BhNBogpFVeKBsexJLU3OHeoJgDbZ1AZ_E5aAC7kzDRT59bEycdwUlKC1"
+href = "urn:sha384:9e3ahB5oG7u1u5KsVVeASGdxgvxJO1mOJ1sTy3WcMIgqxs66oyzauSbsel-X82Q9"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "kevin ryder (labdog2010)"
+author_url = "http://www.flickr.com/people/49779648@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/49779648@N05/5520709118"
+title = "woman walking and talking on mobile phone"
 [[cards.sides]]
 type = "empty"
 
@@ -594,8 +757,17 @@ text = "The boy is running."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:s4EF6VMhyWQJW-NIH7NFzuE161q5KUT1erIL0BYwHceznYuAyjUKSq8w_wiTrBvG"
+href = "urn:sha384:NNsK6SNxLV1eoOIssTCfDVTo-sslPuvDJ3pbkSkZ7amd2yfpcJ2hGzIxav_j6d_t"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Pete Markham (pmarkham)"
+author_url = "http://www.flickr.com/people/9197427@N06/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/9197427@N06/3444084818"
+title = "Run!"
 [[cards.sides]]
 type = "empty"
 
@@ -606,8 +778,17 @@ text = "The girl is running."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:s2u8OW2o6yS34zhu39Gp8p7KdMcVRd0NziumHYLA_hXu_p7ytPPsA2nkMaFmWUBn"
+href = "urn:sha384:dzjSbHzcqtaSdeIQlXgiHkBrpjsVC04PyLzRazpe3sYiytmiqAXYeYHibStCAWeK"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72825507@N00/3337169515"
+title = "Little girl scampers on the wet sand. (from a set of 142 images, representing the \"2nd-best batch\" of 4-star images; out of the whole 163 surfing images taken on 3/7/09).   Viewers, please add comments/notes/tags to identify the participants if you know w"
 [[cards.sides]]
 type = "empty"
 
@@ -639,8 +820,17 @@ text = "The girl is walking."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:F-QNs87cwq6m7bTyqNay3iA2KqrwSh43vyxKNvSaZhNE740D5u4msGf6zdU_i1CT"
+href = "urn:sha384:809r30Ip0v-Yj5vY_pmHuaeoXAKjrrEhpqdl1M8GkSlNfXXuShVQN1sQt4_u3Ycn"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72825507@N00/3851362308"
+title = "Cute Little Girl in Pink Walking Beach.  People scenes, on the beach on Morro Strand State Park just north of Morro Rock in Morro Bay, CA.  23 August 2009"
 [[cards.sides]]
 type = "empty"
 
