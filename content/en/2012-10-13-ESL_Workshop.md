@@ -10,17 +10,18 @@ are raw materials that we can build from or transform.
 
 ## 
 
-1.  Introduction - short
-2.  Introduction - expanded
-3.  Colors and vehicles
-4.  Out of the box - relative positions
+1.  [Introduction - short](/en/Introduction)
+2.  [Introduction - expanded](/en/Introdutcion-Person_Words)
+3.  [Colors and vehicles](/en/colors_and_vehicles)
+4.  [Out of the box - relative positions](/en/Out_of_the_Box)
 
 ## Podcasts
 
-1.  Saying hello - simple
-2.  Saying hello - longer
-3.  Introductions - simple
-4.  Introductions - longer
+1.  [Saying hello - simple](/en/Meetup_Greetings)
+2.  [Saying hello -
+    longer](/en/Meet-Up_Lesson_One%3A_Hi._How_are_you%3F)
+3.  [Introductions - simple](/en/Meetup_Introductions_generic)
+4.  [Introductions - longer](/en/Meet-Up_Lesson_Two%3A_Introductions)
 
 ## Adjective unit
 
