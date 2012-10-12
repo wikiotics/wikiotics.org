@@ -1,7 +1,9 @@
 +++
 title = "Movement verbs"
-contributors = [ "Laurent", "ian",]
+contributors = [ "ian",]
+dividers = [ 4,]
 headings = [ "phrase", "picture", "audio",]
+tags = [ "ESLworkshop", "user-ian",]
 type = "lesson"
 target-languages = [ "en",]
 [[cards]]
