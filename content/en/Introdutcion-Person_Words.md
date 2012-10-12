@@ -392,17 +392,17 @@ text = "The woman is running."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:KexKUmqBV6EFOK0TVEJ7sZZy_7gtq9_0v9SMqK_sv0boDXzhWqmNmzmuCkbVKXQr"
-href = "urn:sha384:DlIPIIfuf4bxJ_-BzOedi-IAZHN2FBOIArCggoLdeObK50ljBbWL0fFAzD4WiT6j"
+blob_href = "urn:sha384:yCxF0Du9pA2jsQ8go156JimNToDXVw2w9fjY1dnIsjRFwnVsBOTnE8YVw4Tl7JVw"
+href = "urn:sha384:9iTJa9Bsfx7gOFZKkiOsMNngyNd3E6aZ3c_HTnLLwA9u8U-TVYNIauVt_Xnrc3iJ"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Raquel Baranow (666isMONEY ☮ ♥ & ☠)"
-author_url = "http://www.flickr.com/people/32645377@N06/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/32645377@N06/4083813727"
-title = "Woman Running Barefoot (IMG_1153)"
+author = "Charles Smith (smith_cl9)"
+author_url = "http://www.flickr.com/people/24415055@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/24415055@N00/6454326535"
+title = "236 Jennifer Daniels North Brooklyn Runners NBR 100B7543.JPG"
 [[cards.sides]]
 type = "empty"
 
@@ -680,17 +680,17 @@ text = "The woman is running."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:KexKUmqBV6EFOK0TVEJ7sZZy_7gtq9_0v9SMqK_sv0boDXzhWqmNmzmuCkbVKXQr"
-href = "urn:sha384:HDZi1aHA94L8KYJ9CTaPcDsaQm9Us8KSBqKViypz0z7A3WCkIR71HUJcpT9eT7qb"
+blob_href = "urn:sha384:yCxF0Du9pA2jsQ8go156JimNToDXVw2w9fjY1dnIsjRFwnVsBOTnE8YVw4Tl7JVw"
+href = "urn:sha384:HnB22WE_MQROtmwaEHvV_L7cXe55ugSTCv26msYIcPfa0Axpmx2iiwe63WjPeTVh"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Raquel Baranow (666isMONEY ☮ ♥ & ☠)"
-author_url = "http://www.flickr.com/people/32645377@N06/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/32645377@N06/4083813727"
-title = "Woman Running Barefoot (IMG_1153)"
+author = "Charles Smith (smith_cl9)"
+author_url = "http://www.flickr.com/people/24415055@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/24415055@N00/6454326535"
+title = "236 Jennifer Daniels North Brooklyn Runners NBR 100B7543.JPG"
 [[cards.sides]]
 type = "empty"
 
@@ -713,17 +713,17 @@ text = "The woman is walking."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:tR7mJ2_6BhNBogpFVeKBsexJLU3OHeoJgDbZ1AZ_E5aAC7kzDRT59bEycdwUlKC1"
-href = "urn:sha384:9e3ahB5oG7u1u5KsVVeASGdxgvxJO1mOJ1sTy3WcMIgqxs66oyzauSbsel-X82Q9"
+blob_href = "urn:sha384:PvNlQPdbuN8YHXREOTGhhUhUTSbdj3h2wPs20yk9jCN2ScXxYeWJgqvE02p5lw1g"
+href = "urn:sha384:pTDXx-7lrzDLCtrONyq2HmAbl6-kr3rJqrivl3GRoYqEOJyYja78yfIlfa-3VBil"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "kevin ryder (labdog2010)"
-author_url = "http://www.flickr.com/people/49779648@N05/"
+author = "Andrey (akk_rus)"
+author_url = "http://www.flickr.com/people/8414198@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/49779648@N05/5520709118"
-title = "woman walking and talking on mobile phone"
+original_url = "http://www.flickr.com/photos/8414198@N04/5851338605"
+title = "Reds"
 [[cards.sides]]
 type = "empty"
 
