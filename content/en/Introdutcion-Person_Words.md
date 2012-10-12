@@ -75,17 +75,18 @@ text = "This is a girl."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:JeaDPPKIoGh_-cnspjnSnQWhubAR3_yOUy90nEVlnYTTkdeX14jLZlWiStiKyeLA"
-href = "urn:sha384:ugnQ6Lx5O53WnTJRrX5UDQu65jJuFgPlDqeZMafwEDvyJO8ZQ3oF8tW-53zMwrQD"
+blob_href = "urn:sha384:RX6_PA8aph74tAQtticwYy_sPOjk1lAWN9ocmuLIoKCL_8pcCWcUOkIZygfJ8yol"
+href = "urn:sha384:4sTuJ1fGaMOA2eQJreqNvH48nVTCXEabZI0x-Wt5DoRdsmuS1tPzg2HhQMPN9eNr"
 mime_type = "image/jpeg"
+rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
-author = "epSos .de (epSos.de)"
-author_url = "http://www.flickr.com/people/36495803@N05/"
+author = "Liz Mc (imallergic)"
+author_url = "http://www.flickr.com/people/11638547@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/36495803@N05/3837519481"
-title = "Beautiful Asian Woman in Dress"
+original_url = "http://www.flickr.com/photos/11638547@N00/4619817238"
+title = "little girl"
 [[cards.sides]]
 type = "empty"
 
