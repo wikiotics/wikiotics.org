@@ -9,7 +9,7 @@ are raw materials that we can build from or transform.
 ## Picture choice lessons
 
 1.  [Introduction - short](/en/Introduction)
-2.  [Introduction - expanded](/en/Introdutcion-Person_Words)
+2.  [Introduction - expanded](/en/Introduction-Person_Words)
 3.  [Colors and vehicles](/en/colors_and_vehicles)
 4.  [Out of the box - relative positions](/en/Out_of_the_Box)
 
