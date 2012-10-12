@@ -1,8 +1,9 @@
 +++
 title = "Spanish lesson - Flowers"
-contributors = [ "216.27.154.200", "trose",]
+contributors = [ "216.27.154.200", "Laurent", "trose",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
+target-languages = [ "es",]
 [[cards]]
 
 [[cards.sides]]
