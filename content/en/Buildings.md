@@ -1,9 +1,10 @@
 +++
 title = "Buildings"
-contributors = [ "tomfy",]
+contributors = [ "Laurent", "tomfy",]
 dividers = [ 4, 8, 12, 16,]
 headings = [ "Side 1", "",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
