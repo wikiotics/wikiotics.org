@@ -1,8 +1,10 @@
 +++
 title = "FrehcnGreetings-WikiBabel"
-contributors = [ "ian",]
+contributors = [ "Laurent", "ian",]
 headings = [ "Text", "Audio", "Language", "Speaker", "Gender", "",]
 type = "lesson"
+target-languages = [ "fr",]
+source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
@@ -1784,5 +1786,10 @@ type = "phrase"
 
 [[cards.sides]]
 type = "empty"
+
+[[interactions]]
+audio = 1
+transcript = 0
+type = "podcast"
 
 +++
