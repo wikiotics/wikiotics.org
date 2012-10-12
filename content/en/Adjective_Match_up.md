@@ -1,8 +1,9 @@
 +++
 title = "Adjective Match up"
-contributors = [ "l_miguez",]
+contributors = [ "ian", "l_miguez",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40,]
 headings = [ "Prompt", "Answer",]
+tags = [ "ESLworkshop",]
 type = "lesson"
 target-languages = [ "en",]
 [[cards]]
