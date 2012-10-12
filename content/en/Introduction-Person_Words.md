@@ -602,8 +602,17 @@ text = "The woman and the girl are running."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1XD0L1GxRskrfhXn_f4F06_R3B_zhkgYPA0c4iSvlCb2TxAgh56_2s5mKTo9MkF4"
+href = "urn:sha384:GuUb7RQZt8asQ_tPdKSdjGiIBu3K8xuDHLsHTckzi6MtvTR3WJB_EDwdauzf-76G"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72825507@N00/3416139096"
+title = "Two females, possible a mother daughter team, jog barefoot on the Morro Strand Beach"
 [[cards.sides]]
 type = "empty"
 
@@ -614,8 +623,17 @@ text = "The man and the boy are sitting."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:D9RROx2fnyDRkaTq1AgXSJfbYrWVcxWQLr4FAKOCxcoOL4UT7eKLbH-sxV5tI4DD"
+href = "urn:sha384:rJcjGoz-SSI0Vg0ktgVOkROk-VcMYdZ52mCBbAViVO15C8dYzHnxjig_9U75jnsw"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Roberto Trm (Roberto Trm)"
+author_url = "http://www.flickr.com/people/29370225@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/29370225@N03/4237191874"
+title = "High tide in Venice"
 [[cards.sides]]
 type = "empty"
 
@@ -626,8 +644,17 @@ text = "The man and the woman are walking."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:620VHTvAuq8aL3JbNZ5JsixKsmDxm2vTfPxKANORxsUWxE52y1gwE0OG4mj9RhPC"
+href = "urn:sha384:H5au5oO6DoZ_4dqrM-JVnOHe9tsu-tpIcUY2orD4CVmUfiGwNy7Mm0GZa8t_ZU4j"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Kevin Van den Panhuyzen (Kevin Vanden)"
+author_url = "http://www.flickr.com/people/79770480@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/79770480@N06/7323460066"
+title = "Old and Young, Man and Woman"
 [[cards.sides]]
 type = "empty"
 
@@ -638,8 +665,17 @@ text = "The boy and the girl are standing."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wCIQJoOcbhL2BTjuVbNvgdw_IdfIn7fVhhFSjrtb9fEY03IlUr7kdcRuaHETZq8L"
+href = "urn:sha384:mWvVzuBDZo_mDY3jI4OL2srHVBG0F0ktvvTR8LuB4zI6fNHX9LLIBPBQ_7ABQpHQ"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Marcus Hansson (Marcus Hansson)"
+author_url = "http://www.flickr.com/people/87603889@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/87603889@N00/7758919054"
+title = "Happy boy, sad girl"
 [[cards.sides]]
 type = "empty"
 
@@ -671,8 +707,17 @@ text = "The man is sitting and the woman is standing."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:z9oi-nomtHekVVD_b7uMC8Pc9hBExJkUi7M7ryh_C9SlZwjmkYi5TOOmxZ9ba-Po"
+href = "urn:sha384:G7-Q53Z3c7wZtTpANBogV0xxfWarEYhskM0Nw1lK-xnO_V37CM1G2leJw67XqtnO"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Nasjonalbiblioteket (National Library of Norway)"
+author_url = "http://www.flickr.com/people/48220291@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/48220291@N04/6788213132"
+title = "162. Thelemarken, Gruppe"
 [[cards.sides]]
 type = "empty"
 
@@ -704,8 +749,17 @@ text = "The man is standing and the woman is sitting."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wOx5KzwkLCqpD7cgdw9OM8owlNfsK0_s4NondKcSXXQaNDyZ7DNT_oeGckH-_aco"
+href = "urn:sha384:hxoWKJER1Mje-hU_qVm1uD2l_BLa7idkAn2I3L_1FhCtW64Kv9RXP5Ve9Ttmv2sC"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (BiblioArchives / LibraryArchives)"
+author_url = "http://www.flickr.com/people/28853433@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/28853433@N02/7509282230"
+title = "Two cyclists - one man and one woman - consult a road map on the bank of the Ottawa River in Rockcliffe Park Village, Ontario / Deux cyclistes  un homme et une femme  consultent une carte routière sur le bord de la rivière Outaouais au parc Rockcliffe, en"
 [[cards.sides]]
 type = "empty"
 
@@ -814,7 +868,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The woman is walking and the man is sitting."
+text = "The woman is walkng and the man is sitting.ing "
 type = "phrase"
 
 [[cards.sides]]
@@ -979,12 +1033,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The girl is walking and the man is sitting."
+text = "The girl is walking and the woman is sitting."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:O05EPWwITrsEd8_ry60bnCyPYzZhjobPRnQlbny-Od_qFtQdBpUEF5uVpDX0nwCw"
+href = "urn:sha384:nf4VlFS5P_ZTlyu2BwYJsHr7Bpheg4Qq-GvvS3wUn8sgqR1z3LJh1KK5Zw-ddUJP"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Paul (crimfants)"
+author_url = "http://www.flickr.com/people/81565156@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/81565156@N00/266600095"
+title = "joycerinethan"
 [[cards.sides]]
 type = "empty"
 
@@ -995,8 +1058,17 @@ text = "The woman is standing and the girl is sitting."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:a7Dayn0juETY8i559tiYO27JHdE53xeqUG6VNPa_KA754y1BeO1_t285pyrToJj5"
+href = "urn:sha384:iHHuZliDU_aHIyl3jlSJl9mDALbGnVbh6srU2W1wajT5luVNKnjR9asRvmiYpSsL"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Steven Depolo (stevendepolo)"
+author_url = "http://www.flickr.com/people/10506540@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10506540@N07/4371509131"
+title = "Lourdie Dania Beach 1002023"
 [[cards.sides]]
 type = "empty"
 
@@ -1007,8 +1079,17 @@ text = "The man is standing and the boy is sitting."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:2d2SVzWMCp6b5yYcZDVW0tfCRY7lHYQYLqO-XUEAsPexMWLoRvOptdzKDtxCq4Vy"
+href = "urn:sha384:BQvX24rxuJG-2bJdwlEw112Dqi37wXziCcjT7e9xQqGfm6ulTZ31kkspOt0-ZezH"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Tim (TimothyJ)"
+author_url = "http://www.flickr.com/people/15572047@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/15572047@N00/6923612594"
+title = "Ken and Wesley (and Coffee and Blue)"
 [[cards.sides]]
 type = "empty"
 
