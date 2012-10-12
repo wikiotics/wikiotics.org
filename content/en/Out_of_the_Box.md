@@ -1,8 +1,9 @@
 +++
 title = "Out of the Box"
-contributors = [ "207.86.247.126", "lisa_a",]
+contributors = [ "207.86.247.126", "ian", "lisa_a",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56,]
 headings = [ "Phrase", "Picture", "Audio",]
+tags = [ "ESLworkshop",]
 type = "lesson"
 target-languages = [ "en",]
 [[cards]]
