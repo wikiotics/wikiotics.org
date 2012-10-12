@@ -1,7 +1,8 @@
 +++
 title = "Meet-Up Lesson One: Hi. How are you?"
-contributors = [ "190.18.65.132",]
+contributors = [ "190.18.65.132", "ian",]
 headings = [ "Phrase", "Audio", "Speaker",]
+tags = [ "ESLworkshop",]
 type = "lesson"
 [[cards]]
 
