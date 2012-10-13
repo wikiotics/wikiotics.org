@@ -113,7 +113,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Brothers eat icecream."
+text = "Brothers eat ice cream."
 type = "phrase"
 
 [[cards.sides]]
@@ -134,28 +134,28 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The family eats pizza."
+text = "Grandpa eats ice cream."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:SZswQfEDDakIj-ttarhxS-3QAkDM00M1IZfOZMjp6mAHzt3DIN0ci-WvZJ5-f9ik"
-href = "urn:sha384:zOqALTr9a4GMSvVpIvjen80FOUrsM2eFtLQvw7sCrPKv2S1IDLivBUYSovV_kh6c"
+blob_href = "urn:sha384:3vcNFIqfJHy5iGY7_yVfGPr-WfPor8mQDl_Xh3aXWzdlIH53bGxhsMn9gc1iS2J9"
+href = "urn:sha384:Zzxklf55gq4Z4_0MKIJTOLXCp4Lxy6L970XfwoUvAgM7XZ5AcftDjYFx44AxPkT3"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Chris Corwin (chris.corwin)"
-author_url = "http://www.flickr.com/people/70872463@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/70872463@N00/137069992"
-title = "pizza break"
+author = "Ted Sakshaug (tsakshaug)"
+author_url = "http://www.flickr.com/people/75389315@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/75389315@N00/4575283994"
+title = "Dad eating icecream"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Mom and baby share ice cream."
+text = "Mom and baby eat ice cream."
 type = "phrase"
 
 [[cards.sides]]
