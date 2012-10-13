@@ -7,7 +7,7 @@ target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "This is an apartment building.."
+text = "Families live in apartment buildings."
 type = "phrase"
 
 [[cards.sides]]
@@ -28,7 +28,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a house."
+text = "Families live in houses."
 type = "phrase"
 
 [[cards.sides]]
@@ -50,7 +50,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a brownstone."
+text = "Families live in brownstones."
 type = "phrase"
 
 [[cards.sides]]
@@ -71,7 +71,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "This is a shelter."
+text = "Families live in shelters."
 type = "phrase"
 
 [[cards.sides]]
