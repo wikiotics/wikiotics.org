@@ -23,7 +23,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/73645804@N00/4053707091"
 title = "breakfast: bunny in the hole"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Df_ZZsFFb3Vg96NBeo0kXRnKhEC8Mf1itSWXKeTUALRSakvDSU6c-bnx9ST0fO6Z"
+href = "urn:sha384:ZfajjEaBxJv82m1TxHcKw5Jlk87aG5RxKsxBHYpaEqm0G1QL2S0gn6SRMQ2uGy7k"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -44,7 +47,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/31687107@N07/6844761029"
 title = "Scouts lend hand to Jacob's House Orphanage - 27 JAN 2012"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:S-fcuGYrNtvovrOkNQdVbMVECdkl6-eGTp-zinhdSAq__wyXAzxVHI5z-6xX9yJN"
+href = "urn:sha384:8N6iB4irLuVEUGIJQOdAxFJTsNDbPfsNoB7kVEoG3RC7NcbjjgMWtPRkkS1JIxwI"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -65,7 +71,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/19429588@N00/175164606"
 title = "Kristen helps David do homework"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vorGiz-BLTUd-yfQuejgaCtyIeoYOY4jpExgfb7VMdXoVnCGILjPYywpFiOTLn-r"
+href = "urn:sha384:FxNAWmEbkc7lCG-n-FWr79SAyxMfwYu33GBRGIKfSL-Pbkd0BG0iWi3Ff3QdxT0k"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
