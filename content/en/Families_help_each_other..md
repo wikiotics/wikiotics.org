@@ -49,7 +49,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The mother helps with homework."
+text = "The sister helps with homework."
 type = "phrase"
 
 [[cards.sides]]
