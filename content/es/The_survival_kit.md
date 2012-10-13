@@ -1,6 +1,6 @@
 +++
 title = "The survival kit"
-contributors = [ "Laurent",]
+contributors = [ "Laurent", "ian",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "wikibabel",]
 type = "lesson"
@@ -67,7 +67,10 @@ text = "Sí"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:awDHnsqmArDyxon781RT8A13XpEaDLeSMntdeVzpSwjMKnG7v0XNwfjfX-PQQ8pY"
+href = "urn:sha384:rYz4AYVMu8OG-ulXOW1_PzuU3STka0lEaNJUcSKJtCVI_TYDgr-2wnZOrQVw04Zw"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "es"
@@ -104,7 +107,10 @@ text = "No"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:n8JMFRaa7Pg9QpkQTvk4jZy6vCMKpANwUB04XyJ29EDtdX4IFXpYwrSLL_IkLGWm"
+href = "urn:sha384:Zv_u7p7ZmktIXIuNeyssM47yICaks3Ae4pD3x2f4LMhUxIv4yDxRLKc7nfUmhZpq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "es"
@@ -141,7 +147,10 @@ text = "Perdón"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uvbeK-ci9TNCwLDBboLoWKuqmkdMO20AupE0OV15JIdDjpUahNYXbS6xZ79sjpsY"
+href = "urn:sha384:lRWttShopqbM2Wnwfz_2w6xCuzkCbrpc9KPW--8zUlseu7poVv0aMk5M7vt83N6y"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "es"
@@ -252,7 +261,10 @@ text = "No entiendo"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XtvbGubmGHMUOpjS_qH17-UahbjmeFtv0EC8a3DepKlLWmuEDekwTaPc0OJBFBj6"
+href = "urn:sha384:L5WQrnfc85bKznLjNNBrxv1SbYlwHprACe2VUdVlnohMZf_eaWiHehxFknkSJRNE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "es"
@@ -289,7 +301,10 @@ text = "¿Puede repetir?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:djlZR8wNMhAHwrfNRt3-0V-YIlPbEur9YubG9hpdQ3958AKOR8ZPRmk4JDpW3UM9"
+href = "urn:sha384:Dj9m9C5PNmsLRR4K3LWOQPpbB6NfCCLDPIbafPBpl7isL2_eNViAktDTbT9_ZHQr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "es"
@@ -326,7 +341,10 @@ text = "Por favor"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3RQhRom3f57BNcf3fWjALQJJGLIhLmbLooabpMRdUA6s25aq6VsqK4w6WuWX0Utk"
+href = "urn:sha384:XPLYwuBKCYSPKa_QQE0dfd2w4S6-nzs29DDjF89zIux49WuLBD94bIHfHfh_W73C"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "es"
@@ -363,7 +381,10 @@ text = "¿Cuánto cuesta esto?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gj--PEmsfASkG6eODyEuID9aQYNtB3SRCANWls8LGzLtKkyTzbLGHk3WXHpAtWkz"
+href = "urn:sha384:Mnh0dR6N6PfsKnPKOmlXNNa22b7UWNpQt7lmWTX-QnZ4pV6AGP2KySar6UkL0yHF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "es"
@@ -420,7 +441,10 @@ text = "Adiós"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kzCu3a8k6VQsAmeXTj6T8PJKYELlnXEMA8cKqaPNliReugeVTSNhCIfXiAjlP2Vd"
+href = "urn:sha384:robmnFe2mdCECXpeny83QC9h1XB_RZ9MPo_QstROjUfNMxZgvXgUgSATjE2baucN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "es"
