@@ -11,17 +11,17 @@ text = "This is the school."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:HInc9V5IfKh-47QBZFiT2ry-ClDjCqwFSswxKBBY_5sWLUyP9wsEyM3947yltyvA"
-href = "urn:sha384:EIz-mj6--MoE0YDqxDcjjYaqZJ5EAgqZE9wydJO_ve0ACMpJV3cypkm2LP71_5N3"
+blob_href = "urn:sha384:bggs5RVuYFKZe7ZLMJrdJs0Xa-Y0Ss4mUEl73360YBx4q3mOyCVsSAIuFpw3LuA8"
+href = "urn:sha384:E9dh2qcwocSFCAYGUAzOGPRVZ8J9eBcTj_cGrOU1rO6I7uIapuG_QoV9lcmNaEqG"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Paul Lowry (Paul Lowry)"
-author_url = "http://www.flickr.com/people/10039026@N03/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/10039026@N03/2346510210"
-title = "P.S. 292 -- Margaret S. Douglas Middle School"
+author = "Dave Winer (scriptingnews)"
+author_url = "http://www.flickr.com/people/22221172@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/22221172@N00/5363933325"
+title = "Bronx High School of Science"
 [[cards.sides]]
 type = "empty"
 
