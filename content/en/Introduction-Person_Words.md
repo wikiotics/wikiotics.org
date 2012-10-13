@@ -121,7 +121,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/50852241@N00/2436720309"
 title = "Man in Cappadocia"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uWbA3KOZyp4QD_pJ4mjabLtXPKzY1vgR84vfuv4QFh8cklhoXpbJnocpQpcLwVh7"
+href = "urn:sha384:HuilFqs2qf6e8qi5GoKzLWrLOcqVs0p2Bk6iA1Pg8UGMoXdOJsfw-W724fQtaA9_"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -215,7 +218,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/78019868@N05/7279007626"
 title = "Man in a Fedora"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YdhqIJ27bCX6WLhtUNKvGB8BqL3sLVPgxSjVqsS3pjSAx9jxqo6t09d1F7yq5L2P"
+href = "urn:sha384:H4MLchf2wCRCr7p7N2FGV7qnJSNr3w6yZZNUQ6iloG1tpUz4WAqz7A4utP9a8szh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -236,7 +242,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/73645804@N00/3927296355"
 title = "boy, with back pack, running"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:56U3wGEVR_U72yOZ8QLpqddxOfJjPV9ccbmRFzhwh_fYDxrK59NIwdm1wqcO1Qzp"
+href = "urn:sha384:sE0ZCgqzaKEr-CRp5qVeXrK-3OH-v8OPjxjgActJtlMMFU-5dIkBFgUaa7HrhkC9"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -257,7 +266,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/35237096343@N01/410874840"
 title = "Woman in Blue"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dURD8_QhAKWEdwxaeEebGXIqCsoKE8ALTReUhT1ZB7mU96hBuALeLPf9qqGRzy21"
+href = "urn:sha384:ZGtD64WM8wfkzd-kjHx55NG9VH0dAVKJejpkJC3lRxnY7W2Ko1znNI5QMFJLAvIV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -278,7 +290,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/72825507@N00/3851362308"
 title = "Cute Little Girl in Pink Walking Beach.  People scenes, on the beach on Morro Strand State Park just north of Morro Rock in Morro Bay, CA.  23 August 2009"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_Xs-1n-LE-GoJrQ6dfdNqTiUkSql4fTewxyjEyIiVdKK75PWvfQ2HyO3ndSpnd3V"
+href = "urn:sha384:P5UX8u5240mPIC1p3tVULNcPvxQzfv9rLk6FZL_HAJh1tfsdDxjwi8XxBh9lOHUS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -299,7 +314,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/31157339@N00/3368893699"
 title = "man sits and reads"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:u6ngSliOuq1iwythrIZJGB05rkIwMh-rp4szybqfN58Z7JHK6kgyUEperbshbwRm"
+href = "urn:sha384:E4dfhChorj5tpd0nnfk1OIMjHK1muxFS5RqdzjRH1occiPgsjDAzQ3sAxgTzYyCY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -320,7 +338,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/73645804@N00/3927296355"
 title = "boy, with back pack, running"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1dOL0P4-TJ5Dh5XRRe9xZF9LFmWCIpipsQOIHY6ipNRni31u_0_DVsVpiLDwPdPl"
+href = "urn:sha384:sLP1SCYQk4tIsDx7d8vNEis6UFgzgGjJkAuh8Rz5EI0APMXRs1L3WvQKbCvfIgxO"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -341,7 +362,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/35237096343@N01/410874840"
 title = "Woman in Blue"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Y6MQFu9-dToRJ63hpDXiHS33dkHD7b6Xh-iqwtzVoPGEYisr5WuDMoaU8m04kER7"
+href = "urn:sha384:j6a21b7rVpOBxDhiAxJXDQ7ycdOX953B7Jw49l9nCNcuM1fyuLwwEkhh3n9Y7tvj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -362,7 +386,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/72825507@N00/3851362308"
 title = "Cute Little Girl in Pink Walking Beach.  People scenes, on the beach on Morro Strand State Park just north of Morro Rock in Morro Bay, CA.  23 August 2009"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kZIpMypFF0U9MODabsD9xzybkVR_Q1nXOE5kSzIZabtmw4UOHTw9TJhzVN3c8MCX"
+href = "urn:sha384:cEStycH-f6BIxNi45FBSycEwAoTeLqzJHgo9jE-K3z0mi3t9px7ceMQTjd9Mv08c"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -383,7 +410,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/44124401501@N01/241050662"
 title = "Men's Fashion in the Twentieth Century - page 109 (image only)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zz6b63TYgr8ttPc4Fw2sIkVnVSFlhDomUNS8txd_EemHLY74GCgkOK3_Ww6ZqZ68"
+href = "urn:sha384:9TX84bjg8EG72oJZy821jVstyoAIKDkAoOUJqXIwTzCcyvpHNjWjf9I4RUgOHtJm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -404,7 +434,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/47529200@N08/7644722220"
 title = "Smiling young boy sitting on a wooden deck next to a phonograph"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Xq6fb05USvkUzT1HDG_5vwwFT1IIpYYSFa6855j68seBE_WF2Mb-eVsrC4mpI7Dy"
+href = "urn:sha384:aKdSEQBmxoOEc4zSkHUt2LCOH4OL0kHD3sbdxcX2rnLNdLIxDzv5K6TUnz5HIEAh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -425,7 +458,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/24415055@N00/6454326535"
 title = "236 Jennifer Daniels North Brooklyn Runners NBR 100B7543.JPG"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ZvQL7xXUWbK8EcCA8DNHJmgm8KiNWnXT2tQFPOxl704DLvhwouqppd_Kl5Oc2aGI"
+href = "urn:sha384:bKWe-xHWpMW6DteqO9yvb3OB8l6WyD4z_BWZgnl1Ac9AK5iKowBC2qGeY7z6w_P_"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -446,7 +482,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/23116228@N07/4206390528"
 title = "Girl proudly standing next to her UDDT"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fdLsfVQdnQhfJNSz3I4NJCio061LctXtw7RV51CQ6rOBuWERG0_dHNFSxFXHt7Tu"
+href = "urn:sha384:_-n9TaqMR6KLawfSW5_ziZIg36ZFX5o5sHQ00bfJdx2Zl9ITjck5BAxwxlNW3lzH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -467,7 +506,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28853433@N02/7509282230"
 title = "Two cyclists - one man and one woman - consult a road map on the bank of the Ottawa River in Rockcliffe Park Village, Ontario / Deux cyclistes  un homme et une femme  consultent une carte routière sur le bord de la rivière Outaouais au parc Rockcliffe, en"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:loBvREcLZKFp7hffEkCQ8pAmFDDcpx_iLd7JpKFMQrzmgSSi8fdxjRPebIPB7GUY"
+href = "urn:sha384:CxRGTlCTnE36BujuYpgLBap_0iL0lT6ID5Glk6OBcyzSW_ctkBcTN1tN-xK8o92T"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -488,7 +530,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/73645804@N00/209574201"
 title = "full house"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Do2hJvrUXxIv04fzh7HL8sLxtY5rkrf8B27Yoja-N0QYMno4AtvtWPv8UDqX07Ht"
+href = "urn:sha384:2LzKHRF__iY7EQocvp69IPljWIl3DSlJXT2CnUKgUEGPUgiXcdaBzImGcuOhz7s-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -509,7 +554,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/44458546@N00/4084018261"
 title = "DSC_4575 2009-11-07 19-48"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:aIiL3_g1SJ2JwDrdazJtZGYjR8EL7kpdjjvd0IAlB5-0M-L80In864oa5bxjOm8P"
+href = "urn:sha384:zP1pc429Ot2tPwFZ0nuFNhzC8aUG-rHOEeV-9V1sUvNtWPvTX2vCcldjrrH269Vr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -530,7 +578,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/72098626@N00/2714766155"
 title = "Father and daughter"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lSrfStU876ZYoJy7J8XcFK9B4eL1qoAk6dAWHk_dds04y1TotOGe2s80Pwgb9TgV"
+href = "urn:sha384:e54T72C_UOSe2Kmc_h9o20Nt2GaFyN6AMxLjZ8bhZjfyCtMY2BxXMdze--JoVAMW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -551,7 +602,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/72825507@N00/6071605825"
 title = "A young couple walks towards Morro Rock from North Morro Strand State Beach, Morro Bay, CA 22 August 2011"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:e6R9opfZVk_bfG66NWGIESxxO2coLH9n3IThD83JkzkNwD3-mGgtuUumIIrhgjXE"
+href = "urn:sha384:UwXC8e9ii6ORQ63ph8v0WNrNdezkjGrGFx0Z-ZqfT4zQy-8L6LOdEnvB7yHbLQ-v"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -572,7 +626,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/62126383@N00/448750155"
 title = "Aaron and Kirk_0297c1"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:O4uXaa64goBb03vduykwdZ5eE2k5cTyjlw9f82xeVMUBeqbAecth1nySuXcqSnc6"
+href = "urn:sha384:iLHgbqm45vYtt3MoAwvNX2XkGiJqJVjTG-DuIF5EMOci3z8lJSnJom_EuHPHftCU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -593,7 +650,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/60509459@N00/5673457877"
 title = "The egg hunt is over: Time to go"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:PihNIrxFtD37vDqWs6_NRHBxoHWzOSqZd-VhbIahAzbuphr5bSrYowCR8MnIZCgf"
+href = "urn:sha384:ap18KlZgFG7TysZ9Mi25c5y_J7dwPzPj4hJfyEfVphOosVgAcXiC6hvplXIQJFs2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -614,7 +674,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/39727414@N00/130723208"
 title = "Brian Tia 2006-04-17"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XGGvYS5-8DuL5qFLGGY3ZErFGbn3kd5wPT9O08bUBPEUr9guF2OayIrjSpqXRPiE"
+href = "urn:sha384:Buh-Klq_9tOmyzbqVRHdXJlPYuEkiEqjOsYoqxlv7fcHhrvBgOGt-lU7ZpRfenGR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -635,12 +698,15 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/72825507@N00/3416139096"
 title = "Two females, possible a mother daughter team, jog barefoot on the Morro Strand Beach"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jWoEaIKA8VSN11XZkGMNdYTepSofjxmgjeaAw-wZ-_WhxUA860T5FBpQuib4NERk"
+href = "urn:sha384:oSbankdjQW7zczzFY_El6B69lv_oYoXE86OIIcU1vO2UH3ZcSgjgRTj4o3NyzXqs"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "The man and the boy are sitting."
+text = "The man and the boy are walking."
 type = "phrase"
 
 [[cards.sides]]
@@ -656,7 +722,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/29370225@N03/4237191874"
 title = "High tide in Venice"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gdJ8k9Ef2IBo0a6Sz0OSouMmoD3Mks3W3SnG5a1y68kcjEj31z4blenA5U_3ASP_"
+href = "urn:sha384:hU4wcdXkLA9Bp2MjiGh8G1EEX5FbphycoTUXzvCAM1xiE105kU4eCsduNWSFhFy_"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -677,7 +746,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/79770480@N06/7323460066"
 title = "Old and Young, Man and Woman"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8n_p_c6TFC7AkooWMu6La4rMhZZM83QqwXWC8K4UBoGYbf-ui9nn5Hgeo1VlJYh2"
+href = "urn:sha384:GMw352Ya1ENHq5DzNEleEKAYhHgn-nfK-5-z-V4MLXTNk902Ht_fO5tn6Gh2-I_b"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -698,7 +770,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/87603889@N00/7758919054"
 title = "Happy boy, sad girl"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XfYlcmtNNO4GaBLqhPRRYRukPOyqBxQ1YE8VP4wqmBrg0H5oVjZUJpcbdpOfgtT5"
+href = "urn:sha384:l8UMBuBalvas_f45DW56GyH7yuYmwoDD1xvOUSK1p282bHk1-NuuJZs3-9KXyKfo"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
