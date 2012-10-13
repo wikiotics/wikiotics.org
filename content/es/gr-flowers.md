@@ -1,6 +1,6 @@
 +++
 title = "gr-flowers"
-contributors = [ "216.27.154.200", "84.88.37.137", "Laurent", "trose",]
+contributors = [ "216.27.154.200", "84.88.37.137", "Laurent", "ian", "trose",]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 target-languages = [ "es",]
@@ -23,7 +23,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/52132044@N07/5137709567"
 title = "A rose for you all!"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:aRaEBIQQ6U9F4gyF-0AcYc_LVNt77hk-wa1iTRG8QTuqTw3wkpBFphp9GjLUy0ML"
+href = "urn:sha384:i7GAkvpfwDMIu2DUGcuz1IwF7Lkl87XMAVhWHej2mMoOnjynKOVQ_utBT1Sg7Aky"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -44,7 +47,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/41931415@N03/4838669164"
 title = "Tulips 1"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1uHnBuIIYux9ruxpsoGve2yGlo8QaPUloQhvoG6TebWtb-g_hocBRB-4nr96j1Hy"
+href = "urn:sha384:AoSqvtO4WS9-ZZy9Z8Zd7tIw7IdRucuJDysHC6AbFQW5SZsiTt2eFX4A7UtTNYla"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -65,7 +71,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/40041412@N06/4832298643"
 title = "Daisy (Colour-Corrected)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:T-_RkXf5FZj9e1d0FbYGGyZC88_wJh5doRYcKtw6NgWCylyTpdJMFHqBxIPM0bKw"
+href = "urn:sha384:Ht0lMHQWObmezn9FazS2zyDRfwDmuhtKhgPQR5FhLvlALWyuC0K98IpVj09gCxm5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
