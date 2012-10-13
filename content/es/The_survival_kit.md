@@ -187,7 +187,10 @@ text = "Gracias"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:J9nJKK60McjXTaLWcLEO_iWZpIGBjcGLCeaQ2FKmJpDtfm_qHzGZdo_W3EytTAe2"
+href = "urn:sha384:hZrbW4YRWAILxMV2NKJjnZFOnDFT7J6b2VRG3uDssa1_YOiH3MbUzg9obMFx2gfM"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "es"
@@ -224,7 +227,10 @@ text = "De nada"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:QFjTA2_De7HKmVaxfodD7LzqHdNSxFSkJ0NF3DupYfWU69AbrQmVonZsCXjXKlAG"
+href = "urn:sha384:iz-G8Bdg-0OVw-oBiwXuj3GOmXixzM_4gExMN26j_SUk5G_TtMwJouPTSZYHm9QO"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "es"
