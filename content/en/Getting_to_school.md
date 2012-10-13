@@ -97,7 +97,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/99247795@N00/742586262"
 title = "Palo Alto bicycle commuter"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:g5f8uuQy8jM_GnKDpPqDaaKD6jnKzEuMoGw4y11uw7aLDbPp_jJRjksokFWFhy4H"
+href = "urn:sha384:k8fW4dbC7irMhQrzqwM7CM9df450uLpR_thyKFP76IpkC0C1KJBSy7LfeMNb7SSY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -139,7 +142,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/9993075@N06/3023833559"
 title = "Ferry and Alcatraz"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Gg3GU1aXYuR3m5mgWUg2lAGKAA6cq39bEQ6sT2yFXbuENULTRLrXzzkbjs2JfwgD"
+href = "urn:sha384:dhg_y46_chZLxGQdS9MO-iv5GIH0A1CgH736JERw1kE0i7jQmoEPlanU76vscXwy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -160,7 +166,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/16405999@N00/92406343"
 title = "School Bus"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IHOC_VxYYFFdRvk7rEoouyy68_C1tma6J21qKPHigyj6NQQ7YDH7onQIWXdeKOoM"
+href = "urn:sha384:qJiKokV9rieinq17b8LwkDBIRZLVVBfjxShTcRQ-EcG0NWpH9rt8TVba5Nx2SjhQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -181,7 +190,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/47335827@N00/2172773073"
 title = "Tram 1"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8TAwqqq2axBQ7LpeGW4zRDgjxUwOc5xVSBsp27jq_GpTkhMO3BCePcPUOGz1zuuw"
+href = "urn:sha384:XnVCDeNzepPcxzxihJQWolpG83EGV4LOOhKIFJ_1_EtTV9Hc0UaHOyLiUx2-8Ide"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -202,7 +214,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/59564901@N04/5650331284"
 title = "vespa lx 150 i.e."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rak8wM7NAe6loYtF6fZl3JpdS3U7goq9PFMD9OuC97xJ5WTEDH3Gi-aL1qt1i3Yl"
+href = "urn:sha384:AgFiKSwkemCq0tzOQEgRIQq03ksEhXPEeEqeAqWvwM6aE1Rh6sKhZ8-W9UAqJVw5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -223,7 +238,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/44934431@N00/5469256289"
 title = "My Old Razor Scooter"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:58rHUk9LG4n9ILcBjA3k-_KPNVRBplF3Zv8fQtYCwxefyrpg3kfuMLyGF80JeBrt"
+href = "urn:sha384:XL1D3aCvRk-ZVjxzhlJnnuHGpqLcUkW0Ish5GQ8vILWkroAPdDR2oCWS-8keXslj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -243,7 +261,10 @@ author_url = "http://www.flickr.com/people/7972895@N02/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/7972895@N02/8028512672"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3EXxXrsg82hc-wZgDL4w5iUFa-K_kPOdwMNQhSLbIlhlaRub_qj7wSwSxJu-Ct3_"
+href = "urn:sha384:2JtsgqiEG5oTnVQvPwBSKegfAJSzUvpDVaebCgeJypsZJNxw4jPO8fLrH_fxDPCw"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -264,7 +285,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/95012874@N00/3672310750"
 title = "Rougham Airfield, Wings,  Wheels and Steam Country Fair."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:axOGJmJPHzXAH3o6W7vSCH3qKUHLujZMNoCCDqqpKPpx8wEO4oHMLtf-dYTQHk8H"
+href = "urn:sha384:x2Y40TGljfouylb0huo9pBeaYznGRN_sCBGrSrkbGTSnUcCVFij1cNA6yMA6OA6u"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
