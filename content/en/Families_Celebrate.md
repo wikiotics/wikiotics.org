@@ -74,18 +74,17 @@ text = "Families celebrate weddings."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:1n6N2Z5-ydfjv7SPjBZpd4jmzyHyVezMLXROklsHexyV5l2iERPOIj2IIm3Ucnup"
-href = "urn:sha384:3SvpeIMNFMkshGG-QOycdhxAo-ZgBDJHRj4_z5trmx90jvptesSLcXi8tIDF8jOx"
+blob_href = "urn:sha384:YKyvjYq1Ip_1iErCJAUWEgvqPNZd5eH-3FuFB376xC-uM8HJ23N10GFKDJZv1U4P"
+href = "urn:sha384:1hYZYIn7fD9dL54PMk0oj0Ugfpk1ZaZKi-2Q7AgESkdyELHGUY8eefDuBaOeIgzg"
 mime_type = "image/jpeg"
-rotation = "90"
 type = "picture"
 
 [cards.sides.credit]
-author = " (rajkumar1220)"
-author_url = "http://www.flickr.com/people/66555845@N00/"
+author = "Arian Zwegers (Arian Zwegers)"
+author_url = "http://www.flickr.com/people/67769030@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/66555845@N00/4216392996"
-title = "AN INDIAN WEDDING 227 (106)"
+original_url = "http://www.flickr.com/photos/67769030@N07/6211610799"
+title = "Nyaungshwe, wedding"
 [[cards.sides]]
 type = "empty"
 
