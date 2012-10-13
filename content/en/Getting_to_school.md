@@ -9,7 +9,7 @@ target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "subway"
+text = "Yo tomo el tren"
 type = "phrase"
 
 [[cards.sides]]
@@ -30,7 +30,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "car"
+text = "Yo tomo el carro"
 type = "phrase"
 
 [[cards.sides]]
@@ -51,7 +51,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "walk"
+text = "Yo camino"
 type = "phrase"
 
 [[cards.sides]]
@@ -72,7 +72,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "bicycle"
+text = "Yo monto bicicleta"
 type = "phrase"
 
 [[cards.sides]]
@@ -93,7 +93,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "taxi"
+text = "Yo tomo el taxi"
 type = "phrase"
 
 [[cards.sides]]
@@ -114,7 +114,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "ferry"
+text = "Yo tomo el bote"
 type = "phrase"
 
 [[cards.sides]]
@@ -135,7 +135,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "school bus"
+text = "Yo tomo el autobus escolar"
 type = "phrase"
 
 [[cards.sides]]
@@ -156,7 +156,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "tram"
+text = "Yo tomo  el telesferico"
 type = "phrase"
 
 [[cards.sides]]
@@ -177,7 +177,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "vespa"
+text = "Yo tomo la motocicleta"
 type = "phrase"
 
 [[cards.sides]]
@@ -198,7 +198,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "scooter"
+text = "Yo tomo la patineta"
 type = "phrase"
 
 [[cards.sides]]
@@ -219,7 +219,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "city bus"
+text = "Yo tomo el autobus publico"
 type = "phrase"
 
 [[cards.sides]]
@@ -239,7 +239,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "van"
+text = "Yo tomo la minivan"
 type = "phrase"
 
 [[cards.sides]]
