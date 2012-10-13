@@ -3,6 +3,7 @@ title = "Where families live."
 contributors = [ "Lilybainne",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
