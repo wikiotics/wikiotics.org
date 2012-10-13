@@ -120,7 +120,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/73645804@N00/3338235706"
 title = "improptu field trip"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7mhIkp4EOSlqYRsY2ZBWDsTOJ-CqbpMAYywWKi5mxsg_tjI-5xjn2SvBdbM2DDDl"
+href = "urn:sha384:psE8ZOYSClug2oztGYLWE30Sk22vrVobb5iCYaitWqoOVDikLzBqR8UIQqYgw5wj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
