@@ -14,6 +14,7 @@ Lesson ideas:
 4.  Clothing
 5.  Talk about my house
 6.  Music
+7.  Housing
 
 ## Picture choice lessons
 
