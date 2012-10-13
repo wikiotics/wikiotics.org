@@ -95,7 +95,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/42528087@N00/6569933925"
 title = "Maria reading a new book with Grandma Barb"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ytv9pgPtm3EsPU-bbkuqFFFgwu0V0mEwXupqH53Q_VWkmNX6oq3BFfqbKIl0wFn6"
+href = "urn:sha384:MgnRwtEMkKf9R3aPuawWetYiyzLvz8WJPDzDSgHD3h1UOcpsPUigUYMEt0mvs1hc"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
