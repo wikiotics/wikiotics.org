@@ -121,7 +121,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28145073@N08/5952262922"
 title = "Taxi"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:p6C07jKCfUcmmbWXxiSHmFYx4oh2ZGK14BbFE6UiTFgi4JH8QvRzcg_IaJV6XOkj"
+href = "urn:sha384:2N5Q4o098C7tYt5iy8BIcxOjEboGlY8sFkrsiKmJcZXQh_KDbKwLdgjx51E2zbO_"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
