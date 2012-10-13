@@ -74,17 +74,17 @@ text = "Families celebrate weddings."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:YKyvjYq1Ip_1iErCJAUWEgvqPNZd5eH-3FuFB376xC-uM8HJ23N10GFKDJZv1U4P"
-href = "urn:sha384:1hYZYIn7fD9dL54PMk0oj0Ugfpk1ZaZKi-2Q7AgESkdyELHGUY8eefDuBaOeIgzg"
+blob_href = "urn:sha384:K-Yu39h7AGQ1-N2n6zXIt0iSPljZS2MQ-lqi5NTMaju0uT9WpLyzHAuU9iu0vsGV"
+href = "urn:sha384:6z2hwFDm3TS5H09EFYAzXrmaQjR6vmOQU97fy2VtOm0PdNmc1ZSfsa6t4SsTfNd1"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Arian Zwegers (Arian Zwegers)"
-author_url = "http://www.flickr.com/people/67769030@N07/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/67769030@N07/6211610799"
-title = "Nyaungshwe, wedding"
+author = "Su-Hwan Pyo (iPyo)"
+author_url = "http://www.flickr.com/people/48790121@N06/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/48790121@N06/7002683224"
+title = "IMG_0329"
 [[cards.sides]]
 type = "empty"
 
