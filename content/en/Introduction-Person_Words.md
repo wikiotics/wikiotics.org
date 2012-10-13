@@ -1,6 +1,6 @@
 +++
 title = "Introduction-Person Words"
-contributors = [ "ian",]
+contributors = [ "192.160.130.105", "ian",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "ESLworkshop",]
@@ -794,7 +794,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/78019868@N05/7279007626"
 title = "Man in a Fedora"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_AbPiU1axLNH4NODmAvC6ndo-HtH_RiqqbmHlRQVQM7cTMaYr57LZkwk7oCMJExG"
+href = "urn:sha384:0d1t8_8SJc0uxFk9nJxi2HNBqW7TDfrqKNrKSMJxPMjkTQHzK26yn63DwtYOW_eH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
