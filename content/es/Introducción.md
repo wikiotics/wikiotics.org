@@ -96,7 +96,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/69907433@N00/2566305953"
 title = "deathkiller"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HZpjmdOQi3oxeRaVY0EqATvkqSwjk3cO2FIaOLqIgh-gDYpFNoBNRIFbt6V4SnvW"
+href = "urn:sha384:o609EVOG_ATHWVy9v1-obsMISqxw7H_pQzsvzMs1eEglLpMP5S71AFM9A9oOgAfe"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
