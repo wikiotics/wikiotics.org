@@ -97,7 +97,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/99247795@N00/742586262"
 title = "Palo Alto bicycle commuter"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:g3_qpqNyJo625C0ub9gkwbMc2qZA_bUCfjUH6li7Dehg8JWV39c10gojrM48dL-i"
+href = "urn:sha384:DQWWNnn6rKhUOnMfp6NcoKFO8Jbl_U21uS6whxuorMsRa3FiiMs_EonkCEZgZ7Qy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
