@@ -1,6 +1,6 @@
 +++
 title = "colors and vehicles"
-contributors = [ "ian", "steveska",]
+contributors = [ "192.160.130.105", "ian", "steveska",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "ESLworkshop",]
@@ -55,17 +55,17 @@ text = "This is a motorcycle."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:WrC5MRtvyzi3dvvZEoJSVqW39StR6ZQavIWbjvDlQYSrt-NegmFc2lu-4RG-K5xn"
-href = "urn:sha384:9TTVSuutGIjUtmz2Bgl8I4zjtJcwBgzFdxSM3n_tIdazulTi2e_2YGlh2YFvcQ47"
+blob_href = "urn:sha384:_6Kui0BRXrtLh3vnGztxWLav9QslWlAJwokpUH3oKxSPr7ra3qTY7RcBoCptN2tr"
+href = "urn:sha384:fzoAmF0-dO8zohAhkqMU6GaH8XsZqSPyrMqHOSRffS3ABuhRAEyTmUd-DOPuQymf"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Duncan Brown (Cradlehall))"
-author_url = "http://www.flickr.com/people/23164545@N02/"
+author = "Robert S. Donovan (Robert S. Donovan)"
+author_url = "http://www.flickr.com/people/10687935@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/23164545@N02/3636642758"
-title = "Yamaha Motorbike"
+original_url = "http://www.flickr.com/photos/10687935@N04/4623940434"
+title = "motorcycle taxi"
 [[cards.sides]]
 type = "empty"
 
