@@ -225,7 +225,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "El hombre y lestán caminando.a mujer "
+text = "La mujer y el hombre están caminando.a mujer "
 type = "phrase"
 
 [[cards.sides]]
