@@ -7,7 +7,7 @@ target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "The school."
+text = "This is the school."
 type = "phrase"
 
 [[cards.sides]]
@@ -28,7 +28,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The icey cart."
+text = "This is the icy cart."
 type = "phrase"
 
 [[cards.sides]]
@@ -49,7 +49,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The pizzeria."
+text = "This is the pizzeria."
 type = "phrase"
 
 [[cards.sides]]
@@ -70,7 +70,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The playground."
+text = "This is the playground."
 type = "phrase"
 
 [[cards.sides]]
