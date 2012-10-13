@@ -95,7 +95,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/22666220@N00/4869199894"
 title = "Girasoli - Grattacoppa, Ravenna"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hIcEXB7CSm4HLnabtcRCwa2lOfM98U_iGmIaxSVusYQ7VR6cK8NKiagnSMJneqoe"
+href = "urn:sha384:ZdNIt2gPwlbfkTYJ3olHreV4WErIhVC-gcLtzVT3FPD2IaYRJ4RBPM6t5GCL7Ul-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
