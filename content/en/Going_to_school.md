@@ -1,6 +1,6 @@
 +++
 title = "Going to school"
-contributors = [ "192.160.130.105",]
+contributors = [ "192.160.130.105", "ian",]
 dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "ESLworkshop",]
@@ -9,7 +9,7 @@ target-languages = [ "es",]
 [[cards]]
 
 [[cards.sides]]
-text = "Yo tomo el tren"
+text = "I take the train."
 type = "phrase"
 
 [[cards.sides]]
@@ -25,15 +25,15 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/43264265@N00/145407525"
 title = "060512redline"
 [[cards.sides]]
-blob_href = "urn:sha384:OgbT3EgtlUVEpNQBaA8yt33cU_9Y16KBFbDL9aRSGPFXsvlBG-QbMdNAsY8YanUO"
-href = "urn:sha384:qvJht1ooncHH_bSVhWM96HZCcsxMU9XAC3Qyjs9t1u9yWkbxXRI_qnsP3SoAVqsk"
+blob_href = "urn:sha384:q5xZL4KrqD6-Wz9-CaGMN7rOT0-XodKR5dBZTN_JvqXX1Pb_7AKQXJm7qazbafQc"
+href = "urn:sha384:qvGfIGtqwPgHVm4nw855LwyqWcDjogevkSdsexNZK1XSu10ClllJggzr-B5MPeZt"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Yo tomo el carro"
+text = "I take a car."
 type = "phrase"
 
 [[cards.sides]]
@@ -49,15 +49,15 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/21612624@N00/5146757880"
 title = "1982 Buick Park Avenue"
 [[cards.sides]]
-blob_href = "urn:sha384:gUAqLEHfmbsYhv0JDm73tR5Ee5-QBIaoRcHVlQZhiFRbUkGXbV09Ly8rT9zM9KNA"
-href = "urn:sha384:eqinGzHLE5VXHtQ4TZ4289IxaeaERMfFZV6jZJTizjDJA1Q0_ky9JDdy0Yx4hflT"
+blob_href = "urn:sha384:vmnk0T2bTx3YaNARBViyeU44LGWrmVM3TmiCy8xx_lwDrtxTHx3a5NJRBl60D1sg"
+href = "urn:sha384:opQpA20gRaVV__XY8j520-Gw237uEN9nJZpqripfUndOXXsqNT7rpK3vDE65W4VS"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Yo camino"
+text = "I walk."
 type = "phrase"
 
 [[cards.sides]]
@@ -73,15 +73,15 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/71401718@N00/5582519355"
 title = "A young woman packing stuff in the snowfall, evening, parked cars, Capitol Hill, Seattle, Washington, USA"
 [[cards.sides]]
-blob_href = "urn:sha384:iWzQJeZRmli8q5rn1yF1OZPmRm2ncaR_4GT8hKh0j1YPMotZEvjII8y6T-mQ_vG0"
-href = "urn:sha384:xj7ESM9-8FUpCvCcuyPeffJRaU4IuxajaZl-PZnSwS3U4abb34jvOjsCcP-28v-L"
+blob_href = "urn:sha384:EY-m8_aIdrldhvByOH0RvhCuUP7jKhC9v_uMfFcYFpm-GJtzxEjUGEPU8f1xZSRi"
+href = "urn:sha384:39wYj6_NHFWvSZDyIEIVXTEBasg05BD_cFl2ndX9hmlHuI_KTZXXNJyFFM6X6au8"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Yo monto bicicleta"
+text = "I ride a bicycle."
 type = "phrase"
 
 [[cards.sides]]
@@ -97,15 +97,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/99247795@N00/742586262"
 title = "Palo Alto bicycle commuter"
 [[cards.sides]]
-blob_href = "urn:sha384:g5f8uuQy8jM_GnKDpPqDaaKD6jnKzEuMoGw4y11uw7aLDbPp_jJRjksokFWFhy4H"
-href = "urn:sha384:k8fW4dbC7irMhQrzqwM7CM9df450uLpR_thyKFP76IpkC0C1KJBSy7LfeMNb7SSY"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Yo tomo el taxi"
+text = "I take a taxi."
 type = "phrase"
 
 [[cards.sides]]
@@ -121,15 +118,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28145073@N08/5952262922"
 title = "Taxi"
 [[cards.sides]]
-blob_href = "urn:sha384:p6C07jKCfUcmmbWXxiSHmFYx4oh2ZGK14BbFE6UiTFgi4JH8QvRzcg_IaJV6XOkj"
-href = "urn:sha384:2N5Q4o098C7tYt5iy8BIcxOjEboGlY8sFkrsiKmJcZXQh_KDbKwLdgjx51E2zbO_"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Yo tomo el bote"
+text = "I take the ferry."
 type = "phrase"
 
 [[cards.sides]]
@@ -145,15 +139,15 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/9993075@N06/3023833559"
 title = "Ferry and Alcatraz"
 [[cards.sides]]
-blob_href = "urn:sha384:Gg3GU1aXYuR3m5mgWUg2lAGKAA6cq39bEQ6sT2yFXbuENULTRLrXzzkbjs2JfwgD"
-href = "urn:sha384:dhg_y46_chZLxGQdS9MO-iv5GIH0A1CgH736JERw1kE0i7jQmoEPlanU76vscXwy"
+blob_href = "urn:sha384:zPYQh9JSv3jc7ZHgkFMayrMYjmP1sbYB0wvqvqfQslEroRCEnDAsD3I0_yDupYON"
+href = "urn:sha384:Z2TGQL-N4S70JsCxVM6eMZn2HBKSsxdFmuLYd0Vu_zu45JBwDPfzJf8EsiE6ifWt"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Yo tomo el autobus escolar"
+text = "I take the school bus."
 type = "phrase"
 
 [[cards.sides]]
@@ -169,15 +163,15 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/16405999@N00/92406343"
 title = "School Bus"
 [[cards.sides]]
-blob_href = "urn:sha384:IHOC_VxYYFFdRvk7rEoouyy68_C1tma6J21qKPHigyj6NQQ7YDH7onQIWXdeKOoM"
-href = "urn:sha384:qJiKokV9rieinq17b8LwkDBIRZLVVBfjxShTcRQ-EcG0NWpH9rt8TVba5Nx2SjhQ"
+blob_href = "urn:sha384:HyfvHHb-YqA9MRms7jQOhTtF3pbqp6EpQV6r5IzbZI250hNRuv0wsiymusnuezdK"
+href = "urn:sha384:mVrNxXIrtvwPmlYANqjGeqAwTUg_FAwro_JVvcEuD2Y2Yjd5tOdZ62If4vf1b4It"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Yo tomo  el telesferico"
+text = "I take the tram."
 type = "phrase"
 
 [[cards.sides]]
@@ -193,15 +187,15 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/47335827@N00/2172773073"
 title = "Tram 1"
 [[cards.sides]]
-blob_href = "urn:sha384:8TAwqqq2axBQ7LpeGW4zRDgjxUwOc5xVSBsp27jq_GpTkhMO3BCePcPUOGz1zuuw"
-href = "urn:sha384:XnVCDeNzepPcxzxihJQWolpG83EGV4LOOhKIFJ_1_EtTV9Hc0UaHOyLiUx2-8Ide"
+blob_href = "urn:sha384:93zwLBnqFit_ojjACV-tuePQx-7U-3S9Hj4jS_oPbSkTd1iGQjposukKk30gjUf-"
+href = "urn:sha384:Oieu0e1F4_x3UJSoC_Z0SJ8-KD2HkXY5WsJNCBGWl5UIJdWrKlEz5OeJG9n2QGS6"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Yo tomo la motocicleta"
+text = "I ride a vespa."
 type = "phrase"
 
 [[cards.sides]]
@@ -217,15 +211,15 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/59564901@N04/5650331284"
 title = "vespa lx 150 i.e."
 [[cards.sides]]
-blob_href = "urn:sha384:rak8wM7NAe6loYtF6fZl3JpdS3U7goq9PFMD9OuC97xJ5WTEDH3Gi-aL1qt1i3Yl"
-href = "urn:sha384:AgFiKSwkemCq0tzOQEgRIQq03ksEhXPEeEqeAqWvwM6aE1Rh6sKhZ8-W9UAqJVw5"
+blob_href = "urn:sha384:HJ-NDBZj1EgDQnm_6zDhThAa5NbSFGohOg6GoWqGPD31tvs1HedcFKVb4466sqeY"
+href = "urn:sha384:EmIiLIFJBb9fAfQBwWsWgcMHWY4JvJITFKt5qHFoENgoMqcbJBPulYKq8IDRA6KW"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Yo tomo la patineta"
+text = "I ride a scooter."
 type = "phrase"
 
 [[cards.sides]]
@@ -241,15 +235,15 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/44934431@N00/5469256289"
 title = "My Old Razor Scooter"
 [[cards.sides]]
-blob_href = "urn:sha384:58rHUk9LG4n9ILcBjA3k-_KPNVRBplF3Zv8fQtYCwxefyrpg3kfuMLyGF80JeBrt"
-href = "urn:sha384:XL1D3aCvRk-ZVjxzhlJnnuHGpqLcUkW0Ish5GQ8vILWkroAPdDR2oCWS-8keXslj"
+blob_href = "urn:sha384:38umCcZpS9bXiTMHS_GtQ0Izzud7TJ--DZFLaO5JZvhm-WFmagXPT0mWTgnzPRoR"
+href = "urn:sha384:NTdfbSdVaaXXk5RXmFq4lXU8g3ni1bMl1aba-zxWTbY7AF2KVMp9hh7znL8dwfHv"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Yo tomo el autobus publico"
+text = "I take the city bus."
 type = "phrase"
 
 [[cards.sides]]
@@ -264,15 +258,15 @@ author_url = "http://www.flickr.com/people/7972895@N02/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/7972895@N02/8028512672"
 [[cards.sides]]
-blob_href = "urn:sha384:3EXxXrsg82hc-wZgDL4w5iUFa-K_kPOdwMNQhSLbIlhlaRub_qj7wSwSxJu-Ct3_"
-href = "urn:sha384:2JtsgqiEG5oTnVQvPwBSKegfAJSzUvpDVaebCgeJypsZJNxw4jPO8fLrH_fxDPCw"
+blob_href = "urn:sha384:3fLwNyV1FcP5eeYeIOJQ7ZjLCEXOHTwwrJeUGYBpCzaCvCc-P37tl6RlfA2r1Y2D"
+href = "urn:sha384:p6ZZXt9Ap8iwL2pcyHU4nm7h8O-OVicUf9DSer6iPXjwwPh1qfAnZRiS3hoAdDkw"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Yo tomo la minivan"
+text = "I take a van."
 type = "phrase"
 
 [[cards.sides]]
@@ -288,8 +282,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/95012874@N00/3672310750"
 title = "Rougham Airfield, Wings,  Wheels and Steam Country Fair."
 [[cards.sides]]
-blob_href = "urn:sha384:axOGJmJPHzXAH3o6W7vSCH3qKUHLujZMNoCCDqqpKPpx8wEO4oHMLtf-dYTQHk8H"
-href = "urn:sha384:x2Y40TGljfouylb0huo9pBeaYznGRN_sCBGrSrkbGTSnUcCVFij1cNA6yMA6OA6u"
+blob_href = "urn:sha384:HfMBi6HjYpxZ1OUNrGfymxY-DpvVDen0Lt8sV0ck5YUn7RGN1gxFCeqQBWhL07GD"
+href = "urn:sha384:UDXwm91k0TENHgZqgCq3pqGOUEJ0kp-G_Hv-JknzfM-8tssjsXWKHApqtDXvPt2u"
 mime_type = "audio/ogg"
 type = "audio"
 
