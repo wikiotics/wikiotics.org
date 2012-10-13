@@ -6,6 +6,15 @@ target-languages = [ "en",]
 Here is the collection of lessons we have to start the workshop. These
 are raw materials that we can build from or transform.
 
+Lesson ideas:
+
+1.  Family descriptions
+2.  Personal descriptions
+3.  Foods\!
+4.  Clothing
+5.  Talk about my house
+6.  Music
+
 ## Picture choice lessons
 
 1.  [Introduction - short](/en/Introduction)
