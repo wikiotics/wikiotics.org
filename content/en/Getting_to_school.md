@@ -25,7 +25,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/43264265@N00/145407525"
 title = "060512redline"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:OgbT3EgtlUVEpNQBaA8yt33cU_9Y16KBFbDL9aRSGPFXsvlBG-QbMdNAsY8YanUO"
+href = "urn:sha384:qvJht1ooncHH_bSVhWM96HZCcsxMU9XAC3Qyjs9t1u9yWkbxXRI_qnsP3SoAVqsk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -46,7 +49,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/21612624@N00/5146757880"
 title = "1982 Buick Park Avenue"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gUAqLEHfmbsYhv0JDm73tR5Ee5-QBIaoRcHVlQZhiFRbUkGXbV09Ly8rT9zM9KNA"
+href = "urn:sha384:eqinGzHLE5VXHtQ4TZ4289IxaeaERMfFZV6jZJTizjDJA1Q0_ky9JDdy0Yx4hflT"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -67,7 +73,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/71401718@N00/5582519355"
 title = "A young woman packing stuff in the snowfall, evening, parked cars, Capitol Hill, Seattle, Washington, USA"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iWzQJeZRmli8q5rn1yF1OZPmRm2ncaR_4GT8hKh0j1YPMotZEvjII8y6T-mQ_vG0"
+href = "urn:sha384:xj7ESM9-8FUpCvCcuyPeffJRaU4IuxajaZl-PZnSwS3U4abb34jvOjsCcP-28v-L"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
