@@ -24,7 +24,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/50852241@N00/87710908"
 title = "Man at Momos Restaurant"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XZGsc5Px_Tt_sXSIRcmMl_Musj9L40yeCGnx2o95nSN3Mzvg8z9IrFVEQuGMlZIl"
+href = "urn:sha384:7-ZWNaWugdbLW_OFN70zDb6UW_5CFQfuOTVE7HwbHi_3vDQzmReaKnUoG_WKFebV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -45,7 +48,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/53620105@N06/6107964619"
 title = "Little boy in Fatehpur Sikri"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:k3ZjqFzesFvbjBkk1YEIEgxMZdkDig98Trh8NsP6UZJCHSuzjPemDC_xE9z3B9HI"
+href = "urn:sha384:kmEyEW0lrvgeIIav4V6rGLf1pstl13j50ncFd4ehC0XIScd_PT4ss7vTKhTXOVnH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -66,7 +72,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
 title = "Beautiful Asian Woman Thinking"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rYiknMiB6m5wykBaRUesnsRfWr-heSm6EMy41s_pI-yPtwJii0b5f69BJjjcyQDK"
+href = "urn:sha384:zufAFdF4CyrM0C68nqII5497KgkiNj9nG1_g6k8Ijj1oXe7rpyfO6TFOJMKts3wC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -88,7 +97,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/11638547@N00/4619817238"
 title = "little girl"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Tm5UoMAEkRnUsbfXUnxcQmWy7odcvUIMuos6IJqeB3_hyiXtE5gTyCqtUErI8S67"
+href = "urn:sha384:I02o4TzC_FmLR7xx8mFQgqzCY4Sf2W3tFnpAHaXEQzR2HN2GufxUdlVFQ0qRFwIR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -130,7 +142,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/58982967@N00/25888292"
 title = "Boy climbs tree"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zyCM856fhru4hMbH5PjoE6LEux0aJW359pGMbbYopJhQHijb_Vp98T22QWSlNyPg"
+href = "urn:sha384:E3t9eFiU4Is4iMG4yMMp7_laLkxh4kwOAWM-vN-QGPSNPq0Z2_a6AhMUD_dNTkbQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -151,7 +166,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36495803@N05/3837519481"
 title = "Beautiful Asian Woman in Dress"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:85_FyTydb7vC99ls9F0-cTs4tk5eKuxKQD0Bv5m9pmOEwQAv1BwsXnaNWQF_5ycr"
+href = "urn:sha384:Zc4CrWzLqa4oE6zq8_gnWr0u_8Zlpz2d6BU0msMzAHB1caVrqoltLWciQSs86M67"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -173,7 +191,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/11638547@N00/4619817238"
 title = "little girl"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:RMpcdqDNEz-HU4sRW3tzDFSuP_yR01gJC_SwKP2Y2gg9cqhhUrU1NFqHYBcgbUDD"
+href = "urn:sha384:vlEUn70i1EzLb4nhn9V9aFigaf_yJAXt3uhSOUk9VwU5YkWWf_8BeuerEwHkwZBx"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
