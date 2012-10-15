@@ -6,15 +6,7 @@ target-languages = [ "en",]
 Here is the collection of lessons we have to start the workshop. These
 are raw materials that we can build from or transform.
 
-Lesson ideas:
-
-1.  Family descriptions
-2.  Personal descriptions
-3.  Foods\!
-4.  Clothing
-5.  Talk about my house
-6.  Music
-7.  Housing
+# Existing lessons
 
 ## Picture choice lessons
 
@@ -43,7 +35,7 @@ Lesson ideas:
 
 ## Full lesson list
 
-## Lessons for First Grade Dual Language
+# Lesson Ideas for First Grade Dual Language
 
 ### People in a family
 
