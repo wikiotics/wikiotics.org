@@ -1,6 +1,7 @@
 +++
 title = "Masculine and feminine in French"
 languageCode = "fr"
+target-languages = [ "fr",]
 +++
 
 Unlike English, French uses two genders to make learners life a bit
