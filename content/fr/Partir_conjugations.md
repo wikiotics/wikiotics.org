@@ -1,6 +1,7 @@
 +++
 title = "Conjugating partir"
 languageCode = "fr"
+target-languages = [ "fr",]
 +++
 
 Below are the complete conjugations for the verb *partir* (to go / to
@@ -27,69 +28,69 @@ Partir is a third group verb.
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>par<strong>s</strong></td>
-<td>par<strong>tais</strong></td>
-<td>par<strong>tis</strong></td>
-<td>suis par<strong>ti</strong></td>
-<td>j'étais par<strong>ti</strong></td>
-<td>fus par<strong>ti</strong></td>
-<td>par<strong>tirai</strong></td>
-<td>serai par<strong>ti</strong></td>
+<td>pars</td>
+<td>partais</td>
+<td>partis</td>
+<td>suis parti</td>
+<td>j'étais parti</td>
+<td>fus parti</td>
+<td>partirai</td>
+<td>serai parti</td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>par<strong>s</strong></td>
-<td>par<strong>tais</strong></td>
-<td>par<strong>tis</strong></td>
-<td>es par<strong>ti</strong></td>
-<td>étais par<strong>ti</strong></td>
-<td>fus par<strong>ti</strong></td>
-<td>par<strong>tiras</strong></td>
-<td>seras par<strong>ti</strong></td>
+<td>pars</td>
+<td>partais</td>
+<td>partis</td>
+<td>es parti</td>
+<td>étais parti</td>
+<td>fus parti</td>
+<td>partiras</td>
+<td>seras parti</td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>par<strong>t</strong></td>
-<td>par<strong>tait</strong></td>
-<td>par<strong>tit</strong></td>
-<td>est par<strong>ti</strong></td>
-<td>était par<strong>ti</strong></td>
-<td>fut par<strong>ti</strong></td>
-<td>par<strong>tira</strong></td>
-<td>sera par<strong>ti</strong></td>
+<td>part</td>
+<td>partait</td>
+<td>partit</td>
+<td>est parti</td>
+<td>était parti</td>
+<td>fut parti</td>
+<td>partira</td>
+<td>sera parti</td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>par<strong>tons</strong></td>
-<td>par<strong>tions</strong></td>
-<td>par<strong>tîmes</strong></td>
-<td>sommes par<strong>tis</strong></td>
-<td>étions par<strong>tis</strong></td>
-<td>fûmes par<strong>tis</strong></td>
-<td>par<strong>tirons</strong></td>
-<td>serons par<strong>tis</strong></td>
+<td>partons</td>
+<td>partions</td>
+<td>partîmes</td>
+<td>sommes partis</td>
+<td>étions partis</td>
+<td>fûmes partis</td>
+<td>partirons</td>
+<td>serons partis</td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>par<strong>tez</strong></td>
-<td>par<strong>tiez</strong></td>
-<td>par<strong>tîtes</strong></td>
-<td>êtes par<strong>tis</strong></td>
-<td>étiez par<strong>tis</strong></td>
-<td>fûtes par<strong>tis</strong></td>
-<td>par<strong>tirez</strong></td>
-<td>serez par<strong>tis</strong></td>
+<td>partez</td>
+<td>partiez</td>
+<td>partîtes</td>
+<td>êtes partis</td>
+<td>étiez partis</td>
+<td>fûtes partis</td>
+<td>partirez</td>
+<td>serez partis</td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>par<strong>tent</strong></td>
-<td>par<strong>taient</strong></td>
-<td>par<strong>tirent</strong></td>
-<td>sont par<strong>tis</strong></td>
-<td>étaient par<strong>tis</strong></td>
-<td>furent par<strong>tis</strong></td>
-<td>par<strong>tiront</strong></td>
-<td>seront par<strong>tis</strong></td>
+<td>partent</td>
+<td>partaient</td>
+<td>partirent</td>
+<td>sont partis</td>
+<td>étaient partis</td>
+<td>furent partis</td>
+<td>partiront</td>
+<td>seront partis</td>
 </tr>
 </tbody>
 </table>
@@ -109,45 +110,45 @@ Partir is a third group verb.
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>par<strong>te</strong></td>
-<td>suis par<strong>ti</strong></td>
-<td>par<strong>tisse</strong></td>
-<td>fusse par<strong>ti</strong></td>
+<td>parte</td>
+<td>suis parti</td>
+<td>partisse</td>
+<td>fusse parti</td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>par<strong>tes</strong></td>
-<td>es par<strong>ti</strong></td>
-<td>par<strong>tisses</strong></td>
-<td>fusses par<strong>ti</strong></td>
+<td>partes</td>
+<td>es parti</td>
+<td>partisses</td>
+<td>fusses parti</td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>par<strong>te</strong></td>
-<td>est par<strong>ti</strong></td>
-<td>par<strong>tît</strong></td>
-<td>fût par<strong>ti</strong></td>
+<td>parte</td>
+<td>est parti</td>
+<td>partît</td>
+<td>fût parti</td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>par<strong>tions</strong></td>
-<td>sommes par<strong>tis</strong></td>
-<td>par<strong>tissions</strong></td>
-<td>fussions par<strong>tis</strong></td>
+<td>partions</td>
+<td>sommes partis</td>
+<td>partissions</td>
+<td>fussions partis</td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>par<strong>tiez</strong></td>
-<td>êtes par<strong>tis</strong></td>
-<td>par<strong>tissiez</strong></td>
-<td>fussiez par<strong>tis</strong></td>
+<td>partiez</td>
+<td>êtes partis</td>
+<td>partissiez</td>
+<td>fussiez partis</td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>par<strong>tent</strong></td>
-<td>sont par<strong>tis</strong></td>
-<td>pari<strong>tissent</strong></td>
-<td>fussent par<strong>tis</strong></td>
+<td>partent</td>
+<td>sont partis</td>
+<td>paritissent</td>
+<td>fussent partis</td>
 </tr>
 </tbody>
 </table>
@@ -166,39 +167,39 @@ Partir is a third group verb.
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>par<strong>tirais</strong></td>
-<td>serais par<strong>ti</strong></td>
-<td>fusse par<strong>ti</strong></td>
+<td>partirais</td>
+<td>serais parti</td>
+<td>fusse parti</td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>par<strong>tirais</strong></td>
-<td>serais par<strong>ti</strong></td>
-<td>fusses par<strong>ti</strong></td>
+<td>partirais</td>
+<td>serais parti</td>
+<td>fusses parti</td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>par<strong>tirait</strong></td>
-<td>serait par<strong>ti</strong></td>
-<td>fût par<strong>ti</strong></td>
+<td>partirait</td>
+<td>serait parti</td>
+<td>fût parti</td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>par<strong>tirions</strong></td>
-<td>serions par<strong>tis</strong></td>
-<td>fussions par<strong>tis</strong></td>
+<td>partirions</td>
+<td>serions partis</td>
+<td>fussions partis</td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>par<strong>tiriez</strong></td>
-<td>seriez par<strong>tis</strong></td>
-<td>fussiez par<strong>tis</strong></td>
+<td>partiriez</td>
+<td>seriez partis</td>
+<td>fussiez partis</td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>par<strong>tiraient</strong></td>
-<td>seraient par<strong>tis</strong></td>
-<td>fussent par<strong>tis</strong></td>
+<td>partiraient</td>
+<td>seraient partis</td>
+<td>fussent partis</td>
 </tr>
 </tbody>
 </table>
@@ -214,16 +215,16 @@ Partir is a third group verb.
 </thead>
 <tbody>
 <tr class="odd">
-<td>par<strong>s</strong></td>
-<td>sois par<strong>ti</strong></td>
+<td>pars</td>
+<td>sois parti</td>
 </tr>
 <tr class="even">
-<td>par<strong>tons</strong></td>
-<td>soyons par<strong>tis</strong></td>
+<td>partons</td>
+<td>soyons partis</td>
 </tr>
 <tr class="odd">
-<td>par<strong>tez</strong></td>
-<td>soyez par<strong>tis</strong></td>
+<td>partez</td>
+<td>soyez partis</td>
 </tr>
 </tbody>
 </table>
@@ -239,20 +240,20 @@ Partir is a third group verb.
 </thead>
 <tbody>
 <tr class="odd">
-<td>par<strong>issant</strong></td>
-<td>par<strong>ti</strong></td>
+<td>parissant</td>
+<td>parti</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>par<strong>tie</strong></td>
+<td>partie</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>par<strong>tis</strong></td>
+<td>partis</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>par<strong>ties</strong></td>
+<td>parties</td>
 </tr>
 </tbody>
 </table>
@@ -260,19 +261,19 @@ Partir is a third group verb.
 Note: the past participle in all forms above must be bent according to
 the subject, as *partir* uses the auxiliary verb *être*. For instance:
 
-  - **il** est par**ti**
-  - **elle** est par**tie**
-  - **ils** sont par**tis**
-  - **elles** sont par**ties**
+  - il est parti
+  - elle est partie
+  - ils sont partis
+  - elles sont parties
 
 ## Impératif (imperative)
 
 <table>
 <tbody>
 <tr class="odd">
-<td>par<strong>tir</strong></td>
+<td>partir</td>
 </tr>
 </tbody>
 </table>
 
-\* **on** follows the same conjugation as **elle** and **il**
+\* on follows the same conjugation as elle and il
