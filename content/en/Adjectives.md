@@ -1,5 +1,6 @@
 +++
 title = "Adjectives"
+tags = [ "grammar",]
 target-languages = [ "en",]
 +++
 
