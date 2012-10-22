@@ -1,6 +1,7 @@
 +++
 title = "The alphabet - L'alphabet"
 languageCode = "fr"
+target-languages = [ "fr",]
 +++
 
 French is based on the Latin alphabet (also called the Roman alphabet),
