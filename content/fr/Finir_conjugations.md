@@ -1,14 +1,15 @@
 +++
 title = "Conjugating finir (and other second group verbs)"
 languageCode = "fr"
+target-languages = [ "fr",]
 +++
 
 Below are the complete conjugations for the verb *finir* (to finish in
 French).
 
-Verbs of the second group have their infinitive ending in **-ir**. To
-conjugate them, take their infinitive, drop **ir**, you get the "root"
-(for instance: **fin-** for finir).
+Verbs of the second group have their infinitive ending in -ir. To
+conjugate them, take their infinitive, drop ir, you get the "root" (for
+instance: fin- for finir).
 
 Use that root and append the ending as found in the table below.
 
@@ -34,69 +35,69 @@ nourrir (to feed)...
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>fin<strong>is</strong></td>
-<td>fin<strong>issais</strong></td>
-<td>fin<strong>is</strong></td>
-<td>j'ai fin<strong>i</strong></td>
-<td>j'avais fin<strong>i</strong></td>
-<td>j'eus fin<strong>i</strong></td>
-<td>fin<strong>irai</strong></td>
-<td>j'aurai fin<strong>i</strong></td>
+<td>finis</td>
+<td>finissais</td>
+<td>finis</td>
+<td>j'ai fini</td>
+<td>j'avais fini</td>
+<td>j'eus fini</td>
+<td>finirai</td>
+<td>j'aurai fini</td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>fin<strong>is</strong></td>
-<td>fin<strong>issais</strong></td>
-<td>fin<strong>is</strong></td>
-<td>as fin<strong>i</strong></td>
-<td>avais fin<strong>i</strong></td>
-<td>eus fin<strong>i</strong></td>
-<td>fin<strong>iras</strong></td>
-<td>auras fin<strong>i</strong></td>
+<td>finis</td>
+<td>finissais</td>
+<td>finis</td>
+<td>as fini</td>
+<td>avais fini</td>
+<td>eus fini</td>
+<td>finiras</td>
+<td>auras fini</td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>fin<strong>is</strong></td>
-<td>fin<strong>issait</strong></td>
-<td>fin<strong>it</strong></td>
-<td>a fin<strong>i</strong></td>
-<td>avait fin<strong>i</strong></td>
-<td>eut fin<strong>i</strong></td>
-<td>fin<strong>ira</strong></td>
-<td>aura fin<strong>i</strong></td>
+<td>finis</td>
+<td>finissait</td>
+<td>finit</td>
+<td>a fini</td>
+<td>avait fini</td>
+<td>eut fini</td>
+<td>finira</td>
+<td>aura fini</td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>fin<strong>issons</strong></td>
-<td>fin<strong>issions</strong></td>
-<td>fin<strong>îmes</strong></td>
-<td>avons fin<strong>i</strong></td>
-<td>avions fin<strong>i</strong></td>
-<td>eûmes fin<strong>i</strong></td>
-<td>fin<strong>irons</strong></td>
-<td>aurons fin<strong>i</strong></td>
+<td>finissons</td>
+<td>finissions</td>
+<td>finîmes</td>
+<td>avons fini</td>
+<td>avions fini</td>
+<td>eûmes fini</td>
+<td>finirons</td>
+<td>aurons fini</td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>fin<strong>issez</strong></td>
-<td>fin<strong>issiez</strong></td>
-<td>fin<strong>îtes</strong></td>
-<td>avez fin<strong>i</strong></td>
-<td>aviez fin<strong>i</strong></td>
-<td>eûtes fin<strong>i</strong></td>
-<td>fin<strong>irez</strong></td>
-<td>aurez fin<strong>i</strong></td>
+<td>finissez</td>
+<td>finissiez</td>
+<td>finîtes</td>
+<td>avez fini</td>
+<td>aviez fini</td>
+<td>eûtes fini</td>
+<td>finirez</td>
+<td>aurez fini</td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>fin<strong>issent</strong></td>
-<td>fin<strong>issaient</strong></td>
-<td>fin<strong>irent</strong></td>
-<td>ont fin<strong>i</strong></td>
-<td>avaient fin<strong>i</strong></td>
-<td>eurent fin<strong>i</strong></td>
-<td>fin<strong>iront</strong></td>
-<td>auront fin<strong>i</strong></td>
+<td>finissent</td>
+<td>finissaient</td>
+<td>finirent</td>
+<td>ont fini</td>
+<td>avaient fini</td>
+<td>eurent fini</td>
+<td>finiront</td>
+<td>auront fini</td>
 </tr>
 </tbody>
 </table>
@@ -116,45 +117,45 @@ nourrir (to feed)...
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>fin<strong>isse</strong></td>
-<td>j'aie fin<strong>i</strong></td>
-<td>fin<strong>isse</strong></td>
-<td>j'eusse fin<strong>i</strong></td>
+<td>finisse</td>
+<td>j'aie fini</td>
+<td>finisse</td>
+<td>j'eusse fini</td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>fin<strong>isses</strong></td>
-<td>aies fin<strong>i</strong></td>
-<td>fin<strong>isses</strong></td>
-<td>eusses fin<strong>i</strong></td>
+<td>finisses</td>
+<td>aies fini</td>
+<td>finisses</td>
+<td>eusses fini</td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>fin<strong>isse</strong></td>
-<td>ait fin<strong>i</strong></td>
-<td>fin<strong>ît</strong></td>
-<td>eût fin<strong>i</strong></td>
+<td>finisse</td>
+<td>ait fini</td>
+<td>finît</td>
+<td>eût fini</td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>fin<strong>issions</strong></td>
-<td>ayons fin<strong>i</strong></td>
-<td>fin<strong>issions</strong></td>
-<td>eussions fin<strong>i</strong></td>
+<td>finissions</td>
+<td>ayons fini</td>
+<td>finissions</td>
+<td>eussions fini</td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>fin<strong>issiez</strong></td>
-<td>ayez fin<strong>i</strong></td>
-<td>fin<strong>issiez</strong></td>
-<td>eussiez fin<strong>i</strong></td>
+<td>finissiez</td>
+<td>ayez fini</td>
+<td>finissiez</td>
+<td>eussiez fini</td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>fin<strong>issent</strong></td>
-<td>aient fin<strong>i</strong></td>
-<td>fini<strong>issent</strong></td>
-<td>eussent fin<strong>i</strong></td>
+<td>finissent</td>
+<td>aient fini</td>
+<td>finiissent</td>
+<td>eussent fini</td>
 </tr>
 </tbody>
 </table>
@@ -173,39 +174,39 @@ nourrir (to feed)...
 <tbody>
 <tr class="odd">
 <td>je</td>
-<td>fin<strong>irais</strong></td>
-<td>j'aurais fin<strong>i</strong></td>
-<td>j'eusse fin<strong>i</strong></td>
+<td>finirais</td>
+<td>j'aurais fini</td>
+<td>j'eusse fini</td>
 </tr>
 <tr class="even">
 <td>tu</td>
-<td>fin<strong>irais</strong></td>
-<td>aurais fin<strong>i</strong></td>
-<td>eusses fin<strong>i</strong></td>
+<td>finirais</td>
+<td>aurais fini</td>
+<td>eusses fini</td>
 </tr>
 <tr class="odd">
 <td>il/elle*</td>
-<td>fin<strong>irait</strong></td>
-<td>aurait fin<strong>i</strong></td>
-<td>eût fin<strong>i</strong></td>
+<td>finirait</td>
+<td>aurait fini</td>
+<td>eût fini</td>
 </tr>
 <tr class="even">
 <td>nous</td>
-<td>fin<strong>irions</strong></td>
-<td>aurions fin<strong>i</strong></td>
-<td>eussions fin<strong>i</strong></td>
+<td>finirions</td>
+<td>aurions fini</td>
+<td>eussions fini</td>
 </tr>
 <tr class="odd">
 <td>vous</td>
-<td>fin<strong>iriez</strong></td>
-<td>auriez fin<strong>i</strong></td>
-<td>eussiez fin<strong>i</strong></td>
+<td>finiriez</td>
+<td>auriez fini</td>
+<td>eussiez fini</td>
 </tr>
 <tr class="even">
 <td>ils/elles</td>
-<td>fin<strong>iraient</strong></td>
-<td>auraient fin<strong>i</strong></td>
-<td>eussent fin<strong>i</strong></td>
+<td>finiraient</td>
+<td>auraient fini</td>
+<td>eussent fini</td>
 </tr>
 </tbody>
 </table>
@@ -221,16 +222,16 @@ nourrir (to feed)...
 </thead>
 <tbody>
 <tr class="odd">
-<td>fin<strong>is</strong></td>
-<td>aie fin<strong>i</strong></td>
+<td>finis</td>
+<td>aie fini</td>
 </tr>
 <tr class="even">
-<td>fin<strong>ssons</strong></td>
-<td>ayons fin<strong>i</strong></td>
+<td>finssons</td>
+<td>ayons fini</td>
 </tr>
 <tr class="odd">
-<td>fin<strong>issez</strong></td>
-<td>ayez fin<strong>i</strong></td>
+<td>finissez</td>
+<td>ayez fini</td>
 </tr>
 </tbody>
 </table>
@@ -246,8 +247,8 @@ nourrir (to feed)...
 </thead>
 <tbody>
 <tr class="odd">
-<td>fin<strong>issant</strong></td>
-<td>fin<strong>i</strong></td>
+<td>finissant</td>
+<td>fini</td>
 </tr>
 </tbody>
 </table>
@@ -257,9 +258,9 @@ nourrir (to feed)...
 <table>
 <tbody>
 <tr class="odd">
-<td>fin<strong>ir</strong></td>
+<td>finir</td>
 </tr>
 </tbody>
 </table>
 
-\* **on** follows the same conjugation as **elle** and **il**
+\* on follows the same conjugation as elle and il
