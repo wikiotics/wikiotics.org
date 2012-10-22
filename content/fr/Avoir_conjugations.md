@@ -1,6 +1,7 @@
 +++
 title = "Conjugating avoir"
 languageCode = "fr"
+target-languages = [ "fr",]
 +++
 
 Below are the complete conjugations for the verb *avoir* (to have in
@@ -265,4 +266,4 @@ French).
 </tbody>
 </table>
 
-\* **on** follows the same conjugation as **elle** and **il**
+\* on follows the same conjugation as elle and il
