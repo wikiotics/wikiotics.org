@@ -1,6 +1,6 @@
 +++
 title = "Animais"
-contributors = [ "Laurent", "garrison",]
+contributors = [ "182.72.234.14", "Laurent", "garrison",]
 dividers = [ 4, 8, 12,]
 headings = [ "word", "picture",]
 type = "lesson"
@@ -26,7 +26,7 @@ title = "Snake"
 [[cards]]
 
 [[cards.sides]]
-text = "bird"
+text = "falcon"
 type = "phrase"
 
 [[cards.sides]]
@@ -44,21 +44,18 @@ title = "Bird of Prey"
 [[cards]]
 
 [[cards.sides]]
-text = "fowl"
+text = "pigeon"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:FawMiXj-eXClgQNNtufm8Uxs3am4NYbHWsR3XFA4f71jbfKJ3VIFypd_iTpu1dCC"
-href = "urn:sha384:oqv9NcfjLMC7Jt2h64xxp-mresnBYJfR6zcHrUyAcDq69ZzRT0oAGlNLAhhcfH28"
+blob_href = "urn:sha384:iCpg9fBkfQjmGU1qhfBihhgbgnteteOo6OO5a8X4RxtkNFEFp77QfZW8DCdDdrm0"
+href = "urn:sha384:wojWetJZI1GO62R82Vc9-FvAPmrwwUmc9uRLDmldjAT1X9hpDW3qYbMTcuQduGh1"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Jason Wehmhoener (roadman22)"
-author_url = "http://www.flickr.com/people/20807574@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/20807574@N00/2054654430"
-title = "Jungle Fowl"
+author = "182.72.234.14"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards]]
 
 [[cards.sides]]
