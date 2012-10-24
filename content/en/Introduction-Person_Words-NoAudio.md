@@ -12,17 +12,8 @@ text = "This is a man."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:VzGcOUtfh16XqFKDnhSA-8djOGrAmmB2UTFRJ45FdwSUUFQKlT85dkAFU0paqjmX"
-href = "urn:sha384:jCmYOjJLaACApCEZ2jgn2SE3UJb4Tn40G_Bs4VVbWhXamTivRowF2fI861rUnswl"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = "David Dennis (DavidDennisPhotos.com)"
-author_url = "http://www.flickr.com/people/50852241@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/50852241@N00/87710908"
-title = "Man at Momos Restaurant"
 [[cards.sides]]
 type = "empty"
 
