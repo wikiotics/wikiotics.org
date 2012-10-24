@@ -75,18 +75,17 @@ text = "This is a girl."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:RX6_PA8aph74tAQtticwYy_sPOjk1lAWN9ocmuLIoKCL_8pcCWcUOkIZygfJ8yol"
-href = "urn:sha384:4sTuJ1fGaMOA2eQJreqNvH48nVTCXEabZI0x-Wt5DoRdsmuS1tPzg2HhQMPN9eNr"
+blob_href = "urn:sha384:F-QNs87cwq6m7bTyqNay3iA2KqrwSh43vyxKNvSaZhNE740D5u4msGf6zdU_i1CT"
+href = "urn:sha384:hd2LqABWFEv_2ye-f0lbrbGzzZXnUxlALwxEzR6EnkgA1b-zvG7c4Y3FegwrDF7S"
 mime_type = "image/jpeg"
-rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
-author = "Liz Mc (imallergic)"
-author_url = "http://www.flickr.com/people/11638547@N00/"
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/11638547@N00/4619817238"
-title = "little girl"
+original_url = "http://www.flickr.com/photos/72825507@N00/3851362308"
+title = "Cute Little Girl in Pink Walking Beach.  People scenes, on the beach on Morro Strand State Park just north of Morro Rock in Morro Bay, CA.  23 August 2009"
 [[cards.sides]]
 type = "empty"
 
@@ -118,17 +117,17 @@ text = "Boy"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:-RlHM51QhhMPcP59_hayoJacGiSBAnD4AU-lCPqCoCBtOp512XUtueN9kIeJRG8X"
-href = "urn:sha384:yY3JRQbBMbXceEud8u7H9yTL_IufTyZwGyUWW4wXSPmoh1IbPjWh9O9T4iB8oYIM"
+blob_href = "urn:sha384:itlpV89fNinDWYLyKd3HAks7o62u6889O47XeoQiMBnx02bqmoT866XO5D8dxT3a"
+href = "urn:sha384:okWCf1KVvCHJdvW_21qvEUueVS84V8xiOA2hk8vK5VCHwIuo6tjVNZR923r-6oP0"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Peter Harrison (cheetah100)"
-author_url = "http://www.flickr.com/people/58982967@N00/"
+author = "José Antonio Morcillo Valenciano (2ose)"
+author_url = "http://www.flickr.com/people/53620105@N06/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/58982967@N00/25888292"
-title = "Boy climbs tree"
+original_url = "http://www.flickr.com/photos/53620105@N06/6107964619"
+title = "Little boy in Fatehpur Sikri"
 [[cards.sides]]
 type = "empty"
 
@@ -160,18 +159,17 @@ text = "Girl"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:RX6_PA8aph74tAQtticwYy_sPOjk1lAWN9ocmuLIoKCL_8pcCWcUOkIZygfJ8yol"
-href = "urn:sha384:olhTF-wG3zqKyTmyskBlo8c5OYRHH-bcWG7kN_V8-WKSpj2GpAhcZrd7qh_w4OFr"
+blob_href = "urn:sha384:F-QNs87cwq6m7bTyqNay3iA2KqrwSh43vyxKNvSaZhNE740D5u4msGf6zdU_i1CT"
+href = "urn:sha384:hd2LqABWFEv_2ye-f0lbrbGzzZXnUxlALwxEzR6EnkgA1b-zvG7c4Y3FegwrDF7S"
 mime_type = "image/jpeg"
-rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
-author = "Liz Mc (imallergic)"
-author_url = "http://www.flickr.com/people/11638547@N00/"
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/11638547@N00/4619817238"
-title = "little girl"
+original_url = "http://www.flickr.com/photos/72825507@N00/3851362308"
+title = "Cute Little Girl in Pink Walking Beach.  People scenes, on the beach on Morro Strand State Park just north of Morro Rock in Morro Bay, CA.  23 August 2009"
 [[cards.sides]]
 type = "empty"
 
