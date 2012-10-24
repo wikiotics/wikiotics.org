@@ -1,6 +1,6 @@
 +++
 title = "Introduction-Person Words-NoAudio"
-contributors = [ "192.160.130.105", "ian",]
+contributors = [ "182.72.234.14", "192.160.130.105", "ian",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "IndiaWorkshop",]
@@ -12,8 +12,17 @@ text = "This is a man."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4gRgPZ-hR27bVY7h9pjpbIt5Ipzp7R31gl3VbORBBfWKXGoSUMtbZnwt6N6OSOMl"
+href = "urn:sha384:35XHQFKSq18Cn15lttHdLZ32q0eD2FiqKJ6sF_sqDTeSZRABp7FBLM7MM19vtsig"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "David Dennis (DavidDennisPhotos.com)"
+author_url = "http://www.flickr.com/people/50852241@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/50852241@N00/2436720309"
+title = "Man in Cappadocia"
 [[cards.sides]]
 type = "empty"
 
