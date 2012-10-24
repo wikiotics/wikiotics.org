@@ -1,6 +1,6 @@
 +++
 title = "Introduction"
-contributors = [ "124.63.101.22", "127.0.0.1", "201.37.129.76", "216.27.154.200", "65.91.246.2", "Laurent", "ian",]
+contributors = [ "124.63.101.22", "127.0.0.1", "182.72.234.14", "201.37.129.76", "216.27.154.200", "65.91.246.2", "Laurent", "ian",]
 dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
 tags = [ "ESLworkshop",]
@@ -218,8 +218,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/26993489@N00/140805906"
 title = "Dog Out Walking"
 [[cards.sides]]
-blob_href = "urn:sha384:S_soer6spBDZ1OCRdf5Y_G_oPrkiLWxxAl0xYzHKjtC-UhyfHCpGe4GUaHwk3fpH"
-href = "urn:sha384:IIKhxQU1128JTgy4MmVAFg7cedSB7cVTOMMmzU5YH5K40t1sBwjuczRzCFGt5YCg"
+blob_href = "urn:sha384:zOqV_8SEve-zk9Rw4emFCfomya7EpqxBrcwQ86rIN42PMKllVVcnlfMAWaKdIpQT"
+href = "urn:sha384:KI-sFQNcB-4CS_Wfe3_F05rboi2LNsNl4sqIypgC_niGnq8-s4bki8LAl_UhT7Jg"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -242,8 +242,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/72098626@N00/3275748024"
 title = "Romance isn't just for teenagers..."
 [[cards.sides]]
-blob_href = "urn:sha384:9qWOvYYsjmgaoBaUpnzLQnubzHqRm5Bqtru5NcfSSaOBBl-6uK_6c4TyPbm74OQr"
-href = "urn:sha384:wQfgOk8VjxBXm3tCcOow7j-EQ1xhal7A0Y6aUXKwwqDncZMajxMPJ_sYPdNgzDN2"
+blob_href = "urn:sha384:fh57JmlM1R4Bw8FK5cLCrDLPBR91-JJw1NmwkqoP-C_kZ0YVuP7DGtq6IvtsoIzy"
+href = "urn:sha384:iV-KW10hcPNlHYXGAzFJ1RsTGx0iwILoFRC5xUVtCMzWi_wMBvfPX3zzlIHlW-6Q"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -266,8 +266,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/30281826058@N01/1763008"
 title = "Alex and lap cat at Roman Agora"
 [[cards.sides]]
-blob_href = "urn:sha384:4aB9IttXW18VYwl473ZNakc9CAeN1ypBx0QRFvlZSUSKEJD1eFPQO19iZuyW6YJY"
-href = "urn:sha384:rSjkSGklm3PbiozyVhBnFV-H69xNoXPgD7znlEYECMulK1pvSI5Evr1UYqRtff0D"
+blob_href = "urn:sha384:CLxfN_8wrHljUlW2rRjTzUxCtnIYtGvr5gP6GBrRQZCqWj4SoH-tHCmDZKsdqKlv"
+href = "urn:sha384:ityOp83Ev8scku4M3ahPLd3bj6l1VCBmzRtNXH9_TPPqjPVlLbdeIXyfIys18NDf"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -290,8 +290,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28884731@N07/2696575988"
 title = "sad girl"
 [[cards.sides]]
-blob_href = "urn:sha384:G-d_PLA38TGmhKfRT-TvZTqx4aOLlV6I0mSt2l0dwlZO06tphInfZmCFbSJO_e5Z"
-href = "urn:sha384:8v0htqHr_RM-9q-fyaEgTWTLzjQkQus2iywMPyZtK_YyYCtCrcWLW-197_2Q0Lh4"
+blob_href = "urn:sha384:pnjGqHbironN8mpqeq42wJf9Z8BeJkLYVgSBK4A8ywPiCL5aYsBJYp2W-rAhlA1k"
+href = "urn:sha384:tnJndycwFTpwnvGlGlaYza-1NKRsz54tcWxABdsAvUc1Qb6uDPHeBeEYbp1gMh63"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -314,8 +314,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/72825507@N00/3189781853"
 title = "Two attractive young ladies feeling good and walking on the wet sand holding what looks to be giant-sized Dos Equis beer bottles - drinking beer on the beach at sunset"
 [[cards.sides]]
-blob_href = "urn:sha384:LUPncaZ4WRSJiErD08TrWAII-8FjvvgysrrEvOC4UV0Rm954m0tPG9awILP02AGd"
-href = "urn:sha384:9N7fo3ZtccukiOGJKeNivApGv0ybDEJQgLqqCqgbg4Fl1PC85cmebi_5GzIYPkvC"
+blob_href = "urn:sha384:ejA1uVXREge7z8PZMcV4uYPrHPp-O-BgsEHGh4klWTe8feAhg12BqXAcRx0d7eff"
+href = "urn:sha384:Xx8RoZoWKHvi7cmCHp-rqm03BRYrx5Etrxp3a-hzhGCB_FxtJ8Qgd6rFIqPj0tt0"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -338,8 +338,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/21981149@N04/3295826857"
 title = "Land Speeder"
 [[cards.sides]]
-blob_href = "urn:sha384:S_soer6spBDZ1OCRdf5Y_G_oPrkiLWxxAl0xYzHKjtC-UhyfHCpGe4GUaHwk3fpH"
-href = "urn:sha384:eXKln20Z5KRH0_OURFwvdEivIx3wQUP4zXWR-9d7u2Nj7lpUDp1zizvbwaTXVnxD"
+blob_href = "urn:sha384:GToAiTXoGPNG9yujsqvYzJhDfHHjuf5n07GtVwe4zdFZNbKHxS9EjZrsPEdUka4B"
+href = "urn:sha384:QXnKRgVOYCsHdPpuV_9ktzYzBPfXHXrIdi_hqHmjuoEM4Jowlra9snroHxpIFJXX"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -362,8 +362,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/44124425616@N01/258971456"
 title = "The Runner"
 [[cards.sides]]
-blob_href = "urn:sha384:AenRBwRfz_K8ultDmXZUStda_q_Hg8QOtRd8x9AkZUMaby15lyFLHRHfKgzWVXwv"
-href = "urn:sha384:MvwzsJkdnWD3CE4prlsDc3YtewtRt2IJ4RII_GdQtLQmx0VwpkNGVHVqGh6s59O7"
+blob_href = "urn:sha384:PRWabU5IV_SSK0yO7DnTGPCNspt0NnGW1z3C-synRTTVN5fbETHv19einK1n3SJj"
+href = "urn:sha384:Jet1F4pQbgODz2FtqsDAzERCuEa4RhKqrOuQsXetUSZpj-gOwLw9pQZXiI8w70Eo"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -386,8 +386,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/30901369@N00/3998158534"
 title = "Friend."
 [[cards.sides]]
-blob_href = "urn:sha384:MyEJWz5KmjoMNVajwPYSg_ofJZxSE21aWJGiUfJ91_ZKOBGeclQYxR5gLQsVe-0n"
-href = "urn:sha384:FmKzWCPNfhnFAA2Cq6-jMmYOFhUhvhffSEMxFn7xk6sXjhMuavtEMwKY1suH5y-a"
+blob_href = "urn:sha384:gxYsyPMrZXDL0bwcEfcPnQ0zG6LDiH1agmp604_OR0IhzMFcDJFAUULvyBKTpQqD"
+href = "urn:sha384:GvyvYOR771F-qZG8ehJfPQDOMUyjdp1zkxyHaxDpWzwYgcJ30FsYAIUxXCRtbIwi"
 mime_type = "audio/ogg"
 type = "audio"
 
