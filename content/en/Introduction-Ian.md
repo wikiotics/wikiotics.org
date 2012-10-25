@@ -75,17 +75,14 @@ text = "This is a girl."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:9nfVqHx5T3uw4H6-NHwz-TQoEUjRgIa5hEPRYaqZq42V3CWc2q5xHxvlGeLxU17A"
-href = "urn:sha384:NfzHG1BHeyQ_litSTpNPWhTXe-ATIUo20D9hoVOpu1JPxYRhDU9iVp4NDRqw-znM"
+blob_href = "urn:sha384:xHkDTTWx1LZlN5ugFma9DFhhwo_08BcJvt8zV3RKL_4JHaJTLRpxW_BbCidFSLVN"
+href = "urn:sha384:uU6GjdApLAxasISu24Thyj4CptlAltEaAv3XJaGhq8752zsqf24J0HnJYMiULFT5"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Arian Zwegers (Arian Zwegers)"
-author_url = "http://www.flickr.com/people/67769030@N07/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/67769030@N07/6254346545"
-title = "Delhi, girl near India Gate"
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
