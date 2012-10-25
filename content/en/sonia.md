@@ -1,7 +1,7 @@
 +++
 title = "sonia"
 contributors = [ "14.140.106.2",]
-headings = [ "Phrase", "Picture", "Audio",]
+headings = [ "Phrase", "Picture", "Audio", "Audio1",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
 target-languages = [ "en",]
@@ -26,6 +26,12 @@ href = "urn:sha384:2lz_1ziU1woDyn-98HYUQOuDTgjIJgqkPPeGak0aq5LGbIZqcnegrdqS2ZhVX
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+blob_href = "urn:sha384:5bLqLu0nFOKZtzYPat6k8aEbcE5ppV7SfC0cxTfQVSyTLVFSmz0bFnqbY7xJRwq2"
+href = "urn:sha384:ZGPnWW4rn9esYnOkSZs_n6Ndzs9p4WgjMJ8sy7vyffNtP923fXC-FOXP-3WlhGJ8"
+mime_type = "audio/ogg"
+type = "audio"
+
 [[cards]]
 
 [[cards.sides]]
@@ -47,6 +53,9 @@ href = "urn:sha384:eUZq6Hcqeyo3UptvqZKbcPFKoZA7ALdkWOBeF2bsmoJ4R6t56_RtRMvYJXU4p
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -65,6 +74,12 @@ license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 blob_href = "urn:sha384:dDgLmesQdvzGj87UxmHiJjoj5qZyKj0bNewnGeC5y6E_qtUGB_IRlwXexXbtyqey"
 href = "urn:sha384:OvvuUT7b9HINrxoIlxtG6guDV5CvuKwqxlWozO7WGuU701TM-FStArSLYhnCmbqU"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+blob_href = "urn:sha384:8MnjZZ9-F_usLCbxF8JDnvXTjM1G0HCz0JoWYRsWhr8AK6hzeSbC5ZN95eQ2G_ds"
+href = "urn:sha384:yRDj0Ys6hPzhoLWQlTRAtcSIOoorfGF6kf1hJGNlTYzUaBTzD0SIYJngH_kTyHrC"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -88,6 +103,9 @@ blob_href = "urn:sha384:op8ooKwdAqru5k8RGw6PICLUVJtkARtp70xu-Y_AjetlgRk-fe70J9KU
 href = "urn:sha384:8g3sCnhh68-M3Sh3UeROSFqPSCHgWQjOX7Maa-g6KWgTkCmc47SXzpageFeoTYt4"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards.sides]]
+type = "empty"
 
 [[interactions]]
 answer = 1
