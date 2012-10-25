@@ -53,17 +53,17 @@ text = "This is a woman."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:s0TXIsRWEn_Zjavjr5Km2i4_GDJR7naShbiTQXYEqbKMUYKMKhjGy6fhIK7HzbyF"
-href = "urn:sha384:5qsP_yGy-JJ5mYPk65_y7rohuzImoIoRAg9HWacVUXlqwW9voaytFxxNXmspVInA"
+blob_href = "urn:sha384:a8atJemw-XNfc5INYgm54g9Hvj_-6ei0ucNs5afZt-QmAJ6Fwzoq_x-ZLapRogRK"
+href = "urn:sha384:ZKg7-mQGnrIpPpCQQAYcsfrC_2DncjjCXUcXoxitr3TRdbMxXZcecWS61WDL36OP"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Hector Garcia (Hector Garcia)"
-author_url = "http://www.flickr.com/people/61286533@N00/"
+author = "Harsha K R (mynameisharsha)"
+author_url = "http://www.flickr.com/people/27526538@N07/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/61286533@N00/445963650"
-title = "Indian woman"
+original_url = "http://www.flickr.com/photos/27526538@N07/5161018262"
+title = "Chota Singh's First Birthday"
 [[cards.sides]]
 type = "empty"
 
@@ -346,17 +346,17 @@ text = "The man is walking."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:zO_9WiOGqs3APyfRu_9TU2RisG_u-ahlh20pfwCmSU5BA4vJubgu9_F_klHVMZ3D"
-href = "urn:sha384:jp0WKwI_Irrq-RdZ6ELyWeX28ah47fkRL_jR3crb5hQo_bUyOOx5bLoQYiEnmF7g"
+blob_href = "urn:sha384:7WYHxvXL00lwkyUmPAtORtLfICVkNxmuav9F9GCpWW7voPt-VDnv4bxLRwMOm5sI"
+href = "urn:sha384:meBXIrImYBh5KxaH_5yxMkErFx_bs9D4YGRIsvAh0m9qJqppZWw-YUS3gIjUKMYN"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (sylvar)"
-author_url = "http://www.flickr.com/people/44124401501@N01/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/44124401501@N01/241050662"
-title = "Men's Fashion in the Twentieth Century - page 109 (image only)"
+author = "Laura Blankenship (lorda)"
+author_url = "http://www.flickr.com/people/20763982@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/20763982@N00/7454097374"
+title = "Man walking in street"
 [[cards.sides]]
 type = "empty"
 
@@ -367,17 +367,17 @@ text = "The boy is sitting."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:OeDGwhTsrTzY6VkRlbpgH2wq0LDcICPuNgYmXGdgrBL9iFh21N_dTamUHPCz_xRG"
-href = "urn:sha384:gj7lSqVqGNXhDJO_O5J4g1_M_7js3CC5bBYhf2LjwEZpbW804l7SM37eaXqk6oSo"
+blob_href = "urn:sha384:iVitq50bAESeSdLdZhIiOebMI40YIxBLfjSjT_0qU8NeZk0RHUIQk4-LQ6X_faDO"
+href = "urn:sha384:y6hApNXpTB4v9RxE4ufyIidqOFlzk_Rfbg-bzJyOiN7SEGCegyhTRArVMZ8aaLo1"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (D Services)"
-author_url = "http://www.flickr.com/people/47529200@N08/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/47529200@N08/7644722220"
-title = "Smiling young boy sitting on a wooden deck next to a phonograph"
+author = "McKay Savage (mckaysavage)"
+author_url = "http://www.flickr.com/people/56796376@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/56796376@N00/6321454481"
+title = "India - Sights & Culture - too cool for school"
 [[cards.sides]]
 type = "empty"
 
@@ -389,7 +389,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:yCxF0Du9pA2jsQ8go156JimNToDXVw2w9fjY1dnIsjRFwnVsBOTnE8YVw4Tl7JVw"
-href = "urn:sha384:9iTJa9Bsfx7gOFZKkiOsMNngyNd3E6aZ3c_HTnLLwA9u8U-TVYNIauVt_Xnrc3iJ"
+href = "urn:sha384:RzTdrLiGgyfWatx-d0RiI6C5dxsXBKlQvn8gZ0hr8tzgzky2g7MT68Wz8YxTwW02"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -430,17 +430,17 @@ text = "This is a man and a woman."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:wOx5KzwkLCqpD7cgdw9OM8owlNfsK0_s4NondKcSXXQaNDyZ7DNT_oeGckH-_aco"
-href = "urn:sha384:kXOB7g2gRv9i_fq5CBTtB0rm9MrIgQMJ-acHG5pPPCgCARa7RgraM_06-3nJM49A"
+blob_href = "urn:sha384:GIQWY6z3U-Pb14D6GqoVF2JtpsVvavyruIXSp6M6Lw63-Qs4goXbB0b7DJ7proHn"
+href = "urn:sha384:e75ZCoRPtk1AwZuyzKTZxlqeTWzOkIBjkAT7UPqUT_75fizz_tzIHAPOCGcdJMtu"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (BiblioArchives / LibraryArchives)"
-author_url = "http://www.flickr.com/people/28853433@N02/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/28853433@N02/7509282230"
-title = "Two cyclists - one man and one woman - consult a road map on the bank of the Ottawa River in Rockcliffe Park Village, Ontario / Deux cyclistes  un homme et une femme  consultent une carte routière sur le bord de la rivière Outaouais au parc Rockcliffe, en"
+author = "Harsha K R (mynameisharsha)"
+author_url = "http://www.flickr.com/people/27526538@N07/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/27526538@N07/3741703449"
+title = "Parents"
 [[cards.sides]]
 type = "empty"
 
@@ -451,17 +451,17 @@ text = "This is a girl and a boy."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:dxhWBlTT1jw38uqRSDNib_WweIlhjCs0dJtNKB7GL9QXN0M_z3zIjeYCl3Tv9hhm"
-href = "urn:sha384:08Vh9eqYf14O7W5UTeNLWNfpQUU7Nr4VkPcthkRDGUvnB2TVoubd8S4lezP9csTe"
+blob_href = "urn:sha384:-fDhjbsTLtZa6YUnrtLxu8vYpd7qh-tF0t0fmAaJEPowcMHx29SEOjtzXIKhY5eN"
+href = "urn:sha384:WiZX90IrEh9HXJ1qdpiQKZE_SCVfsafblBSeD1hRsJF6nM52-QEJgnGY-V1Wv9jM"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "woodleywonderworks (woodleywonderworks)"
-author_url = "http://www.flickr.com/people/73645804@N00/"
+author = "McKay Savage (mckaysavage)"
+author_url = "http://www.flickr.com/people/56796376@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/73645804@N00/209574201"
-title = "full house"
+original_url = "http://www.flickr.com/photos/56796376@N00/2554904623"
+title = "India - Kids - 078"
 [[cards.sides]]
 type = "empty"
 
@@ -472,17 +472,17 @@ text = "This is a woman and a boy."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:c907YvqXOUObvW9UBrYMbLoinZttos2VuX0LmLwnfL4bK3Xfg9qXbmxCmREa8Qir"
-href = "urn:sha384:JhXdzujcoXV4MO5sMJwMIucLtFxRpApBk8-szLPzJSn5Z6MILETKfvPXm-yqrC7T"
+blob_href = "urn:sha384:6JV1oIkbe_uIRBkbcMcJLCLg4-zXNoCMShjw9qMHracIrDcLlVTZl_nJoJ5rOQIj"
+href = "urn:sha384:RlMssI2C4WM0MA1a2p55VqaklYHr8DG1HuGDOlEkNkigHhbyOaulE8RwUuMx0lEo"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (JAK SIE MASZ)"
-author_url = "http://www.flickr.com/people/44458546@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/44458546@N00/4084018261"
-title = "DSC_4575 2009-11-07 19-48"
+author = "anurag agnihotri (nandadevieast)"
+author_url = "http://www.flickr.com/people/41109263@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/41109263@N00/3233610886"
+title = "love"
 [[cards.sides]]
 type = "empty"
 
@@ -556,17 +556,17 @@ text = "The woman and the girl are walking."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:wnax3uhC9iMQVtbhGLD6wPpTlKui90WdMtHt0q-HjszgYcPzv2O95ORfyBx8m2ii"
-href = "urn:sha384:Hd-1eVPF7TI7g0kgIui9bL4ShbBBaIzm1dSx7QHW19fExgRL2TZkikoanJ6R4oGz"
+blob_href = "urn:sha384:X8_7Lk2vMbh9xMJI1CDKfkFGCLbDgLwsHXGxxQphc6MNCUzJkhpoejD2DKR9-_Si"
+href = "urn:sha384:bLPieSKxxGDB7sGlkj6CETTQAhpVJRu1rI-bKqAS7n1tXaCYNkr5lOY663Y0Ecmo"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Carly Lesser &  Art Drauglis (Carly & Art)"
-author_url = "http://www.flickr.com/people/60509459@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/60509459@N00/5673457877"
-title = "The egg hunt is over: Time to go"
+author = "anurag agnihotri (nandadevieast)"
+author_url = "http://www.flickr.com/people/41109263@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/41109263@N00/3513639954"
+title = "its raining light"
 [[cards.sides]]
 type = "empty"
 
@@ -840,12 +840,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "The woman is standing and the man is sitting."
+text = "The woman is standing and the boy is sitting."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6JV1oIkbe_uIRBkbcMcJLCLg4-zXNoCMShjw9qMHracIrDcLlVTZl_nJoJ5rOQIj"
+href = "urn:sha384:9yTPaTnawAsGejn7nucL4UWMYHnSaxw4_0GzR0FLHO0GlDZ59bnZ7qj23Ps6sP9W"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "anurag agnihotri (nandadevieast)"
+author_url = "http://www.flickr.com/people/41109263@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/41109263@N00/3233610886"
+title = "love"
 [[cards.sides]]
 type = "empty"
 
