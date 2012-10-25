@@ -7,20 +7,23 @@ target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "This is a red cycle."
+text = "She is a girl."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:rZ6HZx55DsClZujQRcdITZYaJDMYiaicNgDmmqk6Yi-2d6y9JLUl5lcvJ8RMFlYj"
-href = "urn:sha384:7b2PAAAMKjt5WBY3gIjS0VoGGQtzIKvbHkxSQnlnMurZCbO9ZHVwoG2qBq4XDjGn"
-mime_type = "image/png"
+blob_href = "urn:sha384:J6w8Z1nk0r1TerCNmh_uEjhWz9LkVJLyN5zLaqdwouNOJWuGgtdzS0H2_zh_s2V5"
+href = "urn:sha384:Utk95xP4hRuDcN7mWKbrLV4nhBJDYqxTwggY-zmC8lVhZ0Gi6LhJmtb4LecniVq9"
+mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ciD1uWBVS7-_bQW_6PzvglzearDWoOO41NfsbsddahvEYtRBl2keHKuNtUdRILxs"
+href = "urn:sha384:m-XUuPH9-y9Q6dm9_9cgC6aU7bv6eL-XD1-dFoDoNLxH-RBHKnsQ1TW2INtdX65a"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
