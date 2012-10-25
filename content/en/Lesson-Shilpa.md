@@ -74,15 +74,19 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:rr07c8wqtYz2OgnJEjn_ZMB9FbnCpkZAJRWhrMs7NHNnaiGWG74EjSXp4X-cVv4-"
-href = "urn:sha384:WKpwZ4q96QvYL2_HKYShbMBhKhyHiFl_FMoJP1476297mTYWHADIFvSCkcV6sCS3"
+href = "urn:sha384:3cki_KDtTdhimxYew6qe7jYMgnttlR6EpTgN2NcmOOVGCPV9IEkPDbWG9ST-CzXV"
 mime_type = "image/jpeg"
+rotation = "90"
 type = "picture"
 
 [cards.sides.credit]
 author = "14.140.106.14"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Ob7EzFQKRPoDIVHjNJ8LBO1waba-mfxRrNR3zUee0NJmKbn6fG5ySxNIJ4Oqq3Rm"
+href = "urn:sha384:tt5LccnbFjD-98RlwNMyC0RGX-oG78HNiBwMsqYCNLYP1K19-Bjm1u-e6jQBmtUg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
