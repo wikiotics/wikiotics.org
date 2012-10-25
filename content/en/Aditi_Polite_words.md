@@ -47,11 +47,11 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "If you want to request someone, which polilte word you will use?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Please."
 type = "phrase"
 
 [[interactions]]
