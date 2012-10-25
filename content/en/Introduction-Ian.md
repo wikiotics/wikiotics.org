@@ -12,17 +12,17 @@ text = "This is a man."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:FSoK4pIPFw4k9pR8C1nJdqqkspIcHF8U7rkDDnfAUK_Un-LKGMRLKj7o24A5zcmN"
-href = "urn:sha384:Yl0o-jIpSLaMZrjiy5M_9dzAcdzqYToRza_4bTvucKahHPvjSZEuamUz0CP1zn70"
+blob_href = "urn:sha384:T8u0ZBAugFGRKrb0i384RYyKuNjPZB5Vwiohai76bAx2_DCGNAI8eogPk9nDajlF"
+href = "urn:sha384:-3G2z9agnCmMVdACoX0a1p2rzREMsPSw1OB_Zv8-s1p3smHSJOZqCTDuIhLrDn_P"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Jaskirat Singh Bawa (⌡K)"
-author_url = "http://www.flickr.com/people/58419684@N00/"
+author = "David Dennis (DavidDennisPhotos.com)"
+author_url = "http://www.flickr.com/people/50852241@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/58419684@N00/4985906682"
-title = "Kuldip Nayar"
+original_url = "http://www.flickr.com/photos/50852241@N00/87714558"
+title = "Man with Hat in Momos"
 [[cards.sides]]
 blob_href = "urn:sha384:RpdqKZ9OmkzoahysyzgFwaan4ta3_swpTY8pR9fi5qrQzDH4RiHVTdN7QACIjJx3"
 href = "urn:sha384:o9PuYnBr8l4_WAkejMsV3hl0hs5xcCLq3I-w_0SfuFbZdEbm1wwDGXfdP2ZxtVZI"
