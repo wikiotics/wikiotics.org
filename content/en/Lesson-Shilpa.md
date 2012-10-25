@@ -48,11 +48,18 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This is blue motorcycle"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_noFH5Srx8ZgAEPAiexmOCsRUo8Ve1K1bufwhK3xfnjB0hu3hYbEz6vZemgASn8-"
+href = "urn:sha384:0RaIDTa53skryw3RyyEns5M-DCj3gtJ3pg-t7VVxOE-cGyJN1yEdjaqMmHvCU9GY"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "14.140.106.14"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
