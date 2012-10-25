@@ -22,10 +22,16 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JTMRff7MxPAnYjis8XPL7VCzb_yAC_K24qdzRb2ZLQwqQVG6SumcqE6VsCAkfgZW"
+href = "urn:sha384:fxLJdrGH5J8KQS3F_SzcTeJW0zxvwqq21JU-EzVOIr2x9VuCyOzEQh3prhU8Jhk-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Pq71tnL2U3lGAm3WnH2dPN5e99Dohi1P135wwlWxe2_pJGfY6_AnQ3QnU1_AGxde"
+href = "urn:sha384:IbSKlXagXbmBpzIjA8SfALvbr8yM5ZHIwH5uu8O1Wi3UA9iqAPZohfg3Bq_cVMfx"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
