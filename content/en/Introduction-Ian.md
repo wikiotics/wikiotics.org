@@ -1,6 +1,6 @@
 +++
 title = "Introduction-Ian"
-contributors = [ "14.140.106.14", "182.72.234.14", "192.160.130.105", "ian",]
+contributors = [ "14.140.106.14", "14.140.106.2", "182.72.234.14", "192.160.130.105", "ian",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "IndiaWorkshop",]
@@ -36,16 +36,14 @@ text = "This is a boy."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:FLjnOaMKwg7aEFv-EVUHfz3n8DBmdAaaUm4ajJCbfbzt8BT2wvZskcjIxQmX6lLJ"
-href = "urn:sha384:w0fcgFENZxLLn7cfoBCJdGVsu_ypFcX_aJeWOSK7k9ZhT6lhEmr3rk2Jmh7nA3HR"
+blob_href = "urn:sha384:5HmzHrzWhDMkXXgugSwHMNd21t4f4_A3TguhmEX-5poB3k39qK-_hXeDlnwidDNu"
+href = "urn:sha384:tumkSTfMEoIrnFdnT5Vee4tQ-_rf0wqcNWrZej2jdFwOjfXmxNCvevLbjNb6SpVl"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Anne-Mette Jensen (annimetti)"
-author_url = "http://www.flickr.com/people/98816109@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/98816109@N00/6759552847"
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
