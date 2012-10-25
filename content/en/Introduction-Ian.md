@@ -45,7 +45,10 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:BXjkCm3yDrIac0s3bbgT84zXvjHSbJBr1A1gHOxt7oFooVa3kju5CrncOZkYcPJx"
+href = "urn:sha384:wusbZDpZPBQ4u9XnbFZ8EMR8ROBwTsTKEIWWNCoQPGq47kDMCB5iLxSkmAYyGOTL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
