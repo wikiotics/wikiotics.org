@@ -12,8 +12,10 @@ text = "What comes after sunday?"
 type = "phrase"
 
 [[cards.sides]]
-text = "Monday"
-type = "phrase"
+blob_href = "urn:sha384:hrrOFXilxcqsPxHTSVCDAGX0S6-rcHm5ojcsydZy2_XriGp1bl2ymi_PZyUQPXjr"
+href = "urn:sha384:7hniLs7eeg0TCvnnNnM9Mpeks6ewSH-p1ymVSZZ0-7TemEuILbKHFfta4bKVwwVo"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
