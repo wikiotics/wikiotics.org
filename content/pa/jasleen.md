@@ -1,7 +1,7 @@
 +++
 title = "jasleen"
 contributors = [ "14.140.106.2",]
-dividers = [ 4,]
+dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio", "Audio2",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
@@ -57,6 +57,35 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "THE BOY IS SITTING."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = "THIS IS A CAR "
 type = "phrase"
 
@@ -70,10 +99,16 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jYQWDYhHbjlMLJmyyOML6tK3yRSPlWoDGre1ZQz9CLMpsRUjJxEyoSjD3cyJm94d"
+href = "urn:sha384:78-5DOSYK50fpEBcBkiX9TZOb474wxm8DlQWyq1gNS8SN7Gbn8EnJEdq5bNt3pZb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:e9LU7JozFgDrUuLkLD8jLFrNC3rUSZuxIKafphxbCKlVI9VM0O4uTfs3MlEsoUZG"
+href = "urn:sha384:qUjimBQKqYkCPupRha3TuvWehFW8WD-bk76DB3nx5O_WPG80cEwOYspZHK39RHmO"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -91,10 +126,16 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:bBTpHmU1IoLjf8wOhX_CtF8v6cajCv9jUjvMonvsvE2G8oe_4l8c53mCDl3HCWvs"
+href = "urn:sha384:Sb_sVq_kIezWmGXGe2PeiJ_68UdX0C7DIgvuclrMB92JLi-KsBlup7W-wVFMZtAH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6NT_MXLdILsreWTRFEMwVIcAi0CllRbsGOAq_bhypvT1dS_68oLViPFqnpRm3wpR"
+href = "urn:sha384:LAz2QO3x52A9tUS_JJUj4lnz_rv2wHRnN07JU8BQ4FwWp1pXfH_l1Q3cWOqD0hbZ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
