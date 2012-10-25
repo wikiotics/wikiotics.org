@@ -50,13 +50,23 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "THIS IS A CAR "
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:eYzchCjjT5SU4e1ZrEVVLnGmLY3DYBg6qhZPdwd_EN3s5QCPNalufcaoNAQrXJrH"
+href = "urn:sha384:kNQVcepOjLHDeBvtVTdbsyXbNkH9GMNSCckCSahR0D2zWRtb-YtsGnJGlj2LJYdH"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rw-VM7Ep72AiAa5wCzdqcw4hu_RXTWV21Zjx5rODNi06MoPWU4TNRY8HZYQt3e8B"
+href = "urn:sha384:E0QPIRPZ5jjEllkJZDJQ611A59VggV0ayt-aRyepmF_Top2LqIcxov7XCUS7TmAj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
