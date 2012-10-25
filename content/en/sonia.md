@@ -3,16 +3,15 @@ title = "sonia"
 contributors = [ "14.140.106.2",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
-target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "She is a girl."
+text = "It is a red car."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:J6w8Z1nk0r1TerCNmh_uEjhWz9LkVJLyN5zLaqdwouNOJWuGgtdzS0H2_zh_s2V5"
-href = "urn:sha384:Utk95xP4hRuDcN7mWKbrLV4nhBJDYqxTwggY-zmC8lVhZ0Gi6LhJmtb4LecniVq9"
+blob_href = "urn:sha384:-4m1fHin_J5rcC0tXy0jhAEhGO8YuroaUvlYN-ZXlDESJir2z8R2p98jPgSAorS5"
+href = "urn:sha384:KmZIapruLqmFs76JL8rxm_xmF7d3OguYLOaZF3yul2Rfxww8ByDzb1i0x_5RYrTN"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -20,19 +19,44 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:ciD1uWBVS7-_bQW_6PzvglzearDWoOO41NfsbsddahvEYtRBl2keHKuNtUdRILxs"
-href = "urn:sha384:m-XUuPH9-y9Q6dm9_9cgC6aU7bv6eL-XD1-dFoDoNLxH-RBHKnsQ1TW2INtdX65a"
+blob_href = "urn:sha384:eTBr8v-HrJNnkeXv1vTyxmkfItlHhJTFIjuLxz23jyWs5pZ9B6nj5W4fo3VBRmg5"
+href = "urn:sha384:2lz_1ziU1woDyn-98HYUQOuDTgjIJgqkPPeGak0aq5LGbIZqcnegrdqS2ZhVXxiM"
 mime_type = "audio/ogg"
 type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This is a car."
+type = "phrase"
 
+[[cards.sides]]
+blob_href = "urn:sha384:zULxiRUfxn9OM5ji3yK-xxF-kxbYOF1mFhNqsjvBtfqIAQoqsHLcaNSQ4PGpAfaq"
+href = "urn:sha384:uJ6BwocCoSIU5GlxZxrvRQfcWW0_NVkUAtxlymkq_nP0E1biDhQWvYVXD1SRawDI"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "The boy is walking."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:vtwAYBhV9B4mH_o22_VVekoa0doULiqd4TWJzJiyQ0ALVCF4jFQDyc126XJj1G5q"
+href = "urn:sha384:9tf0fBtEDnjAp43PCJaWakeXJP2pinW_VoWHkUvLMxtmdQAoXx5Wvv1nrsJOhr0A"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -45,18 +69,10 @@ type = "empty"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dDgLmesQdvzGj87UxmHiJjoj5qZyKj0bNewnGeC5y6E_qtUGB_IRlwXexXbtyqey"
+href = "urn:sha384:OvvuUT7b9HINrxoIlxtG6guDV5CvuKwqxlWozO7WGuU701TM-FStArSLYhnCmbqU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
