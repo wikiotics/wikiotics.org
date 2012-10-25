@@ -51,8 +51,8 @@ text = "This is a woman."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:98911azppSs0-trUOTNlCHDkJOtjddOj3zQBR8LDpZKBdcNkHHws6BzdA6wlE8kR"
-href = "urn:sha384:Fx8_tPlhoMGpK60v8ybqgZ2XaN6Cg5UhDqs7QPInTXCZvOoCxNqMtFUkMndOBFrE"
+blob_href = "urn:sha384:rr07c8wqtYz2OgnJEjn_ZMB9FbnCpkZAJRWhrMs7NHNnaiGWG74EjSXp4X-cVv4-"
+href = "urn:sha384:0cqqXZONOBDWYlfJY1tF-xSgP9Yf5V0xkv5Oik-_aKTNVm1JtnbSlmM-NljQ2hPT"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -69,17 +69,14 @@ text = "This is a girl."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:9nfVqHx5T3uw4H6-NHwz-TQoEUjRgIa5hEPRYaqZq42V3CWc2q5xHxvlGeLxU17A"
-href = "urn:sha384:NfzHG1BHeyQ_litSTpNPWhTXe-ATIUo20D9hoVOpu1JPxYRhDU9iVp4NDRqw-znM"
+blob_href = "urn:sha384:Pi7e6FvjrILLMyNpN9nMEMah08dssGFWbhu_OrdTkCJTd_jKT6wwB39oG0jkfZ7t"
+href = "urn:sha384:WVSWQkRnI1at2ch6PA0TRrZAh02zeHzrveLny6b3Gh5k-2GCN1NlyKZWIEH5l_by"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Arian Zwegers (Arian Zwegers)"
-author_url = "http://www.flickr.com/people/67769030@N07/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/67769030@N07/6254346545"
-title = "Delhi, girl near India Gate"
+author = "14.140.106.14"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -90,17 +87,14 @@ text = "Man"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:FSoK4pIPFw4k9pR8C1nJdqqkspIcHF8U7rkDDnfAUK_Un-LKGMRLKj7o24A5zcmN"
-href = "urn:sha384:OYg-Z4amX7ICRJWVmKZKuy4i2UVDIBGvGA1efzDLZ0OeUcvK-ArP7--v6vdUhQ_I"
+blob_href = "urn:sha384:vq6vUvHQQw9_nAp1HoDEQGcTM_XA1TrJfK1NRwViH6hiFwSnmwqWeBsGqgNKpBTI"
+href = "urn:sha384:P5CbxeZUg4PzdmPUe0Wv5szZehy5tELa9lDAfgmXhlm_QF6QYisKv--o0xFmern5"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Jaskirat Singh Bawa (⌡K)"
-author_url = "http://www.flickr.com/people/58419684@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/58419684@N00/4985906682"
-title = "Kuldip Nayar"
+author = "14.140.106.14"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
