@@ -1,6 +1,6 @@
 +++
 title = "Introduction-Ian"
-contributors = [ "182.72.234.14", "192.160.130.105", "ian",]
+contributors = [ "14.140.106.14", "182.72.234.14", "192.160.130.105", "ian",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "IndiaWorkshop",]
@@ -181,17 +181,14 @@ text = "The man is sitting."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:1cmpLlj6ddhN9hmYUtdanfpOA7mUyCo2gZH3lqLUPb1RYfwz0R8GODeBbRlQRQex"
-href = "urn:sha384:7q_L-fq6FOUVz3M9CwmJvdSfYmkAJsOmcetWrNzZUUbqRIN75gTdXNCipkZsvZv0"
+blob_href = "urn:sha384:DW9uY_0BLfjgWgXE9Mbaq3DrStu0JvPvrD83IxSOW650P0EBSEGVac8HyKBNaTsk"
+href = "urn:sha384:024LGmBo4bxJ80-6KqIHNuDjih69UZWd_TO2K9PI2vv57njRaZWGoFh8EKOtaATq"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "David Hodgson (Public Places (away for a few days))"
-author_url = "http://www.flickr.com/people/78019868@N05/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/78019868@N05/7279007626"
-title = "Man in a Fedora"
+author = "14.140.106.14"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
