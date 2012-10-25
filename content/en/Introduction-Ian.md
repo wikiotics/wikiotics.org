@@ -24,7 +24,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/58419684@N00/4985906682"
 title = "Kuldip Nayar"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:RpdqKZ9OmkzoahysyzgFwaan4ta3_swpTY8pR9fi5qrQzDH4RiHVTdN7QACIjJx3"
+href = "urn:sha384:o9PuYnBr8l4_WAkejMsV3hl0hs5xcCLq3I-w_0SfuFbZdEbm1wwDGXfdP2ZxtVZI"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
