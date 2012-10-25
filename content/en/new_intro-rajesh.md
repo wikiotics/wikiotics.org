@@ -132,6 +132,48 @@ href = "urn:sha384:XqTpBAzpAl_hDF_IJtAkEmKs3G6wguQ_aBuloCeWnKartItzJc1l63mXcnEXR
 mime_type = "audio/ogg"
 type = "audio"
 
+[[cards]]
+
+[[cards.sides]]
+text = "THE AUTO IS YELLOW. "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:LpShqj4dhWOg5eaYH1UBE9HLQ2b-OEkWijP8Fsl8ZBoChvnW_jIuLixs79ss8-bQ"
+href = "urn:sha384:e3IUBu3qowGQwiC3We-s-wZKu0f_zbxtcdLNfz5L_ML4qBaJwHp7leSaoS7WoDw9"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:vHzNu9A9w15uTFgevip94wKdinBTilLcY_f2wEP0pRAlCXJ00euXmxXjmgohuEAa"
+href = "urn:sha384:pxYsrDUkSmq1Pbqv7n6Vpo20rHPCFI0d6oxekwvxPfDkmFSjYk8hLkkLHRbDgQ4M"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "THE BOY AND GIRL ARE STANDING."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:6OH_SASOxAnBXje2YwdiZe1bM16GNZFeA_5NQawXYRxoWZJn7Fi7PsVczo6otbwU"
+href = "urn:sha384:b7pSrxQqvus6fhaxUafz4PsiSFUqj_ns8AYlfSwxtxJ_zEXduykMJvsacHCUpP9I"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:L9RNPheXzEj5RINUV5nRjmVJnWE22JAf7Nb_j-ISVXjEbo_IOVSTm9xthvgAQVql"
+href = "urn:sha384:HtHVixUPOKyPTkI4adH-5o5EOXDlddHLZUeCPYZL0MnHVneQS-5eQESxDU1UvLq6"
+mime_type = "audio/ogg"
+type = "audio"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
