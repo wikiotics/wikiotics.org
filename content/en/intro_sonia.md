@@ -2,7 +2,7 @@
 title = "intro sonia"
 contributors = [ "14.140.106.2",]
 headings = [ "Phrase", "Picture", "Audio",]
-tags = [ "indiaworkshop",]
+tags = [ "IndiaWorkshop",]
 type = "lesson"
 target-languages = [ "en",]
 [[cards]]
