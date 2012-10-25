@@ -48,11 +48,18 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "A boy is standing."
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vq6vUvHQQw9_nAp1HoDEQGcTM_XA1TrJfK1NRwViH6hiFwSnmwqWeBsGqgNKpBTI"
+href = "urn:sha384:TQzkgXCYfhXJpvcJ2xb3lP5DNcYe7gO1P_MSyaA1LnvMiHGSvq9VFCtdUjGb0HZW"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
