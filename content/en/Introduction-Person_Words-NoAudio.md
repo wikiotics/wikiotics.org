@@ -3,7 +3,6 @@ title = "Introduction-Person Words-NoAudio"
 contributors = [ "182.72.234.14", "192.160.130.105", "ian",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52,]
 headings = [ "Phrase", "Picture", "Audio",]
-tags = [ "IndiaWorkshop",]
 type = "lesson"
 [[cards]]
 
