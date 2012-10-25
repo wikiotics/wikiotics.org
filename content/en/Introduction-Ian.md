@@ -191,17 +191,14 @@ text = "The boy is running."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:LLHa8d2WTMQq9WChv6TRcf4YFuECOsDXMA5YdWIAiMTSfC_9JMZHqeh6ILF16Ulz"
-href = "urn:sha384:OcxKfz1jkbV4YxUYJw8REJTOJzQ5lPINZAcHHpudQSdTbD0tZXm0FPz6FMjZTrwc"
+blob_href = "urn:sha384:Mj7C5xq5BpewxIHRnLSY6V4iB2VVD9oe87EctxVAUSFu8KHEucyEdiEXUhju4IT8"
+href = "urn:sha384:ZCaPDBZJ_1k47J72xNzrJ8zsOQfL7LozUrOaRr51a1_b0UH7gKS-EVsXCK605cxV"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "woodleywonderworks (woodleywonderworks)"
-author_url = "http://www.flickr.com/people/73645804@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/73645804@N00/3927296355"
-title = "boy, with back pack, running"
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
