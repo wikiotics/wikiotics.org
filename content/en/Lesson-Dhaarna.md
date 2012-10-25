@@ -83,7 +83,10 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:V2UTPMP0v1QK5FMueE1wH-Iaw4dRTYLdhd9XseC6kbAnkZYX48ybdiYEHxowiOq7"
+href = "urn:sha384:q_K-9tOccrG4De-zsQRZ5lYA6OqiewwntystHgXeZqwCXmsRi6zyDY1TbWnACFZP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -95,10 +98,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:V2UTPMP0v1QK5FMueE1wH-Iaw4dRTYLdhd9XseC6kbAnkZYX48ybdiYEHxowiOq7"
-href = "urn:sha384:q_K-9tOccrG4De-zsQRZ5lYA6OqiewwntystHgXeZqwCXmsRi6zyDY1TbWnACFZP"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[interactions]]
 answer = 1
