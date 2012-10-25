@@ -3,7 +3,7 @@ title = "Introduction-jasleen"
 contributors = [ "124.63.101.22", "127.0.0.1", "14.140.106.2", "182.72.234.14", "201.37.129.76", "216.27.154.200", "65.91.246.2", "Laurent", "ian",]
 dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
-tags = [ "ESLworkshop",]
+tags = [ "ESLworkshop", "IndiaWorkshop",]
 type = "lesson"
 target-languages = [ "en",]
 [[cards]]
