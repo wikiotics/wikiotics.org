@@ -1,6 +1,7 @@
 +++
 title = "new intro-rajesh"
 contributors = [ "14.140.106.2",]
+dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
@@ -71,13 +72,65 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "THEY ARE SITTING."
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pD6VUOjydwiX65QJgSpVpHyJd21PIdk77xsdU1ZNT_UFV45HHySLcRNgoy0Z06Go"
+href = "urn:sha384:zrvKuY91M3vMK561Uv7ngRNz4ZOU5iwKLNCYrN2yUrxS08bTgYCuwpCSLRbQ02x0"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:KsuuQX6D5sRpaNGz32iKacFy5YrlMqT_ZgP_c6lWHBolTMqtXL0rD0uyJ3UIpJcY"
+href = "urn:sha384:gluvYpbMLiiEdd51v5p8lUWTYN1mi0vV__hFDj_9rLcR0fICKXgsVq0uUxDQMiU-"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "THE MAN AND WOMAN ARE SITTING."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:6qTEgcbR51bE2mlkr-epIwlXCDfjRsJVSOCMiQ3xGZQ_NVfVz99bs_ajRxsn9KFh"
+href = "urn:sha384:s36Pqgas2bA5GmIrDb0XcqlTqGn6VIFLyUCdzAX-4BTc2ozKW08grzkXJPqy9V_T"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:MtjDIq3xY897mv2yZh6Ugtn30jYgluy0wQn85YnN7DaKqDXf3ycFmV04Of1ki5N5"
+href = "urn:sha384:qEGARtGaw9DZpKJ8-d5mAuF4QS4e1eRaZRQdFBdhnki7DkuZOlI9W4r8125aDHCW"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "THIS IS A RED TRUCK. "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:TUndb8tFMoSomLmspYndJ1NskUX9qSIGp9RHKl-Ae949sAr9H-KPm7YrITm2168R"
+href = "urn:sha384:SMSXE8G-7Z-PMNt68F5kWKKefgGdLce0rwhEqA5l061Xiba0dNFuo9XG3H7BFsFq"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:4Z3op1Q38-Z_M8B9iXT4zsEG_uICyUZ7Q8wzrDjxi8a72ugwGFh13-BZuXmqbkoZ"
+href = "urn:sha384:XqTpBAzpAl_hDF_IJtAkEmKs3G6wguQ_aBuloCeWnKartItzJc1l63mXcnEXRV-L"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
