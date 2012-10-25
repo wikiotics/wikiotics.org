@@ -12,17 +12,17 @@ text = "This is a man."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:4gRgPZ-hR27bVY7h9pjpbIt5Ipzp7R31gl3VbORBBfWKXGoSUMtbZnwt6N6OSOMl"
-href = "urn:sha384:35XHQFKSq18Cn15lttHdLZ32q0eD2FiqKJ6sF_sqDTeSZRABp7FBLM7MM19vtsig"
+blob_href = "urn:sha384:FSoK4pIPFw4k9pR8C1nJdqqkspIcHF8U7rkDDnfAUK_Un-LKGMRLKj7o24A5zcmN"
+href = "urn:sha384:Yl0o-jIpSLaMZrjiy5M_9dzAcdzqYToRza_4bTvucKahHPvjSZEuamUz0CP1zn70"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "David Dennis (DavidDennisPhotos.com)"
-author_url = "http://www.flickr.com/people/50852241@N00/"
+author = "Jaskirat Singh Bawa (⌡K)"
+author_url = "http://www.flickr.com/people/58419684@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/50852241@N00/2436720309"
-title = "Man in Cappadocia"
+original_url = "http://www.flickr.com/photos/58419684@N00/4985906682"
+title = "Kuldip Nayar"
 [[cards.sides]]
 type = "empty"
 
@@ -33,17 +33,16 @@ text = "This is a boy."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:itlpV89fNinDWYLyKd3HAks7o62u6889O47XeoQiMBnx02bqmoT866XO5D8dxT3a"
-href = "urn:sha384:okWCf1KVvCHJdvW_21qvEUueVS84V8xiOA2hk8vK5VCHwIuo6tjVNZR923r-6oP0"
+blob_href = "urn:sha384:FLjnOaMKwg7aEFv-EVUHfz3n8DBmdAaaUm4ajJCbfbzt8BT2wvZskcjIxQmX6lLJ"
+href = "urn:sha384:w0fcgFENZxLLn7cfoBCJdGVsu_ypFcX_aJeWOSK7k9ZhT6lhEmr3rk2Jmh7nA3HR"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "José Antonio Morcillo Valenciano (2ose)"
-author_url = "http://www.flickr.com/people/53620105@N06/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/53620105@N06/6107964619"
-title = "Little boy in Fatehpur Sikri"
+author = "Anne-Mette Jensen (annimetti)"
+author_url = "http://www.flickr.com/people/98816109@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/98816109@N00/6759552847"
 [[cards.sides]]
 type = "empty"
 
@@ -54,17 +53,17 @@ text = "This is a woman."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:uEJfCmJ708wwGRAhXNf6b9xmSxgRatikNDQPinIyIcKT8ChihEHMl2gGSnv-02b3"
-href = "urn:sha384:78qKxDgBD-fH1UsIjfyzozokjnR_9dM35_6RDR_LXWRaOjrMRV4FR-Qv-metiXh0"
+blob_href = "urn:sha384:s0TXIsRWEn_Zjavjr5Km2i4_GDJR7naShbiTQXYEqbKMUYKMKhjGy6fhIK7HzbyF"
+href = "urn:sha384:5qsP_yGy-JJ5mYPk65_y7rohuzImoIoRAg9HWacVUXlqwW9voaytFxxNXmspVInA"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "epSos .de (epSos.de)"
-author_url = "http://www.flickr.com/people/36495803@N05/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
-title = "Beautiful Asian Woman Thinking"
+author = "Hector Garcia (Hector Garcia)"
+author_url = "http://www.flickr.com/people/61286533@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/61286533@N00/445963650"
+title = "Indian woman"
 [[cards.sides]]
 type = "empty"
 
@@ -75,17 +74,17 @@ text = "This is a girl."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:F-QNs87cwq6m7bTyqNay3iA2KqrwSh43vyxKNvSaZhNE740D5u4msGf6zdU_i1CT"
-href = "urn:sha384:hd2LqABWFEv_2ye-f0lbrbGzzZXnUxlALwxEzR6EnkgA1b-zvG7c4Y3FegwrDF7S"
+blob_href = "urn:sha384:9nfVqHx5T3uw4H6-NHwz-TQoEUjRgIa5hEPRYaqZq42V3CWc2q5xHxvlGeLxU17A"
+href = "urn:sha384:NfzHG1BHeyQ_litSTpNPWhTXe-ATIUo20D9hoVOpu1JPxYRhDU9iVp4NDRqw-znM"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Mike Baird (mikebaird)"
-author_url = "http://www.flickr.com/people/72825507@N00/"
+author = "Arian Zwegers (Arian Zwegers)"
+author_url = "http://www.flickr.com/people/67769030@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/72825507@N00/3851362308"
-title = "Cute Little Girl in Pink Walking Beach.  People scenes, on the beach on Morro Strand State Park just north of Morro Rock in Morro Bay, CA.  23 August 2009"
+original_url = "http://www.flickr.com/photos/67769030@N07/6254346545"
+title = "Delhi, girl near India Gate"
 [[cards.sides]]
 type = "empty"
 
@@ -96,17 +95,17 @@ text = "Man"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:4gRgPZ-hR27bVY7h9pjpbIt5Ipzp7R31gl3VbORBBfWKXGoSUMtbZnwt6N6OSOMl"
-href = "urn:sha384:35XHQFKSq18Cn15lttHdLZ32q0eD2FiqKJ6sF_sqDTeSZRABp7FBLM7MM19vtsig"
+blob_href = "urn:sha384:FSoK4pIPFw4k9pR8C1nJdqqkspIcHF8U7rkDDnfAUK_Un-LKGMRLKj7o24A5zcmN"
+href = "urn:sha384:OYg-Z4amX7ICRJWVmKZKuy4i2UVDIBGvGA1efzDLZ0OeUcvK-ArP7--v6vdUhQ_I"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "David Dennis (DavidDennisPhotos.com)"
-author_url = "http://www.flickr.com/people/50852241@N00/"
+author = "Jaskirat Singh Bawa (⌡K)"
+author_url = "http://www.flickr.com/people/58419684@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/50852241@N00/2436720309"
-title = "Man in Cappadocia"
+original_url = "http://www.flickr.com/photos/58419684@N00/4985906682"
+title = "Kuldip Nayar"
 [[cards.sides]]
 type = "empty"
 
@@ -117,17 +116,16 @@ text = "Boy"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:itlpV89fNinDWYLyKd3HAks7o62u6889O47XeoQiMBnx02bqmoT866XO5D8dxT3a"
-href = "urn:sha384:okWCf1KVvCHJdvW_21qvEUueVS84V8xiOA2hk8vK5VCHwIuo6tjVNZR923r-6oP0"
+blob_href = "urn:sha384:FLjnOaMKwg7aEFv-EVUHfz3n8DBmdAaaUm4ajJCbfbzt8BT2wvZskcjIxQmX6lLJ"
+href = "urn:sha384:Jc2qwQFcyncCh1XfMAfPRCajgBu_4aJZQaNFhNfE4GS7F9dd0fMnC55WTFMC2qsI"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "José Antonio Morcillo Valenciano (2ose)"
-author_url = "http://www.flickr.com/people/53620105@N06/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/53620105@N06/6107964619"
-title = "Little boy in Fatehpur Sikri"
+author = "Anne-Mette Jensen (annimetti)"
+author_url = "http://www.flickr.com/people/98816109@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/98816109@N00/6759552847"
 [[cards.sides]]
 type = "empty"
 
@@ -138,17 +136,17 @@ text = "Woman"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:uEJfCmJ708wwGRAhXNf6b9xmSxgRatikNDQPinIyIcKT8ChihEHMl2gGSnv-02b3"
-href = "urn:sha384:78qKxDgBD-fH1UsIjfyzozokjnR_9dM35_6RDR_LXWRaOjrMRV4FR-Qv-metiXh0"
+blob_href = "urn:sha384:s0TXIsRWEn_Zjavjr5Km2i4_GDJR7naShbiTQXYEqbKMUYKMKhjGy6fhIK7HzbyF"
+href = "urn:sha384:U2VhXQ5QGW2gZgDJzfg-7HVjL7sOnZ9AcIV1peOeo1Qwunv4pdzUvxMLv6sAB0_0"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "epSos .de (epSos.de)"
-author_url = "http://www.flickr.com/people/36495803@N05/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/36495803@N05/4890207202"
-title = "Beautiful Asian Woman Thinking"
+author = "Hector Garcia (Hector Garcia)"
+author_url = "http://www.flickr.com/people/61286533@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/61286533@N00/445963650"
+title = "Indian woman"
 [[cards.sides]]
 type = "empty"
 
@@ -159,17 +157,17 @@ text = "Girl"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:F-QNs87cwq6m7bTyqNay3iA2KqrwSh43vyxKNvSaZhNE740D5u4msGf6zdU_i1CT"
-href = "urn:sha384:hd2LqABWFEv_2ye-f0lbrbGzzZXnUxlALwxEzR6EnkgA1b-zvG7c4Y3FegwrDF7S"
+blob_href = "urn:sha384:9nfVqHx5T3uw4H6-NHwz-TQoEUjRgIa5hEPRYaqZq42V3CWc2q5xHxvlGeLxU17A"
+href = "urn:sha384:XFh778VGbdejkyoOwl15J2ME6_j6GCrL7SuITN8lr57bDV_QGwUUEc8XFzS72Ow-"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Mike Baird (mikebaird)"
-author_url = "http://www.flickr.com/people/72825507@N00/"
+author = "Arian Zwegers (Arian Zwegers)"
+author_url = "http://www.flickr.com/people/67769030@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/72825507@N00/3851362308"
-title = "Cute Little Girl in Pink Walking Beach.  People scenes, on the beach on Morro Strand State Park just north of Morro Rock in Morro Bay, CA.  23 August 2009"
+original_url = "http://www.flickr.com/photos/67769030@N07/6254346545"
+title = "Delhi, girl near India Gate"
 [[cards.sides]]
 type = "empty"
 
