@@ -54,17 +54,14 @@ text = "This is a woman."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:s0TXIsRWEn_Zjavjr5Km2i4_GDJR7naShbiTQXYEqbKMUYKMKhjGy6fhIK7HzbyF"
-href = "urn:sha384:U2VhXQ5QGW2gZgDJzfg-7HVjL7sOnZ9AcIV1peOeo1Qwunv4pdzUvxMLv6sAB0_0"
+blob_href = "urn:sha384:8K-wPKmkAWuKGQr22Fd6Jw2vYostuHstvbro_Rl58I6LsZ6faSwf4XkTByt4xySl"
+href = "urn:sha384:v0FOZjlseRRxie6MQpKc2Xe_kcUw0bjx6ldLTHa3tl_pqjV3Fh5CQSfNg_jxNcUZ"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Hector Garcia (Hector Garcia)"
-author_url = "http://www.flickr.com/people/61286533@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/61286533@N00/445963650"
-title = "Indian woman"
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
