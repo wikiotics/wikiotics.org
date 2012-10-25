@@ -69,13 +69,23 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It is a cycle."
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vB6m5adIQOzD50sKR2O60Kptcf_kdtOALvLvCEYyCZ8tSilDIOsV9eLNEkXMiXkZ"
+href = "urn:sha384:h8x9sbbJVtomo4InTj4fS4bn2yJKbZ3kD2b12jqHafCRKt8C5UGZB13X3aHdi1_M"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:op8ooKwdAqru5k8RGw6PICLUVJtkARtp70xu-Y_AjetlgRk-fe70J9KUI42xJ3DW"
+href = "urn:sha384:8g3sCnhh68-M3Sh3UeROSFqPSCHgWQjOX7Maa-g6KWgTkCmc47SXzpageFeoTYt4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
