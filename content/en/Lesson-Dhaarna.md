@@ -1,6 +1,7 @@
 +++
 title = "Lesson-Dhaarna"
 contributors = [ "14.140.106.2",]
+dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -69,13 +70,35 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
+text = "It is a Car."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:cy0kIGLRz3FSRAGyT_oNsfpfjO3vwGLl-Ool5TervJa7gVG5haoMWqRtXDXYIU2M"
+href = "urn:sha384:O7PX6_IT_G2sYZrJiYQO3Y72lEJQYFPXv8QxZbgWe6PetZQNNmt4C3SQHDmLUb8V"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
 type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:V2UTPMP0v1QK5FMueE1wH-Iaw4dRTYLdhd9XseC6kbAnkZYX48ybdiYEHxowiOq7"
+href = "urn:sha384:q_K-9tOccrG4De-zsQRZ5lYA6OqiewwntystHgXeZqwCXmsRi6zyDY1TbWnACFZP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
