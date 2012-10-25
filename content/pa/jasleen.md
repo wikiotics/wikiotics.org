@@ -2,10 +2,10 @@
 title = "jasleen"
 contributors = [ "14.140.106.2",]
 dividers = [ 4,]
-headings = [ "Phrase", "Picture", "Audio",]
+headings = [ "Phrase", "Picture", "Audio", "Audio2",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
-target-languages = [ "en",]
+target-languages = [ "pa",]
 [[cards]]
 
 [[cards.sides]]
@@ -22,10 +22,10 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:2xjfkDGlsLiEt2-QzVkZ4cRYuNz2K22Xl0HizpY7VIFvJHJsvpexfg0tKEACKQfk"
-href = "urn:sha384:r0cHQZr7ePC57CxkJWy4H0g9njlLOggd0Je6yiszdK9MW6ne5eA9rNB8trTcQ0mH"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -43,10 +43,10 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:FVThzjwsmd6QVzDLII4iJiW-JPuMbBAPdHh1mzcCPbJebfpYHYgZffpnerOLJ8Jp"
-href = "urn:sha384:m_3h2OOBAWb0CaCuuVj0hqhOGeJqty9Phn2G2ANNUjNPoV43hn2AKNYmC1NzqEXE"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -64,10 +64,10 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:rw-VM7Ep72AiAa5wCzdqcw4hu_RXTWV21Zjx5rODNi06MoPWU4TNRY8HZYQt3e8B"
-href = "urn:sha384:E0QPIRPZ5jjEllkJZDJQ611A59VggV0ayt-aRyepmF_Top2LqIcxov7XCUS7TmAj"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -85,10 +85,10 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:KsuuQX6D5sRpaNGz32iKacFy5YrlMqT_ZgP_c6lWHBolTMqtXL0rD0uyJ3UIpJcY"
-href = "urn:sha384:gluvYpbMLiiEdd51v5p8lUWTYN1mi0vV__hFDj_9rLcR0fICKXgsVq0uUxDQMiU-"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -106,10 +106,10 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:MtjDIq3xY897mv2yZh6Ugtn30jYgluy0wQn85YnN7DaKqDXf3ycFmV04Of1ki5N5"
-href = "urn:sha384:qEGARtGaw9DZpKJ8-d5mAuF4QS4e1eRaZRQdFBdhnki7DkuZOlI9W4r8125aDHCW"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -127,10 +127,10 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:4Z3op1Q38-Z_M8B9iXT4zsEG_uICyUZ7Q8wzrDjxi8a72ugwGFh13-BZuXmqbkoZ"
-href = "urn:sha384:XqTpBAzpAl_hDF_IJtAkEmKs3G6wguQ_aBuloCeWnKartItzJc1l63mXcnEXRV-L"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -148,10 +148,10 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:vHzNu9A9w15uTFgevip94wKdinBTilLcY_f2wEP0pRAlCXJ00euXmxXjmgohuEAa"
-href = "urn:sha384:pxYsrDUkSmq1Pbqv7n6Vpo20rHPCFI0d6oxekwvxPfDkmFSjYk8hLkkLHRbDgQ4M"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -169,14 +169,14 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:L9RNPheXzEj5RINUV5nRjmVJnWE22JAf7Nb_j-ISVXjEbo_IOVSTm9xthvgAQVql"
-href = "urn:sha384:HtHVixUPOKyPTkI4adH-5o5EOXDlddHLZUeCPYZL0MnHVneQS-5eQESxDU1UvLq6"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[interactions]]
 answer = 1
-prompt = [ 0, 2,]
+prompt = [ 0, 2, 3,]
 type = "choice"
 
 +++
