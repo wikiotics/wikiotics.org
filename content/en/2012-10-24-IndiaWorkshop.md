@@ -39,10 +39,6 @@ Here is a list of lessons built for and during the workshop:
 
 ## Example lessons
 
-<div class="ductus-macro" data-macro-name="pagelist" data-tags="ESLWorkshop" contenteditable="false">
-
-</div>
-
 ### Picture choice lessons
 
 1.  [Introduction - short](https://wikiotics.org/en/Introduction)
