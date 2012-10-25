@@ -69,11 +69,18 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "The woman is sitting"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rr07c8wqtYz2OgnJEjn_ZMB9FbnCpkZAJRWhrMs7NHNnaiGWG74EjSXp4X-cVv4-"
+href = "urn:sha384:WKpwZ4q96QvYL2_HKYShbMBhKhyHiFl_FMoJP1476297mTYWHADIFvSCkcV6sCS3"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "14.140.106.14"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
