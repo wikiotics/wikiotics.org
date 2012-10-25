@@ -53,17 +53,17 @@ text = "This is a woman."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:a8atJemw-XNfc5INYgm54g9Hvj_-6ei0ucNs5afZt-QmAJ6Fwzoq_x-ZLapRogRK"
-href = "urn:sha384:ZKg7-mQGnrIpPpCQQAYcsfrC_2DncjjCXUcXoxitr3TRdbMxXZcecWS61WDL36OP"
+blob_href = "urn:sha384:s0TXIsRWEn_Zjavjr5Km2i4_GDJR7naShbiTQXYEqbKMUYKMKhjGy6fhIK7HzbyF"
+href = "urn:sha384:U2VhXQ5QGW2gZgDJzfg-7HVjL7sOnZ9AcIV1peOeo1Qwunv4pdzUvxMLv6sAB0_0"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Harsha K R (mynameisharsha)"
-author_url = "http://www.flickr.com/people/27526538@N07/"
+author = "Hector Garcia (Hector Garcia)"
+author_url = "http://www.flickr.com/people/61286533@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/27526538@N07/5161018262"
-title = "Chota Singh's First Birthday"
+original_url = "http://www.flickr.com/photos/61286533@N00/445963650"
+title = "Indian woman"
 [[cards.sides]]
 type = "empty"
 
