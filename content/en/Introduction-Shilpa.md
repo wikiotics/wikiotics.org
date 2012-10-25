@@ -63,8 +63,8 @@ type = "picture"
 author = "14.140.106.14"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:HmkztsQ7K5Z4a7bPU0aMtCcfjHD5WdTY5YJ1TElefRVR6aYvd22VpwDaYZ3ww8KX"
-href = "urn:sha384:9pbhQcIC6W3ZRhEEoPXIiJlG97Q4T6GiRU3z1la73ydCqdd9ioE3i3EkyD6kbjQ4"
+blob_href = "urn:sha384:LluXwUXI5Lhde9kw4nYkKl-VkSh7Ow2Fo8-kDFj-6HDu9CtHuMd27LJCY0STEcdT"
+href = "urn:sha384:V-oyIJYGAmIU1Udd-jK_ODwuHmeXx1xEKUQedkB7dgwkzK9yDQMYA40t78kNkxDz"
 mime_type = "audio/ogg"
 type = "audio"
 
