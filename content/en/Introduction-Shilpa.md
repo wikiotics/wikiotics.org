@@ -146,7 +146,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/61286533@N00/445963650"
 title = "Indian woman"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:a1HNuM_TCQzceuFGw5x7Y6jsoBS1i9uv9T3OX_waZIf5QKxaSueLUTiE_dAMLkto"
+href = "urn:sha384:ezSbEvM2VO4j589Iar0VU1FM3L5WwvCOIL8Uj7KjYnMFg4dDPwedBJ7c6rFv_hSL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
