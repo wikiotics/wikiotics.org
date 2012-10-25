@@ -27,13 +27,23 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "This is a red car"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VQ6nOMukEGErzd4vmEi1pbf4j_ISt5M283RLZXo9nrcYSwq1KTcaP0UdXJpQ-J-A"
+href = "urn:sha384:fNZA0x_Y1UFs9400yx2LaEwQD99cF0u4nK10E5imlqdHaj9_7FWa8gUIC6mS-lH1"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "14.140.106.14"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1NocTwIYjNPDLCqeTvadAeE3xfUJ97MZ5rThRkZhjTI3m7xlEogLuirMUTeOaN6m"
+href = "urn:sha384:DhmWZb7TZMrtzadkBRB6rDYoqt86iWInaYOwj7gzd7kLLL8cYhoxqMqK2eC-w1Nr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
