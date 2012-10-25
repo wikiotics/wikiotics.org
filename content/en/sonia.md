@@ -40,7 +40,10 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lr2EfoZ2ZuGMOIIHpMwbve-Udd2SSXVHYWbbzkKxnAekK8TlSS_wRTy4CH3wEH4H"
+href = "urn:sha384:eUZq6Hcqeyo3UptvqZKbcPFKoZA7ALdkWOBeF2bsmoJ4R6t56_RtRMvYJXU4pLx3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -72,10 +75,7 @@ type = "empty"
 type = "empty"
 
 [[cards.sides]]
-blob_href = "urn:sha384:lr2EfoZ2ZuGMOIIHpMwbve-Udd2SSXVHYWbbzkKxnAekK8TlSS_wRTy4CH3wEH4H"
-href = "urn:sha384:eUZq6Hcqeyo3UptvqZKbcPFKoZA7ALdkWOBeF2bsmoJ4R6t56_RtRMvYJXU4pLx3"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[interactions]]
 answer = 1
