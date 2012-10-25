@@ -1,7 +1,7 @@
 +++
 title = "jasleen"
-contributors = [ "14.140.106.2",]
-dividers = [ 4, 8,]
+contributors = [ "14.140.106.2", "ian",]
+dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio", "Audio2",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
@@ -59,20 +59,6 @@ blob_href = "urn:sha384:lhDDv05CcD6FYWA6g2u4VeQXttHj9ivNwHa7WnTGl8BTCwUZR7S0AM2n
 href = "urn:sha384:lqoZ9vIy25xQHd-CFUWZl0vz9f2Ahuz75YqZt_UqYG4BWSWAyiOhZQMTUX282YhS"
 mime_type = "audio/ogg"
 type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards]]
 
