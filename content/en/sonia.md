@@ -7,13 +7,13 @@ target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "car"
+text = "This is a red cycle."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:zULxiRUfxn9OM5ji3yK-xxF-kxbYOF1mFhNqsjvBtfqIAQoqsHLcaNSQ4PGpAfaq"
-href = "urn:sha384:vt0sGV-6TDR0WSJ74J98unWvG4H48KHPm8r1282clmHoNod_uQ5sFDFzmOz6zqQ-"
-mime_type = "image/jpeg"
+blob_href = "urn:sha384:rZ6HZx55DsClZujQRcdITZYaJDMYiaicNgDmmqk6Yi-2d6y9JLUl5lcvJ8RMFlYj"
+href = "urn:sha384:7b2PAAAMKjt5WBY3gIjS0VoGGQtzIKvbHkxSQnlnMurZCbO9ZHVwoG2qBq4XDjGn"
+mime_type = "image/png"
 type = "picture"
 
 [cards.sides.credit]
