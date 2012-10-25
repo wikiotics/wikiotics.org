@@ -415,38 +415,65 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "They are standing"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jIWS_A7a5C1sLeevMSJ60CZNWQ4btqJYWoS3y6S6aJzNIQCGzQpz5nszVbqfWse3"
+href = "urn:sha384:yqoMEbKu2QhbunyngA9muEOiV28Y2MYvEMEOsdsNdsOrpG_ZOg2C5c55QhH1Jvf8"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WBxnnetlRerMDOS3PIK70ZxHo629cbqjONx6BGRDeKkr3TRJPAEA7PozdraT8hjn"
+href = "urn:sha384:L_fmqQcEZOt-FpTCbOI1xk_-p0tOaYkiksC5EmDcykz56_QTdnx0LzFIbP7MuTXu"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "He is a boy."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7jsOa41kUJit9u9LMbpsJAVHJqNHtWYJIuXWfVBsZ0ot5_IZ1Yi-z1jD2eAsg64a"
+href = "urn:sha384:3IemNEOBfUxMqUJKQtXRMk2ZFm0FmjbBnF-Lzu-NJx7uNeYVxNoK0AwRaCg3b0t2"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fkbvnBB7fK5FTsyK1NpWXektbWBIyQjNEbZzPVUVyFehsZhqwK5fA806p8krYuqj"
+href = "urn:sha384:BPQAOuifclCiS3nKrdTv-3IZhnso6VYh9IChTItYS0YYgpawMjaOIC4G1IyWOKpE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "It is a motorcycle."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Y3mdFZx8BKs4Uui17_yOk58H5IbD7VwUcwamSsYjl4YCzNJfmz_fy85c2sAwAoxY"
+href = "urn:sha384:Xr0idDQ3MpPeuhvTtMmlJnaW3Ut8Zgi27ZL8tTKMVe7S-wKWq2F8F4VlsyufANfC"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "14.140.106.2"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:aw6RlWpw9XW9OrJbudosGfypa5jiZDUA3yjs5B11_taDCIcoi48mrcmChU57ZRie"
+href = "urn:sha384:Kz-N9xyVLEeOSzS1McUpOxp473l5SAi6Ukmd7KTiWEY69IfUn-zHGh87VM3ORsMG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
