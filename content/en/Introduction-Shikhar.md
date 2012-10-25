@@ -46,7 +46,10 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vWyOAhFqruDgOyoEwsawTmva0kFC5cRyTBXAPw5DVyOJknbNHo-qNnbPCmGjlTle"
+href = "urn:sha384:lKXDzaTHo2_834iPAOXtfhaFd5M6Fv5B3HYIgIQZNWSlnXOD0YLAjh0DQZ6L9HOv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -82,12 +85,15 @@ type = "picture"
 author = "14.140.106.2"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1JR9F5k-8sxqy3D-5WSPOYKaaI0MO2eNrtdwfnH9BjSgZWjmVXddVPkXQg6-_jYS"
+href = "urn:sha384:gpokCxLWD6ApXAPJysMbXq-IJO-9V7SMojHuQ9fbgB-Ne6nyJLzOt-SUpZN570BU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Man"
+text = "He is a Man."
 type = "phrase"
 
 [[cards.sides]]
@@ -103,7 +109,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/58419684@N00/4985906682"
 title = "Kuldip Nayar"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:SUwpeqkwBsDRF5dngNrKtXvkDlnPtUp7dkWlNu3nPszaCRWxu5XjSMyak9gLZESx"
+href = "urn:sha384:vQzU2ipbXGCxgC0SO-gem9kK_rr9x5m3OpV9sHLZGXqRbMttn3M-Buj-jPQSj0WY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
