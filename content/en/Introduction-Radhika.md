@@ -33,16 +33,14 @@ text = "This is a boy."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:FLjnOaMKwg7aEFv-EVUHfz3n8DBmdAaaUm4ajJCbfbzt8BT2wvZskcjIxQmX6lLJ"
-href = "urn:sha384:w0fcgFENZxLLn7cfoBCJdGVsu_ypFcX_aJeWOSK7k9ZhT6lhEmr3rk2Jmh7nA3HR"
+blob_href = "urn:sha384:9EOk540iPM0u0SleVGTgRnkH1HajTvwsHXALVIIOGVxUsS3EXMVGGwYx3-zQvhDc"
+href = "urn:sha384:XNI2VKtioWgvKOHl0Dfd0e8qHHPnmC04_RAjxC-KgODGWml-xjNNyssCRinMi0mu"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Anne-Mette Jensen (annimetti)"
-author_url = "http://www.flickr.com/people/98816109@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/98816109@N00/6759552847"
+author = "14.140.106.14"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -53,17 +51,14 @@ text = "This is a woman."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:s0TXIsRWEn_Zjavjr5Km2i4_GDJR7naShbiTQXYEqbKMUYKMKhjGy6fhIK7HzbyF"
-href = "urn:sha384:U2VhXQ5QGW2gZgDJzfg-7HVjL7sOnZ9AcIV1peOeo1Qwunv4pdzUvxMLv6sAB0_0"
+blob_href = "urn:sha384:98911azppSs0-trUOTNlCHDkJOtjddOj3zQBR8LDpZKBdcNkHHws6BzdA6wlE8kR"
+href = "urn:sha384:Fx8_tPlhoMGpK60v8ybqgZ2XaN6Cg5UhDqs7QPInTXCZvOoCxNqMtFUkMndOBFrE"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Hector Garcia (Hector Garcia)"
-author_url = "http://www.flickr.com/people/61286533@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/61286533@N00/445963650"
-title = "Indian woman"
+author = "14.140.106.14"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -217,17 +212,14 @@ text = "The woman is standing."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:jrh7JngigsAjcXgGIOtbfIFFR3kDEc7_DX_5qSWbYY5oN7a8YC7mQkodqmxkBJbt"
-href = "urn:sha384:g7fQ2XzM0IF-I7Coa-pZPQow1WTrCMuLzETOrcrY5_StHEOtR8gAkDWLvA1t0HJL"
+blob_href = "urn:sha384:fshWKfeuB_DR7clA2bYSzfZDL8RU_Aoh7XaPkx7E7DxyD15iQxhxmpqFrCKEp3i3"
+href = "urn:sha384:FGr1Zvm-inQUSH00_tcbBZpd7JRMxadgLLRt0VL_23lSsU_sxyehjY4R-NbKFelX"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Neal Sanche (thorinside)"
-author_url = "http://www.flickr.com/people/35237096343@N01/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/35237096343@N01/410874840"
-title = "Woman in Blue"
+author = "14.140.106.14"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
