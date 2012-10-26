@@ -76,10 +76,14 @@ text = "Ok,which color pen?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9yBQrhb1xFXOrUv6ZaTgskPgFE3Sq09UrM3r8kKPcXRG448nzTjJjouP4aSgVwHl"
+href = "urn:sha384:w50wIjaRjTYjvaU6zch2Eo12iQFOMQs-0pwh7y1mPWD3zWdpcZyPG-ICa6iUbZAP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Shopkeeper to customer"
+type = "phrase"
 
 [[cards]]
 
@@ -88,7 +92,10 @@ text = "A Blue color pen"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gq2N1NNTBIdGZMplz8IglDJAwHsnyXJxvYhy-xzg2Cx-T6uXp1lNk-4QRUFKQvsr"
+href = "urn:sha384:nNVo89MaiWg4TPsar_vle-_ySsBwtcouvmCMXKxlqVJI4FYaWt730IF8RO8I5aXg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -132,7 +139,8 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Customer to shopkeeper."
+type = "phrase"
 
 [[cards]]
 
@@ -147,7 +155,8 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = "Shopkeeper to customer"
+type = "phrase"
 
 [[interactions]]
 audio = 1
