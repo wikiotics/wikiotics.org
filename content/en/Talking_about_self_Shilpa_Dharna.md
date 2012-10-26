@@ -69,6 +69,22 @@ type = "audio"
 text = "Dharna to Shilpa"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Its Nice to meet you Dharna"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Zcc_N6t-PvkxhRtQkelITPQTHfqxRGirz9js9iyNvfcNaJYB6H4mMDeK4LG3VCvi"
+href = "urn:sha384:1Vs6o8F5XeiTwETum4Um4W9oZveBYuOBb5JZny_GXc2ijRq3_Pry4o0uhrcShf0H"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Shilpa to Dharna"
+type = "phrase"
+
 [[interactions]]
 audio = 1
 transcript = 0
