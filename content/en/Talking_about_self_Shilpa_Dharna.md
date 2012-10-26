@@ -37,6 +37,22 @@ type = "audio"
 text = "Dharna to Shilpa"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "This is Shilpa,Trainer from Meerut"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Q36evFK6VUgjAvI_5OWHUYXNEeSe5l6S3URcKwxjxfu3kB73NFOArBzNBMjUxvFB"
+href = "urn:sha384:iH6W51YNgHrhwmv-XfLNccAH83erIN2eCi3H815_QdUILNPVEUCvAGShw1kRV6sK"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Shilpa to Dharna"
+type = "phrase"
+
 [[interactions]]
 audio = 1
 transcript = 0
