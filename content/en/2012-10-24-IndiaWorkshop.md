@@ -54,12 +54,13 @@ Here is a list of lessons built for and during the workshop:
 
 ### Podcasts
 
-1.  [Saying hello - simple](https://wikiotics.org/en/Meetup_Greetings)
-2.  [Saying hello -
+1.  [Asking for directions](/en/Asking_for_directions)
+2.  [Saying hello - simple](https://wikiotics.org/en/Meetup_Greetings)
+3.  [Saying hello -
     longer](https://wikiotics.org/en/Meet-Up_Lesson_One%3A_Hi._How_are_you%3F)
-3.  [Introductions -
-    simple](https://wikiotics.org/en/Meetup_Introductions_generic)
 4.  [Introductions -
+    simple](https://wikiotics.org/en/Meetup_Introductions_generic)
+5.  [Introductions -
     longer](https://wikiotics.org/en/Meet-Up_Lesson_Two%3A_Introductions)
 
 ### Adjective unit
