@@ -168,7 +168,20 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "what does your father do?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
 text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "तुम्हारे पिता  क्या करता है?"
 type = "phrase"
 
 [[cards.sides]]
