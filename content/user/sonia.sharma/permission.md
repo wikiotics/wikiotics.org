@@ -8,12 +8,12 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "May I have your attention please? See, it was so simple to ask for a permission. Welcome fellow students to the session where we would be learning something about \"Asking for permissions\"."
+text = "May I have your attention please? "
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:uaFLPHT4N3J4oL7jBe6aQ5U2ZAldN8k3UyHveTWXB7ka8LYljaQmYdBwZFJc3jOh"
-href = "urn:sha384:JTeyBKnL_eKKNyjShWo2BLy2iiuLdG0m1tx7GIpZyEWckQueUOyHbjT_F37PIEX-"
+blob_href = "urn:sha384:aSBM-Iqa-_6wO797rGTlTp2y_NPLO1JJfMNLtqWVt0exQMEeogGxUjomYXv-MOBr"
+href = "urn:sha384:uyTQ3PrlYJM0n2oDO6sUb-K3xAcs43dn60jtG4MdsPk1qdVQvHmxkNPlBt3ewrzl"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -23,6 +23,26 @@ type = "phrase"
 
 [[cards.sides]]
 text = "En"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "See it was so simple to ask for a permission. Welcome everyone to the new session where we will learn \"How to ask for permission\""
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:oc3o-VWXKerX3mIPDCVT3RKC08HY45boC6GmMdR5BfTj16ygYiAVfh5F6vLuXGEG"
+href = "urn:sha384:dMZY6kp__48IxX9P6jafNCJ_vVCyRAYSxnVZjNVcH5mqrsKkCAUOBPCI-fRrW0bF"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Aditi to students"
+type = "phrase"
+
+[[cards.sides]]
+text = "Hindi"
 type = "phrase"
 
 [[cards]]
