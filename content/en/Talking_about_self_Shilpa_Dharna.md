@@ -1,7 +1,7 @@
 +++
 title = "Talking about self Shilpa Dharna"
 contributors = [ "dharna.gautam",]
-headings = [ "Phrase", "Audio", "Speaker", "Translate", "",]
+headings = [ "Phrase", "Audio", "Speaker", "Translate", "Audio in Hindi",]
 type = "lesson"
 target-languages = [ "hi",]
 source-languages = [ "hi",]
@@ -48,10 +48,14 @@ text = "Dharna to Shilpa"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "नमस्ते सुप्रभात"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8dk8QGctlrF7aJvitVRHaLkIowia9fQEI22xZ6PGBNxgCLl_QDyUqa_BMSRECV5X"
+href = "urn:sha384:fOZjrNMYmLb5pbcRNG8SQFPS9teRfpB3zEwo2jyCnWBEqkZ-lwqCpG-oBMCG4z7B"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
