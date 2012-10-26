@@ -68,7 +68,7 @@ type = "phrase"
 
 [[interactions]]
 answer = 1
-prompt = [ 0, 2, 3,]
+prompt = [ 0, 3, 2,]
 type = "choice"
 
 +++
