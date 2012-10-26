@@ -8,6 +8,22 @@ source-languages = [ "hi",]
 [[cards]]
 
 [[cards.sides]]
+text = "This is a conversation ."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:5yCiIFZb1WKS_uRAS7rmT5ox03TXMUFeUZyzUL3quWunX3wLo4HTPe_Svi71q8kn"
+href = "urn:sha384:4oBR4xO7SSPbvPaye1Uu7oZypl0NqBxYJAAacOIgtH7de2tcfWhTgZCs9rW-ScLZ"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Hello sir"
 type = "phrase"
 
@@ -96,17 +112,6 @@ blob_href = "urn:sha384:gq2N1NNTBIdGZMplz8IglDJAwHsnyXJxvYhy-xzg2Cx-T6uXp1lNk-4Q
 href = "urn:sha384:nNVo89MaiWg4TPsar_vle-_ySsBwtcouvmCMXKxlqVJI4FYaWt730IF8RO8I5aXg"
 mime_type = "audio/ogg"
 type = "audio"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards.sides]]
 type = "empty"
