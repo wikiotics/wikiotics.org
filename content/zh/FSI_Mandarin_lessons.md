@@ -1,6 +1,7 @@
 +++
 title = "Mandarin"
 languageCode = "en"
+target-languages = [ "zh",]
 +++
 
 List of Mandarin Chinese lessons imported from the FSI materials
