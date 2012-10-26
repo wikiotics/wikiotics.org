@@ -119,7 +119,10 @@ text = "ਹੋਰ ਵਿਅਕਤੀ ਨੂੰ ਆਪਣਾ ਨਾਮ ਦੱਸ�
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HefIjETlQbxw0mrkDBNKkPExqOPkvf_guEAz-fQlNZs5AXMT_1cirPxZf3LNjpQh"
+href = "urn:sha384:Yhxsuz5VZRg6UcSgwswQPJ6b2HgITK-DzWEimd6eIEZf5RnYpe23qwtWvBlc7zQI"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "teacher-punjabi"
