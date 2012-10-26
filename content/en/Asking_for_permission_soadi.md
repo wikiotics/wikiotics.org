@@ -24,14 +24,70 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "To ask for permission , we can use two simple words i.e. \"May\" and \"Can\". For example, Can I borrow your pen please? and \"May I borrow your pen please?\""
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Nc8eo9irPZ3JS705CJnAckAEyoJQ8FJxwywgm_ktGYgJd8bPjh5pg_p6Q5L5L7Ow"
+href = "urn:sha384:kJcgFHRH83OQfwWdB-2YGUZiJaC6dLK8vKTQRmpcWGhUHZrD55gDqDrDKsplK8Ce"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Sonia to students"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Now let us listen to some conversation between Aditi and Sonia to understand the use of \"Can\" and \"May\" better."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Can I speak to you Sonia? Sure, You can"
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "May I borrow your laptop please? Sure, you may."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Can I use your book for sometime? Sure, you can I am using it right now so you can take it after some time."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[interactions]]
 audio = 1
