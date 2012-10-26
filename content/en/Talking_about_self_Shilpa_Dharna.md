@@ -85,6 +85,22 @@ type = "audio"
 text = "Shilpa to Dharna"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Same here"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:-hn3cetNQDKor2J2pgiU25sYxlVbMPhztQ9C4yWcKOGpARVePqE9As_Ikqkv8UDz"
+href = "urn:sha384:rrqBDQCzd9VEAzceS5IaHFnwc_JROMJlNSIf9FNGclq64ekdLNkfk6fcLaRkWab3"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Dharna to Shilpa"
+type = "phrase"
+
 [[interactions]]
 audio = 1
 transcript = 0
