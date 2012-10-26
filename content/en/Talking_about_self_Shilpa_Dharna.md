@@ -74,10 +74,14 @@ text = "Shilpa to Dharna"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "मै शिल्पा, मेरठ से ट्रेनर"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HpxhlVyXtV-HK42PJgnqv6Shstwf6fUUZOWDj1BT7ehlSzKGlI9YgiRUxYcORpg0"
+href = "urn:sha384:fqH3ldR56MXZlMcgwghlXGrwevUuG82TG7NGqnsofKlMu799YppvRKB2hYzt5Ty1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
