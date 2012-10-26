@@ -21,6 +21,22 @@ type = "audio"
 text = "Shilpa to Dharna"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Hello good morning"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:2Ehi-yDVQ-C9gWNu8wMDIEvQQLn8KVtlLbtH0K_OV5hIhgzI8XVheFKS3qcIHnXs"
+href = "urn:sha384:lxPmbxGO4oCBUIeWVI0FvE8p5H0TRFBhMMnXpYyO07lawdl7U7zrBjWpniA1675W"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "Dharna to Shilpa"
+type = "phrase"
+
 [[interactions]]
 audio = 1
 transcript = 0
