@@ -104,7 +104,10 @@ text = "मै धारणा सोनीपत से ट्रेनर "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uVcFcMOHT_pVCtiGfr4_DTf2Eu4a2SJm2UZ1Hs5vjJ97wKzw-q1AWLgdkDuMDPeE"
+href = "urn:sha384:2Cfp7RuwJwmv-dilM7xcdoJXa_GvBpm-BGjTjL0L-RSFQOsyfyS0P7Ok1Kr9QxsH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
