@@ -76,6 +76,22 @@ text = "we use what to ask questions about things like what is your name?"
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:UO4wtUHJjvsquao6XLAmMr1y8LST94pk9-iBxNp5I40zfzV1QU1M787dgoMhZaHW"
+href = "urn:sha384:Ovzt2nADjzGAyTeB6q8chMnLhmifhM-W99wx1oVIYIhrMK4gCUVGAIbRQwpACs0o"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "क्या चीजों के बारे में सवाल पूछने के लिए"
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
