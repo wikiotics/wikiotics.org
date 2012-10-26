@@ -108,7 +108,10 @@ text = "   what is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IGLsM9CfeIvfpYo9UgxkGODuGbu2b4rONjUqx3-TF9hft8KnRT0Q0-cpwIwxEUi_"
+href = "urn:sha384:-AKre6fIovwSH0XaUwRmfuiNzqPAMxuJdPBekWAeHt683YtTk-CwnJN6n0OmUIgW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
