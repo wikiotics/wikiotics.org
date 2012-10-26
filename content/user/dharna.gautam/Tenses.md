@@ -27,7 +27,10 @@ text = "आज हम काल सीखेंगे। काल 3 पृक�
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:l0HudQQ0fAIFUhbTis2BQegvvwM4ZuIfHtzevoTa4nxyoKNjU5Rnvy_S9trGWnGK"
+href = "urn:sha384:Ap40r4lDmaYG23rEH8-qGIjnz2cQQxqXUWp0BCvm2WhbwIO7LTBRZH6Kjgd_X2fk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
