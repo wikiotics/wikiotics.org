@@ -100,7 +100,8 @@ text = "Dharna to Shilpa"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "मै धारणा सोनीपत से ट्रेनर "
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
