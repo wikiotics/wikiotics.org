@@ -1,6 +1,7 @@
 +++
 title = "FSI German lessons"
 languageCode = "de"
+target-languages = [ "de",]
 +++
 
 Below is a list of editable FSI lessons in German. They were imported
