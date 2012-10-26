@@ -92,6 +92,35 @@ text = "क्या चीजों के बारे में सवाल 
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:4SMZ15EQInsFldTlAtvEhA98JQygXz7oXjuhGK90vKh49XYzItXhL5ZjVZcLmo7k"
+href = "urn:sha384:zKjMFf2oPPNzGLR5vb7cG-yUSadnJ2unF_3V9D4VVY5HTeJxvoUOwYHm54blnmBO"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "   what is this?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "यह क्या है?"
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
