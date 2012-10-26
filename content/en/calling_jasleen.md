@@ -18,7 +18,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "customer executive"
+text = "teacher-english"
 type = "phrase"
 
 [[cards.sides]]
@@ -40,7 +40,49 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
+text = "teacher-punjabi"
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "my name is _____________"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:QtuvFSzqNRcH-OpDiFXWGnbzAKW9dOZgwIZwiJv0XKKRGDERKP3yOnzXBNBLFYio"
+href = "urn:sha384:gsqYSBgNxTXLzP3CNaqo8qx5nmmamO0t_xsCsnbc6Z0LBXdZhmhcebU3NttZzFIK"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "teacher-english"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
