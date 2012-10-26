@@ -4,7 +4,7 @@ contributors = [ "14.140.106.2",]
 headings = [ "Phrase", "Audio", "Speaker", "Side 4",]
 type = "lesson"
 target-languages = [ "en",]
-source-languages = [ "en",]
+source-languages = [ "hi",]
 [[cards]]
 
 [[cards.sides]]
@@ -12,8 +12,8 @@ text = "May I have your attention please? See, it was so simple to ask for a per
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:uaFLPHT4N3J4oL7jBe6aQ5U2ZAldN8k3UyHveTWXB7ka8LYljaQmYdBwZFJc3jOh"
-href = "urn:sha384:JTeyBKnL_eKKNyjShWo2BLy2iiuLdG0m1tx7GIpZyEWckQueUOyHbjT_F37PIEX-"
+blob_href = "urn:sha384:zA9ua_cXGtE6YZvKCK4QwSSy184naIiyx2RFfIh1ab8kcn_2LUDBacKbOhfqylP3"
+href = "urn:sha384:gciLzj91pESOZba-seSENsmEUgWq66yqvyc1Nzo8KoGOVF-fFHTzNc0U6740jkA0"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -31,8 +31,8 @@ text = "To ask for permission , we can use two simple words i.e. \"May\" and \"C
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Nc8eo9irPZ3JS705CJnAckAEyoJQ8FJxwywgm_ktGYgJd8bPjh5pg_p6Q5L5L7Ow"
-href = "urn:sha384:kJcgFHRH83OQfwWdB-2YGUZiJaC6dLK8vKTQRmpcWGhUHZrD55gDqDrDKsplK8Ce"
+blob_href = "urn:sha384:ajs7_yjOOiTztCV9bri9ABghUuRehLOrQD3W3VfzQT4g-gTABM9g_L52mV756NK5"
+href = "urn:sha384:3VC5zp-Lb3WXMZur138RTFGi2nwJzSbzVkfCxw8Y6VSTSe39-zxPO05lKQNhmA8u"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -50,8 +50,8 @@ text = "Now let us listen to some conversation between Aditi and Sonia to unders
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:XRIYYtd2bBFpBViK71YkT87HrFH-lbi0GBUFSNRqtXbvZi96ZPACaEBnVgJlks4Q"
-href = "urn:sha384:yV8Apl6AbEhERUU2daNkLZ552oUYNf4EyxlIKMVRMZ4NfAtB2AAmBsmkhMOWnDnB"
+blob_href = "urn:sha384:J0XKg1ldsmDGTdn9nzhIYtVKwUEokwoxpFT-QXiqo92eRPkFV8uzZx1HkHOVW1Os"
+href = "urn:sha384:wu1UZV3UwHgaC-jyRchh43OMo3FwUSnE0VyHxK8BC0UGfrQoI34gIrNMmAEUL0r_"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -69,8 +69,8 @@ text = "Can I speak to you Sonia? Sure, You can"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:mhMhtdNUP0woJ7zXLvDWMJ1_Me8jZocNxAMvMni0vnGYdST535VmSk7yOqcnxljw"
-href = "urn:sha384:8uTG6MCvmTnZBBp8CgOT5IBKz-3QYx9isCG3Uew3hPeYCz5J5XMXLJOLD8gse-iI"
+blob_href = "urn:sha384:VHA0fOZb2Flk9tLVqM90bSejvlC2JMxEsl1vs_Q41rVgCUqDG_LpkDhEQdUvfj-G"
+href = "urn:sha384:LcaONroapF2xXDRPcKwR_tId6letZVfWZlbGnEa-P7WM2ZM-x76YxLaYuhQWj1ry"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -88,8 +88,8 @@ text = "May I borrow your laptop please? Sure, you may."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:PaSy4nP89J8YtR5gaiHxXjeeuHDyaPBPsbW30BnwoX3L8xaVkVwonrT4oB3x1tcQ"
-href = "urn:sha384:bGvxB69Av_JNgIBhPVR_J_SJDLf1IDcWNnieZVIlGOWIAtQt5lOzN44kp-4PcE3H"
+blob_href = "urn:sha384:YT5Bz7ULPRECsSwBQ_5EIaFA6TULaIAEmKXISUbQOyWnNduP9CT1xyKsl_nk0d3H"
+href = "urn:sha384:8pRFHKcgZ9MX7sDaNb_RtxsEEdOm8urj50cTEyL65SoLcCIAs_MeuB9y_VzGaQKi"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -107,8 +107,8 @@ text = "Can I use your book for sometime? Sure, you can I am using it right now 
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:gW2R2amQJLnMWQYBZVuzB3Qr08vY2JJftviYtpQpD0MurNoGzOQe-kU3Qkg93zX1"
-href = "urn:sha384:1bnViUsGW2bUqNqlnRdb50X3Zjrx8QEtSrpwuuGkManBnVJIh1WM58CzFmhgEeBW"
+blob_href = "urn:sha384:VaIznCNK2Ila0_fes5pyqBiHyaBaNi8SE0vc-WLhDDqJ_2Lz-4a29RM0eo45K0Zs"
+href = "urn:sha384:6BJBAGdcGZQLmrdI6lt--u5J1ei4cNEBGg2xPp9F5vVv_5EP25inSgCbcMOZXMs4"
 mime_type = "audio/ogg"
 type = "audio"
 
