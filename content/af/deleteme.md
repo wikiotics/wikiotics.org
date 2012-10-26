@@ -24,16 +24,19 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Eng text2"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "picture2"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "audio2"
+type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "native text2"
 type = "phrase"
 
 [[cards]]
@@ -70,5 +73,8 @@ type = "phrase"
 answer = 1
 prompt = [ 0, 3, 2,]
 type = "choice"
+
+[[interactions]]
+type = "storybook"
 
 +++
