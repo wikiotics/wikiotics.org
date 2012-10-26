@@ -44,7 +44,10 @@ text = "use of what"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UunszSMDiQkLJ3p9iH4w-wZe7pYMPC33hYw78XhC3W1lxkxMOrthwI4csdltRP7u"
+href = "urn:sha384:FFqXqI8yJsnFdJSY3v1A0WfEW7vPp1DhHlE7AtOT0gIky5a4Fnsp_w5M2hNoIGS2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -54,6 +57,22 @@ type = "phrase"
 
 [[cards.sides]]
 text = "क्या का उपयोग "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:IBvdtfHc6no_OglERiJ9g5O_Fpqnx_SQoIKfdmVyTMA2m0AoYr5NCD3y-XAzqPrQ"
+href = "urn:sha384:c-Up4ixTCE7QUrsN-aq_pd4akhmajdOrvTWrENHmAeKNYc-sOS4lIv5aOy44HVUC"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "we use what to ask questions about things like what is your name?"
 type = "phrase"
 
 [[cards.sides]]
