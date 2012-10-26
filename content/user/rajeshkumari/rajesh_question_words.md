@@ -172,7 +172,10 @@ text = "what does your father do?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:OaAAKTG6M6UntvcOdxRsCfA_uONZIUUljnvP2PWprTNzm_ujc2HuUpJRlrm1aXRV"
+href = "urn:sha384:t8h70tWCfhU5Acfzaeck-W5pXDLn9fk42tiRIiazffez7fz_X8yI7ldDt4M3XbaP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -185,7 +188,10 @@ text = "तुम्हारे पिता  क्या करता है?
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UnGED3UNu3ohRNTyi55LOcDMjApa1vBd18o_mtSmGZcWvQscp5-onkMA9mvRyelk"
+href = "urn:sha384:hBvpykjvzARvm0cE3dgP5yp49taKqcncmkP0SOaPEa4Lv1mMk0hXJHQnyF5lgy8m"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
