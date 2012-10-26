@@ -68,7 +68,64 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "I want to buy"
+text = "Pen"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Al_MUwnoLCv-etBDm_UlJ-XmWLv8ghmxtKib1RpvpZ-habE5KCR4mjphdtz79IFb"
+href = "urn:sha384:pAz7oZs5OQIyZCwqFIlSD35JZ1qaJkIUqrVCp2coBwsw4iY0yqw-04SEwAmowx73"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "a"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:77vB-BouBPmeo4kPQ5KzAd-9efp4SIGUqnpCFmnKOnANwVD0o0VJhv9dG32yXxWR"
+href = "urn:sha384:ILEC3W1rlVAuZN_zfCVWBQVo81jYpICs8j9M20ekj34buHHN9iXGWJHg1xje8V-q"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I want to buy a pen."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:yrrNU2Aj6rrZ4Lzw1nFLf7x5-UtmM7YpMr1KPpvv7ub4iWU-iN-qM_qGSryS6cUc"
+href = "urn:sha384:vGEFdH-r-cmcE8HSdILd9iutiMXAYXxfJmGu16YwC4i0hstbsirOCm_uQcJKDdSd"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards.sides]]
