@@ -34,7 +34,10 @@ text = "ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:tS7jDYyX3z0q6KKaEHeP6GPNhBDfGsbKIoLiHtTIH7_7nju9wb_ngYFlqrk0xC1S"
+href = "urn:sha384:7plkhd-1kz7nKtOacuc9kordMVZtdWs1zNdWlwNhQIqyvYe2uNI8Yia9q3t2DQFe"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
