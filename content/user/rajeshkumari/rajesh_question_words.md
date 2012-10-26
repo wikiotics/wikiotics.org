@@ -2,6 +2,7 @@
 title = "rajesh question words"
 contributors = [ "rajeshkumari",]
 headings = [ "Phrase", "Audio", "Speaker",]
+tags = [ "IndiaWorkshop",]
 type = "lesson"
 target-languages = [ "en",]
 source-languages = [ "hi",]
