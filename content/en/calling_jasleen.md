@@ -78,6 +78,47 @@ text = "ਮੇਰਾ ਨਾਮ ਹੈ"
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:Y6G_u4PzpAAt9O_z3Iu5VnlItSbAdnS_EOQEjBabk4gS9omp7JnFBm1KOfva5_G5"
+href = "urn:sha384:4SQt59fXMcFLohhugV8yA6JF2HIpRk567vWHsfw7jGwJK0b6jQQV_iwqruVADSo8"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "teacher-punjabi"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "to tell your name to other person you have to say my name is ____ and then speak your name.for example if my name is jasleen.I will say my name is jasleen."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "teacher-english"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "ਹੋਰ ਵਿਅਕਤੀ ਨੂੰ ਆਪਣਾ ਨਾਮ ਦੱਸੋ ਤੁਸੀ ਕਹਿੰਦੇ ਹੋ ਕਿ ਮੇਰਾ ਨਾਮ ____ ਹੈ ਅਤੇ ਤਾਂ ਆਪਣੇ name . for ਉਦਾਹਰਣ ਗੱਲ ਜੇਕਰ ਮੇਰਾ ਨਾਮ ਹੈ jasleen . I ਜਸਲੀਨ ਮੇਰੇ ਨਾਮ ਦਾ ਕਹਿਣਾ ਹੈ ."
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
