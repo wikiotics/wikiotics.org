@@ -56,8 +56,8 @@ text = "my name is _____________"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:QtuvFSzqNRcH-OpDiFXWGnbzAKW9dOZgwIZwiJv0XKKRGDERKP3yOnzXBNBLFYio"
-href = "urn:sha384:gsqYSBgNxTXLzP3CNaqo8qx5nmmamO0t_xsCsnbc6Z0LBXdZhmhcebU3NttZzFIK"
+blob_href = "urn:sha384:XKHOeS5aCGLab8TlbzEfjtf8yztPwJ0P-ZOB74cKt_At5RiaeMuAGQuTddPq6-lr"
+href = "urn:sha384:WjlT1y4DXOB6fI5-aS1nt2EBEzSsa49_YTQ9_tLzW_NTVFOjgcsmrCRIoiYs3dS9"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -74,14 +74,14 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "ਮੇਰਾ ਨਾਮ ਹੈ"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "teacher-punjabi"
 type = "phrase"
 
 [[cards.sides]]
