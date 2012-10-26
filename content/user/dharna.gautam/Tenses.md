@@ -42,10 +42,22 @@ text = "Present means what we do today,past means what we did yesterday and futu
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:DiaLSFVDWrv0WjUlq4oDrS5HLa8KbDdsOlBi-eSydcJ2sqd0ANp6WfloXlOvY7lr"
-href = "urn:sha384:kSxudTv0pYAepS58ojhsfU5r1QVG22HVWOTUJjEaVtAJ8LdNDH0xe-iRnpyrisWI"
+blob_href = "urn:sha384:ok9llEu-baiZsZpeLjdKsPcE1uaGPJ_Cmzg3AF3MU0ylxhp2gHYE1BmjhWyJum2r"
+href = "urn:sha384:a7i83gy601pNpi-bFVocErTP-cpB4Wliarsg2q6d85vE53bdzlH3zqFJcFrqZJvn"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards.sides]]
 type = "empty"
@@ -57,8 +69,8 @@ text = "For Example She works is a Present Tense,she worked is a Past Tense, She
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:nqurmS6gd83nZKNlysw19j0nDW0Iyjax1q2s3wBqJAaLwAFtKkqS8RENozvh7KGL"
-href = "urn:sha384:5u5BolauteWZIMvWs9dthEfPpp2p-g7UIEkLkSTP21ukccauhsZzapexMPAnhlj0"
+blob_href = "urn:sha384:Y6JLbEnSwlxW6ASoyod7BMGtVbpTJD0K4uKyqkrl5Uc5eRjxktXb4GaRH_5l1Rvf"
+href = "urn:sha384:PsR3S71yur_Et2KY_IvqsAH0x6osq_lBBe000gLF2ZwViH2VK9JB5cek24EtIKqv"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -68,7 +80,31 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Details of the Examples:present tense is ,used for Daily Activities,Past Tense is used for the activities already done ,future means activities which will be completed next."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards.sides]]
