@@ -124,7 +124,42 @@ text = "यह क्या है?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ng4wShPeOtHVqOrgmWZtZXeTQkwlzZicxKd8_4htsHYSywlWLKDFL8dTFtccyjMZ"
+href = "urn:sha384:Cr7FkmPhNGmWugLDPODuI1N3esKkG1qo7F48rneJvoKXdlHrDpPYpzJPPvsHCtgv"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "what is the time?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:hZRvSZb4HAbfLA-bO6Y_teblHdhHvoAPvWeVdMuJ9MVz0qnjvadqPbfzZbfxTN-4"
+href = "urn:sha384:6BauyhO3Wp_gKPh7s9xvY5XdoxXTm5ClBsd2RnjIEpYhhl2aoDOfM2uJvN_ctozn"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "समय क्या है?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:pzQPlHvR1DhO8ZRG9hXWPfbsHbHolbZbYLOwa4eeFUDogtzGz7OPQp1ePa9p-NRC"
+href = "urn:sha384:1I44CZTIUh4VssNcskM7fscGSvQgeDcn22uBnAlTdKP5ncfjhTh-9hr6qVI1RphN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
