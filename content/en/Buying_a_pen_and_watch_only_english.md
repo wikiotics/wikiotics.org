@@ -696,7 +696,10 @@ text = "Let's buy a shirt"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:PRWH7H6XYmg4UsqweBvxyuaAjM69PwClqZtv6zxk6TgC3Fsa5rKngFOqjWccE3mM"
+href = "urn:sha384:YMOtlyWY1wR4cae8Yu3F0IddAwiu8Ss-1y4ft29x_wel06x9IthB4o6AqgEUlpYr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -709,7 +712,10 @@ text = "Hello sir"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0yUNTgqZM9hWauOn2TZlztkTRmnUAj4CqN36XIbon9OUSlcjHtTk3iTtR0paJLB3"
+href = "urn:sha384:F5JSnYRoUFAxTIRPUcc2PADyOZcs6AvnIR07sqGiHfMaOWFqv8o5UcR-yCEVbJ0U"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Shopkeeper to customer"
@@ -722,7 +728,10 @@ text = "Hello"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jOZIG1VdljV1hys83NAibJIX_n2quW7mwC98jbRwuxkQIEUNCnGfncu9vmwOmwTn"
+href = "urn:sha384:TEp6qFtFul_E3l08-kto1Au6dG0Kf9ecXw0T-o0QYFPhBy_GBaF3VDTEK8leLYZ5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Customer to shopkeeper"
@@ -735,7 +744,10 @@ text = "How may I help you?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:z4XMizBejSK-CBCTVkAYy06MUymog39N-zPKBm7ttN8EXbVqszov2w_PANyZoVSy"
+href = "urn:sha384:zI3a4T7tpPmDjKGZ9sOyoPkD1nkfDw_XC4DxkS28eml27vY48UAX3FN4ryIlg7EF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Shopkeeper to customer"
@@ -748,7 +760,10 @@ text = "I want to buy a shirt."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:v9xe3vpunUOjpO9Uz2lApYBXiUIyl9pYRC0ZKlPekKxGKR9tl4FKKnfcHZckcSFt"
+href = "urn:sha384:acs9vKPy5cMX8N74hKVkNjavLI31XP45GwlQDHMkDT6B-qWEeoJT7rptjjlUI0Ch"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Customer to shopkeeper"
@@ -761,7 +776,10 @@ text = "For who?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:z2HeAoIv5Au-tuazx7R2dvlZsqUoS3JBCyflSo5o7wl3IQCPJGoZs2Mf9TNnvjDc"
+href = "urn:sha384:fnXZ2VmxJ5OwPwqpuYrNca7hqGlOcjZIuPC7D2bpot5dFB25vRncg9MMJQjwuaez"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Shopkeeper to customer"
@@ -774,7 +792,10 @@ text = "For myself."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pS2VYnwDQguclqdFOiw_beksTY-p9ug8K9dpU5klfkrpnNd5EBMJp4PaX4X6dEfh"
+href = "urn:sha384:24EmOX16blEbGi18GRm2nhbVycXKttqwQ8s7hC2BkVsE_m9RyVuV2fQCPRxOqnL8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Customer to shopkeeper"
@@ -787,7 +808,10 @@ text = "For which pourpose?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fE-Yl-u08wsMEOhnEnvVwXwICwiiCH54FqkQVxNVHPFCeFbDrOJrcSrcxE2APona"
+href = "urn:sha384:Xb6pe2OfP340m601Hc9wn1TghwnBqFiFJv5sePuLA3WlzHLc4lIZzg59PafT8M3K"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Shopkeeper to customer"
@@ -800,7 +824,10 @@ text = "For party."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kAI_z1lQWzItoXI4F3V1fu-IrzN4AtsmyFkJvbAS1ojowa4F3xQ2E7d6DNvQcTz7"
+href = "urn:sha384:_M5c1DJnfNN4T3tJKwJixLBrGQmYrXEzB-zz899vMvItplDUc_RYEmKwtY8LIvLf"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Customer to shopkeeper"
@@ -813,7 +840,10 @@ text = "What is your size?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Oifn6TYhU2zuuopt_2aCRpyjtMeB797BKvPQmYshB10MIJAbBw158Iut8z9HpBYB"
+href = "urn:sha384:V1VMeyKLDMcD7fxnQDudXj1EHsFY6YvXCen5uoLC3qg4Gy9uteDHfYv-EjOc0AeH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Shopkeeper to customer"
@@ -826,7 +856,10 @@ text = "It is 40."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:w571-wl7mJ0seu8LjfqbCyGqissTapHbcO1YCFq02lgDrPzLpM_b8aibZXIdLYGV"
+href = "urn:sha384:Bse2ObLWR8oqgkPYzjzTp-LhhEf-WdQwPOGQK9Cr5mF_Rl1UyhVL6BvuWeaZAc1x"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Customer to shopkeeper"
@@ -839,7 +872,10 @@ text = "Have a look at these shirts."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:d56BSRziyQas1w9Y5fRTvNRCDEIKNrQ61gHO5KRqr0_nDRzXICHYZdOY-5l5UAK7"
+href = "urn:sha384:odu_7DubWw4RzE9AwtINYksFhY1dgZdSxJpXBUnDTxG7pBw7QU8a7x5ZV0hBM1Ov"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Shopkeeper to customer"
@@ -852,7 +888,10 @@ text = "I like blue one."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IfbUfHWRQaAnduffChDxDsUgRqJwaIDeAHV584BrHUkS4lTTlwfgPowsN-aRY2Zu"
+href = "urn:sha384:PTCN7QZE9v3P9FWjZ09QtTzt7WVXWps8iiMtfSeRlwqppquOJshmoPWdZvwQYzJY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Customer to shopkeeper"
@@ -865,7 +904,10 @@ text = "Your choice is good."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:2MsX6ZgD7rMwQNih2OWS7UHRrCnbK3k4pDBnHNj8kiYCLgXY0MoFUEiHLlb_Yj_n"
+href = "urn:sha384:on4zraoWwrEHxu-ZDzCSC4_byBXokUual1L3wBHUJx8cJu3IJYIiaMnwRYyPZqd2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Shopkeeper to customer"
@@ -878,7 +920,10 @@ text = "Thanks.What is it's cost?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4ALP5djKYbWgfTxJUzJUOy9ydVuIWAj3ORS4-cIOHaMNedOl6HL1NzylR4LOVSG9"
+href = "urn:sha384:y1o_ACMG7Z2CBldOrq_dhVluKV51OmNd0sQKrb3OrhmcrbMfk42soyz3khCkjquH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Customer to shopkeeper"
@@ -891,7 +936,10 @@ text = "It is of Rs500 only."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EEeOMoHOAa0UQl0I975bCD-l-hCwZ0NZKqh5phgMpeM2BCNuDLfneehiz5o67oi4"
+href = "urn:sha384:StGmXxqKFcjhIzUvQgdaqe0SmQZwdAenpgXItWTADl4p3MtGbusLfT__t2_IjV18"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Shopkeeper to customer"
@@ -904,7 +952,10 @@ text = "I will buy this shirt."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:oiT766E9CmIiuP4dW0LdufoGO16oe1KGLFEXfp261OiaqEvDOUpTN1beREql5nQB"
+href = "urn:sha384:EJJQLmldRUFtlPAmeSEgz-C2Ig-4JcTOntxvRhC-FmV0aexQwaLByG4vChHuVfF8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Customer to shopkeeper"
@@ -917,7 +968,10 @@ text = "Here is your shirt."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jq0R7KkouL1dgmd_z7D1fV5vv2ucUaTXxuWEW6x_LC3UpRV35pF8XaE6OqanJm7D"
+href = "urn:sha384:MGS3SXP2kE9m415_LJqXA1E-rj5oQlq6t0xQ1nM7eCu1lRgUd_ACdbDwIu1F02ni"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Shopkeeper to customer"
@@ -930,7 +984,10 @@ text = "Here is your money"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:NLRxgPdD0Rq-V0SViCKWLfl3ai3iEY1YriHM_64LRJ7rgnMeLmGDqpirmf11Gg4I"
+href = "urn:sha384:f8nGeN7w6qzndFrq3za1GLVzNYW6VyykH9eq4GRYplM-dp5DmUGEMR--cA4OT1lv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Customer to shopkeeper"
@@ -943,7 +1000,10 @@ text = "Thanks,see you again"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pNykh8UgxpGdy126KFCP4KuYk2JwanLGPtmadCC66Z4ed0Yjc37Ewcik9JYBzuMD"
+href = "urn:sha384:kpBXcZtEu-stgrVjZouMI_JJMwaULq_F4z3LU3QZiI3ki8qheQ0PNYWuRGUfNxLN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Shopkeeper to customer"
@@ -956,7 +1016,10 @@ text = "Good bye."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0vinmy0cPq-Q7jFKWDLiRuQUWNVQlFUKT6MA-XyNBbZ6gzU0Gxx9MIzehbWaGHSq"
+href = "urn:sha384:t-LPEjGXweAGwHblJmaRsg2KrORCHewdsIv6t5CYZ5k6aO3RVxkPrCvzdJezvqcO"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Customer to shopkeeper"
