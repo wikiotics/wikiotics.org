@@ -1,6 +1,6 @@
 +++
 title = "Buying a pen and watch only english"
-contributors = [ "14.140.106.2",]
+contributors = [ "14.140.106.2", "223.184.57.174",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
@@ -684,6 +684,279 @@ blob_href = "urn:sha384:x97JFmeEmrRCB72dBK7-dQ21mBRlW1PreI3nwgBcPyubNLl57SrVuge5
 href = "urn:sha384:1SgFud0m_e3tY-bHWXUVmkOeuff4RV8wgVbtRTepM3t81LJJhB7dsJRXDYT_9lOa"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards.sides]]
+text = "Customer to shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's buy a shirt"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello sir"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Shopkeeper to customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Customer to shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "How may I help you?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Shopkeeper to customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I want to buy a shirt."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Customer to shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "For who?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Shopkeeper to customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "For myself."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Customer to shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "For which pourpose?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Shopkeeper to customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "For party."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Customer to shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What is your size?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Shopkeeper to customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "It is 40."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Customer to shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Have a look at these shirts."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Shopkeeper to customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I like blue one."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Customer to shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your choice is good."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Shopkeeper to customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Thanks.What is it's cost?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Customer to shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "It is of Rs500 only."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Shopkeeper to customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I will buy this shirt."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Customer to shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Here is your shirt."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Shopkeeper to customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Here is your money"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Customer to shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Thanks,see you again"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Shopkeeper to customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Good bye."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards.sides]]
 text = "Customer to shopkeeper"
