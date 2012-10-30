@@ -1,6 +1,6 @@
 +++
 title = "An accident"
-contributors = [ "106.201.138.190", "106.67.33.184",]
+contributors = [ "106.201.138.190", "106.203.220.125", "106.67.33.184",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
@@ -529,14 +529,53 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "You are in which hospital?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Parent to friend"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We are in city hospital."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "friend to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I will reach there in 20 mins.Wait for me"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "parent to friend"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ok,I am waiting for you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "friend to parent"
 type = "phrase"
 
 [[interactions]]
