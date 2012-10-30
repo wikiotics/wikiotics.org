@@ -383,6 +383,162 @@ type = "empty"
 text = "Teacher to parent"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Accident on road"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello ,Am I speaking with Amjad's father?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Friend to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Yes, I am Amjad's father."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Parent to friend"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello uncle,I am Afzal saifi."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Friend to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What happened?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Parent to friend"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your son is in ICU."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Friend to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "How,what happened?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Parent to friend"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We were on the bike suddenly a truck hit us from behind."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "friend to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We fell on the road.I was wearing helmet but Amjad was not."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Friend to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is he hurt?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Parent to friend"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "He fell on his head.His head started bleeding."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Friend to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[interactions]]
 audio = 1
 transcript = 0
