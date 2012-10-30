@@ -1,8 +1,9 @@
 +++
 title = "Shreya hat story"
-contributors = [ "14.140.106.2",]
+contributors = [ "14.140.106.2", "Laurent",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
