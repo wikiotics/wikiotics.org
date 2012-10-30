@@ -1,8 +1,9 @@
 +++
 title = "Lesson-Shilpa"
-contributors = [ "14.140.106.14",]
+contributors = [ "14.140.106.14", "Laurent",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
