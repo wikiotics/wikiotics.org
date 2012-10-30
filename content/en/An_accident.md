@@ -334,6 +334,19 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "Where is he now?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Parent to teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "He is in the rest room."
 type = "phrase"
 
@@ -354,20 +367,20 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Parent to student"
+text = "Parent to teacher"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Ok,We are waiting for you."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher to parent"
 type = "phrase"
 
 [[interactions]]
