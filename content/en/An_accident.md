@@ -214,6 +214,162 @@ type = "empty"
 text = "Saviour friend"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Accident of a student"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello sir,Am I speaking with Mr. Sharma?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Yes,I am Rajesh Sharma."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I am calling from your son's school."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I am his class teacher."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What happened?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "While playing football today.You child got hurt."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "How is he now?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We think his leg is fractured."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "He is in the rest room."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ok,I will reach there in 20 minutes."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Parent to student"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[interactions]]
 audio = 1
 transcript = 0
