@@ -1,6 +1,6 @@
 +++
 title = "An accident"
-contributors = [ "106.67.33.184",]
+contributors = [ "106.201.138.190", "106.67.33.184",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
@@ -139,7 +139,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "I want to help,but i'm in gugraon"
+text = "I want to help,but i'm in gurgaon"
 type = "phrase"
 
 [[cards.sides]]
