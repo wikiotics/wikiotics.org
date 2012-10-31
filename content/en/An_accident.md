@@ -1,6 +1,6 @@
 +++
 title = "An accident"
-contributors = [ "106.201.138.190", "106.203.220.125", "106.67.33.184", "106.78.3.129",]
+contributors = [ "106.201.138.190", "106.203.220.125", "106.67.33.184", "106.78.3.129", "106.78.7.59",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
@@ -719,6 +719,175 @@ type = "empty"
 
 [[cards.sides]]
 text = "father"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Accident of an unknown person"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello sir,am I speaking with Rahul's father?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "inder"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Yes speaking."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "father"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your son is in city hospital"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "inder"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Who are you,what happened?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "father"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "My name is inder.I found your son on the road."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "inder"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where did you find him & how is he now?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Father"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I found him on lajpat nagar road.He was lying uncounscious."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Inder"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I have admitted him,please come soon."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Inder"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Yeah ,I will reach there in 20 mins."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Father"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Thanks,I am waiting for you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Inder"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Thanks a lot for help."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Father"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Don't mention.Its my duty"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Inder"
 type = "phrase"
 
 [[interactions]]
