@@ -1,6 +1,6 @@
 +++
 title = "Buying a pen and watch only english"
-contributors = [ "106.79.11.46", "106.79.37.33", "14.140.106.2", "223.184.57.174",]
+contributors = [ "106.78.7.59", "106.79.11.46", "106.79.37.33", "14.140.106.2", "223.184.57.174",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
@@ -1626,7 +1626,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Let's buy a tv."
 type = "phrase"
 
 [[cards.sides]]
@@ -1639,14 +1639,456 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Hello sir."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "How may I help you sir?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I want to buy a tv."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Have a seat sir.Would you like tea or coffee?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I would like coffee."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Of which company?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Sony"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "For home or office?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "For office."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Which size would suit your need?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "60 inches."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "LCD,LED or plasma?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I would like to buy LED tv."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Your choice is great"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Thanks,.What is its cost?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Its cost is Rs90000 only."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Any discount on diwali?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "No discount but there is an offer with this."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "You can get hometheatre worthRs 16000 at Rs 8000only."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I don' want hometheatre give me some discount."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Sorry sir,it is not possible."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Try something,I am your regular customer"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let me see what I can do."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Please be fast.I have to go somewhere"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Please just wait for 5 mins"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Sir we can offer you a discount of Rs2000 only."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ok,I will buy it."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "How will pay?Cash,cheque or CC."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I will pay cash."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ok sir.come with me."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Here is your money."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Here is you Tv."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Thanks"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "customer"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Have a nice day sir."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "shopkeeper"
 type = "phrase"
 
 [[interactions]]
