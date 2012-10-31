@@ -1,6 +1,6 @@
 +++
 title = "An accident"
-contributors = [ "106.201.138.190", "106.203.220.125", "106.67.33.184",]
+contributors = [ "106.201.138.190", "106.203.220.125", "106.67.33.184", "106.78.3.129",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
@@ -576,6 +576,149 @@ type = "empty"
 
 [[cards.sides]]
 text = "friend to parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Accident from roof."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello,where are you?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Mother"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I am in office,what happened?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Father"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Chintoo fell from the roof."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "mother"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What was he doing on the roof?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "father"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "He was flying the kite."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "mother"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "How is he now?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "father"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "He has recieved injuries on his hand"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "mother"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Take him to hospital.I will reach there in 20 mins."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "father"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ok, but try to come soon."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "mother"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Don't worry.I will come asap"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "father"
 type = "phrase"
 
 [[interactions]]
