@@ -1,6 +1,6 @@
 +++
 title = "How to ask for leave"
-contributors = [ "106.201.138.190", "106.67.33.184", "106.67.43.175", "106.79.36.68",]
+contributors = [ "1.187.209.85", "106.201.138.190", "106.67.33.184", "106.67.43.175", "106.79.36.68",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
@@ -72,7 +72,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Because, I have to go for vellege"
+text = "Because, I have to go to village."
 type = "phrase"
 
 [[cards.sides]]
