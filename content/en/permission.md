@@ -1,6 +1,6 @@
 +++
 title = "permission"
-contributors = [ "14.140.106.2", "sonia.sharma",]
+contributors = [ "14.140.106.2", "69.117.87.6", "sonia.sharma",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
@@ -304,23 +304,6 @@ type = "phrase"
 
 [[cards.sides]]
 text = "En"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "test"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
 type = "phrase"
 
 [[interactions]]
