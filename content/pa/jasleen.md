@@ -1,8 +1,8 @@
 +++
 title = "jasleen"
-contributors = [ "14.140.106.2", "ian",]
+contributors = [ "14.140.106.2", "69.117.87.6", "ian",]
 dividers = [ 4,]
-headings = [ "Phrase", "Picture", "Audio", "Audio2",]
+headings = [ "Phrase", "Picture", "English", "Panjabi",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
 target-languages = [ "pa",]
