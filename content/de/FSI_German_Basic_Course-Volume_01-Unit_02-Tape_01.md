@@ -1,10 +1,10 @@
 +++
 title = "FSI German Basic Course-Volume 01-Unit 02-Tape 01"
-contributors = [ "Laurent",]
+contributors = [ "95.209.204.106", "Laurent",]
 headings = [ "phrase", "audio", "speaker",]
 tags = [ "fsi",]
 type = "lesson"
-target-languages = [ "fr",]
+target-languages = [ "de",]
 source-languages = [ "en",]
 [[cards]]
 tags = [ "fsi",]
