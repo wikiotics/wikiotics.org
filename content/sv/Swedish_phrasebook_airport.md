@@ -1,6 +1,6 @@
 +++
 title = "Swedish phrasebook airport"
-contributors = [ "89.253.78.194", "Laurent",]
+contributors = [ "89.253.78.194", "95.209.204.106", "Laurent",]
 headings = [ "English", "Swedish", "Pronunciation", "Audio",]
 tags = [ "phrasebook",]
 type = "lesson"
@@ -13,7 +13,7 @@ text = "the airport"
 type = "phrase"
 
 [[cards.sides]]
-text = "flygpatsen"
+text = "flygplatsen"
 type = "phrase"
 
 [[cards.sides]]
