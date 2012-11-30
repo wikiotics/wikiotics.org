@@ -77,7 +77,7 @@ text = "I'm checking-in this bag."
 type = "phrase"
 
 [[cards.sides]]
-text = "Jag checkat in denna väska."
+text = "Jag checkar in denna väska."
 type = "phrase"
 
 [[cards.sides]]
