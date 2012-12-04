@@ -28,11 +28,11 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "förödmjuka"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "humiliate"
 type = "phrase"
 
 [[interactions]]
