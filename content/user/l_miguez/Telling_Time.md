@@ -22,9 +22,9 @@ Or
 
   - We use **o'clock** when it is exactly on the hour. **Example:** It's
     nine **o'clock**. (9:00)
-  - When it's 15 minutes past the hour, we use "**a quarter
-    past/after**". **Example**: It's **a quarter past** six. (6:15)
-  - When it's 15 minutes  to the next hour, we use "**a quarter to**".
+  - For 15 minutes past the hour, we use "**a quarter past/after**".
+    **Example**: It's **a quarter past** six. (6:15)
+  - For 15 minutes  to the next hour, we use "**a quarter to**".
     **Example**: It's **a quarter to** six. (5:45)
   - When it's exactly 30 minutes past the hour, we use **"half past**".
     **Example**: It's **half past** two. (2:30)
@@ -58,12 +58,16 @@ Examples:
 afternoon.
 
 6:00 - It's six o'clock in the morning. OR It's six o'clock in the
-evening. \*Here we could also use '*at night*' if it's dark outside
-.like in the winter.
+evening.
+
+\*Here we could also use '*at night*' if it's dark outside .like in the
+winter.
 
 9:30 - It's half past nine in the morning. OR It's half past nine at
-night. \*In the summer, we would use '*in the evening*' because it's
-usually *not dark* at this time.
+night.
+
+\*In the summer, we would use '*in the evening*' because it's usually
+*not dark* at this time.
 
 **Asking the Time**
 
