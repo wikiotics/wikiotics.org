@@ -385,8 +385,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0usV7wnXW-S8vAy1Mv-gweIOY-TC3rrg0FpUGDQJVXkrCkCRHCmfNpBpDWbvIwF-"
+href = "urn:sha384:njMJ_HnwqGy--LUszOs7BBX0aaGaMp2X-CNZgpvFqYbUrTBFSo4BPQNRxogJ3z4s"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 text = "It's a quarter to one."
 type = "phrase"
@@ -394,8 +400,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gFqo4v8HXGGfFMx1Gz0vQAYt9ax1MmAmqGI-GZpcMT6N9Noy4_xX-f-4DG7ErI6u"
+href = "urn:sha384:xa8-QpI047HRQa12SaU1KDoNxktQij-8qwPOqAt-Mf_ms0ytZDhCJs9RFX_v5gY8"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 text = "It's nine fifteen."
 type = "phrase"
