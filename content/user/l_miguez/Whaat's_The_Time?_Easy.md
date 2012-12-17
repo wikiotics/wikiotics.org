@@ -349,7 +349,7 @@ type = "picture"
 author = "l_miguez@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-text = "It's quarter to five."
+text = "It's a quarter to five."
 type = "phrase"
 
 [[cards]]
@@ -388,7 +388,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "It's a quarter after four."
+text = "It's a quarter to one."
 type = "phrase"
 
 [[cards]]
@@ -397,22 +397,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "It's a quarter to four."
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-blob_href = "urn:sha384:gFqo4v8HXGGfFMx1Gz0vQAYt9ax1MmAmqGI-GZpcMT6N9Noy4_xX-f-4DG7ErI6u"
-href = "urn:sha384:SXQOwqQ7V8avsgAOPkmh3iJlH3dGEMQdLf8RPvBI-b8_VGe_krZsIhGtM8-rSwYX"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "l_miguez@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
-[[cards.sides]]
-text = "It's a quarter after nine."
+text = "It's nine fifteen."
 type = "phrase"
 
 [[interactions]]
