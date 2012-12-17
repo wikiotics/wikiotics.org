@@ -1,7 +1,7 @@
 +++
 title = "Parts of the Day"
 contributors = [ "l_miguez",]
-dividers = [ 4,]
+dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -91,6 +91,90 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "In the afternoon, I have lunch."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:bdCZwovkQ8vlqj_q-7B2alaml3YqAzCcjXK-w_JHjN0jnFenk1whtUUVatPl1PCb"
+href = "urn:sha384:_Fgnnxt6j6FNmpBq0YH_RsYrIh-CUnMxHCFHtJ51iyA75hOU0NFNWi9-ZxZyLipT"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Ishikawa Ken (chidorian)"
+author_url = "http://www.flickr.com/people/21518596@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/21518596@N00/106713617"
+title = "School lunch"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "In the evening, I watch TV."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:6MlZDUL29R5XARVQzQsJPnoIost-wmnJhn5qkVecc7Jf23OTF_eCSr9OBVcfOooS"
+href = "urn:sha384:k62DSyey88P_rTGkFql4qBEq-0n2ZeAUSuHoy6_FEY76WcVsrx3qMwiszZR-dNGG"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Angus Fraser (angusf)"
+author_url = "http://www.flickr.com/people/35034357491@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/35034357491@N01/2217975981"
+title = "Watching TV"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "In the morning, I go to school."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:5Yhpd0La8mampx1i6rQRflVDmaIrHXZ44o431SQI4Pablza3qGhJjsqQxZS_9U7J"
+href = "urn:sha384:USRinBPotjVoeR8vFPixfCqXycNYvT6tUaozsqqZer22MSG3ZuJw9McQVQLRVImk"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Bruno Girin (Bruno Girin)"
+author_url = "http://www.flickr.com/people/16405999@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/16405999@N00/92406343"
+title = "School Bus"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "At night, I read a book."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:_xzXspjzkn0RRgJ4KKYQCF-UBErVBLNMr-H47Ig_RNX3LMQtQ_WYAjO7SvZRy0at"
+href = "urn:sha384:4mozO2-AI3WI7C5AAK_vW2b1R1yA_1SB6HgpfanEK0iqVy-QK5st_qEt8sM4UBC0"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Joel Kramer (Joelk75)"
+author_url = "http://www.flickr.com/people/75001512@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/75001512@N00/8228960708"
+title = "books"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = "At eight o'clock in the morning, I have a cup of coffee."
 type = "phrase"
 
@@ -170,6 +254,18 @@ author_url = "http://www.flickr.com/people/43102195@N08/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/43102195@N08/6020196177"
 title = "Hilton Hotel // Dublin Airport // Deluxe Room // Free Shuttle Service // Complimentary water and cookies // Efficient services and friendly at all times // Highly recommended // Enjoy and Embrace Hospitality!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
