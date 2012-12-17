@@ -304,7 +304,7 @@ type = "picture"
 author = "l_miguez@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-text = "It's a quarter past one.."
+text = "It's a quarter past one."
 type = "phrase"
 
 [[cards]]
@@ -530,6 +530,21 @@ author = "l_miguez@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 text = "It's four forty-five."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:V0YbMQ4BUCc77S8XZAPaHe99HSn448MJMAg2kb4sAKvbYsvCyZZIQmoSOyq74mnD"
+href = "urn:sha384:sE1F6d2Q_7QJ8_8EahhC8N7HEPjUH25VJ0_5jWzCSy7W5suzd6SnJqgzi8toaPTR"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's a quarter after one."
 type = "phrase"
 
 [[interactions]]
