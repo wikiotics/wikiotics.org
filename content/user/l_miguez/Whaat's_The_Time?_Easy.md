@@ -160,8 +160,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-blob_href = "urn:sha384:sPyPDiK3KmjFT6Gr_RCUqrV_MmwWnLFeqiA6xUtK_RjCOahsqqALJuC_kCc-0Pu9"
-href = "urn:sha384:YWDy9sGiGkk_4etWwSYZJDRFZryMwsAdzihKz6OzYXBOvjAgL92BA_I1ooQA5K-6"
+blob_href = "urn:sha384:BbNmmuzazeuXYqnbZKy0nxvSLcANwPq1eCsP1p-_VZSza7Yild3T_w9AxRXcUfwf"
+href = "urn:sha384:B8H-9Y85H6WB3it_cJKeifPJARNn1bp3KFyx0L9slOiM51RaC2I9p6B2HIaV1Y36"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -169,7 +169,7 @@ type = "picture"
 author = "l_miguez@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-text = "It's four thirty."
+text = "It's three thirty."
 type = "phrase"
 
 [[cards]]
@@ -295,8 +295,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-blob_href = "urn:sha384:zBW6KkaFA7BLSi32fDibM0zPRi5-NR7k1_lEQ4OmfRWgDUD5hrpI---QBFLC78xf"
-href = "urn:sha384:Jb0BmLikpKoqLEF9NM2RiEUNDDmKsjjqbn_DqU8j-iFRynQFw_UNGXBPagqIbWV7"
+blob_href = "urn:sha384:RbP60E5p8PYUzsVgNFfItcCx14dBRG6fkaaKaD7vXzF8-bykIO9z0DWlCUDr1wHA"
+href = "urn:sha384:LRIXSqLtI1seM0CJawKf9TgVYh6BLQUaAhbAY8yeOQYXpgaXKUgmFIB-udLYTuk7"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -304,7 +304,7 @@ type = "picture"
 author = "l_miguez@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-text = "It's ten fifteen."
+text = "It's a quarter past one.."
 type = "phrase"
 
 [[cards]]
