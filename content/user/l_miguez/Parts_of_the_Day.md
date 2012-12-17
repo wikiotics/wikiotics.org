@@ -1,7 +1,7 @@
 +++
 title = "Parts of the Day"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8, 12,]
+dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -11,17 +11,17 @@ text = "in the morning"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:AjDV06Xg-Gt2NXJSE3kyLcTzOsr6Cm2yAHYwscChlMhAXEE69vuvFU1atjF4bhWW"
-href = "urn:sha384:K68sbxnwB-SRtzFNjwHBzosbHxP-wNC3p2smeankVrvskdxSmCTcVyZgyOV631zd"
+blob_href = "urn:sha384:VqgUcgptpIQn6w1DTiROkYL34ZkUNhkP_X5ZMxJFCMyK9eEk3u0ptbGoJnz1ePcY"
+href = "urn:sha384:jsL3me7BBDQS8_DXKzqisl4iVHpNuk6bOu6yhG9wNGFp8T90pYypbcaddDliYAgG"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Kanko*)"
-author_url = "http://www.flickr.com/people/29282750@N00/"
+author = "Kristina  Alexanderson (Kalexanderson)"
+author_url = "http://www.flickr.com/people/45940879@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/29282750@N00/252884416"
-title = "morning coffee"
+original_url = "http://www.flickr.com/photos/45940879@N04/8141344500"
+title = "sunshine coffee"
 [[cards.sides]]
 type = "empty"
 
@@ -32,17 +32,17 @@ text = "in the afternoon"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:qiLGQ5J22iTRUgI8Ld2tENDKX4V2VdSHeO-WFso3hXl3UdSg2R6RaIxqZWcHLF1U"
-href = "urn:sha384:O22EaBzDgHwcRKRXQl3o6xP-KTWBqv5ctTcwStqwBE6o0UvtdmIBrEj8yMK3GG9p"
+blob_href = "urn:sha384:FcE6wrZa9uCPRztQ_9WDZa2gwqVRZqpInofeRIA0EO9Cykg4-zcDLaasiZTo0tKV"
+href = "urn:sha384:pI_0-O7-5Ej6e1N9hxMfvN0CstFC9JVvw6foWXuJhRdRSNrHSKvBcabbxKMc8fmr"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Luis Argerich (lrargerich)"
-author_url = "http://www.flickr.com/people/29638083@N00/"
+author = "Fiona Shields (f_shields)"
+author_url = "http://www.flickr.com/people/9295970@N08/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/29638083@N00/4020321362"
-title = "Sunny Swamp"
+original_url = "http://www.flickr.com/photos/9295970@N08/7254559928"
+title = "sunshine :)"
 [[cards.sides]]
 type = "empty"
 
@@ -53,17 +53,17 @@ text = "in the evening"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:TSp7Yy3Zr46Qd3Vjyc4RmXlssifbu_RuR-xByNkdqtWaTdEqBGh2DUZKMEdO3jbW"
-href = "urn:sha384:819KNHLVS7moogt6fMPsNv_KdzEtCVuBd7PbDbnzwuEr0cPPArV_ubMnLOWk9GDA"
+blob_href = "urn:sha384:RB3gKUjjwoS0b5YoG0tKCHklkrMDf9ljoErz_D7WHPZsGhU9dvkCR4fMtj7L1gOW"
+href = "urn:sha384:OYePZFtNTETiQc_0a-VrzPb9k7xPJR27om8r4C2BbWzN9TW06ytn9F1TCqGYvSYJ"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Phil Roeder (Phil Roeder)"
-author_url = "http://www.flickr.com/people/88876166@N00/"
+author = " (marcusrg)"
+author_url = "http://www.flickr.com/people/49503185029@N01/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/88876166@N00/5910085411"
-title = "An Evening Walk Along a Country Road"
+original_url = "http://www.flickr.com/photos/49503185029@N01/362843999"
+title = "Sunshine"
 [[cards.sides]]
 type = "empty"
 
@@ -85,6 +85,90 @@ author_url = "http://www.flickr.com/people/21314760@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/21314760@N00/567456257"
 title = "East County Nights"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:m7HxV3cJpNrGhZmHJc9jTgzWm2NPtOijfmRLTSQWhPIqimMIFXVfA-nbHL1_pYEO"
+href = "urn:sha384:-OiZzjMdIr8Ipe6GL7mgEhzjgXAUXdkvK3hsuHWTgpCr0hrv-Uo1pOib4zM_4J1p"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (°Florian)"
+author_url = "http://www.flickr.com/people/16634670@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/16634670@N00/1583201238"
+title = "Moon and Jupiter"
+[[cards.sides]]
+text = "at night"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:KLogoF-mVucQg1wXWrNQFqVVCbMRcWCqn_9CNBfMT7Dc4G_iCEPBvCEJfFAx1XJ_"
+href = "urn:sha384:73aMva225km2qOE2XBBqdAM6jCoNqIwvZ45z3xld-F6ecXyAjS85ZX8tKE7ZSj3e"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Neil and Kathy Carey (Neil and Kathy Carey)"
+author_url = "http://www.flickr.com/people/20606462@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/20606462@N00/50129417"
+title = "Senset from accross the road from our house"
+[[cards.sides]]
+text = "in the evening"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:w5k8WxMIn1WtKSgxjfdtjdmcobaE0STJx7MMKhpAnt_4--4bmCurCdsBMftFmXSY"
+href = "urn:sha384:wnVHy6baPDd_XU3YHkAxdW4hkUI57yj-fz0FC863cKqkanJoiL8YYeBKpCLXQLjk"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Richard Elzey (Richard Elzey)"
+author_url = "http://www.flickr.com/people/54602205@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/54602205@N00/8230296481"
+title = "Rise and Shine"
+[[cards.sides]]
+text = "in the morning"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:1J62fual4rBqLRpREy7ZyRaANU9KYHvRPuYXcrGEmkNjbRL9B-jR-ZW9dPj47tEe"
+href = "urn:sha384:QqLt_HXtiu2VG0HqBgYpA9-99GDZrHi3fcXcYnllJaWjS1EXMo9sO810B1B0oXQp"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (» Zitona «)"
+author_url = "http://www.flickr.com/people/66548401@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/66548401@N00/3576046688"
+title = ":: You are MY sunshine, my ONLY sunshine ::"
+[[cards.sides]]
+text = "in the afternoon"
+type = "phrase"
+
 [[cards.sides]]
 type = "empty"
 
@@ -260,7 +344,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "At nine o'clock in the evening, I walk the dog."
+text = "At seven o'clock in the evening, I walk the dog."
 type = "phrase"
 
 [[cards.sides]]
@@ -323,7 +407,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "At nine o'clock night, I have dinner."
+text = "At eight o'clock at night, I have dinner."
 type = "phrase"
 
 [[cards.sides]]
@@ -338,6 +422,90 @@ author_url = "http://www.flickr.com/people/75489014@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/75489014@N00/3607411101"
 title = "Dinner"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "At ten thirty in the morning, I am a work."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:se7duXLAlWeUvOo4nPY3ZDledxEJOAgO242p658H0H9ROwLx2msFqL91hGoqg670"
+href = "urn:sha384:MZLMUuYykjUD0sY68SjChSmTgWVmjMh9O1iB4Xk7UUKdWruQx9jxXm_n3_uXoZYs"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Benjamin Ragheb (benzado)"
+author_url = "http://www.flickr.com/people/64575479@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/64575479@N00/103304556"
+title = "My desk at work"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "At five thirty in the evening, I clean the house."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:WpRZ8YHr0FiSd3zkFTiPVC0l9LVwRHDQA2uiBQsdVpjEdRQlomMomez9Nh_Qq7oZ"
+href = "urn:sha384:zaHsfDpyqb9OcmtSqyj4v75B_7MrN3LtVuaCdx8chrE4Qd7JL98J8kF5DspyJa1c"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Dave Crosby (DaveCrosby)"
+author_url = "http://www.flickr.com/people/87316606@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/87316606@N00/6775312856"
+title = "53/365+1 Mopping"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "At three thirty in the afternoon, I do the shopping"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:sMnrCfdEwpWD2qkfMiQNffQKLK9wB6BBx_0sg_Jrp-q_pJnCnr0QShYFNucSAJ-6"
+href = "urn:sha384:Ss_DD1ux8PQqcST_Mi0TYkjge_2Dc4zrutX4gapoWO7ChLtTnXcUgQm2MnzwW3L2"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Robin DeGrassi James (GoldenEel)"
+author_url = "http://www.flickr.com/people/81648904@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/81648904@N00/7136494"
+title = "Groceries"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "At ten thirty at night, I am asleep. "
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:9rqL_hgyPbeUNlpipfZP-BmtPjp3qs4Slof3FsIl3-4GxxBz1kCWBjfP0lm93sHp"
+href = "urn:sha384:24foEopWB6ZsguUJc0QIvRRKFXy8cBWsls_0xSk019pseug97zwnSSbkxd5bqfj8"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "David Goehring (CarbonNYC)"
+author_url = "http://www.flickr.com/people/15923063@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/15923063@N00/518380699"
+title = "Sleeping OMG"
 [[cards.sides]]
 type = "empty"
 
