@@ -175,7 +175,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "At eight o'clock in the morning, I have a cup of coffee."
+text = "At eight o'clock in the morning, I have a cup of tea."
 type = "phrase"
 
 [[cards.sides]]
@@ -260,12 +260,84 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "At nine o'clock in the evening, I walk the dog."
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:jZMAgyWozY8rshvBJ8ZR5oFZjJMxcacV4rsDe8idC8yCuwCvyy6mY9TJ2eeapuNn"
+href = "urn:sha384:uTDtcxF9qHCqRRfCNUAAmuJ_lgsLE0ppns6y7nK6jUIjRm7ZxfBhnuGK6PTrxnCG"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Bill Weaver (g'pa bill)"
+author_url = "http://www.flickr.com/people/82849855@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/82849855@N00/3888165470"
+title = "Dog Nose..."
+[[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "At two o'clock in the afternoon, I go swimming."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:IuworB4Pt81Wfut2sntrwyQeNFzjnE_3Q7FVInBBle9v5h8UHrgzo7GEWwybDJmg"
+href = "urn:sha384:ouYhlIxTZtaIEDMFw6D4_PcY-gaV1FBZflen3xpSaOwgSb5N2JtmMmK-KWsSjCTI"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Hector Alejandro (hectorir)"
+author_url = "http://www.flickr.com/people/30806435@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/30806435@N04/4425163371"
+title = "Swim PT"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "At six o'clock in the morning, I have a shower."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:TtE-OZ8n7YEX0J1W_tRXcYMJ93J5FqZSR_HainFUB6A36dNrlUhaYwmdZJfcWPRe"
+href = "urn:sha384:9PImwktmDYVa2nHSEt9RWnPkP1luZ4yLxHKmprzFOxUHTGS3KfPncBY6qF9cMJ29"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (mjtmail (tiggy))"
+author_url = "http://www.flickr.com/people/21238273@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/21238273@N03/3892478696"
+title = "shower"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "At nine o'clock night, I have dinner."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:m_RpLc1xno1Dfwto0CucY8isqaEG7iFsMcIw5sCJCKE-eQWYgP85dSC1hv6m5hXz"
+href = "urn:sha384:J_McWVaEM6ipyjFNbpSfquk80mV4FpOfo2Q4MobtxuayKpzttfhLSa1q95pcpiLv"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Peter Hellberg (Peter Hellberg)"
+author_url = "http://www.flickr.com/people/75489014@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/75489014@N00/3607411101"
+title = "Dinner"
 [[cards.sides]]
 type = "empty"
 
