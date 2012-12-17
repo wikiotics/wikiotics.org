@@ -58,16 +58,12 @@ Examples:
 afternoon.
 
 6:00 - It's six o'clock in the morning. OR It's six o'clock in the
-evening.
-
-\*Here we could also use '*at night*' if it's dark outside .like in the
-winter.
+evening. - \*Here we could also use '*at night*' if it's dark outside
+.like in the winter.
 
 9:30 - It's half past nine in the morning. OR It's half past nine at
-night.
-
-\*In the summer, we would use '*in the evening*' because it's usually
-*not dark* at this time.
+night. - \*In the summer, we would use '*in the evening*' because it's
+usually *not dark* at this time.
 
 **Asking the Time**
 
