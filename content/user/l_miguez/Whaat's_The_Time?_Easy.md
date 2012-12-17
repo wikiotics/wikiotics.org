@@ -1,7 +1,7 @@
 +++
 title = "Whaat's The Time? Easy"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -470,6 +470,66 @@ author = "l_miguez@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 text = "It's quarter after three."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:ZNBHCl46UTCsMoFTM7rEG0OCAD0KXU6ajs5p15CqXxBsgUqVkp8eBsBJjSlq-BGd"
+href = "urn:sha384:vOE9qjb1i4jgtI1gk0xa6aQDQcle7RQXFenJh90rTJyrUeGG8HU8oVystyq4r2PO"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's two o'clock."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:wX7dD4pKtEGsGOQkMCvXlZLH7pudPmK5PjY_EeeBfziVG4epCuJTYJQ5HFbr1H61"
+href = "urn:sha384:bpdTBicLEAP9U94p4uLaLPcNb5iBRUTuHOdjsru0vOQEMT0d5noK3sc2kNSMPnXC"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's half past four."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:v0N4nq8iN_ygcqqQ4Rp3CPOGqIlwxKXK-Eq0ZQMsXhbgi8ESimjUG2oCVNYAPZz0"
+href = "urn:sha384:_nhPNqRkC4_rdVP9eVvF0NT1zqBMNlIVBDfcvACjzoEGelF6k9iPB0Mau48X2BOQ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's twelve thirty."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:thQkUqR1eEi7PPMRRiWku-vDa3ScDboXqyvX51NZ-RHhpTITU7sZlUgsqdXUFqlo"
+href = "urn:sha384:Gb0rS0aLBI_GtifqcBsBCmk1eol78o7PmRYTNvp6D-vWoj0CU-OEkm9AzBIGVsFm"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's four forty-five."
 type = "phrase"
 
 [[interactions]]
