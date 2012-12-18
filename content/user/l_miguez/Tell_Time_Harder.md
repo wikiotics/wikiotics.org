@@ -385,10 +385,61 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4UlMwaP7yAUBQ8UahXz4-wkHgoUz9nZj7x05X1EX0DJHqsm8EynFvHwQL7iRrN_0"
+href = "urn:sha384:bwhcsqsb_I8wF9mprllfYCQ97SSojDmAO-ZQT8Suy16-tvKWW9I3QLr2kompPuzD"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's four twelve."
+type = "phrase"
+
+[[cards]]
 
 [[cards.sides]]
-text = ""
+blob_href = "urn:sha384:M4qzJybF79-EMEmSOTlIRE7enPGHWwwM-iihU1XOpLSNG_tw9AwiC1gpu8AYvZDz"
+href = "urn:sha384:auyozRuTNd-b_Y09-VPhD3h-LxRWVnr6v03Y9Poby-rWhpL-FjW4DvkzK8xMcea6"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's six nineteen."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:tjAdexJEX2yR3GnJKUHxXLdgZ__E0rH7Ylnu8LBM-pak03ow-h4In6jgFpx2fB2n"
+href = "urn:sha384:ZsJmA-UE2F5R6a4nI63uAhKnPxbW-P8q-QCavgrrS4FPCKLBJq2_-KHejZ--tzMi"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's twelve thirteen."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:bjelNKN9LOF8A7yWGZmtG-Wo9mw0y7HR3L9CdoEZOmvKTuFNNLat-ClzcBdnBTKH"
+href = "urn:sha384:VmYoaILIX4c7eCbmJf4OQp6gAEensngosqilL8vfOi_4ONPE86FoMhYzVvaWNAvo"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's ten twenty-one."
 type = "phrase"
 
 [[interactions]]
