@@ -7,7 +7,8 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's two o'clock."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:ZNBHCl46UTCsMoFTM7rEG0OCAD0KXU6ajs5p15CqXxBsgUqVkp8eBsBJjSlq-BGd"
@@ -27,7 +28,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's five o'clock. "
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:zZZXrpV4o3r-Slqw1AlNYUi4fDtS7t-mHsh5H1JaL4eanBsIZoGUQ7lfcP9te-Pw"
@@ -47,7 +49,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's nine o'clock."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:GZRt7s_ixRFF1de1scCaMr3pihpKgUZiEZ-hjgBvpYuYGFQOgZc9KcUp-uXhN_4B"
@@ -67,7 +70,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's twelve o'clock."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:XEM7PMCsZB37NrKNmBh8Gt9auTw2LIjN2bHNjS9aKpFb7E-7cb5ho54ps2csRmEp"
@@ -87,7 +91,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's seven thirty."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:GD4Imp9HXljB8SXBjkpXZ9b0GRBnxJCDS0KBpGOVzAj3LCYt7t4NoSCfjdfmFsEN"
@@ -107,7 +112,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's half past twelve."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:SGpOS32GMJKpmmupS8bfhbnaYCV2iFfyFFO2tbl4Q_6uw-jWTQq37EnilTwkULnY"
@@ -127,7 +133,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's half past six."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:E1yf-868iQooC8HKsuVACD9Tggg-6mtJvcqaBByPtxdOpRkdyXlfZgzaN7451ncZ"
@@ -147,7 +154,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's half past eight."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:vZTPkdnXRYhT5DBVO1Lynxg1xSUtJDemvZ3tdtIRn3QxN87FfcHFZ_Y1rtKxdFlA"
@@ -167,7 +175,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's a quarter past one."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:V0YbMQ4BUCc77S8XZAPaHe99HSn448MJMAg2kb4sAKvbYsvCyZZIQmoSOyq74mnD"
@@ -187,7 +196,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's nine fifteen."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:gFqo4v8HXGGfFMx1Gz0vQAYt9ax1MmAmqGI-GZpcMT6N9Noy4_xX-f-4DG7ErI6u"
@@ -207,7 +217,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's a quarter after ten."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:BMrno2aI2B7ff8FPU4LeoVngu0l9W7qgks68w2RHnKNjvICFL_nGoz_1vnfbxKMH"
@@ -227,7 +238,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's a quarter after three."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:XpLDgnr4KAbQcKFaIWNijKHoFCZNY8IyaffooyjcALv8RPS2a1eQmD_-sZgLKzwY"
@@ -247,7 +259,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's a quarter to four."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:QecYKfPLm8VhuY165q1uvXGRMcYpJGM1cyMBbvDuECp645eQT8ObmvAmUSsjpzZC"
@@ -267,7 +280,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's a quarter to eight. "
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:X4hjTfcoazsNqTOd7fgjywBtZMx736LFrKpLXQbzz-q8THiPWh15TswJ4QCvT8Cg"
@@ -287,7 +301,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's twelve forty-five."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:65AlqM4EnN1vznBXKCC7T7bQtKu952ggd1uKJccMO2Fd6xdBMpMyhvnS76zJ8m1p"
@@ -307,7 +322,8 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's a quarter to five."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:x_fHqXgVL9cVSv3iA4c-X8o8gr-eJBvOIfrXVQQ43ntCnzM-OvorJAD4_ECeO7PO"
