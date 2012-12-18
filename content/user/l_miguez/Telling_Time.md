@@ -76,4 +76,4 @@ are the most common ways:
 
 ## **Practice**[](http://)
 
-[New Link](http://)
+[Parts of the Day](http://)
