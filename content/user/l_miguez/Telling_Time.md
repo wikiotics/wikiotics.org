@@ -72,8 +72,11 @@ are the most common ways:
   - What's the time?
   - Could you tell me the time?
   - Do you have the time?
-  - Have you got the time?.
+  - Have you got the time?
 
-## **Practice**[](http://)
+.
 
-[Parts of the Day](http://)
+Practice
+
+[Parts of the Day
+Review](https://wikiotics.org/user/l_miguez/Parts_of_the_Day)
