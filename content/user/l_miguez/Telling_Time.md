@@ -16,6 +16,8 @@ Or
 
 **It's twenty five after/past four**
 
+.
+
 ### **Rules for telling time using the classical method**
 
   - We use **o'clock** when it is exactly on the hour. **Example:** It's
@@ -63,6 +65,8 @@ evening. - \*Here we could also use '*at night*' if it's dark outside
 night. - \*In the summer, we would use '*in the evening*' because it's
 usually *not dark* at this time.
 
+.
+
 ### **Asking the Time**
 
 There are a few ways that you can ask people the time in English. Here
@@ -76,7 +80,7 @@ are the most common ways:
 
 .
 
-Practice
+## Practice
 
 [Parts of the Day
 Review](https://wikiotics.org/user/l_miguez/Parts_of_the_Day)[](http://)
