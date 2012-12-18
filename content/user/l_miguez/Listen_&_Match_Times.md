@@ -184,6 +184,18 @@ type = "audio"
 text = "It's twelve forty-five."
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:w8_vux-uSz6JA4JdlXk17DC85fnMwCdW4395Gccc_uQ2KR88qyyebTv82HjzpCjo"
+href = "urn:sha384:IHoJyZxYcVkkQMRedSH-Rx47CM1MpaoJJ_RYT5yjdkQqqWvQmFBB_AXus9dJrrzh"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards.sides]]
+text = "It's eleven twenty."
+type = "phrase"
+
 [[interactions]]
 answer = 1
 prompt = [ 0,]
