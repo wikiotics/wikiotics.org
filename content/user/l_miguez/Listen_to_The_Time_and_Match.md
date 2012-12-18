@@ -1,7 +1,7 @@
 +++
 title = "Listen to The Time and Match"
 contributors = [ "l_miguez",]
-dividers = [ 4,]
+dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -161,6 +161,86 @@ license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 blob_href = "urn:sha384:anrqQCLVl08EfQda_k9vY7IUQe0TEkR9H2IuShnh1eR66gLFmtTxq0LqYTlET9v2"
 href = "urn:sha384:wOaT6gyCOWqqGl6-ANgOucy70pSWA-mJWIqqrud8Nh5SILalhirWS3awBWr9ZMn0"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:V0YbMQ4BUCc77S8XZAPaHe99HSn448MJMAg2kb4sAKvbYsvCyZZIQmoSOyq74mnD"
+href = "urn:sha384:cwsNK4D7i7tZDmLAiVeBpBRGmb29LRaEkTGte9ZfMLr-9POHzr8Wj2n21OAwh6iV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:oX-HlUsYeQCqeU8fUE15_LETIcvir4Lr1qfjKgFBGDB8rObXtKkcYEYfNQkmv5NB"
+href = "urn:sha384:GraKQj1XYCpokXdyLzo5i-AwDsmbZBhRl9hH42FtAKKMiYjcbfZVWekceLe7280N"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:gFqo4v8HXGGfFMx1Gz0vQAYt9ax1MmAmqGI-GZpcMT6N9Noy4_xX-f-4DG7ErI6u"
+href = "urn:sha384:9MKFTLuCUFN1usiCRPfnUDNfl9AHPD4WRAim0lJEr51RdArRfVF9fJvoIKZq_Aj2"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:6Sc3qityYTWUHM_CoRrRZiiie9Z4mfdPtUfa4DhAGHP2ecO1Fdn6RYEcAveOsq3x"
+href = "urn:sha384:KJX1RvS_cTPOxw82NJhp3cLO6Z5e9vKsx_KcC2HQ-ng93yhdtICUbEUeXqe4XMwH"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:BMrno2aI2B7ff8FPU4LeoVngu0l9W7qgks68w2RHnKNjvICFL_nGoz_1vnfbxKMH"
+href = "urn:sha384:qt0vs39B16vXnnfiyCqPEJLc8kECiC-s7sD1xDtlzctoGJE3V71DWnfJOTEsi4hi"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:a5qvnllvYkEIsUvw0a_Sa8dWAKfB1CHgLOhozJmExcTupd3b6mvHcIoC_FCcJmr9"
+href = "urn:sha384:hHB6UHYQ0TmLgNRmFI3kViggvG2bKGTel2wz24XJZib5Nb-iTQXT4ajItyNXoIzf"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:XpLDgnr4KAbQcKFaIWNijKHoFCZNY8IyaffooyjcALv8RPS2a1eQmD_-sZgLKzwY"
+href = "urn:sha384:dA7KIgaYgyijwfKQJXGpwJWyduSWEnr90vyNAcLqmEojZeejzex7yJGJfpkpo4kS"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:dmU7wCA5Uk8yOi4MdDJYDI92P8IS0v56payR6ZRSWtJTWc_MXVLGWcqaEkMCUsiH"
+href = "urn:sha384:xT9oRgkhLeOC0SKLeVO6Ubs9JSNQUsx__qBhHtzavGzPrzE4TI72FYuLk2ZNzflX"
 mime_type = "audio/ogg"
 type = "audio"
 
