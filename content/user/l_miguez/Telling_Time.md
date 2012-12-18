@@ -79,6 +79,6 @@ are the most common ways:
 Practice
 
 [Parts of the Day
-Review](https://wikiotics.org/user/l_miguez/Parts_of_the_Day)
+Review](https://wikiotics.org/user/l_miguez/Parts_of_the_Day)[](http://)
 
-[What Time Is It? Easy](http://)
+[Telling Time Review - Easy]()
