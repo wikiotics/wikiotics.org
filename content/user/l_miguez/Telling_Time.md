@@ -76,5 +76,4 @@ are the most common ways:
 
 .
 
-[New
-Link](https://wikiotics.org/user/l_miguez/Whaat%27s_The_Time%3F_Easy)
+[Practice](https://wikiotics.org/user/l_miguez/Whaat%27s_The_Time%3F_Easy)
