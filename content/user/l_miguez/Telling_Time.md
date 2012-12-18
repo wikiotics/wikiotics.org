@@ -75,3 +75,6 @@ are the most common ways:
   - Have you got the time?
 
 .
+
+[New
+Link](https://wikiotics.org/user/l_miguez/Whaat%27s_The_Time%3F_Easy)
