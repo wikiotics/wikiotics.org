@@ -76,4 +76,4 @@ are the most common ways:
 
 ## **Practice**
 
-## []()[New Link](http://)
+[](http://)[New Link](http://)
