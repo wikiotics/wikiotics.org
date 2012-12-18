@@ -76,6 +76,4 @@ are the most common ways:
 
 ## **Practice**
 
-## [Parts of the Day Practice]()
-
-## [](http://)
+## []()[New Link](http://)
