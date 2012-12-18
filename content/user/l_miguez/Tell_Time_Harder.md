@@ -1,7 +1,7 @@
 +++
 title = "Tell Time Harder"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8, 12,]
+dividers = [ 4, 8, 12, 16, 20, 24,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -251,6 +251,144 @@ original_url = "http://www.flickr.com/photos/34189125@N00/2572589905"
 title = "ok ok I'm up!"
 [[cards.sides]]
 text = "It's eight (minutes) to nine."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:3arrvBt4lgGjISKHA7HYYV1Z1i0HUJr2RlNmPeSAYM6Sk9uIlP4AKFC7NgVQyO5c"
+href = "urn:sha384:_tv212cT0uqFkdpMLZTW5TcO0mlfWYWcvUXEt-BBKyMBG7IcY_wSkj49shAgOOzy"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's four thirty-three."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:UA0UGJmEx4ynZW8dz8VabRXXMN9V9qnq5JeHf9Uj1lV9zZSKcXeKSRsp6bfk5nzD"
+href = "urn:sha384:kwvDwboJybX9CDiqfAbG8aLWLoe1qcehLoizotoiN1mJMV61SYX3dRcPNFJ0MwoL"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's eight fifty-five."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:RBz1c4mKxntrSfewUswDQE7eGsibzSN5H2BGCMqWlFyqhEaUcIAI1H_29YZwCsdr"
+href = "urn:sha384:1OLHkQyjiz5qLy3iJbzpsa5qIv13Qe5oVJuiEJJekvDqu6cttXml6IfUmmTTR6xX"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's twenty-five."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:JiroOsHu7MUa1vXG9yS7MfSBB9fA96jPYO6WFNHm1VNvYxJP-KX7cxPN9k_8MZRt"
+href = "urn:sha384:pHPV_GLOljUTQwEis8-cdWDIffhEHL-QusVMinyC2cM27_USuENi372Ue260yWKZ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's three thirty-five."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:oK1fTsQjHZ_UTr3YQcziJfLGFnHDYU34UUsIKNws5p-pfcQ62BG_1plN2vmfbrfI"
+href = "urn:sha384:kO75IdD5anC3BGMlxnH2_Nj06P1mqblDxMvwapjGumWDiThqT-qZiSot0Vn1NO0H"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Sarah Reid (.reid.)"
+author_url = "http://www.flickr.com/people/29406311@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/29406311@N04/4360329097"
+title = "365::39 - does anybody really know"
+[[cards.sides]]
+text = "It's ten fifty-eight."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:p3-xQp_UVeIPLZ9xh9q6lvnxGfEt7x2cSxa4u-ezDYMTk-306oLEPGsSK0WrZDtl"
+href = "urn:sha384:wWiQ5tfMEFOk_oh7aqjSp7tIHxjXQ28OPjxtLDl1nNCmEs9BuQzOEn1aoL6L_Hw3"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Martin Terber (Martin Terber)"
+author_url = "http://www.flickr.com/people/34321416@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/34321416@N00/2531599107"
+title = "Flip Clock Study 025a"
+[[cards.sides]]
+text = "It's eleven forty-nine."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:XFOt7BklEOIlIqT9HOPDNCZ6mnp389lHReNq-zVkTeFjPlPsUYLGgrBimRP3ox2X"
+href = "urn:sha384:XiTQyrKBUavsE-h8_zYMfN-PB9ZsdKv5LqXG-3dVn3pW4Ahp1_kxPPj5CCtKfyIJ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "David Lisbona (dlisbona)"
+author_url = "http://www.flickr.com/people/72356975@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72356975@N00/153479324"
+title = "Water fountain clock"
+[[cards.sides]]
+text = "It's seven forty-eight."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:hinw_JaleGx4QtSHK1lOBXoRJXtKVL7cohnC8yLTU03VyGoUXCcFFHL_wb3tacgm"
+href = "urn:sha384:bFsgF67VeVt3qkfWlzCu1ETmC2zwww0jJ9LpvGbumCyHiZInRzqPPUWol2VG6GAg"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's six fifteen."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[interactions]]
