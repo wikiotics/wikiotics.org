@@ -1,8 +1,6 @@
 +++
-title = "Telling Time"
+title = "**Telling Time in English**"
 +++
-
-**Telling Time in English**
 
 Knowing how to tell time correctly in English is important for everyday
 conversation. In English, there are two ways to tell time:
@@ -18,7 +16,7 @@ Or
 
 **It's twenty five after/past four**
 
-**Rules for telling time using the classical method**
+### **Rules for telling time using the classical method**
 
   - We use **o'clock** when it is exactly on the hour. **Example:** It's
     nine **o'clock**. (9:00)
@@ -65,7 +63,7 @@ evening. - \*Here we could also use '*at night*' if it's dark outside
 night. - \*In the summer, we would use '*in the evening*' because it's
 usually *not dark* at this time.
 
-**Asking the Time**
+### **Asking the Time**
 
 There are a few ways that you can ask people the time in English. Here
 are the most common ways:
