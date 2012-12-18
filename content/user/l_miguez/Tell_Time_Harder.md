@@ -1,7 +1,7 @@
 +++
 title = "Tell Time Harder"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -185,6 +185,72 @@ original_url = "http://www.flickr.com/photos/11399912@N00/10208060"
 title = "Squared Circle - clock"
 [[cards.sides]]
 text = "It's seventeen after eight."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:-hJtF1R_cYTuKaDQU03PTMoZkXFkcDy7d150APU-598Yms1ET8a3tDNROq-wzWZU"
+href = "urn:sha384:ymwhJLfMN8NCcmUrVX_VuUd1gmRY8ZgTXRd0hUud4OdXZ52a4-fs0CT7oh7ErGeP"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's three (minutes) to eight."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:YzdrzJ9IsSUECknQTA1JaOjS92f32e58S10QCAcjALQBE4AmwUeUEj3C4_Nn0Q3a"
+href = "urn:sha384:C4p1UG0egefpM5BBNECe4Hl8sbOn5v1hUt0eIzRdobznWvpkFrVEYsEZdpEvs043"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+text = "It's twenty-four to three."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:xNgDhEIthDbA8dwYSLrE-TTAplOqKt7103QwoaqsG94h-hgq63q2yPaZazRKUxyn"
+href = "urn:sha384:uvbPC3Vi9RRfNVYM2LeDjRqqZZR0eHjUxGHgWCWIduE0gaUiDQ66WfrwZpceHptZ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Joe Mazzola (JMazzolaa)"
+author_url = "http://www.flickr.com/people/35017512@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/35017512@N05/7017307963"
+title = "Rise and Shine"
+[[cards.sides]]
+text = "It's seventeen to seven."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:yPuWH_Jz8m49wDKLqA8SGv8hzga31z1gpr4tRdjanEzn_63kJC8VkFQAGQmrSkXj"
+href = "urn:sha384:PHOdMhWwW1RxzmoG_5lSgB9zPjQYwNE2bUdPjP9aXIMsjunymNgC6nfInOCfQy5m"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Chris Makarsky (Chris Makarsky)"
+author_url = "http://www.flickr.com/people/34189125@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/34189125@N00/2572589905"
+title = "ok ok I'm up!"
+[[cards.sides]]
+text = "It's eight (minutes) to nine."
 type = "phrase"
 
 [[interactions]]
