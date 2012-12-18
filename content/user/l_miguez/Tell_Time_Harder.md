@@ -91,7 +91,7 @@ type = "picture"
 author = "l_miguez@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-text = "It's twenty to ten."
+text = "It's twenty to eleven."
 type = "phrase"
 
 [[cards]]
