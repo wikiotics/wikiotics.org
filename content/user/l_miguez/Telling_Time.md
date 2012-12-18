@@ -76,11 +76,6 @@ are the most common ways:
 
 ## **Practice**
 
-## [Parts of the Day Review](http://)[](https://wikiotics.org/user/l_miguez/Whaat%27s_The_Time%3F_Easy)
+## [Parts of the Day Practice]()
 
-[What's the Time?
-Easy](https://wikiotics.org/user/l_miguez/Whaat%27s_The_Time%3F_EasyWh)
-
-[Listen and Match Part 1](http://)
-
-[What Time is It? Harder](http://)
+## [](http://)
