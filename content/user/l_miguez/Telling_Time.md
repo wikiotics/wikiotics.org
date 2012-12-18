@@ -72,8 +72,15 @@ are the most common ways:
   - What's the time?
   - Could you tell me the time?
   - Do you have the time?
-  - Have you got the time?
+  - Have you got the time?.
 
-.
+## **Practice**
 
-[Practice](https://wikiotics.org/user/l_miguez/Whaat%27s_The_Time%3F_Easy)
+## [Parts of the Day Review](http://)[](https://wikiotics.org/user/l_miguez/Whaat%27s_The_Time%3F_Easy)
+
+[What's the Time?
+Easy](https://wikiotics.org/user/l_miguez/Whaat%27s_The_Time%3F_EasyWh)
+
+[Listen and Match Part 1](http://)
+
+[What Time is It? Harder](http://)
