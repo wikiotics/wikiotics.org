@@ -107,7 +107,10 @@ text = "at night"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XU5XlNkhR-UCmVU8faj6V-Fq05S9dnq877v9izsZE9whn73XkZd4iDuEkLOtpY1z"
+href = "urn:sha384:ow0dirm2s7ZiuRN4U_ITN179D4mlHQOFKAqTb0UMk_tLTnVDg4VGjdjS_VWgz2dr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -128,7 +131,10 @@ text = "in the evening"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:H0dXDaNl8VnMw51DJ5r56SKRLuZkWsYrI_0MMAmZOFGHhx6ILswtwxgdGF7mGklZ"
+href = "urn:sha384:TcQJkLjIlHpelY_tgiJL5oEs3NH8mRVcIBcTFPnAxPo6kjazyAkcrqROzwaPHx5W"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -149,7 +155,10 @@ text = "in the morning"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cOXc10BShg2IHmYpZAKG9xsMqCnEvOotfmkebq9EUfo06k7HgMgF_LhpxyxhgcpM"
+href = "urn:sha384:iJebyf55AwNZEjt8I2ovfFPtkFWiLn00uSCbqV7gKd9lnlRM9iL2rszHBc84MTWl"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -170,7 +179,10 @@ text = "in the afternoon"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:eIlSpztaTtyyvE9gnZ1YRoKkx73U8kLmvn6fyCiIneidR1bjYnNhE5NI2lp6l0a7"
+href = "urn:sha384:zJUtmrOzDSDu9gQyqOQhS_KVXdEoYMWtw9vuX_lu89K-2D7MiEzGI3ouIJTrN3b0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
