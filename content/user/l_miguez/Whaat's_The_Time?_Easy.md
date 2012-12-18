@@ -544,7 +544,7 @@ type = "picture"
 author = "l_miguez@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-text = "It's a quarter after one."
+text = "It's a quarter past one."
 type = "phrase"
 
 [[interactions]]
