@@ -1,7 +1,7 @@
 +++
 title = "Number activity 1 easy"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -226,6 +226,173 @@ type = "phrase"
 [[cards.sides]]
 blob_href = "urn:sha384:44UPx_DAFakmnqRqEpqqD4aRxSJuSlNUVRYimyeWKZ-nOR8a2eM9-Px7gWbS79ZC"
 href = "urn:sha384:H7tvLiWWGe-7kntLckiKCW9jY3b3Zr8WJcWhyI1U62jdttYoNtw2jSdUdlbE9qVG"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards]]
+
+[[cards.sides]]
+text = "How many toys are there?"
+type = "phrase"
+
+[[cards.sides]]
+text = " Five"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:F6etUfMn-8yamxDe4qtUwZHXFzUFzxZFX75p3m7uZNBcJQyqZ5hda0beHkA-ckv3"
+href = "urn:sha384:dtLkOzVjOGE7cwvpT9fXUKGL_efufAwDBpHmxBlmCJHC7G3HOUrFNS3XoupkzfC5"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards]]
+
+[[cards.sides]]
+text = "How many pencils are there?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Six"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:160dxI1iDCUsN7M7KrqdAaI2mkw0uU0gSpZh2hvgXC4xUkeuqLFGs_SF-L1mk2Ck"
+href = "urn:sha384:Nq7ulUCS8HqSuNKh-iMXJBNiaEjBkndFk0gsoWN1S8h2T49p1rV9uM2ZIyAsG_wV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Dvortygirl)"
+author_url = "http://www.flickr.com/people/21093323@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/21093323@N02/2376598010"
+title = "Pencil tips"
+[[cards]]
+
+[[cards.sides]]
+text = "How many boxes are there?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Four"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Mufba8bupKPbCJVzGxTGuLGUNr6KI3lnnCRbQvxkd-lZmt4Cx3yqBEgHh7e82tzb"
+href = "urn:sha384:XVnYDa1eu_-S6ZSNf4brCYE_XoC2deQT35T-Lqh9iGC5p_Uy0Xtxaa6e_j0ythtl"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "l_miguez@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards]]
+
+[[cards.sides]]
+text = "How many buses are there?"
+type = "phrase"
+
+[[cards.sides]]
+text = "eight"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:1sB36MER0dTtQqgIPYIxQNSaWJIu9lrYgFxKIIgCLK5URBLdrlcDeHtEKbqqyB4m"
+href = "urn:sha384:gBxGAKi5gOcBLSm6T1xWJtIlT7_x_DzzosR45G4cZnrP_JxTVUvboJUfMc9eA_2-"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Moyan Brenn (Moyan_Brenn)"
+author_url = "http://www.flickr.com/people/28145073@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/28145073@N08/7171670995"
+title = "Flowers"
+[[cards]]
+
+[[cards.sides]]
+text = "How many girls are there?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Zero"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:74gutydxupw85qEtpJ2kXyK5cnjuMOxpeMRDArujBQup71iMRTO-1xwmVtpUuB33"
+href = "urn:sha384:NyHp5pFteB8YGWO9xMIngg77WqJ153kInC4ela_F8lnYYqQTzEzHO1hMTITrhtIY"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "James Emery (hoyasmeg)"
+author_url = "http://www.flickr.com/people/62126383@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/62126383@N00/511011540"
+title = "Boys in classroom_1093"
+[[cards]]
+
+[[cards.sides]]
+text = "How many elephants are there?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Two"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:iTwlIhM9saCyZJCtnGOuOjnjISIezNVWPAZ3Sa5F48Ncn4Qpxx7rYcXzvjS9ZnI9"
+href = "urn:sha384:3Ibsax5Bhedn30sA84bhK2ia2z0akcgvowMBwaRPpI9cO5JOtQoMxa0KEMIspxVV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jeremy Miles (BeautifulFreaks)"
+author_url = "http://www.flickr.com/people/12172123@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/12172123@N00/196289332"
+title = "Elephants being fed"
+[[cards]]
+
+[[cards.sides]]
+text = "How many pen are there?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Four"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:gcVXY4WXjz20jJn35tGQc36ROHmse0Wbve5GSNOtlXBchw9H30weC3K1I0NihSID"
+href = "urn:sha384:qrCd9F69WjthzZ3yJXk58ASlZBI9IzpWh0twcoM8fV-if9NMECMAqCf23HOmjKtA"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (24oranges.nl)"
+author_url = "http://www.flickr.com/people/30091649@N06/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/30091649@N06/6612824761"
+title = "Bananas (edited)"
+[[cards]]
+
+[[cards.sides]]
+text = "How many cakes are there?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Twelve"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:zobaX78q2R0BpcuqvCu5Oe0Xq87wLLlp4ylCB9DVj8lroGFbp3WWOqedgRVQ0dT8"
+href = "urn:sha384:bzJiWpfB98h2r2VMmKmQgFOG3S8MDQUfcOwOeA4xiXOpwlPkJPF0bAHzcd9UdH-J"
 mime_type = "image/jpeg"
 type = "picture"
 
