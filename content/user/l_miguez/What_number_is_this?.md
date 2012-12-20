@@ -1,7 +1,7 @@
 +++
 title = "What number is this?"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -506,6 +506,174 @@ type = "phrase"
 
 [[cards.sides]]
 text = "60"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = " Sixty-seven"
+type = "phrase"
+
+[[cards.sides]]
+text = "67"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Seventy"
+type = "phrase"
+
+[[cards.sides]]
+text = "70"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Seventy-eight"
+type = "phrase"
+
+[[cards.sides]]
+text = "78"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Eighty"
+type = "phrase"
+
+[[cards.sides]]
+text = "80"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = " Eighty-two"
+type = "phrase"
+
+[[cards.sides]]
+text = "82"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = " Ninety"
+type = "phrase"
+
+[[cards.sides]]
+text = "90"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = " Ninety-one"
+type = "phrase"
+
+[[cards.sides]]
+text = "91"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = " One hundred"
+type = "phrase"
+
+[[cards.sides]]
+text = "100"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = " One hundred and three"
+type = "phrase"
+
+[[cards.sides]]
+text = "103"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "One hundred and fifteen"
+type = "phrase"
+
+[[cards.sides]]
+text = "115"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = " Five hundred"
+type = "phrase"
+
+[[cards.sides]]
+text = " 500"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "One thousand"
+type = "phrase"
+
+[[cards.sides]]
+text = "1000"
 type = "phrase"
 
 [[interactions]]
