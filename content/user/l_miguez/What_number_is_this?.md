@@ -11,10 +11,124 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "1"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "2"
+type = "phrase"
+
+[[cards.sides]]
+text = "3"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "3"
+type = "phrase"
+
+[[cards.sides]]
+text = "2"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "4"
+type = "phrase"
+
+[[cards.sides]]
+text = "4"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "5"
+type = "phrase"
+
+[[cards.sides]]
+text = "5"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "6"
+type = "phrase"
+
+[[cards.sides]]
+text = "6"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "7"
+type = "phrase"
+
+[[cards.sides]]
+text = "7"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "8"
+type = "phrase"
+
+[[cards.sides]]
+text = "8"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "9"
+type = "phrase"
+
+[[cards.sides]]
+text = "9"
+type = "phrase"
 
 [[cards]]
 
@@ -26,7 +140,8 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "10"
+type = "phrase"
 
 [[cards]]
 
@@ -38,7 +153,8 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "11"
+type = "phrase"
 
 [[cards]]
 
@@ -50,103 +166,8 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "What number is this?"
+text = "12"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "What number is this?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "What number is this?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "What number is this?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "What number is this?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "What number is this?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "What number is this?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "What number is this?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
 
 [[cards]]
 
