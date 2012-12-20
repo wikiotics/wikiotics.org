@@ -11,7 +11,7 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "One"
 type = "phrase"
 
 [[cards.sides]]
@@ -25,21 +25,7 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-text = "2"
-type = "phrase"
-
-[[cards.sides]]
-text = "3"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "What number is this?"
-type = "phrase"
-
-[[cards.sides]]
-text = "3"
+text = "Two"
 type = "phrase"
 
 [[cards.sides]]
@@ -53,7 +39,21 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-text = "4"
+text = "Three"
+type = "phrase"
+
+[[cards.sides]]
+text = "3"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Four"
 type = "phrase"
 
 [[cards.sides]]
@@ -64,16 +64,16 @@ type = "phrase"
 
 [[cards.sides]]
 text = "What number is this?"
+type = "phrase"
+
+[[cards.sides]]
+text = "Five"
 type = "phrase"
 
 [[cards.sides]]
 text = "5"
 type = "phrase"
 
-[[cards.sides]]
-text = "5"
-type = "phrase"
-
 [[cards]]
 
 [[cards.sides]]
@@ -81,7 +81,7 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-text = "6"
+text = "Six"
 type = "phrase"
 
 [[cards.sides]]
@@ -95,7 +95,7 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-text = "7"
+text = "Seven"
 type = "phrase"
 
 [[cards.sides]]
@@ -109,7 +109,7 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-text = "8"
+text = "Eight"
 type = "phrase"
 
 [[cards.sides]]
@@ -123,7 +123,7 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-text = "9"
+text = "Nine"
 type = "phrase"
 
 [[cards.sides]]
@@ -137,7 +137,8 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = " Ten"
+type = "phrase"
 
 [[cards.sides]]
 text = "10"
@@ -150,7 +151,8 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Eleven"
+type = "phrase"
 
 [[cards.sides]]
 text = "11"
@@ -163,7 +165,8 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Twelve"
+type = "phrase"
 
 [[cards.sides]]
 text = "12"
@@ -176,10 +179,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Thirteen"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "13"
+type = "phrase"
 
 [[cards]]
 
@@ -188,10 +193,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Fourteen"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "14"
+type = "phrase"
 
 [[cards]]
 
@@ -200,10 +207,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Fifteen"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "15"
+type = "phrase"
 
 [[cards]]
 
@@ -212,10 +221,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Sixteen"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "16"
+type = "phrase"
 
 [[cards]]
 
@@ -224,10 +235,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Seventeen"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "17"
+type = "phrase"
 
 [[cards]]
 
@@ -236,10 +249,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Eighteen"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "18"
+type = "phrase"
 
 [[cards]]
 
@@ -248,10 +263,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Nineteen"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "19"
+type = "phrase"
 
 [[cards]]
 
@@ -260,10 +277,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Twenty"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "20"
+type = "phrase"
 
 [[cards]]
 
@@ -272,10 +291,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Twenty-one"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "21"
+type = "phrase"
 
 [[cards]]
 
@@ -284,10 +305,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Twenty-two"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "22"
+type = "phrase"
 
 [[cards]]
 
@@ -296,10 +319,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Twenty-three"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "23"
+type = "phrase"
 
 [[cards]]
 
@@ -308,10 +333,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Twenty-four"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "24"
+type = "phrase"
 
 [[cards]]
 
@@ -320,10 +347,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Twenty-five"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "25"
+type = "phrase"
 
 [[cards]]
 
@@ -332,10 +361,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Twenty-six"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "26"
+type = "phrase"
 
 [[cards]]
 
@@ -344,10 +375,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Twenty-seven"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "27"
+type = "phrase"
 
 [[cards]]
 
@@ -356,10 +389,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Twenty-eight"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "28"
+type = "phrase"
 
 [[cards]]
 
@@ -368,10 +403,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Twenty-nine"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "29"
+type = "phrase"
 
 [[cards]]
 
@@ -380,10 +417,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Thirty"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "30"
+type = "phrase"
 
 [[cards]]
 
@@ -392,10 +431,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Thirty-three"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "33"
+type = "phrase"
 
 [[cards]]
 
@@ -404,10 +445,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Forty"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "40"
+type = "phrase"
 
 [[cards]]
 
@@ -416,10 +459,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Forty-five"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "45"
+type = "phrase"
 
 [[cards]]
 
@@ -428,10 +473,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Fifty"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "50"
+type = "phrase"
 
 [[cards]]
 
@@ -440,10 +487,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Fifty-five"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "55"
+type = "phrase"
 
 [[cards]]
 
@@ -452,10 +501,12 @@ text = "What number is this?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Sixty"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "60"
+type = "phrase"
 
 [[interactions]]
 answer = 1
