@@ -34,64 +34,64 @@ Two important things to remember:
     comma is optional with four-digit numbers but required with
     five-digit numbers (25,000   30,000).
 
-.
+### .
 
- Ordinal Number Chart
+###  Ordinal Number Chart
 
 <table>
 <tbody>
 <tr class="odd">
 <td>1st - first</td>
 <td> 11th - eleventh </td>
-<td>21st - twenty-first     </td>
-<td>31st - thirty-first</td>
+<td>21st - twenty-first    </td>
+<td><p> - thirty-first</p></td>
 </tr>
 <tr class="even">
 <td>2nd -second</td>
 <td> 12th - twelfth </td>
-<td>22nd - twenty-second</td>
+<td>22nd -twenty-second</td>
 <td>40th - fortieth</td>
 </tr>
 <tr class="odd">
 <td>3rd - third</td>
 <td> 13th - thirteenth</td>
-<td> </td>
+<td>23rd - twenty-third</td>
 <td> </td>
 </tr>
 <tr class="even">
 <td>4th - fourth</td>
 <td> 14th - fourteenth</td>
-<td> </td>
+<td>24th - twenty-fourth</td>
 <td> </td>
 </tr>
 <tr class="odd">
 <td>5th - fifth</td>
 <td> 15th - fifteenth</td>
-<td> </td>
+<td>25th - twenty-fifth</td>
 <td> </td>
 </tr>
 <tr class="even">
 <td>6th - sixth</td>
 <td> 16th - sixteenth</td>
-<td> </td>
+<td>26th - twenty-sixth</td>
 <td> </td>
 </tr>
 <tr class="odd">
 <td>7th - seventh</td>
 <td> 17th - seventeenth</td>
-<td> </td>
+<td>27th - twenty-seventh</td>
 <td> </td>
 </tr>
 <tr class="even">
 <td>8th - eighth</td>
 <td> 18th - eighteenth</td>
-<td> </td>
+<td>28th - twenty-eighth</td>
 <td> </td>
 </tr>
 <tr class="odd">
 <td>9th - ninth</td>
 <td> 19th - nineteenth</td>
-<td> </td>
+<td>29 </td>
 <td> </td>
 </tr>
 <tr class="even">
