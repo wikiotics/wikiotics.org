@@ -41,16 +41,16 @@ Two important things to remember:
 <table>
 <tbody>
 <tr class="odd">
-<td> 1st - first</td>
+<td>1st - first</td>
 <td> 11th - eleventh </td>
-<td>21st - twenty-first    </td>
+<td>21st - twenty-first     </td>
 <td>31st - thirty-first</td>
 </tr>
 <tr class="even">
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> 2nd - second</td>
+<td>  12th - twelfth </td>
+<td>22nd - twenty-second</td>
+<td> 40th - fortieth</td>
 </tr>
 <tr class="odd">
 <td> </td>
