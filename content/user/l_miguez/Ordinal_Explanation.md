@@ -47,56 +47,56 @@ Two important things to remember:
 <td>31st - thirty-first</td>
 </tr>
 <tr class="even">
-<td> 2nd - second</td>
-<td>  12th - twelfth </td>
+<td>2nd -second</td>
+<td> 12th - twelfth </td>
 <td>22nd - twenty-second</td>
-<td> 40th - fortieth</td>
+<td>40th - fortieth</td>
 </tr>
 <tr class="odd">
-<td> </td>
-<td> </td>
+<td>3rd - third</td>
+<td> 13th - thirteenth</td>
 <td> </td>
 <td> </td>
 </tr>
 <tr class="even">
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-<tr class="even">
-<td> </td>
-<td> </td>
+<td>4th - fourth</td>
+<td> 14th - fourteenth</td>
 <td> </td>
 <td> </td>
 </tr>
 <tr class="odd">
-<td> </td>
-<td> </td>
+<td>5th - fifth</td>
+<td> 15th - fifteenth</td>
 <td> </td>
 <td> </td>
 </tr>
 <tr class="even">
-<td> </td>
-<td> </td>
+<td>6th - sixth</td>
+<td> 16th - sixteenth</td>
 <td> </td>
 <td> </td>
 </tr>
 <tr class="odd">
-<td> </td>
-<td> </td>
+<td>7th - seventh</td>
+<td> 17th - seventeenth</td>
 <td> </td>
 <td> </td>
 </tr>
 <tr class="even">
+<td>8th - eighth</td>
+<td> 18th - eighteenth</td>
 <td> </td>
 <td> </td>
+</tr>
+<tr class="odd">
+<td>9th - ninth</td>
+<td> 19th - nineteenth</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr class="even">
+<td>10 - tenth</td>
+<td> 20th - twentieth</td>
 <td> </td>
 <td> </td>
 </tr>
