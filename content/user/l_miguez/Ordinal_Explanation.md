@@ -17,7 +17,7 @@ For example: 
 
 **Dates**:
 
-  - Today is June the **fifth**. **
+  - Today is June the **fifth**.
   - On February **fourteenth**, we celebrate Valentine's Day.
 
 We normally write ordinal numbers in number form and not in letter form
