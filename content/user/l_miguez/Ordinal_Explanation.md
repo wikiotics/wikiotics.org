@@ -42,9 +42,9 @@ Two important things to remember:
 <tbody>
 <tr class="odd">
 <td> 1st - First</td>
-<td>  11th - Eleventh</td>
-<td>  </td>
-<td>21st - twenty-first</td>
+<td> 11th - Eleventh </td>
+<td>21st - twenty-first    </td>
+<td></td>
 </tr>
 <tr class="even">
 <td> </td>
