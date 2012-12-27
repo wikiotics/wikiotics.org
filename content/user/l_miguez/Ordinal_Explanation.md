@@ -24,9 +24,14 @@ We normally write ordinal numbers in number form and not in letter form
 when we talk about days of the month. We would generally write February
 fourteenth as **February 14<sup>th</sup>** .
 
-Any ordinal number that doesn't end in 'st, nd, rd' such as in "first",
-"second", or "third" 0r 1st, 2nd, 3rd, ends in **th** - fifth, 5th,
-eleventh, 11th... All ordinal numbers from **twenty-one** through
-**ninety-nine** should be separated by a **hyphen** (twenty-two,
-seventy-first). A comma is optional with four-digit numbers but required
-with five-digit numbers (25,000   30,000)
+Two important things to remember:
+
+  - Any ordinal number that doesn't end in 'st, nd, rd' such as in
+    "first", "second", or "third" or 1st, 2nd, 3rd, ends in **th** -
+    fifth, 5th, eleventh, 11th...etc.
+  - All ordinal numbers from **twenty-one** through **ninety-nine**
+    should be separated by a **hyphen** (twenty-two, seventy-first). A
+    comma is optional with four-digit numbers but required with
+    five-digit numbers (25,000   30,000).
+
+.
