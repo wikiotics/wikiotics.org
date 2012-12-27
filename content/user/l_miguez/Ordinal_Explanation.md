@@ -8,12 +8,17 @@ a series. They are also used for days the month.
 
 For example: 
 
-**Position**: On Monday, my **first** class is biology, my **second**
-class is gym.  OR  She ran fast and won the race. She was **first**. Her
-best friend doesn't run very fast and she came in **seventh**.
+**Position**:
 
-**Dates**: Today is June the **fifth**. OR On February **fourteenth**,
-we celebrate Valentine's Day.
+  - On Monday, my **first** class is biology, my **second** class is
+    gym.
+  - She ran fast and won the race. She was **first**.
+  - Her best friend doesn't run very fast and she came in **seventh**.
+
+**Dates**:
+
+  - Today is June the **fifth**. **
+  - On February **fourteenth**, we celebrate Valentine's Day.
 
 We normally write ordinal numbers in number form and not in letter form
 when we talk about days of the month. We would generally write February
