@@ -37,17 +37,17 @@ text = "it is October thirty-first."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:kOviKi4OnqLosglS1nwpEAhCx2gXqfe8aw4MDIIRptUcRsTHIHy6fYvFt7c6LQdj"
-href = "urn:sha384:0AulamKTEw3x32JQ_8TiQxbngyh4H_JFEU72dM3QWw7S7duBdD0dJWjv3nZDz2od"
+blob_href = "urn:sha384:Yo3jNYTttXHIUIpsyK5TUC7nyI2KSPiq-naYjxT6nveT9B2G0vXViiJRHAu5Ig8k"
+href = "urn:sha384:_VfkMZU3k51NOxqi8gwb1inHSKoxBNdLrvvSjuY7DLv1PI6rIxdJ5S7oUxZWhT3P"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (DeusXFlorida)"
-author_url = "http://www.flickr.com/people/8363028@N08/"
+author = "Ali West (aliwest44)"
+author_url = "http://www.flickr.com/people/71539256@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/8363028@N08/5124200341"
-title = "Halloween Pumpkins at the field."
+original_url = "http://www.flickr.com/photos/71539256@N00/1698473395"
+title = "Pumpkins"
 [[cards]]
 
 [[cards.sides]]
@@ -104,7 +104,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:jwSWWF3dbFGj9CtxXoK_0ftreoVzcvtdlC79sf02mEbV0LH7buYOL9WOAfU_j4zm"
-href = "urn:sha384:sS3ws8y4RnJqgvRlVjAziTsynZMGgWcg9vSkO5ae9TlUskN82W5-pg2l3Ppjj1d3"
+href = "urn:sha384:qVM_7wkbtd7LEGY4MvktgdsKnq00XnssXe7zqM-Dofez9Y_iH7Inns1MIwalPMrn"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -117,25 +117,25 @@ title = "Groundhog Didn't Come Out Until Afternoon"
 [[cards]]
 
 [[cards.sides]]
-text = "And he was happy because…"
+text = "Andy was happy because…"
 type = "phrase"
 
 [[cards.sides]]
-text = "his dog won  third place in the dog competition."
+text = "his dog won third place in the dog competition."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:ui5Q8sw3Bfw56Ot976VdKlEXzVvDOtgIElKfzZ6hPm3mgsMZA9OfL48j4-iFCkVd"
-href = "urn:sha384:RW6mnxeLhtZ5om2u_W96qJbIO4g2mkl-qcp34EcfS8WSCametR-hy8xQz7jpJR12"
+blob_href = "urn:sha384:l6MQ1R8dCIw69ym9Jujov95oLVKclRlNtqtJqzdMr2mxCTlch5fhbqT7T70kxzpj"
+href = "urn:sha384:W-X_3rcoO3Ie92lBtR-HDCkujYoRK7nQ_ASDwVmgrCJ_StzhqPKKCfLut2XmKx5T"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Chris_Parfitt)"
-author_url = "http://www.flickr.com/people/58447230@N00/"
+author = "USAG- Humphreys (USAG-Humphreys)"
+author_url = "http://www.flickr.com/people/31687107@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/58447230@N00/2686770214"
-title = "BGHR Dog Show"
+original_url = "http://www.flickr.com/photos/31687107@N07/7968961398"
+title = "The Dog Show - U.S. Army Garrison Humphreys, South Korea - 8 September 2012"
 [[cards]]
 
 [[cards.sides]]
