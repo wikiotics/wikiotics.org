@@ -104,7 +104,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:jwSWWF3dbFGj9CtxXoK_0ftreoVzcvtdlC79sf02mEbV0LH7buYOL9WOAfU_j4zm"
-href = "urn:sha384:sZsGyvZ77AdpYH0tTWmOr7JGBfDtf5s56RGhzzHhuZ1irSNfdxHArOckDwh6s7ke"
+href = "urn:sha384:PWlV-tyihUfGyQJZPJHQQ9cjQdt-_5_cPZ2-8UvsTn5RKvVbFQMY5eUBvz6vlyaG"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -126,7 +126,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:ui5Q8sw3Bfw56Ot976VdKlEXzVvDOtgIElKfzZ6hPm3mgsMZA9OfL48j4-iFCkVd"
-href = "urn:sha384:vh5nVttytUiayBUu2lraRIqZEx-KdVsMj26XqvgBaBuhSRBq4-Y9tRJoDyEjNPu_"
+href = "urn:sha384:39mUmC50hwi2J_J7BeCNt9l4kdrn8WM_iowM7K8wPaTaWoRkeQeTK4PgsFTAcsO_"
 mime_type = "image/jpeg"
 type = "picture"
 
