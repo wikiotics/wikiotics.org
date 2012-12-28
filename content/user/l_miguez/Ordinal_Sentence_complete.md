@@ -249,16 +249,25 @@ title = "Our Camp"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "In some places, people eat turkey... "
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "on the twenty-fourth of December."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:k-QxMOINCDapIFhp53qLFLR-y99H85tx7By0MhpWjm9hxw5Z2uvEQKQ06iCgNcwe"
+href = "urn:sha384:S71xM0C8NDeNIYcSSvRlDXZyQH18OipG9dFnSswujgYxD-oqkzYnOS8mbdUpMT2C"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Krista (goodiesfirst)"
+author_url = "http://www.flickr.com/people/49215102@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/49215102@N00/2135381953"
+title = "penang roast chicken"
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
