@@ -475,8 +475,17 @@ text = "It's  the eleventh of November."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IEbWSCg5_6qxtt2ljMjKUV2mkWlooO2tRYmcYbmi9NNtOlDao43aD6iGJq87Ebk4"
+href = "urn:sha384:STgoBW0O7TE2IHd7Dx_ol3p_XAQVSVTYnrzN4p5400i5babbgh4cfrcSFdKl5wwP"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Dean Michaud (DNAMichaud)"
+author_url = "http://www.flickr.com/people/74994764@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/74994764@N00/6366090633"
+title = "Rememberance Day 2011"
 [[cards.sides]]
 type = "empty"
 
@@ -487,8 +496,17 @@ text = "Each the twenty-first of September."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9XqRUuRCejzqlzZCWrnQCKOVm-ZBSx0zGeS6b-5OhcVCh-Xd1qIvxTJiAh8Bo5qL"
+href = "urn:sha384:1PvKLRPmIW_UeM3vETixXCGnRxqcRE6OUwZF6smJUb4nF-1dpcn08azi8UX_eTqz"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (StevenW.)"
+author_url = "http://www.flickr.com/people/32144013@N03/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/32144013@N03/4099895746"
+title = "Autumn at IU"
 [[cards.sides]]
 type = "empty"
 
