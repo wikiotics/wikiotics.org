@@ -28,36 +28,69 @@ title = "Classroom"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Today is Halloween..."
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "it is October thirty-first."
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kOviKi4OnqLosglS1nwpEAhCx2gXqfe8aw4MDIIRptUcRsTHIHy6fYvFt7c6LQdj"
+href = "urn:sha384:0AulamKTEw3x32JQ_8TiQxbngyh4H_JFEU72dM3QWw7S7duBdD0dJWjv3nZDz2od"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (DeusXFlorida)"
+author_url = "http://www.flickr.com/people/8363028@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8363028@N08/5124200341"
+title = "Halloween Pumpkins at the field."
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Anna is happy because... "
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "her cake won first prize."
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5HJ15rm3UngaRBB0woHuO4TxE-QWGDcoWowAP_oCowFmVoJymwTw8pVi5mpvviy4"
+href = "urn:sha384:DHY7a4pQjkq_GLUjLpJBVogBLYu1f1OgyRKwDrHt87MC8KLYr39qjwoQDS0glpbM"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Kimberly Vardeman (kimberlykv)"
+author_url = "http://www.flickr.com/people/87542849@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/87542849@N00/5061490178"
+title = "South Plains Fair 2010 Culinary Competition"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "It's March the twenty-first..."
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "it's the first day of spring. "
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lvOw9FkaWiAyt71fwUKFzBnk-moQ5vJIlyL1fXRLt0ml9B-gVXmwJTZcD5ZDP7p_"
+href = "urn:sha384:-FrZ_O4nr2J6bbLnBuY8kEea5Y8Jc7JqOdaTtcvS2Yu4azS6wjeF9tXC3NDorWOq"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Rachel Kramer (rkramer62)"
+author_url = "http://www.flickr.com/people/26503922@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/26503922@N08/5684419424"
+title = "Spring fling"
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
