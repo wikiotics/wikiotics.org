@@ -1,7 +1,7 @@
 +++
 title = "Ordinal Sentence complete"
 contributors = [ "l_miguez",]
-dividers = [ 4,]
+dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -180,6 +180,85 @@ author_url = "http://www.flickr.com/people/32252151@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/32252151@N00/4387033489"
 title = "JCC_Swim_Meet_8_by_Kicks02"
+[[cards]]
+
+[[cards.sides]]
+text = "My grandparents have been married for twenty-five years…"
+type = "phrase"
+
+[[cards.sides]]
+text = "it's their twenty-fifth wedding anniversary today."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:vM6NpYfyT7rhOFT_v4S3NfzESZ96muzQb4HZs52OGqONcCcVX0d_IorPCHdQgmhQ"
+href = "urn:sha384:CFD-Tgnqvp_aCOma7ZhvW-Bw1TZE7rXNwu3TVOPM-2QXkdb_iD__IjViaExxj-jR"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Paul Schultz (Paul Schultz)"
+author_url = "http://www.flickr.com/people/26011645@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/26011645@N00/1190624923"
+title = "Cutting the Cake"
+[[cards]]
+
+[[cards.sides]]
+text = "It's June the twenty-eighth…"
+type = "phrase"
+
+[[cards.sides]]
+text = "it's the first day of summer holidays."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:vjg2Z52ekrisNrOAl8KwzlHr_rHfiYqdQ4LrqisIP5tp9pzzzTwXuuJOTJzITGf8"
+href = "urn:sha384:DfBbkyFUqDAm_M7UZqItzStVSleOdvResQymnCk2ZLqZPBH0A5OqF3LmZvjtVHzz"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Evil Erin)"
+author_url = "http://www.flickr.com/people/29333334@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/29333334@N06/4776231117"
+title = "Summer family jump"
+[[cards]]
+
+[[cards.sides]]
+text = "They love camping..."
+type = "phrase"
+
+[[cards.sides]]
+text = "this is the third time they've been to the mountains."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:pglOzElTNK9Z97qA9xW2Y8MIDtsxHba0gRAUPP1jWpEFctH9Ju6J1y5bpMlN1bbW"
+href = "urn:sha384:fN-Q11dXgGNfnDVoGwrzrYgG1kBaoyCFKy7R8a4R3vFour08uSW3KMXSkhT5aayn"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Hamed Saber (Hamed Saber)"
+author_url = "http://www.flickr.com/people/44124425616@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/44124425616@N01/160893799"
+title = "Our Camp"
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
