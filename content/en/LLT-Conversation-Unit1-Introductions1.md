@@ -111,7 +111,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\"Nice to met you too Pam.\""
+text = "\"Nice to met you too.\""
 type = "phrase"
 
 [[cards.sides]]
@@ -444,6 +444,604 @@ type = "empty"
 
 [[cards.sides]]
 text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pam replies"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "'My name is Pam. Nice to meet you Ed.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The first part of this we just saw with Ed. Instead of:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"My name is Ed\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We get:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"My name is Pam\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Since Pam has already heard Ed's name she does not add \"what is yours?\". Instead she acknowledges Ed's introduction and says she is happy to meet him with this phrase:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you Ed.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you Ed.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The simpliest form of this expression drops other person's name:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Adding in the other person's name is a nice way of personalizing the exchange and showing that you were paying attention during the exchange but if you ever get confused or are introduced to many people at once you can always use this simple version."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Finally, let's listen to the last line of the exchange, Ed's reply."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The new word here, \"too\" is used to indicate agreement, showing that Ed is also happy to meet Pam."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ed could also have said:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you Pam.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "But agreeing with Pam sounds less akward than repeating the same sentiment back to her."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "If you want to add Pam's name to that to be further polite you can put it after the \"too\", like this:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you too Pam.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " \"Nice to meet you too Pam.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "If that gets confusing, you can always fall back to the simple form:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen to the whole exchange one more time before we end the lesson. See if you understand each part of the exchange."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"My name is Ed, what is yours?\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "'My name is Pam. Nice to meet you Ed.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to met you too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Take a moment and practice by answering the following questions to yourself using your own name."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "How would you greet someone?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "How would you tell someone your name?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"My name is Pam.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What if you also want to know their name, how would you introduce yourself?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"My name is Ed, what is yours?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What do you say when you have just met someone and exchanged names?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "\"Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "If you know those basics, you are ready to start geeting people in English. Congradulations! If you want more practice, take a short break and listen to this lesson again later today."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is the end of the first lesson in the Wikiotics conversational English series. For more lessons and resources, visit us at wikiotics.org. "
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
 type = "phrase"
 
 [[interactions]]
