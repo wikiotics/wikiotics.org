@@ -1015,7 +1015,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "\"Pam"
+text = "Pam"
 type = "phrase"
 
 [[cards]]
