@@ -139,29 +139,47 @@ title = "The Dog Show - U.S. Army Garrison Humphreys, South Korea - 8 September 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = " On Monday, it will be…"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mary's sixteenth birthday."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:PRoog8jQN3zeAM8ovdm4LFUQSVYHDQ-gemxEHrp7EDjDL13UiHAXm52G5PmeBrlA"
+href = "urn:sha384:pqQcN9GfgF1RzwV-mU4GRerP0iTUnZQwku_M-XQW1Vw5YTmA40UeN3oWrEQ8wmDl"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Victoria Reay (Victoria Reay)"
+author_url = "http://www.flickr.com/people/68534378@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/68534378@N00/2913007133"
+title = "Birthday Cake"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Tom was unhappy because..."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "he was fourth in the swimming competition."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:w9vrZ5iK7T1lfh3oOsJvWnnVLNT0fGdz-PUPVPlDVy0Q_O4HN8coM2OdlvtwlepM"
+href = "urn:sha384:5KWRdJZcA7QldPMM8jJxOnujOy3VSht9a_w0n13_R6CpfOsb0qcByyVp-gwRCilW"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (Greg L. photos)"
+author_url = "http://www.flickr.com/people/32252151@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/32252151@N00/4387033489"
+title = "JCC_Swim_Meet_8_by_Kicks02"
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
