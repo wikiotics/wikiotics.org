@@ -1,6 +1,7 @@
 +++
 title = "Ordinal Sentence complete"
 contributors = [ "l_miguez",]
+dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -91,6 +92,76 @@ author_url = "http://www.flickr.com/people/26503922@N08/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/26503922@N08/5684419424"
 title = "Spring fling"
+[[cards]]
+
+[[cards.sides]]
+text = "February the second is"
+type = "phrase"
+
+[[cards.sides]]
+text = "Groundhog Day in the US and Canada."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:jwSWWF3dbFGj9CtxXoK_0ftreoVzcvtdlC79sf02mEbV0LH7buYOL9WOAfU_j4zm"
+href = "urn:sha384:ceh6WG4MibaPwZxPvfBmeuX30AON_emIJICEoU7aKIu3tFr_oZaWkp-dAGXgI3sA"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (garlandcannon (on hiatus))"
+author_url = "http://www.flickr.com/people/12596956@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/12596956@N06/6809151205"
+title = "Groundhog Didn't Come Out Until Afternoon"
+[[cards]]
+
+[[cards.sides]]
+text = "And he was happy because…"
+type = "phrase"
+
+[[cards.sides]]
+text = "his dog won  third place in the dog competition."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:ui5Q8sw3Bfw56Ot976VdKlEXzVvDOtgIElKfzZ6hPm3mgsMZA9OfL48j4-iFCkVd"
+href = "urn:sha384:GDrTU5BB61dLqc5o8_Mycv_IA9L_cVXgdO5daSrDOwwei9qW6ZpyZsPGQVvzKydz"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Chris_Parfitt)"
+author_url = "http://www.flickr.com/people/58447230@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/58447230@N00/2686770214"
+title = "BGHR Dog Show"
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
