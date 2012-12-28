@@ -22,7 +22,8 @@ to learn is up to you.
 
 ### A) Introductions
 
-1.  Giving / asking name
+1.  [Giving / asking
+    name](http://wikiotics.org/en/LLT-Conversation-Unit1-Introductions1)
 2.  Gendered pronouns and third person
 3.  Formal / professional
 
