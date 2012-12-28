@@ -23,12 +23,12 @@ to learn is up to you.
 ### A) Introductions
 
 1.  Giving / asking name
-2.  Gendered and third person
+2.  Gendered pronouns and third person
 3.  Formal / professional
 
 ### B) Talking about language studies
 
-1.  Are you a lang student?
+1.  Are you a language student?
 2.  How long have you studied?
 3.  Where do you study? (Study at a school?)
 4.  Do you like it? (Why?)
