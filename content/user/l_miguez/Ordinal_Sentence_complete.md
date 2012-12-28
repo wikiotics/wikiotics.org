@@ -10,21 +10,21 @@ text = "Jerry is excited because... "
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:GtXCtr1q3DyTA6dEtuba-nNbkICrDlCS3ToZNkQJiJ6_Q6MyBNEJmq3261VdPKlR"
-href = "urn:sha384:Utii-uCpBLw9cbtZc8Bdtcr4XeJGwRtcVuDhlRxcFSjqXYsku-MTLrPfhN0P78Dn"
+text = "it is his first day at school."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:MekcCcpr3WqL_nkbcP2HYQ9wPJd6rIT0xTp3kjK-M5rthYxhu1QiSaGRKsEfrbQW"
+href = "urn:sha384:1RZPA094WcHKaOSea-a1yldFgXPySHlrc48qAtFhR4nSdK8By1M6e-mPuq38kGj7"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Chris Hearn (AberCJ)"
-author_url = "http://www.flickr.com/people/74341132@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/74341132@N00/4589629186"
-title = "The School Library and Learning Resource Centre - Ryeish Green School"
-[[cards.sides]]
-text = "his first day at school."
-type = "phrase"
-
+author = "Phelyan Sanjoin (hpeguk)"
+author_url = "http://www.flickr.com/people/30098304@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/30098304@N00/2281095105"
+title = "Classroom"
 [[cards]]
 
 [[cards.sides]]
