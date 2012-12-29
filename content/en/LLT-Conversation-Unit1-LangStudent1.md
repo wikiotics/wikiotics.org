@@ -21,7 +21,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "In this second lesson we will cover talking about being a language student and what other languages we speak."
+text = "In this lesson we will cover talking about being a language student and what other languages we speak."
 type = "phrase"
 
 [[cards.sides]]
