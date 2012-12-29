@@ -7,7 +7,7 @@ target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "Welcome to the Wikiotics conversational English lessons. These lessons are freely available as part of the last Language Textbook collection of English instruction materials. "
+text = "Welcome to the Wikiotics conversational English lessons."
 type = "phrase"
 
 [[cards.sides]]
@@ -63,7 +63,10 @@ text = "\"Hello\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fgn1oLbNqM5azEGK1bjleVjN3D3f3NJEvc63SYSdXs8z3Ru6IQW0JFNjzqvmHKKM"
+href = "urn:sha384:BbLmSdnQW_F_tPbCNWHmPim8ghY0fEnzCWSrhsk6bAMFu6v6hQHlXze5AdYONMca"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -89,7 +92,10 @@ text = "\"My name is Ed, what is yours?\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iwyl-pBU_VL3hL0gzNlGOPGQQz-ElmNQ2puzhZGsA-Z1iQlLXgbexRLVEJ0XGG3F"
+href = "urn:sha384:5WMkAJipLf8dKYpe-DZSHJD5MeQNSo0-9gYIMUrCmjhCSOUxBf4Sj1nR6GniyQTP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -115,7 +121,10 @@ text = "\"Nice to met you too.\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TnzHpr638d3UbTzzZEUUkOzLCXYlHPpQB8uDPQriXAkLVV0q5WYBbU1M3R02Mfyv"
+href = "urn:sha384:tnECDrsR8_hGxBBIPPnj_iUj0zIvgylTJ5CNNrUWouQ0CkJ5W5_Pa239B-sZ9JKg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -167,7 +176,10 @@ text = "\"Hello\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fgn1oLbNqM5azEGK1bjleVjN3D3f3NJEvc63SYSdXs8z3Ru6IQW0JFNjzqvmHKKM"
+href = "urn:sha384:BbLmSdnQW_F_tPbCNWHmPim8ghY0fEnzCWSrhsk6bAMFu6v6hQHlXze5AdYONMca"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -180,7 +192,10 @@ text = "\"Hello\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fgn1oLbNqM5azEGK1bjleVjN3D3f3NJEvc63SYSdXs8z3Ru6IQW0JFNjzqvmHKKM"
+href = "urn:sha384:BbLmSdnQW_F_tPbCNWHmPim8ghY0fEnzCWSrhsk6bAMFu6v6hQHlXze5AdYONMca"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -245,7 +260,10 @@ text = "\"My name is Ed, what is yours?\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iwyl-pBU_VL3hL0gzNlGOPGQQz-ElmNQ2puzhZGsA-Z1iQlLXgbexRLVEJ0XGG3F"
+href = "urn:sha384:5WMkAJipLf8dKYpe-DZSHJD5MeQNSo0-9gYIMUrCmjhCSOUxBf4Sj1nR6GniyQTP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -258,7 +276,10 @@ text = "\"My name is Ed, what is yours?\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iwyl-pBU_VL3hL0gzNlGOPGQQz-ElmNQ2puzhZGsA-Z1iQlLXgbexRLVEJ0XGG3F"
+href = "urn:sha384:5WMkAJipLf8dKYpe-DZSHJD5MeQNSo0-9gYIMUrCmjhCSOUxBf4Sj1nR6GniyQTP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -323,7 +344,10 @@ text = "\"My name is Ed\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yOshcBtTUm4vHHr7EVC1wQDC0gah1wx8Yfvf5MPP41AR3RV0KRp8G6naQQrHBXNj"
+href = "urn:sha384:7I5XIPsBrjQN4kdGPYcUMRgOS-Ht_4wpZ3H0RnEm8FXMZ9x4CpbPggJWD8wLhCbk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -349,7 +373,10 @@ text = "\"My name is Ed\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yOshcBtTUm4vHHr7EVC1wQDC0gah1wx8Yfvf5MPP41AR3RV0KRp8G6naQQrHBXNj"
+href = "urn:sha384:7I5XIPsBrjQN4kdGPYcUMRgOS-Ht_4wpZ3H0RnEm8FXMZ9x4CpbPggJWD8wLhCbk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -401,7 +428,10 @@ text = "\"what is yours?\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EiYmAxoa9OIX0_x1s9AG5sH0cfNuVpzpveKJCgL4L0Fr9bvKge6K026ENH7sRrI7"
+href = "urn:sha384:eIfGXSrOJzeMSZMBUnvY6z-jQIHlxfeGeNrgJ08T3viZEI21RlI415GCFBVD5VMh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -414,7 +444,10 @@ text = "\"what is yours\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EiYmAxoa9OIX0_x1s9AG5sH0cfNuVpzpveKJCgL4L0Fr9bvKge6K026ENH7sRrI7"
+href = "urn:sha384:eIfGXSrOJzeMSZMBUnvY6z-jQIHlxfeGeNrgJ08T3viZEI21RlI415GCFBVD5VMh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -440,7 +473,10 @@ text = "\"My name is Ed, what is yours?\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iwyl-pBU_VL3hL0gzNlGOPGQQz-ElmNQ2puzhZGsA-Z1iQlLXgbexRLVEJ0XGG3F"
+href = "urn:sha384:5WMkAJipLf8dKYpe-DZSHJD5MeQNSo0-9gYIMUrCmjhCSOUxBf4Sj1nR6GniyQTP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -492,7 +528,10 @@ text = "\"My name is Ed\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xLGf4KGpYY4brgmK7qZawbCLYH8JGKoE2vmWXvGVsfDMI6f3txj4qaDOlYpXgV8R"
+href = "urn:sha384:j3r4b4DcSvbkssHF1WWQWoXbncFO6-j4LAmz_SbKBJILwZSPQzbh9Ftu_vxjr0Kx"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -566,6 +605,32 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "Now you try."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "The simpliest form of this expression drops other person's name:"
 type = "phrase"
 
@@ -622,7 +687,10 @@ text = "\"Nice to meet you too.\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TnzHpr638d3UbTzzZEUUkOzLCXYlHPpQB8uDPQriXAkLVV0q5WYBbU1M3R02Mfyv"
+href = "urn:sha384:tnECDrsR8_hGxBBIPPnj_iUj0zIvgylTJ5CNNrUWouQ0CkJ5W5_Pa239B-sZ9JKg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -635,10 +703,39 @@ text = "\"Nice to meet you too.\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TnzHpr638d3UbTzzZEUUkOzLCXYlHPpQB8uDPQriXAkLVV0q5WYBbU1M3R02Mfyv"
+href = "urn:sha384:tnECDrsR8_hGxBBIPPnj_iUj0zIvgylTJ5CNNrUWouQ0CkJ5W5_Pa239B-sZ9JKg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Now you try."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -674,7 +771,10 @@ text = "\"Nice to meet you Pam.\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6JpByyrtwstVR9kYPpy44W4uW3K_5-RQtG3jlrCviV5chy_H2kXsf1bZjfSZOcRK"
+href = "urn:sha384:ib1hHcn49ySKYfquyI63wkXBSnbiKPC4DKG_Ob86MKxNi2hoAa6fZZzQmpyzmo2R"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -713,7 +813,10 @@ text = "\"Nice to meet you too Pam.\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:noyeeOBZlsN-e-Nmw_NRvKqmgq5y1q-gXnVduP1qx4KOZVyKvJpWSZ--wQMrjNPB"
+href = "urn:sha384:vcMdIYsMRHVqAVBkBUYhZ1nMQlgCnRll-3adG53LHBAzDAwos6r4x8qmTNTu_d_b"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -722,11 +825,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = " \"Nice to meet you too Pam.\""
+text = "\"Nice to meet you too Pam.\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:noyeeOBZlsN-e-Nmw_NRvKqmgq5y1q-gXnVduP1qx4KOZVyKvJpWSZ--wQMrjNPB"
+href = "urn:sha384:vcMdIYsMRHVqAVBkBUYhZ1nMQlgCnRll-3adG53LHBAzDAwos6r4x8qmTNTu_d_b"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -752,7 +858,10 @@ text = "\"Nice to meet you.\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:T45B98aazYvV5FrDNQ3lQbc_KgkJcjZ4heYUL9U885fb8vIJJmta3Bf2aPBK_kUj"
+href = "urn:sha384:D5EGqrAOSI7g0g_XpzmrMTshN1L-9QOrKrTHpxNEiOxxEXqTmkomp6c2CFkNBlFd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -791,7 +900,10 @@ text = "\"Hello.\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fgn1oLbNqM5azEGK1bjleVjN3D3f3NJEvc63SYSdXs8z3Ru6IQW0JFNjzqvmHKKM"
+href = "urn:sha384:BbLmSdnQW_F_tPbCNWHmPim8ghY0fEnzCWSrhsk6bAMFu6v6hQHlXze5AdYONMca"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -817,7 +929,10 @@ text = "\"My name is Ed, what is yours?\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iwyl-pBU_VL3hL0gzNlGOPGQQz-ElmNQ2puzhZGsA-Z1iQlLXgbexRLVEJ0XGG3F"
+href = "urn:sha384:5WMkAJipLf8dKYpe-DZSHJD5MeQNSo0-9gYIMUrCmjhCSOUxBf4Sj1nR6GniyQTP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -843,7 +958,10 @@ text = "\"Nice to met you too.\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TnzHpr638d3UbTzzZEUUkOzLCXYlHPpQB8uDPQriXAkLVV0q5WYBbU1M3R02Mfyv"
+href = "urn:sha384:tnECDrsR8_hGxBBIPPnj_iUj0zIvgylTJ5CNNrUWouQ0CkJ5W5_Pa239B-sZ9JKg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -895,7 +1013,10 @@ text = "\"Hello.\""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fgn1oLbNqM5azEGK1bjleVjN3D3f3NJEvc63SYSdXs8z3Ru6IQW0JFNjzqvmHKKM"
+href = "urn:sha384:BbLmSdnQW_F_tPbCNWHmPim8ghY0fEnzCWSrhsk6bAMFu6v6hQHlXze5AdYONMca"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
@@ -973,7 +1094,10 @@ text = "\"My name is Ed, what is yours?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iwyl-pBU_VL3hL0gzNlGOPGQQz-ElmNQ2puzhZGsA-Z1iQlLXgbexRLVEJ0XGG3F"
+href = "urn:sha384:5WMkAJipLf8dKYpe-DZSHJD5MeQNSo0-9gYIMUrCmjhCSOUxBf4Sj1nR6GniyQTP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Ed"
