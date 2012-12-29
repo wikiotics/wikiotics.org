@@ -104,7 +104,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "'My name is Pam. Nice to meet you Ed.\""
+text = "\"My name is Pam. Nice to meet you Ed.\""
 type = "phrase"
 
 [[cards.sides]]
