@@ -14,9 +14,9 @@ The lessons below are organized around four main topics. The lessons
 within each topic should be listened to in order but you can move
 between topics however you wish. So if you listen to the first two
 lessons in "Talking about language studies" and want a change of pace,
-you can move to the first lesson in "Introducing yourself". You could
-even start by listening to the first lesson on each topic. What you want
-to learn is up to you.
+you can move to the first lesson in "Introducins". You could even start
+by listening to the first lesson on each topic. What you want to learn
+is up to you.
 
 ## Topics
 
@@ -29,7 +29,7 @@ to learn is up to you.
 
 ### B) Talking about language studies
 
-1.  Are you a language student?
+1.  [Are you a language student?]()
 2.  How long have you studied?
 3.  Where do you study? (Study at a school?)
 4.  Do you like it? (Why?)
