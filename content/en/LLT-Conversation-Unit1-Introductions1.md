@@ -221,7 +221,10 @@ text = "<pause>"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YXFcMGj6eYEWhTyCM4iA9oGdPxcOlg2L6R9ucMT_QjYO65c7usDg_Lgkb256U1ZO"
+href = "urn:sha384:UvgDtMpKeljNltyj-O2LjDFlocVqxM829yo_FTF-mQxrySh6P4TqCoJq1a8T-UaQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -305,7 +308,10 @@ text = "<pause>"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YXFcMGj6eYEWhTyCM4iA9oGdPxcOlg2L6R9ucMT_QjYO65c7usDg_Lgkb256U1ZO"
+href = "urn:sha384:UvgDtMpKeljNltyj-O2LjDFlocVqxM829yo_FTF-mQxrySh6P4TqCoJq1a8T-UaQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -402,7 +408,10 @@ text = "<pause>"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YXFcMGj6eYEWhTyCM4iA9oGdPxcOlg2L6R9ucMT_QjYO65c7usDg_Lgkb256U1ZO"
+href = "urn:sha384:UvgDtMpKeljNltyj-O2LjDFlocVqxM829yo_FTF-mQxrySh6P4TqCoJq1a8T-UaQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -622,7 +631,10 @@ text = "<pause>"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YXFcMGj6eYEWhTyCM4iA9oGdPxcOlg2L6R9ucMT_QjYO65c7usDg_Lgkb256U1ZO"
+href = "urn:sha384:UvgDtMpKeljNltyj-O2LjDFlocVqxM829yo_FTF-mQxrySh6P4TqCoJq1a8T-UaQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -732,7 +744,10 @@ text = "<pause>"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YXFcMGj6eYEWhTyCM4iA9oGdPxcOlg2L6R9ucMT_QjYO65c7usDg_Lgkb256U1ZO"
+href = "urn:sha384:UvgDtMpKeljNltyj-O2LjDFlocVqxM829yo_FTF-mQxrySh6P4TqCoJq1a8T-UaQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -1000,7 +1015,10 @@ text = "<pause>"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YXFcMGj6eYEWhTyCM4iA9oGdPxcOlg2L6R9ucMT_QjYO65c7usDg_Lgkb256U1ZO"
+href = "urn:sha384:UvgDtMpKeljNltyj-O2LjDFlocVqxM829yo_FTF-mQxrySh6P4TqCoJq1a8T-UaQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -1042,7 +1060,10 @@ text = "<pause>"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YXFcMGj6eYEWhTyCM4iA9oGdPxcOlg2L6R9ucMT_QjYO65c7usDg_Lgkb256U1ZO"
+href = "urn:sha384:UvgDtMpKeljNltyj-O2LjDFlocVqxM829yo_FTF-mQxrySh6P4TqCoJq1a8T-UaQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -1081,7 +1102,10 @@ text = "<pause>"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YXFcMGj6eYEWhTyCM4iA9oGdPxcOlg2L6R9ucMT_QjYO65c7usDg_Lgkb256U1ZO"
+href = "urn:sha384:UvgDtMpKeljNltyj-O2LjDFlocVqxM829yo_FTF-mQxrySh6P4TqCoJq1a8T-UaQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -1123,7 +1147,10 @@ text = "<pause>"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YXFcMGj6eYEWhTyCM4iA9oGdPxcOlg2L6R9ucMT_QjYO65c7usDg_Lgkb256U1ZO"
+href = "urn:sha384:UvgDtMpKeljNltyj-O2LjDFlocVqxM829yo_FTF-mQxrySh6P4TqCoJq1a8T-UaQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
