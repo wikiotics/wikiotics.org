@@ -1,7 +1,7 @@
 +++
 title = "Numbers listening easy"
 contributors = [ "l_miguez",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -451,7 +451,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "One hundred twenty nine"
+text = "One hundred and twenty nine"
 type = "phrase"
 
 [[cards.sides]]
@@ -475,7 +475,55 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Eleven hundred"
+text = "Seven hundred and twenty one"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "One thousand and one"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "One thousand and forty one"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ten thousand and forty"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Forty thousand and four."
 type = "phrase"
 
 [[cards.sides]]
