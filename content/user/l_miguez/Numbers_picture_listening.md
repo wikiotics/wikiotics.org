@@ -319,6 +319,27 @@ title = "Thanks for Candy!"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "I can see eighteen books."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:ooFpGAKlXGHsWs5_h5sr978jkA0TkeKS6sh407QTND-yeV9VWsilOUIMGRl2zyDj"
+href = "urn:sha384:tMDTI5rp6L8b1kcQFCs6K-Oj-8n9k-zvAW86JWfv0KwgGZ1pCE78zD1bAbiwwF1m"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Seokwon Yang (seo_gun)"
+author_url = "http://www.flickr.com/people/80565685@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/80565685@N00/3186540497"
+title = "book shelf"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
