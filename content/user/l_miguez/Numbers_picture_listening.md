@@ -1,6 +1,7 @@
 +++
 title = "Numbers picture listening"
 contributors = [ "l_miguez",]
+dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -84,6 +85,237 @@ author_url = "http://www.flickr.com/people/39415781@N06/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/39415781@N06/4691883504"
 title = "London Zoo - Animal Adventure - Donkeys"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "There are two trucks."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:TsSW6H44gffB-oS6g-4rmTCFUuKU_wJm2DD4FjM-c4BHBoFb4hFy1sSZlEe4dGzB"
+href = "urn:sha384:jvtwpyw--t4SOdiKrqjWbX1I60U1ZmNaniswHT_99SQh7OSYJDsPM5N1PM6xRbtv"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Martin Cathrae (Martin Cathrae)"
+author_url = "http://www.flickr.com/people/34067077@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/34067077@N00/85707606"
+title = "Tims Truck Parking"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "There are five cupcakes."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:g_TFK8uD_5SZheQjtyzUmtypw1WLwN6YRwBNf6ie9dT0pskDeVhYIdAHOfgQiD9i"
+href = "urn:sha384:U3a_2uXV7Io3C5QwiOh-4wF07Pgsdwt06RZGH7GdTc0jjPSbBMEbdMiAIpZ06fKX"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Ralph Daily (ralph and jenny)"
+author_url = "http://www.flickr.com/people/92269745@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/92269745@N00/6772905183"
+title = "Cupcakes"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I can see six green apples."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:uAies_dA5R9iDMDn2Z8CruE9iuy366JPyC59ulQruTvLLkVX7-1XevV0yQYEGZZg"
+href = "urn:sha384:JJuqzY2yHo_VivC5mcxwvbROZ-plCN6ktB7n9fChs7PWJQMpfTzpObzUGr_Ez6R0"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (DeusXFlorida)"
+author_url = "http://www.flickr.com/people/8363028@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8363028@N08/2987099837"
+title = "Apples"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I can see seven balloons."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:mcsr0g4DTCXmhVZG-TmqQsVG9c4DzKPCoirLOLK_nRNDSyXrSqWAXaKN2i7uyyGC"
+href = "urn:sha384:3CkEed8l0VpYKgPtwzqe72-ERqp8UvcvKPXRNCac8EE7KFV0ieCgua4dDRPNhzOW"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Fiona Shields (f_shields)"
+author_url = "http://www.flickr.com/people/9295970@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/9295970@N08/4489792683"
+title = "Balloons"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I can see eight windows."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:zp3gGnABsj29vp0xd4YEoGE29NSF5nmlhLSe4oLNNQ0a-dBbXJcHnjxYZNlDx6rl"
+href = "urn:sha384:MWD_r-JwFSzDheCDTTCxUdyYf2iLQFJnCF5nt3LQLZ8VoTOaUACIF2crS7xEFQoH"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Thomas Depenbusch)"
+author_url = "http://www.flickr.com/people/8324633@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8324633@N03/5808536344"
+title = "Test Jupiter 8  2/50mm lens @ Sony NEX"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I can see thirteen purple bins."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:gjGvyvVTm_xF0AKoZarg0GtAC0GupXjRjOP3zYIK8TDnDPJqG3dfWc2BZpDTnbSD"
+href = "urn:sha384:5M8Kt6f0z9Usm6govjypsjMFrMNun-Y1GmbOy7u7xsiAmDijwss4p_IXtBjjXpRg"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Michael Coghlan (mikecogh)"
+author_url = "http://www.flickr.com/people/89165847@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/89165847@N00/6498420245"
+title = "13 Purple Bins"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I can see ten pens."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:IK5iZXwMQf3F6_5mU2kg55L6sTpeB0BQqokVgfGBksYjtBtOTqzi_V25VZ5qjyEW"
+href = "urn:sha384:duleCxq7sMSjWlhtl2m2Y5va3iMXp2TFYjT60HTHGMYsDbvwz-oflA0_UJtccZfc"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Bharath Kishore (Bharath Kishore)"
+author_url = "http://www.flickr.com/people/7921163@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/7921163@N02/4474661498"
+title = "All my fountain Pens!!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "There are eleven hats."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:aVadpyngTV9nLHbh1Tg5q-ZtZUQDuQxe5j3EfqDXsuKYOchFUosqy9OyVYtuxjZb"
+href = "urn:sha384:iCzXUS-qvheng2dKX0iF2dsGWHfi6dupmuIea41SjdMdbRU4CxnWMQRtBAjPGTc9"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Sonya Green (sundaykofax)"
+author_url = "http://www.flickr.com/people/23527133@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/23527133@N00/1711521613"
+title = "hats"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I can see twelve eggs."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:9yvKIF9ZCfARwkuMKyUBvx41XO3N1-tD5B2srcC6FiyD4sIAKFfgdwIAExysxOeE"
+href = "urn:sha384:WbnvPqDuzKfqihZGC1zM7BJFub9pYy18LPuhUkObjuh-qG_dT4X4QXV8BxmeDch5"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = ". . (Robert Couse-Baker)"
+author_url = "http://www.flickr.com/people/29233640@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/29233640@N07/6993546139"
+title = "real eggs"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I can see twenty-four colored eggs."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:TXN9W72361ybfMo-DqrkYwWGqsUzjE_dx6R8CaDGYBbOcrd8-fIFyL9CDbuKUw3N"
+href = "urn:sha384:kARufqhOPNiCM-L9lr9qi_xGC5cXajCltNpssnPzmPfjPWuuGYAYwF159m2PmYlh"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Selena N. B. H. (moonlightbulb)"
+author_url = "http://www.flickr.com/people/24532534@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/24532534@N02/3439914563"
+title = "Two Dozen Easter Eggs"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "There are nine chocolates."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:prqAxcvtAXMY0GqsE4M5L129dqPtNuR2AQwPqyMzVbcfw5r9tZVBzFgzNhBQySnW"
+href = "urn:sha384:jFxEvdStbEXNXV0zEa1IAQ2zfU5fq25gZ5CuTdTDNQFVqHLohAuNQhpUwRzkTg8E"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (N1NJ4)"
+author_url = "http://www.flickr.com/people/61343210@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/61343210@N00/307779508"
+title = "Thanks for Candy!"
 [[cards.sides]]
 type = "empty"
 
