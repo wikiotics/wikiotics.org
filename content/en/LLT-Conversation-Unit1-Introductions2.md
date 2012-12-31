@@ -21,7 +21,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson we learn to ask for introductions to other people and how to refer to people by gender."
+text = "In this lesson we learn to introduce people and how to refer to them by gender."
 type = "phrase"
 
 [[cards.sides]]
@@ -47,14 +47,118 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "\"Hello Pam.\""
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello Ed\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Have you met Harold? He is a language student.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello Harold, my name is Pam.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello Pam. Nice to meet you.'"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Harold"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Ed, have you met my friend Naomi? She is also a language student.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hi Naomi. Nice to meet you.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Naomi"
 type = "phrase"
 
 [[interactions]]
