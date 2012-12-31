@@ -11,10 +11,12 @@ text = "First"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "1st"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[cards]]
 
@@ -23,7 +25,8 @@ text = "Second"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "2nd"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -35,7 +38,8 @@ text = "Third"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "3rd"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -47,7 +51,8 @@ text = "Fourth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "4th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -59,7 +64,8 @@ text = "Fifth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "5th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -71,7 +77,8 @@ text = "Sixth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "6th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -83,7 +90,8 @@ text = "Seventh"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "7th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -95,7 +103,8 @@ text = "Eighth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "8th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -107,7 +116,8 @@ text = "Ninth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "9th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -119,7 +129,8 @@ text = "Tenth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "10th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -131,7 +142,8 @@ text = "Eleventh"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = " 11th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -143,7 +155,8 @@ text = "Twelfth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "12th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -155,7 +168,8 @@ text = "Thirteenth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "13th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -167,7 +181,8 @@ text = "Fourteenth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "14th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -179,7 +194,8 @@ text = "Fifteenth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "15th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -191,7 +207,8 @@ text = "Sixteenth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "16th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -203,7 +220,8 @@ text = "Seventeenth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "17th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -215,7 +233,8 @@ text = "Eighteenth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "18th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -227,7 +246,8 @@ text = "Nineteenth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "19th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -239,7 +259,8 @@ text = "Twentieth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "20th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -251,7 +272,8 @@ text = "Twenty-first"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "21st"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -263,7 +285,8 @@ text = "Twenty-second"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "22nd"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -275,7 +298,8 @@ text = "Twenty-third"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "23rd"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -287,7 +311,8 @@ text = "Twenty-fourth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "24th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -299,7 +324,8 @@ text = "Twenty-fifth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "25th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -311,7 +337,8 @@ text = "Twenty-sixth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "26th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -323,7 +350,8 @@ text = "Twenty-seventh"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "27th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -335,7 +363,8 @@ text = "Twenty-eighth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "28th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -347,7 +376,8 @@ text = "Twenty-ninth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "29th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -359,7 +389,8 @@ text = "Thirtieth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "30th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -371,7 +402,8 @@ text = "Fortieth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "40th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -383,7 +415,8 @@ text = "Fiftieth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "50th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -395,7 +428,8 @@ text = "Sixtieth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "60th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -407,7 +441,8 @@ text = "Seventieth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "70th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -419,7 +454,8 @@ text = "Eightieth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "80th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -431,7 +467,8 @@ text = "Ninetieth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "90th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -443,7 +480,8 @@ text = "One hundredth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "100th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -455,7 +493,8 @@ text = "One thousandth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "1000th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -467,7 +506,8 @@ text = "One hundred thousandth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "100,000th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -479,7 +519,8 @@ text = "One millionth"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "1,000,000th"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
