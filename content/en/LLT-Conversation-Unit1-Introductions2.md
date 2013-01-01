@@ -73,7 +73,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\"Hi Ed\""
+text = "\"Hi Ed.\""
 type = "phrase"
 
 [[cards.sides]]
@@ -138,7 +138,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\"Ed, have you met Naomi? She is a language student too.\""
+text = "\"Have you met Naomi? She is a language student too.\""
 type = "phrase"
 
 [[cards.sides]]
@@ -359,6 +359,175 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "Ed then continues:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"He is a language student.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"He is a language student.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "In the \"Talking about language studies\" lesson we learned how to ask people if they are a language student by asking:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Are you a language student?\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Notice how most of this sentence stays the same. Listen to both of them again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Are you a language student?\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"He is a language student.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The first part of the phrase refers to Harold:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"He\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"He\" is the word to use when refering to a male person in the third person, that is someone other than yourself or the person you are talking to. \"He\" should only be used to refer to males."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "\"Have you met Harold?\""
 type = "phrase"
 
@@ -411,14 +580,27 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\"Are you a language student?\""
+text = "Similarially, you can answer \"Have you met Harold?\" with \"Yes\" or \"No\". We will focus on the \"No\" answer in this lesson since it is easier and you are more likely to encounter it first."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Pam"
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[interactions]]
