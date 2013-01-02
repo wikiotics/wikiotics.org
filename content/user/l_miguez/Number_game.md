@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Complete with a missing number:"
+text = "Complete with the correct missing number:"
 type = "phrase"
 
 [[cards.sides]]
@@ -20,7 +20,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Complete with a missing number:"
+text = "Complete with the correct missing number:"
 type = "phrase"
 
 [[cards.sides]]
@@ -34,7 +34,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Complete with a missing number:"
+text = "Complete with the correct missing number:"
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Complete with the correct missing number:"
 type = "phrase"
 
 [[cards.sides]]
