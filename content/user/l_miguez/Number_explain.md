@@ -1,8 +1,6 @@
 +++
-title = "Number explain"
+title = "Ordinal Numbers Explanation"
 +++
-
-Ordinal Numbers Explanation
 
 Ordinal numbers or 'numbers' are used for stating the quantity of
 something as well as counting. When we need to know "**how many**" we
@@ -10,7 +8,7 @@ count. Numbers can be written with letters or in number form. It's
 important to memorize some numbers like those in your address or your
 phone number.
 
-Let's take a look at the number box below.
+**Let's take a look at the number box below.**
 
 <table>
 <tbody>
@@ -146,10 +144,9 @@ For example:
  225 can be written 'Two hundred and twenty-five' or ' Two hundred
 twenty-five'.
 
- 
+###  
 
-Some whole numbers between 1000  and 10,000 can also be written in two
-ways:
+### Some whole numbers between 1000  and 10,000 can also be written in two ways:
 
  1100 -  Eleven hundred or One thousand one hundred
 
@@ -179,8 +176,10 @@ ways:
 
 etc...
 
-Numbers such as 2000,  3000, 4000, 5000, 6000, 7000, 8000, 9000 are NOT
-usually written as 'the number +  hundred'.
+Numbers such as 2000,  3000, 4000, 5000, 6000, 7000, 8000, 9000 are
+**NOT** usually written as 'the number +  hundred'.
+
+.
 
 In English, we use **commas** to separate  numbers after 10,000.
 
