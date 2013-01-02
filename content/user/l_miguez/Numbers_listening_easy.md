@@ -104,7 +104,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Ei2nM_iUauQS4F8kC51jdMWhJI04NXHn-BdT1Op253YMlrtrXb0yz7xxtEsOZe4c"
+href = "urn:sha384:drafPuy8xJHoSdMm5FjhPE1QDkyfhYCcEP1qC9seUkYJz_9b-m8OLNgkhGa5V-Ei"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
