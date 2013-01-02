@@ -27,7 +27,8 @@ text = "Two"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "2"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:lD2RBN_VGOfKfSx4ZRlb4W5vaiBEoQBpze1DO7f1m8V_umcVhHvK7Z5SBkBZp6GY"
@@ -42,7 +43,8 @@ text = "Three"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "3"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Hh5KapiF_DCHWzGt7E_5lk9XRZF5hcaVmSTDMzr7fsynCNth01SyLSbe6tqyqdLF"
@@ -57,7 +59,8 @@ text = "Four"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "4"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:sDAKv__V0nl4MZQE3nq7pTTPuRW1UWhfaRKe9Ul5MuxZUJAL1rLWnroewHTM8wpC"
@@ -72,7 +75,8 @@ text = "Five"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "5"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:4RAvbGJY1sAzvuvgmL-EGLpDqG5R2mkte1x8zxyFFYfYQlaBY2PMPf5E6vfe02Rj"
@@ -87,7 +91,8 @@ text = "Six"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "6"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:GUzvkTjHwTBYI6dk-2aNxF_clyFXJ2l5zHSxjKr6iJPxVxQWVvEY60yR8R2yZcFa"
@@ -102,7 +107,8 @@ text = "Seven"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "7"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Ei2nM_iUauQS4F8kC51jdMWhJI04NXHn-BdT1Op253YMlrtrXb0yz7xxtEsOZe4c"
@@ -117,7 +123,8 @@ text = "Eight"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "8"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:zCc_SuOi6mKrwx9iwuPMYSnXqrG35NOgnpEKWjkSu8ZnBqDlF0bT_bPesqyoRInW"
