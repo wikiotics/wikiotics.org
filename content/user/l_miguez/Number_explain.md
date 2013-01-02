@@ -140,3 +140,36 @@ Let's take a look at the number box below.
 For numbers that are higher than or more than one hundred, there are two
 ways to write the number -  with  'and'  and  without 'and'.  Both forms
 are acceptable.
+
+For example:
+
+ 225 can be written 'Two hundred and twenty-five' or ' Two hundred
+twenty-five'.
+
+ Whole numbers between 1000  and 10,000 can also be written in two ways:
+
+ 1100 -  Eleven hundred or One thousand one hundred
+
+1200 -  Twelve hundred or  One thousand two hundred
+
+1300 -  Thirteen hundred or One thousand three hundred
+
+1400 -  Fourteen hundred or One thousand four hundred
+
+1500 -  Fifteen hundred  or  One thousand five hundred
+
+1600 -  Sixteen hundred or   One thousand six hundred
+
+ 1700 -  Seventeen hundred or One thousand seven hundred
+
+1800 -  Eighteen hundred or  One thousand eight hundred
+
+1900 -  Nineteen  hundred  or One thousand nine hundred
+
+2000 -  Two thousand  **NOT**  twenty hundred
+
+2100 -  Twenty-one hundred or  Two thousand one hundred
+
+3200 -  Thirty-two hundred  or  Three thousand two hundred
+
+4300 -  Forty-three hundred or  Four thousand three hundred
