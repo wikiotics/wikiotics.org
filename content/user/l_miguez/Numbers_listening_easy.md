@@ -11,7 +11,8 @@ text = "One"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "1"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:CrWFqefclK9bx1zpM6uIXNcNVXlEOrTug3T9uZfCNsykE7C6rmpdWixoTph2V69V"
