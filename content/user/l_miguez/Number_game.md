@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = " Complete with a missing number:"
+text = "Complete with a missing number:"
 type = "phrase"
 
 [[cards.sides]]
@@ -20,35 +20,44 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Complete with a missing number:"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "forty"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "20,30, ..., 50"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Complete with a missing number:"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "fourteen"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "13, ...,15,16"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 [[interactions]]
 answer = 1
