@@ -146,7 +146,10 @@ For example:
  225 can be written 'Two hundred and twenty-five' or ' Two hundred
 twenty-five'.
 
- Whole numbers between 1000  and 10,000 can also be written in two ways:
+ 
+
+Some whole numbers between 1000  and 10,000 can also be written in two
+ways:
 
  1100 -  Eleven hundred or One thousand one hundred
 
@@ -173,3 +176,15 @@ twenty-five'.
 3200 -  Thirty-two hundred  or  Three thousand two hundred
 
 4300 -  Forty-three hundred or  Four thousand three hundred
+
+etc...
+
+Numbers such as 2000,  3000, 4000, 5000, 6000, 7000, 8000, 9000 are NOT
+usually written as 'the number +  hundred'.
+
+In English, we use **commas** to separate  numbers after 10,000.
+
+ For example:
+
+10,000 -   25,000 -  50,000 -  100,000 -  525,000 -  1,000,000 - 
+2,000,500 -  25,000,000
