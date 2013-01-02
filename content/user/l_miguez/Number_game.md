@@ -14,7 +14,7 @@ text = "four"
 type = "phrase"
 
 [[cards.sides]]
-text = "1,2,3,..."
+text = "1,2,3, ..."
 type = "phrase"
 
 [[cards]]
@@ -52,11 +52,11 @@ text = "Complete with the correct missing number:"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "four hundred"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "200,300, ..,500"
 type = "phrase"
 
 [[interactions]]
