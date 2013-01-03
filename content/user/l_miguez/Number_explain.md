@@ -1,5 +1,5 @@
 +++
-title = "Ordinal Numbers Explanation"
+title = "Cardinal Numbers Explanation"
 +++
 
 Ordinal numbers or 'numbers' are used for stating the quantity of
