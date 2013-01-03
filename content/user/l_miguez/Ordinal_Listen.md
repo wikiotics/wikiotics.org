@@ -143,7 +143,10 @@ text = "9th"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gKTn0EgsrbA_v81DMQKLomMXBX7GWGBEZsWZ3XH6pofNlOn92KP4GwPUJvF5Ick5"
+href = "urn:sha384:2xJzwudwDF6Ip4L-Ttm31oi7yExuKZC9jPMajrsLpzQVVi4yaRNaGNN4prpFWgMV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
