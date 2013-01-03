@@ -186,6 +186,8 @@ In English, we use **commas** to separate  numbers after 10,000.
  For example:
 
 10,000 -   25,000 -  50,000 -  100,000 -  525,000 -  1,000,000 - 
-2,575,500 -  25,000,000[](http://)
+2,575,500 -  25,000,00
 
-[New Link](http://)
+Practice:
+
+  - [Easy Numbers Activity](http://)
