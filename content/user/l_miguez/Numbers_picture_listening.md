@@ -95,7 +95,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/39415781@N06/4691883504"
 title = "London Zoo - Animal Adventure - Donkeys"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ZrWjIwYSzcWaxk7WZeIl4avDLXwkSOxvyCC_LN777MrmYx2dRKzm3uUZTBMlSDvj"
+href = "urn:sha384:votgxTPRRmH9SeY7MFy9hHBxpjGt8fehSDT14Ta5Mt4GcTmJE44E7E3C0_DnZO-s"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -116,7 +119,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/34067077@N00/85707606"
 title = "Tims Truck Parking"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:BhsM8-VkRK8bDADtZRSKXGLJATCqRR4FESZV4Aq2_2yDlUmgfZAi4con17NcYJOE"
+href = "urn:sha384:Isv6oGE320jpbYPw6kuVZOPqIhKXbLunjs1K3GJYRwUQL10jTjGN8E8NQlEy85dV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -137,7 +143,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/92269745@N00/6772905183"
 title = "Cupcakes"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:obTHeQnOOIF3CRNW_DKt3XuRfjzSL4O9xWIqRTffVS7BA91NW3v_nLqLIdsEJz21"
+href = "urn:sha384:PBWY6azuZbVls493CwQQ9tReXqeOZQdpOoQX0-E_lbqs6ZBjA0xh0cL5S-hlaMO3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -158,7 +167,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8363028@N08/2987099837"
 title = "Apples"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:RO8UjZOXA4zJLXpd9b091kUUSks5uPAw0tgP1gEjAX0VP8uGFdzpQo1UqR1o30Mz"
+href = "urn:sha384:nDSGZsTQGL-HHMLEjPUWpLHKJOo48cNclgH0S4QD5bYroQV4genkMpb_IGzEQuG-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -179,7 +191,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/9295970@N08/4489792683"
 title = "Balloons"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:K939KdkPRbORkDfsYRHooe8jA0RcN_RFK57LSg02wKS3p96liRHFcIMqNgZUrQt4"
+href = "urn:sha384:w-3rCetjrWaBSGZOOiBt_xqiMG-NrfV7Ud2v-S6s_ge7NQLWnOjHOLWBdlKvVS1f"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -200,7 +215,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8324633@N03/5808536344"
 title = "Test Jupiter 8  2/50mm lens @ Sony NEX"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kjz_89w6RSkTtIcQWXaFDojHC9IWXHelz227IRLdHr5ONiHtpxhD78Z2nDyu9Hxa"
+href = "urn:sha384:1sADkRsX3LNjhTnbogP8-Pcqt-3amWVigs3E9TrVsNK9FUpUm2v0hl39Rvhn_d0t"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -221,7 +239,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/89165847@N00/6498420245"
 title = "13 Purple Bins"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yTk5o5ohKByAot-PIlkfuuzMpsKFBdhMhekEkFggW2SnkN0UExxV6x9U2DY7xXTV"
+href = "urn:sha384:Li9fEWP4rnQZBzylocRXVloiPpAFZ6PkNhvWf84Dn_CumOR4p-f_15Hkaq1XXQ-v"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -242,7 +263,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/7921163@N02/4474661498"
 title = "All my fountain Pens!!"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9WwzjYpS5hwG3IOdAdO4ORKKvixuaeIiyke1d3PFk5zVj4hgXKDz_JQB-8zb0GXe"
+href = "urn:sha384:lt9a7LIhoPN0Xjxq1ok1nfMDmNq-N1WUKBuytix_R2y-B5V97w0hRZBBxGWly5Mo"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -263,7 +287,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/23527133@N00/1711521613"
 title = "hats"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Be8jVabdPL5W4eZv80HgcjiOPbzemILxRxJfW9VKWKRJCn-r0hJraQy7U3CEpQua"
+href = "urn:sha384:oDY3Q-C9FhpshKPndCifQkDMs9sOmv1x11hIvWvf-nAo4v107QF1MzzWNd8JL4jJ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -284,7 +311,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/29233640@N07/6993546139"
 title = "real eggs"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lXIL5Q0M5WEU31QkbXNt11_nDUOR0Yw1PpcrGbGaMm3PJd6YxixreUJX0rT_2iCZ"
+href = "urn:sha384:mPtBjsZPnYKvcQP5JvW5-azo4fm7U9NiLxwu9Ru0UJIGjJ30FunumDZZRCWcoAzG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -305,7 +335,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/24532534@N02/3439914563"
 title = "Two Dozen Easter Eggs"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:AwAO3jiTI3s2-ouqVOVrTC9aEu4qI88V-sx4iJCA3oBvCzenYsTAjVLaOhGx3m40"
+href = "urn:sha384:S66gEPw_EZhzh6eDJjzVVyrE_IWMN2AparbqFeDA_f5JAZPujb1GtPmHkB5qFcH7"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -326,7 +359,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/61343210@N00/307779508"
 title = "Thanks for Candy!"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6eZDFDU8nHXHvnwAhBBaqznzLbo60HE69EdInWFkIVQ_CLdi3uf-MLzYlZEWrqKJ"
+href = "urn:sha384:jChl72ElvOB9h_V23Mnbn9wCVSCKYcHui3L4VjbtfDd80aMIIgH7zgkidk5qOvSF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -347,7 +383,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/80565685@N00/3186540497"
 title = "book shelf"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:P8ofqri1LmlXYL_gjrH-QTGFCAJzzNCX9CoKBsPd0kd0OFuj7oG-MXOyBgpsrN4H"
+href = "urn:sha384:9GaPyWg1boPiw62sa4R1L2XOwzUFKFGhKHE_0fswKRVxILL-dJeSzrRt3uacUf90"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
