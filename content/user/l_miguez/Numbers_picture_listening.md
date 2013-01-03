@@ -71,7 +71,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/30713600@N00/3032081742"
 title = "car"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Hbtmzp0hwFkGxKhBk9A0TNVAdv9YOAV5jVUWe9QYjOzupxOnjI80uwAFNVOvtNvF"
+href = "urn:sha384:zui6-fkwSZxwJGpxgu37BHlT9MOe1a515BrrgWAorVgdnp6skiwXN9yhy-vc8g3M"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
