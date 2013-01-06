@@ -112,7 +112,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\"Hello Pam. Nice to meet you.'"
+text = "\"Hello Pam. Nice to meet you.\""
 type = "phrase"
 
 [[cards.sides]]
@@ -372,188 +372,6 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Ed then continues:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Teacher"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "\"He is a language student.\""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Ed"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "\"He is a language student.\""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Ed"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "In the \"Talking about language studies\" lesson we learned how to ask people if they are a language student by asking:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Teacher"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "\"Are you a language student?\""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Pam"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Notice how most of this sentence stays the same. Listen to both of them again."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Teacher"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "\"Are you a language student?\""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Pam"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "\"He is a language student.\""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Ed"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "The first part of the phrase refers to Harold:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Teacher"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "\"He\""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Ed"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "\"He\" is the word to use when refering to a male person in the third person, that is someone other than yourself or the person you are talking to. \"He\" should only be used to refer to males."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Teacher"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "\"Have you met Harold?\""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Ed"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
 text = "This question is a \"Yes\" or \"No\" question, just like the question from our \"Talking about language studies\" lesson asking if you are a langauge student. Do you remember how to ask that?"
 type = "phrase"
 
@@ -593,7 +411,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Similarially, you can answer \"Have you met Harold?\" with \"Yes\" or \"No\". We will focus on the \"No\" answer in this lesson since it is easier and you are more likely to encounter it first."
+text = "Harold actually is a language student, which Ed tells us by saying:"
 type = "phrase"
 
 [[cards.sides]]
@@ -606,7 +424,319 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "\"He is a language student.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"He is a language student.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Now we learn a third word for refering to people:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"He\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "In the second lesson we learned \"I\" to refer to yourself, and \"You\" to refer to the person you are talking to."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The word \"He\" is used when talking about someone other than the person you are talking to directly."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Unlike \"I\" and \"You\", which can refer to people of any gender, \"He\" should only be used to refer to males."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen to Ed's introduction all together."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Have you met Harold? He is a language student.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pam replies:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello Harold, my name is Pam.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello Harold, my name is Pam.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "All of this we covered in the first lesson."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Harold replies:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello Pam. Nice to meet you.'"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Harold"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "And then Pam concludes:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Remember to use the word \"too\" when you are responding to someone who has already said \"Nice to meet you\". That way you indicate that you have heard them and share their sentiment."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The second half of the dialogue is very similar but this time Pam is introducing Ed to her friend Naomi."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Pam begins:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Have you met Naomi? She is a language student too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Have you met Naomi? She is a language student "
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Because Naomi and Harold are both language students, they are introduced in similar ways with two main differences."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The first is that Pam added \"too\" to her description of Naomi as a language student to acknowledge that Harold has also just been introduced as a language student. "
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The second difference is the gender specific term used to refer to Naomi."
 type = "phrase"
 
 [[cards.sides]]
@@ -614,6 +744,526 @@ type = "empty"
 
 [[cards.sides]]
 text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Do you remember the term used for Harold?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"He\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "And did you catch the term used for Naomi?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"She\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"She\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Like \"He\", \"She\" is a gendered term and should only be used to refer to females."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen to Pam introduce Naomi again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Have you met Naomi? She is a language student too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ed replies:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello Naomi. Nice to meet you.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Finally, Naomi ends the introductions by replying:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Naomi"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's listen to the whole exchange again. See how much you have learned."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hi Pam.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hi Ed.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Have you met Harold? He is a language student.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello Harold, my name is Pam.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello Pam. Nice to meet you.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Harold"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Have you met Naomi? She is a language student too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hello Naomi. Nice to meet you.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Naomi"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's review some of the new material."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "If you wanted to greet someone who you are on familiar terms with, what new word did we learn?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hi.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What if you want to tell someone that your male friend is a language student, how would you describe him?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"He is a language student.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Ed"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What if your language student friend is female, how would you describe her?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"She is a language student.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "And finally, how would you respond to this if you agree?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Harold"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Nice to meet you too.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Pam"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "If you know all the answers to those questions, congradulations! You are on your way to mastering English conversation in a group. If you want more practice, consider re-listening to the first leson in Introductions or in \"Talking about language studies\"."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is the end of this lesson in the Wikiotics conversational English series. For more lessons and resources, visit us at wikiotics.org."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
 type = "phrase"
 
 [[interactions]]
