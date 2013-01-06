@@ -24,7 +24,8 @@ is up to you.
 
 1.  [Giving / asking
     name](http://wikiotics.org/en/LLT-Conversation-Unit1-Introductions1)
-2.  Gendered pronouns and third person
+2.  [Gendered pronouns and third
+    person](http://wikiotics.org/en/LLT-Conversation-Unit1-Introductions2)
 3.  Formal / professional
 
 ### B) Talking about language studies
