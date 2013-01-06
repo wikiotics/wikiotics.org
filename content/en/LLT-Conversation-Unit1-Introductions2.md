@@ -242,7 +242,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\"Hello\" is a general purpose greeting. Now that Ed and Pam know eachother a little better, they use the more informal version of \"Hello\". Let's hear that version:"
+text = "\"Hello\" is a general purpose greeting. Now that Ed and Pam know each other a little better, they use the more informal version of \"Hello\". Let's hear that version:"
 type = "phrase"
 
 [[cards.sides]]
