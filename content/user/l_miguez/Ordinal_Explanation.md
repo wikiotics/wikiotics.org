@@ -109,4 +109,8 @@ Practice:
 
 [Easy Ordinal Review](http://)
 
+Complete the Sentence with the Correct Ordinal
+
+Picture Activity
+
 [](http://)
