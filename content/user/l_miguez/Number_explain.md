@@ -190,6 +190,4 @@ In English, we use **commas** to separate  numbers after 10,000.
 
 Practice
 
-[New Link](http://)
-
-[](http://)[](http://)[](http://)
+[](http://)[Easy Number Practice with How many.](http://)
