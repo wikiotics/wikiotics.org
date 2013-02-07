@@ -477,7 +477,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "s'il vous plaît"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:awNKctMzalYYhsCnjCmvjehgD4Lc0LyZu0E_TJwPhAxseHX8_XEazITMSWfFdtrF"
@@ -492,7 +493,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "s'il vous plaît"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:WYz0JZI0imnAcTLVNUlcfTfntjIYBIdQKaUXwQyI4ysGJik55uvghQMX0dk3H7Fu"
@@ -537,7 +539,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "en français"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:rP5jXW6B583gfA2Ri7IQwAnsAH-y69uYi7K7VgZ-kjVBUfKjpJT66CgwGTDHG7x6"
@@ -552,7 +555,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "en français"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:uoi6HeplfO5gG16LDGdjzskFwfw0owNa8wWn2p9ZxngFatMdRVkhO0tWd2WV5hef"
@@ -567,7 +571,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Répondez en français."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Zv3CTt5MIUpGHUd1zMQ_pAURF2laKt7-i_DEJXmuabUi87sF9j8vSdEwhYvgCYiF"
@@ -658,7 +663,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "après moi"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:3FXvlKKfkaJt5vOtnuQTktRPI_2patc8VWf3kNcuNk5nu_KOLaWmsCsv58UVG9eK"
@@ -673,7 +679,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "après moi"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:dTUhmdfG60oXTnTDZb_DR1ESYAEIIv2alFmTew64Dj8VmkIbh36awg2XBPZ6ESvX"
@@ -688,7 +695,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "répétez après moi"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:sCTgxAmEt7VonmQm4AVe7KdvmnNBM35SZmf3utnFHVHGdYplAXZT7L02SxEx0J-u"
@@ -703,7 +711,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "répétez après moi"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:EWx_P19c9PNAmh6Du3Z8k029kcieRodce-caWVE1BVlioTy1hASG1miey5ip17Aq"
@@ -718,7 +727,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "\t\nencore une fois"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:TCn-H6hs5dKLKhr_mfJzyZVuO8gOFSn9-moq5Rh20wA8xB9BG1Z2ny0bsntaWver"
@@ -733,7 +743,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "\t\nencore une fois"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:0o_d3_kVsHlzZ07deqhhQg8Qcnn8kUdb_DjAT4bTlFp2YKsumBV8GjkXxUibsPdZ"
@@ -748,7 +759,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "répétez encore une fois"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:mP-xMZXzK_ykyr3RjH_qeW2qq1YCKjvgZuSTNJuncHM2B4owq52W461gNmJuKLJa"
@@ -763,7 +775,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "répétez encore une fois"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:AlxO0m1R0zjawUzNiF0iVEol9EuwFR4rz2sUcdifBwcrLdqXgE8TKsBe8DQqaQl7"
@@ -778,7 +791,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "en anglais"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:PhBD-DPQTNNBucLinQycg6Nk4jgKvVazvEK-nQx06Wg2yCc9GgADC9h7QNI0ZsTV"
@@ -793,7 +807,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "en anglais"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:oOI_pQNAI7EeHKdW023BhsA3EA2VWPdARrkjAfRPvk4JNzu2_WkZ781OlCsfAZEW"
@@ -808,7 +823,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "bonjour en anglais"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:cTPfwmXsbpuLTi2Tmmyt9Aa9FBn2vp16sofBEvHLP6hu9XB4AXpHb1WeMt9OPwak"
@@ -823,7 +839,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "bonjour en anglais"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Zz_oodAzUHDesL3W1EnNguQdJ-rL-A08RJmKIS7w-k5NW8FrblMO2A_3_HinGRyh"
@@ -854,7 +871,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Comment dit-on bonjour en anglais?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:UhLpiNiAc4j789VN2X6CbTWKDHw7KWp42jXsXXQCpWi3g-0_4bPMSebMPixY3KMN"
@@ -869,7 +887,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "nous sommes pressé"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:6SA-7vJBpDAknVQhnT9CfaFParb3E4KSwXkr7m8z9WeYkakSfTFaReEHuBeidnLg"
@@ -884,7 +903,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "nous sommes pressé"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:9Rii5ld8ngyEdjDUfxABULB7s7FAe8veXGywAbFMwOvxkYdTg0Zcwa1KmLFNUi3y"
@@ -1019,7 +1039,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "vous appelez-vous?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:M0LUGXkAYhpzOap6zosyNba7zk5T5yGswXyOyGtUv8Vw6A048vnUS47Jg-YohOC7"
@@ -1034,7 +1055,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "vous appelez-vous?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:pQz0SVOo6emgsbgq2dlBfLuvG7fEVYgLMsRaI96HLCQf92Mppk1haTEXP8VTF1__"
@@ -1049,7 +1071,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "comment vous appelez-vous?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:GMx-i-QrKuNLkEPOtXJZRhjBgm1Ovo6W-POJtCdIKuxhgDyJzUrXnGr1Pc0wXZV0"
@@ -1064,7 +1087,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "comment vous appelez-vous?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Pqd357bFriyDlzT92lYdHKtzGDDjGjpi6lg9CVCI6XtQ_oIebGRQUWxQPgcVPwWW"
@@ -1079,7 +1103,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "je m'appelle"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:jhYewCByhXegen_WYpRP9522nhBSFW0M_5pEe3TrGsUrAbC7CPc1PiiqsMLgjAHl"
@@ -1094,7 +1119,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "je m'appelle"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:XLqRsa5lr9QnRYYwJQsr5sM_uWtIJ8oXAPZocVcsKOVns80CvSjMqhfvhp-7DSvX"
@@ -1109,7 +1135,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "S'il vous plaît"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:CM_iVFvoA7W0EsY4NbaZrinyys6EZOvTdzO4cIBqwb6hhUpSzHf0W_ThUFGOOiry"
@@ -2607,7 +2634,8 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-type = "empty"
+text = ""
+type = "phrase"
 
 
 [[cards]]
