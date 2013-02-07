@@ -1,6 +1,6 @@
 +++
 title = "FSI-French-basic-course-revised-volume-01-unit-01-lesson-01"
-contributors = [ "80.216.213.3", "Laurent",]
+contributors = [ "80.216.213.3", "Laurent", "hartraft",]
 headings = [ "phrase", "audio", "speaker",]
 tags = [ "five-sec-widget-fodder", "fsi",]
 type = "lesson"
@@ -2280,7 +2280,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "déjeuner"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:j0JYoI70FE1Ys1VKfn_9MQtObJuDyVRb-CHpjWCvK7WkB2wi1m_yfah02TD4evy1"
@@ -2580,7 +2581,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Bonjour madam"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:UGBlmci9ObUzy-xzqWKHIKzQn4E_xziFjY-ZCO17YNZvSS20UbWW1jA5dE-I7DQU"
@@ -2595,7 +2597,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Bonjour madam"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:lK8NivQLiRoFQ54tTNlQEZmUhpLNRihcYFBQBQv4DozuxsEgPX1Q6F5mrakkim8w"
@@ -2610,7 +2613,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Comment allez-vous"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:S2YiDex0nk80w_3NiezeoHN9UwtVllpCs4hck-d8q4rQnhbsJgaEYZwfqARptoMN"
@@ -2625,7 +2629,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Comment allez-vous"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Jr5h5WlOvfBhRqhWlMBnjt5Ri27nW2PQ-Cr5MSpXKcm_J3OQoh3Fl6kcw63xD_0V"
@@ -2640,7 +2645,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Très bien merci"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:DrRjGDYV9v2meGOY8p13oq8CZz8HINIBIeyJymxBSKsICJFIm07tkce5LXhB15Ni"
@@ -2655,7 +2661,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Très bien merci"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Py85-nSVaK0iR1i30WMbmGnuieJnNlWMdtB4Xsj0O_Q8pVGBuHYwVjnwU0CIz36n"
@@ -2731,7 +2738,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Bonjour monsieur"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:DI4y7tRfLivNur8dsoXvct4tW6tENqevuO4pnFZtCl071FpIqdOfLT1XEdWWBgOZ"
@@ -2746,7 +2754,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Bonjour monsieur"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:QiQW0_dDoUfzxvgh3gfXRmc1sqDixlsjMAf3C5H9odB5X3YtPcUlzY8pwXat3oks"
@@ -2791,7 +2800,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Oui, merci"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:mHVyupMv4XoAS0JkLhz9N1XiSja9v3SxP588AxO-p7MxYlmlz2fgiwOPNa1wgM3B"
@@ -2806,7 +2816,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Oui, merci"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:vt8PrEllELKSeBvPHqN67F5Hi-loR8KQmwa4VUeJIYvvQywBU2Ih2tVNiAMSZpwg"
@@ -2971,7 +2982,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Excusez-moi, je suis pressée."
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:jwUQt1FFQwFz7atkVhXwHRYUrlLCwuXLUYH5uPBSfRsGmBe16CFn5I3esWkDNgO0"
@@ -3002,7 +3014,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "à bientôt j'espère"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:gw2dEx77XY4iZ0Hb3bdDzuKuduFyXqB0qjXw3bazJ1SgpCs0tJM10BmNglcnFDVQ"
@@ -3017,7 +3030,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "à bientôt j'espère"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:fkZqe9gY8hahEhkwEENO_hBatU4PDfsZEbNkZ8B53KtwhfpPwoPU8py_-t7hJ_X7"
@@ -3062,7 +3076,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Au revoir monsieur"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:4vDw1id2XiCzP4gOc-sfDhDmQ34ySlS1SJgLRI0V3UCSubL5JaA2vCRVW9HfX9w-"
@@ -3077,7 +3092,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Au revoir monsieur"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:nduYZmDS86oXHMfM_C1m1Ty8th8IqQF3XBZF3STYGkYPGSwnfnBAU5aGF3JqF8ON"
@@ -3092,7 +3108,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Au revoir mademoiselle"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:YrsbwAg4ArV8NnxwmPtuj26GlFL3HQm5t2tHTac_77Jvauakd59iT-alMO25XB4l"
@@ -3107,7 +3124,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Au revoir mademoiselle"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:CO4KU5SugqoHxTDP4SRqGdKMMqqKONqDCY5Al6y5wuzNQtP6QHq1J3dwJ9iGZPMq"
@@ -3137,7 +3155,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Quelle heure est-il?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:cwoC6amT5dE44_cqR9FM7vtR25irEF21fwzCAe5yEBQCm5uRquLdDpW7nmODF3Uk"
@@ -3152,7 +3171,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Quelle heure est-il?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:Az39SHsGAfIlMbSBdS3KsJBl82Tm7sVlqQKoogp4r_GvK3lWkdlHPZW4Ep0FcAWZ"
@@ -3362,7 +3382,8 @@ type = "empty"
 [[cards]]
 tags = [ "fsi",]
 [[cards.sides]]
-type = "empty"
+text = "Bonjour madame, comment allez vous?"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:7kXW8CrgtbFnV9SpAcB-6cNqMfPZ3wV5gNqEU_ewKYVh2lNIPq4W9TUe4kdxmssn"
