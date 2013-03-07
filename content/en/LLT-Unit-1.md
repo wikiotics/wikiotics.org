@@ -30,7 +30,8 @@ is up to you.
 
 ### B) Talking about language studies
 
-1.  [Are you a language student?]()
+1.  [Are you a language
+    student?](http://wikiotics.org/en/LLT-Conversation-Unit1-LangStudent1)
 2.  How long have you studied?
 3.  Where do you study? (Study at a school?)
 4.  Do you like it? (Why?)
