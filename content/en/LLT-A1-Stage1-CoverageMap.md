@@ -7,8 +7,8 @@ languageCode = "en"
 
 ## Level A1 - Stage 1
 
-  - **[Curriculum home](/group/thelastlanguagetextbook/curriculum)**
-  - **[Next stage](/en/LLT-A1-Stage2-CoverageMap)**
+  - [Curriculum home](/group/thelastlanguagetextbook/curriculum)
+  - [Next stage](/en/LLT-A1-Stage2-CoverageMap)
 
 ### Summary
 
@@ -34,12 +34,20 @@ that will work best for those topics.
   - Greetings
       - [Basic "Hello" greetings for a French-speaking
         audience.](/en/Meetup_Introductions)
+      - [Basic "Hello" greetings (all English) (MeetUp lesson
+        series)](http://wikiotics.org/en/LLT-Conversation-Unit1-Introductions1)
   - Asking someone's name
+      - [Asking/Giving names (all English) (MeetUp lesson
+        series)](http://wikiotics.org/en/LLT-Conversation-Unit1-Introductions1)
+      - [Gender + personal pronoun matching  (English only) (MeetUp
+        lesson
+        series)](http://wikiotics.org/en/LLT-Conversation-Unit1-Introductions2)
 
 ##### Multiple choice
 
   - Word order
-  - Gender + personal pronoun matching
+    [](http://wikiotics.org/en/LLT-Conversation-Unit1-Introductions2)
+  - Gender and pronoun matching
   - Singular/plural match
 
 ##### Storybook
@@ -67,4 +75,5 @@ Make a new lesson for this stage by clicking on one of the links below:
 
 ### Existing lessons
 
-`<<PageList tags=target-language:en,LLT,A1-S1>>`
+  - [en:LLT-A1-S1-ExampleSentences](/en/LLT-A1-S1-ExampleSentences)
+  - [en:nnn](/en/nnn)
