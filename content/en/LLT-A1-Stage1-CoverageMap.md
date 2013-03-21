@@ -45,8 +45,8 @@ that will work best for those topics.
 
 ##### Multiple choice
 
-  - Word order
-    [](http://wikiotics.org/en/LLT-Conversation-Unit1-Introductions2)
+  - Word
+    order[](http://wikiotics.org/en/LLT-Conversation-Unit1-Introductions2)
   - Gender and pronoun matching
   - Singular/plural match
 
@@ -76,4 +76,3 @@ Make a new lesson for this stage by clicking on one of the links below:
 ### Existing lessons
 
   - [en:LLT-A1-S1-ExampleSentences](/en/LLT-A1-S1-ExampleSentences)
-  - [en:nnn](/en/nnn)
