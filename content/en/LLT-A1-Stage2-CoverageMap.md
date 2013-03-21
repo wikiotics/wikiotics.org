@@ -7,9 +7,9 @@ languageCode = "en"
 
 ## Level A1 - Stage 2
 
-  - **[Previous stage](/en/LLT-A1-Stage1-CoverageMap)**
-  - **[Curriculum home](/group/thelastlanguagetextbook/curriculum)**
-  - **[Next stage](/en/LLT-A1-Stage3-CoverageMap)**
+  - [Previous stage](/en/LLT-A1-Stage1-CoverageMap)
+  - [Curriculum home](/group/thelastlanguagetextbook/curriculum)
+  - [Next stage](/en/LLT-A1-Stage3-CoverageMap)
 
 ### Summary
 
@@ -35,7 +35,8 @@ that will work best for those topics.
 
   - Telling where you are from
   - Asking where other people are from
-  - S/he, him/her
+  - [Gender + third person (English only) (MeetUp lesson
+    series)](http://wikiotics.org/en/LLT-Conversation-Unit1-Introductions2)
   - Asking for help (this/these, that/those, he/she/they)
 
 ##### Multiple Choice
@@ -68,5 +69,3 @@ Make a new lesson for this stage by clicking on one of the links below:
     lesson](https://wikiotics.org/new/flashcard_deck?template=storybook&tag=LLT&tag=A1-S2&tag=target-language:en)
 
 ### Existing lessons
-
-`<<PageList tags=target-language:en,LLT,A1-S2>>`
