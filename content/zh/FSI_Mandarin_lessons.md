@@ -5,8 +5,7 @@ target-languages = [ "zh",]
 +++
 
 List of Mandarin Chinese lessons imported from the FSI materials
-available here:
-<http://fsi-language-courses.org/Content.php?page=Chinese>
+available here: <http://www.livelingua.com/fsi-chinese-course.php>
 
 These links point to publicly editable versions of the FSI lessons. If
 you would like to see the original versions as they were first imported,
