@@ -8,7 +8,7 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "Welcome to the first MeetUp 101 English lesson."
+text = "Welcome to the first conversation lesson for the ElementarySpanish book."
 type = "phrase"
 
 [[cards.sides]]
@@ -19,13 +19,13 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr"
+text = "en"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, you will learn how to greet someone and some phrases to ask for help in practicing your English."
+text = "In this lesson, you will learn how to greet someone and some phrases to ask for help in practicing your Spanish."
 type = "phrase"
 
 [[cards.sides]]
@@ -36,13 +36,13 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr"
+text = "en"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "The most common greeting in English is:"
+text = "The most common greeting in Spanish is:"
 type = "phrase"
 
 [[cards.sides]]
@@ -53,7 +53,7 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr"
+text = "en"
 type = "phrase"
 
 [[cards]]
@@ -66,11 +66,11 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 1"
+text = "Spanish Speaker 1"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -87,7 +87,7 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr"
+text = "en"
 type = "phrase"
 
 [[cards]]
@@ -100,11 +100,11 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 1"
+text = "Spanish Speaker 1"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -121,7 +121,7 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr"
+text = "en"
 type = "phrase"
 
 [[cards]]
@@ -134,11 +134,11 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 2"
+text = "Spanish Speaker 2"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -155,23 +155,6 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "How do you say _____?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "English Speaker 1"
-type = "phrase"
-
-[[cards.sides]]
 text = "en"
 type = "phrase"
 
@@ -185,17 +168,34 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 1"
+text = "Spanish Speaker 1"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "If you share a common language with your English partner, this is how you would ask them how to say something in English. For example:"
+text = "How do you say _____?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Spanish Speaker 1"
+type = "phrase"
+
+[[cards.sides]]
+text = "es"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "If you share a common language with your Spanish partner, this is how you would ask them how to say something in Spanish. For example:"
 type = "phrase"
 
 [[cards.sides]]
@@ -206,24 +206,24 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr"
+text = "en"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say \"Bonjour\"?"
+text = "How do you say \"Hello\"?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 1"
+text = "Spanish Speaker 1"
 type = "phrase"
 
 [[cards.sides]]
-text = "en/fr"
+text = "es/en"
 type = "phrase"
 
 [[cards]]
@@ -240,7 +240,7 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr"
+text = "en"
 type = "phrase"
 
 [[cards]]
@@ -253,11 +253,11 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 2"
+text = "Spanish Speaker 2"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -274,23 +274,6 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Thank you."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "English Speaker 2"
-type = "phrase"
-
-[[cards.sides]]
 text = "en"
 type = "phrase"
 
@@ -304,11 +287,28 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 2"
+text = "Spanish Speaker 2"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Thank you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Spanish Speaker 2"
+type = "phrase"
+
+[[cards.sides]]
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -325,7 +325,7 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr/en"
+text = "en/es"
 type = "phrase"
 
 [[cards]]
@@ -338,11 +338,11 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 1"
+text = "Spanish Speaker 1"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -355,11 +355,11 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 1"
+text = "Spanish Speaker 1"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -376,24 +376,24 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr"
+text = "en"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say \"Boujour\"?"
+text = "How do you say \"Hello\"?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 1"
+text = "Spanish Speaker 1"
 type = "phrase"
 
 [[cards.sides]]
-text = "en/fr"
+text = "es/en"
 type = "phrase"
 
 [[cards]]
@@ -406,11 +406,11 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 2"
+text = "Spanish Speaker 2"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -423,7 +423,24 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 1."
+text = "Spanish Speaker 1."
+type = "phrase"
+
+[[cards.sides]]
+text = "es"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We will leave you with one more useful phrase for practicing Spanish."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
@@ -433,7 +450,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "We will leave you with one more useful phrase for practicing English."
+text = "If at any point, you can't hear what someone said or need to hear it a second time to try and understand what it means, you can ask the speaker to repeat what they have just said by saying:"
 type = "phrase"
 
 [[cards.sides]]
@@ -441,40 +458,6 @@ type = "empty"
 
 [[cards.sides]]
 text = "Teacher"
-type = "phrase"
-
-[[cards.sides]]
-text = "fr"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "If at any point, you can't hear wat someone said or need to hear it a second time to try and understand what it means, you can ask the speaker to repeat what they have just said by saying:"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Teacher"
-type = "phrase"
-
-[[cards.sides]]
-text = "fr"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Can you repeat that?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "English Speaker 1"
 type = "phrase"
 
 [[cards.sides]]
@@ -491,11 +474,28 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 1"
+text = "Spanish Speaker 1"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Can you repeat that?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Spanish Speaker 1"
+type = "phrase"
+
+[[cards.sides]]
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -512,24 +512,24 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr"
+text = "en"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say \"Boujour\"?"
+text = "How do you say \"Hello\"?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 1"
+text = "Spanish Speaker 1"
 type = "phrase"
 
 [[cards.sides]]
-text = "en/fr"
+text = "es/en"
 type = "phrase"
 
 [[cards]]
@@ -542,11 +542,11 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 2"
+text = "Spanish Speaker 2"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -559,11 +559,11 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 1"
+text = "Spanish Speaker 1"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -576,11 +576,11 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 2"
+text = "Spanish Speaker 2"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -593,11 +593,11 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 1"
+text = "Spanish Speaker 1"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
@@ -610,17 +610,17 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "English Speaker 2"
+text = "Spanish Speaker 2"
 type = "phrase"
 
 [[cards.sides]]
-text = "en"
+text = "es"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "In later lessons we will use these basic phrases regularly so, if you forget some of this tomorrow, it is worth listening to this lesson again. Until then, congratulations on beginning to learn English!"
+text = "In later lessons we will use these basic phrases regularly so, if you forget some of this tomorrow, it is worth listening to this lesson again. Until then, congratulations on beginning to learn Spanish!"
 type = "phrase"
 
 [[cards.sides]]
@@ -631,7 +631,7 @@ text = "Teacher"
 type = "phrase"
 
 [[cards.sides]]
-text = "fr"
+text = "en"
 type = "phrase"
 
 [[interactions]]
