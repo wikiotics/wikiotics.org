@@ -1,6 +1,6 @@
 +++
 title = "Hola"
-contributors = [ "69.115.216.77", "83.101.69.165", "Laurent", "ian",]
+contributors = [ "69.115.216.77", "83.101.69.165", "98.116.32.198", "Laurent", "ian",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
 type = "lesson"
 target-languages = [ "es",]
@@ -467,7 +467,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "¿Puede repetir eso?"
+text = "Por favor, repita eso. "
 type = "phrase"
 
 [[cards.sides]]
@@ -484,7 +484,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "¿Puede repetir eso?"
+text = "Por favor, repita eso. "
 type = "phrase"
 
 [[cards.sides]]
@@ -552,7 +552,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "¿Puede repetir eso?"
+text = "Por favor, repita eso. "
 type = "phrase"
 
 [[cards.sides]]
