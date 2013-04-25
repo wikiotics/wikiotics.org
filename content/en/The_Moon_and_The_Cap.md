@@ -65,8 +65,8 @@ text = "On the way home, a very strong wind came. It blew my cap away."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:3sY_jHFtEdgApZrVSqYwkq3HpNARjsFo7Qy6yoPrwPp4rOhWbz8yXXUauBZhl5Gq"
-href = "urn:sha384:UFJuNIRxXyPAUxPeiWeWadUF4NhKRolEllj9oOZiuzCZozHRr30V7HUv4lAFkksu"
+blob_href = "urn:sha384:QGw29T3kIvbKiZdmMeMHOOZkXC3T5qrsih6yT6ao2N4M9Yjuca1j6Mf8dtyC9iyP"
+href = "urn:sha384:vllYTp1LgmWqEQloVLy30pmZvqtXUF6gCW3U82KJHmYUxXMC_2-SF4DdHBWtAz_K"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -119,8 +119,8 @@ text = "Later that night, the moon came up. It looked at my cap on the old Pipal
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:JHqGtq2oWb3srM-YJP1i7KgW5qVMpNU_n-w4pXNVIZrYKLDuaajAX5BbvXlQe0Fc"
-href = "urn:sha384:RiDTg9rj2K2LdhLlmo9YQa3ZgF8ske8Mg8fewVcqr-Y6DaJPNRuBK67mBk07r9Be"
+blob_href = "urn:sha384:34H5P2vIgRnxtWapSuxi9jej7QfPOPKxOg5XkI_gtJxT1Ibh8iV4KWXLX9gWyjj8"
+href = "urn:sha384:aLzLSRydwMxBzyS4x-WZ4Nw1fxVTUmTcucF2Pp-UmByfQNugtM4VTfhgBTT-6Ycz"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -191,8 +191,8 @@ text = "Do you think the sun needs a hat?"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:-dUp-3ii4SlrD7Iq1apyy-wzzRNyfF0GkgCAisZ4unegMnyckpzPKr6IlPQ_KVb8"
-href = "urn:sha384:PXi_2b8BFV8CsdbF6CqueU1sxXfip6ZGTmYC9upz38LQXc-23DxngRju15-0_lUG"
+blob_href = "urn:sha384:YtC7A4T6Z0bBpVZq6QngqamWnEODDu6CJK1D1Q9uR9GS5MjNNhhH-oTby0tH-jqC"
+href = "urn:sha384:VefgEVgJ5SopE6lMzIfIbZBR_aRvskYwLiTAuFmjLKgQOtS7ACbcobQOLqHmJR6x"
 mime_type = "image/jpeg"
 type = "picture"
 
