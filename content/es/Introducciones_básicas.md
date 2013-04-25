@@ -389,7 +389,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "[[explain \"¿Cómo?\"]]"
+text = "[[explain \"¿Cómo?\" and/or introduce question structure etc.]]"
 type = "phrase"
 
 [[cards.sides]]
