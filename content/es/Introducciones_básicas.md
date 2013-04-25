@@ -42,7 +42,20 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's start by listening to the full dialogue."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -134,6 +147,240 @@ type = "empty"
 
 [[cards.sides]]
 text = "Raúl"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Now let's look at the first element in this dialogue."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "¡Hola! Me llamo Raúl. ¿Cómo te llamas?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Raúl"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Do you remember \"Hola\" from the first lesson? Listen to just that portion and speak or think to yourself what it means."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "¡Hola!"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Raúl"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Hola\" means \"Hello\" "
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Now that Raúl has greeted Sofía he continues his introduction by saying:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Me llamo Raúl."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Raúl"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This means \"My name is Raúl\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Listen to it once again and then repeat it to yourself with your name in place of Raúl's."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Me llamo Raúl."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Raúl"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Having now introduced himself, Raúl wishes to know the lady's name so he asks:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "¿Cómo te llamas?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Raúl"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This means \"What is your name\"."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Listen to Raúl whole portion of this exchange and then repeat it back to yourself."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "¡Hola! Me llamo Raúl. ¿Cómo te llamas?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Raúl"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "<pause>"
 type = "phrase"
 
 [[interactions]]
