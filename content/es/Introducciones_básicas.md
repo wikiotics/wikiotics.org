@@ -347,7 +347,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Listen to Raúl whole portion of this exchange and then repeat it back to yourself."
+text = "Listen to Raúl whole portion of this exchange and then repeat it back to yourself using your name instead of Raúl's."
 type = "phrase"
 
 [[cards.sides]]
