@@ -13,7 +13,10 @@ text = "Welcome to the second conversation lesson for the ElementarySpanish book
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vas5RMbO4phNNmfwWPvzvu5X3fjzZnK3qo8bPpwWZmFLbEmnnc88FAHPNGjlbem0"
+href = "urn:sha384:R5GnyWiQqj4D54uZOXZ6OAo_HM-vwVqeROfch6LL8PeZYSNyH5PLtb3P3kA1_hq2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Teacher"
@@ -368,6 +371,84 @@ type = "empty"
 
 [[cards.sides]]
 text = "Raúl"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "[[explain \"¿Cómo?\"]]"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Sofia responds."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hola, Raúl. Me llamo Sofía."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Sofía"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Listen to this again and repeat it to yourself but this time pretend that you are addressing Raúl and use your name in place of Sofía's."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hola, Raúl. Me llamo Sofía."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Sofía"
 type = "phrase"
 
 [[cards]]
