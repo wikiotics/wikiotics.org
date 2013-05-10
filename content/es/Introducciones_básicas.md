@@ -1,6 +1,6 @@
 +++
 title = "Introducciones básicas"
-contributors = [ "69.115.216.77",]
+contributors = [ "69.115.216.77", "98.116.28.212",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "LLT",]
 type = "lesson"
@@ -462,6 +462,84 @@ type = "empty"
 
 [[cards.sides]]
 text = "<pause>"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Having now introduced himself, Raúl asks Sofía how she is doing, so he asks:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "¿Cómo estas?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Raúl"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This means \"How are you doing?\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Listen to Raúl's whole portion of this exchange and then repeat it back to yourself"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "¿Cómo estas?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Raúl"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[interactions]]
