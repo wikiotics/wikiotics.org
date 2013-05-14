@@ -1,6 +1,6 @@
 +++
 title = "Introducciones básicas"
-contributors = [ "69.115.216.77", "98.116.28.212",]
+contributors = [ "173.77.204.79", "69.115.216.77", "98.116.28.212",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "LLT",]
 type = "lesson"
@@ -533,6 +533,84 @@ type = "phrase"
 
 [[cards.sides]]
 text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Sofia responds:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Bien, gracias. ¿Y usted?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Sofia"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This means \"Good, thank you. And you?\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Listen to Sofia's whole portion of this exchange, and repeat it back to yourself"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Bien, gracias. ¿Y usted?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Sofia"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards.sides]]
