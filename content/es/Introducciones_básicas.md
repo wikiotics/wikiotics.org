@@ -610,14 +610,66 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Afterwards, Sofia says"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Bueno, era un placer haberte conocido. Adiós, Raúl."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Sofia"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This means \"Well, it was a pleasure meeting you\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Listen to Sofia's whole portion of this exchange, and repeat it back to yourself"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Bueno, era un placer haberte conocido. Adiós, Raúl."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Sofia"
 type = "phrase"
 
 [[interactions]]
