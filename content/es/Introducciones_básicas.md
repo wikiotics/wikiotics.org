@@ -636,7 +636,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "This means \"Well, it was a pleasure meeting you\""
+text = "This means \"Well, it was a pleasure meeting you\" Do you remember what adios means in English? It means \"goodbye\""
 type = "phrase"
 
 [[cards.sides]]
@@ -670,6 +670,71 @@ type = "empty"
 
 [[cards.sides]]
 text = "Sofia"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Finally, Raúl responds:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "El placer es todo mío"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Raúl"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This means: \"The pleasure is all mine\" Listen to it again, and repeat what Raúl says:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "El placer es todo mío"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Raúl"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<placeholder for review>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[interactions]]
