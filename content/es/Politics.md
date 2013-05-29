@@ -1,19 +1,9 @@
 +++
 title = "Politics"
 contributors = [ "jarrettcarter",]
-headings = [ "Prompt", "Answer",]
+headings = [ "Phrase", "Prompt",]
 type = "lesson"
 target-languages = [ "es",]
-[[cards]]
-
-[[cards.sides]]
-text = "Vice president"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
 [[cards]]
 
 [[cards.sides]]
@@ -54,22 +44,9 @@ type = "phrase"
 text = "candidato"
 type = "phrase"
 
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
+[[interactions]]
+answer = 1
+prompt = [ 0,]
+type = "choice"
 
 +++
