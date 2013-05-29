@@ -12,13 +12,22 @@ text = "El asistente del presidente es el..."
 type = "phrase"
 
 [[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
 text = "vicepresidente"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "El asistente del presidente es el..."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -28,7 +37,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "El asistente del presidente es el..."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -38,7 +47,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "El asistente del presidente es el..."
+text = ""
 type = "phrase"
 
 [[cards.sides]]
