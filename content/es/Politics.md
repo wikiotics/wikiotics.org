@@ -8,15 +8,6 @@ target-languages = [ "es",]
 [[cards]]
 
 [[cards.sides]]
-text = "El asistente del presidente es el..."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
 text = ""
 type = "phrase"
 
@@ -62,6 +53,24 @@ type = "empty"
 [[cards.sides]]
 text = ""
 type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[interactions]]
 answer = 1
