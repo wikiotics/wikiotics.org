@@ -1,7 +1,6 @@
 +++
 title = "Politics"
 contributors = [ "jarrettcarter",]
-dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 target-languages = [ "es",]
@@ -71,10 +70,5 @@ type = "empty"
 
 [[cards.sides]]
 type = "empty"
-
-[[interactions]]
-answer = 1
-prompt = [ 1,]
-type = "choice"
 
 +++
