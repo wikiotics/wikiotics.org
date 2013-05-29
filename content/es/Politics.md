@@ -8,7 +8,7 @@ target-languages = [ "es",]
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Vice president"
 type = "phrase"
 
 [[cards.sides]]
@@ -18,7 +18,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Voter"
 type = "phrase"
 
 [[cards.sides]]
@@ -28,7 +28,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Democracy"
 type = "phrase"
 
 [[cards.sides]]
@@ -38,7 +38,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Candidate"
 type = "phrase"
 
 [[cards.sides]]
