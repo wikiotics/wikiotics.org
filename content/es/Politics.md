@@ -20,7 +20,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "governor"
+text = "votar"
 type = "phrase"
 
 [[cards]]
@@ -29,7 +29,8 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "democracia"
+type = "phrase"
 
 [[cards]]
 
@@ -37,7 +38,8 @@ type = "empty"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "candidato"
+type = "phrase"
 
 [[interactions]]
 answer = 1
