@@ -12,22 +12,14 @@ text = "El asistente del presidente es el..."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
 text = "vicepresidente"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "El asistente del presidente es el..."
+type = "phrase"
 
 [[cards.sides]]
 text = "votar"
@@ -36,7 +28,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "El asistente del presidente es el..."
+type = "phrase"
 
 [[cards.sides]]
 text = "democracia"
@@ -45,10 +38,20 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "El asistente del presidente es el..."
+type = "phrase"
 
 [[cards.sides]]
 text = "candidato"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[interactions]]
