@@ -11,6 +11,16 @@ text = "Vice president"
 type = "phrase"
 
 [[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Vice president"
+type = "phrase"
+
+[[cards.sides]]
 text = "vicepresidente"
 type = "phrase"
 
@@ -42,15 +52,6 @@ type = "phrase"
 
 [[cards.sides]]
 text = "candidato"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
 type = "phrase"
 
 [[cards]]
