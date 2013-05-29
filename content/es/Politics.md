@@ -20,7 +20,8 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+text = "governor"
+type = "phrase"
 
 [[cards]]
 
