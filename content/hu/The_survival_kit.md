@@ -1,6 +1,6 @@
 +++
 title = "The survival kit"
-contributors = [ "Laurent",]
+contributors = [ "84.224.8.142", "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "wikibabel",]
 type = "lesson"
@@ -205,7 +205,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Elneszest  /  boscanot"
+text = "Elnézést  /  bocsánat"
 type = "phrase"
 
 [[cards.sides]]
@@ -242,7 +242,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "kozinem"
+text = "köszönöm"
 type = "phrase"
 
 [[cards.sides]]
@@ -276,7 +276,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "szivesen"
+text = "szívesen"
 type = "phrase"
 
 [[cards.sides]]
@@ -313,7 +313,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Nem ertem."
+text = "Nem értem."
 type = "phrase"
 
 [[cards.sides]]
@@ -481,7 +481,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Edgy"
+text = "Egy"
 type = "phrase"
 
 [[cards.sides]]
@@ -515,7 +515,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Ketto"
+text = "Kettő"
 type = "phrase"
 
 [[cards.sides]]
@@ -549,7 +549,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Harom"
+text = "Három"
 type = "phrase"
 
 [[cards.sides]]
@@ -583,7 +583,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Nedgy"
+text = "Négy"
 type = "phrase"
 
 [[cards.sides]]
@@ -617,7 +617,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Ot"
+text = "Öt"
 type = "phrase"
 
 [[cards.sides]]
@@ -685,7 +685,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Het"
+text = "Hét"
 type = "phrase"
 
 [[cards.sides]]
@@ -787,7 +787,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Tiz"
+text = "Tíz"
 type = "phrase"
 
 [[cards.sides]]
