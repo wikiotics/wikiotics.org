@@ -7,96 +7,83 @@ target-languages = [ "en",]
 *These were written by Ian for when we have audio lessons available on
 the site.*
 
------
+Excuse me. Can you tell me the time, please? Yes, of course. It's seven
+o'clock.
 
-Excuse me. Can you tell me the time, please?  
-Yes, of course. It's seven o'clock.
+Thank you. No problem.
 
-Thank you.  
-No problem.
+What time is it? It's half past three.
 
------
+Thanks. You're welcome.
 
-What time is it?  
-It's half past three.
+Can I help you? Yes, I'm looking for a sweater.
 
-Thanks.  
-You're welcome.
+What size are you? I'm an extra large.
 
------
+How about this one? Yes, that's nice. Can I try it on?
 
-Can I help you?  
-Yes, I'm looking for a sweater.
+Certainly, there's the changing rooms over there. Thank you.
 
-What size are you?  
-I'm an extra large.
+How does it fit? It's too large. Do you have a large?
 
-How about this one?  
-Yes, that's nice. Can I try it on?
+Yes, here you are. Thank you. I'll have it, please.
 
-Certainly, there's the changing rooms over there.  
+OK, how would you like to pay? Do you take credit cards?
+
+Yes, we do. Visa, Master Card and American Express. OK, here's my Visa.
+
+Thank you. Have a nice day\! Thank you, goodbye.
+
+Excuse me. Is there a bank near here? Yes. There's a bank on the corner.
+
+Thank you. You're welcome.
+
+Excuse me. Is there a supermarket near here? Yes. There's one near here.
+
+How do I get there? At the traffic lights, take the first left and go
+straight on. It's on the left.
+
+Is it far? Not really.
+
+Thank you. Don't mention it.
+
+Hi. How are you doing this afternoon? Fine, thank you. Can I see a menu,
+please?
+
+Certainly, here you are. Thank you. What's today's special?
+
+Grilled tuna and cheese on rye. That sounds good. I'll have that.
+
+Would you like something to drink? Yes, I'd like a coke.
+
+Thank you. (returning with the food) Here you are. Enjoy your meal\!
 Thank you.
 
-How does it fit?  
-It's too large. Do you have a large?
+Can I get you anything else? No thanks. I'd like the check (bill - UK
+English), please.
 
-Yes, here you are.  
-Thank you. I'll have it, please.
+That'll be $6.75. Here you are. Keep the change\!
 
-OK, how would you like to pay?  
-Do you take credit cards?
+Thank you\! Have a good day\! Bye.
 
-Yes, we do. Visa, Master Card and American Express.  
-OK, here's my Visa.
+hello, is there a washroom around here?
 
-Thank you. Have a nice day\!  
-Thank you, goodbye.
+why, not a public one around here.
 
------
+ Oh, um.........o.......k...
 
-Excuse me. Is there a bank near here?  
-Yes. There's a bank on the corner.
+But you can use mine\!
 
-Thank you.  
-You're welcome.
+oh thank you so much
+...........................................................................................................................
 
------
+here it is 
 
-Excuse me. Is there a supermarket near here?  
-Yes. There's one near here.
+OK ill be out
+soon............................flush.......................
 
-How do I get there?  
-At the traffic lights, take the first left and go straight on. It's on
-the left.
+thanks agen\!\!\!
 
-Is it far?  
-Not really.
+ bye \!\!\!
 
-Thank you.  
-Don't mention it.
-
------
-
-Hi. How are you doing this afternoon?  
-Fine, thank you. Can I see a menu, please?
-
-Certainly, here you are.  
-Thank you. What's today's special?
-
-Grilled tuna and cheese on rye.  
-That sounds good. I'll have that.
-
-Would you like something to drink?  
-Yes, I'd like a coke.
-
-Thank you. (returning with the food) Here you are. Enjoy your meal\!  
-Thank you.
-
-Can I get you anything else?  
-No thanks. I'd like the check (bill - UK English), please.
-
-That'll be $6.75.  
-Here you are. Keep the change\!
-
-Thank you\! Have a good day\!  
-Bye.
+yes bye\!
