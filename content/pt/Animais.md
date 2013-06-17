@@ -1,6 +1,6 @@
 +++
 title = "Animais"
-contributors = [ "Laurent", "garrison", "saree",]
+contributors = [ "201.42.156.191", "Laurent", "garrison", "saree",]
 dividers = [ 4, 8, 12,]
 headings = [ "word", "picture",]
 type = "lesson"
@@ -188,7 +188,7 @@ title = "Cat"
 [[cards]]
 
 [[cards.sides]]
-text = "cachorro"
+text = "cachorroo"
 type = "phrase"
 
 [[cards.sides]]
