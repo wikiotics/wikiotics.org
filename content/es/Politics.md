@@ -124,7 +124,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Now, let's go over what each senetence means. Remember that Diego and Enrique are discussing an upcoming election."
+text = "Now, let's go over what each senetence means. In the following scene, two young men, Diego and Enrique, discuss some politics."
 type = "phrase"
 
 [[cards.sides]]
@@ -228,6 +228,19 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Diego then responds by reminding Enrique that voting takes place every four years."
 type = "phrase"
 
@@ -249,6 +262,58 @@ type = "empty"
 
 [[cards.sides]]
 text = "Diego"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"Vivimos en\" means \"We live in\", you can use this for any place your are describing. For instance, \"vivimos en Nueva York\" simply means, \"we live in New York\". In the context of this dialogue, \"Vivimos en una gran democracia\" means, \"we live in a great democracy.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Another helpful phrase to know is, \"Por esa razón\" That means, \"for that reason.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\"años\" means years. \"cuartro\" the number four. Can you guess what the rest of the phrase means?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -280,6 +345,19 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Now Enrique wants to know who the candidates are, he asks:"
 type = "phrase"
 
@@ -306,6 +384,19 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "Remember from the last lesson that \"quien\" means \"who.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "This means, \"who are the candidates?\" Now say it with Enrique."
 type = "phrase"
 
@@ -327,6 +418,19 @@ type = "empty"
 
 [[cards.sides]]
 text = "Enrique"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -384,6 +488,19 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Enrique is surprised, because he believes that election already took place. He responds:"
 type = "phrase"
 
@@ -431,6 +548,19 @@ type = "empty"
 
 [[cards.sides]]
 text = "Enrique"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards]]
@@ -488,6 +618,19 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "To which Enrique responds:"
 type = "phrase"
 
@@ -535,6 +678,19 @@ type = "empty"
 
 [[cards.sides]]
 text = "Enrique"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[cards]]
