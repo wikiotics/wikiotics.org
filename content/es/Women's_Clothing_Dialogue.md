@@ -378,13 +378,52 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "From our lesson on questions, cuando means when."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Poner means to put."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "From these clues, what do you think Jorge is asking Lupe?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<pause>"
 type = "phrase"
 
 [[cards.sides]]
@@ -392,6 +431,19 @@ type = "empty"
 
 [[cards.sides]]
 text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "What clothes will you wear when you use it?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
 type = "phrase"
 
 [[interactions]]
