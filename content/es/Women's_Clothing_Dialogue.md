@@ -446,6 +446,253 @@ type = "empty"
 text = "Teacher"
 type = "phrase"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Lupe tells Jorge what she plans to wear when riding her scooter. Keep an ear out for vocabulary words from the lesson."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Me voy a poner unos vestidos largos, o una falda con tacones altos. Pero no se preocupe, papá. Me voy a poner una chaqueta de cuero para protegerme."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Lupe"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "That's a long list! Before we go further, let's break down the beginning."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Voy means to go, Me voy means I am going. Here, Lupe says Me voy a poner, which means I am going to wear. This means that anytime you hear Lupe say voy a poner, she is saying I am going to wear."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "In her list of what to wear, Lupe mentions words from our vocabulary list-- a long dress, high heels, and a leather jacket."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Finally, no se preocupe means don't worry."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "When we put it all together, Lupe said: I'm going to put on a  long dress, or a skirt with high heels. But do not worry, Dad. I'm putting on a leather jacket to protect me."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Are those good things to wear on a scooter? Obviously not. Jorge tells Lupe that."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Estas loca. Ni blusa de dejo poner. Tienes que cubrirte completamente. Tienes que ponerte pantalones largos, botas largas y una chaqueta de cuero."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jorge"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "First of all, estas loca simply means you're crazy."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "<Ni blusa de dejo poner translation>"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Remember that tienes means you have. Completamente is complete in the adverb form, which is completely."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "When we put this together, we understand that the second sentence means You have to cover yourself completely."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "With the vocabulary we've learned so far, you can see that the third sentence means \"You have to wear long pants, large boots, and a leather jacket."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Lupe understands, and replies:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "¡No se le olvide el casco!"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Olvide means to forget. Casco means helmet."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This means, \"dont forget the helmet!\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
 [[interactions]]
 audio = 1
 transcript = 0
