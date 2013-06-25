@@ -612,7 +612,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -625,7 +625,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -638,7 +638,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
@@ -651,7 +651,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Lupe"
 type = "phrase"
 
 [[cards]]
@@ -664,33 +664,215 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "This means, \"dont forget the helmet!\""
+text = "This means, \"don't forget the helmet!\""
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Jorge reminds Lupe why it's important to wear a helmet."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Si, mija. Tienes que proteger tu cabeza linda."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jorge"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Proteger means to protect. Cabeza means head. Also remember that, in Spanish, the adjective goes after the noun. Linda means beautiful, but it comes after cabeza."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jorge said, \"Yes, daughter. You have to protect your beautiful head.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Lupe responds:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Si, papi. Estaba burlando. Por supuesto tengo pantalones largos, botas, una chaqueta de cuero y un casco."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Lupe"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Estaba is the past tense of I am. Burlando means kidding. Put together, it means \"I was kidding\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Por supesto means of course. "
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tengo is the yo (I) form of tienes. Lupe is saying that she has the appropriate attire."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Put together, this all means: \"Yes, dad. I was kidding. Of course I have long pants, boots, a leather jacket, and a helmet."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Jorge is relieved."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Que bueno. Maneja con cuidado."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Jorge"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Since bueno means good, que bueno means \"That's good.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Maneja means to drive."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Put together, Jorge is saying That's good. Drive carefully."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
 type = "phrase"
 
 [[interactions]]
