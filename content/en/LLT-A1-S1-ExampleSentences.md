@@ -1,16 +1,10 @@
 +++
 title = "LLT-A1-S1-ExampleSentences"
-contributors = [ "213.114.82.171", "39.47.126.43", "erinrussia", "ian",]
+contributors = [ "117.223.211.118", "213.114.82.171", "39.47.126.43", "erinrussia", "ian",]
 headings = [ "Sentences",]
 tags = [ "A1-S1", "LLT", "example-sentences",]
 type = "lesson"
 target-languages = [ "en",]
-[[cards]]
-
-[[cards.sides]]
-text = "I'm tired."
-type = "phrase"
-
 [[cards]]
 
 [[cards.sides]]
