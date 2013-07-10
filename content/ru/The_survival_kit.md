@@ -1,6 +1,6 @@
 +++
 title = "The survival kit"
-contributors = [ "77.123.1.43", "Laurent",]
+contributors = [ "188.162.167.63", "77.123.1.43", "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "wikibabel",]
 type = "lesson"
@@ -67,8 +67,8 @@ text = "Добрый день"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:QemL92Y5XY_a3BK_4O1ux_Sd98UsdrZoqt9d6gisLLBVI4h-6lCJedt-JuuF8ro0"
-href = "urn:sha384:5OoZvyBrHkzontbm4V7nAA_cw1BHkLiwPhdoxpDZt9-N4cp_R60--F_wuGTHdmSY"
+blob_href = "urn:sha384:rH9MykN4VO3VzEYdtplHQzH2YmTGI0T-f97DQiFoQdwjfirSxySx_eTN2y8AKWBs"
+href = "urn:sha384:Bj1jMR3newQEPImPasO7aM4i4nitW4pG2gMNgAvs7Y_SlGVbIfe6ka0jvKEdk5Zp"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -278,7 +278,10 @@ text = "Спасибо"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:U-auCE5MS5UILh3LsDmzluWlR_QORIcT_Ur-WyvO5QRPGFW0tiy5o13QMK5jqDIK"
+href = "urn:sha384:RQbjCPlHjgpF5rzZPSBMvMSiEILnQ1kCwLd1p_TZB9Nc4S1VmFP5X_UORxUyM_dz"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ru"
@@ -519,7 +522,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pojalusto"
+text = "Pozhaluysta"
 type = "phrase"
 
 [[cards.sides]]
@@ -636,7 +639,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Досвидания."
+text = "До свидания."
 type = "phrase"
 
 [[cards.sides]]
