@@ -1,6 +1,6 @@
 +++
 title = "The survival kit"
-contributors = [ "188.162.167.63", "77.123.1.43", "Laurent",]
+contributors = [ "188.162.166.7", "188.162.167.63", "77.123.1.43", "Laurent",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "wikibabel",]
 type = "lesson"
@@ -278,10 +278,7 @@ text = "Спасибо"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:U-auCE5MS5UILh3LsDmzluWlR_QORIcT_Ur-WyvO5QRPGFW0tiy5o13QMK5jqDIK"
-href = "urn:sha384:RQbjCPlHjgpF5rzZPSBMvMSiEILnQ1kCwLd1p_TZB9Nc4S1VmFP5X_UORxUyM_dz"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards.sides]]
 text = "ru"
