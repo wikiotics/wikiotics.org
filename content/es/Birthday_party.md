@@ -1,224 +1,896 @@
 +++
 title = "Birthday party"
-contributors = [ "jarrettcarter",]
-dividers = [ 4, 8,]
-headings = [ "Phrase", "Picture", "Audio",]
+contributors = [ "173.77.204.79",]
+headings = [ "Phrase", "Audio", "Speaker",]
 type = "lesson"
 target-languages = [ "es",]
 [[cards]]
 
 [[cards.sides]]
-text = "pastel"
+text = "\nWelcome to this lesson on birthdays! In this lesson, you will learn how to talk about a birthday."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:DwQ9Uz8EsVmdCYEb_S1AGQIKUcqJYSM3RdgKzJgFx9SN8YUJyxRSoL9LyTkK8EPL"
-href = "urn:sha384:Up8CW-fpbJgQLwEyvOB8UVahSmlt2Dt_9V9DtTPJ0qPriKDXv2FVKnIb5V54w7ya"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Bill Ward (Bill Ward's Brickpile)"
-author_url = "http://www.flickr.com/people/23501684@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/23501684@N00/207023958"
-title = "Birthday Cake"
-[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "velas"
+text = "In the following scene, a mom lets her daughter know what she will do on her birthday."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Mt4gMtaGfQHz7be4tZYc6rDSw7GYeh8TdReIBhk6lIjBsJr_OIkbCpXV9xkOdG5d"
-href = "urn:sha384:5a81iGuf5GbBivC8RXA_p-0fIDPlifjQdVWvhd2Uprt8f-NOgdkGNQAuu47YMJIV"
-mime_type = "image/jpeg"
-rotation = "270"
-type = "picture"
-
-[cards.sides.credit]
-author = "Mark Groves (mark.groves)"
-author_url = "http://www.flickr.com/people/67074858@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/67074858@N00/1497670455"
-title = "Birthday candles"
-[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "piñata"
+text = "¡Hoy es tu cumpleaños! Feliz cumpleaños."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:xpT-zHxxazOKfTb1P22vFhZ47dxB9_yLt6xRi0XqvlbJHAgntAGLMoKdbtYdkgqM"
-href = "urn:sha384:Ac02K4jMUsKvf2_qfdKsBn7K2Ahw6y_EMbj684r9MP5f-Ud30MLWqt--sI4u9Wjw"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Steven Depolo (stevendepolo)"
-author_url = "http://www.flickr.com/people/10506540@N07/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/10506540@N07/3902530260"
-title = "Pinata Birthday Party 9-5-09 2"
-[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "lumbre"
+text = "Gracias, mamá. ¿Vamos a tener una fiesta?"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:9rYB7GPfaQkvv9IpddTHGrr4K7bQKZXYkbJk5mQ_PgRV-lWRC8_7NqLhhy1MBzmS"
-href = "urn:sha384:smF8ZWsYebMjkwgGyB-5ncH6xSWeuM8M7kMyoIfxdjIac2WrR5PAHqW56LNUAYjC"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Ben Watts (benwatts)"
-author_url = "http://www.flickr.com/people/8901036@N07/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/8901036@N07/4087289013"
-title = "Fire in Dumpster"
-[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "Hija"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "cumpleaños"
+text = "Si. También vamos a tener un pastel con velas."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:041bqoqhT0oSp3dsgU1DrU5cecMHIn6Njzg2ilTFs8DS05EU-smG_MpG1vui2gbL"
-href = "urn:sha384:xEFOR3d8qHJ9R8maCJhxg4NtLalRN30IoK_0ELMOllzkx6PipJPTQPEnlmAFBmFz"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = " (rabble)"
-author_url = "http://www.flickr.com/people/24709029@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/24709029@N00/3461670206"
-title = "Camilo's 2nd Birthday party"
-[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "dulces"
+text = "¿Tengo que soplar la lumbre?"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:zI03AHZNEERhdSTmWs4b0F-DGglJbatsNu5pmjm_aj7irxXYfGn0B0cUj3P_PLeR"
-href = "urn:sha384:s_Qc6t52p6AWfrado-Um1HN2AtWh28i7U-i8vL2ATpb2bM-WLSOeaRXx5z7aheqj"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Walt Stoneburner (Walt Stoneburner)"
-author_url = "http://www.flickr.com/people/8404611@N06/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/8404611@N06/5500391897"
-title = "Candy"
-[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "Hija"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "fiesta"
+text = "Tienes que soplar la lumbre de las velas, cortar el pastel y quebrar la piñata."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:qsftkifPz_ZWsdjz8XOsKwrgTFGJUioJMMROxKmvPK6v7HRiqGfT8CMxjt1Cuvcm"
-href = "urn:sha384:wtoXQGldnhPwFGPptF-xuCoKLaVMtgElrVgfceEwkdSb3k_S9f8gNvKBX-5U7mBa"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = " (NinaZed)"
-author_url = "http://www.flickr.com/people/46084814@N04/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/46084814@N04/5678412190"
-title = "Party 1950s Style"
-[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "quebrar"
+text = " Y comer muchos dulces, también, ¿verdad?"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:SUh0gbOcSRr0bAggltNFhhThcFS_dT_w6IuCi_869n17ECqI_gRziKN3pAmwhFi9"
-href = "urn:sha384:Sh6XZYo77YXYVBpp9wPiZrdetxvFlmdXW2OeIzGKx3K7EYZjuju1F9elqLCyWk6X"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Rich Anderson (Rich Anderson)"
-author_url = "http://www.flickr.com/people/99105016@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/99105016@N00/2840195"
-title = "Broken Windshield."
-[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "Hija"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "cortar"
+text = "Si. Es tu cumpleaños."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:WjUITPNSkzVNZ-TgAKxMQh-09Opg5hs6IaX8_sPzCyaJpPnI8WVbI6ceTDrpWS-P"
-href = "urn:sha384:SxMtNL9DYHAChCBBD0Apvyq3iWgwenAl4W_cGEpRMwtC6vW8ku181bXJhEvWbPwo"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "J E Theriot (jetheriot)"
-author_url = "http://www.flickr.com/people/9198432@N02/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/9198432@N02/2242116455"
-title = "scissor 5"
-[[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "soplar"
+text = "Now, let's go over each part individually."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:gP3LzR_yKnCfDvSqGi5Y5frvvaJjtris_7dD2meWQzncn_UGde8rlReT01aE_GQF"
-href = "urn:sha384:ZA_YPnLLm5QmhDuGbtKZNiz-JuDmqF-5g_y0SKmje0VtcOdEB4J3BDJ1LYxCwbYu"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = " (jeremyfoo)"
-author_url = "http://www.flickr.com/people/73207483@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/73207483@N00/173726647"
-title = "Blow me too"
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The mom starts out with:"
+type = "phrase"
+
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hoy es tu cumpleaños!"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hoy means today."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Cumpleaños means birthday. Can you guess what the mother is telling her daughter?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hoy es tu cumpleaños!"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The mother is saying, \"today is your birthday!\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\nFeliz cumpleaños means happy birthday in Spanish."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\nThe daughter thanks her mom for the birthday wish, and asks her mom a question:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Gracias, mamá. ¿Vamos a tener una fiesta?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Hija"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tener means to have."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "A fiesta is a party."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Can you guess what the daughter is asking her mom?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "¿Vamos a tener una fiesta?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Hija"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The daughter is asking her mom, \"are we going to have a party?\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\nThe mother responds to her question:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\nSi. También vamos a tener un pastel con velas."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Let's break this down a little bit."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\nWe already know that si means yes."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tambien means also."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\nFrom our vocabulary, un pastel con velas is a cake with candles."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\nVamos is the nosotros, or we, form of the verb ir, which means to go."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\nWhat do you think the mother is saying in response to her daughter asking about a fiesta?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "\nSi. También vamos a tener un pastel con velas."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " The mother is saying, \"Yes, we are also going to have a cake with candles.\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Next, the daughter asks a follow up question:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " ¿Tengo que soplar la lumbre?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Hija"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Lets break this down."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Tengo is the yo, or I, form of tener, which means to have."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Soplar is a verb, which means to blow."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Lumbre is fire."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " What do you think the daughter is asking her mom regarding the birthday cake with candles?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " ¿Tengo que soplar la lumbre?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Hija"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " The daughter is asking, \"do I have to blow the fire?\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " The mom responds to her question by giving the daughter three things she must do:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Tienes que soplar la lumbre de las velas, cortar el pastel y quebrar la piñata."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " The mother begins with \"tienes que\" which means you have to."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " The first thing the mother tells the daughter she must do is:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Tienes que soplar la lumbre de las velas."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " From earlier in the podcast, you know that soplar means to blow."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Lumbre de las velas is just a different way of saying what we said before, light of the candles."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " We know that the first thing the mom says the daughter must do is blow the light out of the candles."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " The second thing the mom says the daughter must do is:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Tienes que cortar el pastel."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Cortar means to cut, and we already know el pastel is cake."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Therefore, we know the daughter has to cut the cake."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " What's the third thing?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Tienes que quebrar la piñata."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Quebrar means to break."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " What do you think the third thing means?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " You have to blow the light of the candles, cut the cake and break the piñata."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " After being told the three things she must do during the birthday party, the daughter responds:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "  Y comer muchos dulces, también, ¿verdad?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Hija"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Comer is a verb that means to eat."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Verdad means right, in terms of being correct. When it's put inside question marks, it has the same effect of making a statement, and then finishing it with right. In this case, the daughter says, \"and eat lots of sweets also, right?\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " The mother agrees, saying:"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " Si. Es tu cumpleaños."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Mama"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = " This simply means, \"Yes, it's your birthday\""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Great work! Feel free to listen to this podcast over and over again."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
 
 [[interactions]]
-answer = 1
-prompt = [ 0, 2,]
-type = "choice"
+audio = 1
+transcript = 0
+type = "podcast"
 
 +++
