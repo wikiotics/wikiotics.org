@@ -410,7 +410,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "<translation errors>"
 type = "phrase"
 
 [[cards.sides]]
