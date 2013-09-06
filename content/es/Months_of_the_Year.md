@@ -118,7 +118,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Acción de Gracias es en"
+text = "La Navidad es en"
 type = "phrase"
 
 [[cards.sides]]
