@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-Education-Part2"
-contributors = [ "47.21.143.58",]
+contributors = [ "209.2.60.77", "47.21.143.58",]
 headings = [ "Prompt", "Answer",]
 tags = [ "ElementarySpanish", "LLT",]
 type = "lesson"
@@ -12,7 +12,7 @@ text = "¿Qué aprendiste en Ciencia?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "En ciencia aprendí de las partes de las plantas. "
 type = "phrase"
 
 [[cards]]
@@ -22,17 +22,17 @@ text = "¿Qué significa Metacognición?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Metacognición significa pensar de pensar. "
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "¿Cómo hiciste _____?"
+text = "¿Cómo hiciste la suma?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Hice la suma usando mis dedos. "
 type = "phrase"
 
 [[cards]]
@@ -42,7 +42,7 @@ text = "Enséñame como hiciste ____ en clase."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mire como hice estoy en clase. "
 type = "phrase"
 
 [[interactions]]
