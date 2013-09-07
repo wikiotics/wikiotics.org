@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-Family1-Part3"
-contributors = [ "47.21.143.58",]
+contributors = [ "209.2.60.77", "47.21.143.58",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 tags = [ "ElementarySpanish", "LLT",]
@@ -13,7 +13,7 @@ text = "¿Tiene hijos?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "No tengo hijos."
 type = "phrase"
 
 [[cards]]
@@ -23,7 +23,7 @@ text = "Mis hijos/hijas van a _____."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mis hijos van a una escuela privada. "
 type = "phrase"
 
 [[cards]]
@@ -33,7 +33,7 @@ text = "¿Dónde van tus hijos?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mis hijos van a la escuela publica diez. "
 type = "phrase"
 
 [[cards]]
@@ -43,7 +43,7 @@ text = "¿Juegan deportes tus hijos/hijas?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mis hijos juegan deportes. "
 type = "phrase"
 
 [[cards]]
@@ -53,7 +53,7 @@ text = "¿Estas casado/casada?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Si estoy casada. "
 type = "phrase"
 
 [[cards]]
@@ -63,7 +63,7 @@ text = "¿Tienes hermanos/hermanas?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Tengo tres hermanos. "
 type = "phrase"
 
 [[interactions]]
