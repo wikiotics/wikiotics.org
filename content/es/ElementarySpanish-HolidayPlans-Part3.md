@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-HolidayPlans-Part3"
-contributors = [ "47.21.143.58",]
+contributors = [ "209.2.60.77", "47.21.143.58",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 tags = [ "ElementarySpanish", "LLT",]
@@ -13,7 +13,7 @@ text = "¿Celebraste eso creciendo?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "No celebre eso cuando estaba creciendo. "
 type = "phrase"
 
 [[cards]]
@@ -23,7 +23,7 @@ text = "¿Celebras eso con tu familia o con la comunidad?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Celebro con la comunidad completa. "
 type = "phrase"
 
 [[cards]]
@@ -33,7 +33,7 @@ text = "¿Hay comidas especiales?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Si hay comidas especiales. "
 type = "phrase"
 
 [[cards]]
@@ -43,7 +43,7 @@ text = "¿Usas ropa especial?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "No uso ropa especiales. "
 type = "phrase"
 
 [[cards]]
@@ -53,7 +53,7 @@ text = "¿Celebras ______ en un lugar especial?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Si celebro en un lugar especial. "
 type = "phrase"
 
 [[cards]]
@@ -63,7 +63,7 @@ text = "¿Eso es como ____?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Día de los Muertos no es como <<Halloween>>. "
 type = "phrase"
 
 [[interactions]]
