@@ -9,7 +9,7 @@ target-languages = [ "es",]
 [[cards]]
 
 [[cards.sides]]
-text = " \t¿Cuánto tiempo estas allí?"
+text = "¿Cuánto tiempo estas allí?"
 type = "phrase"
 
 [[cards.sides]]
@@ -19,7 +19,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = " \t¿Cómo llegas a tu trabajo?"
+text = "¿Cómo llegas a tu trabajo?"
 type = "phrase"
 
 [[cards.sides]]
@@ -49,7 +49,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = " \t¿Qué haces cuando estas en el ____?"
+text = "¿Qué haces cuando estas en el ____?"
 type = "phrase"
 
 [[cards.sides]]
