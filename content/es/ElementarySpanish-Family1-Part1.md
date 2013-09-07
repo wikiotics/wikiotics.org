@@ -13,7 +13,7 @@ text = "¿Cuántos hay en tu familia?"
 type = "phrase"
 
 [[cards.sides]]
-text = "En mi familia hay cinco personas. "
+text = "Hay cinco personas en mi familia. "
 type = "phrase"
 
 [[cards]]
