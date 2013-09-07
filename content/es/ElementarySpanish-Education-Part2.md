@@ -8,7 +8,7 @@ target-languages = [ "es",]
 [[cards]]
 
 [[cards.sides]]
-text = " \t¿Qué aprendiste en Ciencia?"
+text = "¿Qué aprendiste en Ciencia?"
 type = "phrase"
 
 [[cards.sides]]
