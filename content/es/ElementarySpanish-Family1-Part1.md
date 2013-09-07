@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-Family1-Part1"
-contributors = [ "47.21.143.58",]
+contributors = [ "209.2.60.77", "47.21.143.58",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 tags = [ "ElementarySpanish", "LLT",]
@@ -13,7 +13,7 @@ text = "¿Cuántos hay en tu familia?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "En mi familia hay cinco personas. "
 type = "phrase"
 
 [[cards]]
@@ -23,7 +23,7 @@ text = "¿Cuál es tuya? ¿Cuál es tuyo?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Ese niño es mio. "
 type = "phrase"
 
 [[cards]]
@@ -33,7 +33,7 @@ text = "Mi hijo/hija es _______."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mi hijo es Jarome. "
 type = "phrase"
 
 [[cards]]
@@ -43,7 +43,7 @@ text = "¿Cuántos años tiene?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Tiene seis años. "
 type = "phrase"
 
 [[cards]]
@@ -53,7 +53,7 @@ text = "¿Cómo te llamas?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Me llamo Samanta. "
 type = "phrase"
 
 [[cards]]
@@ -63,7 +63,7 @@ text = "¿Cómo se llama él/ella?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Se llama Laura. "
 type = "phrase"
 
 [[cards]]
@@ -73,7 +73,7 @@ text = "¿En que grado esta él/ella?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "El esta en el segundo grado. "
 type = "phrase"
 
 [[interactions]]
