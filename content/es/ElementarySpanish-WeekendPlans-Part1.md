@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-WeekendPlans-Part1"
-contributors = [ "47.21.143.58",]
+contributors = [ "209.2.60.77", "47.21.143.58",]
 headings = [ "Prompt", "Answer",]
 tags = [ "ElementarySpanish", "LLT",]
 type = "lesson"
@@ -12,7 +12,7 @@ text = "¿Qué vas hacer mañana?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mañana  voy a lavar mi ropa. "
 type = "phrase"
 
 [[cards]]
@@ -22,17 +22,17 @@ text = "¿Dónde vas mañana?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mañana voy a la tienda. "
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Are you cooking or eating out? \t¿Vas a cocinar o comer afuera?"
+text = "¿Vas a cocinar o comer afuera?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Voy a cocinar. "
 type = "phrase"
 
 [[cards]]
@@ -42,7 +42,7 @@ text = "¿Cómo vas a ir allí?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Voy a ir en un taxi. "
 type = "phrase"
 
 [[interactions]]
