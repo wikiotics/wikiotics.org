@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-Family1-Part2"
-contributors = [ "47.21.143.58",]
+contributors = [ "209.2.60.77", "47.21.143.58",]
 headings = [ "Prompt", "Answer",]
 tags = [ "ElementarySpanish", "LLT",]
 type = "lesson"
@@ -8,11 +8,11 @@ target-languages = [ "es",]
 [[cards]]
 
 [[cards.sides]]
-text = "¿Cómo se llama tu hermano/hermana mayor/menor?"
+text = "¿Cómo se llama tu hermano/hermana? mayor/menor?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mi hermana se llama Cindy."
 type = "phrase"
 
 [[cards]]
@@ -22,7 +22,7 @@ text = "¿Cuándo es tu cumpleaños?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mi cumpleaños es el once de noviembre. "
 type = "phrase"
 
 [[cards]]
@@ -32,7 +32,7 @@ text = "¿Cuándo es el cumpleaños de tu hermana/hermano?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "El cumpleaños de mi hermano es el 19 de septiembre. "
 type = "phrase"
 
 [[cards]]
@@ -42,7 +42,7 @@ text = "¿Qué es tu numero de teléfono?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mi numero de teléfono es cinco cinco cinco uno dos tres cuatro. "
 type = "phrase"
 
 [[interactions]]
