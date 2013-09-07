@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-WeekendPlanning-Part3"
-contributors = [ "47.21.143.58",]
+contributors = [ "209.2.60.77", "47.21.143.58",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 tags = [ "ElementarySpanish", "LLT",]
@@ -13,7 +13,7 @@ text = "¿Quién va ir con nosotros?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Mama va ir con nosotros. "
 type = "phrase"
 
 [[cards]]
@@ -23,7 +23,7 @@ text = "¿Va ver campo para uno mas?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Si hay campo para uno mas. "
 type = "phrase"
 
 [[cards]]
@@ -33,7 +33,7 @@ text = " \t¿Cuánto tiempo va durar para llegar?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Va durar dos horas para llegar. "
 type = "phrase"
 
 [[cards]]
@@ -43,7 +43,7 @@ text = "¿Cuánto va a costar?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Va costar cinco dolares. "
 type = "phrase"
 
 [[cards]]
@@ -53,7 +53,7 @@ text = "¿Va ver un costo para la entrada?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "La entrada es gratis. "
 type = "phrase"
 
 [[interactions]]
