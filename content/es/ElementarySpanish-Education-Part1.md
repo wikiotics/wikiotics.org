@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-Education-Part1"
-contributors = [ "47.21.143.58",]
+contributors = [ "209.2.60.77", "47.21.143.58",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 tags = [ "ElementarySpanish", "LLT",]
@@ -13,7 +13,7 @@ text = "¿Dónde fuiste a la escuela?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Fui a la escuela en la cuidad. "
 type = "phrase"
 
 [[cards]]
@@ -23,7 +23,7 @@ text = "¿Qué grande estaba?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "La escuela estaba pequeña. "
 type = "phrase"
 
 [[cards]]
@@ -33,7 +33,7 @@ text = "¿Cuántos estudiantes tenía?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Tenía tres cientos estudiantes. "
 type = "phrase"
 
 [[cards]]
@@ -43,7 +43,7 @@ text = "¿Cuántos maestros tuviste?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Tuve ocho maestros. "
 type = "phrase"
 
 [[cards]]
@@ -53,7 +53,7 @@ text = "¿Te gusto?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Si me gusto. "
 type = "phrase"
 
 [[cards]]
@@ -63,7 +63,7 @@ text = "¿Eras un estudiante bueno?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "No era un estudiante bueno. "
 type = "phrase"
 
 [[cards]]
@@ -73,7 +73,7 @@ text = "¿Jugaste deportes?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Si jugué deportes. "
 type = "phrase"
 
 [[interactions]]
