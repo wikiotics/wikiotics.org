@@ -1,6 +1,6 @@
 +++
 title = "ElementarySpanish-Education-Part3"
-contributors = [ "47.21.143.58",]
+contributors = [ "209.2.60.77", "47.21.143.58",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 tags = [ "ElementarySpanish", "LLT",]
@@ -13,7 +13,7 @@ text = "¿Fuiste a la escuela?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Si fui a la escuela. "
 type = "phrase"
 
 [[cards]]
@@ -23,7 +23,7 @@ text = "¿Cómo fue escuela para ti?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "La escuela fue horroroso. "
 type = "phrase"
 
 [[cards]]
@@ -33,7 +33,7 @@ text = "¿Te gustó la escuela?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "No me gusto la escuela. "
 type = "phrase"
 
 [[cards]]
@@ -43,17 +43,17 @@ text = "¿Qué era difícil para ti?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Matemáticas era difícil para mi. "
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "¿Necesitamos estudiar eso para tu trabajo?"
+text = "¿Necesitaste estudiar eso para tu trabajo?"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "No necesite estudiar eso para mi trabajo. "
 type = "phrase"
 
 [[interactions]]
