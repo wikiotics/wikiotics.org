@@ -23,10 +23,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/18090920@N07/4356914605"
 title = "hello"
 [[cards.sides]]
-blob_href = "urn:sha384:NfsY7oSP08KtiJSiBFZ_eTvLU52XrzVxoBxp9GCf0eh2D9lsuIuIooIPrJxrzn8K"
-href = "urn:sha384:QWG7OzaGeqtYQL1WUyu7v6Br177ohl99GJ7jUJBecG2BZQmEfbFwYObh4h0gca84"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -47,10 +44,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/88092208@N06/9401526944"
 title = "How To Improve Communication In A Relationship - Listen Carefully Before Responding"
 [[cards.sides]]
-blob_href = "urn:sha384:CotZ6gQfBdI4v4PGF6CpIJtKY3Be2AzxotbUGu8GH4_Yi4Q4mEie8B3R9Vb5waFH"
-href = "urn:sha384:GUreDW5xCSNeu-bv3yw5LXKSuHp2B7nhL3cDX7HliYV_WCZMmkVPUFAT96zrbhqZ"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[interactions]]
 type = "storybook"
