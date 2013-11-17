@@ -48,7 +48,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/38872730@N00/7432880868"
 title = "Happy Girl"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YxhPs7RwnTM41MaV9j45CsAUflRL2-kzOMun5GibW36Yz0mY1fFTJqdjuToJlCKC"
+href = "urn:sha384:1mQCdQeV0Ir-24AX529T3E3JRoqz4PMSYI7gC_Fc-LqRr1Wyw0pO6FMF6PbpQQDF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -90,7 +93,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/30713600@N00/2711171458"
 title = "men only"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:sW-1_3yn7u-788ym8U2ph8Dr18eoCAecxoGQK1PS6L_bGQQ_-xUZJ88yy_bMxuYa"
+href = "urn:sha384:GmeXIAaS93ODwbfzMzRGI_AV2pRemaw4Y485k8dizZinopmEUkSXJycp3Lgqg0Lb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -111,7 +117,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/50852241@N00/87710908"
 title = "Man at Momos Restaurant"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:z072Ux15HNAGc70VVdYpXUHpiB0XHkSvasdzf4yYcnby3DoLliyFXYaeDBgDjFGZ"
+href = "urn:sha384:tNrgvxf_wc3nY4bYznWz2DS0wullLofBoYg7Na_N32ABYKXpAOVU74MemofKMcLp"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
