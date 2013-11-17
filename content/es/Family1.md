@@ -1,6 +1,6 @@
 +++
 title = "Family1"
-contributors = [ "98.113.38.94",]
+contributors = [ "98.113.38.94", "98.116.20.243",]
 dividers = [ 4,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
@@ -43,16 +43,6 @@ type = "phrase"
 
 [[cards.sides]]
 text = "papá"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Todos los niños tienen"
-type = "phrase"
-
-[[cards.sides]]
-text = "padres"
 type = "phrase"
 
 [[cards]]
