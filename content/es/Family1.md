@@ -216,7 +216,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/7961775@N03/7419866148"
 title = "Sisters"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0o86BVyb-lxaETxIp1mvNO15zIBlwvzevyH2B5mchfwVz70wiOXG2ppg3bpy9ush"
+href = "urn:sha384:YF5AC4gNLmd7nCvdvQVLhotvj0Rd_KIO_JtNV55OpKzBhZ2pxH84NuUrh7lNr5Cd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -237,7 +240,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/53779476@N08/5011303336"
 title = "Father_Child"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5aRrrJrHONdqi6Hb7x5LFtjeWbKU9LRNnxIVgv52ycbWyGTK7iU370gZN6dsPenD"
+href = "urn:sha384:v8XGyxIqKyVzFRLuy0JoFJ3_Hkmne1PL8F71-T6wL0_t0YOojjGcVFs3PLvFr5t3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -258,7 +264,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36558296@N00/7479730950"
 title = "Fathers Day 2012"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:icMEgTUgqKncvBRWv6C-sjhfFhOBHptYmF7zC238aPYRDy9M5ptLNigvCnPx6yLP"
+href = "urn:sha384:9Rt4vh9QaWaP4i-dLR9aM9SVHLBYakCljsLdl76tAGn-e1tV96MmKiiZ3p1R1SSH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -279,7 +288,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36558296@N00/7479746074"
 title = "Fathers Day 2012"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uBFjOJueMN4dKD25UIUuGHrNuDg0BxNn5LnEyDFxo2hk9ixuBb89ZkJghtvqP6Gl"
+href = "urn:sha384:_4RF_YcsikjGr0icLRnO0vczyTwUyWcF4jmB-EV4qkLBNQfwMftpwwePv8sCt8Mq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
