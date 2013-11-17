@@ -72,7 +72,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36495803@N05/4899548915"
 title = "Beautiful Woman is Asian Looking"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:X49871qjxMwbAhTKPcaHgO0KVPbtDmr_0I9cXga24K3HA-uhrqimmUEq0Xy0wj-d"
+href = "urn:sha384:m4_v8fiRTPOsd5MpnX8eLHkNhMZ0ShGg2eJwZMBw7ggGFEUrV9OyA6c2wAYPm8nq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -141,7 +144,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/92181839@N00/4101160357"
 title = "Grandma"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Z3SwC5eBbiqPD3qnW4KF0DaX7WXXZMziWqaHjf-10nwTcVAOMHv20ixEWS1_UMiX"
+href = "urn:sha384:3q_HSj6rpHVH6F_q4hJTgvfTKHNg36g17r-UZ3vGKi1hnXvZ5JfMjnAbUyuGjgDR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -162,7 +168,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/88562024@N00/1143726319"
 title = "Grandma"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1JoARDYnJZ71hZNOu2eUdsG7sE0JskAKmeoiO4tcMVAe8p97Vx6uZ1r0dhVg1LGc"
+href = "urn:sha384:RjM9VPOhpPeQA9yGsah9OMR0ow34LVYovk-cwKBonu0PFZMeuP-yrmQWnHlLksov"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -183,7 +192,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/12567713@N00/214221566"
 title = "Brothers"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ZzMtY1z-QVmnDGQFvuxmh80CqCuJooz_EFsqIpIoY6OzC34N4Q3ajQ4r6HjShDwz"
+href = "urn:sha384:mkYRAysOt29uG_mXqUT4Dus8cDF_v4KWu_q6TDM5KXNr-SOmZoG_BYgex2XaGZad"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
