@@ -1,8 +1,9 @@
 +++
 title = "Family1"
-contributors = [ "98.113.38.94", "98.116.20.243",]
+contributors = [ "98.113.38.94", "98.116.20.243", "mxc",]
 dividers = [ 4, 8,]
 headings = [ "Text", "Picture", "Audio",]
+tags = [ "family", "ps9",]
 type = "lesson"
 target-languages = [ "es",]
 [[cards]]
@@ -84,17 +85,17 @@ text = "Es el papá."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Cj9IvIj1SUViQuEUNchOI2kn1X50NGy7VlldP81M9_PphrZLmGfSOwmnbHvcmeX5"
-href = "urn:sha384:-if-hYjK0-GlUCT0T7R5GYWvfTmHKxRAsmKfi_9yiHGDIX-1W6B54K_indtRPyD4"
+blob_href = "urn:sha384:uTJ-XsjLQnq3afLSLvjYuwzxpmN1ah_sJ_pCtYGMky4LBCxLtNMwZvGhVG9L2GE_"
+href = "urn:sha384:-E8eZnHu7THFHUSn7Re2GmOv4YupziHjjStukOaONdEioK7V8h7rMqFxGQdyH7gD"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Martin Abegglen (twicepix)"
-author_url = "http://www.flickr.com/people/30713600@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/30713600@N00/2711171458"
-title = "men only"
+author = " (Parker Knight)"
+author_url = "http://www.flickr.com/people/10845359@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10845359@N02/4567066883"
+title = "Hermosa Beach - 2595"
 [[cards.sides]]
 blob_href = "urn:sha384:sW-1_3yn7u-788ym8U2ph8Dr18eoCAecxoGQK1PS6L_bGQQ_-xUZJ88yy_bMxuYa"
 href = "urn:sha384:GmeXIAaS93ODwbfzMzRGI_AV2pRemaw4Y485k8dizZinopmEUkSXJycp3Lgqg0Lb"
