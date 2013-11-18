@@ -61,17 +61,17 @@ text = "Es la mamá."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:dU5oGiOV8voQyZQ6xcW3MnXiM6vTMfCavLuNFq42DN_Y7wNN9uTSirxsru6p2AdB"
-href = "urn:sha384:FtxZ_J_RZoBejkoRzHgIgRHePUGgxSnLVE763kilQzzfLsGinIhk4RP9Yr32zEV3"
+blob_href = "urn:sha384:N6mYN_Oqh06wqepN4kQJ2TYRBFJR87RVFY-brCivGOUNh64ag5R9GUSWhLTzi31s"
+href = "urn:sha384:Otq27XdSFH2Z-LOREgp_jD8CniFoaMSCnUV-hVw3GeOtjSQsO3JuedKY9ngnj_MD"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "epSos .de (epSos.de)"
-author_url = "http://www.flickr.com/people/36495803@N05/"
+author = "Toshimasa Ishibashi (iandeth)"
+author_url = "http://www.flickr.com/people/7466314@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/36495803@N05/4899548915"
-title = "Beautiful Woman is Asian Looking"
+original_url = "http://www.flickr.com/photos/7466314@N05/1701537656"
+title = "mother and baby"
 [[cards.sides]]
 blob_href = "urn:sha384:X49871qjxMwbAhTKPcaHgO0KVPbtDmr_0I9cXga24K3HA-uhrqimmUEq0Xy0wj-d"
 href = "urn:sha384:m4_v8fiRTPOsd5MpnX8eLHkNhMZ0ShGg2eJwZMBw7ggGFEUrV9OyA6c2wAYPm8nq"
