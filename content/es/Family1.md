@@ -118,7 +118,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/44124425616@N01/417936161"
 title = "I am a Persian Girl!"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1V763vHzu7VnfkTere8FvcYforM1RDEbN_v9kCetEKG9G4oM5ki22-lQ_Z1N4q7F"
+href = "urn:sha384:vzJPc3q52vnQGbTOkosfD-GlqQFvBix9fi8CWmuUIP8eahznD28qihkMHThj5tVj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -139,7 +142,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/89934978@N00/2976892764"
 title = "Chris Smith"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LeBfsCKpJYhQm8hxe7LGNq9d3LFHBEM09rymG5qeyijySGifZoAhuAwOuwGj78Na"
+href = "urn:sha384:Kyyq4sJJtQOG-NyYcWpqo13mC4go0-YpIzUwjYXHGcALSbO5ZAcnySRyShfKnepU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -160,7 +166,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/99713555@N00/6506314133"
 title = "7dbpc130395-zuleikha"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:f8lX5nJJyupIdHAtV0x_CItDrtU9bIeiiDBzBCIYHqWgzOGK3Yid447FYjIS90nU"
+href = "urn:sha384:K8OcEEuo2iaQrMLbkoN_hBUk6aNLkMezRYsH7UxyGCWsI9QJsuUTh_IxHqyXSu5p"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -181,7 +190,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/7826246@N03/2752313716"
 title = "SD530557"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GbL2G80Q3DnnPm5tK_fWyrchzafWs6XOwlbE9ehW7iFOxTFoAOUU9lfBR7hsXKJV"
+href = "urn:sha384:GBX_M13dv-0byccrfOp0uU9LOIGKiZyKsOsxei58tNRo2UYytxrt6BdNS2aAOfZ-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
