@@ -1,7 +1,7 @@
 +++
 title = "Family1"
 contributors = [ "98.113.38.94", "98.116.20.243", "mxc",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12,]
 headings = [ "Text", "Picture", "Audio",]
 tags = [ "family", "ps9",]
 type = "lesson"
@@ -85,22 +85,103 @@ text = "Es el papá."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:uTJ-XsjLQnq3afLSLvjYuwzxpmN1ah_sJ_pCtYGMky4LBCxLtNMwZvGhVG9L2GE_"
-href = "urn:sha384:-E8eZnHu7THFHUSn7Re2GmOv4YupziHjjStukOaONdEioK7V8h7rMqFxGQdyH7gD"
+blob_href = "urn:sha384:jCJ-tIrVa7H6AU0yy9WVUCsY3KYdZcQgeXMwcsRo8SPr3pVl-SomME8C_G6W7jlu"
+href = "urn:sha384:surc6efU-JZ1mc7tPcfS1IOSIx2NWnNuLuPasbr4U2b-Q0cBh6a3InToVqGv6ZCS"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Parker Knight)"
-author_url = "http://www.flickr.com/people/10845359@N02/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/10845359@N02/4567066883"
-title = "Hermosa Beach - 2595"
+author = "mxc@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 blob_href = "urn:sha384:sW-1_3yn7u-788ym8U2ph8Dr18eoCAecxoGQK1PS6L_bGQQ_-xUZJ88yy_bMxuYa"
 href = "urn:sha384:GmeXIAaS93ODwbfzMzRGI_AV2pRemaw4Y485k8dizZinopmEUkSXJycp3Lgqg0Lb"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Es la mujer."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Uo1WUWDRqwM8-0rCid-VTvPYFpmwj5DcLvNHAloantB-InhJlotCdkSxqUbNjnG_"
+href = "urn:sha384:zbOeKWb9Bs-9DqhIu6qoVeVRvVLE2TIV_ndzyV52BvQi3pMCL4ST5WKLEBQaT8D9"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Hamed Saber (Hamed Saber)"
+author_url = "http://www.flickr.com/people/44124425616@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/44124425616@N01/417936161"
+title = "I am a Persian Girl!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Es el hombre."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:GvyafFxRBk9kRN9jzq46_qmEljvK5-aaeYGFtcm3Ygyym_oVwa0GoRewgC00q2q2"
+href = "urn:sha384:SxK_8MRSAMHmQfjvUX_RiYBT-Yls_fHUPtwJ2RuBosKT-ZRYfe8mNMexNgzAsnfm"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Alex Johnson (AlexJohnson)"
+author_url = "http://www.flickr.com/people/89934978@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/89934978@N00/2976892764"
+title = "Chris Smith"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Es la niña."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:QKGrC1TSMVIj3yrYiQzNEcgfxhM9vvVCOXJVAxurkKzlWpNr9HE-_avq6Fhle8_X"
+href = "urn:sha384:QupRBmU12z532x5AyF3N6C0SMYm3Vt2s2iZwWwfxaQao4jaz8hTF9gZuu-gftlNt"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Wolfgang Lonien (Wolfgang Lonien)"
+author_url = "http://www.flickr.com/people/99713555@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/99713555@N00/6506314133"
+title = "7dbpc130395-zuleikha"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Es el niño."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:JVlSC6v0j3c539FFwzH3zbTEb5BnTk-nTjYKCw-_gcNXvTZcDBfdYbl33iGjNbm6"
+href = "urn:sha384:Mwto1KD1J9ZvQayT8pw-QWmzMuP4YjnXRSjrghFlH1n-mTy6h8Qt5WP1TuAOIzbV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Wmforo.com)"
+author_url = "http://www.flickr.com/people/7826246@N03/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/7826246@N03/2752313716"
+title = "SD530557"
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -153,7 +234,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Es una familia."
+text = "Es la familia."
 type = "phrase"
 
 [[cards.sides]]
@@ -173,6 +254,27 @@ blob_href = "urn:sha384:1JoARDYnJZ71hZNOu2eUdsG7sE0JskAKmeoiO4tcMVAe8p97Vx6uZ1r0
 href = "urn:sha384:RjM9VPOhpPeQA9yGsah9OMR0ow34LVYovk-cwKBonu0PFZMeuP-yrmQWnHlLksov"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Es el bebé."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:jn8sEvpmPp1rBESCy797ox5VlNyip_oJ4c68IZlmHGg4euDv_SJiYa6WAqAF7BVr"
+href = "urn:sha384:PjqIzbG98eUsh0cRD8Hd_ERevWveh8DnFa1Pz-klDVmx4V-S8gduixKgZFJ0Ot1b"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Kim Strømstad (barekim)"
+author_url = "http://www.flickr.com/people/26315381@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/26315381@N06/3403494667"
+title = "Angry kid"
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -225,7 +327,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "El papá esta con su hijo."
+text = "El papá está con su hijo."
 type = "phrase"
 
 [[cards.sides]]
@@ -249,7 +351,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "La mamá esta con su hija. "
+text = "La mamá está con su hija. "
 type = "phrase"
 
 [[cards.sides]]
@@ -267,30 +369,6 @@ title = "Fathers Day 2012"
 [[cards.sides]]
 blob_href = "urn:sha384:icMEgTUgqKncvBRWv6C-sjhfFhOBHptYmF7zC238aPYRDy9M5ptLNigvCnPx6yLP"
 href = "urn:sha384:9Rt4vh9QaWaP4i-dLR9aM9SVHLBYakCljsLdl76tAGn-e1tV96MmKiiZ3p1R1SSH"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "La abuela esta con su nieto."
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:WXexOv0ANimbD1NV-iUpe0BytjpvBBapdOMrkFqDmqaGcxqyMDG-hkN_1I0NbzGT"
-href = "urn:sha384:kiZVwhQML_tbsT-X-nhb30DCC6d8Id0X-ePW_-1-1Vj4lIDTGrTdL4Cvhb9MESh0"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "United Pentecostal Church (pentecostalsofoc)"
-author_url = "http://www.flickr.com/people/36558296@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/36558296@N00/7479746074"
-title = "Fathers Day 2012"
-[[cards.sides]]
-blob_href = "urn:sha384:uBFjOJueMN4dKD25UIUuGHrNuDg0BxNn5LnEyDFxo2hk9ixuBb89ZkJghtvqP6Gl"
-href = "urn:sha384:_4RF_YcsikjGr0icLRnO0vczyTwUyWcF4jmB-EV4qkLBNQfwMftpwwePv8sCt8Mq"
 mime_type = "audio/ogg"
 type = "audio"
 
