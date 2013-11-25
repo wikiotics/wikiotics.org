@@ -1,6 +1,7 @@
 +++
 title = "In the bodega (part 1)"
 contributors = [ "mxc",]
+dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "en", "llt", "ps9",]
 type = "lesson"
@@ -86,6 +87,18 @@ author_url = "http://www.flickr.com/people/37996646802@N01/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/37996646802@N01/2543297739"
 title = "Fresh Eggs"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
