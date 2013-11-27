@@ -25,7 +25,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/44124427152@N01/3342288661"
 title = "Milk and cooky"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:aD07q4jlE71e0akavo8RgNzhIGVwC7ZaR8dPrrPgKyFR6BnlniZo0YaOmLn3P5vi"
+href = "urn:sha384:rgyb85vuA2OzZpwXhKhIMnvPeh1LqQE8GqefuJpo3H5yzFpR27jcBoMEG-TBEcdP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -46,7 +49,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/11172002@N05/3988294779"
 title = "Organic Valley Butter vs. Kroger Butter"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7xB9NCIezK8DGB3n7_OmsGnfbOguKlQhpEOGuXY3eNTj-0Iyc1UwohjcWjTK8hJw"
+href = "urn:sha384:ROgMU3-JxhK5N2GN1AuztBaKMxOiLnkvVHG4eemsYTgNjRxvk88qml4oWxMXG26t"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -67,7 +73,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/35034346243@N01/1391498693"
 title = "cheese"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cQyUy6E3aDHTbEAAHkDOsFesPbEHjs0TMX_MsoZHQaYPEIIn_EcJDzmH24lrSLT0"
+href = "urn:sha384:_2wPXjxJZZ87sGGpt6smSsBtpLmrxJ7NXltA9qhedoFwkctGOyxTeeYZmqfoNHXm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
