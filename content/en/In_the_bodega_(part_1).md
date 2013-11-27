@@ -177,7 +177,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Do you have any apples?"
+text = "Do you have apples?"
 type = "phrase"
 
 [[cards.sides]]
@@ -219,7 +219,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where are the strawberries?"
+text = "Do you have strawberries?"
 type = "phrase"
 
 [[cards.sides]]
@@ -240,7 +240,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the mango?"
+text = "Do you have mangos?"
 type = "phrase"
 
 [[cards.sides]]
