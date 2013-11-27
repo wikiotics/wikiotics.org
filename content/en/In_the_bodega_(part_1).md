@@ -493,6 +493,24 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "Where is the bott\nle?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:TEZKkkhfztDnWLQgGkzxx8mjo_48AfyKgtmm7uH8Q5KDwvOQj8JML03PZrrxYGHp"
+href = "urn:sha384:RfppG_x-k48p8uhbcGeEjt8M_oax7bbhEjIJhbRMqaqyim6kDpA-LJrdU1IyL05K"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "mxc@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Where is the dollar?"
 type = "phrase"
 
@@ -550,27 +568,6 @@ author_url = "http://www.flickr.com/people/65031923@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/65031923@N00/363683458"
 title = "A Nevada quarter"
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Where is the penny?"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:83ysdly_FBzSKKNyWGz5_7j4cnA7-s8StKjuzlWLo2I9bykdWmqtrTFABwuT7-so"
-href = "urn:sha384:AqO1K2YoshxtP0dbJTMv_rjHC0pz7z9JACiO5QvI5bkQETPM3NLgQwN7Rm3n3BS6"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Maura Teague (Maura Teague)"
-author_url = "http://www.flickr.com/people/93496438@N06/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/93496438@N06/8499205674"
-title = "two cents pennies"
 [[cards.sides]]
 type = "empty"
 
