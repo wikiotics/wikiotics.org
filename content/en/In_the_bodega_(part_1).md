@@ -1,7 +1,7 @@
 +++
 title = "In the bodega (part 1)"
 contributors = [ "katyauchter", "mxc",]
-dividers = [ 4, 8, 12,]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "en", "llt", "ps9",]
 type = "lesson"
@@ -339,6 +339,49 @@ author_url = "http://www.flickr.com/people/28145073@N08/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28145073@N08/5237985533"
 title = "Lemon"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the water?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:CnJm86t5xhLVO6EbhpceU0MHJE7Lqg40HP_pG4LSCxkEPPErhZ8_nBYiKYEfpAxa"
+href = "urn:sha384:mYlKdP0U2V2QphHmpzU6WL7DIUrxpVaMVq7WfyH56JXIhXlfRZrpVAl0MD0VuKVi"
+mime_type = "image/jpeg"
+rotation = "90"
+type = "picture"
+
+[cards.sides.credit]
+author = " (joeymanley)"
+author_url = "http://www.flickr.com/people/94055174@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/94055174@N00/4769498277"
+title = "Tall Glass of Water"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the juice?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Z1agcAteQuFgOf-7mPirjwLGQRXTfmuxB9PZjh7cQjmUs5JkRvFhWkpeY78_yHDQ"
+href = "urn:sha384:0OBHlwGpzd-n67GAC0DQkseVonp4ZYk1YtDJh8Vn1R3r_66lGsXK2y4tWIJ3Yd26"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Simon Law (sfllaw)"
+author_url = "http://www.flickr.com/people/50642338@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/50642338@N00/335982719"
+title = "Orange juice"
 [[cards.sides]]
 type = "empty"
 
