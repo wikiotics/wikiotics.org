@@ -216,6 +216,48 @@ title = "Orange Cut"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Where are the strawberries?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:XE7nWyHjs1EPinkaasg99LwE03MUi5gXtyEBEIvYmMZF2_2z6Oebj9A9PxJxNv6M"
+href = "urn:sha384:Z8h6c2tuANp_elEWWOzHdJhp87Do5VkI6b9lW6ulH9kt6gx8D9yjMq9Z7YnNJBCI"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Fried Dough)"
+author_url = "http://www.flickr.com/people/42787780@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/42787780@N04/6984506512"
+title = "strawberries"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the mango?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:RWb4IfMbMX8rNPRG_yPRau99UW2b2CnFjmV3NJUjhExgZMr83xtBvItwM5t-OLYp"
+href = "urn:sha384:R2zfdXIXhiGDtZRzfFWhg9Iw42-aTi2yxocV5L3Ey77TqOumRxoDRlhO4cn1zLTZ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Richard North (richard_north)"
+author_url = "http://www.flickr.com/people/64194289@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/64194289@N04/7960943102"
+title = "Mango photo"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
