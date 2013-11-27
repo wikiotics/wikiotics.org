@@ -1,7 +1,7 @@
 +++
 title = "In the bodega (part 1)"
 contributors = [ "katyauchter", "mxc",]
-dividers = [ 4, 8, 12, 16,]
+dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "en", "llt", "ps9",]
 type = "lesson"
@@ -424,6 +424,69 @@ author_url = "http://www.flickr.com/people/74105777@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/74105777@N00/197508782"
 title = "A nice cup of tea"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the bag?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:pBTEI4JAPhupgYPdSebK5dtjxR0wDffZGlQicde2rR9d2oLrWvu0W07LrXXRIR5B"
+href = "urn:sha384:kYLjUIeK4XBN5XtJg7YBJ37JqBbUaWeiG1hJ0tRUg8orUssnfbYYhOxYQfNPrfml"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Kent Wang (Kent Wang)"
+author_url = "http://www.flickr.com/people/27454212@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/27454212@N00/1721796603"
+title = "Central Market"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the box?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:SbXz3VJiLsJ2GrALQesiJgP_k3Qe5aTyCdHDBbhBpKriYbHMk1MGTn5odGU4qRO3"
+href = "urn:sha384:GHc8Bvb5QUrH5qKAIXOQeNrV-1DLKTS2LfBf-6g5wna86Ge-E7qCsOtULCNwD-1V"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Meathead Movers)"
+author_url = "http://www.flickr.com/people/46362618@N06/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/46362618@N06/5346219239"
+title = "Small Box, open"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the cup?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:KMK6fC8wRw3ysDq4_JiEVdfVA46YfHuav9nvv_NdUoiwJmrgWVkKZG0P3bzV9pR9"
+href = "urn:sha384:r3BGSnp4ur3z5t0F5gDMy2q2pbkgQpQcg7e16bTjkEr9egZ08J5h_0I7qVLW8TIg"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Miles Goodhew (M0les)"
+author_url = "http://www.flickr.com/people/50523523@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/50523523@N00/3042161035"
+title = "Apprentice cup 1"
 [[cards.sides]]
 type = "empty"
 
