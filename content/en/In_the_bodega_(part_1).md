@@ -1,7 +1,7 @@
 +++
 title = "In the bodega (part 1)"
 contributors = [ "katyauchter", "mxc",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "en", "llt", "ps9",]
 type = "lesson"
@@ -255,6 +255,48 @@ author_url = "http://www.flickr.com/people/64194289@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/64194289@N04/7960943102"
 title = "Mango photo"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where are the bananas?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:gcVXY4WXjz20jJn35tGQc36ROHmse0Wbve5GSNOtlXBchw9H30weC3K1I0NihSID"
+href = "urn:sha384:LY02XutDy2mvAyTjyOf-m5629ktVBqtBW7EGAyQ43YOUHe891lmboS3tCOsIOuFQ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (24oranges.nl)"
+author_url = "http://www.flickr.com/people/30091649@N06/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/30091649@N06/6612824761"
+title = "Bananas (edited)"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where are the grapes?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:VP7mKY07Lnc4Mb9Kyu3WN3GUx67QA1uH2GMJGZ_1Fx7ZuJ061wx5LTkDKY9va1R1"
+href = "urn:sha384:5BiB5jbrDKL13VcfOwd5c5AY5O_X4a2PDUmBYtLJVPWmmRdGFgxA60VYzp_1cAhI"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (tribp)"
+author_url = "http://www.flickr.com/people/82088316@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/82088316@N05/8012059910"
+title = "Grapes"
 [[cards.sides]]
 type = "empty"
 
