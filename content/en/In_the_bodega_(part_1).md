@@ -177,7 +177,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where are the apples?"
+text = "Do you have any apples?"
 type = "phrase"
 
 [[cards.sides]]
@@ -198,21 +198,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the orange?"
+text = "Do you have oranges oranges?"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:ZzOuKxhT2YSXUt-HaNjQ1ZqqU0XcN4i2f1HCNYS43tmSVbAE3kSumGbTd9uOV5A8"
-href = "urn:sha384:vg3IkqyNJequuvWNcd0eY4FEKMyFWUanUq1yWkDFG8wjOs7ehBba1TI2bD2zJO5m"
+blob_href = "urn:sha384:BGZdxlOb8ItuwtiovJZGzz8nnAqEd_KODA1t_l4X_c6ueB5UD0v5i2s4gnS3Yg6e"
+href = "urn:sha384:5qaHemxFADtuyx7JHxlp8SxOxXTqRhU-hiJ9zhrTF9KBnfkYH1uYPp0A1zXSVSeG"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Emilian Robert Vicol (Public Domain Photos)"
-author_url = "http://www.flickr.com/people/28958738@N06/"
+author = " (RecycledStarDust)"
+author_url = "http://www.flickr.com/people/39565323@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/28958738@N06/4792082928"
-title = "Orange Cut"
+original_url = "http://www.flickr.com/photos/39565323@N04/3719565845"
+title = "oranges"
 [[cards.sides]]
 type = "empty"
 
