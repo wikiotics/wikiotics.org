@@ -574,7 +574,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Es la tarjeta de credito."
+text = "Es la tarjeta de crédito."
 type = "phrase"
 
 [[cards.sides]]
