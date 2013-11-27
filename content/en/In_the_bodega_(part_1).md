@@ -493,7 +493,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the bott\nle?"
+text = "Where is the bottle?"
 type = "phrase"
 
 [[cards.sides]]
@@ -568,6 +568,27 @@ author_url = "http://www.flickr.com/people/65031923@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/65031923@N00/363683458"
 title = "A Nevada quarter"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the credit card?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:QCzEHlAec7pn2nwpq9yyg52o6KYOEwRyHBFS5ac3hC4P5vlBr_n-dMiLAl_adtGt"
+href = "urn:sha384:vURRxm6-i7syiNHOkbhV4fItOWfNt8jGrMd7cnk90PNw-stbn1rUOE3tCDCj_Z35"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Cheon Fong Liew (liewcf)"
+author_url = "http://www.flickr.com/people/34353636@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/34353636@N00/894035077"
+title = "PB Visa Gold Credit Card"
 [[cards.sides]]
 type = "empty"
 
