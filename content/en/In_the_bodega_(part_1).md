@@ -313,7 +313,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/30091649@N06/6612824761"
 title = "Bananas (edited)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1b7pnhWc1g8KqrqMHgm7cMDqeVbxyfEjGHmfDHAVD4ZiiOcjiZY2Aln3ue8umn03"
+href = "urn:sha384:FRkN39gX_AEEDlkPbtvU2jcJi1rIhgmXGixcqG4imUbvrP3m-hYW0niMtQkWGa2k"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -334,7 +337,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/82088316@N05/8012059910"
 title = "Grapes"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cVBm3yV1y_g4iiC2_-ZckVNYDogV9Pu2whBuOiFn85DHHTeZmXjR15Pu5ohkAzEZ"
+href = "urn:sha384:IhIKFc3rs1m1IktHvihZxHsX2WrPZLPnValC2bc24uZ2DjMF4y8_ZiZxfydLRUH5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -355,7 +361,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/27962578@N02/2830413211"
 title = "watermelon"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:i-mEdUgjMxUd3L0wFG7_SKvAYW6-CQFtvsGXDN3VFjv7Tib8oha1rElriF_QTfsk"
+href = "urn:sha384:NsahSNuWceODJoLnVUX70MdJWD99w-tQgTYEg71red1ac83j2yNttHmc3rOw5tcD"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -376,7 +385,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28145073@N08/5237985533"
 title = "Lemon"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wbtU9kmhIgLuJ39F1kfKuv32JRUnn_cITegSmim7o2r4onyiOb_7hgltKycYXjjo"
+href = "urn:sha384:MaMeSK9ILlegBOF82aONrE6W5h67AX_cQimhcOxKxvSgMFe_COtpAA1qtz1g-Xgj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -398,7 +410,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/94055174@N00/4769498277"
 title = "Tall Glass of Water"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:PMf35jXkThXYb7RDZzL3wXGD6qA7yj21RhhHX7a-uJhKbpGmAn2Qm48tvnXDJ0oR"
+href = "urn:sha384:j3u3VQR8ny-40QnPHHc2syYikyU7GEkICrqfDkX2mUk92e--_FHEda4oHRTiqtsq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -419,7 +434,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/50642338@N00/335982719"
 title = "Orange juice"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3Gg7sqQ188ITdEsKO1pFO8zk-KmSp1ilmMGaE9O0p4EZi00lrdUw_33S0m2qw9ki"
+href = "urn:sha384:tfUe4Q1vTSn8SJTvzhXXh5g4lqw4Q4CIbGqJjBykiJccEG-XNqYsM2hHBasjqnLw"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -440,7 +458,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36495803@N05/8097327748"
 title = "Black Coffee for Breakfast in White Porcelain Cup"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:r5ctAU0_dqW0yH51-xJf_iUhBpgWc3u-J1D5mOCKWxJa6L10cor4A4Cua_mxwjSH"
+href = "urn:sha384:um_u82GddCHJ0KGAl7kGe_-sdEHAlBb_Uew71GBPx56nMmfNsk8kGrPm3VFR9Y0N"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -461,7 +482,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/74105777@N00/197508782"
 title = "A nice cup of tea"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EYK1WokzHvCmvdOdCQeMXtqCncaYLZG4yp5c766KozAriGunwlRLuLaJYM9mEZVK"
+href = "urn:sha384:tyunaztKPf81oZDAPkoGSogKYj_NFKB-wwcnP1SOa1DWvSg4kRfnN7HkR7XyNLm1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -482,7 +506,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/27454212@N00/1721796603"
 title = "Central Market"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:z9vhwfu3FDT4Hx8mIiIyIDfh6TVeH8_bmgusSGEOGfDVKc6HxY551EcC75Fr1BDt"
+href = "urn:sha384:h1uChOt7z8ewZElP58d9hMFD7sUPFXLTIimRc4FEiibQ_39Cf713WdvAf4UHApA5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -503,7 +530,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/46362618@N06/5346219239"
 title = "Small Box, open"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:QVQJqwVOPb_MHZL-s67ua3o7K3YK12kJGcdOkPYEwcorn5QtA5jxhrxAk4EapyTv"
+href = "urn:sha384:2NIT1jgUlA4WOkLEFUsJXicaymxrFS7gKXuFZtUw8Tnh1DgFyq1skbDBSnVWc_JZ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -524,7 +554,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/50523523@N00/3042161035"
 title = "Apprentice cup 1"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TH1--by9xn0E-09wSE-aZMZ61m-DTKLfYiSeJQQi3ZLz6JjXlg-zB-CmET6GT_HD"
+href = "urn:sha384:zc46qwd1MRe1OTfTZ549fzt-xtkkXWSN9d8Pso2GByFYV6RZYKtCGSpOjwiveWHp"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -542,12 +575,15 @@ type = "picture"
 author = "mxc@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:p8yMZtt46wBSmRiVszcDaGoqOSL22bqDFf5HCSDMBv0wIjkeAzhYZpIPg41AmN3z"
+href = "urn:sha384:v-FBOfeSA2ABMExBpWZUD0NNUgKV9Wt5-xBfPjqvl7PuD0cHR4UiBuQGDvU6CiWf"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the dollar?"
+text = "This is a dollar."
 type = "phrase"
 
 [[cards.sides]]
@@ -568,7 +604,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the change?"
+text = "This is the change."
 type = "phrase"
 
 [[cards.sides]]
@@ -589,7 +625,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the quarter?"
+text = "This is a quarter."
 type = "phrase"
 
 [[cards.sides]]
@@ -610,7 +646,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Where is the credit card?"
+text = "This is a credit card."
 type = "phrase"
 
 [[cards.sides]]
