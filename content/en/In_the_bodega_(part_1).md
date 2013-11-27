@@ -121,7 +121,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/24810732@N08/10866943666"
 title = "vegetables"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fu1Wxl9UOnmG-W4vFmHl2pUP6TSQ1aLVsMhj_cWt-g_QuT0bQII7BDgevOBhuPE_"
+href = "urn:sha384:HyYQlKc616mYOYXgDc8JapZ9ELOorfEzC2dAUH6fXdMoEvR7Cn4wq00SyDHBzW4j"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -142,7 +145,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28145073@N08/5237985177"
 title = "Fruit"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:oTpoERLVPBaz2nRzFPjVUI0dKDrxXrXUnZkFdMP8xzpxJzeLfYRW2rOJi7bQadmG"
+href = "urn:sha384:IdFCKatomgP0B4kZVH5Pqxmf_ctQ4ode7UACgNBlJxv5vo_JylrF97uHrNp3rx28"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -163,7 +169,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/94079382@N00/1227805293"
 title = "late night bowl of cereal"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6wTi8LV0LL8jCqZCTyQauitW5lj3OtQKrGQhnAluc822WkTHy26jSaIkWSHX7Fbt"
+href = "urn:sha384:kQmg-6AzaEFj4hU-5Ci9u0VgCnqxLdMydBR82fL9rgEdrO_Yg8zdw5vd-ohXfMT-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -184,7 +193,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28145073@N08/5951666351"
 title = "Bread"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3F04NFcl7I7kZJzvv6Xw2w4CPvFBqxwz-7NjBD2EWGTmUZf5iDjpWNhyodDobUGR"
+href = "urn:sha384:vNXQOaWPxIY8Jirh1O1cpIfkXhGQ7-uNidxVOuvFXlxC5mewsv6wnSVUPG0LVVOG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -205,12 +217,15 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8070429@N06/3113672785"
 title = "apples 2"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hYaapZJBRjZ2T_7jNZ5AANpkltj3K0kx8r5ar3nOvgZJFPxGRyT-C563eAH7nhL_"
+href = "urn:sha384:fIw_27D1_NOCIob007E8zJzyq5tPczNjN79KFNro0bjykv7Zf0D2KTMHC0YiB9Z5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Do you have oranges oranges?"
+text = "Do you have oranges?"
 type = "phrase"
 
 [[cards.sides]]
@@ -226,7 +241,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/39565323@N04/3719565845"
 title = "oranges"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JdKQ5Eie5_CytE8fSaXbFTY3eoZm_l1RUP9mLpinHYwvhB4RINLvY2GobRi-lQz4"
+href = "urn:sha384:G9CpZW1-SfbA8VoCZGk1TryS--dmZV0HQzaMN2D6rW4-B3C0kyaltR_Ywt3GOd3u"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -247,7 +265,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/42787780@N04/6984506512"
 title = "strawberries"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Iy7KVYfUZXFKGtQKMJv7BwTczvmyECLgXeBDSxJcePk8yKIbW7yMeZo87A60S5U0"
+href = "urn:sha384:KVHzWknIPg4WDOmJ6Y0L-qync4aTGd9kvsPWohmrc786Rymx07Xvd7wL4JqsfNvU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -268,7 +289,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/64194289@N04/7960943102"
 title = "Mango photo"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7mGP7xBlgbsZcjtSKq1PX61qxG7DKV2FfoEqYlVgZSBT9lOsVWjerIWv24eXL7z1"
+href = "urn:sha384:4hUkHZM32I2xvNNA5guFRgI6_3Rx7IXaOyPkFtpZhJS1LiI_PLGCO4wU8scnu2lb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
