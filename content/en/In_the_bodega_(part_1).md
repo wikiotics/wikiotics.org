@@ -620,7 +620,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/14347196@N00/4388396268"
 title = "Change"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:NwI181MWuoh8ONetnso07RE_tiAka6BN3AkdhKjogoksIH4TnijoxyYrbHBixl4h"
+href = "urn:sha384:SexsR2JV4CN4jJQFuPfxVMOQPKPP_Hly0GmIyJO-SGNtrMgBXaavjI8L1NVJaO2P"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -641,7 +644,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/65031923@N00/363683458"
 title = "A Nevada quarter"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:sTChZ1moruPnwR4ZPp0u_Zaoorhzuf7wSNLsYwmdAqkgUxW9pjAMjW9rT-S41DJZ"
+href = "urn:sha384:q-Pse8TdDZiDGdjOPpNsV9_YPu_IlrumhZzoSiWGS2D1Zd0n8B6RXi9Utph6Y7-U"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -662,7 +668,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/34353636@N00/894035077"
 title = "PB Visa Gold Credit Card"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UuGte1x4xWZo6NcGCbq9u8D39GaimHiCblNc4Rm8eb4gz0loK-vfeBLZT-6Pm91V"
+href = "urn:sha384:aRURAGkAZlPY8ebzC7DvCGuhADc_PgugnvmWAfjzX7nnrApoWaD41XRO50L_sqxm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
