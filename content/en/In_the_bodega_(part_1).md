@@ -300,6 +300,48 @@ title = "Grapes"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the watermelon?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:uf-sWuK7WoEQVMQmXtW6eZlYjH9Dy8seBz68oH8c9Ls8wFYIgTwLfq00MgfN4G6H"
+href = "urn:sha384:CaMko1tBJ1tmP-J8f_0iHGgbuVEAPaildE69mLVwHJghI4BNPMTr29ENtR1DhZqY"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Rafael Moreno (moreno0101)"
+author_url = "http://www.flickr.com/people/27962578@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/27962578@N02/2830413211"
+title = "watermelon"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where are the lemons?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:wIMBc05QhXmSEENg1U7eFYgIVHpNATM-hFiJsfaG0jk8R02-kTq7TTfF0dGm_PD2"
+href = "urn:sha384:-IvhkMCo1s5-PgIfnD_4CdrsusbMKSznQez-IxyoiS1yUalO4KUKLbSlnpY8sbxM"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Moyan Brenn (Moyan_Brenn)"
+author_url = "http://www.flickr.com/people/28145073@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/28145073@N08/5237985533"
+title = "Lemon"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
