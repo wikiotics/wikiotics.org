@@ -97,7 +97,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/37996646802@N01/2543297739"
 title = "Fresh Eggs"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nlwCuD-vKuZJrxGPX1BbZFvyhHmVZL7P4zE6uCHFsluNkbHGe1wHWQ1ZQ9wsb1UY"
+href = "urn:sha384:samD4PVZCK-FedPKTARKUXhNMTHkLqvLQbqBxI_ZmDO0X3oPHP1pzz-GNLUP0cSz"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
