@@ -1,7 +1,7 @@
 +++
 title = "In the bodega (part 1)"
 contributors = [ "katyauchter", "mxc",]
-dividers = [ 4, 8, 12, 16, 20,]
+dividers = [ 4, 8, 12, 16, 20, 24,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "en", "llt", "ps9",]
 type = "lesson"
@@ -487,6 +487,90 @@ author_url = "http://www.flickr.com/people/50523523@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/50523523@N00/3042161035"
 title = "Apprentice cup 1"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the dollar?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:aZrSSB_9xNEexr3J0SZR73HjkAgcfxrY-5Ib_rxpPgBk6P6j-xEP_bfgQDK8SChB"
+href = "urn:sha384:O3AKIkSv2I3QqiG7fL89qJVl6V_1fV1adgrsw5aXFdNDsKmYF_W3me1ieaosyq8I"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (thefixer)"
+author_url = "http://www.flickr.com/people/91762461@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/91762461@N00/6482632337"
+title = "Large Dollar Bill 7500x3200 www.bostonsphotos.com"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the change?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:pAurQRja0YGQ6nbpGJXR5W3sCCutKYwhba69NZAl7wzym6FceIxWl5kOu-PYh7Ay"
+href = "urn:sha384:en5B_N5cZGeK2siMx2eObrmUzuKO-ULzmAvwCUzVfpakTRiOtZw8CdrI4-BWBWPO"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Shawn Carpenter (spcbrass)"
+author_url = "http://www.flickr.com/people/14347196@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/14347196@N00/4388396268"
+title = "Change"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the quarter?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:NV2sPjXZcGMgpsef9vxArkiaFzaAwn5HQGLgjLPU06jsF6yPV1-XjVUJ-iywa2nx"
+href = "urn:sha384:tAb4PjEp7zH3TBm2HZ4OdCbR9oDF5WMnIQrmF5hGxcdc4-kbF4xuvqa0UG_AfqoJ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (tony's pics)"
+author_url = "http://www.flickr.com/people/65031923@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/65031923@N00/363683458"
+title = "A Nevada quarter"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the penny?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:83ysdly_FBzSKKNyWGz5_7j4cnA7-s8StKjuzlWLo2I9bykdWmqtrTFABwuT7-so"
+href = "urn:sha384:AqO1K2YoshxtP0dbJTMv_rjHC0pz7z9JACiO5QvI5bkQETPM3NLgQwN7Rm3n3BS6"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Maura Teague (Maura Teague)"
+author_url = "http://www.flickr.com/people/93496438@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/93496438@N06/8499205674"
+title = "two cents pennies"
 [[cards.sides]]
 type = "empty"
 
