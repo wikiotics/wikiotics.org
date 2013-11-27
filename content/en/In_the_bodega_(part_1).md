@@ -385,6 +385,48 @@ title = "Orange juice"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the coffee?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:ZjsG_7h3zj3SvZOufkj3gH_YK35D6sXd2eGQ64F9PY9bbWkg8PQsW0cGWrLLDEEk"
+href = "urn:sha384:TaS6mZ2QJG4hRHUtFG85_oquhWBdsKPEmBIC4_fwKY86x_qQ_pprWEMxwPS8VzET"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36495803@N05/8097327748"
+title = "Black Coffee for Breakfast in White Porcelain Cup"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is the tea?"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:FtbtBkBAY2jmGtBMx_3C8AAGBlrP4q8ml_CcsU82pXN52A4v38Dl-Hrg4qjgM-d9"
+href = "urn:sha384:UIG3lqevqXDKKQaLxB39HpH6mAEE8Xq7fIKAIcQ20UoAlu20JhY4mh9YEs3utKmr"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jeremy Keith (adactio)"
+author_url = "http://www.flickr.com/people/74105777@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/74105777@N00/197508782"
+title = "A nice cup of tea"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
