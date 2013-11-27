@@ -223,8 +223,17 @@ text = "Where are the strawberries?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rxMLUWgOImuhp-JB9vOyG8jOWSovPUBgDLc3BSuK37k2G1b26vO3SKZoTEGhJbjY"
+href = "urn:sha384:yhyBKZ1ZkHMbNrdDEfwXGG4PMGpJNCFxLqvJlXChM_i1sUrr82n5Xi4UyAfNupyz"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (Fried Dough)"
+author_url = "http://www.flickr.com/people/42787780@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/42787780@N04/6984507532"
+title = "strawberries"
 [[cards.sides]]
 type = "empty"
 
@@ -235,8 +244,17 @@ text = "Where is the mango?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:RWb4IfMbMX8rNPRG_yPRau99UW2b2CnFjmV3NJUjhExgZMr83xtBvItwM5t-OLYp"
+href = "urn:sha384:KehqDa0Jt6p5KscLGX2bhmCVcmlasJDxdTwOjQ5lRYXdsBvZGKIlBpPN5mMqWSsr"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Richard North (richard_north)"
+author_url = "http://www.flickr.com/people/64194289@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/64194289@N04/7960943102"
+title = "Mango photo"
 [[cards.sides]]
 type = "empty"
 
@@ -247,8 +265,17 @@ text = "Where are the grapes?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VP7mKY07Lnc4Mb9Kyu3WN3GUx67QA1uH2GMJGZ_1Fx7ZuJ061wx5LTkDKY9va1R1"
+href = "urn:sha384:ex_0svjXN0ZmOdSI_JO5G3x4INXVstphSbI9HviTQFIAuDx_hgEjTQ7MZcNdlbua"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (tribp)"
+author_url = "http://www.flickr.com/people/82088316@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/82088316@N05/8012059910"
+title = "Grapes"
 [[cards.sides]]
 type = "empty"
 
@@ -259,8 +286,17 @@ text = "Where is the watermelon?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uf-sWuK7WoEQVMQmXtW6eZlYjH9Dy8seBz68oH8c9Ls8wFYIgTwLfq00MgfN4G6H"
+href = "urn:sha384:NvVirtYWACv-0nqflT4blPR91nLUKvUOQNUCynNu48q5Jef4VDlmdtr3zjWrqyLn"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Rafael Moreno (moreno0101)"
+author_url = "http://www.flickr.com/people/27962578@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/27962578@N02/2830413211"
+title = "watermelon"
 [[cards.sides]]
 type = "empty"
 
@@ -271,8 +307,17 @@ text = "Where are the lemons?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wIMBc05QhXmSEENg1U7eFYgIVHpNATM-hFiJsfaG0jk8R02-kTq7TTfF0dGm_PD2"
+href = "urn:sha384:B52fKy_tCeLZqRkhfgZd9eXXuVKUpLhqSaGGUk9XfLMcPuWnddo1icBK5Uo7vl5S"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Moyan Brenn (Moyan_Brenn)"
+author_url = "http://www.flickr.com/people/28145073@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/28145073@N08/5237985533"
+title = "Lemon"
 [[cards.sides]]
 type = "empty"
 
@@ -283,8 +328,17 @@ text = "Where is the water?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Yz86qTDMh184Ulmek8Nrya4vO5gSq9FNFTzLgt9rTA16nxQR94XZDLUK2JxqUn1z"
+href = "urn:sha384:gsVj0LsMQVFQ2xQ39AAmlZASI2r5WJRslfbeRi4489drvvooCXARDCFcpxqNsBCe"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Todd Morris (ToddMorris)"
+author_url = "http://www.flickr.com/people/10014693@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/10014693@N05/4300305642"
+title = "24.365_bottled_water"
 [[cards.sides]]
 type = "empty"
 
@@ -295,8 +349,17 @@ text = "Where is the juice?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Z1agcAteQuFgOf-7mPirjwLGQRXTfmuxB9PZjh7cQjmUs5JkRvFhWkpeY78_yHDQ"
+href = "urn:sha384:C-1z3QrL6fbufT5NyFo9bIZQfwDjbF-OB5y1ZASndjjaeDEEZPQi5e7qifLmxwv7"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Simon Law (sfllaw)"
+author_url = "http://www.flickr.com/people/50642338@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/50642338@N00/335982719"
+title = "Orange juice"
 [[cards.sides]]
 type = "empty"
 
@@ -307,8 +370,17 @@ text = "Where is the coffee?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Rw2Rzwh4HIcI7XU_GQh23e0VXZJMGwsy1-BLApT7yw4x7ZKB2U8rEyIH8PTST7A3"
+href = "urn:sha384:ChPC9OUXHjmbUlae4GPVSbbXA7gWaloYwk5bHZ6Jp4HBMYjbi5uFeFDpOl5kkxXP"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "epSos .de (epSos.de)"
+author_url = "http://www.flickr.com/people/36495803@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36495803@N05/8113306742"
+title = "Black Coffee and Tea in White Cup is Hot"
 [[cards.sides]]
 type = "empty"
 
@@ -319,8 +391,17 @@ text = "Where is the tea?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FtbtBkBAY2jmGtBMx_3C8AAGBlrP4q8ml_CcsU82pXN52A4v38Dl-Hrg4qjgM-d9"
+href = "urn:sha384:UfRRMaeiIxHXd7878vVZFBAMuuTjofWnWgWttIeUDhcmgyjBpNWRw34H4FeszCnQ"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Jeremy Keith (adactio)"
+author_url = "http://www.flickr.com/people/74105777@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/74105777@N00/197508782"
+title = "A nice cup of tea"
 [[cards.sides]]
 type = "empty"
 
@@ -331,8 +412,17 @@ text = "Where is the bag?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kBhs6kiVMv-U_VFx2oLTO8s3aKsDSrWm--43YzN9VxXaQboScwK9CCJFAqGysAqr"
+href = "urn:sha384:c2SC72LOiDx5IbUKyNOPc9TxgE0jMSigU_-eltA4f8qhGdvK7M6ccPyXE1zBboMo"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (jericl cat)"
+author_url = "http://www.flickr.com/people/79761301@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/79761301@N00/2136344888"
+title = "Ralphs Grocery first plastic bag"
 [[cards.sides]]
 type = "empty"
 
@@ -343,8 +433,17 @@ text = "Where is the box?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:SbXz3VJiLsJ2GrALQesiJgP_k3Qe5aTyCdHDBbhBpKriYbHMk1MGTn5odGU4qRO3"
+href = "urn:sha384:8ZqDWs9aJiJ16pmhopxs8Cc8-XsT-sAa8r9mxkPaxRF91SZLvUAwsv7vh2NXUhGl"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (Meathead Movers)"
+author_url = "http://www.flickr.com/people/46362618@N06/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/46362618@N06/5346219239"
+title = "Small Box, open"
 [[cards.sides]]
 type = "empty"
 
@@ -355,8 +454,17 @@ text = "Where is the cup?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:KMK6fC8wRw3ysDq4_JiEVdfVA46YfHuav9nvv_NdUoiwJmrgWVkKZG0P3bzV9pR9"
+href = "urn:sha384:OigOsiLPxGJaaQWavA54rh0Y5DtsscxsjHljsxT_2Eum33U_cCSRYNkwuYefe4A0"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Miles Goodhew (M0les)"
+author_url = "http://www.flickr.com/people/50523523@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/50523523@N00/3042161035"
+title = "Apprentice cup 1"
 [[cards.sides]]
 type = "empty"
 
