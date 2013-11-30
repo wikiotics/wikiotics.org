@@ -482,7 +482,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/74105777@N00/197508782"
 title = "A nice cup of tea"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7qYOPzdY-s5udpJOweIVWDuS5QQaWY8c-VKUiw9nOBtaMaWQx1WNV4D5Rx4uY7wV"
+href = "urn:sha384:LaFp0Y3jZqHyf-7LtKfTLSR7S0dVgXnnY_N5EeVQXRe0fTi69jpWQA3-vpgOGtrR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
