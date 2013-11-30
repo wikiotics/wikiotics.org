@@ -1,6 +1,6 @@
 +++
 title = "En La Bodega"
-contributors = [ "katyauchter", "mxc",]
+contributors = [ "69.119.223.216", "katyauchter", "mxc",]
 dividers = [ 4, 8, 12, 16, 20, 24,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "en", "llt", "ps9",]
@@ -25,8 +25,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/44124427152@N01/3342288661"
 title = "Milk and cooky"
 [[cards.sides]]
-blob_href = "urn:sha384:WwQadhMcake5HpoMFMzLcRScYDM5GzuMV9wTTWwL6nEnFIWlNagGnrqV5J2i9Crq"
-href = "urn:sha384:82xSqCi1rrkOjYtT5XWjyeKuEpg3OZydM-58zwvoe6KB6ArwQAR2VlxvuGRCL8Y5"
+blob_href = "urn:sha384:nlnp6Kju778oBv7S5X8qq0-YA3T1cKcr95g-cGoEKhxMN1NxAeDQvf_lVsRmPzN2"
+href = "urn:sha384:me8vFm9KEVLWn70CqnXXNw-qfE5J-97WeB1T6YiTf9JGEBP3MmaQnCeiH2hPr1zS"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -49,7 +49,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/11172002@N05/3988294779"
 title = "Organic Valley Butter vs. Kroger Butter"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6bRFrW6IYlWFFcyaKuWJNOtYU7PBIzIvemPG2BzF_iHZL1TNehUvUdmSREuncCAI"
+href = "urn:sha384:hRIy6piZ-fK1Is00IGJuvov20pgQdWrXhCWWShEn7465ExWVYupE3pSrfnUk5bB4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
