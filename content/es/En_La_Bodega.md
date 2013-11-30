@@ -97,8 +97,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/37996646802@N01/2543297739"
 title = "Fresh Eggs"
 [[cards.sides]]
-blob_href = "urn:sha384:Ps5RoIzDhhO7CBoKYRqV4K14nD5ze9VCOTPGyH_ahLruzQ3uaf6DE_Q4j8CaFFiD"
-href = "urn:sha384:3_bMCL41Ta8kMlC5-3tS00hlAiLKhdlQKoMDNNsi-219x7RR7-PH5m2dXWOA_bj0"
+blob_href = "urn:sha384:N9C-5wKICVEoZaDynZd9yTuJEKqQgKMNbrYn4keT4qt1RPbaNiB2dRDYXVhqJ4xP"
+href = "urn:sha384:UNdFxdxxM-FuTIg9vdR94QWgZGyBxarXJ0AVUSzyXYA4KCE3pGU2fSPKBT4-2Pqg"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -217,8 +217,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8070429@N06/3113672785"
 title = "apples 2"
 [[cards.sides]]
-blob_href = "urn:sha384:84K3TX5md8ZgbYQiTlY6I8WoN0QkJrS9vrXcYJS3hjcBjQP9va7Acv6RLbcKcnJ9"
-href = "urn:sha384:1_9KSyjLIs64M21nt1Mfz2xmqto-BzN06-B2i6FE5XQqb_Hljc6ryUuqQ7UHE-UZ"
+blob_href = "urn:sha384:PIDyq8UoAIb-Hrkhpi-cDH7wI2QirDbafaPnDzGsxbxpaBNlDChaIzKJCfU-f7Pz"
+href = "urn:sha384:sgWDDZqoDvQLQvNNTQ6QcXZDJqqedTBb5_Hptp14GSCtoovNwa6AhiFY5NDq1pQo"
 mime_type = "audio/ogg"
 type = "audio"
 
