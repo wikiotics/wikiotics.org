@@ -73,7 +73,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/35034346243@N01/1391498693"
 title = "cheese"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LctQ7gW59Pp-NFTbyxydST88Hch0_tCmoa_lCAyfEusyCLNRhmrujrCOwyGBbOkc"
+href = "urn:sha384:lPeh0Y3UQkLOLIND_ytCyUNPlYXx4sFuXu8cJuARq-kwdaEVFUG_w2sr7k1TZ8J4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -94,7 +97,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/37996646802@N01/2543297739"
 title = "Fresh Eggs"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Ps5RoIzDhhO7CBoKYRqV4K14nD5ze9VCOTPGyH_ahLruzQ3uaf6DE_Q4j8CaFFiD"
+href = "urn:sha384:3_bMCL41Ta8kMlC5-3tS00hlAiLKhdlQKoMDNNsi-219x7RR7-PH5m2dXWOA_bj0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
