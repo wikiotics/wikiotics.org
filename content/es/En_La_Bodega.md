@@ -25,8 +25,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/44124427152@N01/3342288661"
 title = "Milk and cooky"
 [[cards.sides]]
-blob_href = "urn:sha384:Qd9yNww69L8UOhRaq9tlpkCyMcPFhOekGMBXDHcxuEnyjLZWDV9IqyrdF6KZB-9E"
-href = "urn:sha384:tD3hqDIro1XfNQgxdLOTTjKeDEE0PMsF_123GmQCPUNLZg1WKAUk0dAUWpeo7fS5"
+blob_href = "urn:sha384:azwMMVz8ezelaqIukfyIWJ2c7Sh1mFIedZbV9sNJb_UTpzkKy2_KOJNtQT4Ul2O7"
+href = "urn:sha384:0ZioPE_EQfB4CDh_XrARpPSJ_cQ0jEI3CgkJ3TPVhW_7hjg3HHvEex75OctTdjQR"
 mime_type = "audio/ogg"
 type = "audio"
 
