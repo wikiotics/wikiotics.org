@@ -337,7 +337,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/82088316@N05/8012059910"
 title = "Grapes"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5__N_TZFgcMjfp2dLIKbdCY91uSP1rf6D3NrIwDbQXaQ78UQmIcJfRrYSD0iwzQY"
+href = "urn:sha384:_FRBXNuNsCwSh2Pbl5Jtx3p1KyTw0ZBHn3gN-pFfDmVx8Haz6LnIGLoQcHByqfmp"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -358,7 +361,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/27962578@N02/2830413211"
 title = "watermelon"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:J_Clz2o3Nn35yahkkndlMzQWSgW9C7Dgs_LLp0RS_9ZfIZhfdy6Bm52DNpSbBfoi"
+href = "urn:sha384:OF5pxn_1pzXXfnJDF2M-6QYXA21WxMw1wJlo274hMjlWyY3en1RCIel2rBrDKEay"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -379,7 +385,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/28145073@N08/5237985533"
 title = "Lemon"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:BKycqpLe1zlF00pU3Q_xMlPqE01hnQqAuU4z6_iyE8BO2XO4IzvwlETJqQUXftE8"
+href = "urn:sha384:KB0Qgw9lAvT3PTZSoMrcivl6ZCmCOqp_NlikIjGfiQypCOw8QBCVv4TN0TsC6kED"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -401,7 +410,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/94055174@N00/4769498277"
 title = "Tall Glass of Water"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WQBx5bEpzh9ZgmqdVYP5RWIkiN0Xx5p5_cCW6gGRLuDuN9MCTliv-YC5zcr3X0jX"
+href = "urn:sha384:_LE0MU1IX97J7zi2bXWXYeiSt7H4KwTlb6_sPF7hX4Dne1AxR9SXC-DqlfwN-Gtg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -422,7 +434,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/50642338@N00/335982719"
 title = "Orange juice"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LA1pafgCFrACC3LdLzDR-mpML1YOUEPC3bFxmh5B9qZJQHrxwLIrIAbjqFz1NdqI"
+href = "urn:sha384:4-HA1u2YJLCWKaVxqD7bBlD8-O9r0a0vsgTS-0NmqTSIV47yDVE1LaneNMbIpCMS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -443,7 +458,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/36495803@N05/8097327748"
 title = "Black Coffee for Breakfast in White Porcelain Cup"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gx4pdFB7PLMhdj_kkjRQ7H4HfTpXr7fPrti0O9eopY4uv_reL40-TZw8w6CcKr3p"
+href = "urn:sha384:QLI6Yb6E7_OPHmnt3COpw5Uyg2q3xLg3JjkVY2DSGITFH-zgeafMRYMM_7LSy88g"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -485,7 +503,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/27454212@N00/1721796603"
 title = "Central Market"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ZnLSgi_0UL3gdi8oBFU8MPV4RYM_pznT1iRA01iTELEeoR57WOp3_m74AkCI_gc0"
+href = "urn:sha384:yLBBAziNjZQqcVDHDQhLLMu4hmuoBwxb54m8Ni3WwxFY7sxpNusu6Rz6oa5G3I4O"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -506,7 +527,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/46362618@N06/5346219239"
 title = "Small Box, open"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dY9r5V_RafeTLpJQFzlBibNREhiPbwwsOgTC90wRSVouNLpHU2R7TjXy4NALQhrZ"
+href = "urn:sha384:E7DQ0FilZWLLUmFqMqm5vriLxMtJEWMYXjz1onZwEDjh92-rWEw6mObCQFBbh1ql"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -527,7 +551,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/50523523@N00/3042161035"
 title = "Apprentice cup 1"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ORkYU4Qt2eIqd-Ub94CMsyVotIk1Q4vdCl25sava48KXLg8lU2XK5Hj5ZXRZoSJb"
+href = "urn:sha384:A-tJgPhfvHrUKQk-TPb6vqlNY1-TTrWBSIP692nHD9iZ3oRj108JCEi3yI6eTNti"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -545,7 +572,10 @@ type = "picture"
 author = "mxc@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xJwKjro5nG9HW7uT-TmFkI5C8YP0NZYXKC04r0_6jyCMnDAZUZRMlPXeaXJKWRHe"
+href = "urn:sha384:Xg0R0ZgO6dtDf98n_a8EXH3Rzf850rQNgaBVWnzi4D92A8FdeX6TkFCV6wzen_J4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -566,7 +596,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/91762461@N00/6482632337"
 title = "Large Dollar Bill 7500x3200 www.bostonsphotos.com"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cblAQ5ePqfSSHCkqs00sL8ZH-EdGAMUibQposiPdtn55fdaLEZob9ntnvXkjmCuk"
+href = "urn:sha384:Ql8kJtMVH0FJ3_B3lxRGhxUnjx0diUKb9KKOLoAQmewjetyyUV6BQqGA_rSLjBhj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -587,7 +620,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/14347196@N00/4388396268"
 title = "Change"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ZKRkIRh-qQgG-cePuLwuC2AqqyXcI8jIif3_HWW8D8yAKmaUvW_XlVCyYOb77otf"
+href = "urn:sha384:RGREqq-VWtbp7reQkP_gZeodUv_5tz6nqAA_GlZV7Fuqg-cFODAht2LrboelzWMT"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -608,7 +644,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/65031923@N00/363683458"
 title = "A Nevada quarter"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DvO7by2HD4nEbaKy6h1Ns1FbjZPA5w2YEcLRUk8Uz6PHkz2hnSvHEIWNHODF4kHT"
+href = "urn:sha384:SqzzLWiUTW-lg_PyYohcQ3mJ_uZ1tFryqq41BpIbuDh9OlxcSwFud01EcaiYQmEQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -629,7 +668,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/34353636@N00/894035077"
 title = "PB Visa Gold Credit Card"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:PgYkvXyh88U8qYGff6SlXzYJ20wrA0KAgHoKrfcA499pX4vmpl29JHDlSfvYHMuQ"
+href = "urn:sha384:4Jx1Zg754BekBNdb9L7II43qcOdjjfdVris-YBWSPQpixE4oWAegepz4V-saaGuu"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
