@@ -210,26 +210,8 @@ text = "ovelha"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:slpMGCMmp3EjysNVUeow38JFm8G5JU8gBUA48K4Cil3g7mkjfdmsJ2Je2d60bFIQ"
-href = "urn:sha384:5E6BeLgqXz8-pZi-iZwZBN-k35qCl56BIgSUyHS4CMQTp449-rIFXkIDbuQQvKu1"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Raycoy  Doop (JW) (whologwhy)"
-author_url = "http://www.flickr.com/people/60417477@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/60417477@N00/6010643359"
-title = "MONKEY BUSINESS"
-[[cards]]
-
-[[cards.sides]]
-text = "macaco"
-type = "phrase"
-
-[[cards.sides]]
 blob_href = "urn:sha384:lsKo1QwfQF-rlk0XiMYK5ZSt-juhYNRqCn3AAkELVJddTIV4ygdjnVzLYqZyQ4gN"
-href = "urn:sha384:JzR6HUweYxeqeyfSkccubpppI2cgNkadZ5sRLao8pBU94z4iFrGmyks612oA8vwv"
+href = "urn:sha384:XElYodJeI5q6j5yuvtTS0ZBJI1CYe0PrhNjWw5KFFNCB-WbqCI1cn8EutzP7VTrC"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -242,12 +224,21 @@ title = "Sheep"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "macaco"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:slpMGCMmp3EjysNVUeow38JFm8G5JU8gBUA48K4Cil3g7mkjfdmsJ2Je2d60bFIQ"
+href = "urn:sha384:cu5y0S436yF18Gs4OWiFa6QLtHiwDFsCD3elaGsMqVNpwP-aOT_1FsDftBAxnGdi"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Raycoy  Doop (JW) (whologwhy)"
+author_url = "http://www.flickr.com/people/60417477@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/60417477@N00/6010643359"
+title = "MONKEY BUSINESS"
 [[interactions]]
 answer = 1
 prompt = [ 0,]
