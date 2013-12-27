@@ -1,6 +1,6 @@
 +++
 title = "Animais"
-contributors = [ "201.42.156.191", "Laurent", "garrison", "saree",]
+contributors = [ "189.100.172.73", "201.42.156.191", "Laurent", "garrison", "saree",]
 dividers = [ 4, 8, 12,]
 headings = [ "word", "picture",]
 type = "lesson"
@@ -188,7 +188,7 @@ title = "Cat"
 [[cards]]
 
 [[cards.sides]]
-text = "cachorroo"
+text = "cachorro"
 type = "phrase"
 
 [[cards.sides]]
@@ -210,8 +210,26 @@ text = "ovelha"
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:slpMGCMmp3EjysNVUeow38JFm8G5JU8gBUA48K4Cil3g7mkjfdmsJ2Je2d60bFIQ"
+href = "urn:sha384:5E6BeLgqXz8-pZi-iZwZBN-k35qCl56BIgSUyHS4CMQTp449-rIFXkIDbuQQvKu1"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Raycoy  Doop (JW) (whologwhy)"
+author_url = "http://www.flickr.com/people/60417477@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/60417477@N00/6010643359"
+title = "MONKEY BUSINESS"
+[[cards]]
+
+[[cards.sides]]
+text = "macaco"
+type = "phrase"
+
+[[cards.sides]]
 blob_href = "urn:sha384:lsKo1QwfQF-rlk0XiMYK5ZSt-juhYNRqCn3AAkELVJddTIV4ygdjnVzLYqZyQ4gN"
-href = "urn:sha384:0z2VVe_0sCZDZCdUlxGHRzX467gSenzRXnxm2h17o4zXwSkAcmpUWZi5M4k3-Ic9"
+href = "urn:sha384:JzR6HUweYxeqeyfSkccubpppI2cgNkadZ5sRLao8pBU94z4iFrGmyks612oA8vwv"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -224,21 +242,12 @@ title = "Sheep"
 [[cards]]
 
 [[cards.sides]]
-text = "macaco"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:slpMGCMmp3EjysNVUeow38JFm8G5JU8gBUA48K4Cil3g7mkjfdmsJ2Je2d60bFIQ"
-href = "urn:sha384:Y_2DSJVepDCMjN4qZ6geh_fyP7uHxF1v109NWJ5MPRqu7paAn-YS_jLkhxjGi8qk"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = "Raycoy  Doop (JW) (whologwhy)"
-author_url = "http://www.flickr.com/people/60417477@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/60417477@N00/6010643359"
-title = "MONKEY BUSINESS"
 [[interactions]]
 answer = 1
 prompt = [ 0,]
