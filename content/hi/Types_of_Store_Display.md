@@ -1,7 +1,7 @@
 +++
 title = "Types of Store Display"
 contributors = [ "14.140.106.14",]
-dividers = [ 4,]
+dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "hi",]
@@ -114,12 +114,105 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "These are called Groceries"
 type = "phrase"
 
 [[cards.sides]]
+blob_href = "urn:sha384:BKsih9TKG7kcx6u8mYbhmihxj-k0MRp82CVxe4OoOdsCilyVSudsNCBQpbrB7GnK"
+href = "urn:sha384:NYvSLidfTdx30gxAtFVeMX9qqmQcG2dRfdB0-lpzYZpaLlFF9UpZPYyFa_gE1JWz"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Jennie Faber)"
+author_url = "http://www.flickr.com/people/35034355962@N01/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/35034355962@N01/5557602159"
+title = "Is there a large enough Jewish contingent Upcountry to justify this incredible display?"
+[[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "These are called Apparel"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:8Sj2DVz4XjQrIdlx7GpGdutYZOsgwBNq6xOtF8-YL34PgA-YCdKxIvK3M5tffDx5"
+href = "urn:sha384:5FYok1T39mUSmy4MgNZfaFt0IJaj60LV2z6z9020Hjpi9My1beJ_NPNYdOUxBXbu"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Consumerist Dot Com)"
+author_url = "http://www.flickr.com/people/21241181@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/21241181@N00/411371408"
+title = "interior foot locker 3"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "These are called accessories"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:LqcVoPZFp-g2SA-xFhssPZl5A2ihUGB_7B6LRSLCaGyNgkygTeORVExs6sXOxJKg"
+href = "urn:sha384:C04nnRdGt69RIQJ_Q2_TmQ1BxnlUoD0tKMOd0k3waXVw4ek0GAW5kUWSpSDhVJr5"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "a olin (aolin)"
+author_url = "http://www.flickr.com/people/27938098@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/27938098@N05/4108983760"
+title = "store front"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "These are called mannequins"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:s73mnNvRtil7f2Rj-Oq5UYeimZWnNvsk63XKwagKXvA8Bup2lvvOYiFJmoDmfhJH"
+href = "urn:sha384:xV06TiVCK9XR67KcFV9dcMu3QOSZXGn53lVb_lFUuKn2H2eqe5cVV1RHsyL8CTeT"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "David Wilson (davidwilson1949)"
+author_url = "http://www.flickr.com/people/32693718@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/32693718@N07/5644356558"
+title = "20110225 01 Store Display"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "These are called window displays"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:bt0ewjWZ6v1q0oqKi-wJIZKEuzLtIetgXogbfBf5Wxpii3q3pejxGD_E3sD-C7Wl"
+href = "urn:sha384:4ervgNK7_ZxqU1t9zXl6BwEnTL85O_FrPOouiD1sYQcaQdyf0XHoiBrfAeXOX1Tu"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Upupa4me)"
+author_url = "http://www.flickr.com/people/40650891@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/40650891@N02/8219394260"
+title = "sh2 through a window"
 [[cards.sides]]
 type = "empty"
 
