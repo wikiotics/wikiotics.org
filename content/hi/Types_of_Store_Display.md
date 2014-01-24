@@ -93,6 +93,27 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "This is a cascade display"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:5i0-tcdpNeVhjkMADK_xiXfoqzVy4wIwr4aODTHhhj5IWrN3piZeLnsq3yP2LCYB"
+href = "urn:sha384:f0RIJoFuVoalq2fptPv7lQ373DDny9M1S4lPzSKHbz5YoPRPc_7cY2gsT-V3b_Gd"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jocelyn Kinghorn (Jocey K)"
+author_url = "http://www.flickr.com/people/48627921@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/48627921@N05/10300604355"
+title = "Caps to Match!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = ""
 type = "phrase"
 
