@@ -16,4 +16,4 @@ Session 1: [The Family](http://wikiotics.org/es/Family1)
 
 Session 2: [In the Bodega](http://wikiotics.org/es/En_La_Bodega)
 
-Session 3: Talking to your kids
+Session 3: [Talking to your kids](http://wikiotics.org/en/school)
