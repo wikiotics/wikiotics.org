@@ -128,8 +128,17 @@ text = "querer"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Af3oH27m6dDDtHzUFoHjCui1YZ6WrotJ-PY5Gc8NYZOGPoKQ30Hs4LZe2r5YePUn"
+href = "urn:sha384:lj9c16zF99Q7GAt8zOoppBOKRjPBlUzXZKLmTf6tkM_dmE__0TjXNlNCLc-bfV-O"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Petras Gagilas (gagilas)"
+author_url = "http://www.flickr.com/people/11677434@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/11677434@N04/4593222075"
+title = "I want to see"
 [[cards.sides]]
 type = "empty"
 
@@ -140,20 +149,38 @@ text = "ir"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zaF56KmZ81MOMM9Z-DJyiCaH2R9r11zZ0mdDPJHBf0YJ_ZzrHCd5eNEqLqAz2-3G"
+href = "urn:sha384:oDHdBRQq29bcJiBhVn63yea44ubZHLJhLgUlmelXE7QiZUD2Q-lku_oHdih_R4Wa"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Dustin Askins (dustin.askins)"
+author_url = "http://www.flickr.com/people/83695035@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/83695035@N00/2308813173"
+title = "Leaving The Claiborne House"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "lectura"
+text = "lectura / leer"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:M--54QmaoYSCuNA01hBfLBkx7tsRkQ_9zt2kH03sWiG8CqPadiFPqZMySCP8tLDN"
+href = "urn:sha384:yo97ZMEUF8Rb68PSKBaljxrsFSwGLhq6qsppwINpsls7qrMEU489-ZNNVHjAeNs_"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (surlygirl)"
+author_url = "http://www.flickr.com/people/65903766@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/65903766@N00/5202776729"
+title = "Reading"
 [[cards.sides]]
 type = "empty"
 
