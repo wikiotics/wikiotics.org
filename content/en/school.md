@@ -360,8 +360,17 @@ text = "huevos"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:k7Lwvn6FOVPKSmWYatN3pJQdk0t4H1zcHqIxE3-Fy-wpHS-AhF5F3YplEZ13XD3E"
+href = "urn:sha384:4XR5TCBfSesMw9j7mqSCBVkB-23w5Fwz3FWjK5mgNIrny1KkrLsVlIp0V-4ttz0w"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Thomas Kriese (thomas pix)"
+author_url = "http://www.flickr.com/people/89804841@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/89804841@N00/1471073584"
+title = "Eggs from two different chickens"
 [[cards.sides]]
 type = "empty"
 
@@ -372,8 +381,17 @@ text = "fruta"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zRHs8k30qByUxtuk6qnHI-xZ6E4FAKK03pdypeTVWHRUDoyys_VWeudXBUaKU95D"
+href = "urn:sha384:mLxnEOt2HNVfd4FtfhEUUi0Lb_zaMRBwyTpGyL1N-3Xr9C2s1O5AhmhZQa9MUBWs"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Sean Winters (theseanster93)"
+author_url = "http://www.flickr.com/people/7912605@N08/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/7912605@N08/2394178900"
+title = "fruit"
 [[cards.sides]]
 type = "empty"
 
@@ -384,8 +402,17 @@ text = "mercado"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:m2ait5DEM5BIA9fSTtNZdkvHWVdtBcD-QvyGkyBHstfuIjRBZ5oZ75epLOtRoTf4"
+href = "urn:sha384:r_kytuzEJLAaD2oU0ZW3Pc4rtGldMMVoCBnemLHSxeR_QJ4fHOiGsn9kuhN4DRWw"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "David Wright (D H Wright)"
+author_url = "http://www.flickr.com/people/59521130@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/59521130@N00/318444671"
+title = "Grimsby Indoor Market"
 [[cards.sides]]
 type = "empty"
 
