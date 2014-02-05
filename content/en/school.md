@@ -191,8 +191,17 @@ text = "ver la televisión"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kIWRchZ7jk5rVJVEU36dUflXfCxzgQ-e5rZBPb_-pj7TCrSKwG07U6YI-TZV40E2"
+href = "urn:sha384:ASsxYtxkJGyzgjBsbUNR0VPPSGO8dRMHAB-a0p3TLfZ1jheS-J3bgaUPz9ScgtMh"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (oddharmonic)"
+author_url = "http://www.flickr.com/people/42528087@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/42528087@N00/2405784549"
+title = "Watching TV"
 [[cards.sides]]
 type = "empty"
 
@@ -203,8 +212,17 @@ text = "dibujar"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qJvutgax25uZC6IO-cvfKoCARbznc1HC_yRnXrspGOI504QOJEtihmUS_0dYB9Ky"
+href = "urn:sha384:7Lz_EDAT-TGj1-1OKqnnobnOBIFER4KZifC1cMzXU9V6GOPdzd8o2jVQih1HWf_N"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Garry Knight (garryknight)"
+author_url = "http://www.flickr.com/people/8176740@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/8176740@N05/4233552119"
+title = "Drawing Hands"
 [[cards.sides]]
 type = "empty"
 
@@ -215,8 +233,17 @@ text = "escribir"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XKqVEdo6IWmS_ObzE56CSQGr7rNhIV0tWt3hSshS4i2D77YyOpnsn4wG3s4xwzYq"
+href = "urn:sha384:K-tKGKNw55_-vuesYBfq5azeBA0WBcGy5paRvf8_W4VP8HO8TmqHgVoF-BTNCfeJ"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (the Italian voice)"
+author_url = "http://www.flickr.com/people/77476789@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/77476789@N00/2105224119"
+title = "Grocery shopping list"
 [[cards.sides]]
 type = "empty"
 
