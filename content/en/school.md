@@ -53,8 +53,17 @@ text = "cine"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0hPe-yzSdvoaRahJA0R0YpPGwotIp-rcKXO1jDac5lXbG-lENCwaEEaNbhlku7QJ"
+href = "urn:sha384:OlvtggXW5aJvkjVnZ0MWPSWLUgsoBryL3SAlnZPbxUKyTRaphLDIkC35V3DvZ_xH"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Sam Howzit (Sam Howzit)"
+author_url = "http://www.flickr.com/people/12508217@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/12508217@N08/9489482611"
+title = "Ada Movie Theatre"
 [[cards.sides]]
 type = "empty"
 
@@ -149,17 +158,17 @@ text = "ir"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:zaF56KmZ81MOMM9Z-DJyiCaH2R9r11zZ0mdDPJHBf0YJ_ZzrHCd5eNEqLqAz2-3G"
-href = "urn:sha384:oDHdBRQq29bcJiBhVn63yea44ubZHLJhLgUlmelXE7QiZUD2Q-lku_oHdih_R4Wa"
+blob_href = "urn:sha384:HGMs0mDt38K7LuEM7jm0_A9D601LyzK_1XsfmWJuot9z2f4mCvhljh-_Zb1aYBbP"
+href = "urn:sha384:5zAgRe57oVHsL59shesXNhHegGFqa_mnf_YwP0qeLJgITBsWBdQWMT5Lzhe0d9js"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Dustin Askins (dustin.askins)"
-author_url = "http://www.flickr.com/people/83695035@N00/"
+author = "Alexandre Normand (skippyjon)"
+author_url = "http://www.flickr.com/people/77909728@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/83695035@N00/2308813173"
-title = "Leaving The Claiborne House"
+original_url = "http://www.flickr.com/photos/77909728@N00/3172305095"
+title = "Walking Around (52th/52)"
 [[cards.sides]]
 type = "empty"
 
