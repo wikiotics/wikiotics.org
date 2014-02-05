@@ -65,8 +65,17 @@ text = "piscina"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:eqWYSv7w_AQ540W7H_YlNkS9mdpcxgLHq17t7H_OTtJg3KiVFakzZQpm3Mrn1UoE"
+href = "urn:sha384:6mGMJJu8gYGiOo60osLOpQP-IQ8JnrTVabYuqzRJWrgp32S6TsKxUWImDKQuXhvW"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "William Warby (wwarby)"
+author_url = "http://www.flickr.com/people/26782864@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/26782864@N00/8191002488"
+title = "Pool"
 [[cards.sides]]
 type = "empty"
 
@@ -77,8 +86,17 @@ text = "playa"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:I07jjSg1zKZX-uR4FGjjnrYvSh06qf4OTSdejOq3i8D04SDRnw6DUOVonQV7ZRuk"
+href = "urn:sha384:zHBqnLeXyK0BsOFiWO_xMA7B0HJBmsyPDFIFgoU3NRmWrQfJqDRYGj-xaDng9xYB"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Ralph Daily (ralph and jenny)"
+author_url = "http://www.flickr.com/people/92269745@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/92269745@N00/7712330288"
+title = "Beach Umbrella"
 [[cards.sides]]
 type = "empty"
 
@@ -89,8 +107,17 @@ text = "cita de jugar"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6AS5KEBRUff75vc2W1NGD0XEpeIJe1k_EpoxkkVwFBaiLIFfNEpGAazo9w1VoDvS"
+href = "urn:sha384:6KQeV2KxmsHn73cVZaNeZ8m_LsR8jEx2P1uXHGXeAJfRAFeKSkkL5XcNTcDq1Xg8"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Jere Keys (jerekeys)"
+author_url = "http://www.flickr.com/people/98479051@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/98479051@N00/139566310"
+title = "Craig's Play Date"
 [[cards.sides]]
 type = "empty"
 
