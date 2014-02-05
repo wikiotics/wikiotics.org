@@ -368,8 +368,17 @@ text = "jugar"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EaBrLKvk8uSAJ2wcMGC4nb9L8PGmkoGmzbIyE3w0btruBkJoQCkZeM2B2tF_TuNn"
+href = "urn:sha384:wQVWRMzYJ4HDU2XyeKs5wTGfdxmWKRGmKbrLYfjtgcxglm0BEtN696lHunLiGhQi"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Charlie f (charlief)"
+author_url = "http://www.flickr.com/people/20685443@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/20685443@N00/4397519790"
+title = "Hop Scotch"
 [[cards.sides]]
 type = "empty"
 
@@ -380,8 +389,17 @@ text = "hablar"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Gl5f86N5--7KOnLJ5UNN4QVW9VmW84vcNQ4X-rzSQPal3VMqjF5UqNJ5ik3fzqPm"
+href = "urn:sha384:DX7KHxD05vbNOzgb7_FmkaXcyCcfwmoy_enNqaIT5XXsRUtORu_7OgIEnMaqxyEv"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Lovelorn Poets (lovelornpoets)"
+author_url = "http://www.flickr.com/people/55819973@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/55819973@N05/6214449310"
+title = "talk"
 [[cards.sides]]
 type = "empty"
 
@@ -392,8 +410,17 @@ text = "enseñar"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:--2OdQhXhf7suyoAC8quAivMpabHroGqOFQAPzlxhCrZE7-hPzBuHUyDgz52lGrY"
+href = "urn:sha384:kg_KhAyEd9dC0T443aC0xM8II_CKylGGx8vXyid3QlrivbKEXmG9cUsBI-WESYKV"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "NASA Goddard Space Flight Center (NASA Goddard Space Flight Center)"
+author_url = "http://www.flickr.com/people/35278629@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/35278629@N08/9518389006"
+title = "The Global Learning and Observation to Benefit the Environment (GLOBE) program visits NASA Goddard"
 [[cards.sides]]
 type = "empty"
 
