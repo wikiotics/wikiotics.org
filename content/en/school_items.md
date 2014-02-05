@@ -242,8 +242,17 @@ text = "ordenador"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1gSsIj-bBDNvFDME4M8pot-9vDp5ws8YX6XZMtwNJEPBaRBE-vbvB3YHn9aVU0OB"
+href = "urn:sha384:xrSs4Dl6wWnm43GyC1VDaqAczjP2Wa9f9fbBa3BLKMzribrY1LnroCjzyf4Ehfhy"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (ph0rk)"
+author_url = "http://www.flickr.com/people/70717323@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/70717323@N00/2808836318"
+title = "computer"
 [[cards.sides]]
 type = "empty"
 
@@ -254,8 +263,17 @@ text = "libros"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:NcZhj-Z3bUflXqY3NjUr925OtofwPuQGHQJP0c55jqQE3N5kVH-Zia9_uuIGwFKk"
+href = "urn:sha384:Sn1R4Jq_5g4E30jGkyd-SGen4cpddS08hgYee8gzoOTWex4epqg4LYM0ayHHsSrI"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Ian Wilson (Ian Wilson)"
+author_url = "http://www.flickr.com/people/36959242@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36959242@N00/151936713"
+title = "Book collection"
 [[cards.sides]]
 type = "empty"
 
@@ -266,8 +284,17 @@ text = "cuaderno"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:l9vP5GriJOqZ853VJIBfRw1XQFPzFVfMV_gLrEdieMaoYU4gzUfguj8u2LRgQxs_"
+href = "urn:sha384:gd9pYpX_yjrObk6E7QPkDjM5ncuaBLROZQ4C3ewKAdRqM8lvde4NybLmjd-K1quK"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (waferboard)"
+author_url = "http://www.flickr.com/people/60944931@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/60944931@N00/6783298985"
+title = "notebook"
 [[cards.sides]]
 type = "empty"
 
@@ -278,8 +305,17 @@ text = "lápices de color"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wb_jxiDK7oZzdkRbKAysSwAD8JnJjuAtIgFvBK5N_YpQfV7r5X2Tb_ov93SmcUtG"
+href = "urn:sha384:jc3YrLIIlytAbIscdapjH-onZOIeOEITq01m1DjZauz8Cd0Caaer0NTyL4oX0g3h"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "John Morgan (John-Morgan)"
+author_url = "http://www.flickr.com/people/24742305@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/24742305@N00/2574312204"
+title = "Crayons"
 [[cards.sides]]
 type = "empty"
 
@@ -290,8 +326,17 @@ text = "marcadores"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:SajzlKIiGC7jQ8HxjzR2nn_mXyzBuo7fH-b0LAIvZ_FEtIHzYz6uocqP9P0W0SbT"
+href = "urn:sha384:WeVzgsULtpR8iQD0pj93_N_PqSOo_JhWJiJ3u-VHTB9lT09do1OygRg50IAw61nU"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "David Guo (David Guo's Master)"
+author_url = "http://www.flickr.com/people/76969036@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/76969036@N02/7529922954"
+title = "markers_low_odor_1"
 [[cards.sides]]
 type = "empty"
 
@@ -302,8 +347,17 @@ text = "aprender"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6ZOkZFnM-brXbzXCf8F_PHH5zOGgaHzhQw6WYK07FDHC363OH2tnLu73S0kS1NpH"
+href = "urn:sha384:YxGLOuKU--CWF14WNNNWnLDQX_UBmbC68HbVn-Nl8oB5aNJ02EXjaalesFHi-eyM"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "pierre duchemin (pierre duchemin)"
+author_url = "http://www.flickr.com/people/28857388@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/28857388@N00/2402058236"
+title = "Enrichissement"
 [[cards.sides]]
 type = "empty"
 
