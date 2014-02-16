@@ -1,6 +1,6 @@
 +++
 title = "An accident"
-contributors = [ "106.201.138.190", "106.203.220.125", "106.67.33.184", "106.78.3.129", "106.78.7.59",]
+contributors = [ "106.201.138.190", "106.203.220.125", "106.67.33.184", "106.78.3.129", "106.78.7.59", "169.231.51.170",]
 headings = [ "Phrase", "Audio", "Speaker",]
 tags = [ "IndiaWorkshop",]
 type = "lesson"
@@ -9,14 +9,27 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = "Hello,I have met with an accident"
+text = "A Friend Had an Accident and Calls for Help"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Accident friend"
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello, I have had an accident."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Victim"
 type = "phrase"
 
 [[cards]]
@@ -29,7 +42,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Saviour friend"
+text = "Friend of Victim"
 type = "phrase"
 
 [[cards]]
@@ -42,241 +55,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Accident friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "How are you now?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Saviour friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "I am wounded"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Accident friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "How much badly?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Saviour friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "I have hurt my hand."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "accident friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "So,I can't drive"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Accident friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Are you bleeding?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Saviour friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Yeah but it is manageable."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Accident friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "I want to help,but i'm in gurgaon"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Saviour friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "I will send my brother,he will pick you up."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Saviour friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Thanks,but in how much time?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Accident friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "As soon as possible"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Saviour friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "ok.I'm waiting.Thanks for help"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Accident friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Don't mention.We are friends"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Saviour friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Accident of a student"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Hello sir,Am I speaking with Mr. Sharma?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Teacher to parent"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Yes,I am Rajesh Sharma."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "I am calling from your son's school."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Teacher to parent"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "I am his class teacher."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Teacher to parent"
+text = "Victim"
 type = "phrase"
 
 [[cards]]
@@ -289,299 +68,117 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Friend of Victim"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "While playing football today.You child got hurt."
+text = "I cut my hand."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Teacher to parent"
+text = "Victim"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "How is he now?"
+text = "How bad is it?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Friend of Victim"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "We think his leg is fractured."
+text = "I don't need an ambulance, but I cannot drive this way and \nI need to go to the hospital for stitches."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Teacher to parent"
+text = "Victim"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Where is he now?"
+text = "I want to help, but I'm too far away. I'll call my brother, \nhe can pick you up."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Parent to teacher"
+text = "Friend of Victim"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "He is in the rest room."
+text = "Thanks. How long will he take to get here?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Teacher to parent"
+text = "Victim"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Ok,I will reach there in 20 minutes."
+text = "I'll call him now and he can go to you immediately."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Parent to teacher"
+text = "Friend of Victim"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Ok,We are waiting for you."
+text = "Ok. I'll wait for him. Thanks for your help"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Teacher to parent"
+text = "Victim"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Accident on road"
+text = "Don't mention it. That's what friends are for."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Friend of Victim"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Hello ,Am I speaking with Amjad's father?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Friend to parent"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Yes, I am Amjad's father."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Parent to friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Hello uncle,I am Afzal saifi."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Friend to parent"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "What happened?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Parent to friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Your son is in ICU."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Friend to parent"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "How,what happened?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Parent to friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "We were on the bike suddenly a truck hit us from behind."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "friend to parent"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "We fell on the road.I was wearing helmet but Amjad was not."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Friend to parent"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Where is he hurt?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Parent to friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "He fell on his head.His head started bleeding."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Friend to parent"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "You are in which hospital?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Parent to friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "We are in city hospital."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "friend to parent"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "I will reach there in 20 mins.Wait for me"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "parent to friend"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Ok,I am waiting for you."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "friend to parent"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Accident from roof."
+text = "A Student Had an Accident"
 type = "phrase"
 
 [[cards.sides]]
@@ -594,7 +191,267 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hello,where are you?"
+text = "Hello, am I speaking with Mr. Sharma?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Yes, this is Rajesh Sharma."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I am calling from your son's school with bad news. I'm sorry to tell you \nthat your son was injured while playing football today."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Oh no. What happened?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We think he has broken his leg."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where is he? Has he been taken to the hospital?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The ambulance is on its way. They will take him to the local hospital."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Teacher"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ok, I'll be there in 20 minutes. Thank you."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "An Accident on the Road"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello, is this Amjad's father?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Victim's Friend"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Yes, hello."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Victim's Parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "This is Afzal Saifi. I'm sorry to tell you but your son is in the ICU."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Victim's Friend"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "That's terrible. What happened?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Victim's Parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We were riding on my motorcycle and a truck hit us from behind. \nWe fell on the road. I was wearing a helmet but Amjad wasn't."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Victim's Friend"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "How badly was he hurt?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Victim's Parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "His head was bleeding and he was unconscious,\nbut we don't know how bad the damage is. The doctors are \nworking on him now."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Victim's Friend"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Where are you?"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Victim's Parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "We are at the city hospital."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Victim's Friend"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "I'm on my way."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Victim's Parent"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "A Fall off a Wall"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Hello, I have bad news about Chintoo."
 type = "phrase"
 
 [[cards.sides]]
@@ -607,7 +464,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "I am in office,what happened?"
+text = "What happened?"
 type = "phrase"
 
 [[cards.sides]]
@@ -620,111 +477,98 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Chintoo fell from the roof."
+text = "He fell off the garden wall."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "mother"
+text = "Mother"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "What was he doing on the roof?"
+text = "What was he doing on the wall?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "father"
+text = "Father"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "He was flying the kite."
+text = "He was flying his kite."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "mother"
+text = "Mother"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "How is he now?"
+text = "Well, is he okay?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "father"
+text = "Father"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "He has recieved injuries on his hand"
+text = "Luckily he fell onto the plants and just cut his hand. \nBut it's a deep cut and I think he'll need stitches."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "mother"
+text = "Mother"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Take him to hospital.I will reach there in 20 mins."
+text = "Ok, you'll take him to the hospital then? \nI can meet you there in 20 minutes."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "father"
+text = "Father"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Ok, but try to come soon."
+text = "Good. When this is all over, I'm going to have a serious talk \nwith Chintoo about responsibility. I'm so angry that he was playing up on that wall!"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "mother"
+text = "Mother"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Don't worry.I will come asap"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "father"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Accident of an unknown person"
+text = "A Stranger Has an Accident"
 type = "phrase"
 
 [[cards.sides]]
@@ -737,72 +581,20 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Hello sir,am I speaking with Rahul's father?"
+text = "Hello, am I speaking with Rahul's father?"
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "inder"
+text = "Nurse"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Yes speaking."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "father"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Your son is in city hospital"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "inder"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Who are you,what happened?"
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "father"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "My name is inder.I found your son on the road."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "inder"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Where did you find him & how is he now?"
+text = "Yes, this is he."
 type = "phrase"
 
 [[cards.sides]]
@@ -815,33 +607,20 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "I found him on lajpat nagar road.He was lying uncounscious."
+text = "I have some bad news: I'm a nurse at the city hospital and \nyour son has just been admitted."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Inder"
+text = "Nurse"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "I have admitted him,please come soon."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "Inder"
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Yeah ,I will reach there in 20 mins."
+text = "What happened to him?"
 type = "phrase"
 
 [[cards.sides]]
@@ -854,20 +633,20 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Thanks,I am waiting for you."
+text = "Someone found your son unconscious on the road and drove him here."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Inder"
+text = "Nurse"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Thanks a lot for help."
+text = "What's the matter with him?"
 type = "phrase"
 
 [[cards.sides]]
@@ -880,14 +659,27 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Don't mention.Its my duty"
+text = "We don't know yet, the doctors are with him. We need \nyou here to make decisions about his care."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Inder"
+text = "Nurse"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Of course, I'm on my way now."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Father"
 type = "phrase"
 
 [[interactions]]
