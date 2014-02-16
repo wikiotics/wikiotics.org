@@ -1,6 +1,6 @@
 +++
 title = "Anas story"
-contributors = [ "14.140.106.2",]
+contributors = [ "14.140.106.2", "169.231.51.170",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "en",]
@@ -31,7 +31,7 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "Tthis is a man"
+text = "This is a man"
 type = "phrase"
 
 [[cards.sides]]
