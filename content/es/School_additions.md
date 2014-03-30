@@ -1,7 +1,7 @@
 +++
 title = "School additions"
 contributors = [ "katyauchter",]
-dividers = [ 4, 8, 12,]
+dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -127,7 +127,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "el pegamento"
 type = "phrase"
 
 [[cards.sides]]
@@ -139,7 +139,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "el globo terrestre"
 type = "phrase"
 
 [[cards.sides]]
@@ -151,7 +151,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "el mapa"
 type = "phrase"
 
 [[cards.sides]]
@@ -163,7 +163,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "el diccionario"
 type = "phrase"
 
 [[cards.sides]]
@@ -175,7 +175,103 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "el fuente"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "la merienda/ el antojito"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "el cortador de papel"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "la grapadora"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "la tarea"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "el caballete"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "desinfectante de manos"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "las toallitas"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "la cinta"
 type = "phrase"
 
 [[cards.sides]]
