@@ -290,7 +290,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:bSNvB5sh24rD4Dn4l2R7cTu8zwcYPeTCgoGZFyigVBuPz3lT8X9pIANc8QiIgqy-"
+href = "urn:sha384:a9Wq8cJwbf4DWTUvuIvBU6Yl7R2OxLKas4D31QsZVo-2FY3R6mMtWq_jhxPQ6gyj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
