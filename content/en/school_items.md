@@ -1,7 +1,7 @@
 +++
 title = "school items"
-contributors = [ "katyauchter", "katyauchter@gmail.com",]
-dividers = [ 4, 8, 12, 16,]
+contributors = [ "71.190.186.102", "katyauchter", "katyauchter@gmail.com",]
+dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -421,6 +421,24 @@ author_url = "http://www.flickr.com/people/35278629@N08/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/35278629@N08/9518389006"
 title = "The Global Learning and Observation to Benefit the Environment (GLOBE) program visits NASA Goddard"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:sHPcHDb1983l-rS8z5nhvT5IWkzGd53fXgst8dNF2m9rzI_AZXYu6Ukz980_6YR1"
+href = "urn:sha384:b7JPyobiMa9WsDYLJrzn1-A8pFF2K_22jfbwu275NHa7DvpWzYFTZO6da4O-sdzG"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "71.190.186.102"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
