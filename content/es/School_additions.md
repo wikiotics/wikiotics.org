@@ -1,6 +1,6 @@
 +++
 title = "School additions"
-contributors = [ "katyauchter",]
+contributors = [ "71.190.186.102", "katyauchter",]
 dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -272,6 +272,18 @@ type = "empty"
 
 [[cards.sides]]
 text = "la cinta"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "test text"
 type = "phrase"
 
 [[cards.sides]]
