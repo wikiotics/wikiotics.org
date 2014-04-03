@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "la mochila"
+text = "La  mochila es gris."
 type = "phrase"
 
 [[cards.sides]]
@@ -19,7 +19,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "la mesa"
+text = "La mesa es negro"
 type = "phrase"
 
 [[cards.sides]]
@@ -31,7 +31,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "las luces"
+text = "Son las luces."
 type = "phrase"
 
 [[cards.sides]]
@@ -43,7 +43,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "los jugetes"
+text = "Los jugetes son grandes."
 type = "phrase"
 
 [[cards.sides]]
@@ -55,7 +55,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "el reloj"
+text = "El reloj es azúl."
 type = "phrase"
 
 [[cards.sides]]
