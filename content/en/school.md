@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "parque"
+text = "Es la parque."
 type = "phrase"
 
 [[cards.sides]]
@@ -28,7 +28,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "campos de juegos/ plaza de niños"
+text = "¿Dónde está el campo de juegos?/ \n¿Dónde está la plaza de niños?"
 type = "phrase"
 
 [[cards.sides]]
@@ -49,7 +49,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "cine"
+text = "¿Dónde está el cine?"
 type = "phrase"
 
 [[cards.sides]]
@@ -70,7 +70,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "piscina"
+text = "Es la piscina."
 type = "phrase"
 
 [[cards.sides]]
@@ -91,7 +91,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "playa"
+text = "¿Dónde esta la playa?"
 type = "phrase"
 
 [[cards.sides]]
@@ -112,7 +112,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "cita de jugar"
+text = "Tenemos una cita de jugar."
 type = "phrase"
 
 [[cards.sides]]
@@ -133,7 +133,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "querer"
+text = "Él niño quiere  (querer)"
 type = "phrase"
 
 [[cards.sides]]
