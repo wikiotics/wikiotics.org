@@ -1,13 +1,13 @@
 +++
 title = "school items"
-contributors = [ "71.190.186.102", "katyauchter", "katyauchter@gmail.com",]
+contributors = [ "192.160.130.39", "71.190.186.102", "katyauchter", "katyauchter@gmail.com",]
 dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "pizarra"
+text = "Es la pizarra."
 type = "phrase"
 
 [[cards.sides]]
@@ -49,7 +49,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "lapiz"
+text = "Es el lápiz."
 type = "phrase"
 
 [[cards.sides]]
@@ -70,7 +70,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "bolígrapho / pluma"
+text = "El bolígrapho es verde. / \nLa pluma es verde."
 type = "phrase"
 
 [[cards.sides]]
@@ -91,7 +91,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "calculador"
+text = "Es lal calculador."
 type = "phrase"
 
 [[cards.sides]]
@@ -112,7 +112,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "tijera"
+text = "Es la tijera."
 type = "phrase"
 
 [[cards.sides]]
@@ -133,7 +133,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "goma de borrar/ borrador"
+text = "La goma de borrar es rosa. / El borrador es rosa."
 type = "phrase"
 
 [[cards.sides]]
@@ -154,7 +154,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "escritorio"
+text = "Son los escritorios."
 type = "phrase"
 
 [[cards.sides]]
@@ -175,7 +175,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "silla"
+text = "La silla es marrón."
 type = "phrase"
 
 [[cards.sides]]
@@ -196,7 +196,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "aula"
+text = "La aula es grande."
 type = "phrase"
 
 [[cards.sides]]
@@ -217,7 +217,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "proyector"
+text = "Es el proyector."
 type = "phrase"
 
 [[cards.sides]]
@@ -238,7 +238,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "ordenador"
+text = "Es el ordenador."
 type = "phrase"
 
 [[cards.sides]]
@@ -259,7 +259,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "libros"
+text = "Son los libros."
 type = "phrase"
 
 [[cards.sides]]
@@ -280,7 +280,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "cuaderno"
+text = "Es el cuaderno."
 type = "phrase"
 
 [[cards.sides]]
