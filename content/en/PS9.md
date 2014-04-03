@@ -1,9 +1,9 @@
 +++
-title = "PS9"
+title = "**PS 9 Spanish-English Study Groups**"
 target-languages = [ "en",]
 +++
 
-PS 9 Spanish-English Study Groups[]()
+## **[]()Language Resources**
 
 [Elementary Spanish](https://en.wikibooks.org/wiki/Elementary_Spanish)
 (Main wikibook for learning Spanish)
@@ -20,3 +20,13 @@ Session 3: [Talking to your kids](http://wikiotics.org/en/school)
 
 Session 4: [School items](http://wikiotics.org/en/school_items) (still
 needs audio)
+
+## Meeting Dates
+
+*All meetings are in the PS 9 Library*
+
+  - Monday, April 7
+  - **Wednesday**, April 23
+  - Monday, May 5
+  - Monday, May 19
+  - Monday, June 2
