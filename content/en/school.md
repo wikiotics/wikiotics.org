@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Es la parque."
+text = "Es el parque."
 type = "phrase"
 
 [[cards.sides]]
