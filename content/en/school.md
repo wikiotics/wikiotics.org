@@ -28,7 +28,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "¿Dónde está el campo de juegos?/ \n¿Dónde está la plaza de niños?"
+text = "¿Dónde está el campo de juegos?/\n \n¿Dónde está la plaza de niños?"
 type = "phrase"
 
 [[cards.sides]]
