@@ -235,7 +235,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Es el caballete"
+text = "Es el caballete."
 type = "phrase"
 
 [[cards.sides]]
@@ -247,7 +247,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "desinfectante de manos"
+text = "Es el desinfectante de manos."
 type = "phrase"
 
 [[cards.sides]]
@@ -259,7 +259,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "las toallitas"
+text = "Son las toallitas."
 type = "phrase"
 
 [[cards.sides]]
@@ -271,7 +271,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "la cinta"
+text = "Es la cinta."
 type = "phrase"
 
 [[cards.sides]]
