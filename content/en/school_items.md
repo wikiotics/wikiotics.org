@@ -301,7 +301,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "lápices de color"
+text = "Son los lápices de color."
 type = "phrase"
 
 [[cards.sides]]
@@ -322,7 +322,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "marcadores"
+text = "Hay muchos marcadores."
 type = "phrase"
 
 [[cards.sides]]
