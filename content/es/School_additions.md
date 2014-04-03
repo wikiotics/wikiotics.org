@@ -67,7 +67,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "la alfombra"
+text = "Es la alfombra."
 type = "phrase"
 
 [[cards.sides]]
@@ -79,7 +79,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "el cartel"
+text = "El cartel es blanco."
 type = "phrase"
 
 [[cards.sides]]
@@ -91,7 +91,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "la regla"
+text = "Son las reglas."
 type = "phrase"
 
 [[cards.sides]]
@@ -103,7 +103,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "la carpeta"
+text = "La carpeta es café."
 type = "phrase"
 
 [[cards.sides]]
@@ -115,7 +115,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "la caja de lápices"
+text = "La caja de lápices es rosa."
 type = "phrase"
 
 [[cards.sides]]
@@ -127,7 +127,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "el pegamento"
+text = "Es el pegamento."
 type = "phrase"
 
 [[cards.sides]]
@@ -139,7 +139,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "el globo terrestre"
+text = "Es el globo terrestre."
 type = "phrase"
 
 [[cards.sides]]
@@ -151,7 +151,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "el mapa"
+text = "El mapa es grande."
 type = "phrase"
 
 [[cards.sides]]
@@ -163,7 +163,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "el diccionario"
+text = "Es el diccionario."
 type = "phrase"
 
 [[cards.sides]]
@@ -175,7 +175,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "el fuente"
+text = "Es el fuente. "
 type = "phrase"
 
 [[cards.sides]]
@@ -187,7 +187,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "la merienda/ el antojito"
+text = "Es la merienda./\nEs el antojito."
 type = "phrase"
 
 [[cards.sides]]
@@ -199,7 +199,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "el cortador de papel"
+text = "Es el cortador de papel."
 type = "phrase"
 
 [[cards.sides]]
@@ -211,7 +211,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "la grapadora"
+text = "La grapadora es negro."
 type = "phrase"
 
 [[cards.sides]]
@@ -223,7 +223,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "la tarea"
+text = "Hay mucho tarea."
 type = "phrase"
 
 [[cards.sides]]
@@ -235,7 +235,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "el caballete"
+text = "Es el caballete"
 type = "phrase"
 
 [[cards.sides]]
