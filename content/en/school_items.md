@@ -91,7 +91,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Es lal calculador."
+text = "Es la calculador."
 type = "phrase"
 
 [[cards.sides]]
