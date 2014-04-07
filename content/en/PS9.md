@@ -30,3 +30,15 @@ needs audio)
   - Monday, May 5
   - Monday, May 19
   - Monday, June 2
+
+# Notas -- 7 abril
+
+\=======================
+
+Hola, me llamo \_\_\_\_\_\_\_\_\_.
+
+Mi fruta favorita es \_\_\_\_\_\_\_.
+
+Hi hijo se llama \_\_\_\_\_\_, esta en la clase de \_\_\_\_\_\_\_\_\_.
+
+Mi verdura peferida es ajo.
