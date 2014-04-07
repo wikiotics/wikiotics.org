@@ -39,6 +39,38 @@ Hola, me llamo \_\_\_\_\_\_\_\_\_.
 
 Mi fruta favorita es \_\_\_\_\_\_\_.
 
-Hi hijo se llama \_\_\_\_\_\_, esta en la clase de \_\_\_\_\_\_\_\_\_.
+Mi hijo se llama \_\_\_\_\_\_, está en la clase de \_\_\_\_\_\_\_\_\_.
 
-Mi verdura peferida es ajo.
+Mi verdura preferida es ajo.
+
+Frases de la clase
+
+\---------------------------------
+
+1\. Agarra el lápiz
+
+2\. Ahorita. Este momento.
+
+3\. Necesitan papel.
+
+4\. Agarren sus cuadernos de español.
+
+5\. Trae tu cuaderno.
+
+6\. Escriben oraciones con esta palabra.
+
+7\. ¿*Cómo* se escribe?
+
+Escribir
+
+Yo escribe.
+
+Tu escribes.
+
+Ella escribe y *é*l escribe.
+
+Las chicas escriben.
+
+Nosotros escribimos.
+
+**
