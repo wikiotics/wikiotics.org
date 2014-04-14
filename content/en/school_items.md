@@ -1,7 +1,7 @@
 +++
 title = "school items"
 contributors = [ "192.160.130.39", "207.237.164.232", "71.190.186.102", "katyauchter", "katyauchter@gmail.com",]
-dividers = [ 4, 8, 12, 16, 20,]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -421,27 +421,6 @@ author_url = "http://www.flickr.com/people/35278629@N08/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/35278629@N08/9518389006"
 title = "The Global Learning and Observation to Benefit the Environment (GLOBE) program visits NASA Goddard"
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:RCGEEyDatZCJnOZlPNNg_mzUmCInqg-YHEMPRFMDEngTLtN8Y3bsgna0VmCDtzaO"
-href = "urn:sha384:5PU_TA6A4xUBWTBbfvq0RWVHQxUN857UojTZ5j6vRqvPpiQ4mSvH4MLJkXiOY5A7"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Kevin Dooley (kevin dooley)"
-author_url = "http://www.flickr.com/people/12836528@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/12836528@N00/2474926476"
-title = "School bus"
 [[cards.sides]]
 type = "empty"
 
