@@ -11,8 +11,17 @@ text = "La  mochila es gris."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fHkMgNo29BtOiIXzNq4jwW-Gwa3im8gk2OjZC4JMo2blS7Bkty50j8ap5Br_MU7u"
+href = "urn:sha384:bvevN0qm6_OGOcdyRmOskAGwXLkPW1n4HBSFt9gHrRrGJR8aJ2E9QWTnb6LozfxH"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Kenneth Lu (ToastyKen)"
+author_url = "http://www.flickr.com/people/24226200@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/24226200@N00/1466198389"
+title = "Replacement Eddie Bauer Backpack"
 [[cards.sides]]
 type = "empty"
 
@@ -23,8 +32,17 @@ text = "La mesa es negro"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JNW9e7EPWugzKZKP4q9Oay7xVZr7LySMPos3gwIBu-jdtvMrZa_-8TQQ8Mf1How8"
+href = "urn:sha384:LEtWPWFQ6RHfJkZnkVDedeuH7paJx2RgLzga3vIYyPbTGr5cQMfJ8oj7l9PMuLMV"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Dean Beeler (Canadacow)"
+author_url = "http://www.flickr.com/people/70379677@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/70379677@N00/2686597504"
+title = "New table"
 [[cards.sides]]
 type = "empty"
 
@@ -35,8 +53,17 @@ text = "Son las luces."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dGyeY-rYte4V9AfPZh5yGsM2324jBPNuXCLjYV81ZDq4euN_Ii5XdCWAK8EPS7T9"
+href = "urn:sha384:JZGhN4ID8y-f8JCDjMXPV5rE9ZehjnFFpqRaVuDaBK7H6gcXrQOw0W8oLw0ceYcu"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Steven Taschuk (stebulus)"
+author_url = "http://www.flickr.com/people/69017177@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/69017177@N00/5062531881"
+title = "lights"
 [[cards.sides]]
 type = "empty"
 
