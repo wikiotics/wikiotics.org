@@ -149,32 +149,59 @@ text = "Son las reglas."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:kSR18qw4OfHVNbjo0Xr2Ljq0wb7a2X2TLu6YyURFT-vxSAjoEC1mVaXS_-2Jx_iv"
+href = "urn:sha384:Zdk0NdFlKUlXDBMMoChHOGzEqMbHYX8ZObwFzdJHtwf2QBiaBvN3kAtvnU1YAaEN"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Michael Stout (mick62)"
+author_url = "http://www.flickr.com/people/8509783@N03/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/8509783@N03/3936594954"
+title = "L&S Rules for Students 1"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "La carpeta es café."
+text = "La carpeta es amarilla."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Mkwb1nmYtWKmVfERa5TygpLNQ7wJ_-CM-Nzkef51Y6jW5Lz1kWqca41rHZ-YZD8F"
+href = "urn:sha384:Sen4NP2QKJ_sULfXsIJHjKgcqQY9jMvL5-vu09ksUoOOqUs5JwgG8Bh_Q1bf4LXS"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (net_efekt)"
+author_url = "http://www.flickr.com/people/60364452@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/60364452@N00/3797277793"
+title = "folder"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "La caja de lápices es rosa."
+text = "La caja de lápices es verde."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:juFB_Snof9aOf8YlmODg1tpqb7vdNv8HK5kISsk38QeN24o09zIbrs1L3l8CfYpy"
+href = "urn:sha384:oGoVbg1g6Z7KJt0vbUZWmv0Q2PzNp25Yl25m-16o5MeJNmq65n7ncVxy-AGF-iMj"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Kathryn Greenhill (sirexkat)"
+author_url = "http://www.flickr.com/people/77158296@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/77158296@N00/3431901195"
+title = "Minifigs explore the pencil box, American Museum of Natural History. New York 11 April 2009"
 [[cards.sides]]
 type = "empty"
 
@@ -268,8 +295,17 @@ text = "Es el fuente. "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:173e9gA3g7qRBMgua0KC5gvFBMX0V1XR-2x1jdHNfNnOs6Drs3_04znx1PL4_CUN"
+href = "urn:sha384:nPL3EFF-7qsJEFWuysRGJHhpjZDoJ8MgZ48RfP_AWv_6GHTQ21e1TqSv3bqioOuS"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Shannon Kringen (shannonkringen)"
+author_url = "http://www.flickr.com/people/18161271@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/18161271@N00/3446908600"
+title = "drink up"
 [[cards.sides]]
 type = "empty"
 
@@ -280,8 +316,17 @@ text = "Es la merienda./\nEs el antojito."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lZwryIDxEV1w6lZwN4kM4aG14T3htOQVg1oHurCd6DIlMoTG0AjQRQn2sm5wYV6t"
+href = "urn:sha384:EEVSfEjACfg0kYiC3asJ-5w7e6g9ugk2Nyd3MvlgY7ePXgvL48xFnKAOLBIA-KRK"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Melissa (anotherlunch.com)"
+author_url = "http://www.flickr.com/people/44176993@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/44176993@N03/8479667351"
+title = "Lunch in the Boon Trunk Elephant Snack Box"
 [[cards.sides]]
 type = "empty"
 
