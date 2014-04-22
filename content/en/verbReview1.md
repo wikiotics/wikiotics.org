@@ -1,7 +1,7 @@
 +++
 title = "verbReview1"
 contributors = [ "katyauchter",]
-dividers = [ 4,]
+dividers = [ 4, 8,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -55,7 +55,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/31518092@N04/10183085725"
 title = "play"
 [[cards.sides]]
-text = "Los chicos juegan con el agua."
+text = "Los niños juegan con el agua."
 type = "phrase"
 
 [[cards]]
@@ -79,10 +79,83 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IrxKhfe4fmHA8h0tD13HaZRWAVYqY_uAGwYs9ZM09bwuHkNEpAm2Zej29Bv6dC_O"
+href = "urn:sha384:vNBThdEqPFLuIFLurdyL-lJdU2Z2C_5pV-8izm7-i42IhZfyw_qkDQL94IEFW9pd"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Eneas De Troya (Eneas)"
+author_url = "http://www.flickr.com/people/99479626@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/99479626@N00/7007117179"
+title = "Morning Coffee / Cafe mañanero"
+[[cards.sides]]
+text = "Ella toma la bebida."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:oaLgesPj6m4Pxv5F3vn496ux1KfUdu9nItr3sqW16etSJGoYaGcxWM49eiPAjo-w"
+href = "urn:sha384:ZcigsvepVrc-0bHxdZo3OdGAgTWxpJC_XtymaEk5_b1E1w3karAVPmLFkiD61ZFs"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Romain Guy (romainguy)"
+author_url = "http://www.flickr.com/people/24046097@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/24046097@N00/232998465"
+title = "Smile"
+[[cards.sides]]
+text = "Ella esta feliz."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+blob_href = "urn:sha384:EW-uzlR1WkREtF1DGUpqBimtX6TIqkDUYI5sMz39r1FBBGzEgMZ6Uvjv_1uNA4-5"
+href = "urn:sha384:rU2CPddVFE0j23638ay55H2ox_m6X28XefrJEel49bwWBzLGgQqc0pWH4gKTgdlJ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Mike Baird (mikebaird)"
+author_url = "http://www.flickr.com/people/72825507@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72825507@N00/6299857831"
+title = "Young girl walks at water’s edge. Scenes from a walk near Morro Rock"
+[[cards.sides]]
+text = "Ella es joven."
+type = "phrase"
+
+[[cards]]
 
 [[cards.sides]]
 type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
 
 [[interactions]]
 answer = 1
