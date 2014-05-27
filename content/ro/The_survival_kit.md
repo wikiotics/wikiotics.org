@@ -1,6 +1,6 @@
 +++
 title = "The survival kit"
-contributors = [ "Laurent",]
+contributors = [ "Laurent", "cstroe",]
 headings = [ "phrase", "audio", "language", "speaker",]
 tags = [ "wikibabel",]
 type = "lesson"
@@ -67,8 +67,8 @@ text = "Salut"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:19qIojDhyxPv_ppG-SPKY3DFPJphjfqKCgGJty3tYTPRShKaUYJg7WYsFVFH3aU1"
-href = "urn:sha384:w8PhOuX7xivBgki8X-iC0RUf_pazt5Iv6mNjdojJjtU-oYmlJYAUi-4HqTimKAJ_"
+blob_href = "urn:sha384:gvN5BYiK1XOgWj6J3ri2mQIn1cVkD85UiR1WwzDpDdk8u28dVU2bQcaX3hjUbXqi"
+href = "urn:sha384:td-eeeoW441eulL6lkL2pRcjZ01lBiybCKis5mMag69C_b2jOgk8wYjthW2P8Ivk"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -187,27 +187,13 @@ text = "Scuzați-mă!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VX2UbE0y8Dkt2sB_uDfk3GF3_4_2U3jV9iqCNeT7jWOIy79UBXzXmRlye77HMMrq"
+href = "urn:sha384:o_eu6EJvi2k2NndN6K2r_NGakSvzDJa3DcMjPsB-n621bPmRLRkiUTKI3pYBH90H"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ro"
-type = "phrase"
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = "This in in french language ..."
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-text = "en"
 type = "phrase"
 
 [[cards.sides]]
@@ -241,7 +227,10 @@ text = "mulţumesc"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8Ih3ki-Qlet-u46EZuftLmhhGuPb9bDFlf9plw7CsULvofDP3Y34ZxLfNmBkR4hq"
+href = "urn:sha384:VP3e5L2T45_-9Sw1L8LFmPKW3yX8a5sVt-3Lds_ceGAMEmfRLuxwBmGkQPyA7Iui"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ro"
@@ -278,7 +267,10 @@ text = "Cu plăcere."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EMKfyWU4OplCPwtrMFzRiyJ5vc7xwHWLhZagUNcakQZYOxfACLdNFqeedQfWaY-D"
+href = "urn:sha384:qD7Y97MxEvnOvNN7QM2rcsaNHvdiSABz1hZvmtOYkqvDD8DTZ5Tbqd1mwET8la4y"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ro"
@@ -355,7 +347,10 @@ text = "Văxa0rog săxa0repetați."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Z33iXtZkqjhn8gxkfpxsPYmb0HNHOL1PF3UAerAjfeW51UkR3X-Wvm4uatxU-FWb"
+href = "urn:sha384:lmL8FRR8KJofV4FnRL3EXnrvLTdqhLg0BA4OKmpoXhAM-LhD5ekq5KwPBoyvihAR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ro"
@@ -392,7 +387,10 @@ text = "Văxa0rog"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:O_Gdnu1Qh1KjY45Uy-71RHtmKYn6_2wkkP6tJ_MFW67pHNLZ-ouYFb07BuiIjggh"
+href = "urn:sha384:cEkAxlKRgxPU7aE5T2xw8rdRdz4QzGD5KQ41Zuvu2nYH5XMa0qtzva6XQRm9eZmf"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ro"
@@ -489,7 +487,10 @@ text = "Laxa0revedere"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8xniK5x4OwhZyh4mbq-gls2kQrntoreZEiV6xkJk1UP-DLfX5IjyL5D4SQwsYNll"
+href = "urn:sha384:7NFm0gTNNy1OyRGVh5fem1TV2LvsQkCA5ytZl85DgaQdKF5dRMKLZatg-t4ucw9U"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "ro"
