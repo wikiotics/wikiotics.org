@@ -1,7 +1,7 @@
 +++
 title = "commands"
 contributors = [ "katyauchter",]
-dividers = [ 4,]
+dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -133,21 +133,105 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Cepilla los dientes"
+text = "Cepilla los dientes."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:b3nZAGhviPVW_kDFWOptJB3Ihi2eYTBRDQsC4uoo1j6JXzP4fHCNJpji3-xziOe-"
-href = "urn:sha384:9bonU9LdUwwCagkIlxu-i5bMHiisXT0xZMjRCn6FaZpcGf-RlZk3jTshhp0xO1tK"
+blob_href = "urn:sha384:ropNen7cNQJHKSdU_31xo3nPbCBh7RMFuBKIBjsKAJFUrrXXhOjR1a-vhKprpSTe"
+href = "urn:sha384:bFAX_7tMrEElHJImdYSOPngNFsgwO-AatrurSiQpG-Xni2tD7WkH5mSwlrFcSF6_"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Travis Rigel Lukas Hornung (Travis Hornung)"
-author_url = "http://www.flickr.com/people/48018609@N00/"
+author = " (r2hox)"
+author_url = "http://www.flickr.com/people/72764087@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/72764087@N00/9437823765"
+title = "Wash your mouth - IV"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Haz la cama."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Aa5I9dUASe3mToGdUwJUxEQwOrz7DF-ygEW1-KD2HsWgCf7S5aHfseCjvTLT7OHV"
+href = "urn:sha384:P3XcmKoVVV_ETTabb8j0r5Nw-es_YV8CmzP1dktSK8tbcM8Eu2BemY0_aYsg_vyv"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Rubbermaid Products (Rubbermaid Products)"
+author_url = "http://www.flickr.com/people/28040596@N08/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/48018609@N00/2149574410"
-title = "DSC04466"
+original_url = "http://www.flickr.com/photos/28040596@N08/6833384612"
+title = "Flex Tote - 1K50 - Small - Underbed 1"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "No compres dulces."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:_3W7kIRlRBqCZd60WLCWmaoNJCO0h4a2eIizT9j57vxpvYY3jqrtuFIVD4hJrcup"
+href = "urn:sha384:rVeT9C-Im5cJWBu07nYdfE7IhDnTuNvbn9eSH41NIGcHK9yHqAWHWq008beE7y_M"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Eden, Janine and Jim (edenpictures)"
+author_url = "http://www.flickr.com/people/10485077@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10485077@N06/3921572908"
+title = "Outside Economy Candy"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "No hables en clase."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:H5t0CLZMv-9pDTZy28zCZMjKM5w-D5VXhtreIukQTDby2raVmIK58aF0DCscu4BS"
+href = "urn:sha384:o8Rkpkg0o9--_OWZtdUpxcvQ0Y3TDbeWgtrYaUC0GfCe6KaJl2r41QgAZIJrUuBX"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "John (Willow&Monk)"
+author_url = "http://www.flickr.com/people/55849279@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/55849279@N00/481072181"
+title = "Shh!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "No digas secretos."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:wrD0tByBKT7vHV8Rf0LCIR-c1psX5nc6xbREPHxxGHoH19r8loOTCKHDFANsxyaC"
+href = "urn:sha384:yKFh8yMnfzjLzLkEqixg9FnZtX2QBOqCYXMRKjNcGmytjtPKeTmABVP0f2dm2G7m"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Lisa (Lisa M Photography)"
+author_url = "http://www.flickr.com/people/23787215@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/23787215@N07/2265225476"
+title = "Childhood Secrets"
 [[cards.sides]]
 type = "empty"
 
