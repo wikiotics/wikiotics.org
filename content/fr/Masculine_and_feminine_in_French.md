@@ -78,9 +78,3 @@ Numeral adjectives are mostly the same for masculine and feminine, with
 the exception of *one*, and higher numbers ending with *one*. For
 instance, *un vélo* / *une voiture*, and *vingt-et-un vélos/vingt-et-une
 voitures*.
-
-## Verbs
-
-THE ILLUMINATI
-
-^^^ lol what
