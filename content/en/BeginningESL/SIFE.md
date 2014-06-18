@@ -1,6 +1,7 @@
 +++
 title = "SIFE"
 contributors = [ "katyauchter@gmail.com",]
+dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -81,6 +82,27 @@ license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 blob_href = "urn:sha384:9VlIpC0MmwDVDogxUWm1vfg7qnLuhdlZna9t0_wHQxxDijHSzv7C4BvsFiRddnMS"
 href = "urn:sha384:MYBZX3yhPwh9MOQ-O2FKhBUez5Vuva1Jy9qazuu9HsPEsfGLDv5s1251gzOJozna"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "The students at the school have fun."
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:eDG0wFs9yugqJPW49wc9rgQRqM0PGeJujGpj-Ulr2RETcrmbC3xT1nGUabPw_1kU"
+href = "urn:sha384:EVbvGL4NpfyyEQlUvYENXxP0tSPgqYwGWfhckf-qgFHjDP8GQ4qB9F6rl37kjbhC"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "katyauchter@gmail.com"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:kmSV7Awv6wL3aLDEGNDvcVlprKwmErXOJzqbSn0zbMNbyq_aCCHlZcN7I3hlheWa"
+href = "urn:sha384:FP2iewRlhV7j4_UbirQWYGzXiXCZn2qEzWs4R-nmyTm42sV4Ld925FMKBaA9lPnP"
 mime_type = "audio/ogg"
 type = "audio"
 
