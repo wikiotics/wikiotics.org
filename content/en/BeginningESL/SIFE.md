@@ -66,13 +66,23 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Htwe goes to school with many students."
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ahD8SBAkotPaLgc6rmXTGfJqJPa3jeb1PePT7l40p8xQBOmYshfNilsUPVgQyDzD"
+href = "urn:sha384:sFPLzH5sr00hjdvsu0fMIJPPA_mtBO0APoEXPHX8GUA9X7DRtklxpxJ1POXpMIDw"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "katyauchter@gmail.com"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9VlIpC0MmwDVDogxUWm1vfg7qnLuhdlZna9t0_wHQxxDijHSzv7C4BvsFiRddnMS"
+href = "urn:sha384:MYBZX3yhPwh9MOQ-O2FKhBUez5Vuva1Jy9qazuu9HsPEsfGLDv5s1251gzOJozna"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
