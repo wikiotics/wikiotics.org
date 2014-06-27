@@ -36,7 +36,10 @@ type = "empty"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rry0dqU3m_NJwz49L5M9xaIW28-eJ4NC89bTSNRw7at1n9lVCaqOw8DCp3aNScux"
+href = "urn:sha384:7RuB2VzHoPrMdO9r6ikz2gftL04duBn5pIzEovCfI_3_JUIRgSUmK1UaTuh_G47c"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
