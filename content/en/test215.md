@@ -1,6 +1,6 @@
 +++
 title = "test215"
-contributors = [ "169.231.10.42", "207.237.164.232",]
+contributors = [ "169.231.10.42", "207.237.164.232", "63.138.58.66",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "en",]
@@ -22,8 +22,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/44242222@N07/12999179185"
 title = "Red and Lord Helix, A Portrait"
 [[cards.sides]]
-blob_href = "urn:sha384:o6NygNLgVpZPUJf63sUdAo6Y7bhDYKn9ER80GutKxVA917rST8qwtSb6U0M6ii1y"
-href = "urn:sha384:oy8GlzErQL_JRSPf4ohqEeCncs16ot0aRI6w7wMJg133y2xwQsMdUg2UkIi5fy9g"
+blob_href = "urn:sha384:kYLYZlPoswyLbO8xNalzQihOJz1P11jA4rRqf-le6vFU_wDqEWDuvUv1mTXZYiS5"
+href = "urn:sha384:eUhhmdvyiuGhZQLj5JDUw2-XQ8vkl8LzmQKxFBbO7DQV0_ffTxLt9QXttx4qaSUs"
 mime_type = "audio/ogg"
 type = "audio"
 
