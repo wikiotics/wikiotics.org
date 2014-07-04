@@ -1,6 +1,6 @@
 +++
 title = "SIFE"
-contributors = [ "katyauchter@gmail.com",]
+contributors = [ "63.138.58.66", "katyauchter@gmail.com",]
 dividers = [ 4,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -20,8 +20,8 @@ type = "picture"
 author = "katyauchter@gmail.com"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:jBnvPdEz7f4R6tTrU3K69czxE3RoNMbdaP_XtsalA-0LxkUAEmkIKf7lTV8blQEF"
-href = "urn:sha384:GnUXBxjvA_VDUeeryieFnFFfuZ5de5c2TYqiu1_IHW8BvzF3OIIvCq0H4k_kczG5"
+blob_href = "urn:sha384:UUj_Dzhphk80x2Hmnn9qX32dVmvlJGSuE5ftbBMA3VDScn9qau_b1vh3zZ76hQJK"
+href = "urn:sha384:mO5FvVGMJhWSksMtaH3NcxRzb2XJwYkBZtBgE_46oT7vL2ckGYL_AKwrDTceUweM"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -41,8 +41,8 @@ type = "picture"
 author = "katyauchter@gmail.com"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:XIy_548KyM41LKdrmpYGtFPoXtBvOwC0Q0vuP_4RvRTQU1VCD9-kjT6Oc5cqz77q"
-href = "urn:sha384:RoAQluxvE74qFvxrKDafv8MFLxh4NmLblY-q-G-YYJ3ZTc8azKz91pcW54BO3-34"
+blob_href = "urn:sha384:6fRNaf2QfS21W4n6INPGQ1pf0TNOcmkeTVZTpF5bxS-oRAvyGeLViGQOmEjK_OEL"
+href = "urn:sha384:djOw0aBMfiMDqDk1Y0LmQpAdVX-6gdBxUg2TwDWkhOZDSy-1Utb3aFNGrhZ3ugbe"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -62,7 +62,10 @@ type = "picture"
 author = "katyauchter@gmail.com"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:e-WnTZQn-Thb9afiPl8JJsvPpNwlumokZImfy01vk_svhH2-wpJzEm1aTdwhbjmX"
+href = "urn:sha384:EubfO29e8-4tAcQXYlyxRa5VHq0-SGVx0d9DCt43z6DP4Qi2jXOjxydcwjtdOd7O"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -80,8 +83,8 @@ type = "picture"
 author = "katyauchter@gmail.com"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:9VlIpC0MmwDVDogxUWm1vfg7qnLuhdlZna9t0_wHQxxDijHSzv7C4BvsFiRddnMS"
-href = "urn:sha384:MYBZX3yhPwh9MOQ-O2FKhBUez5Vuva1Jy9qazuu9HsPEsfGLDv5s1251gzOJozna"
+blob_href = "urn:sha384:hBnQ-WaPIBPDxprej-0hbGk7eCq-swnnAe2wj7fkbdBXyKKkkV-S6yqrRFDRdIqz"
+href = "urn:sha384:u5u8p83t_kr1m8aQcsYSILuY0Lb7exvujiDaphrTDqsZsMtfA0AI-fToZrw8Di5X"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -101,8 +104,8 @@ type = "picture"
 author = "katyauchter@gmail.com"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:kmSV7Awv6wL3aLDEGNDvcVlprKwmErXOJzqbSn0zbMNbyq_aCCHlZcN7I3hlheWa"
-href = "urn:sha384:FP2iewRlhV7j4_UbirQWYGzXiXCZn2qEzWs4R-nmyTm42sV4Ld925FMKBaA9lPnP"
+blob_href = "urn:sha384:tsGVjvOFPZT-C7MN0LJ2bVfkYEX7bWP869wLFE-tz3kHgGuaps5TOHw9upvFWxxE"
+href = "urn:sha384:ePs0m_zmj4S7uIP2Id-QMOl_TTuESEKqCLkzEDJD_PmyoQPtL9wZWkeE6P4F1QTn"
 mime_type = "audio/ogg"
 type = "audio"
 
