@@ -22,8 +22,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/44242222@N07/12999179185"
 title = "Red and Lord Helix, A Portrait"
 [[cards.sides]]
-blob_href = "urn:sha384:2ZM4vMgyD9HfsIG_OaSp5UwMfgr3Gaoli6i_MVTmRVPPKHQ4C5r2QoNaHs-HSxMP"
-href = "urn:sha384:jRF77gV48hucayjT1G5NsboIbwqhXawHsw9EOGo1FPUV90Aq-YW0Gqs19OBOdGod"
+blob_href = "urn:sha384:9Emdfnj_8tHa0VhTI2hA-8bHBRdld22KcN7PSJEnaZEyf8eX1NOuOhLGou7Nf-GX"
+href = "urn:sha384:ldiaI7FbIl2UuS334XfPP0lTLgFQI9foIqmlek8Cvtw1LsrDAOioqbzv8RbIgSuO"
 mime_type = "audio/ogg"
 type = "audio"
 
