@@ -1,6 +1,6 @@
 +++
 title = "Unit1-NounGame1"
-contributors = [ "katyauchter@gmail.com",]
+contributors = [ "katyauchter", "katyauchter@gmail.com",]
 dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -152,6 +152,42 @@ type = "empty"
 
 [[cards.sides]]
 text = "El mágico"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "El dolor"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "El pelo"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "La cortada"
 type = "phrase"
 
 [[cards.sides]]
