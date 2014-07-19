@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Yo\n\nVerb: escuchar "
+text = "Subject Pronoun: Yo\n-\nVerb: escuchar "
 type = "phrase"
 
 [[cards.sides]]
@@ -17,7 +17,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Tú\n\nVerb: escuchar "
+text = "Subject Pronoun: Tú\n-\nVerb: escuchar "
 type = "phrase"
 
 [[cards.sides]]
@@ -27,7 +27,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Él / Ella\n\nVerb: escuchar "
+text = "Subject Pronoun: Él / Ella\n-\nVerb: escuchar "
 type = "phrase"
 
 [[cards.sides]]
@@ -37,7 +37,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Nosotros\n\nVerb: escuchar"
+text = "Subject Pronoun: Nosotros\n-\nVerb: escuchar"
 type = "phrase"
 
 [[cards.sides]]
@@ -47,7 +47,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Ellos / Ellas\n\nVerb: escuchar"
+text = "Subject Pronoun: Ellos / Ellas\n-\nVerb: escuchar"
 type = "phrase"
 
 [[cards.sides]]
@@ -57,7 +57,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Yo\n\nVerb: soplar"
+text = "Subject Pronoun: Yo\n-\nVerb: soplar"
 type = "phrase"
 
 [[cards.sides]]
@@ -67,7 +67,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Tú\n\nVerb: soplar"
+text = "Subject Pronoun: Tú\n-\nVerb: soplar"
 type = "phrase"
 
 [[cards.sides]]
@@ -77,7 +77,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Él / Ella\n\nVerb: soplar"
+text = "Subject Pronoun: Él / Ella\n-\nVerb: soplar"
 type = "phrase"
 
 [[cards.sides]]
@@ -87,7 +87,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Nosotros\n\nVerb: soplar"
+text = "Subject Pronoun: Nosotros\n-\nVerb: soplar"
 type = "phrase"
 
 [[cards.sides]]
@@ -97,7 +97,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Ellos / Ellas\n\nVerb: soplar"
+text = "Subject Pronoun: Ellos / Ellas\n-\nVerb: soplar"
 type = "phrase"
 
 [[cards.sides]]
@@ -107,7 +107,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Yo<br>\nVerb: abrazar"
+text = "Subject Pronoun: Yo\n-\nVerb: abrazar"
 type = "phrase"
 
 [[cards.sides]]
@@ -117,7 +117,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Tú<br>\nVerb: abrazar"
+text = "Subject Pronoun: Tú\n-\nVerb: abrazar"
 type = "phrase"
 
 [[cards.sides]]
@@ -127,7 +127,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Él / Ella\n\nVerb: abrazar"
+text = "Subject Pronoun: Él / Ella\n-\nVerb: abrazar"
 type = "phrase"
 
 [[cards.sides]]
@@ -137,7 +137,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Nosotros\n\nVerb: abrazar"
+text = "Subject Pronoun: Nosotros\n-\nVerb: abrazar"
 type = "phrase"
 
 [[cards.sides]]
@@ -147,7 +147,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Ellos / Ellas\n\nVerb: Abrazar"
+text = "Subject Pronoun: Ellos / Ellas\n-\nVerb: Abrazar"
 type = "phrase"
 
 [[cards.sides]]
@@ -157,7 +157,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Yo\n\nVerb: Quitar"
+text = "Subject Pronoun: Yo\n-\nVerb: Quitar"
 type = "phrase"
 
 [[cards.sides]]
@@ -167,7 +167,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Tú\n\nVerb: Quitar"
+text = "Subject Pronoun: Tú\n-\nVerb: Quitar"
 type = "phrase"
 
 [[cards.sides]]
@@ -177,7 +177,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Él / Ella\n\nVerb: Quitar"
+text = "Subject Pronoun: Él / Ella\n-\nVerb: Quitar"
 type = "phrase"
 
 [[cards.sides]]
@@ -187,7 +187,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Nosotros\n\nVerb: Quitar"
+text = "Subject Pronoun: Nosotros\n-\nVerb: Quitar"
 type = "phrase"
 
 [[cards.sides]]
@@ -197,7 +197,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Ellos / Ellas\n\nVerb: Quitar"
+text = "Subject Pronoun: Ellos / Ellas\n-\nVerb: Quitar"
 type = "phrase"
 
 [[cards.sides]]
@@ -207,7 +207,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Yo\n\nVerb: Mirar"
+text = "Subject Pronoun: Yo\n-\nVerb: Mirar"
 type = "phrase"
 
 [[cards.sides]]
@@ -217,7 +217,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Tú\n\nVerb: Mirar"
+text = "Subject Pronoun: Tú\n-\nVerb: Mirar"
 type = "phrase"
 
 [[cards.sides]]
@@ -227,7 +227,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Él / Ella\n\nVerb: Mirar"
+text = "Subject Pronoun: Él / Ella\n-\nVerb: Mirar"
 type = "phrase"
 
 [[cards.sides]]
@@ -237,7 +237,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Nosotros\n\nVerb: Mirar"
+text = "Subject Pronoun: Nosotros\n-\nVerb: Mirar"
 type = "phrase"
 
 [[cards.sides]]
@@ -247,7 +247,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Ellos / Ellas\n\nVerb: Mirar"
+text = "Subject Pronoun: Ellos / Ellas\n-\nVerb: Mirar"
 type = "phrase"
 
 [[cards.sides]]
@@ -257,7 +257,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Yo\n\nVerb: Enseñar"
+text = "Subject Pronoun: Yo\n-\nVerb: Enseñar"
 type = "phrase"
 
 [[cards.sides]]
@@ -267,7 +267,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Tú\n\nVerb: Enseñar"
+text = "Subject Pronoun: Tú\n-\nVerb: Enseñar"
 type = "phrase"
 
 [[cards.sides]]
@@ -277,7 +277,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Él / Ella\n\nVerb: Enseñar"
+text = "Subject Pronoun: Él / Ella\n-\nVerb: Enseñar"
 type = "phrase"
 
 [[cards.sides]]
@@ -287,7 +287,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Nosotros\n\nVerb: Enseñar"
+text = "Subject Pronoun: Nosotros\n-\nVerb: Enseñar"
 type = "phrase"
 
 [[cards.sides]]
@@ -297,7 +297,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Nosotros\n\nVerb: Enseñar"
+text = "Subject Pronoun: Nosotros\n-\nVerb: Enseñar"
 type = "phrase"
 
 [[cards.sides]]
