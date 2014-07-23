@@ -6,11 +6,14 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = " ¿Cómo quieres decorar el apartamento este para las fiestas?\n"
+text = " ¿Cómo quieres decorar el apartamento para las fiestas?\n"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gYbaaQkKkmD3Mm7VAKcaHPcbiS6Wz08ncWQmLLps13uNAlhLHehwqpnHl99MtKrz"
+href = "urn:sha384:7QefPYNf7W6mlFzh057_5LUCkLy5U9czcK-nMiQaQjhXeC6j-pyoiZszbEyMTbnD"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "James"
@@ -39,7 +42,10 @@ text = "Eso suena divertido. ¿Quieres decorar las paredes también?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:LMla8v4wiPm9pyFExhS0Dt5vlP_OAs9uYg71cLSXb_gl7efadAMo_8mjL38Otouo"
+href = "urn:sha384:NjLbHnxdIDIodAYx232BkH6UyaQEg1X6nudRnjpH07gML7VF2CrLXbq-c-44fYno"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "James"
@@ -68,7 +74,10 @@ text = "¿ quieres hacer adornos para el árbol?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HJfH7WNE9XY66rCMx7crX2hb0lK4jMEBbrUQiDalCmDBojos9WafDpa1FCcBRKk6"
+href = "urn:sha384:aSJu3Q8jSYsfauEQB-7FgWY31OQVHpTSaUBzVVyj1AtD_P1BDIe4yByTPbQHC0Ga"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "James"
@@ -97,7 +106,10 @@ text = "¿Qué quieres comer para las fiestas? ¿Debemos cocinar en casa o ir a 
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HNG6y-kjt4CD1vW1S4hd1sgi90PbLe4PUy8rz2Nwmc4t-UuP3KLFJ3nPxogqKKZj"
+href = "urn:sha384:LdHHuhjUZIXJU8EgOIHM0qPP84wEsfTGOUwNXExeYe3-7zPbRWrbdYgJQRuaTlrY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "James"
@@ -126,7 +138,10 @@ text = "Tienes muy buenas ideas.  Abuela cocina muy rico."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:K2dA5FC16PCHXQrTS8vp0AVuLGw18R8KCu_1HbmsTE7WNLsczSYyvmx6pvuOcEs1"
+href = "urn:sha384:6ph4gUoxnmcrDjGmka3FjlOHP5-3ESPdOKN9A9BiueZ1RCRhwBknttFLKrZIezw2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "James"
