@@ -45,7 +45,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "No. Solamente quiero decorar el árbol."
 type = "phrase"
 
 [[cards.sides]]
@@ -58,7 +58,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "¿ quieres hacer adornos para el árbol?"
 type = "phrase"
 
 [[cards.sides]]
@@ -71,27 +71,53 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Si. Quiero hacerlos con papel de constucción."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "Melissa"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "¿Qué quieres comer para las fiestas? ¿Debemos cocinar en casa o ir a la casa de abuela? "
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = ""
+text = "James"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Debemos ir a la casa de abuela y comer lo que ella quiera cocinar."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Melissa"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tienes muy buenas ideas.  Abuela cocina muy rico."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "James"
 type = "phrase"
 
 [[interactions]]
