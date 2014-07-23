@@ -23,7 +23,10 @@ text = "Quiero ensatar palomitas juntas para decorar el árbol."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FY1Y64g5Kj32dhjJotLNW3izdrkKELmAa4IKQSsXZnoh-RvVnU3rKqbtw4oSy40D"
+href = "urn:sha384:l4TJTWlLgNIYQYVoCSadomDIyxqMnkYym4LHgW2tGO-4xNsghm2-EC1DFDRQSIWh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Melissa"
