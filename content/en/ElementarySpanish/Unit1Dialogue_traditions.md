@@ -52,7 +52,10 @@ text = "No. Solamente quiero decorar el árbol."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:x_owIgYCJHgTh9MpVd5WDVE0jDJnKozkeoj7QpbNYa2giBsfKVlkAVcQLko4FLWV"
+href = "urn:sha384:gfl4xaYaTDFaza9Kh2VdumfVLhCYDOQTohd10Bgw7mMWAz6mpuldrZ1pAMmKiXg3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Melissa"
@@ -78,7 +81,10 @@ text = "Si. Quiero hacerlos con papel de constucción."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:q26VDGR8z2F1UaPUV4ucVs4OhF4me324s9-nGaqV7nbnxPlSXlm9GtCmaPOGowED"
+href = "urn:sha384:dhWBjTUB_tEAriNmb8rqtx4_jeMhFUxgfNsHKEkLUQ2ip6drrxo_2LKlGqfLOsOd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Melissa"
@@ -104,7 +110,10 @@ text = "Debemos ir a la casa de abuela y comer lo que ella quiera cocinar."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VtMxS3Hnz5Ni3Ls1iJZelJ2azUCY35IP3xoP3KBofhdsd8_uJ1Ids6eBMrFrNDDv"
+href = "urn:sha384:ZsqK7L2RJQ5-zCxtkqzv-Eumm7krbTQ4f80jsvc08NNR47nVcBqYFdVvXfCfHEdr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Melissa"
