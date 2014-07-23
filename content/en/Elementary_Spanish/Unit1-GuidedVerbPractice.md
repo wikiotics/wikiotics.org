@@ -21,7 +21,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Tú\n-\nVerb: escuchar "
+text = "Subject Pronoun: Tú"
 type = "phrase"
 
 [[cards.sides]]
@@ -29,12 +29,13 @@ text = "escuchas"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Verb: escuchar "
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Él / Ella\n-\nVerb: escuchar "
+text = "Subject Pronoun: Él / Ella"
 type = "phrase"
 
 [[cards.sides]]
@@ -55,12 +56,13 @@ text = "escuchamos"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Verb: escuchar "
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Yo\n-\nVerb: escuchar "
+text = "Subject Pronoun: Yo\n"
 type = "phrase"
 
 [[cards.sides]]
@@ -68,12 +70,13 @@ text = "escucho"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Verb: escuchar "
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Tú\n-\nVerb: escuchar "
+text = "Subject Pronoun: Tú\n"
 type = "phrase"
 
 [[cards.sides]]
@@ -81,12 +84,13 @@ text = "escuchas"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Verb: escuchar "
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Él / Ella\n-\nVerb: escuchar "
+text = "Subject Pronoun: Él / Ella\n"
 type = "phrase"
 
 [[cards.sides]]
@@ -94,12 +98,13 @@ text = "escucha"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Verb: escuchar "
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Subject Pronoun: Ellos / Ellas\n-\nVerb: escuchar"
+text = "Subject Pronoun: Ellos / Ellas\n"
 type = "phrase"
 
 [[cards.sides]]
@@ -107,7 +112,8 @@ text = "escuchan"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+text = "Verb: escuchar "
+type = "phrase"
 
 [[cards]]
 
