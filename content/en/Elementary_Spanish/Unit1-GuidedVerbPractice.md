@@ -1,7 +1,7 @@
 +++
 title = "Unit1-GuidedVerbPractice"
 contributors = [ "katyauchter",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -47,6 +47,36 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
+text = "Subject Pronoun: Yo\n-\nVerb: escuchar "
+type = "phrase"
+
+[[cards.sides]]
+text = "escucho"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Subject Pronoun: Tú\n-\nVerb: escuchar "
+type = "phrase"
+
+[[cards.sides]]
+text = "escuchas"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Subject Pronoun: Él / Ella\n-\nVerb: escuchar "
+type = "phrase"
+
+[[cards.sides]]
+text = "escucha"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Subject Pronoun: Ellos / Ellas\n-\nVerb: escuchar"
 type = "phrase"
 
@@ -82,6 +112,36 @@ type = "phrase"
 
 [[cards.sides]]
 text = "sopla"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Subject Pronoun: Nosotros\n-\nVerb: soplar"
+type = "phrase"
+
+[[cards.sides]]
+text = "soplamos"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Subject Pronoun: Tú\n-\nVerb: soplar"
+type = "phrase"
+
+[[cards.sides]]
+text = "soplas"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Subject Pronoun: Yo\n-\nVerb: soplar"
+type = "phrase"
+
+[[cards.sides]]
+text = "soplo"
 type = "phrase"
 
 [[cards]]
