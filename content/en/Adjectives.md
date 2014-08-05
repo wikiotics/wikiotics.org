@@ -595,7 +595,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Ellos tienen hambre."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -621,6 +622,18 @@ author_url = "http://www.flickr.com/people/16961193@N06/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/16961193@N06/2267862256"
 title = "Big Fun"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ella tiene sueño."
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
