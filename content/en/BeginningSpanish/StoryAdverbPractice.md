@@ -1,7 +1,7 @@
 +++
 title = "StoryAdverbPractice"
 contributors = [ "katyauchter",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -112,6 +112,66 @@ type = "phrase"
 
 [[cards.sides]]
 text = "...they have the right to feel safe there..."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "...deben observar los animales en silencio..."
+type = "phrase"
+
+[[cards.sides]]
+text = "...they should watch the animals quietly..."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "...animales pueden actuar agresivamente ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "...animals can act agressively..."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "...leer tranquilamente."
+type = "phrase"
+
+[[cards.sides]]
+text = "...to read calmly."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Mira a tu alrededor ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "Look at your surroundings..."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "... estar solos ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "... to be alone..."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Es mejor jugar juntos ..."
+type = "phrase"
+
+[[cards.sides]]
+text = "It's better to play together..."
 type = "phrase"
 
 [[interactions]]
