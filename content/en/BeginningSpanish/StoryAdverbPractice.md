@@ -1,7 +1,7 @@
 +++
 title = "StoryAdverbPractice"
 contributors = [ "katyauchter",]
-dividers = [ 4,]
+dividers = [ 4, 8,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -82,6 +82,36 @@ type = "phrase"
 
 [[cards.sides]]
 text = "...leaves on the ground are good for playing with."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Los animales son muy lindos... "
+type = "phrase"
+
+[[cards.sides]]
+text = "The animals are very cute..."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Es fácil querer darles de comer."
+type = "phrase"
+
+[[cards.sides]]
+text = "It's easy to want to give them food."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "...tienen derecho de sentirse seguros allí..."
+type = "phrase"
+
+[[cards.sides]]
+text = "...they have the right to feel safe there..."
 type = "phrase"
 
 [[interactions]]
