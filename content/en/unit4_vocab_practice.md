@@ -1,7 +1,7 @@
 +++
 title = "unit4 vocab practice"
 contributors = [ "katyauchter",]
-dividers = [ 4, 8, 12, 16, 20,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -202,6 +202,206 @@ type = "phrase"
 
 [[cards.sides]]
 text = "The girl was growing up in a happy home."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Los niños comparten los jugetes."
+type = "phrase"
+
+[[cards.sides]]
+text = "The children share the toys."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Los niños compartieron los jugetes."
+type = "phrase"
+
+[[cards.sides]]
+text = "The children shared the toys."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Los niños no comparten los jugetes."
+type = "phrase"
+
+[[cards.sides]]
+text = "The children don't share the toys."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Los niños no compartieron los jugetes."
+type = "phrase"
+
+[[cards.sides]]
+text = "The children didn't share the toys."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tenemos que seguir las reglas."
+type = "phrase"
+
+[[cards.sides]]
+text = "We have to follow the rules."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tuvimos que seguir las reglas."
+type = "phrase"
+
+[[cards.sides]]
+text = "We had to follow the rules."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "No tenemos que seguir las reglas."
+type = "phrase"
+
+[[cards.sides]]
+text = "We don't have to follow the rules."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "No tuvimos que seguir las reglas."
+type = "phrase"
+
+[[cards.sides]]
+text = "We didn't have to follow the rules."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "No pareces muy viejo."
+type = "phrase"
+
+[[cards.sides]]
+text = "You don't seem very old."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "No pareciste muy viejo."
+type = "phrase"
+
+[[cards.sides]]
+text = "You didn't seem very old."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "No parecen muy viejo."
+type = "phrase"
+
+[[cards.sides]]
+text = "They don't seem very old."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "No parecieron muy viejo."
+type = "phrase"
+
+[[cards.sides]]
+text = "They didn't seem very old."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Me molesta cuando estoy enferma."
+type = "phrase"
+
+[[cards.sides]]
+text = "It bothers me when I'm sick."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Me molestó cuando yo estuvo enferma."
+type = "phrase"
+
+[[cards.sides]]
+text = "It bothered me when I was sick."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Le molesta cuando él está enferma."
+type = "phrase"
+
+[[cards.sides]]
+text = "It bothers him when he is sick."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Le molestó cuando él estuvo enfermo."
+type = "phrase"
+
+[[cards.sides]]
+text = "It bothered him when he was sick."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Deben mantener su espacio en la casa."
+type = "phrase"
+
+[[cards.sides]]
+text = "They should take care of their space in the house."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Debieron mantener su espacio en la casa."
+type = "phrase"
+
+[[cards.sides]]
+text = "They should've taken care of their space in the house."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ellos mantienen su espacio en la casa."
+type = "phrase"
+
+[[cards.sides]]
+text = "They take care of their space in the house."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ellos mantuvieron su espacio en la casa."
+type = "phrase"
+
+[[cards.sides]]
+text = "They took care of their space in the house."
 type = "phrase"
 
 [[cards]]
