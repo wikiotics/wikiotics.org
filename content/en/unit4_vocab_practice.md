@@ -407,41 +407,41 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Ellos buscan maneras de proteger la salud."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
+text = "They look for ways to protect their health."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Ellos buscaron maneras de proteger la salud."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "They looked for ways to protect their health."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Ellos ofrecen maneras de proteger la salud."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "They offer ways to protect their health."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ellos ofrecieron maneras de proteger la salud."
+type = "phrase"
+
+[[cards.sides]]
+text = "They offered ways to protect their health."
 type = "phrase"
 
 [[interactions]]
