@@ -30,7 +30,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Las plantas no pueden levantarse y moverse en cualquier lugar cuando están en peligro.  Ellos necesitan tiempo y espacio para crecer grandes y fuertes.\n\nPaso de seguridad 2: Observen y toquen las plantas suavemente sin golpear o jalar las hojas fuera de ellos.\n\nConsejo: Ramas y hojas en el suelo están bien para jugar."
+text = "Las plantas no pueden levantarse y moverse en cualquier lugar cuando están en peligro.  Ellos necesitan tiempo y espacio para crecer grandes y fuertes.\n\nPaso de seguridad 2: Observen y toquen las plantas suavemente sin golpear o jalar las hojas de ellos.\n\nConsejo: Ramas y hojas en el suelo están bien para jugar."
 type = "phrase"
 
 [[cards.sides]]
