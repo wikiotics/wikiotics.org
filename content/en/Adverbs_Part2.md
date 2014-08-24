@@ -1,7 +1,7 @@
 +++
 title = "Adverbs Part2"
 contributors = [ "katyauchter",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
 [[cards]]
@@ -11,7 +11,7 @@ text = "en todas partes"
 type = "phrase"
 
 [[cards.sides]]
-text = "WHERE"
+text = "everywhere - WHERE"
 type = "phrase"
 
 [[cards]]
@@ -21,7 +21,7 @@ text = "fuera"
 type = "phrase"
 
 [[cards.sides]]
-text = "WHERE"
+text = "outside - WHERE"
 type = "phrase"
 
 [[cards]]
@@ -31,7 +31,7 @@ text = "todavía"
 type = "phrase"
 
 [[cards.sides]]
-text = "WHEN"
+text = "still - WHEN"
 type = "phrase"
 
 [[cards]]
@@ -41,7 +41,7 @@ text = "muy fácil"
 type = "phrase"
 
 [[cards.sides]]
-text = "HOW"
+text = "very easily - HOW"
 type = "phrase"
 
 [[cards]]
@@ -51,7 +51,7 @@ text = "cualquier lugar "
 type = "phrase"
 
 [[cards.sides]]
-text = "WHERE"
+text = "anywhere - WHERE"
 type = "phrase"
 
 [[cards]]
@@ -61,7 +61,7 @@ text = "suavamente"
 type = "phrase"
 
 [[cards.sides]]
-text = "HOW"
+text = "gently - HOW"
 type = "phrase"
 
 [[cards]]
@@ -71,7 +71,7 @@ text = "bien"
 type = "phrase"
 
 [[cards.sides]]
-text = "HOW"
+text = "good - HOW"
 type = "phrase"
 
 [[cards]]
@@ -81,17 +81,67 @@ text = "silencioso"
 type = "phrase"
 
 [[cards.sides]]
-text = "HOW"
+text = "quietly - HOW"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "agresivamente "
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "aggressively - HOW"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "tranquilamente"
+type = "phrase"
+
+[[cards.sides]]
+text = "calm - HOW"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "alredador"
+type = "phrase"
+
+[[cards.sides]]
+text = "around / surrounding - HOW"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "solo "
+type = "phrase"
+
+[[cards.sides]]
+text = "alone - HOW"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "juntos"
+type = "phrase"
+
+[[cards.sides]]
+text = "together - HOW"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "muy rápido"
+type = "phrase"
+
+[[cards.sides]]
+text = "very quickly - HOW"
 type = "phrase"
 
 [[interactions]]
