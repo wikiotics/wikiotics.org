@@ -127,61 +127,81 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "El coche abre las puertas automáticamente."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
+text = "The car opens the doors automatically."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "El coche abró las puertas automáticamente."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-text = ""
+text = "The car opened the doors automatically."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "El coche esta abriendo las puertas automáticamente."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "The car is opening the doors automatically."
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "El coche estuvo abriendo las puertas automáticamente."
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "The car was opening the doors automatically."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "La niña espera pacientemente."
+type = "phrase"
+
+[[cards.sides]]
+text = "The girl waits patiently."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "La niña esperó pacientemente."
+type = "phrase"
+
+[[cards.sides]]
+text = "The girl waited patiently."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "La niña esta esperando pacientemente."
+type = "phrase"
+
+[[cards.sides]]
+text = "The girl is waiting patiently."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "La niña estuvo esperando pacientemente."
+type = "phrase"
+
+[[cards.sides]]
+text = "The girl was waiting patiently."
 type = "phrase"
 
 [[interactions]]
