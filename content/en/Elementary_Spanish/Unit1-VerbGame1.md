@@ -1,7 +1,7 @@
 +++
 title = "Unit1-VerbGame1"
-contributors = [ "katyauchter",]
-dividers = [ 4, 8, 12, 16,]
+contributors = [ "47.18.214.151", "katyauchter",]
+dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -43,7 +43,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Yo juego con juegetes.\n(jugar)"
+text = "Ellos juegan con juguetes.\n(jugar)"
 type = "phrase"
 
 [[cards.sides]]
@@ -55,7 +55,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "La leche cae de la mesa.\n(caer)"
+text = "Él cae de la colina.\n(caer)"
 type = "phrase"
 
 [[cards.sides]]
@@ -79,7 +79,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Tú abrazas tu abuelo.\n(abrazar)"
+text = "Tú abrazas tu abuela.\n(abrazar)"
 type = "phrase"
 
 [[cards.sides]]
@@ -91,7 +91,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "El papá esta en la cocina.\n(estar)"
+text = "El papá esta en la cocina con su hija.\n(estar)"
 type = "phrase"
 
 [[cards.sides]]
@@ -115,7 +115,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "La niña enseña tu nota a tu mamá.\n(enseñar)"
+text = "El niño enseña tu dibujo.\n(enseñar)"
 type = "phrase"
 
 [[cards.sides]]
@@ -187,19 +187,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ella canta.\n(cantar)"
+text = "Él canta.\n(cantar)"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
 
 [[cards.sides]]
 type = "empty"
