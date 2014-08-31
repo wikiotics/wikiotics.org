@@ -1,6 +1,6 @@
 +++
 title = "Unit2Dialogue story2"
-contributors = [ "katyauchter",]
+contributors = [ "68.197.91.149", "katyauchter",]
 headings = [ "Phrase", "Audio", "Speaker",]
 type = "lesson"
 [[cards]]
@@ -10,7 +10,10 @@ text = "Hola Marco.  Qúe tal la fiesta de cumpleaños de tu amigo Alex?\n"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xAnc2sqWVN08A2FR5LNZMbRogxowN2L5DaXAJ3havhZJgxfMSnLTJUGTrumcrEjl"
+href = "urn:sha384:iqhadTAuCd-3RBEzz6qS5IQaiXaZ1xV0Vv3VhLljhxbYoFLPozSS8Rdp2fr449Hb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Padre"
@@ -36,7 +39,10 @@ text = "Qúe hiciste?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TW46k-28J9JT715vYY_pJS8CsAx-aiRPGbFvup0EgouNk3EI_jgpN3vNKQuIj6QW"
+href = "urn:sha384:NjydEL6-hMaJ7VOKbKITIda4b1ZKNGaoilb0rEucbnCe8opBjfCUdwm7qKSas5Sd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Padre"
@@ -62,7 +68,10 @@ text = "Qué bueno, y comiste algo también?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Gt-MNb75-a18YNMi0LThyYdYUZzL9glunFQSqqmO0FOjRaZe_wyZ8RNXiYVOjwRL"
+href = "urn:sha384:j1lwyVA4eVwQtE8P8pRlsC5G2LtlQ8vy7RivvO2mWYyS3QyTdLEbBoFodbx5DY8p"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Padre"
@@ -71,7 +80,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Sí comío pizza y pastel."
+text = "Sí comí pizza y pastel."
 type = "phrase"
 
 [[cards.sides]]
@@ -88,7 +97,10 @@ text = "Qué rico.  Y durante el día, ¿qué hiciste con tus amigos?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:O8L1tjqIj9usIW57SMUVZEgXFGnzPUvdox5ly31uSmh6QMn2bo0RvXJ4QhOT5g7y"
+href = "urn:sha384:qxeHTtpV_sFB7AK-J8h4_vwUcXs2yBZvjgL2aijtknKo929p8xM2dMM12j1fVdUR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Padre"
@@ -110,11 +122,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "¡Muy bién!  ¿ Y qúe tipos de regalos trayeron tus amigos?"
+text = "¡Muy bién!  ¿ Y qúe tipos de regalos trajeron tus amigos?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FrQgcqkYMsbTp-DEhRqD70h99tRRmcNWzh2uPCZ5_mHI9uqe7E5uVR1sKev7NlNh"
+href = "urn:sha384:80awY691RsUvpVjpu0wLAf2aPLBnmwiMRlk05tf8ZgTnIO0HmZSKDMvOua7yCIS-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Padre"
@@ -136,11 +151,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "¿Y tú? ¿Compraste una rompecabeza también?"
+text = "¿Y tú? ¿Compraste un rompecabeza también?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uf0R6YVaiuYIJ9ohlJBbaYDT1d9XKOyHYKUPtSHjtI3OpYyM3Npfsa_NGHil83Qb"
+href = "urn:sha384:aDASQdwv5quCsvsM0mxZbrwsxc0j37KhqCN-5ZEx2mi1elOGPURZMgcWa6pHQBYg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Padre"
@@ -166,7 +184,10 @@ text = "Y qúe pasó despúes del parque?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:mD3y3TMLvNhygq0XpZDsiDQfZHM8ImJJG1Qbc4RDLiN3TqfE0HSDDB_V5JjlU80M"
+href = "urn:sha384:z9F5A-7C0ODll6Nf2-VGh5PPE796qXQnQudV53cDoHW_UF9V9DvinqIDiidSyjNw"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Padre"
@@ -192,7 +213,10 @@ text = "¿Y eso es donde comiste y viste la película?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:MBz1pQZDzS-McF1qN1zGMgA92VSWT5ynxDp7c0PeSpVwbU_HPEWqYNhVZViVvIxo"
+href = "urn:sha384:PZ4C84FjmNKoITqwnxhjJtLKRACU4ceqIyUjte4ywQB9Amy6jbvpFKtJ3VVnaNME"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Padre"
