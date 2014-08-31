@@ -1,6 +1,6 @@
 +++
 title = "Phonics Practice"
-contributors = [ "68.197.91.149", "ian", "katyauchter",]
+contributors = [ "68.197.91.149", "katyauchter",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -23,8 +23,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/40563877@N00/5091396377"
 title = "An Airplane Named Desire"
 [[cards.sides]]
-blob_href = "urn:sha384:e3fShoh113Z7dm_hzhMl0UNPcGImB2TOZQo2nEH-YnUZZ-CO1brsbbvIpEIWNvTc"
-href = "urn:sha384:h-XdUZO30Qf22_FOJ4DzISXH59g1bG2cRrTTc4bl9XodergYN5kTkaMndh8ca1v6"
+blob_href = "urn:sha384:RhcS6eJ6EbLaKQ7IErxyumML-E3Cwdt5bU-O7yvKPrTJF_ohLsM7QSzlNnNRkE7I"
+href = "urn:sha384:Q9PAuu8AfxoH3r4vlMsvfSL0kl8SSxoipdswnvigJ32eWnqJWxq4FvfTgceeGDHV"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -47,8 +47,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/24982987@N07/2414854343"
 title = "Flags over poppies"
 [[cards.sides]]
-blob_href = "urn:sha384:x1GMTSm84Lp6pa9RrrGCLuTN5EcTXqAR91fMf_vo2YDdcycezTKA5o8f1HueV-jk"
-href = "urn:sha384:7cqwI33eGqWp1WDb0C556oL7EdO3wr2EApdsh96eVDuGB7aLlpfJtHM5M-H2Ba6M"
+blob_href = "urn:sha384:bYZy7qk7br__dOeaenUM8i1EmIb2H6Q7MjNvZttyiRaJbTcswaoRFNgrdSyXbxM2"
+href = "urn:sha384:Kkih_fRKk72HBrPFaddZgbKMsS_9dSJZSCrAomfcNY2ggCx4XC7lmFj9xSSijsc1"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -71,8 +71,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/14516334@N00/3431275844"
 title = "A visit from the Easter Bunny"
 [[cards.sides]]
-blob_href = "urn:sha384:yE9fhBkDzlui9dbt_mvQkALWfRsGlibJm9XmQtioVw89w6BDnjFJMF9ucrFo_Rct"
-href = "urn:sha384:FgS3lCPZTAjyhPxfw4m24ZH-FuTrEFGq1esWvRMBlC21OarZTPYlFcAIfZRhIbkQ"
+blob_href = "urn:sha384:QtyVEh2re5BRQrMXTPIG_EUeAxfQo2AJyO15k0sCsER4IyY1d9dwzhMdE5IF5FmJ"
+href = "urn:sha384:kAX_0G7CuMXrMhEvnOZw7dSua_o7GfTCkkDoSKmWdr1pyHuNNcywD62LbPyn0o__"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -95,8 +95,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/12191709@N00/92782973"
 title = "Hair brush 2"
 [[cards.sides]]
-blob_href = "urn:sha384:NB3LfbyVUXW6ei2UfFS1Ewm2idh7M6Baq3raiPPrcqL3er8ZR28ni0Qfi1LXh4ym"
-href = "urn:sha384:EExtbuNMnUp3EtMdRkO7A0uMMD7rnlPorMW5eUWXwVJnN0xMgrJHRE0pRUNvZm8U"
+blob_href = "urn:sha384:_KvEyYdMdBtxaqglv-HA2H6Fg7CCHQLyqSuQJojkvrfG8JzwnHYidV9gQpWdY-UF"
+href = "urn:sha384:M16B1ewHq-EVSi0yYgQwIVcrt_1yZ8q2wT_nC9Da8XPxxO2zedFu-NTl2Xbfu_oo"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -155,8 +155,17 @@ text = "estrella"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:o6l7uXmq_I1cgLC8kfkcfaEmoqWok4X_m-nxDyRnysrukVsWXTsFqyEmHypf-57H"
+href = "urn:sha384:_Sp12oWp0grQKOdUHR3Mp7iN5XEeJ605HZdXO0Oz0TGGlqSn3W75PJTbvCGsSLQI"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Bart Everson (Editor B)"
+author_url = "http://www.flickr.com/people/11018968@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/11018968@N00/2616687106"
+title = "Star"
 [[cards.sides]]
 blob_href = "urn:sha384:zuI1I8TLrLhLNwkBy9JPozstJmPvpiePH9NYzeu2igyK53GrFCZ4MPLdO_kY8kPY"
 href = "urn:sha384:iAjwBNg-P-g2hJUiaLA4Rgp3mbHmcAMmEwm4GtjKtg7JymnzoCDO1a5CYvAGDSd_"
@@ -170,8 +179,17 @@ text = "fruta"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8lB34fbBNkZvyhTDeIvv7GDtUt1GwIMZ240SNIYb-Ur7XVQT5pAYwhH9QQaRINyi"
+href = "urn:sha384:SGrQiLHqmZrh4H1Yd5XZ1M7YcHOZDM9R9q1-IgjVDJEdR_ZGE8ZBVFKK-GV48JxE"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Wicker Paradise (Wicker Paradise)"
+author_url = "http://www.flickr.com/people/76061588@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/76061588@N03/8435197364"
+title = "Fruit!!!"
 [[cards.sides]]
 blob_href = "urn:sha384:ZclsIq3iEkX9MN1VP8L1V6XweSeFx456FOVoHjrN8P78kN3edKjBtWO2YFtIjsHg"
 href = "urn:sha384:fzMcuj6QVBhhfAO2grSx_WVYSRUQDS6Tz45fG33mO7CKvld8kArOXNLZ8OAStxPB"
@@ -185,8 +203,17 @@ text = "gato"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fg6UxBuFWEPO9M2GI3C8qoV1mK-BrbDvlVhUZaZgue2osUu-Ll7qiOQyALXiX4dW"
+href = "urn:sha384:X8nIrfhcy9xYT_5BnXijLdZX9CqV98R8c1RaIHk_5d-agQzFEOuW9XGtStob6qwL"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Tomi Tapio K (Tomi Tapio)"
+author_url = "http://www.flickr.com/people/7200854@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/7200854@N05/4305303148"
+title = "Cat show: Form"
 [[cards.sides]]
 blob_href = "urn:sha384:Y3VpyW1aLC7j4ou4DUC7X0EmpCr7z8MEAdgggSvOjJOAioDHJF30fxGqC9fh4QQZ"
 href = "urn:sha384:RGCKAtU4WemSY8CMlN3vfyS6UiKKS15N42QvZpctwCkdT6YyFJJayGUOIpriPWEV"
@@ -200,8 +227,17 @@ text = "gemelos"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VQ8PvtEYJioZxWMP1wyUvcsowbRzObDT2lVsubDqh9kNRvvAiLq6TsOvrA3vBw5i"
+href = "urn:sha384:zp0vozIj9qlY_iTKkyMTU_w8CpL7lr98PC3O07KpLuHRcHdueMC2dMXq6Oncj8Ty"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Jorge Andrés Paparoni Bruzual (Venex_jpb)"
+author_url = "http://www.flickr.com/people/31984543@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/31984543@N00/390287662"
+title = "Twins to the party / jumeaux au fête / Gemelos a la fiesta"
 [[cards.sides]]
 blob_href = "urn:sha384:Lh5iZBRF7C-0EhDt2wGw8y4LgL6OfnIrA1ROcbLTtTBBgO2iJ-AAweYAabn2UR_C"
 href = "urn:sha384:yxsPexPbzQBmL2QZldssGz6DtRL8tAR-QAThGEc1mV1Cq59Bfi1RXCr-sL0E0GOv"
@@ -215,8 +251,17 @@ text = "hoja"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jT1uc-Srpc2gVPwlb3uKyVZbYNClcAwuoxzkN5HbWsMgpNqzI0hJ3HJvo4fxlXIG"
+href = "urn:sha384:BXFiNwrECoh8KrtoT5Nuf5xJQArcQ7WclTUXv9qP8NpKLNz5yPKUsd_dhKBVMAOO"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Larry Wentzel (Wild Guru Larry)"
+author_url = "http://www.flickr.com/people/79023099@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/79023099@N00/4055909435"
+title = "leaf09-088"
 [[cards.sides]]
 blob_href = "urn:sha384:QILdWb6mnM01JZ6ze8cGEl4COQETjt6Eq-G_-36VbTNWvTh7a0t2PSqAz6ZkUnvk"
 href = "urn:sha384:kfEJxtu5UrSYSPOGI-kTjWRe_NPA4TGAYuOxKKyg_Jooil51xIscGduaQumZ9t6T"
