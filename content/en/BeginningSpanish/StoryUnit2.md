@@ -133,8 +133,14 @@ text = "Mi papa vino solo y trabajaba en construcción.\nMi papa continuo trabaj
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fQuh4lokqRXLhQaEIKuG_lx97iWs7LYSgjvClIQkU7DJxNSdzUxSvh5Lq8HnYVAS"
+href = "urn:sha384:aIzII_UsLaQGsUNPIyAzNe-azX1MiCf_ABwG4u21CkZv3dmkU4WaRIhdhm36Sktn"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "katyauchter@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -169,14 +175,8 @@ text = "\nMi papa le escribe cartas cuando regreso a los estas unidos. Mi mama l
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:fQuh4lokqRXLhQaEIKuG_lx97iWs7LYSgjvClIQkU7DJxNSdzUxSvh5Lq8HnYVAS"
-href = "urn:sha384:izvyOHIxy2WIMszrDBL8Yv5k6Q7qieYSr9w9P4m9NKES5bCz_0uM1a61lAiiKSa2"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = "katyauchter@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
