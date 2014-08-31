@@ -30,7 +30,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Mi papa me abraza pero todavía me duele. <<Ay, princesa. Estas bien. Nada paso. Es solamente un golpecito. "
+text = "Mi papa me abraza pero todavía me duele. <<Ay, princesa. Estas bien. Nada paso. Es solamente un golpecito.>> "
 type = "phrase"
 
 [[cards.sides]]
