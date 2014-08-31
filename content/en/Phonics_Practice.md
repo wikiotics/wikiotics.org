@@ -23,8 +23,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/40563877@N00/5091396377"
 title = "An Airplane Named Desire"
 [[cards.sides]]
-blob_href = "urn:sha384:w-cJHLehFG2a-tvYiJnhVvAfW4BUDyBKSrNt6Air8OXp8aIA35BrnFhihLGrh-Vz"
-href = "urn:sha384:zLvRd1qlm0rG_bZT2nU0lRG04PBpn_CpBhxjiBx6sC9E_tlOfPSNHd8IMnVccAuv"
+blob_href = "urn:sha384:zgyQsvOlIQ8iWW4WrmCO8NVbrq8RhQ00d-3kayjK3jPhKHkMiUt2mzuokoYeJUPN"
+href = "urn:sha384:y8P-DbIdry4DUXPbT4lwUgR3D_lpDNHlwE-1zZ9VLbVkiQyxYwSGIvC4txYgqon5"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -47,8 +47,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/24982987@N07/2414854343"
 title = "Flags over poppies"
 [[cards.sides]]
-blob_href = "urn:sha384:u1nN4jbrh00Wj0W52tDXQLeJW5oFbsqAXOc7x2-aJbKFYrpdKvktQEgfd0kV2Xp3"
-href = "urn:sha384:aiLmlHHB1h9xr_OU8QL55jl8YIutno4b_ivarQIm5PlmECJSugaDtaidj0ifgoD6"
+blob_href = "urn:sha384:emVseDy778YV9-9ESF-3Bg_GDG8HG5TAZ-FBE4kOeJeIhkG2oaKk7jaQf_VoXkSf"
+href = "urn:sha384:LVC9arNojy4MFqg0eKFTBuCZjPGt_sAsbbG9bBjhe0_qFMUrfZTVde_rc7zIgTg3"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -71,10 +71,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/14516334@N00/3431275844"
 title = "A visit from the Easter Bunny"
 [[cards.sides]]
-blob_href = "urn:sha384:hRefhWM3xEK7kbSs1wJ1p945j0mxpJlmCcv09SerDNuQDtBes5La_nvPwuXdZSYu"
-href = "urn:sha384:swQnBZEx6DoA1t-iHZDJ_-7ziA_uqkduVmOZnp54M_S1rs_rvsLh0TIPOrEDlbT9"
-mime_type = "audio/ogg"
-type = "audio"
+text = "test3"
+type = "phrase"
 
 [[cards]]
 
