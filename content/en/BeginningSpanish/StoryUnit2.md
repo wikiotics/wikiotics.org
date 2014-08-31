@@ -41,8 +41,14 @@ text = "Mi iglesia es La Virgen de Guadalupe.\nMi mama y papa nacieron en Michoa
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jT7WlfcqCsI4AO7HJdHubIUZBNrzN11BFJhI8EUej4GHAMS6UyiGlq1oN3oteV2u"
+href = "urn:sha384:M6Gstq0dYBtWXLFYYkVJCir6YdcE6qVV0ulRfZ8HKuXVKZbyEke0BHho7pA_5y3R"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "katyauchter@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -53,8 +59,14 @@ text = "Como las fiestas en la iglesia."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:G9yYadMwv61UVClLK094ZI7BeABsL4UIuepYygbHDR9w9IxoVDuHNXpWR5bTbbed"
+href = "urn:sha384:HjWuRAYOHKjrWpkPaxBarKlr6NgRKy74pyp00AnvWIqohvhY-h4AlSmMRvjyIQDq"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "katyauchter@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
