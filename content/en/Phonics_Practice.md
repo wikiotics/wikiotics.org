@@ -1,6 +1,6 @@
 +++
 title = "Phonics Practice"
-contributors = [ "68.197.91.149", "katyauchter",]
+contributors = [ "68.197.91.149", "ian", "katyauchter",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -23,8 +23,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/40563877@N00/5091396377"
 title = "An Airplane Named Desire"
 [[cards.sides]]
-blob_href = "urn:sha384:RhcS6eJ6EbLaKQ7IErxyumML-E3Cwdt5bU-O7yvKPrTJF_ohLsM7QSzlNnNRkE7I"
-href = "urn:sha384:Q9PAuu8AfxoH3r4vlMsvfSL0kl8SSxoipdswnvigJ32eWnqJWxq4FvfTgceeGDHV"
+blob_href = "urn:sha384:6_ilZP-V1kXyff41U5XM3swOvwnR3ehJepm_RxHAcaWhu-xVuMxd6gpWk2aQyFwf"
+href = "urn:sha384:JfN8QhGf7Q4V-CHbxB06iBeapM9TPq63dpRQDussdTGbFRUewTRZwz794O7IIHhK"
 mime_type = "audio/ogg"
 type = "audio"
 
