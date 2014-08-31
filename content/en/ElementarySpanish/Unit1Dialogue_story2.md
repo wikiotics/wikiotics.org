@@ -13,7 +13,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Padre"
+text = "Mamá"
 type = "phrase"
 
 [[cards]]
@@ -39,7 +39,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Padre"
+text = "Mamá"
 type = "phrase"
 
 [[cards]]
@@ -65,7 +65,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Padre"
+text = "Mamá"
 type = "phrase"
 
 [[cards]]
@@ -91,7 +91,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Padre"
+text = "Mamá"
 type = "phrase"
 
 [[cards]]
@@ -117,7 +117,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Padre"
+text = "Mamá"
 type = "phrase"
 
 [[cards]]
@@ -143,7 +143,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Padre"
+text = "Mamá"
 type = "phrase"
 
 [[cards]]
@@ -169,7 +169,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Padre"
+text = "Mamá"
 type = "phrase"
 
 [[cards]]
@@ -195,7 +195,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Padre"
+text = "Mamá"
 type = "phrase"
 
 [[cards]]
