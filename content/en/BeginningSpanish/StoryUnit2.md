@@ -208,8 +208,14 @@ text = "\nMi hermana, Lenny, nació nueve meses después. Yo nací cuatro anos d
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WJB0SjxGNzS24-Yk7B6X_jIw2iroS96TBekbNmTUZdDIkt-UVU3PvVm7Z2YYOcTx"
+href = "urn:sha384:Q65zUxA-G600PPL1TRdJVeOGWw772Scsq7w8XEG2o-dTWthQg0VuDBxRGH4YOfqG"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "katyauchter@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
