@@ -107,8 +107,17 @@ text = "chile"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:2NDR55ZJ7KOlOGSUDOGE2ExCaWypUhLVBeTqD2abG6zFNEE5RLudElA_TTWpJKL7"
+href = "urn:sha384:liqykrB1wPHpPpKfzWDRaW5rqiXkUtrxOu76Wj4R5ZjOwPJTyNYSL48gcoOmvQ6L"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Jennifer Rafieyan (Jennifer Juniper mom)"
+author_url = "http://www.flickr.com/people/55307348@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/55307348@N00/3267119747"
+title = "Chilies from my garden"
 [[cards.sides]]
 blob_href = "urn:sha384:tRkXHs8_glFY6dFZH2wJWEPYiLbtYCsGx6QDP5IjGogpuyATQBH6XSGOuRfg9zOV"
 href = "urn:sha384:Fp0Aw7GclpTyBcbl0F5Q24MNpJNAIm6km9k1GXlonRhCu6Xhj322_mdjEjymT8_6"
@@ -122,8 +131,17 @@ text = "dedo"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qThktsoseqLbpX-_ZTzCdHDd0TpqjbDeeLZ6oCrGQZCbosbfLaXS3S_o7cAliBdv"
+href = "urn:sha384:fHpfvSK41n8NMKj9MwvzxO8YjzNnwuegPxjeTXzQae7L31_r-GjobXK2qqpGmUZ5"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Purple Slog (purpleslog)"
+author_url = "http://www.flickr.com/people/93453114@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/93453114@N00/3244332524"
+title = "pointing-finger"
 [[cards.sides]]
 blob_href = "urn:sha384:vHwkdYW_GYXaHF7T8dyi0d7U1PXwQeYEgzFKKBf2IuPjwIpUI2woB2LPQ1LnOqUO"
 href = "urn:sha384:krI4nVSDYljGw9r3AphM9_qVAnh_kTniDB9GwEU5YS05UBIDjIVYn35TLt8cO4ip"
