@@ -26,7 +26,10 @@ text = "Fue muy bién."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qmW9TEEg7dVb2gJZSLAKSgo_8nUusFeZSRU4R2CGHjfoEqONo1v5N14srIXAOJbP"
+href = "urn:sha384:sCJ24Hqo0vSa01AzjCV5KJ2U5lFyk5v1zIag0-5bWIH0FeIJjP04WZGIaEfwy0Bg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Marco"
@@ -55,7 +58,10 @@ text = "¡Jugamos y vimos una película!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dWCponVxM5BIXRh9fmYW06xoub-P0p9HCHSG6u4MBmEy8nHmxu_plUPUjAdVQWqa"
+href = "urn:sha384:3L1H4Qb6jHy25SRB7tyVnyg93oAqK-NMdIRMHmQems6RjHVNlKZTUbdAPyFlbjC4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Marco"
@@ -84,7 +90,10 @@ text = "Sí comí pizza y pastel."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qxKxU7RpH8zhxx8ECXoHpmfC-_RfQRtK0VSvdyUuA3Pz-zHQ6VuGCdQKFYfAkGIS"
+href = "urn:sha384:SQX_vr3Te1QwNVAs0vrW4BMemn47_DWXByCfnRLZKC9ZaHgyThr90NvxLpBVroQo"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Marco"
@@ -109,11 +118,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pues, la fiesta fue una sorpresa, y encontramos todo en el parqué a cerca de la casa de Alex.  Cuando Alex llegó, todos gritaron “¡ Feliz Cumpleaños! “  y Alex estuvo muy sorprendido."
+text = "Pues, la fiesta fue una sorpresa, y nos encontramos todos en el parqué cercas de la casa de Alex.  Cuando Alex llegó, todos gritamos “¡ Feliz Cumpleaños! “  y Alex estuvo muy sorprendido."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:odMM-8AMXQlwXNtzHUTcWyOLBLbrE36uzMGOBymaIpMk58i9lheQSPImgT8FjlY6"
+href = "urn:sha384:YrSqljxILQHMSL6SfiBk5yMWT2569gW9MT1bE_V3N_1sLCaxsxR1T-QHb1X_E4Ie"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Marco"
