@@ -38,7 +38,10 @@ text = "No quiero hacer mucho.  Quiero hablar con mis amigos y jugar y ya."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6RtGgzfgzgfbTQx8GddgYjWKi5SOFRMFbNfS8R7ORaLhsDQpY6FDdUepBwoIeiNT"
+href = "urn:sha384:7jH9G2QjNvGzV-vMKKHE8hqrxVjFJCgi53-yezTVheHN7FLtv7M83KEOzcOxcmuk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Niki"
@@ -91,7 +94,10 @@ text = "¡El parque aquatico! Sí quiero ir! A mí me gusta nadar!  ¿Cuando vam
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YDeXGlnC2-vfhSCLdeJ0wuZFE0bouIxi96sbsTTNx9GVwfLoovladq0TdsKaZ-Wm"
+href = "urn:sha384:OWTYqghbarguITpiAE5gt6JD05vwA0CRiLx3eQKoEsmUk3Yc_ms3phiO9Kjl2H-U"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Niki"
@@ -116,8 +122,8 @@ text = "Mira que ánimo tienes ahora.  Sí puedes traer a tu amiga, pero primero
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:g5Gbg9PMPTYCfDUM4Rov_xTAOWp1je6JXeJSNGxqRMsTJVTSb5LVrxfvze0x1uoh"
-href = "urn:sha384:1E8C1Bu_XTs44FUNzChILPTXpfKf6BtDTA6QD16oH4_Y8GdTu6DF1tI0vh4pdfyL"
+blob_href = "urn:sha384:FslPsPQ6Pdo2uT34_ds1xhES0fsA_zlMpxbTKkziOKXD4pVDDNuNWcC3qdYOV3hm"
+href = "urn:sha384:e8sHyi62R1C7cCtAnwWc-UBVXgw2z-cfOAPK1jye6Jg5CF18qmsG5UE72ZjS1-IN"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -144,7 +150,10 @@ text = "Ayyye no máma.  Mejor vamos al parque, y despúes hacemos estas cosas r
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:NkNiIPrr5qwgodZw_1sInCz70_WU9S_u0b1Sr3anKf19SWNxLZt1-gUEBli-VQTG"
+href = "urn:sha384:sF7qcqfQde0VaeUSOqQTXGLwXm-DvbjcP815Ohq6SbqSQEeyS6Ia3NQbOBuyt4lc"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Niki"
@@ -169,7 +178,10 @@ text = "Bueno, como tu quieras, pero aunque vivimos muy cerca del parque, si vam
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UWp-TGY9fdaLUUBCEBsMDRavXmU0svcvJYPqKseL29sy0StiQkVQ6Cr5lofXu51p"
+href = "urn:sha384:B5ifLus84bKLzsSUjFROvR5V2UKyTyrTiseNI8vizFbufkiadCH77KPjzjn0vIW7"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Mamá"
@@ -194,7 +206,10 @@ text = "¡Solamente una hora!  Mejor esperamos pacientemente.  Pero, puedo hacer
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:e7F0d-SxnGe9D8QLkZhVEgWg3daktz62OLhETsyL2yhVBz6oSC0Njbjjr0V_8mID"
+href = "urn:sha384:_MLXLga3ADLNVigzGABL1I8VUX3EYWhZc-zxnXvrqBe_B14fRGeYGhQc0qq8hCTm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
@@ -218,7 +233,10 @@ text = "No importa que rapido las puedes hacer. Tienes que hacerlas rigorosament
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9cvyzgzs4zxhu7kcmuVFLtQHVvvjcKryEigb4EwoJef5qCMQe6Awvn4q4oua2NSX"
+href = "urn:sha384:okcKRSHBueM0Nj5TFwayY_sFezIElE8bPBOn9Ebmk5l9VMQVZUg_yO-PnNVbmDg8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 type = "empty"
