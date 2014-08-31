@@ -58,8 +58,14 @@ text = "Como la comida."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uQ1okacbYrt0ls2w8mPkGtR4ifRtlxBieckKunmQRkHBAZ4Lit7KdxF1nb4S2GfL"
+href = "urn:sha384:uhfomDLNipON0FkdbM6yuoE4TCpirf7mOQu3uFxYfQEK5fejrjE1vqjf3oIZYD2a"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "katyauchter@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
