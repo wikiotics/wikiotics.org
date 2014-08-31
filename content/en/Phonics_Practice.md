@@ -23,8 +23,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/40563877@N00/5091396377"
 title = "An Airplane Named Desire"
 [[cards.sides]]
-blob_href = "urn:sha384:zgyQsvOlIQ8iWW4WrmCO8NVbrq8RhQ00d-3kayjK3jPhKHkMiUt2mzuokoYeJUPN"
-href = "urn:sha384:y8P-DbIdry4DUXPbT4lwUgR3D_lpDNHlwE-1zZ9VLbVkiQyxYwSGIvC4txYgqon5"
+blob_href = "urn:sha384:gKbFW8S_VI2qdsIFDO_em9TKX-iWGnA9owaEBWol4ATRoU0Rgz9WEiavUFJeC4Wn"
+href = "urn:sha384:EPE0vQy4HX5NRvHXN0dvV6Y_QY52nDA75i-5wGI-a17yORaM8hhtZSXmV2I9tCPM"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -47,8 +47,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/24982987@N07/2414854343"
 title = "Flags over poppies"
 [[cards.sides]]
-blob_href = "urn:sha384:emVseDy778YV9-9ESF-3Bg_GDG8HG5TAZ-FBE4kOeJeIhkG2oaKk7jaQf_VoXkSf"
-href = "urn:sha384:LVC9arNojy4MFqg0eKFTBuCZjPGt_sAsbbG9bBjhe0_qFMUrfZTVde_rc7zIgTg3"
+blob_href = "urn:sha384:jSUk2iox633Alks_GcXal_ZLEAUDw_QNawgIigj8KXWofl_5l8uY3C5OyL2mf3A7"
+href = "urn:sha384:nFdrDpyGqcLmjCO4TqsoGx758kxJAuPyWK5tQ63NDJFqZLRJ-Hzd-TZCXD1ZEIXT"
 mime_type = "audio/ogg"
 type = "audio"
 
