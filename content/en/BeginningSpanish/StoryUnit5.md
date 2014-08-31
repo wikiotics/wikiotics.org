@@ -114,7 +114,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ya lo imagino. Cuando yo sea presidenta, voy a cambiar muchas cosas"
+text = "Ya lo imagino. Cuando yo sea presidenta, voy a cambiar muchas cosas."
 type = "phrase"
 
 [[cards.sides]]
