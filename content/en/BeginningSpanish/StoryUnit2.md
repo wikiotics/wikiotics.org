@@ -76,8 +76,14 @@ text = "Llegaron a los estados unidos cuando tenían quince anos, pero todavía 
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jT7WlfcqCsI4AO7HJdHubIUZBNrzN11BFJhI8EUej4GHAMS6UyiGlq1oN3oteV2u"
+href = "urn:sha384:rXnnOH8WVsV20MuZ0y9yKGPi1tPsyxBra5AFmDpyxLWCJa54hMzxqTUBkAnnzkZn"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "katyauchter@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
