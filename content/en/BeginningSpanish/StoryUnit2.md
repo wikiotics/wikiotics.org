@@ -22,8 +22,14 @@ text = "En la otra esquina esta <<la tienda de la esquina.>> Pueden encontrar la
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:KJ8yawKFuK3mSJ8xRwHTevURaqNXiAN4zopsnHNLSFz4BQB3saeRJ5aJWouCdzqU"
+href = "urn:sha384:F805vncJkuCqAY3ybO9bQAuEdmqDbwEzkT2yTrCen_-YyzDRa4pFtmG3tx52zBcb"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "katyauchter@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
