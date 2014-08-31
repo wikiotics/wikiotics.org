@@ -23,8 +23,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/40563877@N00/5091396377"
 title = "An Airplane Named Desire"
 [[cards.sides]]
-blob_href = "urn:sha384:e3wETh1pB-9YVCkgAsRWXe0zKPGcJtX0665U5D4StOnn--aTd0LJQTp1ZlC9-t5Z"
-href = "urn:sha384:_8BR6p9AgjJd18RnlHGGlH6r2cBoJdHf1ibjYrNa81fWNBCmw6wdwzMiqCdLYbwU"
+blob_href = "urn:sha384:zgyQsvOlIQ8iWW4WrmCO8NVbrq8RhQ00d-3kayjK3jPhKHkMiUt2mzuokoYeJUPN"
+href = "urn:sha384:y8P-DbIdry4DUXPbT4lwUgR3D_lpDNHlwE-1zZ9VLbVkiQyxYwSGIvC4txYgqon5"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -47,8 +47,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/24982987@N07/2414854343"
 title = "Flags over poppies"
 [[cards.sides]]
-blob_href = "urn:sha384:kqm9y4OOsjC6_GKXWjs_Gl2bQtWjbKmdyNA4Qmnn2ow32T8Pvepsm0XPzvDqrS1b"
-href = "urn:sha384:B7PaPDocx9fsnbJCYor0oqHliUS4GaHOuEQYDAc3hDuZRkSLi3c86f1NXzxJR7HU"
+blob_href = "urn:sha384:emVseDy778YV9-9ESF-3Bg_GDG8HG5TAZ-FBE4kOeJeIhkG2oaKk7jaQf_VoXkSf"
+href = "urn:sha384:LVC9arNojy4MFqg0eKFTBuCZjPGt_sAsbbG9bBjhe0_qFMUrfZTVde_rc7zIgTg3"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -71,8 +71,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/14516334@N00/3431275844"
 title = "A visit from the Easter Bunny"
 [[cards.sides]]
-blob_href = "urn:sha384:EPy5Pk7-ZUq2x4cZtLDy6ZPY-Qvt18ohBTOoYlzp2KaB9RHHYbP2o9b5ffZrwrwh"
-href = "urn:sha384:mu3fJi4lQSMsgK3C8b_WtgZesJYOhg4O7xo3ekbw1-iFKS5-z2iNanxt6ASr9r4p"
+blob_href = "urn:sha384:61aYd8lNK_WFAzNvtkQIGQEtPBx16R5kdX2IDuXory6Q0w1QNiM2PEFkd5vZmgVA"
+href = "urn:sha384:O-ukNn5XlW_UvjVjM6VYvjC-6MTLkEmkNZglnz60VhAPNhII1VniitWAZHPtfE0L"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -95,8 +95,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/12191709@N00/92782973"
 title = "Hair brush 2"
 [[cards.sides]]
-blob_href = "urn:sha384:oL_Qi07aHQnrCeSPtTOtjbFxXrpA1q8wBxYqd5oWHIJF_m9tT1bQ2LatbUBLZu40"
-href = "urn:sha384:3-R1PcITR6QHPEA02u7RwMhj9MJfcMBRTy7XGLcARiKDvj8IuA43nY797WJZey-Y"
+blob_href = "urn:sha384:ntHsRegnsCn-GQTj_gdQPwC-LmIKpWn1Ie9-p8F1IzfmC6BuI9KeD48xM2VK2xfK"
+href = "urn:sha384:uAieIJnRRiDMuJ2tN2DvjeEfZkmlek1gqjUOcnBUZx7sZLaeNtxfxjTDvAZI6qnh"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -443,8 +443,17 @@ text = "ñandú"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uSG52VFBUSBRz5sgED4mC-H_iFucAdQuL95zeUlWfrFee4s5kBbSVMsJahbyU-0X"
+href = "urn:sha384:DLzG-sfc2dqfKiDxIPOEYlmcULxW9q3VGahN2AI3kAaqVJOqQUzNem9clbjNPz5X"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "David Stanley (D-Stanley)"
+author_url = "http://www.flickr.com/people/79721788@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/79721788@N00/11425971435"
+title = "Ostrich"
 [[cards.sides]]
 blob_href = "urn:sha384:eCrP1kYm4RXOe5c-LzOAQuLz9PedAfoGcLc8Hl4yalmgr_9u4QSqBmj8E3oa8M_d"
 href = "urn:sha384:DiKYovgyrlN089mwMzX9j2eZ5pXYdIkwVngPkMogexVDruCOAGfmeU6W86w7SQTr"
@@ -458,8 +467,17 @@ text = "oso"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_hH43l0uF6yzM5E7dRw5hNRqdByDdd1kndYrlhBIj2kQ0P4aB34qfxlZgXFwrHs6"
+href = "urn:sha384:121Mbr5JMoz2eDlUvhBk2GTOeVxVZJIz2k0WW6BpAic3D4UELwnQY0YvRtHfo5eO"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "California Department of Fish and Wildlife (CaliforniaDFW)"
+author_url = "http://www.flickr.com/people/41723647@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/41723647@N08/14920793105"
+title = "Black bear"
 [[cards.sides]]
 blob_href = "urn:sha384:myAKclZxq1wUigbQ-fkiQpMU9JMXV5zGFrxgTLTPErmKtLkfeeThCK2F0opE_Cd0"
 href = "urn:sha384:2KujJBQXa0EUnZIigD2Qt93qWDKcjqICbctVjMyc6vnxJ9v9GU6bGWw_asPEXl5j"
@@ -473,8 +491,17 @@ text = "pescado"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YlZ7o26DEAI45jj4OvFxpNm-liKi9nEPCUXAXZvesMOlUiPAuZMoywjWj4NAGaxY"
+href = "urn:sha384:AxegIeA7g-VYNRp73t_Rln49wbvq8_H6QM5LJH5jp_ea0EqOPZUJ8eBMmPsEgmmv"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Alexander Boden (bogenfreund)"
+author_url = "http://www.flickr.com/people/28548387@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/28548387@N00/2086574261"
+title = "The Biggest Fish In The Tank"
 [[cards.sides]]
 blob_href = "urn:sha384:j_2nUalBo8BzUEBGZQEBrslMTvBKdt9zMrTyXlduUnNt28KBwZhCCfysLt_hxZfr"
 href = "urn:sha384:D5YczFQsKOd23z6xFqxsVNPmXJPRNxckXJo19Bq0mBPNuFs0QQoX0SsqtOWjWBQs"
@@ -488,8 +515,17 @@ text = "quetzal"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:NG2Ze_tV2_vD3yXneqVyNjoUH-0TZlFMaW2RhWLqjBumwzxIgH1wd79iwRE79CbP"
+href = "urn:sha384:UIAaldseb9lCEyzLZ7vKpQqDVYAps5yuPoD2_gcjKiDQqHG2INMMF3jYbsGdr5iC"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Frank Vassen (Frank.Vassen)"
+author_url = "http://www.flickr.com/people/42244964@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/42244964@N03/3977272864"
+title = "Resplendent Quetzal (Pharomachrus mocinno), Mirador de Quetzales, Costa Rica"
 [[cards.sides]]
 blob_href = "urn:sha384:6YQTIVFf-6dEYwlQZ2QP_Hmh8BgW3QNzZX_Bi7sCVJoj4e84s_VWbULT3uyjSfh-"
 href = "urn:sha384:V3bTHKQ_ywsMm9AVPd3ypdnJ08nIl395GFqMZis3uu0HPaVtcd0ZTswGA8ZXHwxW"
@@ -503,8 +539,17 @@ text = "ratón"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nP-WiSNoZ8kygvuClOAJ-YUvcxlsplN1hb5WeGfb0gj8TR8QkS5Tn9MxkRFmVPS3"
+href = "urn:sha384:GUaBXD87okxwtFiYQsYvYB4U66T0xfFkU4eevtv9b2jJDGQy_TeL2avAWctwTntO"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Elena Gurzhiy (Olis Olois)"
+author_url = "http://www.flickr.com/people/8166661@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8166661@N02/1993625344"
+title = "mice"
 [[cards.sides]]
 blob_href = "urn:sha384:jzopr8QqCH5tAB3CSmcv2VmarQxzV5tuMb4kW_IqPsz2MpB_TDckfST3iYsjbpjm"
 href = "urn:sha384:xdPs6z8vptlytP-nNOUC4yJv-yolwusdaQAtENuiW_fNCfGo-Bc5QDnmc5xjwDKN"
@@ -518,8 +563,17 @@ text = "sol"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:E1uio3akDUdD1rUGUGsFPZBkEkerhFGVX1I-yEyY6LVacDYYT1UXWUmif5L5mRmh"
+href = "urn:sha384:AZ3LgOti3UVl5qxjvT8LOWda_WHe6V23jHj6ozDB28EHXSDtWH0q9SzCYwmktBbj"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Marsel Minga (Marsel Minga)"
+author_url = "http://www.flickr.com/people/24587679@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/24587679@N00/9966719103"
+title = "MM00A-1304 Sun Spot"
 [[cards.sides]]
 blob_href = "urn:sha384:W0q6WaTOHyYeeQDRtJnNXk1xcuUenpGnpbSsgJYlCAjrGD8HkppWhTyElOATgqGH"
 href = "urn:sha384:xawPiy780y5SMW5RMfQoSoTF-fElP7VrRuUFEZQ8OORx1ACgBp0_PP14IUEezJel"
@@ -533,8 +587,17 @@ text = "tortuga "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:c49tLwob1BqHGx8r2Drjdzq7d89ywMr6bR7TirBD6dUY-baUrTxNo--8NgcZKanD"
+href = "urn:sha384:rYgvyw-CurJHtEDi0Np4J4zFEOaoN8qFLiu_Z9TSM6EnrR2qtvYf7Wfe5_bUaEbx"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Ron Alford (ronwalf)"
+author_url = "http://www.flickr.com/people/53616173@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/53616173@N00/5840801003"
+title = "Box turtle on the trail"
 [[cards.sides]]
 blob_href = "urn:sha384:etq7mdEBHNlx3P2HF7fkcp0GAaetadLP0xYXp7utsT2SxefzWuOr7Vd25QycLhaE"
 href = "urn:sha384:6kBpsj7nEFp9vnYdp8nAiYqtZUPoT7HyU5-cREB-bkwAG-gIzFZ9Ox0ldqLiy2Sj"
@@ -548,8 +611,17 @@ text = "uva"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:X9odKqNXtD9SxKJBCyzFqji_ohJty6OQFj2scsqQw6AbgTkhg4gA2LvzQP96VzYQ"
+href = "urn:sha384:xSTh-LhY6GJETtMK6djGiENl0PvFi3B-Zfajie0wzlGvAHbVxZLVOQZlM6bE1dbh"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (Zest-pk)"
+author_url = "http://www.flickr.com/people/10573648@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/10573648@N05/923930277"
+title = "grapes"
 [[cards.sides]]
 blob_href = "urn:sha384:xYPDXbnIEG6x8ciESkkJqYPsApdgEnOm2uWjWnH90dANQuRO9UYC6lPJG7rGZRWd"
 href = "urn:sha384:421ux3Fhz_cndyQsvS2oH56u5fb74f3eSA8nXaBe7uzqqLqSGB80fHq1dMEWSMCI"
@@ -563,8 +635,17 @@ text = "vaca"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WYh4rKoDZKqIxoi-kBdaqKlKzwxBUQleHgTB0tRTRmmJRGBicQXfNLNbS6r09Wuy"
+href = "urn:sha384:GErjo_6-dRNLjceUJ57X6z0Y0LAydE6ktpJ2r3KZ8V0cpDMCGieaup25EfxKc_x1"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Tony Fischer (Tony Fischer Photography)"
+author_url = "http://www.flickr.com/people/22714323@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/22714323@N06/4101214805"
+title = "Cows, Lancaster County"
 [[cards.sides]]
 blob_href = "urn:sha384:_VnOFPtCbHUMQPBNeUbZh9Ph3EvTBhK6nJCbjY3pjBWYfHyTpBgTKbbajPAInXMo"
 href = "urn:sha384:fckt2oOF6EYQcZVPPBPpAdq7ukTLTQmmy3Q2y3D09FGQM9Rd7S4HUBHBAaXE1HPl"
@@ -578,8 +659,17 @@ text = "wapití"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yQwyPD_7l5pmCG_kY2xz9pV4mYmDXQvgFTAEXIdG23Pl4-aiHUmK0fxvI1oKNO1n"
+href = "urn:sha384:UPn2_Cw9nUS9TOC-n_KehuZ-lAg-Vu6G7hTpkw_Ej53dYbBX4ebUvy4KOIwHBifm"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (Sienna62)"
+author_url = "http://www.flickr.com/people/36823400@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/36823400@N03/3713862846"
+title = "Elk Bull"
 [[cards.sides]]
 blob_href = "urn:sha384:LKMWGqhQDMWXqSbjMmXcUi_vE7AF9Q7xFnVPpWQwylhborBxySl8mri2IEgQKYr2"
 href = "urn:sha384:J09wN7Z6aPjo5WQn1GZsSoNQK7f_dNcBGoCb3fwj0LH8UgvG_m5N-Zs_pkvQCjuA"
@@ -593,8 +683,17 @@ text = "xilófono "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ss3yQxpJTKc5tUFY6syBL6HZ8Xi3Hf45PJwcCYhryMI0yvkI1xdP16tIEX6pKg_r"
+href = "urn:sha384:hOJ4qowwDA9xCZbEoW09_bYn3_j72OvpBifCDZZrOuZq3QyCaf1zaP5_KyVbqXk1"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Frédérique Voisin-Demery (fred_v)"
+author_url = "http://www.flickr.com/people/8514720@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8514720@N04/9272785557"
+title = "Xylophone - 2013-190"
 [[cards.sides]]
 blob_href = "urn:sha384:8XMejtRg3Q6Zr5VvrG3RxZstmQXM2xIdFPfsup-CFcbMI7uHMllEpOCLS1juWbZB"
 href = "urn:sha384:FkV71-qs3ZSJ5f7aj-B7dHokeQ5tPE9sNj_zqERirN1okbWe5X_Wdmw4cZwvADbD"
@@ -604,12 +703,21 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
-text = "yo yo"
+text = "yoyo"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7Gcu8qtTqNHVDS3dcPm55Qx6xigpyjZzjjJuCbwaFLKV9PSDBHhLGXe0Vg4SRxhT"
+href = "urn:sha384:-nkVl9_mCU2XdzAtaJp7ArMiAUmQOQ-Q0sAt7NuUH-xx9RYo_N0PF3YthF7jSvbT"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Rafael Matsunaga (rednuht)"
+author_url = "http://www.flickr.com/people/78629042@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/78629042@N00/569341954"
+title = "13"
 [[cards.sides]]
 blob_href = "urn:sha384:XKxjRup7BZIR1_PFs1QBL6Qfss-xLojXesG5yH0vDEhNuiLCWz9jKeWOAXCj4RvY"
 href = "urn:sha384:owOTdG4Zp-_WV7Gn1htfG5AUhnFYtccB7URUUz_Z1dtUlu878shk5HBPaLd8MCQO"
@@ -623,8 +731,17 @@ text = "zapatos "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ZL_iJJMxGipQKATABvGAuQBT0dc90-FqFJjslDqWjlonWwBmwTVxbCBLq7-gEqiv"
+href = "urn:sha384:IdKpqqBptrBSAXl2S-2j1_GHNtXY7xaNVOUIRCey4Dx_nVbQdT1Dk434yxSenf1I"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Pierre  (Rennes) (equinoxefr)"
+author_url = "http://www.flickr.com/people/15900030@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/15900030@N05/6742534739"
+title = "Oh my shoes !"
 [[cards.sides]]
 blob_href = "urn:sha384:P99ql6BS0lrEDCs40JSjVvTBk4By5_LW4g1V52Sp48_2SkKVBMia6oKtzUj6ljWn"
 href = "urn:sha384:mqPzSHq1h0BrffqJViH-DsbjHN18-33ZGR4R7IxijbKPolNTXj26H9eqcP9E853d"
