@@ -171,8 +171,14 @@ text = "No habían computadoras en esos tiempos, mucho menos teléfonos móviles
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:mcJzPeowmTXGrCtwRjj7HRdJs2rLNzGlN_6R_b9cymP689GhqbGj_wmF1uwaFuNB"
+href = "urn:sha384:3KBwbilIHLqwSI7puzWIy25s6CrJv-08CMdAyHdAw_OvAOqbfkge_1N4yzOUDSbt"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "katyauchter@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -184,8 +190,9 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:TlwyRR9DAsR3rflqNWfxPOkEOKLO-_1TYUREraxq6xTd7lPHEFur86GPiiyW3tqM"
-href = "urn:sha384:bgWku2y0G7gHVYfxqwzwnqmwW5HhIKfs_zh63-3cj7WF4zNKCR-oSDCuxJrab4b8"
+href = "urn:sha384:N1pQ66i3Ers4-m6VfiMFfyhUPHe_Yt6AiebZ7rYK3ssESvXIa9t2Y0qIitr_hbP0"
 mime_type = "image/jpeg"
+rotation = "90"
 type = "picture"
 
 [cards.sides.credit]
