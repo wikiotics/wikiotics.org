@@ -23,8 +23,8 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/40563877@N00/5091396377"
 title = "An Airplane Named Desire"
 [[cards.sides]]
-blob_href = "urn:sha384:Akc02Ui8tV91AUUyHt2uPYPSr9lENqxUQwOLxnSDxphbNk6U8gqzX9JKq6cLLVNE"
-href = "urn:sha384:j8Ub1TFX75793AHhWE5wJwRRpDj9j1nfvi8S5jMesFMkhehw4aN8gXctJGu0pnP0"
+blob_href = "urn:sha384:RhcS6eJ6EbLaKQ7IErxyumML-E3Cwdt5bU-O7yvKPrTJF_ohLsM7QSzlNnNRkE7I"
+href = "urn:sha384:Q9PAuu8AfxoH3r4vlMsvfSL0kl8SSxoipdswnvigJ32eWnqJWxq4FvfTgceeGDHV"
 mime_type = "audio/ogg"
 type = "audio"
 
