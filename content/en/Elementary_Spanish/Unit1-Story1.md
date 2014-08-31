@@ -1,6 +1,6 @@
 +++
 title = "Unit1-Story1"
-contributors = [ "katyauchter", "katyauchter@gmail.com",]
+contributors = [ "ian", "katyauchter", "katyauchter@gmail.com",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
@@ -10,8 +10,14 @@ text = "¡Ah! Que dolor! Porque no escuche a mami. Me duele muchísimo. \nMi mam
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gFUhA67IA1hchUCAVIrOt-XJS5hb72NymmmfU5q5IGzi6rjKHYKgyDi7cT-E4_LS"
+href = "urn:sha384:vd8dq2KUy0fm2KQlNKK9qUPS2xN4-a8aTxzMgO4Btlq6i15rYsX5_bv26KUvmebV"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "ian@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
