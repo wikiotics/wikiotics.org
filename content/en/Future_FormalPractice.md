@@ -7,7 +7,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Ellos van a compartir los dulces después de colectarlos."
+text = "Ellos compartirán los dulces después de colectarlos."
 type = "phrase"
 
 [[cards.sides]]
@@ -25,7 +25,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ella va a escoger un vestido para llevar."
+text = "Ella escogerá un vestido para llevar."
 type = "phrase"
 
 [[cards.sides]]
@@ -43,7 +43,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ellos van a votar por su candidato favorito."
+text = "Ellos votarán por su candidato favorito."
 type = "phrase"
 
 [[cards.sides]]
@@ -61,7 +61,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Los estudiantes van a aprender formulas en la clase de química."
+text = "Los estudiantes aprenderán formulas en la clase de química."
 type = "phrase"
 
 [[cards.sides]]
@@ -79,7 +79,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Los niños van a observar cosas pequeñas sobre el microsopico."
+text = "Los niños observarán cosas pequeñas sobre el microscopio."
 type = "phrase"
 
 [[cards.sides]]
@@ -97,7 +97,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "El niño va a preguntar algo."
+text = "El niño preguntará algo."
 type = "phrase"
 
 [[cards.sides]]
@@ -115,7 +115,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Él tiene que cambiar su ropa."
+text = "Él cambiará su ropa."
 type = "phrase"
 
 [[cards.sides]]
@@ -133,7 +133,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "El tren va a venir a las cinco."
+text = "El tren vendrá a las cinco."
 type = "phrase"
 
 [[cards.sides]]
