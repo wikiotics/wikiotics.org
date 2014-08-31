@@ -26,8 +26,8 @@ text = "Fue muy bién."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:qmW9TEEg7dVb2gJZSLAKSgo_8nUusFeZSRU4R2CGHjfoEqONo1v5N14srIXAOJbP"
-href = "urn:sha384:sCJ24Hqo0vSa01AzjCV5KJ2U5lFyk5v1zIag0-5bWIH0FeIJjP04WZGIaEfwy0Bg"
+blob_href = "urn:sha384:-LGxnWEFc3w2_8W-YLj5Lt8LbZ2XZ1LKHd951PcOEQk08RAGGBPCM5dWxLZsFLpQ"
+href = "urn:sha384:HM5IivIsVF1Y_gNfoixbKntaDeuV4unCALg0jv9RpDvScNr57uzJFtjfnrdt6HCy"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -58,8 +58,8 @@ text = "¡Jugamos y vimos una película!"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:dWCponVxM5BIXRh9fmYW06xoub-P0p9HCHSG6u4MBmEy8nHmxu_plUPUjAdVQWqa"
-href = "urn:sha384:3L1H4Qb6jHy25SRB7tyVnyg93oAqK-NMdIRMHmQems6RjHVNlKZTUbdAPyFlbjC4"
+blob_href = "urn:sha384:OaTL71stnbrArpt6jf2gg4j1iM20jiNOGcJOSKaYaPC-qLCigjEyauNXRyw33MrP"
+href = "urn:sha384:3ScbMf27NfMZFK-zzLTP7LxSP_01iOzRPaJtnHO3Kdkrv1FfMWb8mMot94QQKjBO"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -90,8 +90,8 @@ text = "Sí comí pizza y pastel."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:qxKxU7RpH8zhxx8ECXoHpmfC-_RfQRtK0VSvdyUuA3Pz-zHQ6VuGCdQKFYfAkGIS"
-href = "urn:sha384:SQX_vr3Te1QwNVAs0vrW4BMemn47_DWXByCfnRLZKC9ZaHgyThr90NvxLpBVroQo"
+blob_href = "urn:sha384:YHiinSZHsPtCR2LhGjDVZLlTuOjfOXTPx6u-T7REG-kQItmfe910bYus46qZ5bxE"
+href = "urn:sha384:Bp4fuDsnA7zzZ9Aj3INMhzDgNYs-_T4kOMcyJNlURQch5Vkiuge8TFPyRlshsbQ5"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -122,8 +122,8 @@ text = "Pues, la fiesta fue una sorpresa, y nos encontramos todos en el parqué 
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:VRVvrdtPHk59feVu4W4-bRoQoS87Zc2qRZ5qvsXjeBK4G6kN-EQ8Jfj5_RiOv38V"
-href = "urn:sha384:Ml3LLYqm9UByYbJY9z1azWwJLOGaJxX4vcijLxg3u6NjNVPHitJVxTaiGSDoqg7r"
+blob_href = "urn:sha384:Fb10aBc_5OgVE4wH4oaGN9nBhYD_hUs2mcEZcHX08RFl8RwkFLRA-1ACcd21jGeV"
+href = "urn:sha384:mkyxYSd368D8UUHxWJegopfJSknNwRyDDkJ10-y64uAvXHwNMhJEf1RqSiqnhoQr"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -154,8 +154,8 @@ text = "Bueno, Alex quiso rompecabezas (puzzles), y por eso, la mayoria de nuest
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:ViRzOHhMeqksVwXDa2-D6anE5OMVTaOa6wbGCNPcIvnxrz4uk0307cdeE5UxhBsc"
-href = "urn:sha384:dk8MkQeZN0-89Gx-1XR00lsK_Mzq4QAgaQxadlnzClkzEgHL0vov1tS6X8Kbf9my"
+blob_href = "urn:sha384:endEe_yP1-HoHx_2fST5asAnkdz_ZQHFTmsOvpTwhW_OSyUmUmTuu1iY6nvHGliG"
+href = "urn:sha384:gza3YJmWMK_s8joKYdvKuYScNsDpnayfwxEENi2kHRZAk36edDbtVirWPzTn6qrk"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -186,8 +186,8 @@ text = "Sí, y a Alex la gustó mucho."
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:SKSMQ2A4YV22DDD_2vp0IG_EqZ0XRYucAAWm1OzONApS69kFMJAusZXmZ_v_oxEK"
-href = "urn:sha384:60t-HVeVUglRJkXtj7okxGq-eSCWL5b1odYLPCJoNMp0TQewQllmsmsHiPzFFEOV"
+blob_href = "urn:sha384:D2JYrQWA6083v1cEv3uax2ZU1jKytBJ6S_lO9j6UE273SvjVEFYIbkSrWIaEKrol"
+href = "urn:sha384:mBDtigaW9L8PVjcfWIRhiCfXhZ11futFXjCzgii4p4rdzRI1vghdZsaplhoebpB8"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -218,8 +218,8 @@ text = "Bueno, estuvimos al parque por unas cuantas horas, y después fuimos a l
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:HOWUuBic_Lg8Gw62rFnizzBN3jH4u478Fu6NJY66H_76WSBl5DZPUuzGwjqn88fj"
-href = "urn:sha384:5zJwy6LJMEVsmbj_WNO2qcRktj_MrRT7-hgvDGyd0J332GNH6_2snbSe7CRW3g4S"
+blob_href = "urn:sha384:js9d1lKjkQAY3OeDVNtV3CuDgKZdJ1bE8K0-zmMjWoxaX9yagUU4OQDcfCz7d6yR"
+href = "urn:sha384:uQl74th1YGBD11QL8rbFiyr_3BL0GPxciCNy9r18V83ejC0Wv1IxXaKIUqaktPIK"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -250,8 +250,8 @@ text = "Sí, escuchamos música y bailamos, comimos, y al final miramos una pel�
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:tQVIfbeDg3-sR-mnFNU7hgw4VL0VvoYK2Sh18aYSGZ4f7LktdVxVdB81oHPbyhXh"
-href = "urn:sha384:piNeGX30xfW7HIHRry0CXtyVP0ohMkY9SdBSrfXFiOv7x6QLSeh1dY2aFYewfp4N"
+blob_href = "urn:sha384:7_ZSkeZJ7nFy5UV1cBC2tAEFVXs8eSTvw4mMb9t9mlGKY02P329gNImtJgUbz2WL"
+href = "urn:sha384:2tA9l0tDz5_Ih-r7nkrcutoXZtruNI2TQeoZ3cOaduU3RZCiybQlP6YUH-aIm9zz"
 mime_type = "audio/ogg"
 type = "audio"
 
