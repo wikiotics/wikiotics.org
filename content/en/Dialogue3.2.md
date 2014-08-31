@@ -112,11 +112,14 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Mira que ánimo tienes ahora.  Sí puedes traer a tu amiga, pero primero, vamos a limpiar la casa completamente y hacer todo la tarea.  Si hacemos todo hoy, podemos quedarnos todo el día en el parque felizmente mañana.  No quieres ocuparte con deberes mientras que estes jugando verdad? "
+text = "Mira que ánimo tienes ahora.  Sí puedes traer a tu amiga, pero primero, vamos a limpiar la casa completamente y hacer todo la tarea.  Si hacemos todo hoy, podemos quedarnos todo el día en el parque felizmente mañana.  ¿No quieres ocuparte con deberes mientras que estes jugando verdad? "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:g5Gbg9PMPTYCfDUM4Rov_xTAOWp1je6JXeJSNGxqRMsTJVTSb5LVrxfvze0x1uoh"
+href = "urn:sha384:1E8C1Bu_XTs44FUNzChILPTXpfKf6BtDTA6QD16oH4_Y8GdTu6DF1tI0vh4pdfyL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Mamá"
