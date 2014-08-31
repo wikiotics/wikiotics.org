@@ -1,12 +1,12 @@
 +++
 title = "Dialogue4.2"
-contributors = [ "katyauchter",]
+contributors = [ "68.197.91.149", "katyauchter",]
 headings = [ "Phrase", "Audio", "Speaker",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Sam fue muy malo durante excuela hoy."
+text = "Sam fue muy malo durante la escuela hoy."
 type = "phrase"
 
 [[cards.sides]]
@@ -19,11 +19,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Oh? ¿Que pasó?"
+text = "¿Oh? ¿Que pasó?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:QeSRXHogVCrxQ0ryJr4gXnEU9FQzzRMdOXvGip0vb4KfdCn8jtxfSnJTMAce_bTD"
+href = "urn:sha384:q44qCIBIsgvzycgq7Z0NW5xvWRH7ZHRJIUu5wLT0BleqC-ZU1diObUW5DukKEVev"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Papa"
@@ -45,11 +48,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pues, ¿por que? Tal vez sus compañeros lo estuvieron burlando."
+text = "Pues, ¿por que? Tal vez sus compañeros se estaban burlando de él."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:aC19RM6uSJNH2nUVKbV5EHG71YyqKaKVYpvP1M4yUQlZB0G2KJeWcgfLnAcCDSqP"
+href = "urn:sha384:sJOrrmp_BqmRKC_uVB0gRLVoPK_rXQa17ZK0bGLXY7hO2snXzOVh2Bw10Of2YslY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Papa"
@@ -58,7 +64,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pero eso no justifica este tipo de comportamiento.  Tenemos que darlo un castigo apropiado."
+text = "Pero eso no justifica este tipo de comportamiento.  Tenemos que darle un castigo apropiado."
 type = "phrase"
 
 [[cards.sides]]
@@ -71,7 +77,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bueno, lo voy a dejar a tí."
+text = "Bueno, te lo voy a dejar a tí."
 type = "phrase"
 
 [[cards.sides]]
@@ -84,7 +90,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Que no, no vas a evitar la culpa.  Vamos a castigar a Sam juntos.  No quiero crecer un niño mimado."
+text = "Que no. No vas a evitar la culpa.  Vamos a castigar a Sam juntos.  No quiero crecer un niño mimado."
 type = "phrase"
 
 [[cards.sides]]
@@ -97,7 +103,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Pero no es como él comporta así sin razón.  Sí sus compañeros lo molesto, ellos también necesitan saber que eso no es aceptable."
+text = "Pero no es como él comportarse así sin razón.  Sí sus compañeros lo molestaron, ellos también necesitan saber que eso no es aceptable."
 type = "phrase"
 
 [[cards.sides]]
@@ -123,7 +129,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Tal vez tienes razón, pero me parece que si hay que dar castigos, todos involucrado los deben recibir.\n"
+text = "Tal vez tienes razón, pero me parece que si hay que dar castigos, todos involucrados lo deben recibir.\n"
 type = "phrase"
 
 [[cards.sides]]
@@ -136,7 +142,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Bueno, pues no voy a aceptar este tipo de comportamiento de mi hijo en cualquier lugar.  Sí es tan importante para ti que todos reciben castigos, tú puedes hablar con la administración a la escuela después de Sam esta castigado."
+text = "Bueno, pues no voy a aceptar este tipo de comportamiento de mi hijo en cualquier lugar.  Sí es tan importante para ti que todos reciban castigos, tú puedes hablar con los administradores de la escuela después de que Sam este castigado."
 type = "phrase"
 
 [[cards.sides]]
