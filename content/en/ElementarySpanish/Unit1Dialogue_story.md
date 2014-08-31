@@ -1,12 +1,12 @@
 +++
 title = "Unit1Dialogue story"
-contributors = [ "katyauchter",]
+contributors = [ "68.197.91.149", "katyauchter",]
 headings = [ "Phrase", "Audio", "Speaker",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Hola hijo. ¿Por qúe estas llorando? ¡Mira cuantos lágrimas!"
+text = "Hola hijo. ¿Por qúe estas llorando? ¡Mira cuantas lágrimas!"
 type = "phrase"
 
 [[cards.sides]]
@@ -22,7 +22,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Mi amigo en la clase no quiere hablar conmigo."
+text = "Mi amigo no quiere hablar conmigo."
 type = "phrase"
 
 [[cards.sides]]
@@ -35,7 +35,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Tienes que tener paciencia con tus amigos.  ¡ Te voy a dar un abrazo!"
+text = "Tienes que tener paciencia con tus amigos.  ¡Te voy a dar un abrazo!"
 type = "phrase"
 
 [[cards.sides]]
@@ -80,7 +80,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Normalamente, durante recreo, jugamos juntos.  Pero hoy, jugué con otro grupo. Y ahora, él no habla conmigo."
+text = "Normalmente, durante recreo, jugamos juntos.  Pero hoy, jugué con otro grupo. Ahora, él no habla conmigo."
 type = "phrase"
 
 [[cards.sides]]
@@ -109,7 +109,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Sí, bueno."
+text = "Sí, quizas."
 type = "phrase"
 
 [[cards.sides]]
@@ -151,7 +151,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\nMuy bién.  Tienes media hora antes de la cena.  Puedes montar la bicicleta. ¡Pero, cuidado por los coches en la calle!"
+text = "\nMuy bién.  Tienes media hora antes de la cena.  Puedes montar la bicicleta. ¡Pero, cuidado con los coches en la calle!"
 type = "phrase"
 
 [[cards.sides]]
