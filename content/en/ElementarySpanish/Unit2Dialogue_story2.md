@@ -10,8 +10,8 @@ text = "Hola Marco.  Qúe tal la fiesta de cumpleaños de tu amigo Alex?\n"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:xAnc2sqWVN08A2FR5LNZMbRogxowN2L5DaXAJ3havhZJgxfMSnLTJUGTrumcrEjl"
-href = "urn:sha384:iqhadTAuCd-3RBEzz6qS5IQaiXaZ1xV0Vv3VhLljhxbYoFLPozSS8Rdp2fr449Hb"
+blob_href = "urn:sha384:oTkBMaPUuVheOxu8i4misSbCdW1u7eR-KMcZR0vjBhHUE1ofr19uw-lNBR8GuTE-"
+href = "urn:sha384:2UBk3YWdgxBcgMdonanMB6BUbZWPCFkS8ShDJiO9u9hTqHSo95Eu5Fy-wUYK2syO"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -42,8 +42,8 @@ text = "Qúe hiciste?"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:TW46k-28J9JT715vYY_pJS8CsAx-aiRPGbFvup0EgouNk3EI_jgpN3vNKQuIj6QW"
-href = "urn:sha384:NjydEL6-hMaJ7VOKbKITIda4b1ZKNGaoilb0rEucbnCe8opBjfCUdwm7qKSas5Sd"
+blob_href = "urn:sha384:9XCgge5uVzpzsmOmLfuDxe_UO-gqap2KVOufim7xYVw0OZkpcDxfkVJHsKVQU-v7"
+href = "urn:sha384:umvO--Kl_m4mgis7kLwY7gJHr1Xhxu3HJxuXgykWPGxWCmcwervwIhG6oVOTjxUy"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -74,8 +74,8 @@ text = "Qué bueno, y comiste algo también?"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Gt-MNb75-a18YNMi0LThyYdYUZzL9glunFQSqqmO0FOjRaZe_wyZ8RNXiYVOjwRL"
-href = "urn:sha384:j1lwyVA4eVwQtE8P8pRlsC5G2LtlQ8vy7RivvO2mWYyS3QyTdLEbBoFodbx5DY8p"
+blob_href = "urn:sha384:3YVQ6rdoUUVV6oPWhMocZwaetULwqDiy36fJtBlK2wpScDMbV2kX1CZl_nqMQj-m"
+href = "urn:sha384:1axBpVDVH1KxNiwdf-9C_Jwvf9Gul9Ivld_w4Oi2b7v5vqgKfA1BbNhIXU6MdQpg"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -106,8 +106,8 @@ text = "Qué rico.  Y durante el día, ¿qué hiciste con tus amigos?"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:O8L1tjqIj9usIW57SMUVZEgXFGnzPUvdox5ly31uSmh6QMn2bo0RvXJ4QhOT5g7y"
-href = "urn:sha384:qxeHTtpV_sFB7AK-J8h4_vwUcXs2yBZvjgL2aijtknKo929p8xM2dMM12j1fVdUR"
+blob_href = "urn:sha384:LlIOFqDfUfwpqBr2PZOfHT18bPFiNlIRwYxx4yixHVKn2nV0SoqDLNOYkPrMwA3U"
+href = "urn:sha384:P0heU4I0S48BI6wdp5T_8dTsYxKQ46ajVA67RisTMgiMYSaZft2IwuCFgG0lrPWT"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -138,8 +138,8 @@ text = "¡Muy bién!  ¿ Y qúe tipos de regalos trajeron tus amigos?"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:FrQgcqkYMsbTp-DEhRqD70h99tRRmcNWzh2uPCZ5_mHI9uqe7E5uVR1sKev7NlNh"
-href = "urn:sha384:80awY691RsUvpVjpu0wLAf2aPLBnmwiMRlk05tf8ZgTnIO0HmZSKDMvOua7yCIS-"
+blob_href = "urn:sha384:mVtL_ORXcYaa441DbdE6fMK1oUrUAoYbNM6T8J8TxLleotQSRLZLLT_NG6gYvprr"
+href = "urn:sha384:SCLuhT1IF7GpW4l94n-PBX4iYp3d0ATh-5FavnEEdfOJR_WLeAqPjt599NUSER9w"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -170,8 +170,8 @@ text = "¿Y tú? ¿Compraste un rompecabeza también?"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:uf0R6YVaiuYIJ9ohlJBbaYDT1d9XKOyHYKUPtSHjtI3OpYyM3Npfsa_NGHil83Qb"
-href = "urn:sha384:aDASQdwv5quCsvsM0mxZbrwsxc0j37KhqCN-5ZEx2mi1elOGPURZMgcWa6pHQBYg"
+blob_href = "urn:sha384:zDcknrTkNQe06H4nXPepSTLG7S9PgolsuH1Wjgy9YKHeJrme-Z-uVNDZCJeYdP73"
+href = "urn:sha384:zlzUaJ4J7HUL6L0Ig19HhWkEg-k13Xw4axfoEyFLtluJerwT9BHb6ZjB0u2Uz3T_"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -202,8 +202,8 @@ text = "Y qúe pasó despúes del parque?"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:mD3y3TMLvNhygq0XpZDsiDQfZHM8ImJJG1Qbc4RDLiN3TqfE0HSDDB_V5JjlU80M"
-href = "urn:sha384:z9F5A-7C0ODll6Nf2-VGh5PPE796qXQnQudV53cDoHW_UF9V9DvinqIDiidSyjNw"
+blob_href = "urn:sha384:SEoBjqDzsF_39riERLM8F5LlwgJlBbfu_Kk9ySioeJKumFdjVPbDmc6A-5aRmHn8"
+href = "urn:sha384:D16pQW19Q_Bpw4gri3nnOD4nJVVAb9obnFAJI_MV1EXfIJwR25MkuFVs1Br9DB1c"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -234,8 +234,8 @@ text = "¿Y eso es donde comiste y viste la película?"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:MBz1pQZDzS-McF1qN1zGMgA92VSWT5ynxDp7c0PeSpVwbU_HPEWqYNhVZViVvIxo"
-href = "urn:sha384:PZ4C84FjmNKoITqwnxhjJtLKRACU4ceqIyUjte4ywQB9Amy6jbvpFKtJ3VVnaNME"
+blob_href = "urn:sha384:a8Vrprb3i2a9Wd8zrQZZ46ZiOqLZbXfDB1mygTW3FxG3yxVnEnciafUDqyETmlN5"
+href = "urn:sha384:SCcgpNNH1gtK3Zobc7RZ823p7xkOev_Rmag2u5PhJWeSL-1xCvn1kOCbIMtqKdaV"
 mime_type = "audio/ogg"
 type = "audio"
 
