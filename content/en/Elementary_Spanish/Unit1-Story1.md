@@ -1,12 +1,12 @@
 +++
 title = "Unit1-Story1"
-contributors = [ "katyauchter@gmail.com",]
+contributors = [ "katyauchter", "katyauchter@gmail.com",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "¡Ah! Que dolor! Porque no escuche a mami. Me duele muchísimo.  <br>\nMi mama me dijo que no jugara con mi bicicleta en la entrada de coches. "
+text = "¡Ah! Que dolor! Porque no escuche a mami. Me duele muchísimo. \nMi mama me dijo que no jugara con mi bicicleta en la entrada de coches. "
 type = "phrase"
 
 [[cards.sides]]
@@ -80,17 +80,6 @@ type = "empty"
 [[cards.sides]]
 text = "Ella pone su mano plana sobre mi boca. Canta, <<Sana, sana, colita de rana. Si no sana hoy, sana mañana. >> \nLuz verde rodea mi boca. Cuando la luz verde se va, también se va mi dolor. Como un hechizo mágico, el dolor se desvanece. \n"
 type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-type = "empty"
 
 [[cards.sides]]
 type = "empty"
