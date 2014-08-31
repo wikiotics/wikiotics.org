@@ -11,8 +11,17 @@ text = "avión"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:oqu_8b60-V97uEKfVXkmRFXzZPOhkTdomMEuCFI_etpO0qI9WlTFrjs7IG9x3ZzY"
+href = "urn:sha384:Vg85l8WvdxAvlUUZzYUa69o6bh-5_2S2c16PWE1DgPHK_0zKFvmcvZXE9gIM7G98"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (BriYYZ)"
+author_url = "http://www.flickr.com/people/40563877@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/40563877@N00/5091396377"
+title = "An Airplane Named Desire"
 [[cards.sides]]
 blob_href = "urn:sha384:Akc02Ui8tV91AUUyHt2uPYPSr9lENqxUQwOLxnSDxphbNk6U8gqzX9JKq6cLLVNE"
 href = "urn:sha384:j8Ub1TFX75793AHhWE5wJwRRpDj9j1nfvi8S5jMesFMkhehw4aN8gXctJGu0pnP0"
@@ -26,8 +35,17 @@ text = "bandera"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yj_YY1jgOJR0ZZTxDpCGxq5oXuTwHCb0UvhNfYuuF9T3inK3Sah0vbdm3aOLrEBU"
+href = "urn:sha384:CA1o9USSkoF_RNSektohNXFBQV_9OsI9gx-usebzX7qLsqdpK9Gs1uWsV7-B1cRI"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (el__vaquero)"
+author_url = "http://www.flickr.com/people/24982987@N07/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/24982987@N07/2414854343"
+title = "Flags over poppies"
 [[cards.sides]]
 blob_href = "urn:sha384:bYZy7qk7br__dOeaenUM8i1EmIb2H6Q7MjNvZttyiRaJbTcswaoRFNgrdSyXbxM2"
 href = "urn:sha384:Kkih_fRKk72HBrPFaddZgbKMsS_9dSJZSCrAomfcNY2ggCx4XC7lmFj9xSSijsc1"
@@ -41,8 +59,17 @@ text = "conejo"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:R7Wd71VSPNBsaehZPleegQ2EBEoUnHHnuY0l-4OOVDIoVxUs_y3YmSaO9jqkdtU-"
+href = "urn:sha384:aG-JXQm51xsY8LU7pVSBEGuNPByymtzLbHfcphBWxvrL905gjNjXeeCxLNcdwsq4"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (aussiegall)"
+author_url = "http://www.flickr.com/people/14516334@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/14516334@N00/3431275844"
+title = "A visit from the Easter Bunny"
 [[cards.sides]]
 blob_href = "urn:sha384:QtyVEh2re5BRQrMXTPIG_EUeAxfQo2AJyO15k0sCsER4IyY1d9dwzhMdE5IF5FmJ"
 href = "urn:sha384:kAX_0G7CuMXrMhEvnOZw7dSua_o7GfTCkkDoSKmWdr1pyHuNNcywD62LbPyn0o__"
@@ -56,8 +83,17 @@ text = "cepillo"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EnXfelxXMbL3F1DBjDIEd0oEleNCccy8aj1bECr-enPqTIUXH3tYooDP-Ou5Hk6O"
+href = "urn:sha384:71y_lHgQYAjBcSqdYY8zlMomb74aHXpbBgIX_Y_yt_2-Fe0rQ6-_gb3H4qN3HS_C"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Klaus Post (sh0dan)"
+author_url = "http://www.flickr.com/people/12191709@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/12191709@N00/92782973"
+title = "Hair brush 2"
 [[cards.sides]]
 blob_href = "urn:sha384:_KvEyYdMdBtxaqglv-HA2H6Fg7CCHQLyqSuQJojkvrfG8JzwnHYidV9gQpWdY-UF"
 href = "urn:sha384:M16B1ewHq-EVSi0yYgQwIVcrt_1yZ8q2wT_nC9Da8XPxxO2zedFu-NTl2Xbfu_oo"
