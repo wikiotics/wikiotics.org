@@ -217,21 +217,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "La luz"
+text = "La cortada"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:UC3d1claJUKeHvSLE_gMZnZnq9tkE7PlaNATU9Xx4OwGfx0Y7eWEOwsjYCNyEj5M"
-href = "urn:sha384:qiHzD61s0ckfoBE9OPDKDmA9jaBplPruYqrCMSZCuUlMKNps3zbqv-2ltCJXw8hg"
+blob_href = "urn:sha384:-qku0qkMhCLLcbLB2z4rckohNR8sxidFJFI_UzWBivDVEfiyi3RSisvwVZIQUniL"
+href = "urn:sha384:7gLpH2F_fqGeezEnsyrrQIUM2RWE3tREceYaw500HJOnbhMDDTZgGpGapfkKuXij"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Kevin Dooley (kevin dooley)"
-author_url = "http://www.flickr.com/people/12836528@N00/"
+author = "Steven Depolo (stevendepolo)"
+author_url = "http://www.flickr.com/people/10506540@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/12836528@N00/7330119620"
-title = "Light bulb"
+original_url = "http://www.flickr.com/photos/10506540@N07/6463150195"
+title = "Cut Finger Macros December 04, 2011 2"
 [[cards.sides]]
 type = "empty"
 
@@ -322,21 +322,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "La cortada"
+text = "La luz"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:-qku0qkMhCLLcbLB2z4rckohNR8sxidFJFI_UzWBivDVEfiyi3RSisvwVZIQUniL"
-href = "urn:sha384:7gLpH2F_fqGeezEnsyrrQIUM2RWE3tREceYaw500HJOnbhMDDTZgGpGapfkKuXij"
+blob_href = "urn:sha384:UC3d1claJUKeHvSLE_gMZnZnq9tkE7PlaNATU9Xx4OwGfx0Y7eWEOwsjYCNyEj5M"
+href = "urn:sha384:qiHzD61s0ckfoBE9OPDKDmA9jaBplPruYqrCMSZCuUlMKNps3zbqv-2ltCJXw8hg"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Steven Depolo (stevendepolo)"
-author_url = "http://www.flickr.com/people/10506540@N07/"
+author = "Kevin Dooley (kevin dooley)"
+author_url = "http://www.flickr.com/people/12836528@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/10506540@N07/6463150195"
-title = "Cut Finger Macros December 04, 2011 2"
+original_url = "http://www.flickr.com/photos/12836528@N00/7330119620"
+title = "Light bulb"
 [[cards.sides]]
 type = "empty"
 
