@@ -153,8 +153,9 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:qze6nbfdVDIH8JzdS2FYdcNCk-laRMsr2oK-QA1dGc5dhOyY6nJ4-ncQbhIENgsc"
-href = "urn:sha384:1F8ueEqPrgWRA7gb6yUmUw1m_Ys6c-MwzTLd0Vlf587-nEr0dSWNhOgTUuWsBoD7"
+href = "urn:sha384:x8_D0Y9C0DTQ8ebDfsbw-6HxiuIr209dbk3336VWTDNtnNMcT14gvVTCT6hizNQA"
 mime_type = "image/jpeg"
+rotation = "90"
 type = "picture"
 
 [cards.sides.credit]
@@ -182,8 +183,14 @@ text = "\nMi papa le escribe cartas cuando regreso a los estas unidos. Mi mama l
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TlwyRR9DAsR3rflqNWfxPOkEOKLO-_1TYUREraxq6xTd7lPHEFur86GPiiyW3tqM"
+href = "urn:sha384:bgWku2y0G7gHVYfxqwzwnqmwW5HhIKfs_zh63-3cj7WF4zNKCR-oSDCuxJrab4b8"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "katyauchter@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
