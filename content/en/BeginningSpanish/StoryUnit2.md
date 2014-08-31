@@ -30,7 +30,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Mi iglesia es La Virgen de Guadalupe.\n(Huge Virgen Mary)\nMi mama y papa nacieron en Michoacán, México. Compraron una casa en el Este de Los Ángeles porque los recordaban de México.\n"
+text = "Mi iglesia es La Virgen de Guadalupe.\nMi mama y papa nacieron en Michoacán, México. Compraron una casa en el Este de Los Ángeles porque los recordaban de México.\n"
 type = "phrase"
 
 [[cards.sides]]
