@@ -1,7 +1,7 @@
 +++
 title = "Dialogue3.2"
 contributors = [ "68.197.91.149", "katyauchter",]
-headings = [ "Phrase", "Audio", "Speaker",]
+headings = [ "Phrase", "Audio", "Speaker", "Side 4", "", "", "",]
 type = "lesson"
 [[cards]]
 
@@ -10,11 +10,26 @@ text = "Hola Niki. ¡Hoy es viernes y tenemos muchas cosas que hacer este fin de
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gxjfc4ST47rBvFw5IVmiuS1ZU8TQ1aajWh8AksxucorCUVDaspO7uS0TENb_Pg40"
+href = "urn:sha384:GponBY8NNZMeVLcBcoKyfHBcFncNYgAWDS-Mn4RcYPjIn9dHL65PkFBooVdVYUsc"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Mamá"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -29,6 +44,18 @@ type = "empty"
 text = "Niki"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -36,11 +63,26 @@ text = "Oh que lastima; pensé que podríamos ir al parque aquatico, pero si no 
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:koQSw-HZMhssI3VJITmgszLwcrVm0B9aEeY2QZ1nL94frKeNLucoi4oB60dZSo9i"
+href = "urn:sha384:UPQV_4PUckKF9WYIsTT3XBOGNgENvGHRHm6z1uckqw3s1haK2QrYFqdVGSLfC-kV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Mamá"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -55,6 +97,18 @@ type = "empty"
 text = "Niki"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -67,6 +121,18 @@ type = "empty"
 [[cards.sides]]
 text = "Mamá"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -81,6 +147,18 @@ type = "empty"
 text = "Niki"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -94,6 +172,18 @@ type = "empty"
 text = "Mamá"
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -106,11 +196,35 @@ type = "empty"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
 text = "No importa que rapido las puedes hacer. Tienes que hacerlas rigorosamente.  Sí las haces lentamente, es más probable que las vas a hacer mejor."
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards.sides]]
 type = "empty"
