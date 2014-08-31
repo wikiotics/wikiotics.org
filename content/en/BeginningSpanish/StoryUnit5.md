@@ -6,7 +6,7 @@ type = "lesson"
 [[cards]]
 
 [[cards.sides]]
-text = "Hoy es un día muy especial. Los estudiantes van a compartir sus decursos para presidencia. \n\n\nCada clase votan por un presidente. Votar es escoger. Escogemos quien queremos para nuestro presidente de clase."
+text = "Hoy es un día muy especial. Los estudiantes van a compartir sus decursos para presidencia. \n\n\nCada clase va a votar para un presidente. Votar es escoger. Cada clase va a escoger quien quieren para su presidente."
 type = "phrase"
 
 [[cards.sides]]
@@ -18,7 +18,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "No todos los niños tienes que compartir un decurso. Solamente los niños que quieren ser presidente. \n\n\nYo quiero ser presidenta. Quiero cambiar muchas cosas cuando yo sea presidenta. "
+text = "No todos los niños van a compartir un decurso. Solamente los niños que quieren ser presidente van a presentar.\n\n\nYo quiero ser presidenta. Quiero cambiar muchas cosas cuando yo sea presidenta. "
 type = "phrase"
 
 [[cards.sides]]
