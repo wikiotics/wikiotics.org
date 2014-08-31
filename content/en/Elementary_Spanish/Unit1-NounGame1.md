@@ -179,17 +179,17 @@ text = "La mano"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:bMKmLOAi5wyqh0_3iUb6deOt-OMSoQSrLgDqqZ_8NuusPuIeiQoo8pYZxao2uxCi"
-href = "urn:sha384:dWGdhNDmMWaW5WqNLR4rAKIY2GA8LpcgxW4YtY4giYjzSL65E4aU8AzybeKhMUts"
+blob_href = "urn:sha384:KcIwDiFuiKU6WnYlAMkY2bza54aRiERQIjBHAPuZdaiSjfJarIeOow2KCzjN_vLP"
+href = "urn:sha384:AfpDwcDMIR3qbup9v2jjRDENznP1GxiX3u1sxC4mFGQLlYRuAHz32O4myUOMC0NH"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Lukas Zeitler (Lukas Zeitler Photography and Art)"
-author_url = "http://www.flickr.com/people/126849713@N07/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/126849713@N07/14922478066"
-title = "Tobi's hand"
+author = "Lorena Morales (tox_poe)"
+author_url = "http://www.flickr.com/people/127203289@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/127203289@N02/15037479225"
+title = "Hand"
 [[cards.sides]]
 type = "empty"
 
