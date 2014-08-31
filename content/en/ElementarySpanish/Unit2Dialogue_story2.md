@@ -122,8 +122,8 @@ text = "Pues, la fiesta fue una sorpresa, y nos encontramos todos en el parqué 
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:odMM-8AMXQlwXNtzHUTcWyOLBLbrE36uzMGOBymaIpMk58i9lheQSPImgT8FjlY6"
-href = "urn:sha384:YrSqljxILQHMSL6SfiBk5yMWT2569gW9MT1bE_V3N_1sLCaxsxR1T-QHb1X_E4Ie"
+blob_href = "urn:sha384:VRVvrdtPHk59feVu4W4-bRoQoS87Zc2qRZ5qvsXjeBK4G6kN-EQ8Jfj5_RiOv38V"
+href = "urn:sha384:Ml3LLYqm9UByYbJY9z1azWwJLOGaJxX4vcijLxg3u6NjNVPHitJVxTaiGSDoqg7r"
 mime_type = "audio/ogg"
 type = "audio"
 
@@ -154,7 +154,10 @@ text = "Bueno, Alex quiso rompecabezas (puzzles), y por eso, la mayoria de nuest
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ViRzOHhMeqksVwXDa2-D6anE5OMVTaOa6wbGCNPcIvnxrz4uk0307cdeE5UxhBsc"
+href = "urn:sha384:dk8MkQeZN0-89Gx-1XR00lsK_Mzq4QAgaQxadlnzClkzEgHL0vov1tS6X8Kbf9my"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Marco"
@@ -179,11 +182,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Sí, y Alex la gustó mucho."
+text = "Sí, y a Alex la gustó mucho."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:SKSMQ2A4YV22DDD_2vp0IG_EqZ0XRYucAAWm1OzONApS69kFMJAusZXmZ_v_oxEK"
+href = "urn:sha384:60t-HVeVUglRJkXtj7okxGq-eSCWL5b1odYLPCJoNMp0TQewQllmsmsHiPzFFEOV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Marco"
@@ -212,7 +218,10 @@ text = "Bueno, estuvimos al parque por unas cuantas horas, y después fuimos a l
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HOWUuBic_Lg8Gw62rFnizzBN3jH4u478Fu6NJY66H_76WSBl5DZPUuzGwjqn88fj"
+href = "urn:sha384:5zJwy6LJMEVsmbj_WNO2qcRktj_MrRT7-hgvDGyd0J332GNH6_2snbSe7CRW3g4S"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Marco"
@@ -237,11 +246,14 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Sí, escuchamos a música y bailamos, comimos, y al final miramos una película.  Fue un día muy divertido!"
+text = "Sí, escuchamos música y bailamos, comimos, y al final miramos una película.  Fue un día muy divertido!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:tQVIfbeDg3-sR-mnFNU7hgw4VL0VvoYK2Sh18aYSGZ4f7LktdVxVdB81oHPbyhXh"
+href = "urn:sha384:piNeGX30xfW7HIHRry0CXtyVP0ohMkY9SdBSrfXFiOv7x6QLSeh1dY2aFYewfp4N"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Marco"
