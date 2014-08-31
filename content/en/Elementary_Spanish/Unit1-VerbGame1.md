@@ -1,6 +1,6 @@
 +++
 title = "Unit1-VerbGame1"
-contributors = [ "47.18.214.151", "katyauchter",]
+contributors = [ "47.18.214.151", "ian", "katyauchter",]
 dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -29,8 +29,17 @@ text = "Me duele la rodilla.\n(dolor)"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:-vkixWhxu4wyAfE181tmXSkKkg0wKUspj1XFX0FUpoQ2R33Dr7PWTjBn_hMQBRPT"
+href = "urn:sha384:nMbHfoH2zoDpeiz1pmkacCFeGd0M0x4OJnN4fYeBhwSXSJ8aJzSe6WL_o5bZLQcM"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Ed Schipul (eschipul)"
+author_url = "http://www.flickr.com/people/16638697@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/16638697@N00/3072657465"
+title = "plasma brakes"
 [[cards.sides]]
 type = "empty"
 
@@ -149,8 +158,17 @@ text = "Yo quito la ropa antes de ducharme.\n(quitar)"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xVh9mQPJXNV78cFQi_10EKYJboFYIY2FRSeG0z9A1xAfEzR0GhP2SpB6U3vif8e7"
+href = "urn:sha384:1uO4UKV50GNCM80jrD3zgJR8TXxXIHBdbyNqXJVtc58rZMzHaYKNJzzyYF6ziXZ9"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Eleazar (Por mi tripa...)"
+author_url = "http://www.flickr.com/people/76954235@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/76954235@N05/6923018195"
+title = "Backstage of my life."
 [[cards.sides]]
 type = "empty"
 
@@ -251,8 +269,17 @@ text = "Él pone la mochila en la silla.\n(poner)"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:o-pLyvg-nxZozee-EXwGUQmHMASzdatei8sZTy5yPa3LNqBTaHC7EJ4Ku7Crb8zd"
+href = "urn:sha384:DlJnJFTRZjbS3NUzTjRRC6aG5TyQOKdPbM2keJDPdAbjvaiofNWmSCxmJF_pOy1f"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "H Asmus (ClearlyChosen)"
+author_url = "http://www.flickr.com/people/39739504@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/39739504@N08/3771369856"
+title = "002 - Happy Tree felt bag"
 [[cards.sides]]
 type = "empty"
 
