@@ -18,7 +18,7 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Wǒ yě méi yǒu gēge，wǒ yǒu yī gè dìdi."
 type = "phrase"
 
 [[cards.sides]]
@@ -39,7 +39,7 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Wŏ méi yŏu jiĕjie, yŏu yī gè mèimei. Nĭ ne?"
 type = "phrase"
 
 [[cards.sides]]
@@ -60,7 +60,7 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Wǒ yǒu yī gè jiějie, méi yǒu mèimei. Nǐ yǒu gēge dìdi mǎ?"
 type = "phrase"
 
 [[cards.sides]]
@@ -81,7 +81,7 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Méi yǒu. Nǐ ne?"
 type = "phrase"
 
 [[cards.sides]]
@@ -102,7 +102,7 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "Wǒ yě méi yǒu gēge，wǒ yǒu yī gè dìdi."
 type = "phrase"
 
 [[cards.sides]]
