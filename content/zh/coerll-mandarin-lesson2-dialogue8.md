@@ -11,7 +11,10 @@ text = "你有姐妹吗？ 有几个？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:KAgLlbK4fhxeG55imVxF6P_X7qsXIlhnRreedXcn_dzdFrnKOIU0oC_eRD1pBDdv"
+href = "urn:sha384:TqRBL8gsu3g5Ne1EsFkdBhWmtUOC3aL-AegH0w47JvPSi3sWFrBLyEfHdy0q7S0h"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -32,7 +35,10 @@ text = "我没有姐姐，有一个妹妹。你呢？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:i9jy5eSm6mNn-xQTPwFsAgawGwBXHUV4V6LuZz_iMaWUYmmkc24B4y95a80Ar2RE"
+href = "urn:sha384:cfdAlMs_hRyz_G7C4I6zpLmbOr53JIUDdaDaj1jegpEmL-W91tDRtlq9LWXErD0I"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -53,7 +59,10 @@ text = "我有一个姐姐，没有妹妹。你有哥哥、弟弟吗？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:2pjzNCqvfCcEU7vUTgrFJZRuDvwG0Hfo9LEvZVSHljZrlRcODJK4dZQdjQWj8ERE"
+href = "urn:sha384:hlR4pUYSC1wd6O1Y5Z8EGdAV01xm24fZmNNRxK8rxvgqCFGOSaNQLRD3SwrK8qNy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -74,7 +83,10 @@ text = "没有。你呢？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:MbJXqmSJJTcwUE_K4C7pPKXF59c_D3z0Gg3gRPmOps-Y92133hOXmCWLU88sEgC8"
+href = "urn:sha384:Yhay599r-_AWZ2E3Z6fjMmlZgDgvrkP0CIl5lvIgu937GEE78xKpZ12Q8Sqju9pJ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
@@ -95,7 +107,10 @@ text = "我也没有哥哥，我有一个弟弟。"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:helBt6dIRUQcF4DF1lkGHAL_GEeSwlQk3dAfMfEVlNOlKYf5zX1mMiZh9PQ58QpE"
+href = "urn:sha384:43zy7416YFP25PsSfmXAz0h0Pm2W17OepXvwCz8VmiYmQQsBoXK0yy8toRlkV7N1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
