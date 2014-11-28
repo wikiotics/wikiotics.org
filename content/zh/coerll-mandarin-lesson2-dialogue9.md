@@ -11,7 +11,10 @@ text = "你贵姓？"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8X5SzbcaqDlgZWKwCoWL0QRjf0SOw4bCaXoq1D9pLVfMufc1LGmvt2jBP79kecby"
+href = "urn:sha384:-6QbAdo9IU2x75aMvFZUZ4W7TjRKyv2kKYfltQYwCtA8-CNilqxK_fdgOrXuWTw3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
