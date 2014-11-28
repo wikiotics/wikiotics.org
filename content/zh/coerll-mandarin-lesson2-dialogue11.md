@@ -17,7 +17,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = ""
+text = "female"
 type = "phrase"
 
 [[cards.sides]]
@@ -41,7 +41,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = ""
+text = "female"
 type = "phrase"
 
 [[cards.sides]]
@@ -65,7 +65,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = ""
+text = "female"
 type = "phrase"
 
 [[cards.sides]]
