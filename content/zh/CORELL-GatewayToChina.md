@@ -4,7 +4,8 @@ target-languages = [ "zh",]
 +++
 
 Mandarin lessons broken up and imported from the CC-BY podcasts
-available at CORELL [Gateway to China]().
+available at CORELL [Gateway to
+China](http://podcasts.coerll.utexas.edu/collection/chinese-dialogues/).
 
 [Dialogue 8](http://wikiotics.org/zh/coerll-mandarin-lesson2-dialogue8)
 
