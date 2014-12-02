@@ -1,6 +1,6 @@
 +++
 title = "coerll-mandarin-lesson2-dialogue8"
-contributors = [ "73.177.202.9",]
+contributors = [ "73.177.202.9", "74.65.195.122",]
 headings = [ "Phrase", "Audio", "Speaker Gender", "Pinyin", "English",]
 type = "lesson"
 target-languages = [ "zh",]
@@ -117,7 +117,7 @@ text = "male"
 type = "phrase"
 
 [[cards.sides]]
-text = "Wǒ yě méi yǒu gēge，wǒ yǒu yī gè dìdi."
+text = "Wǒ yě méi yǒu gēge, wǒ yǒu yī gè dìdi."
 type = "phrase"
 
 [[cards.sides]]
