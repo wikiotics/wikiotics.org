@@ -1,6 +1,6 @@
 +++
 title = "Unit1-ConjugatedVerbPractice Story"
-contributors = [ "katyauchter",]
+contributors = [ "82.244.50.235", "katyauchter",]
 dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Prompt", "Answer",]
 type = "lesson"
@@ -101,7 +101,7 @@ text = "Verb Soplar:\nPronoun: Ellos"
 type = "phrase"
 
 [[cards.sides]]
-text = "solpan"
+text = "soplan"
 type = "phrase"
 
 [[cards]]
