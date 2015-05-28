@@ -1,6 +1,6 @@
 +++
 title = "coerll-mandarin-lesson2-dialogue8"
-contributors = [ "73.177.202.9", "74.65.195.122",]
+contributors = [ "128.138.65.44", "73.177.202.9", "74.65.195.122",]
 headings = [ "Phrase", "Audio", "Speaker Gender", "Pinyin", "English",]
 type = "lesson"
 target-languages = [ "zh",]
@@ -73,7 +73,7 @@ text = "Wǒ yǒu yī gè jiějie, méi yǒu mèimei. Nǐ yǒu gēge dìdi mǎ?"
 type = "phrase"
 
 [[cards.sides]]
-text = " have one older sister; I don’t have younger sisters. Do you h\nave brothers?"
+text = "I have one older sister; I don’t have younger sisters. Do you h\nave brothers?"
 type = "phrase"
 
 [[cards]]
