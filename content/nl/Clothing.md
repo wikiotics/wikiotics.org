@@ -264,8 +264,17 @@ text = "de laars"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Iq5VapXtf8BrjZuIE-hTrEOBeU3FLz1Egn005OoqdMTHJ5UtQ__YTRdbSGqjPvA3"
+href = "urn:sha384:n4DxEi9xFTapMeq3mtk7lwf04H32o6T8OU97mW9mKgJgZBDltLJA5HE_GRPy1Jos"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "SPERA.de Designerschuhe, Taschen und Accessoires (spera.de)"
+author_url = "http://www.flickr.com/people/130010866@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/130010866@N02/16649143025"
+title = "Michael Kors Aileen Riding Boot Stiefel 40F4AIMB7L Kalbsleder schwarz (3)"
 [[cards.sides]]
 type = "empty"
 
@@ -276,8 +285,17 @@ text = "de schoen met hoge hak,\nde pump"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:RuX-Xw19HOC-pr5-_74SKCIT0WjJ7Fd47ys92qQ8cJsQA8PpXC77kfPHZJEYCnw8"
+href = "urn:sha384:SejDGyal4OnFen0xHl1J9ZkhTfSVwP8w7M7JOQhrRY92yqvRQGxDwIK1eMC7iS61"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Cheryl (EraPhernalia Vintage . . . [''playin' hook-y''] ;o)"
+author_url = "http://www.flickr.com/people/28510393@N07/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/28510393@N07/3134882958"
+title = "\"JULIUS GARFINKLE\" brown leather pumps heels"
 [[cards.sides]]
 type = "empty"
 
@@ -288,8 +306,17 @@ text = "de shorts, korte broek"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wmMizx5J3rUXhickTypc0Fz8eHZzrBEQR3hv5iUVBY97BL01FslX9Fj_E1qsY50F"
+href = "urn:sha384:bMoGE1ypL7o1zPl8ixRgSGftq3P-sqweGWprJkPcaF_cGm0Fsn6v_Vak8KPUIMwx"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Hotlanta Voyeur (HotlantaVoyeur)"
+author_url = "http://www.flickr.com/people/33591211@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/33591211@N04/14336518665"
+title = "DSC04246sq"
 [[cards.sides]]
 type = "empty"
 
@@ -300,8 +327,17 @@ text = "de das, \nde stropdas"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:N_km78QxpRZgsgeSZoNU45SO5zD7nZmGWLBQNyEt2dmOHPW-N1wwvi_DFAuxGeFX"
+href = "urn:sha384:9qBU9IIwf0XhJfXfxzz11O3_m6AWG4KZGh0iTk0Kbm0zfXDUnPGgaf7F-7jAUD72"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Jason Eppink (jasoneppink)"
+author_url = "http://www.flickr.com/people/38102495@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/38102495@N00/317415954"
+title = "Duct Tape Neck Tie"
 [[cards.sides]]
 type = "empty"
 
@@ -312,8 +348,17 @@ text = "de riem"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7RNWwRcs-DzNx5QmGns9QTOsqEyJi3uDN_ATRb8U12TPFJzAGcs9DGRsu4pJnpU0"
+href = "urn:sha384:opYJc1OkA2CJgN1ZnQS1JXbKYrg-0HY17i81XY0_4gnh54zvGoLwx8CH2jDVTFfg"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "InExtremiss (InExtremiss)"
+author_url = "http://www.flickr.com/people/47896503@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/47896503@N06/5039696482"
+title = "C9 - TOKIO BELT"
 [[cards.sides]]
 type = "empty"
 
@@ -324,8 +369,17 @@ text = "het jack"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:r0Pq_WeOPcWiOMiHmNbWlHEAGsAxv_3b43Qq1mQeGRw_sGE_oWxfpVwXRz1gNAAN"
+href = "urn:sha384:1WoWUUStTNxcUEEsqQqPRnWOxYc19HK6CDaqYn-xPLvmxub1D-GBp1EB896BTsz5"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Tomas de Aquino (warrantedarrest)"
+author_url = "http://www.flickr.com/people/90235707@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/90235707@N00/75860910"
+title = "Easton Men's Baseball Sport Jacket"
 [[cards.sides]]
 type = "empty"
 
