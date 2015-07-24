@@ -390,8 +390,17 @@ text = "de jas;\nde regenjas"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jORI2OWZ1Z3OIojTvsvB4xLeiGnZ35AYhJEQbOjdbdNlkfbiUoU2RG1U9eoCvrNV"
+href = "urn:sha384:qn69NVfpM-vl3E_5PuFC6mW-KzPcER1pnrPHAWlTLsgVkZCWGcxSAmbKv7Fx_emK"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "inger maaike (ingermaaike2)"
+author_url = "http://www.flickr.com/people/17293359@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/17293359@N07/9407835345"
+title = "Raincoat"
 [[cards.sides]]
 type = "empty"
 
@@ -402,8 +411,17 @@ text = "de pet"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wNNYdUDTaAaOckYhXpunBoruKXiU-uOU7NtaF8CQOkcfiqudz5afC42ojQ6VF-Hw"
+href = "urn:sha384:fPWrL7YUDZS30DQVSi329a8T-OeGMNvhXUIaDnVwJFBcITAjUy-KM_35dNE9h8gp"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (McArthurGlen Designer Outlets)"
+author_url = "http://www.flickr.com/people/93153549@N06/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/93153549@N06/17927289139"
+title = "DesignerOutletSalzburg_Gaastra_Cap dunkelblau"
 [[cards.sides]]
 type = "empty"
 
@@ -414,8 +432,17 @@ text = "de das, \nde sjaal"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dfZ7T1_bXwmg333AIIY7_9ypTL4t4JEBX_Ctllnp_DMggyQgKYqLXrWzEykZr8Mr"
+href = "urn:sha384:XK9t4XcRVs-89t2rCfUPwHfWYa8p61xbSRA4ODfbxY2m6R-LR_8Uc-pt1z_qe4G7"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Kim Piper Werker (kpwerker)"
+author_url = "http://www.flickr.com/people/64693558@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/64693558@N00/3324182556"
+title = "Love the Ugly Scarf"
 [[cards.sides]]
 type = "empty"
 
@@ -426,8 +453,17 @@ text = "de handschoen"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:QtAuUtqwZln119BulmaF34cN5fq2Sv3A_Swz7OPgHuUBboanAfj8oM-iAxiMT7Ug"
+href = "urn:sha384:Stny0bSLoC8J0keNYooSxtLXy3Pgqeq74TKIHZIpKTz780rZ2b4pSzEdsqjnyUIB"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (Program Executive Office Soldier)"
+author_url = "http://www.flickr.com/people/40633065@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/40633065@N07/4997101960"
+title = "Intermediate Cold Wet Glove (ICWG)"
 [[cards.sides]]
 type = "empty"
 
@@ -438,8 +474,17 @@ text = "de muts"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1QA2dEP2KqmOo5Kja3u4CpOomG-Cr-NC69JWDvN9y3tehi185UyN_rAh9dVuAf-g"
+href = "urn:sha384:5hBbIovDLWAi3jsXkvmzwUxKNInhKNL5XpTpyEgsESomK2D3NU9BLcAbsqML-mrq"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Aine (Aine D)"
+author_url = "http://www.flickr.com/people/48600087038@N01/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/48600087038@N01/5434990856"
+title = "Hat #36"
 [[cards.sides]]
 type = "empty"
 
@@ -450,8 +495,17 @@ text = "de jas, \nde mantel"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:SV3L7Cf7HHLQLjaw8p2MVR1RZCzkEC8tynt81rZS6Q9tuLmXlsxQI2yiZobHmIgv"
+href = "urn:sha384:1eU6bBRAyFeOSpsR59X-a2fyFtTXXV9y0KTwo82MqgAo9sbpPwvwh4mySDjZkU2B"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (CastawayVintage)"
+author_url = "http://www.flickr.com/people/44483053@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/44483053@N05/5392414268"
+title = "capes 354 copy"
 [[cards.sides]]
 type = "empty"
 
