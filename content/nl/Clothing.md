@@ -96,8 +96,17 @@ text = "de spijkerbroek"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vuM-dywWEHQO1rSRJ2nJUe55a3uwPKi7uT90c1p19A-6XMgjkJRVbOoPKaJVcIB8"
+href = "urn:sha384:XBWcDur3F9frr-6n4eAPq3jK8QNFCUyNLU6eTYUt33BVsJK29eZ8aAXHzG_JB1gR"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Kenneth Lyngaas (buddhjeans)"
+author_url = "http://www.flickr.com/people/52779076@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/52779076@N02/6158205022"
+title = "buddha jeans loves Levi's, his own pair"
 [[cards.sides]]
 type = "empty"
 
@@ -108,8 +117,17 @@ text = "de schoen"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Tq-uqR62qEyUObVjGd5bON2c3GlbCXp4Rq8eBsPCyPj6-eT2PN3R1Yh0v9Yid795"
+href = "urn:sha384:2GDMgwvl_T9LZqLxh_9gE1EkULpN8uhHWxPxEQTxNPRdALikkLJrewsiFNA6xevp"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Robert  Sheie (Robert Sheie)"
+author_url = "http://www.flickr.com/people/85546319@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/85546319@N04/13973180424"
+title = "Bontoni Oxfords"
 [[cards.sides]]
 type = "empty"
 
@@ -120,8 +138,17 @@ text = "de sportschoen"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jNg_2l1T-Emfo0N1GFpXCI0AFaOJxGAqDNAJSyoYWIEigKxsZ05zYsVAfMFTJuBm"
+href = "urn:sha384:fxNsePJuEqr_3D8z636M7q7cG2QFKqklUVH42moGpozPFPPbr5YAv8PJVClB3BsU"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Peter Massas (harmonica pete)"
+author_url = "http://www.flickr.com/people/23505652@N03/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/23505652@N03/6230693577"
+title = "Sneakers"
 [[cards.sides]]
 type = "empty"
 
@@ -132,8 +159,17 @@ text = "de blazer, \nhet jasje"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lzZYStDFwB93w7Ol8AI0dLBaxwsRKnrAmYvs82RnhxpGkWraFd5zTiML99UmK3zS"
+href = "urn:sha384:Fb8PR-rXPb3QNwdKChPQJ-I5NvnUTfBP5yPELaodFeQ1kY0mKDceGtplILYHyfiz"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Maria Morri (Idhren)"
+author_url = "http://www.flickr.com/people/9248805@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/9248805@N04/9663071295"
+title = "trying on super great leather jacket 2"
 [[cards.sides]]
 type = "empty"
 
