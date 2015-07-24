@@ -180,8 +180,17 @@ text = "de jurk"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:OAvr330hF-J39IJNkLmcOhVnwTDUjkuSyJgZhJvPfSj0QLcQtiPmEOmnL41hvdmw"
+href = "urn:sha384:bauTfvxpfoGg5HT2x5m7wDjLECBzVikVYy527YaEtR2zlLtX1QRd9I3b0EUBZpa6"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Bess Georgette (Bess Georgette)"
+author_url = "http://www.flickr.com/people/46724642@N07/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/46724642@N07/8637994027"
+title = "1950s 'Water Rose' brown, blue and green floral dress with ric rac trim"
 [[cards.sides]]
 type = "empty"
 
@@ -192,8 +201,17 @@ text = "de rok"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:bC-I_cl1CPCbiV4-8aRGk-zD6sagsO0Y4tTLF14WRg96w1HerqLo_nJxFX1aViyR"
+href = "urn:sha384:TZbCOqCrjoEzuNyxdsGb-Yed_veum8txbc8QUIghNKJ6uBPouYmZ3IVYa-idi-J_"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Global Panorama (theglobalpanorama)"
+author_url = "http://www.flickr.com/people/121483302@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/121483302@N02/14582824731"
+title = "1980s ‘Hot Flamingo’ pink tropical floral full pleated skirt"
 [[cards.sides]]
 type = "empty"
 
@@ -204,8 +222,17 @@ text = "de blouse, \nde bloes "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:AdSzyzV2nMl1CH9wMKLkbopGa_sZagaslDSuM-T3Hv0tK4L0z3BEwtLtA_HN0klD"
+href = "urn:sha384:TwPU9Ejfw2O6DPkFvYGvgjV0PQ_YHg_e79ldPRSS8CTBsFto6sE_5wh8yhHZsSJg"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Bess Georgette (Bess Georgette)"
+author_url = "http://www.flickr.com/people/46724642@N07/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/46724642@N07/8873314666"
+title = "1970s 'Sheer Scarlett' red secretary blouse by Renoma of Melbourne"
 [[cards.sides]]
 type = "empty"
 
@@ -216,8 +243,17 @@ text = "het vest"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:bGjzyjkPGIxO9528udRU3tcKYIoii0brSak2L68fUj7m_cvgcXVJi9IcOUKTwr5a"
+href = "urn:sha384:5VtBwkEmPTl7I2hhxPg600Rih2XyMZ0ZXq_X_2IouKCrwfwh8URXvqvirjyTKHrH"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (kibun)"
+author_url = "http://www.flickr.com/people/23426648@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/23426648@N00/2796128962"
+title = "UAS W/C/PU H/B ALT VEST"
 [[cards.sides]]
 type = "empty"
 
