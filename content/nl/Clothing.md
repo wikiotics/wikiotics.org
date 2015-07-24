@@ -75,17 +75,17 @@ text = "het overhemd"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:xyCcBMn2Fs5fVo6hEhJVuPZUX6zy5pF0HgkdSy4jQzSWv-B_ENTXgA9kduydQKyX"
-href = "urn:sha384:YkI45vxilrVZWxIU73sFd-lgdB8h2aFgxyRY2sVRyQciz22x4THwvLQTJ86VeNJq"
+blob_href = "urn:sha384:tTw7amx2-NtcdWXtK9lcTgcPVQ_5sbeaFdUHFaBr-uHbXJTRQGOtgnmvyMP1qTVa"
+href = "urn:sha384:l4Rsial8dKb43Lt0VDgRKCMBPez7evmc6Kts6DtEEgqp716MwImDOEFDsyXjBQTF"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Robert  Sheie (Robert Sheie)"
-author_url = "http://www.flickr.com/people/85546319@N04/"
+author = " (jenelleconner)"
+author_url = "http://www.flickr.com/people/85720386@N03/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/85546319@N04/15685711863"
-title = "Plaid Jacket by Buffalo David Bitton"
+original_url = "http://www.flickr.com/photos/85720386@N03/7852956092"
+title = "$15 - Ralph Lauren Classic Fit Long Sleeve Collared Shirt (picture 2 of 2)"
 [[cards.sides]]
 type = "empty"
 
