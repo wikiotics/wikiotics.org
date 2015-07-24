@@ -33,8 +33,17 @@ text = "de broek, de pantalon"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:eCACyJ6gBOBCNoLOjJ2eU0ttD0p60fLLYYx27qAqkudhG5QnCtsad0pgQif7nT5J"
+href = "urn:sha384:YEC7U9DCWYbKijMVBAjpsj_GKRzUErDJnHhNhv_HzuTSw_XKK49lm46IexPmgJCt"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Robert  Sheie (Robert Sheie)"
+author_url = "http://www.flickr.com/people/85546319@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/85546319@N04/11299668233"
+title = "Pants"
 [[cards.sides]]
 type = "empty"
 
@@ -45,8 +54,17 @@ text = "de trui"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:CIHLFWD7jWI7E0cTR6eRuVAcEAu_271vxoKJyqY1g9NzU7EkGUMOgJ7b_ZAzaB_r"
+href = "urn:sha384:pjrWtLwWQKD1Y5oTo0x-jCTraxIAXyEk4r5bOvpD9xcoQ9CSDe-u-zu0c9RB37pv"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (LollyKnit)"
+author_url = "http://www.flickr.com/people/96466040@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/96466040@N00/347924509"
+title = "Kris's New Lopi Sweater"
 [[cards.sides]]
 type = "empty"
 
@@ -57,8 +75,17 @@ text = "het overhemd"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xyCcBMn2Fs5fVo6hEhJVuPZUX6zy5pF0HgkdSy4jQzSWv-B_ENTXgA9kduydQKyX"
+href = "urn:sha384:YkI45vxilrVZWxIU73sFd-lgdB8h2aFgxyRY2sVRyQciz22x4THwvLQTJ86VeNJq"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Robert  Sheie (Robert Sheie)"
+author_url = "http://www.flickr.com/people/85546319@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/85546319@N04/15685711863"
+title = "Plaid Jacket by Buffalo David Bitton"
 [[cards.sides]]
 type = "empty"
 
