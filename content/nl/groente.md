@@ -260,7 +260,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40548286@N04/4002891340"
 title = "Plate of Peas"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:i-UPTZYnf_BskXa4VOsXFtNyE9qQMJDqMwkiR7s1UiRMdJhGM5h2d7G54H3v3ReY"
+href = "urn:sha384:LZODarRdOcUvEz1EL0_pEceqpHA_WgMcZN1ndtCSWcVpSTUEHXPkORsIZcLjdhw4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
