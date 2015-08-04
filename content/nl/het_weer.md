@@ -36,17 +36,17 @@ text = "het is bewolkt"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:vM9ZJDmj8u-Oe1G_PbS2jtgRN0RLkFX-R80AZgycwzcY2wRwFxrbc_2KpURNTK2g"
-href = "urn:sha384:NIvjbpRv9Yd9S4abKYyHSDLZEMUwcV_TcCxmWDUuBOE-zB2dU2DcW7MMkk6_r3xE"
+blob_href = "urn:sha384:E-I9-d4cCFvRviLJVFasszsnu30bjdEAMMrh95jD6W2VpzgL7dgRPECwLfq-obLY"
+href = "urn:sha384:9_F-9Xr-gMpfapSeObK77de0WLayL3UQD3vOnHFIjXpE2JsH1puK0X-I2Hyshgdb"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Angel James de Ocampo (Alarzy)"
-author_url = "http://www.flickr.com/people/32784537@N07/"
+author = "Jacopo (Jacopo Marcovaldi)"
+author_url = "http://www.flickr.com/people/8438877@N05/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/32784537@N07/3226592054"
-title = "Eiffel Tower / Dark Clouds"
+original_url = "http://www.flickr.com/photos/8438877@N05/14554603379"
+title = "Cloudy morning"
 [[cards.sides]]
 blob_href = "urn:sha384:SKyDpEuliOZOK2PIXNdpIV86vNl9Svp-KMh5sL6gfHXRrjUPqNpb5gWyaigrbZQs"
 href = "urn:sha384:alJDVpoQoIN3Ohi6vIXIXeAD7Ppp-Evj2yzix-m9ojoqmI_Rwsb_G0Ofcmo3nyMT"
