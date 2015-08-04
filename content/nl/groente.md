@@ -23,7 +23,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/62528187@N00/7331119710"
 title = "Lettuce Mini Heads"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1irhldGyVOxN-JNc6XoowAQHLU0Ik1Adm3U5Z9Zr3Sh_btTsWphPyVbgVwE69L61"
+href = "urn:sha384:F-fef6jghWFSUKffmRtJA-yIuEJKbmGeSDlbSf2g-Qc8IjxjhDf9qi9cx7DDKBfV"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -44,7 +47,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/64194289@N04/7954352042"
 title = "Cucumber halves"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:mtOxgVeKMKCWuvzMlf2Jc6rLzGSbc9M-Bufo3ZY7eRiJ9cenYJj_gZVWEmSP2s__"
+href = "urn:sha384:yDc95f9iZIy4NYY-K6paLlwUmUkRHcs7jSoEloa2-aOg2jNjEh8yYxw-0UJLl3Qh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -65,7 +71,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/53133240@N00/5922004490"
 title = "green peppers"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7vOi4I77sUAv1FBwtUxKRPTG4EjxSpuKgPkCncJ7AZDXpNpgIwM67vdP9HeJJZpb"
+href = "urn:sha384:2w0xxGbt4Yg0_5r2Da28pjhm_zZ7aW82oW1f8QVAM8DB-J0petzvXnGud39YFIQ5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -86,7 +95,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/29487672@N07/14760573314"
 title = "Bunches of Carrots"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ca4asRl4wKTEDXnpuw-Gj2Gb4TMBOmq6VVh_uawD2gmXu8l1SArj_SVpNOKS7NRD"
+href = "urn:sha384:mCJfMN_krjIvz19TReMkLAG_dD8FYbQJCR0aCEyrz2RNG1CDAwoLvSYpRE8q2K-t"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -107,7 +119,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/67003333@N02/8340855129"
 title = "Onions"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:U1HbvwlZd3uN057JRMB0uOK-fmkVNGwdGW9alinuqk28LCoIYyC_N-2i64PEbA0P"
+href = "urn:sha384:-6A3vyVGMMie1ZYBzCeNk3oPyNsWbvxPMV_G2hcnyh1gU9_rgWgzJNMXutB71_aC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -128,7 +143,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/54912928@N06/5087101315"
 title = "garlic-bowl"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WkrM5AogX553uxtZ9nbG9OfnTWho_u4GmPmR9Kod3ircclKt62GpEGble2JOehnP"
+href = "urn:sha384:hzuIl59DLvMCy-vHFyHt-owHsKmd6Z1z6dDgDgDkQ145RqpY9a_7VIr3ZCJ-oaAJ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -146,7 +164,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1FRjjAyktH5c6WE5uBrx34snHvbMkZTpMxbpDmCb6jTA4i4wQICiHPNglnDgUQG4"
+href = "urn:sha384:30JCUlfp5VxdmibM59D9edcu0xp8iBIrUKtFzoYh5wlWbB-gDMEZ-gdlAIObLxpL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -167,7 +188,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/53133240@N00/9266558714"
 title = "green beans"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Vxe9-HfgcOgDV1RsFkr_7tENlKkz5lfV-s9wJF9HXxvvyY_KkdpWLytlbWmzhBvf"
+href = "urn:sha384:wYVCX6NFJVdYvUHmok_DfgO5LolRl2ANOUGCN5iEW4ZCuIqZgd-TtNXVQ8wxVv57"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -188,7 +212,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/10361931@N06/4268224037"
 title = "White cauliflower with green leaves"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JSZNC9qQnQKDjLNaz949AtWKUQq-8hy0DcwhLaxl5vTBfQ0ecZYVMTAYCdHN3s5C"
+href = "urn:sha384:Xdn8EfprfLfAVZXYeKozbC50gH22MWPjpJWTDF3YXE4xe-h9wrkSjPEdvnrEe5ru"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -209,7 +236,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/25128194@N02/3665926988"
 title = "Brussels Sprouts"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:p9Rwps2M3JLi2svxKYtNUQG0nynVOcnQl319R-F-76a8ONDetpQDufF9I_kV16WW"
+href = "urn:sha384:vM1R4StshdFIrOOSqCqf2RqyA2okOK1G1Ys5EVONwNz5JUrny5TNeQJT30tdjk-h"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -251,7 +281,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/8903654@N07/2914549247"
 title = "Mr. Grumpy Potato"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DL0uiTFEh86Ok7Ngsm4i_EmkkiOHKH1o29FebQcyBvx-qW8ieUUsWL8DtwxsnoLI"
+href = "urn:sha384:EBwofEn31tg_ifzv9ar3y3ByXllreDE77VLf4zL-QYuiLsmNAOKmaeEvSawCf3Ds"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -272,7 +305,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/73645804@N00/2697879034"
 title = "lightly grilled asparagus"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zv1tIz5cCO5jYPI-sk3IZwc51Ga3Uv09685EX1tYrPrFtWvJagmlkKRKknRzU49G"
+href = "urn:sha384:lweBcmdOF7-BIjxX5JC5W8cd1x-reY-92MWIw6sdzE-VLiV2nTDUkH8kpzHeJfL6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -293,7 +329,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40650893@N04/3923917868"
 title = "Kale"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Gia81x6FvtG_5lCO3SN38EexT6uhJPC8g7rPlNB64ZwvILeY4WVYSNrI05S8zsDV"
+href = "urn:sha384:zMknz2MB627_0O6hxKaofZ6gRkYwijF9sPkQvf6Huqyg018bdFRPDecYXgm0n80m"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -314,7 +353,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/11191108@N04/2883356498"
 title = "White cabbage"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:p3--8uhUY2kJ-3ocOY5wvATZarBjnUg7gZLleI-QVplnNxArzxxZX3mUjrLx4-70"
+href = "urn:sha384:P0lO324YR4r4SO01nneKx9Ekr3kPopqMObnqL-oYXB9FBmonvYJlaJCz7phiijbY"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -335,6 +377,9 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/53133240@N00/293717280"
 title = "leeks"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Mh6VOTD5XHPhb_pU0dbJYxGjw203T-P64fOVGoabKFtQHRuhX-2DfnmBPlorxKsl"
+href = "urn:sha384:xBlAY1_itbVZ5pGdIe7gwrjLCKbvc8Fj7pNETssAlMOnEbkoO-J6AskSVhkz0tIY"
+mime_type = "audio/ogg"
+type = "audio"
 
 +++
