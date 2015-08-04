@@ -1,6 +1,6 @@
 +++
 title = "Clothing"
-contributors = [ "ian",]
+contributors = [ "ian", "wed23",]
 dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -29,7 +29,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de broek, de pantalon"
+text = "de broek"
 type = "phrase"
 
 [[cards.sides]]
@@ -155,21 +155,18 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de blazer, \nhet jasje"
+text = "\nhet jasje"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:lzZYStDFwB93w7Ol8AI0dLBaxwsRKnrAmYvs82RnhxpGkWraFd5zTiML99UmK3zS"
-href = "urn:sha384:Fb8PR-rXPb3QNwdKChPQJ-I5NvnUTfBP5yPELaodFeQ1kY0mKDceGtplILYHyfiz"
+blob_href = "urn:sha384:_UONnI997GDQtR2YgVCwDTLjaSOLCvtQ49AaFs2LkwpMmbWa_MDUY-ef9EfLtcRD"
+href = "urn:sha384:obdE19Wv0WkEHWq48c67khKrGxs2rWYbt0VXkkmUoyU-v8_PA8o4gfqXvZAIsuAq"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Maria Morri (Idhren)"
-author_url = "http://www.flickr.com/people/9248805@N04/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/9248805@N04/9663071295"
-title = "trying on super great leather jacket 2"
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -243,17 +240,14 @@ text = "het vest"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:bGjzyjkPGIxO9528udRU3tcKYIoii0brSak2L68fUj7m_cvgcXVJi9IcOUKTwr5a"
-href = "urn:sha384:5VtBwkEmPTl7I2hhxPg600Rih2XyMZ0ZXq_X_2IouKCrwfwh8URXvqvirjyTKHrH"
+blob_href = "urn:sha384:p6eOTtxHZrc-GVHwX3IN0qXlfz3AfkN4z_Qzy7q8qVwS4ONKe9K844Med0UQUWC8"
+href = "urn:sha384:_bVBJcHpmZJU9575nDMoki2p7T51iLBIi_ACJVm5UpGUgq1RSbx_njy6wMZlhy4d"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (kibun)"
-author_url = "http://www.flickr.com/people/23426648@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/23426648@N00/2796128962"
-title = "UAS W/C/PU H/B ALT VEST"
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -281,7 +275,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de schoen met hoge hak,\nde pump"
+text = "de schoen met hoge hak"
 type = "phrase"
 
 [[cards.sides]]
