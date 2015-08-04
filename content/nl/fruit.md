@@ -24,7 +24,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/99312118@N07/15903109507"
 title = "Clementines"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:m_xBohcSEHlcHefitsr7swTk79e1KBL4eWPdgBK7Z1NXMLM0ejsGt9ynPwjXp0Y3"
+href = "urn:sha384:6TZFCKWxGK_Bb6_hSyVY3mEQQ0RnzCYugjdmInexAIwJ0NDdvM8_vfAOXb_Gj1xA"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -45,7 +48,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/32711972@N00/3082913552"
 title = "Lemons"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vjOe-m5vKH8-DSTfDTkw2q16w8T_euNd9LVjnWSC5q7JkWCfN_pgl0brJBmbCQx9"
+href = "urn:sha384:PHCKotmziaMnBOOUR4wZQdlCDd_5BzC5H3ibSnF5GKuUJHDYY4ofxC9aC5SQif78"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -66,7 +72,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/67025584@N00/2260527943"
 title = "Orange Wedge"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JkGxuaBor8GfbgcFWPEr-nww7U4ujuoNUwPMSkBx2RpRL6sKw7c18q5-BiJJmBse"
+href = "urn:sha384:Tgv1LabzbzJVdAUgy5yYECD8pPK9ENG1kFlJXcxZfCI8BDWl_HBHfyRxTH4t12ot"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -87,7 +96,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/22451763@N00/69667785"
 title = "limes up close"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:MHdQ5HcalaJIpctq1n5bWptHB7H_4ozUpnoEKytSeAAk8CvtwaLEkJU0oyGnUPoc"
+href = "urn:sha384:nrEORTlfez0HEfTzxTg9K0Eokq65ty-_fMrBKBCx1LsezgSqR3Bl2gAtnZ5ofILX"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -108,7 +120,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/113312228@N06/11844779764"
 title = "Packham's Triumph pear"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:sHrpo8FeAbVYAy_gMV1yrJi8dk1vjtsEq5cRGSB-xRw-p_v0MnZ3sANa74r7-ZhH"
+href = "urn:sha384:LU5Eyrs3_Ccdia2uo0b9uf9ohh6VDuIPyPm53yx7NYMMdyYMTlmrTV6ki8f4--vP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -129,7 +144,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/99713555@N00/6808158327"
 title = "7dcp2025676-apple"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jhw1Dj47QD1VKnsnAWCuo8fsXa3LDg0WcRl9vpzPXUERKMMIoMKghhhZV8Y-CLNd"
+href = "urn:sha384:Ydkb4daCTnvNVIwStzeOhdMyHLRf1FxJMhWMxq40geA3b4ybFfLlhvJDR13rvdhU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -150,7 +168,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/92095273@N00/7451310240"
 title = "[Honeydew melon. Honigmelonen. Melon canari. Melon amarillo. Melone gialo. Dinja žuta. Medena melona. Cucumis melo L. : Cucurbitaceae ] : Melon, Muskmelon, Cantaloupe, Honeydew, Sugar melon."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:z_q8X2YyoqxDNhv0YAmoAPuvnU8BTAWllvHYJfKdHNlI85HUzNzNIboD-HXItTww"
+href = "urn:sha384:__mWYjglaYzQlAvRfX307OwigLng5cyuqRsmQOpLB5VkP4QEA-kzpSfAmibLAubL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -171,7 +192,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/78831568@N00/2620544218"
 title = "Apricots on Bill's tree"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5VCFQl1bzO0Z7CHxKJnAhgu6MkdZnqwovEkAXEDvWcO3Niv6sZ58YgJUXLxb8i3-"
+href = "urn:sha384:ff0putKHmtLmKSBZPuC1IuRoOdEgop6cvRGVXLefeEcnRvXceNodImC6IB0U5lUy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -192,7 +216,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/70757891@N00/6123509125"
 title = "Peach-Vanilla Butter - Peaches"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:KXah66ebucsg1kGJ9OjA3zyog7W_9tVwlfJfz6nuvXaSd1IvXbmmrAuSy9SArbSw"
+href = "urn:sha384:AnTH74aGZq3u6C9-uPd4UVtujsQg8L8y6_Kb6dVG11Pm83DiCrU3jpj48pk45F0k"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -213,7 +240,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/37996646802@N01/9425456511"
 title = "Plum Plum"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:we-abpQ2xWKqJeYHMEbGdSj_OXHboQS49Yinf35EgjqX-uAteGCmgYiFUjXz-8ZG"
+href = "urn:sha384:QqyXQcY9TCVmIWXUWP0oRLssNLHiAIavW6YCBxy7YyQ_mmMpENC3LfftapQHKrPG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -234,7 +264,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/53133240@N00/2678646974"
 title = "raspberries in milk"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lSOsOkUslY1DFa50M5C00_DU7WIH4Mz3vkIHLdMPKbn0Grkkgq4M6Cwy7uCFCDt0"
+href = "urn:sha384:JT1_NmICIryJbA9-_A2m0NaM_kXT5hzt13SKYcEAyXcr9E8xkJBp_LOpRohCi1Bp"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -255,7 +288,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/49392213@N00/6966582771"
 title = "Strawberries"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pKvR6M2eFpVpH8ynueMj555dWKCoI-aaeQrXbtZ2iBcJZs-evS68M_bNdkswjEKZ"
+href = "urn:sha384:oWwpRf6_bjRWSbKkjD2ndk323KofKbc-Hgy6WFiwLojjfS8R4ZaEcqRGHmYs-1Hh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -276,7 +312,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/60254547@N03/16982739592"
 title = "Blackberries Three"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:f0Fcbs3Y3DmTGJewEW62rjfV6Wj19n35vnA_IT1H33LIaf_rtOK4NcY54I8DG_IR"
+href = "urn:sha384:0FmPNwsmh0m7zzxK3w7dt_mYJ-gKH92nDl4Ww-JsxHnL_F3FBagIgEOTJqlP4uET"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -297,7 +336,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/37884983@N03/3724217772"
 title = "Blueberries"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FURWOCNI5OC6ssGqOluoFNsZkCth9W-XqqE5aSPxOMUMnSy-yOrMsCPoqUzmmOls"
+href = "urn:sha384:EjBeL9ciVvEXII8Gul2UN7kPEmjf67yfTfCxvlJEcdtaVRJMtq59hdPGpCqbkL_D"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -318,7 +360,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/15181848@N02/3622657352"
 title = "Cherries"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:qZKmrEW61DTle2yRFxPQhAtLu6p_OHbgIK8O89OMaDf-uicnr5_JBM3s9X2YPXZd"
+href = "urn:sha384:TRGj0olvCrBzqEJUzGLmmjZ-v77Isq88bXwpLyUB7M05XZbR16VvY05aao0TbCxj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -339,7 +384,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/73364606@N00/3344428542"
 title = "Grapes"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:jiY5Ot4aLppiIEKi2RlN5M3NrBymTzI_PT5pwfzs2ICjgxyrGscEXh7rriNcGbGE"
+href = "urn:sha384:IJd-p3Rm8d4OWtWPeWoHi6TNKE48gaVLx9XIuqbbttuKBax9rf9USeitQZIwqHxO"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
