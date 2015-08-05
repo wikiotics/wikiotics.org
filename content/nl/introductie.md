@@ -1,6 +1,7 @@
 +++
 title = "introductie"
-contributors = [ "127.0.0.1", "216.27.154.200", "24.132.0.175", "Laurent", "garrison", "ian",]
+contributors = [ "127.0.0.1", "216.27.154.200", "24.132.0.175", "Laurent", "garrison", "ian", "wed23",]
+dividers = [ 4, 8, 12,]
 headings = [ "phrase", "picture", "audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -176,7 +177,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "De hond wandelt."
+text = "De hond loopt."
 type = "phrase"
 
 [[cards.sides]]
