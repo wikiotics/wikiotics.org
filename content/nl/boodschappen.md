@@ -1,6 +1,6 @@
 +++
 title = "boodschappen"
-contributors = [ "wed23",]
+contributors = [ "100.2.164.232", "wed23",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
