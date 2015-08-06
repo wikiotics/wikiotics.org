@@ -214,8 +214,8 @@ type = "phrase"
 type = "empty"
 
 [[interactions]]
-answer = 0
-prompt = [ 1, 2,]
+answer = 1
+prompt = [ 0, 2,]
 type = "choice"
 
 +++
