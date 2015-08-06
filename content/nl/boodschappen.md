@@ -21,7 +21,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:reyN6ELLO9LqjbrtSL5HGbPfaW2bnYT1t9HGvnxxXHKB1agvXpHtqrxwTWg2WB22"
+href = "urn:sha384:ze9ZAe0GE6H0wZlzdu4jczJr1R67pqpXKxo6LY0XOmO9KKGR06aoXKBzaEJSHY33"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -42,7 +45,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/82072056@N00/3366089333"
 title = "red and blue milk crates, maroon wall"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xkyOmpY9trUY9V6G0IliPbEfzPCfW2h1P9aFD3I_kifkRC16cew3Ae_91RYtOkXQ"
+href = "urn:sha384:tAQMJ57jnRZ_bhA7WCUfsVnEPnyCqFVSUmw1w2dzMc0YuviY97dmk5cnb_bijizU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -63,7 +69,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/23212428@N00/4367618376"
 title = "eco bottles"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:i9TBoRSmnXJPDavnH_cAcCk2vxeP7Mu6zMrra11jpE0QnEeYvhFmNF9e_DgygqJM"
+href = "urn:sha384:KoL5iu_UOorHhhHG47C45SL4HZGkrTFESvy2A8c5FFaD5XE2lmOBzoB5H9RDc-bL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -81,7 +90,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:-f82sY0CIbhMkFXoTX1h5N2OGhxJeAazTYLALN1j2xPAxeRvNWznSp84i6XPbidA"
+href = "urn:sha384:6FuEPm65CVo-DlUQwRfDnbYZ2IYxJ4cMT0HrLkeR-HbPpK1UyE28xvFM0C-Tv-Tp"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -99,7 +111,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FauLoLG7RBfOcSPIi4ICvEE7VTvkI3qZfpg6WYbJ8FH8veBz_I-wNIXKcI5LGFhY"
+href = "urn:sha384:OIaHLf0MxVJhOaBQaVIvE32nM53TBTge4JZKfwG3jX-7xsMzrKWuXsEacKNNx69h"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -117,7 +132,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cimuGdyc6yv-_ozo-dsIkjJwcO_6K5fkl6VUJxNk8KcEOBFUt9K5efUZhl-U1LkT"
+href = "urn:sha384:QZJmokCPZHBXVQ9Z0OtIQnxcdRY9yFr9-yHHQXGB08BjSNz8AZpnvuV6A9ChzlMP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -138,7 +156,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/38315261@N00/1267539354"
 title = "Bare Necessity"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fEHASyjG91apM_bALv0KfUgMdI_R7JLBxVn1w1vpWwXDtBndWV8Yawa7ZHSyGDR7"
+href = "urn:sha384:2IbxaeZS9iC_CiNDLl8Z7TFoXsLIweN3yPyNg10T_3P5gXIOTXwvKrkFFlmam_QN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -159,7 +180,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33987777@N00/1731678793"
 title = "Day 38 - Quince Jam"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YfL6Xff3UQYx1eUTKmB56IAcBcXkTzxyc5oWQk6cp5bN8BFynbH2q0T6WnwURsF7"
+href = "urn:sha384:sbLxrkt6nSYOLCJfHqUJsSu8OlZQsMkUQ1LEfa5iOQyxZfIC-brHu26eVrKo4RTE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -180,7 +204,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/34427466731@N01/131012552"
 title = "cute little milk"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gs_te76rOWH5gxYqhlvUDDN8IZc4UtXRGwKdnm3HPpG-DmO4P9-tnG9k6AdSAGjo"
+href = "urn:sha384:ykPSK1N9f_5hXqTVIqWyv2thanQ06saKVucjEotonxSFR2HFL-IsUe8OSKo7YRZ8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -201,7 +228,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/10485077@N06/9359112582"
 title = "Bacon Soda"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:QLXcqiEjxeVGa2BGTwEmbv_H5xB7lTzALeu9RlV6uaeCn_F3FjNF2hMwO3wybHgP"
+href = "urn:sha384:nqELHp8O1xr5wBs47t2aOjWmLxs7v7zfq1jaXZgHTXDex_C9CdJTn1mmPqjlxs9g"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -222,7 +252,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/92025495@N00/6015128518"
 title = "Ginger Splash Juice @ Meli Cafe & Juice Bar"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IE80fgH5Nor_hqeqNDOYwlaHEjO04xs__wq9cBaVm5PRvY8_VOm3ce-LZ8TLg4WS"
+href = "urn:sha384:jaEFwBPPFfciRe2g3nXni0wcxS6zL1Ol_8qPgCCneBosbZomkf9XYxw8REYOSHLr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -243,7 +276,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/18259771@N00/4444567918"
 title = "Earl Grey tea at Yūkei Salon de Thé on Aneya-koij dori in Kyoto"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WQMH5wMMtKPUJSmXROIRUcOu3lPayq04wHJ6AzX7l_dS5VLin0lOY6gLGNfQ5set"
+href = "urn:sha384:GzTwE4eD5DlhIz2wH1JvauDAHbmDikWhGWRv4cfZ664lFr7mGL1-oMbk4IZUIPco"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -264,7 +300,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8489692@N03/4222865830"
 title = "Rye Bread"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:msJ5GtGy9rVrFmmeNfteSflNim1MAzj5SMju-O6kKCbx_gzuAHbZILpvFtpZBb6X"
+href = "urn:sha384:zP4d97xwkH321mkzaXKpz0lOKL1qy7HXOXjEc41t5cLffBobPLMoAafP75vqiivQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -285,7 +324,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/39535794@N05/4020277369"
 title = "chocolate chip cookies"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cbb3kbckEcKfzrarrJCOaaHpiyhSY3QMDMogaW-1k4NGibLu8YY-y4k86yl5u4z3"
+href = "urn:sha384:TdhRi0VPffce1wLzKSfKyi1RD-NSJDqa6q2xl0VqICPtbfb69DdQmvn6EIUo8BRU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -303,7 +345,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:GQY3egoiY4lRyh9S6dd7zBjPoQoc_U_LipD6qkeM6wIWM_xcwngS5_nqsv6ZMCIw"
+href = "urn:sha384:cIve8UBfOzX5aiipMWzhPDYBl_b0WZNJbekVNkTPBaqRV7DK2xQMu6loLGv7Spjz"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
