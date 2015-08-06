@@ -144,17 +144,17 @@ text = "de rol"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Ll1-ZCUi3mEpXGvRrA0hEDVaU0MtCvZzI5ZDiA3HtMcsV2r43pAyhz32Dt_yPVUK"
-href = "urn:sha384:DK4IePwTXZ_UmNK1Oe1TNEpmPqE5nB7q6imHXz9UWxhTJggqlrNIDN7NSTSeOSCV"
+blob_href = "urn:sha384:H0UJKQ-CuqCM_3I6PohxdGpCaHVsurVd6enQc8Wsm9tSNDCQ8JgT7ScMkHv7m6dd"
+href = "urn:sha384:ytS8ouB03sGx-4ylCQx9E00DPtb4GHJOgqn2L0hIWnCsDw0mAMN__lUrzPEtoX5l"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Sharon Mollerus (Sharon Mollerus)"
-author_url = "http://www.flickr.com/people/38315261@N00/"
+author = "Windell Oskay (oskay)"
+author_url = "http://www.flickr.com/people/17425845@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38315261@N00/1267539354"
-title = "Bare Necessity"
+original_url = "http://www.flickr.com/photos/17425845@N00/768586490"
+title = "Raw materials- Rolls"
 [[cards.sides]]
 blob_href = "urn:sha384:fEHASyjG91apM_bALv0KfUgMdI_R7JLBxVn1w1vpWwXDtBndWV8Yawa7ZHSyGDR7"
 href = "urn:sha384:2IbxaeZS9iC_CiNDLl8Z7TFoXsLIweN3yPyNg10T_3P5gXIOTXwvKrkFFlmam_QN"
