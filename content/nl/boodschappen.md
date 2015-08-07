@@ -369,7 +369,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/7927684@N03/6189590468"
 title = "Mmm... fresh hoagie rolls"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:sMvRRrBnOfw50o21YoqSxEAEFflTBdg86ubZIxozeM1yvTsD7x4HieYkJTsqTJK9"
+href = "urn:sha384:TcMol-vwsA39THaozaJYfXVO1q5mCi31LO79uGU3jARO0F6DZAJGsnNVBVGzczF9"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -390,7 +393,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/39160147@N03/15017417780"
 title = "All Laundry Detergent"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:x_n93tFHZXyDLjgmjGvRGWmP3d6ecohjhL6rBqWX-PsitatTtG4NALQdDLA8X8eB"
+href = "urn:sha384:w2bPktGd5ByLtlWopDBXPNv7Kg1oCbqYYwjLno1M-npCGgttubu9W8tHt0PoRimq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -411,7 +417,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/16105436@N00/4291373768"
 title = "Tesco and Sainsburys own dishwashing liquid"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iZTtytsG4qyVJp_gU0Q9Y8dgB54RydODThC3M9jD3IhFJCuJ4-saLDkEsARnhqyy"
+href = "urn:sha384:V0rIVB-qFC2mMrJyif7bnxXzdvdHA3urgbxQLhk24uwT2IoSv9ljsqX4jVHO_4OT"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -432,7 +441,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40467171@N00/1688909894"
 title = "gotta match ?"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:X_UPYPZRXifExTKzWLfYixm1ceKQgRubxpZWjdV0LS9Bkom8dP3U4Z3ajcPv_t73"
+href = "urn:sha384:FkVxkEgBDrfnCQjL4y_R6QnDXCp_8H2ySq-EALVPYxRqVCIfYEF-ANr6N3aHwwfE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -453,7 +465,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/14289769@N08/17217053858"
 title = "a new soap"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xBowCI4bxZTyW1_wL_P9jP2PSyfBzgViNA8IVjsPbBmRHLS0AemIf-EhJzHhyA8B"
+href = "urn:sha384:V4RwNRD1P_KehtunVMlDjVgQs1Wa1dsk6mtA_YGYSP6SiGe6CLH1gHECfyrS8cq2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -474,7 +489,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/73628542@N00/132244825"
 title = "Sugar"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:gdYRI85lrivPegbyr3IO7hrH35-8YYQbJyLOZEea6w6O_7wfxiXV8igNHhpGJbRu"
+href = "urn:sha384:nxsPU2qqSCW5SYCzb45JEjdgVXqIvUYe2u4AjLYwNwZ9IxkdLOP_-cTRRrgnGjIS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -495,7 +513,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/11939863@N08/3793288383"
 title = "Salt_B130604"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:j50sb_6lL33jtRIV6CKiZrJcZ6f9f1myV_ZPD7A0wfoV9Lo1XFRPhAfzE2Xhl7Sz"
+href = "urn:sha384:JZvJLA_5nv3q75wZvJTBP--in0oubmXAoHugt2325p6zHaF6KSIPnihwyGOkB8lI"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -513,7 +534,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DQf5SyMwhiqE7tMNfZ53sZMQ3HInClb-YQl68NI2kNkkNOvPCNOpHeOfSYXkHeeS"
+href = "urn:sha384:lnnyd0rHAT4kt4vHFrx5qSx_b0L0nlMn7Aq5HB6DiXhKWfLp191ogyAfxrKZj30w"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -531,7 +555,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:1iJqZWQqSqrrjEJeFw9o6ylHAAcNAJ72iMjpOZoL9ULxTVJAqMdK2eykcqXzOb-0"
+href = "urn:sha384:UAzElYzgWzdlV4Tnc7HR3aEoz43iZF7fRsYTIQBayr27W2-eSONnb6Gl_Xb9-NBL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -552,7 +579,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/10506540@N07/4570117128"
 title = "Italian Sausage Backyard Barbecue May 01, 20101"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Q3nNuJLze4NeFenmVauNClM5I2Fgp7Mxa2qsC41sK1u2rkOJt77Krw9YRAsTb3z-"
+href = "urn:sha384:jrmBN_zGiaff6hXS_6KpT6xZHq6saFbZbehjcqKvY2sJLr8PSjeLZfV5Y1_vvYqz"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -570,7 +600,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:I7M0HBPBx9s4N7QHq79md6AJCIBN4rTC5R31m2y7DQynGaczq6CnS9hCZUhmCVOp"
+href = "urn:sha384:sOnxsW7solcvsEbwvhFMim4kiQk4ofiVwUQjWRYV5mg4YCdSZ9iLfUv9qY7o8L7D"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -591,7 +624,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/11821298@N00/2789164957"
 title = "Gouda"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:tI9bfu4k8RUWSPzdCnaiFFtgQF1Fy74AVs8HmRROPvhDYrIYsP9iBcD445Z4BCWM"
+href = "urn:sha384:hflz8j_ZxMsmA-oX8V2xVUoj3tgXobUf6yOVR5saYR4Qzdsk4VlNGh-nwcFRfpKS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -612,7 +648,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/56041749@N02/7104016311"
 title = "Peanut Butter"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7xodGASE10bCmr5F9YGqQfnIACxKR_9VFTDxsjl3Cs7S_zp4hr5-T3b28hB1MiGs"
+href = "urn:sha384:0TcY5EaGM3YhhHSvUTDZltNN6hVUOHs6dlSO5cgyX5YIMmNywz4L8PnM_zxMngEk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -633,7 +672,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/53133240@N00/8501854880"
 title = "eggs"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:MVhosV8a3BDptQG40tF0-n7CtdUsgOet-szr6C55dkrI8xSa33h1SZ_ZPDYedg19"
+href = "urn:sha384:xEtKeN2igLiJY006gueNsiyd_cLfd4bTa7vbp7OVGrqit4nQmPacVzx7KVOJmdc6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -654,7 +696,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/67003333@N02/8340855129"
 title = "Onions"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ppR5Das7vHpQcoGPL9xfAHUrng3KjFSLMTdaKDjy1wAB7IwekFe_3MyeJ_aBFdgK"
+href = "urn:sha384:Ur2N4H7TtoJ31oZgHV0E2WKjWlpkmDcdS9jpzMZlZXwq8hRWlY0TMYNA9GJ8Z7Da"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -675,7 +720,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/92203585@N00/1229438458"
 title = "Icecream"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ozBQG3xdWjxiAXYFcTBeWJ1Y7im0AcPq1dN4X6rgjEILlE_2wyxux5dkRoHldEFt"
+href = "urn:sha384:loXinthHvEmav4lQZtjTxTkJu0a0v2YMELzCoSRQCr1mX3lFeyzOZC-mtq_TMPIi"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -693,7 +741,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cyyBENgvMziUKnRkF2Z0ZZeAdM05zkmgfmflzgd7PJ2l_mkb77VmonCf636QF5xC"
+href = "urn:sha384:fDMqfMXoDjsZ5DMaLiMrQTqeE1UXiqLuIBgfaAmVgLewD38pzwVFKpsU1stML-Ef"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
