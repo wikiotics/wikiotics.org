@@ -1,7 +1,7 @@
 +++
 title = "Uitspraak"
 contributors = [ "wed23",]
-dividers = [ 4, 8, 12, 16,]
+dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Luister!", "Dit is het goede antwoord:",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -183,6 +183,42 @@ type = "empty"
 
 [[cards.sides]]
 text = "door"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "mis"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "Mies"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "mus"
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = "mos"
 type = "phrase"
 
 [[interactions]]
