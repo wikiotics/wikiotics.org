@@ -12,17 +12,17 @@ text = "de bus"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:vn2HEYKwQHxAKzqGQPM5RaMKygl0TmcOUyeSew21Nbu2BntdJ5VHWSm6Jrb09fZY"
-href = "urn:sha384:UdylH4bS9dqyWo__3r7YNXcwRlhvHPfZEI61GlBkh9MJooSC43Mj-uDMhuiAbMfK"
+blob_href = "urn:sha384:RwfNF4NjQndBUVS2UgoF51ODMKLd8UyGIS5DF1iJFEPWSdS1CP1KziU4tVTa7Tlo"
+href = "urn:sha384:qOs3yO_Is-ZplXzUuQLRhAIh7If7QOLEpkwuBElLVVHAyZ8byoFCcf2gdMaPAj9Z"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Oran Viriyincy (Oran Viriyincy)"
-author_url = "http://www.flickr.com/people/95482862@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/95482862@N00/2574954774"
-title = "New CT Bus"
+author = "Bart (Generaal Gibson)"
+author_url = "http://www.flickr.com/people/89246112@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/89246112@N00/3879347562"
+title = "CXX academy."
 [[cards.sides]]
 type = "empty"
 
@@ -75,17 +75,17 @@ text = "het vliegtuig"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:oiSjdw9ZJJf3rlH758dlUuUGoDyfYPPuDfFd_eG9E0B1xgnDnPr1yikRmOESC1-J"
-href = "urn:sha384:oRge7FVuAIyiauPpgrv5Z6FxvF6g1NDYhHqeTNPoUFc2xvgzCLQRhp4ijVWQB-jS"
+blob_href = "urn:sha384:Q1lBUHzEUeFkGxYmTigAe1XRTkvBDp7k56B_h3XM6-lyCAgYTGDEVSyrZZftiTW1"
+href = "urn:sha384:riyPaQouVmdblwwJMf23Uv2_Oz1UeZjdbMJLpbHOkmQqzqH121Nwm4W7ivvgo1uk"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Curimedia | P H O T O G R A P H Y)"
-author_url = "http://www.flickr.com/people/14035760@N03/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/14035760@N03/17333448441"
-title = "Boeing 737-7K5 KLM PH-BGM"
+author = " (Lord of the Wings©)"
+author_url = "http://www.flickr.com/people/39587684@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/39587684@N00/9741772377"
+title = "KLM - Royal Dutch Airlines | McDonnell Douglas MD-11 | PH-KCA | \"Amy Johnson\" | Toronto Pearson Street Festival"
 [[cards.sides]]
 type = "empty"
 
