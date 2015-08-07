@@ -24,10 +24,7 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/96552722@N00/3414898801"
 title = "GYpix4068_rain"
 [[cards.sides]]
-blob_href = "urn:sha384:anMjnpqiFC5987p_mCy723NJ7FMoKfPsiKiGqSPU7l-SWHBntIMLhfJ3Qo3ejZqW"
-href = "urn:sha384:vB6tY_8ccVw2woh2Kkjj9fNIrelGSej_CHWbGoby9x8XATh3uWP357hDrJW75cq_"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -48,10 +45,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8438877@N05/14554603379"
 title = "Cloudy morning"
 [[cards.sides]]
-blob_href = "urn:sha384:SKyDpEuliOZOK2PIXNdpIV86vNl9Svp-KMh5sL6gfHXRrjUPqNpb5gWyaigrbZQs"
-href = "urn:sha384:alJDVpoQoIN3Ohi6vIXIXeAD7Ppp-Evj2yzix-m9ojoqmI_Rwsb_G0Ofcmo3nyMT"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -72,10 +66,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/18303733@N00/98772629"
 title = "snow"
 [[cards.sides]]
-blob_href = "urn:sha384:6_DBJABDVDjanjeQ7sOygZAQs7H8jBPQgrj3dHHMRWdS8dcL_VhMdeelsLPpzOQi"
-href = "urn:sha384:vGqHMzZ6YcDCEQmOxXFf0m95Hpi81MPCKK_0wuEWmXVf7qJr1M3xdKfPT2Q5hf3a"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -93,10 +84,7 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:awnl2o6W6KBXhD7z0fGtyK01TuAMHHRREMFCH-bgB92EXE96COaxjZfvfaNkLPad"
-href = "urn:sha384:zP2c7cF1BXf0J3bh6BJKtxrJM8Z2F15v6DEqngA8_9xJ6LCts7OPxXZ1fsBW7Ue5"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -117,10 +105,7 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/72098626@N00/3103061519"
 title = "Ready for the North Pole"
 [[cards.sides]]
-blob_href = "urn:sha384:08aQCEL3koZwt6yoY_NVaCZFt70P_5XUywktWPW6ag5OZ-9s9_gt1ZGJscR6wXD0"
-href = "urn:sha384:I6RkwnGGYh3liwG6edvrmiMSS4OXawdeNqYG2SvqJbfnZ7p2qfhGG9CJ27OHY9i8"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -142,10 +127,7 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/96936165@N05/11501506115"
 title = "East Lake Tohopekaliga, High Noon"
 [[cards.sides]]
-blob_href = "urn:sha384:Ymnz3jom58U7KTFUFFHm-rGTyh0_gi0_J_sd4rOzTQxOrxgD1uKvnlRnUkeDwWkp"
-href = "urn:sha384:1Ld2QYfN_2NWzS2KifDLZjh5rge8tvqi0ouCTmGVllDoBUMKNHhb8HDiRrI42oNG"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -166,10 +148,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/29809546@N00/2115264843"
 title = "Mauritanian Sahara. \"I wonder how the weather will turn out today.\""
 [[cards.sides]]
-blob_href = "urn:sha384:NCaKmG3DN5QDe7h-rX_LoACRpih2gf2WXCQ_nIoCHaAwJA-sLUQB0DEAxJBYVtMN"
-href = "urn:sha384:fIH_RGma-R-GpUfo_gW6CGPXZmciWulN2uTJp-hQOEL07dCs60stVmo6666aoknh"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -190,10 +169,7 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/58481558@N05/5743403543"
 title = "wind"
 [[cards.sides]]
-blob_href = "urn:sha384:lvr5lTFEOh4j1chBq9GAfgRc8s_xB0vOdfcIrSlAU2B1Ev0feeC3Yg_2IIru70RI"
-href = "urn:sha384:ahn62b1Jq0OUY9MU2f_fx2yrtSHCFFQgfL5nlVvaZQSdJ_9iWg-Vc1koeKcylxyC"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -214,10 +190,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/59044760@N05/5603041523"
 title = "Thunderstorm 4/9/2011"
 [[cards.sides]]
-blob_href = "urn:sha384:gsPc3JNLi3UNoB3zGu6g5fy6sv8cBZ_XLu3giKj9hWOA7j_AOOor-pe9X5zcKf0G"
-href = "urn:sha384:iDlvsd-1La7U6ShBnT2Vd-nVC9NtsalveyePIE5Phk4qrvJuZH4Li6fdtCoiBJbg"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -238,10 +211,7 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/29634157@N07/11355380415"
 title = "Regents Park fog"
 [[cards.sides]]
-blob_href = "urn:sha384:sdlfWizw6tsCZVPLiryStYb0dt1Tt72WRAU1E4RLsGoKh_etw2RFfDfy7Nd9iKKY"
-href = "urn:sha384:j3RDOES70v9PjtlopCVkZzhrc27VSufnvBIUpP0bTQUtF9vo05u7lNjxOXIbYKWb"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -262,10 +232,7 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/90982314@N00/4208811204"
 title = "the big thaw  next, this is just a tiny thaw"
 [[cards.sides]]
-blob_href = "urn:sha384:YU1QrEJY7LnZ3wjO6Q-C4FLHnOG3okiRR41oIJrmcHmP5_qMC7RRmW-5juYznZCb"
-href = "urn:sha384:v5-P-DoM4xFHkACa4Vb_V24u6if7FFF1m_62r3O3ZdRvg2XlRsZ6SNdydFGBn_RW"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
@@ -286,10 +253,7 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/28989956@N00/4310208125"
 title = "Sleet!"
 [[cards.sides]]
-blob_href = "urn:sha384:erR7wF3HmLQkuaTRLJzxO_UVEgERcd7Z7JPZks7ccfyJVGRPgsPyOPFEbqtqN99w"
-href = "urn:sha384:lpFd4s6qeSQKS5ar5Us8zku_9iSCPmkiowGLAoIkNsyGiCObThZ5fSieNdoXi70R"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[interactions]]
 answer = 1
