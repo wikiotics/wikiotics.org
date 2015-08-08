@@ -24,7 +24,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/27454212@N00/18342703342"
 title = "Blue linen suit"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FBKTDEDjCN0D6Hut1-lF-H_ZGJIGFq9vQv4bYFBQGcopLltQdW0-mq8HJpQq1CF3"
+href = "urn:sha384:o8g5hVmUJQZs-Acb38vzv-pEXHcKeQPojfAvamWH9CqBi9-balF0qKdvOSfSCbqM"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -45,7 +48,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/85546319@N04/11299668233"
 title = "Pants"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HkNKg0kVH42r14StryIX35weYOE1MJA2A_cz1k7XwAyO17-Rn98hBdL_mcI6Vk9f"
+href = "urn:sha384:diayb6otRSPGVIlHwgllarKrZyF8Mx0_cDTQ-x5LJ7uW8MeEHG-Or6O4nNHqwVvU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -66,7 +72,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/96466040@N00/347924509"
 title = "Kris's New Lopi Sweater"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fEJ-slY48cUx2nLukUFJQVV5wLOs-ZlqutwFzIn2bo1NFwStrPyvrYBGBGPFqz-W"
+href = "urn:sha384:a64sl-2HccElFD6bLtQEY5p0KeCZ_rJOchDrJ4ZNPNimxVfuwonw00LsADT9OW05"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -87,7 +96,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33591211@N04/14336518665"
 title = "DSC04246sq"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FwEeJkglYBQdof56ITkPnKlQXJ46lGyvS0H2xQxX3unNO_a2sz-1L93L5KFt2Ecr"
+href = "urn:sha384:e2BVAFlmsT-QxC9tOshAMojfgf8SYoZkxnqQSJHb4aHV8tk88-S-3TkJDKJkIUTU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -108,7 +120,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/85546319@N04/10988219123"
 title = "Charvet Place Vendome"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:NTuFH7N3V0OFl92gBNP-j9UZrbCzYM30FZiMxnhek7QwJYAkalsP2F76OsbwFQBJ"
+href = "urn:sha384:D6qdETy1pKX3WGdyACuQ1Bc0iBJZCblxtqN8w_98f3bvNwpWYVhh1v_S2BQyy7F4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -129,7 +144,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/52779076@N02/6158205022"
 title = "buddha jeans loves Levi's, his own pair"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Er4QdiWd0L_xYWicHfywRI1oyA4TkIKogf5kNjdo29JcfsEKdjKKAak5EOoouYI4"
+href = "urn:sha384:kRje-Q4NExSZNGCH1H7oPgvYgQ261VN4HbYWjKr3DEHocpOJtPhalVycDIkS8Dxn"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -150,7 +168,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/85546319@N04/13973180424"
 title = "Bontoni Oxfords"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:328B-KAqEpkGEpvkrAeUpQo5X_E1kHN0k3uWpO0IF8EbyGAL0nDLAa9RZPW0mBO6"
+href = "urn:sha384:xVMYnnlukCZ8JRsMJbJ7aPWmKicJiVu_EsCx2sAzYrhef5fIKcta8Kzw4Y4hdS1v"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -171,7 +192,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/23505652@N03/6230693577"
 title = "Sneakers"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vVGgWQ8PbcOYeD5BQd5e0KfnSUOe1D7EVHQ3FBMbsYrWKX_5iKJRk8t0c5TeIsr4"
+href = "urn:sha384:in191IObNo9PDwws_4SJfHzpQJULtlZUmWxNDSJhK5oLqYZz0N7bh_tmRO2_4Ac9"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -189,7 +213,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uTCG5Tmy7K1PlwXyDEjRKpJV3CDvNTGx-5iPFnAM6O9HIXqN-aROqifDaFwGGFjt"
+href = "urn:sha384:xjW2TAaFWnKRHqTdP8MLyrgiOB4TfR8mU41JCdVZJe6JA29vPeGfl9pDGAFPohP7"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -210,7 +237,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/46724642@N07/8637994027"
 title = "1950s 'Water Rose' brown, blue and green floral dress with ric rac trim"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pNqI1J3srP6xzDosT-xgA9JG--D_yp7UrjWAlCN8iNZ62TIT5_ksx1NPtsJaGlNh"
+href = "urn:sha384:VDIFJ7Y-LdDJDyApn5bvUTHnMTLujHWCDqZRXnQGaCWyqJ2lni629_6z_WC4TK8j"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -231,7 +261,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/121483302@N02/14582824731"
 title = "1980s ‘Hot Flamingo’ pink tropical floral full pleated skirt"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:k8yLdDJpbQN5pOFe4oEFp-jrR4qSoBQvB-m2GJ4zUBKlKgWxnGeNcblDfOUu5m28"
+href = "urn:sha384:kRbTLf0DeUtyypWD3RL_EOVj2V1AtiBP1K9rRNA5QXv3g-OfANjHVSnyXNfeepUg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -252,7 +285,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/46724642@N07/8873314666"
 title = "1970s 'Sheer Scarlett' red secretary blouse by Renoma of Melbourne"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:luU6nU1-xzOnssJ39jtl2rxT7d-mgJfC36w7G45ptrYHvE9o2ST-xzE54lM8Uo0p"
+href = "urn:sha384:CA8K99e10UsBZv-UIYL81kvpQBnKohdjyQWJ8pO6V1vG7puZ2Hjk1LE-ZZXesU8N"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
