@@ -308,7 +308,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/73645804@N00/2697879034"
 title = "lightly grilled asparagus"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:b-Y3oTIoroqb4oYe0aRmgW79SowdrFCbxw3QBA6oe5PZyb9bjutDzULDYJAuUPeO"
+href = "urn:sha384:64RhtsNPe1S_a599NWJuOxipyvvnS4P0WhxL6lvEw0njPz_d5euqR0H-Is7BPfYB"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -329,7 +332,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40650893@N04/3923917868"
 title = "Kale"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:KBJdwcM93820RoZliv30xdVYPO9_omQkoSzdFvguRe0WDt2EnKpNlMkY2Sz82_9c"
+href = "urn:sha384:Re_OgZ73ln7CEtOxlufq4pi4ZDvpnF0nfLI4K2h-TvKhyPAltxAmE2PR8uUPisc9"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -350,7 +356,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/11191108@N04/2883356498"
 title = "White cabbage"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:UMe7MQXRpX4GJTbTbwFDE68BcTYgEE6HgaS5aJGaPylLGWOXcDSL3CzxrgJfgfjD"
+href = "urn:sha384:H_3OJv4JVMVdlp2nCwXtt15Vpjzz9lB6YJTQnqqe7RfljBlgio4Uur07MDkEdb6l"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -371,6 +380,9 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/53133240@N00/293717280"
 title = "leeks"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JnEiboylPN8OGCWxKlE9ul2_cVxDweSuvrnNsCNGcKPABbcUOBGa3mcQ9UcJaWW-"
+href = "urn:sha384:Xdtc6Oc59yYkdp_jmIioIKcW4kXpNjV6tQovhPgqrCzrAEDuIrvjTujElGyM9HXF"
+mime_type = "audio/ogg"
+type = "audio"
 
 +++
