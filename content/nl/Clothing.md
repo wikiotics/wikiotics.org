@@ -306,7 +306,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:eCN2NWzMfq-DCDmEQxKK3sxF5KEf4-TnDFL0eVPTvvOi8eKTiBpPkAJjho5RYGXw"
+href = "urn:sha384:WVVZJAfrwkIQXbra6oy7mpdELxF366oKGifsjghzxLZjRdOqt6OXsvqvbYwxA0qN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -327,7 +330,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/130010866@N02/16649143025"
 title = "Michael Kors Aileen Riding Boot Stiefel 40F4AIMB7L Kalbsleder schwarz (3)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vanUr7YUUyoQImFy0q5b6WABoCYHI3HVJaF9yYDncbi7IObS9ed9KvwJ4kMcHrru"
+href = "urn:sha384:d4e-SCKNcNCPeFmU9C4-ZL-D1u0NdxXdgcpieAmnBfEHLIDh3-5Pt0vpMxjD87eS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -348,7 +354,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/28510393@N07/3134882958"
 title = "\"JULIUS GARFINKLE\" brown leather pumps heels"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5CShJlzBFmpppDHlR_MCct_qDkTDougfY0A8r2Pd26Xk2dIfmHWbh69xvMPxJ3Ky"
+href = "urn:sha384:9jRdUK82kj1Om-Xfe9AQhHJGWAs5y9Ww9sOsSjreShJFhOw1EWuDEXqCuSOsQaWy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -369,7 +378,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/47896503@N06/5039696482"
 title = "C9 - TOKIO BELT"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0iXUEvAQfd9wezgvfDQS3NsNDyTDFytibLOBV--tcUkQwhgjT1Olq9i0Qr3rvM7u"
+href = "urn:sha384:TygRKRUa3buJKOzDeasMSqsEAiGbkjQ55Lv9_mj3brI5V9-j4rH94s_Ox2noqURg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -390,7 +402,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/38102495@N00/317415954"
 title = "Duct Tape Neck Tie"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wCslSdaD0ducC07O2K0CMGYN6C1Q66vykKnSZu1Sx2l_uN5q2vkX9k60ramWQ5-W"
+href = "urn:sha384:8IfYhJPd1Q41-6wOmHpr6asidMDKSeSN33Umdscnntr-ClrND7bZwq7bbdeTzld7"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -411,7 +426,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/90235707@N00/75860910"
 title = "Easton Men's Baseball Sport Jacket"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FuJ6Kxy39dOD1pRCzviO8Rdf5AGWlmKuhu9FUL8C_yTu0b-QbDmzrgqMrIE86KrF"
+href = "urn:sha384:QbGZUZBv04ON6TfN3Fhhr0EMIDFEfbO8dN-juhrE2_vlMyw7OwDj6883KLUBSYjf"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -432,7 +450,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/17293359@N07/9407835345"
 title = "Raincoat"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:JXRsODnCPSUmmCrA5I5A_G5yxmtMw53DP_lcLTq7aXtJ5Vxlk2CvXgvpXXgBwArR"
+href = "urn:sha384:IhGZzHntJoHfd0SJojfMxw2ozHmmfj8iKirdUUU0KqNeVfOCMkfS8bYRzQyw_aaO"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -453,7 +474,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/64693558@N00/3324182556"
 title = "Love the Ugly Scarf"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:CmsbTAu2wWZVt6p24Fwjffn4mLf1XFVlWq9qNqHRJSD26LUR--XWxNhGqK0E_t7x"
+href = "urn:sha384:d7nYowrFPxbvRFYn7vlaKVaeQ9yhXsh1jz0yQF3PUtxGEKaS8r4oPEJHNtd9sokj"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -474,7 +498,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40633065@N07/4997101960"
 title = "Intermediate Cold Wet Glove (ICWG)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WBDLjB3Vx0pRJyDhbO3YbfHI4FvcGec80GA2P99rZZLBGWfGvQScHp7Kotr8W8Hy"
+href = "urn:sha384:XVAWPaueqz2N382EPPuU9BfaCOSajh5e-OJ7ivkrGRwSjYXV4z0Ix6qOTk8-Bk91"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -495,7 +522,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/93153549@N06/17927289139"
 title = "DesignerOutletSalzburg_Gaastra_Cap dunkelblau"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:fw8lbrXwc436tJQ5YrM4KLM2XP6X6OrXjWu3KMSMGgcMSbNyI21DS1-RRzanGz2F"
+href = "urn:sha384:xApvpGjt4lu21EuNdnSmI-PbjI2BORWoE-VeQNK0g3q2n0jX6cJz7UHQdwNQ9lWE"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -516,7 +546,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/48600087038@N01/5434990856"
 title = "Hat #36"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:aIQgKB8T2rJdTRmxfYiwV49Lv81ZTO5U05Wjt6Rcotx_hiT_AkxF1ul89qRoxjBY"
+href = "urn:sha384:f4Be3dLbT6Jy-nnU2vzpK6d4XIsBGN-ionByTbwdThO0N-a_MGJRAQ8jOtOC0em5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -537,7 +570,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/44483053@N05/5392414268"
 title = "capes 354 copy"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:h57KWXWphR1NgJBOpTCn7a-uR0QdKUegIMeh0kwsCBCrq_wbp6kMCsoAZqWkNtno"
+href = "urn:sha384:ULJXohWjUv-mrxsZxOfysR25HElqX7T8j4egCh3FMjoj3fZ1JNrxpqUDCaQZV-lT"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
