@@ -71,21 +71,42 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "het overhemd"
+text = "de shorts, korte broek"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:tTw7amx2-NtcdWXtK9lcTgcPVQ_5sbeaFdUHFaBr-uHbXJTRQGOtgnmvyMP1qTVa"
-href = "urn:sha384:l4Rsial8dKb43Lt0VDgRKCMBPez7evmc6Kts6DtEEgqp716MwImDOEFDsyXjBQTF"
+blob_href = "urn:sha384:wmMizx5J3rUXhickTypc0Fz8eHZzrBEQR3hv5iUVBY97BL01FslX9Fj_E1qsY50F"
+href = "urn:sha384:bMoGE1ypL7o1zPl8ixRgSGftq3P-sqweGWprJkPcaF_cGm0Fsn6v_Vak8KPUIMwx"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (jenelleconner)"
-author_url = "http://www.flickr.com/people/85720386@N03/"
+author = "Hotlanta Voyeur (HotlantaVoyeur)"
+author_url = "http://www.flickr.com/people/33591211@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/85720386@N03/7852956092"
-title = "$15 - Ralph Lauren Classic Fit Long Sleeve Collared Shirt (picture 2 of 2)"
+original_url = "http://www.flickr.com/photos/33591211@N04/14336518665"
+title = "DSC04246sq"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "het overhemd"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:SEduyodLjW_q5LQ5JI4DYj5AMXrEC0u_lyyAnIsPv-JoNmmLF0EwBmk2PrC4U6vf"
+href = "urn:sha384:G0bpjX1f_jE07HRJFZnBQ0RoYMS9wna-Y52nJoPijekgZMVNb_UWgrjrMMfDxecw"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Robert  Sheie (Robert Sheie)"
+author_url = "http://www.flickr.com/people/85546319@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/85546319@N04/10988219123"
+title = "Charvet Place Vendome"
 [[cards.sides]]
 type = "empty"
 
@@ -296,21 +317,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de shorts, korte broek"
+text = "de riem"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:wmMizx5J3rUXhickTypc0Fz8eHZzrBEQR3hv5iUVBY97BL01FslX9Fj_E1qsY50F"
-href = "urn:sha384:bMoGE1ypL7o1zPl8ixRgSGftq3P-sqweGWprJkPcaF_cGm0Fsn6v_Vak8KPUIMwx"
+blob_href = "urn:sha384:7RNWwRcs-DzNx5QmGns9QTOsqEyJi3uDN_ATRb8U12TPFJzAGcs9DGRsu4pJnpU0"
+href = "urn:sha384:opYJc1OkA2CJgN1ZnQS1JXbKYrg-0HY17i81XY0_4gnh54zvGoLwx8CH2jDVTFfg"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Hotlanta Voyeur (HotlantaVoyeur)"
-author_url = "http://www.flickr.com/people/33591211@N04/"
+author = "InExtremiss (InExtremiss)"
+author_url = "http://www.flickr.com/people/47896503@N06/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/33591211@N04/14336518665"
-title = "DSC04246sq"
+original_url = "http://www.flickr.com/photos/47896503@N06/5039696482"
+title = "C9 - TOKIO BELT"
 [[cards.sides]]
 type = "empty"
 
@@ -332,27 +353,6 @@ author_url = "http://www.flickr.com/people/38102495@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/38102495@N00/317415954"
 title = "Duct Tape Neck Tie"
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "de riem"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:7RNWwRcs-DzNx5QmGns9QTOsqEyJi3uDN_ATRb8U12TPFJzAGcs9DGRsu4pJnpU0"
-href = "urn:sha384:opYJc1OkA2CJgN1ZnQS1JXbKYrg-0HY17i81XY0_4gnh54zvGoLwx8CH2jDVTFfg"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "InExtremiss (InExtremiss)"
-author_url = "http://www.flickr.com/people/47896503@N06/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/47896503@N06/5039696482"
-title = "C9 - TOKIO BELT"
 [[cards.sides]]
 type = "empty"
 
@@ -401,27 +401,6 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de pet"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:wNNYdUDTaAaOckYhXpunBoruKXiU-uOU7NtaF8CQOkcfiqudz5afC42ojQ6VF-Hw"
-href = "urn:sha384:fPWrL7YUDZS30DQVSi329a8T-OeGMNvhXUIaDnVwJFBcITAjUy-KM_35dNE9h8gp"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = " (McArthurGlen Designer Outlets)"
-author_url = "http://www.flickr.com/people/93153549@N06/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/93153549@N06/17927289139"
-title = "DesignerOutletSalzburg_Gaastra_Cap dunkelblau"
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
 text = "de das, \nde sjaal"
 type = "phrase"
 
@@ -458,6 +437,27 @@ author_url = "http://www.flickr.com/people/40633065@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40633065@N07/4997101960"
 title = "Intermediate Cold Wet Glove (ICWG)"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "de pet"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:wNNYdUDTaAaOckYhXpunBoruKXiU-uOU7NtaF8CQOkcfiqudz5afC42ojQ6VF-Hw"
+href = "urn:sha384:fPWrL7YUDZS30DQVSi329a8T-OeGMNvhXUIaDnVwJFBcITAjUy-KM_35dNE9h8gp"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (McArthurGlen Designer Outlets)"
+author_url = "http://www.flickr.com/people/93153549@N06/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/93153549@N06/17927289139"
+title = "DesignerOutletSalzburg_Gaastra_Cap dunkelblau"
 [[cards.sides]]
 type = "empty"
 
