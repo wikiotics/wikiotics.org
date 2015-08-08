@@ -301,7 +301,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:C8iDsc_VpYWsG3if96g3ji4Scvwk-rz7xW5rWnwCy8uz4ylHc1qrtqIB9emaDgSG"
-href = "urn:sha384:_0kziFlvxp5VDEAF3Kr0PYBXrO9VcnnooaLWbk0zeMydOPLKagzKhLzpDSnrgV9D"
+href = "urn:sha384:zYLCTT8Wn3C--aXOdsTr8Xx4Rf6m-Z0n45gB_fZqN2Kmkp-FZZQehTbf89LLPTf6"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -312,8 +312,8 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/38891071@N00/15003010767"
 title = "Travelling Light"
 [[cards.sides]]
-blob_href = "urn:sha384:9hoDYbq2PjZFzeQaENtIhecNnDbEFxeUkNbZX3SuBnmqqdjABKkWT9CzwdttPi17"
-href = "urn:sha384:xQ9ZgkCY40Tni6imTaj1l_Rh0VT-VVv3C3nCTD3gc2-WcbszuQZY3S2Lyrrx4tNP"
+blob_href = "urn:sha384:NJZ_d0hsap81W7M3yczIo6JefpWbF9ILKUG05txSk8g-UbWiA2_GdOAFHbt7yan6"
+href = "urn:sha384:mqpIz4FtuXdChxazWOf35VCN4yeAVx5CahIL45qpIQ4g4FRx6I7binWLudtLxIV1"
 mime_type = "audio/ogg"
 type = "audio"
 
