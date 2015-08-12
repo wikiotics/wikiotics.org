@@ -38,7 +38,7 @@ mime_type = "audio/ogg"
 type = "audio"
 
 [[cards.sides]]
-text = "stoet"
+text = "stut"
 type = "phrase"
 
 [[cards]]
