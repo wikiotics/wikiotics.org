@@ -1,6 +1,6 @@
 +++
 title = "Uitspraak"
-contributors = [ "wed23",]
+contributors = [ "ian", "wed23",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44,]
 headings = [ "Luister!", "Dit is het goede antwoord:",]
 type = "lesson"
@@ -582,8 +582,8 @@ text = "bijt"
 type = "phrase"
 
 [[interactions]]
-answer = 1
-prompt = [ 0,]
+answer = 0
+prompt = [ 1,]
 type = "choice"
 
 +++
