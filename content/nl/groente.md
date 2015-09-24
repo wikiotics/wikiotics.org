@@ -1,6 +1,7 @@
 +++
 title = "groente"
-contributors = [ "wed23",]
+contributors = [ "128.59.76.180", "wed23",]
+dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -384,5 +385,10 @@ blob_href = "urn:sha384:JnEiboylPN8OGCWxKlE9ul2_cVxDweSuvrnNsCNGcKPABbcUOBGa3mcQ
 href = "urn:sha384:Xdtc6Oc59yYkdp_jmIioIKcW4kXpNjV6tQovhPgqrCzrAEDuIrvjTujElGyM9HXF"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[interactions]]
+answer = 1
+prompt = [ 0, 2,]
+type = "choice"
 
 +++
