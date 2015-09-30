@@ -1,6 +1,6 @@
 +++
 title = "Begroetingen"
-contributors = [ "83.101.69.165", "Laurent", "ian",]
+contributors = [ "83.101.69.165", "Laurent", "ian", "wed23",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
 tags = [ "ESLworkshop",]
 type = "lesson"
@@ -9,7 +9,7 @@ source-languages = [ "fr",]
 [[cards]]
 
 [[cards.sides]]
-text = "Welcome to the first MeetUp 101 English lesson."
+text = "Welcome to the first MeetUp 101 Dutch lesson."
 type = "phrase"
 
 [[cards.sides]]
@@ -26,7 +26,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "In this lesson, you will learn how to greet someone and some phrases to ask for help in practicing your English."
+text = "In this lesson, you will learn how to greet someone and some phrases to ask for help in practicing your Dutch."
 type = "phrase"
 
 [[cards.sides]]
@@ -43,7 +43,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "The most common greeting in English is:"
+text = "One common greeting in Dutch is:"
 type = "phrase"
 
 [[cards.sides]]
@@ -196,7 +196,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "If you share a common language with your English partner, this is how you would ask them how to say something in English. For example:"
+text = "If you share a common language with your English partner, this is how you would ask them how to say something in Dutch. For example:"
 type = "phrase"
 
 [[cards.sides]]
@@ -621,7 +621,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "In later lessons we will use these basic phrases regularly so, if you forget some of this tomorrow, it is worth listening to this lesson again. Until then, congratulations on beginning to learn English!"
+text = "In later lessons we will use these basic phrases regularly so, if you forget some of this tomorrow, it is worth listening to this lesson again. Until then, congratulations on beginning to learn Dutch!"
 type = "phrase"
 
 [[cards.sides]]
