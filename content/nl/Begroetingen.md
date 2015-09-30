@@ -298,7 +298,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Dank je wel!"
+text = "Bedankt!"
 type = "phrase"
 
 [[cards.sides]]
