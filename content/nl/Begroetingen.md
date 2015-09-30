@@ -468,7 +468,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Can you repeat that?"
+text = "Kun je dat nog een keer zeggen?"
 type = "phrase"
 
 [[cards.sides]]
@@ -485,7 +485,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Can you repeat that?"
+text = "Kun je dat nog een keer zeggen?"
 type = "phrase"
 
 [[cards.sides]]
@@ -519,7 +519,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say \"Boujour\"?"
+text = "How do you say \"Hello\"?"
 type = "phrase"
 
 [[cards.sides]]
@@ -536,7 +536,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\"Hello\"."
+text = "\"Hallo\"."
 type = "phrase"
 
 [[cards.sides]]
@@ -553,7 +553,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Can you repeat that?"
+text = "Kun je dat nog een keer zeggen?"
 type = "phrase"
 
 [[cards.sides]]
@@ -570,7 +570,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "\"Hello\"."
+text = "\"Hallo\"."
 type = "phrase"
 
 [[cards.sides]]
@@ -587,7 +587,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Thank you."
+text = "Bedankt."
 type = "phrase"
 
 [[cards.sides]]
@@ -604,7 +604,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "You're welcome."
+text = "Graag gedaan."
 type = "phrase"
 
 [[cards.sides]]
