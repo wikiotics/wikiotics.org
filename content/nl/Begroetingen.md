@@ -1,6 +1,6 @@
 +++
 title = "Begroetingen"
-contributors = [ "83.101.69.165", "Laurent", "ian", "wed23",]
+contributors = [ "128.59.76.180", "83.101.69.165", "Laurent", "ian", "wed23",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
 tags = [ "ESLworkshop",]
 type = "lesson"
@@ -315,7 +315,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "The polite reply to \"Thank you\" is \"You're welcome\"."
+text = "The polite reply to \"Bedankt\" is \"Graag gedaan\"."
 type = "phrase"
 
 [[cards.sides]]
@@ -434,7 +434,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "We will leave you with one more useful phrase for practicing English."
+text = "We will leave you with one more useful phrase for practicing Dutch."
 type = "phrase"
 
 [[cards.sides]]
@@ -451,7 +451,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "If at any point, you can't hear wat someone said or need to hear it a second time to try and understand what it means, you can ask the speaker to repeat what they have just said by saying:"
+text = "If at any point, you can't hear what someone said or need to hear it a second time to try and understand what it means, you can ask the speaker to repeat what they have just said by saying:"
 type = "phrase"
 
 [[cards.sides]]
