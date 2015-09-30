@@ -145,7 +145,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "At this point you can learn almost anything if you ask:"
+text = "At this point you can learn almost any Dutch word if you ask:"
 type = "phrase"
 
 [[cards.sides]]
@@ -162,7 +162,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say _____?"
+text = "Hoe zeg je _____ in het Nederlands?"
 type = "phrase"
 
 [[cards.sides]]
@@ -179,7 +179,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "How do you say _____?"
+text = "Hoe zeg je _____ in het Nederlands?"
 type = "phrase"
 
 [[cards.sides]]
