@@ -103,7 +103,7 @@ text = "Sanne"
 type = "phrase"
 
 [[cards.sides]]
-text = "There is a large selection!"
+text = "What a large selection!"
 type = "phrase"
 
 [[cards]]
@@ -171,7 +171,7 @@ text = "Sanne"
 type = "phrase"
 
 [[cards.sides]]
-text = "Yeah, that sounds good too, but I still am having the burger."
+text = "Yeah, that sounds good too, but I am still having the burger."
 type = "phrase"
 
 [[cards]]
