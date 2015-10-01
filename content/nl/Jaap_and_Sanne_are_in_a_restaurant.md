@@ -1,6 +1,6 @@
 +++
 title = "Jaap and Sanne are in a restaurant"
-contributors = [ "wed23",]
+contributors = [ "ian", "wed23",]
 headings = [ "Phrase", "Audio", "Speaker", "English",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -35,7 +35,7 @@ text = "Jaap"
 type = "phrase"
 
 [[cards.sides]]
-text = "Good evening, may we have a table for two at the window?"
+text = "Good evening, may we have a table for two by the window?"
 type = "phrase"
 
 [[cards]]
@@ -120,7 +120,7 @@ text = "Jaap"
 type = "phrase"
 
 [[cards.sides]]
-text = "What are you taking, Sanne?"
+text = "What are you having, Sanne?"
 type = "phrase"
 
 [[cards]]
@@ -137,7 +137,7 @@ text = "Sanne"
 type = "phrase"
 
 [[cards.sides]]
-text = "I feel like having a burger. And you?"
+text = "I feel like a burger. You?"
 type = "phrase"
 
 [[cards]]
@@ -154,7 +154,7 @@ text = "Jaap"
 type = "phrase"
 
 [[cards.sides]]
-text = "I don't want meat tonight. I might take the pasta with vegetables."
+text = "I don't want meat tonight. I might have the pasta with vegetables."
 type = "phrase"
 
 [[cards]]
@@ -171,7 +171,7 @@ text = "Sanne"
 type = "phrase"
 
 [[cards.sides]]
-text = "Yes, that sounds good too, but I still am taking the burger."
+text = "Yeah, that sounds good too, but I still am having the burger."
 type = "phrase"
 
 [[cards]]
@@ -188,7 +188,7 @@ text = "Waiter"
 type = "phrase"
 
 [[cards.sides]]
-text = "Did you make a choice?"
+text = "Did you make your selection?"
 type = "phrase"
 
 [[cards]]
@@ -205,7 +205,7 @@ text = "Sanne"
 type = "phrase"
 
 [[cards.sides]]
-text = "For me the burger with fries, please."
+text = "Tthe burger with fries for me please."
 type = "phrase"
 
 [[cards]]
@@ -222,7 +222,7 @@ text = "Jaap"
 type = "phrase"
 
 [[cards.sides]]
-text = "And for me the pasta with vegetables."
+text = "And the pasta with vegetables for me."
 type = "phrase"
 
 [[cards]]
@@ -307,7 +307,7 @@ text = "Jaap"
 type = "phrase"
 
 [[cards.sides]]
-text = "For me a glass of red wine please."
+text = "A glass of red wine for me please."
 type = "phrase"
 
 [[cards]]
