@@ -3,7 +3,7 @@ title = "Begroetingen"
 contributors = [ "128.59.76.180", "83.101.69.165", "Laurent", "ian", "wed23",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
 type = "lesson"
-target-languages = [ "en",]
+target-languages = [ "nl",]
 source-languages = [ "en",]
 [[cards]]
 
