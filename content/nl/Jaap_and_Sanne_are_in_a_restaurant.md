@@ -1,6 +1,6 @@
 +++
 title = "Jaap and Sanne are in a restaurant"
-contributors = [ "ian", "wed23",]
+contributors = [ "160.39.198.99", "ian", "wed23",]
 headings = [ "Phrase", "Audio", "Speaker", "English",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -357,6 +357,23 @@ type = "phrase"
 
 [[cards.sides]]
 text = "Thanks. I'll get that to you straightaway."
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
 type = "phrase"
 
 [[interactions]]
