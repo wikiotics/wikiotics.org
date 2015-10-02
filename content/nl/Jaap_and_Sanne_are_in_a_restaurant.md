@@ -14,7 +14,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Waiter"
+text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Waiter"
+text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
@@ -65,7 +65,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Waiter"
+text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
@@ -184,7 +184,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Waiter"
+text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
@@ -235,7 +235,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Waiter"
+text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
@@ -286,7 +286,7 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-text = "Waiter"
+text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
@@ -330,18 +330,18 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Dank u."
+text = "Dank u. Ik breng u dat meteen."
 type = "phrase"
 
 [[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Waiter"
+text = "Waitress"
 type = "phrase"
 
 [[cards.sides]]
-text = "Thanks."
+text = "Thanks. I'll get that to you straightaway."
 type = "phrase"
 
 [[interactions]]
