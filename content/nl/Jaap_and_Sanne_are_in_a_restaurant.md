@@ -45,7 +45,10 @@ text = "Natuurlijk, gaat u zitten."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:isdPLbnFbIjLJPfnAl8Bx4Tr0M0ytApduLi4RDugAZE2DXWBXlNKbvQq7fzqhcei"
+href = "urn:sha384:wya7AXixJDYMzhZ7DKC-fsr_N9_lccAlVOyOE4CaRvpFus_dGz0d40dyutDyzYJl"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Waitress"
@@ -62,7 +65,10 @@ text = "Hier hebt u het menu."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:A8BTGp6QWQVU97RL5scSp1rR75B9PkfZePpak2-TD_x-ymaIdQ82R3gXtewgxLxA"
+href = "urn:sha384:DX2zF6bAi_2zGXGW1_E6InFEbVoAX0ZovF83du3H2zIrj-wIZqLzZtsJTdUPoUN5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Waitress"
@@ -181,7 +187,10 @@ text = "Hebt u een keuze kunnen maken?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HR2ZB-TsQ9GXNoWrf2dKV1JXRv4o8Ln0GQJEF_DmxyqmW_K-ZrEEkyidYJRnVaPW"
+href = "urn:sha384:XWuOE-GZlxsqODPGy8cnwbVW-PKZVF1fO3RzSr4pNlqLyt_-N7HjC0I8Y_bXflru"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Waitress"
@@ -232,7 +241,10 @@ text = "Wilt u een salade vooraf?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wRHcVcH5VVBZRVpHcGUdaYs0nEaA-HkbJjUDh4AqGHMIGwhb0iC8Z4Np5JTEK9iP"
+href = "urn:sha384:-aS6K83hJPxQKq4vsM7EAzGPRT7-qU4dDAIYtTQIHFzINB_x1kzHt9XS-_MN0eCG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Waitress"
@@ -283,7 +295,10 @@ text = "Nog iets te drinken?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:YadgEayI7mBL9ZO6XraPIz5wsMIenW3fKEyfuMAG1GGy1EtUCmuK_gW0E0XGj--2"
+href = "urn:sha384:Vno-0xONKG1e2YX07MzZAmmKP4usnN6gzjqulpupbLeVNNlrpgZmrN6gImUHL9SA"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Waitress"
