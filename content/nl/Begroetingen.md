@@ -2,10 +2,9 @@
 title = "Begroetingen"
 contributors = [ "128.59.76.180", "83.101.69.165", "Laurent", "ian", "wed23",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
-tags = [ "ESLworkshop",]
 type = "lesson"
 target-languages = [ "en",]
-source-languages = [ "fr",]
+source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
