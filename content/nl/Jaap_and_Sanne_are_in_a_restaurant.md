@@ -366,7 +366,10 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:AUCxE5KZcHpPoPpGUsu56ixpLUzPoRbbvFvJjfAueFH2JdtxMzxfEK4vj2UUoQk-"
+href = "urn:sha384:g0IYgrF8nSER-w9N_pPf9x285Nw8iCLfT5T1fLmi7e3fCCI_P-uDy6ttTmTCXuOF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = ""
