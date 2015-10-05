@@ -1,6 +1,6 @@
 +++
 title = "Jaap and Sanne are in a restaurant"
-contributors = [ "160.39.198.99", "ian", "wed23",]
+contributors = [ "160.39.198.99", "83.163.136.111", "ian", "wed23",]
 headings = [ "Phrase", "Audio", "Speaker", "English",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -28,7 +28,10 @@ text = "Goedenavond, mogen wij een tafel voor twee aan het raam?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:C-YeCBcKbkBNiYq5AjxPhq1Gzmi5V5tYylgcXJsFPZOzA8pc3Q0I4dF7npxqSLc_"
+href = "urn:sha384:nSnn3OcVE82ahyPnKkyifzRWCHZV_LHrVyA2NiNLkCjxl1DjMcciB4iRU5IKGIz-"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Jaap"
@@ -85,7 +88,10 @@ text = "Dank u. "
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:_QLdt39VLfDAmuA1B-DnJQXQJ6a4O6QQN_yH72AyU7uVTeT8EbJ_fD9nwPM7ohaQ"
+href = "urn:sha384:nTYOf-GcgDhnttLHXitapGUEizeWtkTOxmG_bT7FHnKAv4eDqitYb5Ch8eF_7y8n"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Jaap/Sanne"
@@ -102,7 +108,10 @@ text = "Er is veel keuze!"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:s56qBDa3jeXSroIUHRZWR_X3qdQngWvyVA3kduBubMUqtyDHpw4MxEaWuLgfVV_Q"
+href = "urn:sha384:yPHN95PHtrn-bPfmcnNGnfS9Azdu69EQ5Z7l1oz6ZFySxQby0Ori-DOqJNxLmvlC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Sanne"
@@ -119,7 +128,10 @@ text = "Wat neem jij, Sanne?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:f26cft4K2bIZehyFNMDSlYxTA5wAzfi4G4_kmq7sF201j3kzra_9FSzN_oz2eoFG"
+href = "urn:sha384:jXA1f09LhOZ6Hou0KKbJfSOiFS5-G1SF7FY7mSuX-59wIEWJv4LpsQ7XfNBBIGZ7"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Jaap"
@@ -136,7 +148,10 @@ text = "Ik heb zin in een hamburger. En jij?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hEB8HCimVyakiHC2qgNHQRfHPlXOdpeEMjaBOpdSUUg7Ewo9ymMZGrl7TP0UwNx5"
+href = "urn:sha384:aSwvwFAqHB6tJ4HiibQK8IgOPw8nLgzGkS3A2L2dZ7FdAyU1vEK_3sDwHNfbG5LW"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Sanne"
@@ -153,7 +168,10 @@ text = "Ik wil geen vlees vanavond. Ik neem misschien de pasta met groente."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rSr3Nv_zSgZhkNufRLu2iJNHBWy69BBWIMlFzie-PWFIwhFE0o37hx8vmoi7BECW"
+href = "urn:sha384:DMxXH8Suo77IvGcUDACJiFU2BN3ZdtQsWOycBUn4CVmcvG435OW-qLNZohFHOBsz"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Jaap"
@@ -170,7 +188,10 @@ text = "Ja, dat klinkt ook lekker, maar ik neem toch de hamburger."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FR8qHJt3-_OACQaVl1236i30fKTXDZhALe8JaYgS9awPcikODu1mGzEoIWxjIOuP"
+href = "urn:sha384:t3aKj4AocFY0cdv6-v5lqRHpK2r52ia4RgqEUd-d2jRzCax973K5EtKvtF1MQlmr"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Sanne"
@@ -207,7 +228,10 @@ text = "Voor mij graag de hamburger, met frites."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Jjw7NX44jVXA7mOZLde6EsOrvgeE00yEZUju23L83oy7l5Mcsr5vmrBwSoNGGoCV"
+href = "urn:sha384:jtJGgshrhBvO7_oARkZawmRAXk_G0yQC2pdfY4fCm3luzkOjA7I_oczj6CBqSwO7"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Sanne"
@@ -224,7 +248,10 @@ text = "En voor mij de pasta met groente."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:bBfg0kCmTng7IelwUmMduOtMxD4-kb6vVs1_lsSBUE6q7UdTcvLXA66o55lG3VnU"
+href = "urn:sha384:tawEc2EPRakPDVoezQ2oPu1gmwKEKnYsCY2NjQZtJ-tVu-Di-wmnu_Hgr9nUvQS9"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Jaap"
@@ -261,7 +288,10 @@ text = "Zullen we een salade delen, Jaap?"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:iMiQGEQcItm2TU9GkLywnmUZx9W2qTyFSSLtVht-ahVJoki9Rmh9E21qATHRdH06"
+href = "urn:sha384:6YTKaRUIc6LP7WTuXjb1me-wlFuSEtO3vNgb47d57w4u_D9B4Xu7MsAa_XJeR_XP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Sanne"
@@ -278,7 +308,10 @@ text = "Ja, goed idee. Doet u maar een grote salade."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:31Jp6EMo4bA02giCjqXR6cHfTVT6CFcs0H0w4IiCsSRJq_HvuOL-VpD82bWSEqO8"
+href = "urn:sha384:KbHs482b9vt6R5V8ottUiF3mY77ffvfwcJ3NPijzGSVJG_j80KNyLSy6XALG1yhR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Jaap"
@@ -315,7 +348,10 @@ text = "Voor mij graag een glas rode wijn."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:AFgI3tIux_wrVcIWk_A3eUvfpRFxuYAUD_H05AOhAh_7luMRvG86DUIIj_sTOHo4"
+href = "urn:sha384:OOzaCRFIkjVVp58CyWV5qpniJsohW0-StDnqkIZPdWwuxzb_67rXwwFwbsvhqLii"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Jaap"
@@ -332,7 +368,10 @@ text = "En voor mij een biertje."
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:6IVMwyCRildRlY3TH-_r_P5BevAuNsY1fYHvJ0-58FTax-R4Ul7aKPsTRyRtxaa0"
+href = "urn:sha384:bEsBLUOBzY0C0Ho48oGFk7Vtr_50uf2O6sS0oVI6rpVSwufMg8Vv7wIwtTb7GJ1v"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards.sides]]
 text = "Sanne"
