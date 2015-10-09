@@ -1,6 +1,6 @@
 +++
 title = "nabytek"
-contributors = [ "128.59.77.94",]
+contributors = [ "128.59.77.172", "128.59.77.94",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "cs",]
@@ -23,7 +23,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/50398299@N08/16215185587"
 title = "Chair LACMA M.2009.115 (5 of 5)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:z1gXtJmz-PbLqPDIiYkvBCzCR1G1MQiHvCzHXQD_NxmzUSInd_lJTJ5_KEP-hHgW"
+href = "urn:sha384:UA8JOpxytgmqSvoHrOGzhUqPD0p6HBmhKFjjPlzBhpkD6dtVVIhiAFgVDmsRo194"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -44,7 +47,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/13895251@N00/2365042979"
 title = "My Future Living Room"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0CbcpwbJJgVEWI_h7X67yRx_FfpuzBTNUsw9tytkuHKwZQirVa_UB2vgcQpCNY6S"
+href = "urn:sha384:85rCf414nMRYdn0G_QvvISG65wXbb7W5GY68lGhhyMLNqp6rcsKF6LUA2wrpP5kh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -65,7 +71,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/98983159@N00/55158346"
 title = "Another Round of Extreme Wet 05"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cOM8jM3RRCfQ_ZV8qfNb0-IN_pA5TQb9B2hxS6BAG1HVYYPaUeYvQKpIl2KwRmON"
+href = "urn:sha384:sTQFxwXM3PdFC9Al6JjsvXkxqadDXecn79wLfyoj-zy4JRPXpjl01v6M8zjPjAYd"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -86,7 +95,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/24029425@N06/8206255802"
 title = "Braided rugs, durable, washable, colorful, reversible. Range of sizes and colors for all needs."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xdiTeBXB8Rly14t-S9tRrhKDxDsZut1NeHCYbP5V3P4-rdMb8CBG8cHNEsgLjcS6"
+href = "urn:sha384:4iow41aalBazfr8CRokMRP5suOQLKDqe6w9aSQN3aVYoIag8shRl88Af4Bc3AKaS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
