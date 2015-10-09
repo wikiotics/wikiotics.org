@@ -1,6 +1,6 @@
 +++
 title = "mebel"
-contributors = [ "128.59.77.94",]
+contributors = [ "128.59.77.172", "128.59.77.94",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "wo",]
@@ -23,7 +23,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/50398299@N08/16215185587"
 title = "Chair LACMA M.2009.115 (5 of 5)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xmHMLKxbwY7_mXGx1Dtn1jjvBTP5FdKJvijggavteDviIfRGJlFltwuBhW1UUoNc"
+href = "urn:sha384:yQ4daIZWijEb0X8NOkkv6OYvq_LZXuSJMD_vPMK78Au5YCEC0MK2HaQT3A7UsgVy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -44,7 +47,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/13895251@N00/2365042979"
 title = "My Future Living Room"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:xL3a_bztMoV6PPZQueyI7dTuAMUQsUEK0oCdDBcSx6n55SFkNxyZpMa8yhpIdlAR"
+href = "urn:sha384:-9e2VqT_EraXoDxibj3tzEBuqPH6umajaJiidBcEzby8uixZp87fx_9BmOAAV7eG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -65,7 +71,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/97304820@N00/5164692555"
 title = "Tatami"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ORsFSDYEtqZ2rt0zZuJfMqvfKZ5aUpGHUpGJVewy2NEyB0lKa8aPfEiW3nW_brWX"
+href = "urn:sha384:4QmiYBBvOcaQsdIi8Lloe04nwEDP9h0uZmbGBSX74mkV5KbrKufcY8l4tVjJRljh"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -86,7 +95,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/24029425@N06/8206255802"
 title = "Braided rugs, durable, washable, colorful, reversible. Range of sizes and colors for all needs."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:vvyoZzU2YuNWPhBBXvoP9AJmCi2z242JYqJWPB1g2ZV4Red0Ic6y_H7NrVr_75_2"
+href = "urn:sha384:01V4m0DhoOzQ5_2xXN9m_mkxLelOfaQ8fznlTlFsqzYVWbEkwgynKqdwXIPyyYbQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
