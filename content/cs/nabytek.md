@@ -3,7 +3,7 @@ title = "nabytek"
 contributors = [ "128.59.77.94",]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
-target-languages = [ "wo",]
+target-languages = [ "cs",]
 [[cards]]
 
 [[cards.sides]]
