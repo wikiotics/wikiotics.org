@@ -7,7 +7,7 @@ target-languages = [ "cs",]
 [[cards]]
 
 [[cards.sides]]
-text = "siis"
+text = "židle"
 type = "phrase"
 
 [[cards.sides]]
@@ -28,7 +28,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "kanape"
+text = "\npohovka"
 type = "phrase"
 
 [[cards.sides]]
@@ -49,28 +49,28 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "ndes"
+text = "rohožka"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:jBKfDiCZh0tS7iOiQL3Pxc_frA5nqWqebKxk3wpECJXRciTdRAtdq7zf3xKbqb0U"
-href = "urn:sha384:7qr1oVA8y_9i8r3uxYF24e8WMvIlmNGpheB48F2aTVEdwDONdncWREWstjtd3De7"
+blob_href = "urn:sha384:QnsajSJphxwlCzjIlYv0p6QTbkydgcgEeLOs1RIfE2BWbal9odD5JiP6cmGQzV-t"
+href = "urn:sha384:cRE1pID6Jb7NpCUmXxLJ6MPyCqcSSFaXNWviy70sRzaKCF_K7AaZNNWTw6rqoyMj"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Dushan Hanuska (Dushan and Miae)"
-author_url = "http://www.flickr.com/people/97304820@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/97304820@N00/5164692555"
-title = "Tatami"
+author = "Lachlan Hardy (Lachlan Hardy)"
+author_url = "http://www.flickr.com/people/98983159@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/98983159@N00/55158346"
+title = "Another Round of Extreme Wet 05"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "basaN"
+text = "koberec"
 type = "phrase"
 
 [[cards.sides]]
