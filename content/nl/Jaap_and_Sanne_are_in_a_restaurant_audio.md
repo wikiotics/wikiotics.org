@@ -4,6 +4,7 @@ contributors = [ "160.39.198.99", "83.163.136.111", "ian", "wed23",]
 headings = [ "Phrase", "Audio", "Speaker", "English",]
 type = "lesson"
 target-languages = [ "nl",]
+source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
