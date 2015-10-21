@@ -1,6 +1,6 @@
 +++
 title = "Clothing"
-contributors = [ "ian", "wed23",]
+contributors = [ "128.59.37.53", "ian", "wed23",]
 dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -8,7 +8,7 @@ target-languages = [ "nl",]
 [[cards]]
 
 [[cards.sides]]
-text = "het kostuum,\nhet pak"
+text = "odelo/odijelo"
 type = "phrase"
 
 [[cards.sides]]
@@ -24,15 +24,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/27454212@N00/18342703342"
 title = "Blue linen suit"
 [[cards.sides]]
-blob_href = "urn:sha384:FBKTDEDjCN0D6Hut1-lF-H_ZGJIGFq9vQv4bYFBQGcopLltQdW0-mq8HJpQq1CF3"
-href = "urn:sha384:o8g5hVmUJQZs-Acb38vzv-pEXHcKeQPojfAvamWH9CqBi9-balF0qKdvOSfSCbqM"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de broek"
+text = "pantalone - hlače"
 type = "phrase"
 
 [[cards.sides]]
@@ -48,15 +45,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/85546319@N04/11299668233"
 title = "Pants"
 [[cards.sides]]
-blob_href = "urn:sha384:HkNKg0kVH42r14StryIX35weYOE1MJA2A_cz1k7XwAyO17-Rn98hBdL_mcI6Vk9f"
-href = "urn:sha384:diayb6otRSPGVIlHwgllarKrZyF8Mx0_cDTQ-x5LJ7uW8MeEHG-Or6O4nNHqwVvU"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de trui"
+text = "džemper - pulover"
 type = "phrase"
 
 [[cards.sides]]
@@ -72,15 +66,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/96466040@N00/347924509"
 title = "Kris's New Lopi Sweater"
 [[cards.sides]]
-blob_href = "urn:sha384:fEJ-slY48cUx2nLukUFJQVV5wLOs-ZlqutwFzIn2bo1NFwStrPyvrYBGBGPFqz-W"
-href = "urn:sha384:a64sl-2HccElFD6bLtQEY5p0KeCZ_rJOchDrJ4ZNPNimxVfuwonw00LsADT9OW05"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de shorts, korte broek"
+text = "šorc - bermude"
 type = "phrase"
 
 [[cards.sides]]
@@ -96,15 +87,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33591211@N04/14336518665"
 title = "DSC04246sq"
 [[cards.sides]]
-blob_href = "urn:sha384:FwEeJkglYBQdof56ITkPnKlQXJ46lGyvS0H2xQxX3unNO_a2sz-1L93L5KFt2Ecr"
-href = "urn:sha384:e2BVAFlmsT-QxC9tOshAMojfgf8SYoZkxnqQSJHb4aHV8tk88-S-3TkJDKJkIUTU"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het overhemd"
+text = "košulja"
 type = "phrase"
 
 [[cards.sides]]
@@ -120,15 +108,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/85546319@N04/10988219123"
 title = "Charvet Place Vendome"
 [[cards.sides]]
-blob_href = "urn:sha384:NTuFH7N3V0OFl92gBNP-j9UZrbCzYM30FZiMxnhek7QwJYAkalsP2F76OsbwFQBJ"
-href = "urn:sha384:D6qdETy1pKX3WGdyACuQ1Bc0iBJZCblxtqN8w_98f3bvNwpWYVhh1v_S2BQyy7F4"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de spijkerbroek"
+text = "farmerke/farmerice - traperice - džins"
 type = "phrase"
 
 [[cards.sides]]
@@ -144,15 +129,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/52779076@N02/6158205022"
 title = "buddha jeans loves Levi's, his own pair"
 [[cards.sides]]
-blob_href = "urn:sha384:Er4QdiWd0L_xYWicHfywRI1oyA4TkIKogf5kNjdo29JcfsEKdjKKAak5EOoouYI4"
-href = "urn:sha384:kRje-Q4NExSZNGCH1H7oPgvYgQ261VN4HbYWjKr3DEHocpOJtPhalVycDIkS8Dxn"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de schoen"
+text = "cipele"
 type = "phrase"
 
 [[cards.sides]]
@@ -168,15 +150,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/85546319@N04/13973180424"
 title = "Bontoni Oxfords"
 [[cards.sides]]
-blob_href = "urn:sha384:328B-KAqEpkGEpvkrAeUpQo5X_E1kHN0k3uWpO0IF8EbyGAL0nDLAa9RZPW0mBO6"
-href = "urn:sha384:xVMYnnlukCZ8JRsMJbJ7aPWmKicJiVu_EsCx2sAzYrhef5fIKcta8Kzw4Y4hdS1v"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de sportschoen"
+text = "patike - tenisice"
 type = "phrase"
 
 [[cards.sides]]
@@ -192,15 +171,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/23505652@N03/6230693577"
 title = "Sneakers"
 [[cards.sides]]
-blob_href = "urn:sha384:vVGgWQ8PbcOYeD5BQd5e0KfnSUOe1D7EVHQ3FBMbsYrWKX_5iKJRk8t0c5TeIsr4"
-href = "urn:sha384:in191IObNo9PDwws_4SJfHzpQJULtlZUmWxNDSJhK5oLqYZz0N7bh_tmRO2_4Ac9"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "\nhet jasje"
+text = "\nsako "
 type = "phrase"
 
 [[cards.sides]]
@@ -213,15 +189,12 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:uTCG5Tmy7K1PlwXyDEjRKpJV3CDvNTGx-5iPFnAM6O9HIXqN-aROqifDaFwGGFjt"
-href = "urn:sha384:xjW2TAaFWnKRHqTdP8MLyrgiOB4TfR8mU41JCdVZJe6JA29vPeGfl9pDGAFPohP7"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de jurk"
+text = "haljina"
 type = "phrase"
 
 [[cards.sides]]
@@ -237,15 +210,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/46724642@N07/8637994027"
 title = "1950s 'Water Rose' brown, blue and green floral dress with ric rac trim"
 [[cards.sides]]
-blob_href = "urn:sha384:pNqI1J3srP6xzDosT-xgA9JG--D_yp7UrjWAlCN8iNZ62TIT5_ksx1NPtsJaGlNh"
-href = "urn:sha384:VDIFJ7Y-LdDJDyApn5bvUTHnMTLujHWCDqZRXnQGaCWyqJ2lni629_6z_WC4TK8j"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de rok"
+text = "suknja"
 type = "phrase"
 
 [[cards.sides]]
@@ -261,15 +231,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/121483302@N02/14582824731"
 title = "1980s ‘Hot Flamingo’ pink tropical floral full pleated skirt"
 [[cards.sides]]
-blob_href = "urn:sha384:k8yLdDJpbQN5pOFe4oEFp-jrR4qSoBQvB-m2GJ4zUBKlKgWxnGeNcblDfOUu5m28"
-href = "urn:sha384:kRbTLf0DeUtyypWD3RL_EOVj2V1AtiBP1K9rRNA5QXv3g-OfANjHVSnyXNfeepUg"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de blouse, \nde bloes "
+text = "bluza"
 type = "phrase"
 
 [[cards.sides]]
@@ -285,15 +252,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/46724642@N07/8873314666"
 title = "1970s 'Sheer Scarlett' red secretary blouse by Renoma of Melbourne"
 [[cards.sides]]
-blob_href = "urn:sha384:luU6nU1-xzOnssJ39jtl2rxT7d-mgJfC36w7G45ptrYHvE9o2ST-xzE54lM8Uo0p"
-href = "urn:sha384:CA8K99e10UsBZv-UIYL81kvpQBnKohdjyQWJ8pO6V1vG7puZ2Hjk1LE-ZZXesU8N"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het vest"
+text = "bluza na kopčanje"
 type = "phrase"
 
 [[cards.sides]]
@@ -306,15 +270,12 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:eCN2NWzMfq-DCDmEQxKK3sxF5KEf4-TnDFL0eVPTvvOi8eKTiBpPkAJjho5RYGXw"
-href = "urn:sha384:WVVZJAfrwkIQXbra6oy7mpdELxF366oKGifsjghzxLZjRdOqt6OXsvqvbYwxA0qN"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de laars"
+text = "čizme"
 type = "phrase"
 
 [[cards.sides]]
@@ -330,15 +291,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/130010866@N02/16649143025"
 title = "Michael Kors Aileen Riding Boot Stiefel 40F4AIMB7L Kalbsleder schwarz (3)"
 [[cards.sides]]
-blob_href = "urn:sha384:vanUr7YUUyoQImFy0q5b6WABoCYHI3HVJaF9yYDncbi7IObS9ed9KvwJ4kMcHrru"
-href = "urn:sha384:d4e-SCKNcNCPeFmU9C4-ZL-D1u0NdxXdgcpieAmnBfEHLIDh3-5Pt0vpMxjD87eS"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de schoen met hoge hak"
+text = "cipele na štiklu - visoke potpetice"
 type = "phrase"
 
 [[cards.sides]]
@@ -354,15 +312,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/28510393@N07/3134882958"
 title = "\"JULIUS GARFINKLE\" brown leather pumps heels"
 [[cards.sides]]
-blob_href = "urn:sha384:5CShJlzBFmpppDHlR_MCct_qDkTDougfY0A8r2Pd26Xk2dIfmHWbh69xvMPxJ3Ky"
-href = "urn:sha384:9jRdUK82kj1Om-Xfe9AQhHJGWAs5y9Ww9sOsSjreShJFhOw1EWuDEXqCuSOsQaWy"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de riem"
+text = "kaiš"
 type = "phrase"
 
 [[cards.sides]]
@@ -378,15 +333,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/47896503@N06/5039696482"
 title = "C9 - TOKIO BELT"
 [[cards.sides]]
-blob_href = "urn:sha384:0iXUEvAQfd9wezgvfDQS3NsNDyTDFytibLOBV--tcUkQwhgjT1Olq9i0Qr3rvM7u"
-href = "urn:sha384:TygRKRUa3buJKOzDeasMSqsEAiGbkjQ55Lv9_mj3brI5V9-j4rH94s_Ox2noqURg"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de das, \nde stropdas"
+text = "kravata"
 type = "phrase"
 
 [[cards.sides]]
@@ -402,15 +354,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/38102495@N00/317415954"
 title = "Duct Tape Neck Tie"
 [[cards.sides]]
-blob_href = "urn:sha384:wCslSdaD0ducC07O2K0CMGYN6C1Q66vykKnSZu1Sx2l_uN5q2vkX9k60ramWQ5-W"
-href = "urn:sha384:8IfYhJPd1Q41-6wOmHpr6asidMDKSeSN33Umdscnntr-ClrND7bZwq7bbdeTzld7"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het jack"
+text = "jakna"
 type = "phrase"
 
 [[cards.sides]]
@@ -426,15 +375,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/90235707@N00/75860910"
 title = "Easton Men's Baseball Sport Jacket"
 [[cards.sides]]
-blob_href = "urn:sha384:FuJ6Kxy39dOD1pRCzviO8Rdf5AGWlmKuhu9FUL8C_yTu0b-QbDmzrgqMrIE86KrF"
-href = "urn:sha384:QbGZUZBv04ON6TfN3Fhhr0EMIDFEfbO8dN-juhrE2_vlMyw7OwDj6883KLUBSYjf"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de jas;\nde regenjas"
+text = "jakna sa kapuljačom"
 type = "phrase"
 
 [[cards.sides]]
@@ -450,15 +396,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/17293359@N07/9407835345"
 title = "Raincoat"
 [[cards.sides]]
-blob_href = "urn:sha384:JXRsODnCPSUmmCrA5I5A_G5yxmtMw53DP_lcLTq7aXtJ5Vxlk2CvXgvpXXgBwArR"
-href = "urn:sha384:IhGZzHntJoHfd0SJojfMxw2ozHmmfj8iKirdUUU0KqNeVfOCMkfS8bYRzQyw_aaO"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de das, \nde sjaal"
+text = "šal"
 type = "phrase"
 
 [[cards.sides]]
@@ -474,15 +417,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/64693558@N00/3324182556"
 title = "Love the Ugly Scarf"
 [[cards.sides]]
-blob_href = "urn:sha384:CmsbTAu2wWZVt6p24Fwjffn4mLf1XFVlWq9qNqHRJSD26LUR--XWxNhGqK0E_t7x"
-href = "urn:sha384:d7nYowrFPxbvRFYn7vlaKVaeQ9yhXsh1jz0yQF3PUtxGEKaS8r4oPEJHNtd9sokj"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de handschoen"
+text = "rukavice"
 type = "phrase"
 
 [[cards.sides]]
@@ -498,15 +438,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40633065@N07/4997101960"
 title = "Intermediate Cold Wet Glove (ICWG)"
 [[cards.sides]]
-blob_href = "urn:sha384:WBDLjB3Vx0pRJyDhbO3YbfHI4FvcGec80GA2P99rZZLBGWfGvQScHp7Kotr8W8Hy"
-href = "urn:sha384:XVAWPaueqz2N382EPPuU9BfaCOSajh5e-OJ7ivkrGRwSjYXV4z0Ix6qOTk8-Bk91"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de pet"
+text = "kapa - bejzbol kačket"
 type = "phrase"
 
 [[cards.sides]]
@@ -522,15 +459,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/93153549@N06/17927289139"
 title = "DesignerOutletSalzburg_Gaastra_Cap dunkelblau"
 [[cards.sides]]
-blob_href = "urn:sha384:fw8lbrXwc436tJQ5YrM4KLM2XP6X6OrXjWu3KMSMGgcMSbNyI21DS1-RRzanGz2F"
-href = "urn:sha384:xApvpGjt4lu21EuNdnSmI-PbjI2BORWoE-VeQNK0g3q2n0jX6cJz7UHQdwNQ9lWE"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de muts"
+text = "vunena kapa"
 type = "phrase"
 
 [[cards.sides]]
@@ -546,15 +480,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/48600087038@N01/5434990856"
 title = "Hat #36"
 [[cards.sides]]
-blob_href = "urn:sha384:aIQgKB8T2rJdTRmxfYiwV49Lv81ZTO5U05Wjt6Rcotx_hiT_AkxF1ul89qRoxjBY"
-href = "urn:sha384:f4Be3dLbT6Jy-nnU2vzpK6d4XIsBGN-ionByTbwdThO0N-a_MGJRAQ8jOtOC0em5"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de jas, \nde mantel"
+text = "mantil / kišni mantil"
 type = "phrase"
 
 [[cards.sides]]
