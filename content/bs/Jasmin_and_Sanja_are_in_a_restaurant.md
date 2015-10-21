@@ -3,7 +3,7 @@ title = "Jasmin and Sanja are in a restaurant"
 contributors = [ "128.59.37.53", "128.59.76.180", "160.39.198.99", "83.163.136.111", "ian", "wed23",]
 headings = [ "Phrase", "Audio", "Speaker", "English",]
 type = "lesson"
-target-languages = [ "nl",]
+target-languages = [ "bs",]
 source-languages = [ "en",]
 [[cards]]
 
