@@ -8,7 +8,7 @@ source-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Dobro veče."
 type = "phrase"
 
 [[cards.sides]]
@@ -25,7 +25,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Dobro veče, možemo li dobiti sto za dvoje kraj prozora?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -41,7 +42,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Naravno, molim vas, sedite!"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -57,7 +59,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Evo jelovnika. "
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -73,7 +76,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Hvala."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -89,7 +93,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Kakav veliki izbor!"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -105,7 +110,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Šta želiš Sanja?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -121,7 +127,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Jede mi se pjeskavica. "
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -137,7 +144,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Večeras neću meso. Možda testenine sa povrćem"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -153,7 +161,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Da, to također zvuči dobro, ali ipak ću jesti pjeskavicu."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -169,7 +178,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Da li ste izabrali?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -185,7 +195,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Molim vas, pjeskavicu s pomfritom za mene."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -201,7 +212,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "I testenine s povrćem za mene"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -217,7 +229,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Hoćete li da počnete sa salatom?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -233,7 +246,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Hoćete li da podelimo salatu, Jasmine?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -243,13 +257,14 @@ text = "Sanja"
 type = "phrase"
 
 [[cards.sides]]
-text = "Shall we share a salad, Jaap?"
+text = "Shall we share a salad, Jasmin?"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Da, to je dobra ideja. Veliku salatu, molim vas."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -265,7 +280,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Da li hoćete nešto za piće?"
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -281,7 +297,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Času crvenog vina za mene, molim vas."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -297,7 +314,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "I pivo za mene, molim vas."
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
@@ -313,7 +331,8 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Hvala. Odmah ću. "
+type = "phrase"
 
 [[cards.sides]]
 type = "empty"
