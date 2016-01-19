@@ -549,7 +549,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/17293359@N07/9407835345"
 title = "Raincoat"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:egChHXvwoLp8YzZV-3WyWvyOkZGNvLhawjSqQff-59Yb2ITXhFe8zeLo8qKx0FEz"
+href = "urn:sha384:hgRyZO9Ux6DIt0FI2ZDG2VpaeffBuFocPiCH1Yxuzxn8LYsNfUVWuGeIBpCUrU3c"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -570,7 +573,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/23193408@N00/300837340"
 title = "Scarf around"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rm-ruBQrjoyD0YXyDey_fw1aRM499JSNhQzvhVnhy7WtqbvhzC32tmb_HzWTBfxU"
+href = "urn:sha384:xhHj-6Zqvd_aNrhxfWuw2KProPpQYtCMHA2IGBiItE6xOYrYyi2W5w3ZVrBIhvlM"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
