@@ -84,17 +84,17 @@ text = "ett par shorts, Bermudashorts"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:wmMizx5J3rUXhickTypc0Fz8eHZzrBEQR3hv5iUVBY97BL01FslX9Fj_E1qsY50F"
-href = "urn:sha384:bMoGE1ypL7o1zPl8ixRgSGftq3P-sqweGWprJkPcaF_cGm0Fsn6v_Vak8KPUIMwx"
+blob_href = "urn:sha384:1R0IEtLSzcHiDbuXP9hLr1_kGtnt5PslzDtdZtkYx6tBTF6Dwu50n5VT1NcH70Di"
+href = "urn:sha384:hl-9JMtS3IkwbWag-XKkOLr2LFvGTjx2hUsF8BJ4ZzEuQh8-rkpOj1a1-CPuBkB2"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Hotlanta Voyeur (HotlantaVoyeur)"
-author_url = "http://www.flickr.com/people/33591211@N04/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/33591211@N04/14336518665"
-title = "DSC04246sq"
+author = "See-ming Lee (See-ming Lee 李思明 SML)"
+author_url = "http://www.flickr.com/people/48973657@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/48973657@N00/1453058902"
+title = "Von / 20070921.850SD.IS.0708 / SML"
 [[cards.sides]]
 blob_href = "urn:sha384:Tzspg-yAoqIJDzEV9C9yyqBtXDhH0P_x0Gl3lqcM8D2iZZtgXeoYVLchtVxWE6gK"
 href = "urn:sha384:yZ4WDnBvxXKMl6eIXhNWQQ4U8tEOYAyukiH1LzznXuOPWVB-C1SkNe-HNydCFw2V"
