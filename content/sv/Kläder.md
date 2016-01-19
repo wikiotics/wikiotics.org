@@ -261,7 +261,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/121483302@N02/14582824731"
 title = "1980s ‘Hot Flamingo’ pink tropical floral full pleated skirt"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TJSQjikduy_L4Ik4ZQmvRf5NixYydkeulH9X8V9HySRNj8suTSNpRaIF44StPIza"
+href = "urn:sha384:sJ8gfImy9CZU2CWk9LJ-_fWkIiNcyleYy_rgYwggaenycTi7JIxaar-M5n2Aildk"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -306,7 +309,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/62997622@N03/6402726967"
 title = "gucci-joy-medium-tote-bag-crystal-collection-1"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FHjZ4f2npA_yz4cIqu5ifObfweYCC-6kzUweU5Qj8-xNV8Le0SHeKQGuYj7hKCXB"
+href = "urn:sha384:KinnEEcDavZDOsOwskX4MYpjewfoQIgXdOXJDtRc_QH-9gvfW-CgqdQvKJ71DUZB"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -327,7 +333,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/76061588@N03/9618372151"
 title = "Adorable Vintage Early 1960’s Violet and Gold Wicker Woven Purse - NewportFashionista"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9yjDXva5kKBan4OOzWOtRNpPj9jaIjkf2gLm_EsXCcKdNuUs12nbc7gvH4Ez7J8f"
+href = "urn:sha384:KANmaVijy9fYw5MX3_IkyLT1wdBTDMkm4Nsj_aKFO0skaJMeOtnY6wFlu3XAMrA8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -348,7 +357,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/10807466@N03/3942180902"
 title = "Louis Vuitton"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:AZAU5ojeLXDRUFot4u1Xgf1t7z2nyX5vC-jM249o4sT5FfIWkWo06rUTNZ6y0hST"
+href = "urn:sha384:XEyqDGvcx3dg11YQzbIiSY_hiV2CXv75IRPqSlPfJMqb2cotfRcWxEoUeImN230z"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -369,7 +381,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/85546319@N04/15933332034"
 title = "Belt from Bijan / Genuine Lizard"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Z7Hy4qeWhe6ceYWlxD8euxbJo8hhTiJvI-oOYhNgCdB3hKmW21gaGeYuGoZUxyka"
+href = "urn:sha384:Y53lpDxQRtg3fLG1KhqWP9iMnERIKC1fCDmTUIhzwl0r_-p7ChIRXe5xftPRlhoC"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -390,7 +405,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/28510393@N07/3137864994"
 title = "CHARLES JORDAN, PARIS, France - yellow pumps - sides"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:tz-tj77F_wQhD3oshFco6xSLmEtDb39AfPej7vLgmA84HsBCIg2W2z3q8o4T_tjK"
+href = "urn:sha384:612QS4jz-4fMItvrOKX4zNIa898UyPbb04S1oHmj9KrrM50v6rwGil3OZbp0ORdi"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -411,7 +429,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/130010866@N02/16649143025"
 title = "Michael Kors Aileen Riding Boot Stiefel 40F4AIMB7L Kalbsleder schwarz (3)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rY7NN5Upf4aaN0VXuEJGnkwkKJ40wYBXR142H8bdBF_CtcIusHZdfNmc6tBdtJ5p"
+href = "urn:sha384:HYXkgFNqU0etc214ubjtKpMFHBJlPLs2W4jwuGAEDf_2q7gMWvDN6plQlxeaEZX0"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -432,7 +453,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/48118654@N08/6547869423"
 title = "D'rezz Slippers"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Pml43GkuPtWucyvE5EVKRJ7SBXvdpGnc79BJWvgxU5ZAc7Vv6Gqzl2C9tYjVWxkD"
+href = "urn:sha384:AXDKU1DdtvfLJ-t0LBIQCNFAxfBpcZwCw0d0q9OtDBzoUuGTCgeOGN4WY2h7aV64"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -453,7 +477,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/7715992@N03/4535692191"
 title = "maybe this week..."
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7OvzERtUpnHUUxl5A4hiCPf-9oNjSRiE6EyzBkN3yiA5DnM9jlyGq3Fvvao6aMEF"
+href = "urn:sha384:RXdJJLnDBeviBEe7OgHEjIZZB00RN2Fl8uhCnPh52wvk_otflyEvolii59QcstQ1"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
