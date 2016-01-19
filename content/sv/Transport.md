@@ -321,32 +321,59 @@ text = "En flygplats"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:igO7FkfuqvBTJm57NB5JRvotuSezVR7qe6Tkjw9HZbK3AS9s0gyEBesjViNiTj4e"
+href = "urn:sha384:dRno-Fwkhd4EwJIV7tO4zibJ7cTnisEmVBO0_yEJF8YSdR6C4HgF64iulXEpEjtq"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Helen Simonsson (Bochum1805)"
+author_url = "http://www.flickr.com/people/63457884@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/63457884@N04/8716954243"
+title = "Arlanda airport, Stockholm"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En busshållplats"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:c1jlMFHw1gLJGB_VT2mICdVHNoBHqzU9gdMTaTj9-avEDAzOY8XsodYLIHY8g9zC"
+href = "urn:sha384:tJ2W8Vwc9l4CQMnsBKboi2YyVr4DLE7g9j-pD4H_v06pD34N2D-MHQylOoKIsG8F"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Michael Coghlan (mikecogh)"
+author_url = "http://www.flickr.com/people/89165847@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/89165847@N00/8106730172"
+title = "Waiting at the Bus Stop"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En segelbåt"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WPH-n1nJC8vyANxKDZ7FLklyW9TDtcDU5hxNU_X8PESdjfVH8IfO78fHHk9kp6uD"
+href = "urn:sha384:KhmvaHF9SRB3VK_GptjeDrL3FIbrsfsbdTqdkDYDl3y5QnGYOGIAT_SK6q2Pg7-Z"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (EnDumEn)"
+author_url = "http://www.flickr.com/people/9179673@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/9179673@N04/4957408846"
+title = "Segelbåt"
 [[cards.sides]]
 type = "empty"
 
