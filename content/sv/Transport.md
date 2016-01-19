@@ -96,7 +96,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/89165847@N00/8106730172"
 title = "Waiting at the Bus Stop"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:F1YeWv-WDBpu4ilpl7S6czITp1wZ-Ghfow9FOPxpHG2l-MfdAGjWC_cOGxD_XS7O"
+href = "urn:sha384:NAVoZ4X0de1PkEFCCWQIK6SR6egzGLGzs07DNw8nw-xd62P0ACmnjOek__-mg7QR"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -141,7 +144,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/63457884@N04/8716954243"
 title = "Arlanda airport, Stockholm"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:-qhohHWMdZz0OklUE7mRnJMoXIGSWangZAAgBAcujt5MnK50Eo2SzXUOiAZCBeuR"
+href = "urn:sha384:-V7UOSjBWDaxYVFB1NJEUnf4BoD79kt_nBwflq9j0f907OKxgB1NDlMYHf-_CFBF"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -354,7 +360,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/12967617@N00/5458416320"
 title = "Dunderpunka :("
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:i56VGlEBrL2cWKG2vOnqfktje88wp7evUHfyJHWpSB30TUxBuVSjGlf-ZqC7UAaz"
+href = "urn:sha384:J8f1SbF8ZdvrfrlgBlj6j-5ZLLOwlriB6AeF8M-53Bp3NMQJWkNTRi0eBUgomp4k"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -375,7 +384,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/69139691@N00/2924311443"
 title = "Brad's Motorcycle"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:CS6FwgPLwIIMe5fCQmYjmVSDDWBSETXd9ADxTDwQivfLqU5iR-y9hQ-pVjqGTHRE"
+href = "urn:sha384:5I-_lOGxkZxoJxmAEE7r-UZTdHquW8zvpsHhsl7r5zeUqeaOc3gdIus8GaioYNMz"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -396,7 +408,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/9179673@N04/4957408846"
 title = "Segelbåt"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:PUqkh9I_WM1l5TI_HOhWcPtUkiaZ7L6uNOgaY52zc0NOFVafZr1OzZfUsi4krFsJ"
+href = "urn:sha384:CSnYyI7ornzN1mXFT3ZKJABXucMX6ffpyfQIxU44c-xh-OHrIxa_5Kq3vvOsZ98C"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -417,7 +432,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/96983611@N00/18070527"
 title = "Ambulance"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:f8AFEXL6zbICbJRemkrd9x2f62bXCIhBYThaKvJ6FX9DlErgHVur_TunIdTnRbVZ"
+href = "urn:sha384:qzqku-G4dVnIqgVe8l8z65EBPZXfaV-2asbODpFtSxZ2KqCM1i8SVask7Yiq68XQ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -438,7 +456,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/22121135@N00/6788907934"
 title = "IMG_1879"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5t150ZUXbNggSx1aYVBqRtvuJIWVPha6d4GoWjV1pfKLc3XZq6oJ6JhvhrFTfA1q"
+href = "urn:sha384:NvzmAwaeBOLUwU5XsGMfcJzYsZ-CU5e3Ams0pSDzKiu7Fpi2tGuoq_vFoK0WaNVi"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -459,7 +480,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/37818606@N00/14342934849"
 title = "P2700992"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:9Qhp9MVT9FsjuomudESbCGu44ofiDauIAY84d5tcEdHH4_lOx2SXIh20wPduVSlj"
+href = "urn:sha384:7ercE3EvgDOtVLTiZ_AAntF48udZyKbIcUqUcG1bmPCieBIVPh5xNEwEIoodKsj8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
