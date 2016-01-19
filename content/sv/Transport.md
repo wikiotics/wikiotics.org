@@ -1,6 +1,7 @@
 +++
 title = "Transport"
 contributors = [ "128.59.77.170",]
+dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "sv",]
@@ -85,6 +86,147 @@ author_url = "http://www.flickr.com/people/34301548@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/34301548@N07/3610881929"
 title = "Scandinavian Airlines (SAS) Boeing 737-800 LN-RRH w/ winglets @ OSD"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ett tunnelbanetåg"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:ZDg_Bu_JRVUhdcQ5ZuxIRIQmqQTDnq8PkALCQQtOxogtiXmNrhuYASXZJO9BzymE"
+href = "urn:sha384:3uTcuulsDlHI7s2V7rgviH2-U1Fia5eyy25qE9EKY4FOhOHxJ7Vk5ao3XOSZktSW"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Diego Torres Silvestre (Diego3336)"
+author_url = "http://www.flickr.com/people/31018257@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/31018257@N00/5397931086"
+title = "CAF \"H Series\" Subway Train"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En cykel"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:JuqJCKr83pK1lpReZyHY0LK0gvTfS9fGnn825SNmY8VnLoFG-QmACNCTiyq86jR3"
+href = "urn:sha384:mNWSvieUiffskCS1RdEj15D0Qt_cC7el3CMz--gnMfo8XlqzhTZkHWbwcoKGsvdm"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Michael (Michael PG)"
+author_url = "http://www.flickr.com/people/38217294@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/38217294@N00/3149358543"
+title = "Bicycle"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En taxi"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:0yPcjcBdyOG0hAx3VNqMDi7RvI-emc8CwcOM4eTE5bIza2BJmnd2dm7GLgr7pBFB"
+href = "urn:sha384:rQARfPRL4bCzEeIMDfge_1jkTMRkH_PZ6wVfYUtvE1IZX3vlPLNq0Ht9QsOwMkTd"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Mic (Mic V.)"
+author_url = "http://www.flickr.com/people/33756577@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/33756577@N08/4617052884"
+title = "Arlanda Airport - Stockholm, Sweden"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ett fartyg"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:x10EYfI8dC-alQa0ewWcdaVQxUobjf6qII1yyPl_n1W_scEdiicMYQvOPj509Z0I"
+href = "urn:sha384:Gxm0RICFIXC3ZS1uuKZnBCBiYbhCCL2I0gtLBUJcMoJhHUpchluqTLwEThPHCV4N"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (EnDumEn)"
+author_url = "http://www.flickr.com/people/9179673@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/9179673@N04/955341512"
+title = "M/S Crystal Symphony"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En skärgårdsbåt"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:cpBkgCQ0ZfKShVut20h0wmLJrdWENuljS6C1318msDWO27MGo-tmkrmXE6N3okJh"
+href = "urn:sha384:McXcQrZDDghS9rVF79iGfkPu302g015Bdk_SGf0IXWfQbmDQzp_naPOjNE_eE6T2"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Bengt Nyman (Bengt Nyman)"
+author_url = "http://www.flickr.com/people/97469566@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/97469566@N00/4810523522"
+title = "IMG_7233"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
