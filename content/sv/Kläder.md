@@ -501,7 +501,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/85546319@N04/15424684527"
 title = "Charvet Ties"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:tbJUqjB3XHUwwCNuiwkN9aWYTVlxHLp83NnBCRogxytI0E0-e6-ffAVvMnpC6aaF"
+href = "urn:sha384:B5AALHido6FlP1Ss_j_15zNJw49IZCbcorAZh4yY0h7pRF-tV4xEBU9_uykcSrHy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -522,7 +525,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/85546319@N04/15695467871"
 title = "Polo Sport Hoodie"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0dMhWCd0v4aH1vsLqKii--g58BwcxZ1_8fZZ-1iKYOmvuER7n8KUNhRZN3WtVkGY"
+href = "urn:sha384:msmlA3ihVS5fe31lNbzIISjkywpgt0vdVhU_Y05aw2THdK-7vs_Hj7NvLNFb9GG8"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -585,7 +591,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40633065@N07/4997101960"
 title = "Intermediate Cold Wet Glove (ICWG)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Ar311sOAlE2WmhkitqPFJ1qhnx5Ed38SV_Q57IXajxUvQk-qDgrs5q2OOkAibtVR"
+href = "urn:sha384:GY7vFjV21OJrrZ0ZdxuIzHA6S8RblHhqF10tp-F_WYqXnIC4tig_A0PpvUpLL5RO"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -606,7 +615,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/93153549@N06/17927289139"
 title = "DesignerOutletSalzburg_Gaastra_Cap dunkelblau"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ibdgON9W1dC-tf1NKp7eNsX0IaVPhf3gH4eZF1CWCoctN9o2jlx8DnYWVLR3u4xf"
+href = "urn:sha384:5_qiNHgXELZbn-Yy-uo0NCYUxWp6Ba_imR_6SCMXfBywMIQk3RqVua4pEJhue117"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -627,7 +639,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/52066925@N00/12254910335"
 title = "Winter hat for Blythe"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:4X67w7YTPUzMMIapNVRMtxEgLG7wbMujKQ41GxHRHPVrL89SZc-rPPcl3C3cQUaf"
+href = "urn:sha384:jN096sS7RWIraGYuatXj9d2095mcxPULwras8sri4VUAgLLFfppLRg_7fYLxBTA5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -648,7 +663,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/23165290@N00/7835321600"
 title = "Jay Sarnoff-Custom Couture cyclamen coat worn by Pat Nixon - 1969 inauguration - Richard Nixon Presidential Library and Museum"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:spNyJDXOwc6BxLTorHop_ZnkDw-2Bg5Stsyy3QieiZiakhiS7fZ3DrenW79IATEH"
+href = "urn:sha384:06tWxK1LABAZ4Sfj38dSmXF1BQciq7N15zDqzkR9yOabbm1PIPDWowrA6rcypdYS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
