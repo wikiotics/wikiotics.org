@@ -241,7 +241,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:AdSzyzV2nMl1CH9wMKLkbopGa_sZagaslDSuM-T3Hv0tK4L0z3BEwtLtA_HN0klD"
-href = "urn:sha384:TwPU9Ejfw2O6DPkFvYGvgjV0PQ_YHg_e79ldPRSS8CTBsFto6sE_5wh8yhHZsSJg"
+href = "urn:sha384:emqDLuQg0YOjdHLMcjrKRjkdX9Bc1tCoxeye6rOCg6JU9sk10jsRk35atpvOEUqa"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -383,66 +383,84 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "ett par tofflor, en toffel"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "de stropdas"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:N_km78QxpRZgsgeSZoNU45SO5zD7nZmGWLBQNyEt2dmOHPW-N1wwvi_DFAuxGeFX"
-href = "urn:sha384:9qBU9IIwf0XhJfXfxzz11O3_m6AWG4KZGh0iTk0Kbm0zfXDUnPGgaf7F-7jAUD72"
+blob_href = "urn:sha384:jRM2x4xQzhe-s-zagIpEU_betPsi_JWYaE9j-QHZXgt0d3HDOikw4bDuRaR5GD2W"
+href = "urn:sha384:qtEQFGhmkOniU1DF95TXTKaRJ3N6QVq_zxwepfgPaljFZ39-14FAqZDm2BQUdRyr"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Jason Eppink (jasoneppink)"
-author_url = "http://www.flickr.com/people/38102495@N00/"
+author = " (MENI from ASO! & Soothe.)"
+author_url = "http://www.flickr.com/people/48118654@N08/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/38102495@N00/317415954"
-title = "Duct Tape Neck Tie"
+original_url = "http://www.flickr.com/photos/48118654@N08/6547869423"
+title = "D'rezz Slippers"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het jack"
+text = "en tröja, en t-shirt"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:r0Pq_WeOPcWiOMiHmNbWlHEAGsAxv_3b43Qq1mQeGRw_sGE_oWxfpVwXRz1gNAAN"
-href = "urn:sha384:1WoWUUStTNxcUEEsqQqPRnWOxYc19HK6CDaqYn-xPLvmxub1D-GBp1EB896BTsz5"
+blob_href = "urn:sha384:qyglIIfeX8OuCh0PHgQpnsp09vS9ez5AymRpEsDjYpjUkOJj0xZpMSqCbJYigrR8"
+href = "urn:sha384:tJf9rGduZ6A9EM2yA0kiYZ2WngchFYto-qcA0Mu4e4DmJQj9UrKG7FlpJosBPDSo"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Tomas de Aquino (warrantedarrest)"
-author_url = "http://www.flickr.com/people/90235707@N00/"
+author = " (formatbrain)"
+author_url = "http://www.flickr.com/people/7715992@N03/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/90235707@N00/75860910"
-title = "Easton Men's Baseball Sport Jacket"
+original_url = "http://www.flickr.com/photos/7715992@N03/4535692191"
+title = "maybe this week..."
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "en slips"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:egd8xQxWpxiheItDNSPLW4agucTJ57f7ynaCMFWgQawygVrOJAoLtWbWKUicmFQT"
+href = "urn:sha384:OA4TqPru5NtoShrXP-ROPxshk-YrJttqRaj0W6Dwci8mp0kk53BtgBvF09-R7G9K"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Robert  Sheie (Robert Sheie)"
+author_url = "http://www.flickr.com/people/85546319@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/85546319@N04/15424684527"
+title = "Charvet Ties"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "en jacka"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:cJQajqQ43NtRxNpZzbwLT-wh-cgrdJ_6-obW4gKpvyPSYVt8iA4MpJ_fHLyGf0fd"
+href = "urn:sha384:ey1dl1zKZdCt4UP5oCtvlrwAaps8moB9SKZbFs6kqHOzfXQPQV9P-keHyYxeNCpQ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Robert  Sheie (Robert Sheie)"
+author_url = "http://www.flickr.com/people/85546319@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/85546319@N04/15695467871"
+title = "Polo Sport Hoodie"
 [[cards.sides]]
 type = "empty"
 
