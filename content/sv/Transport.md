@@ -1,7 +1,7 @@
 +++
 title = "Transport"
 contributors = [ "128.59.77.170",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "sv",]
@@ -292,6 +292,63 @@ blob_href = "urn:sha384:aUGUmJnvfBkpdv7YcWB4ZcUznKPiidoH324NgLM6N6dHA-XC469Ix8mC
 href = "urn:sha384:J3lcHIkfB_ZcwcwnIxEcZOjf1EkIlnGO2NOeyH0pGleu81Tk3DCa7qwknXg6kA4i"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En motorcykel"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:KKzbDH6KDBCwLNWG__2SCQDHJk-hPk--QIK-q_TZR85ZlhX8VruLKb6XNUeAuxxp"
+href = "urn:sha384:U8vhTLspH3W5Vk56UPZYmQcp0_143yZ649qZfEavXxSfEXrXFEEkDt4FOeOXuwXm"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (jbalint1)"
+author_url = "http://www.flickr.com/people/69139691@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/69139691@N00/2924311443"
+title = "Brad's Motorcycle"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En flygplats"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+type = "empty"
 
 [[interactions]]
 answer = 1
