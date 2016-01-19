@@ -467,7 +467,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de regenjas"
+text = "en regnkappa"
 type = "phrase"
 
 [[cards.sides]]
@@ -488,28 +488,28 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de das"
+text = "en halsduk"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:dfZ7T1_bXwmg333AIIY7_9ypTL4t4JEBX_Ctllnp_DMggyQgKYqLXrWzEykZr8Mr"
-href = "urn:sha384:XK9t4XcRVs-89t2rCfUPwHfWYa8p61xbSRA4ODfbxY2m6R-LR_8Uc-pt1z_qe4G7"
+blob_href = "urn:sha384:Ll-JAtvawhi9m0XC1VytCP9OtAkrOC8lFfsD1V72zABW1M49ad2b9wlhJ2myxLDV"
+href = "urn:sha384:TT7qvf4vVcXVd2mZM1o_B1F6EbKPDI0nNar4NIo1QlqjkuqoRvD3Uyljuc-GZiLL"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Kim Piper Werker (kpwerker)"
-author_url = "http://www.flickr.com/people/64693558@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/64693558@N00/3324182556"
-title = "Love the Ugly Scarf"
+author = " (AnnaKika)"
+author_url = "http://www.flickr.com/people/23193408@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/23193408@N00/300837340"
+title = "Scarf around"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de handschoenen"
+text = "ett par handskar"
 type = "phrase"
 
 [[cards.sides]]
@@ -530,7 +530,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de pet"
+text = "en keps"
 type = "phrase"
 
 [[cards.sides]]
@@ -551,42 +551,42 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "de muts"
+text = "en mössa"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:1QA2dEP2KqmOo5Kja3u4CpOomG-Cr-NC69JWDvN9y3tehi185UyN_rAh9dVuAf-g"
-href = "urn:sha384:5hBbIovDLWAi3jsXkvmzwUxKNInhKNL5XpTpyEgsESomK2D3NU9BLcAbsqML-mrq"
+blob_href = "urn:sha384:FQ0Lw2Wh5DIn_nTnk5k1BKsDeVIu-PAWUxVdpZDM9sTF_c9BSunaS9x4x6CKtsDP"
+href = "urn:sha384:cE_eQxDr24SOG-irUGWXZMzMFHqG1Ugr3CT_ZtHyWZlJ7ve5IsXduOkb4G5-pi2Z"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Aine (Aine D)"
-author_url = "http://www.flickr.com/people/48600087038@N01/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/48600087038@N01/5434990856"
-title = "Hat #36"
+author = " (anneheathen)"
+author_url = "http://www.flickr.com/people/52066925@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/52066925@N00/12254910335"
+title = "Winter hat for Blythe"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de mantel"
+text = "en kappa"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:SV3L7Cf7HHLQLjaw8p2MVR1RZCzkEC8tynt81rZS6Q9tuLmXlsxQI2yiZobHmIgv"
-href = "urn:sha384:1eU6bBRAyFeOSpsR59X-a2fyFtTXXV9y0KTwo82MqgAo9sbpPwvwh4mySDjZkU2B"
+blob_href = "urn:sha384:SafI1oIYBwLSwqd_wrU2rOdCik1g3-Ui5QNl1ivLvVht1J4Gly7peb1uF9p94gq-"
+href = "urn:sha384:Tng0v-th25Zhos59TvXwhT6AFaYpYcyvIZ0JHOvVQD0TyznzP5KV6eb83zNHMxgg"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (CastawayVintage)"
-author_url = "http://www.flickr.com/people/44483053@N05/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/44483053@N05/5392414268"
-title = "capes 354 copy"
+author = "Tim Evanson (Tim Evanson)"
+author_url = "http://www.flickr.com/people/23165290@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/23165290@N00/7835321600"
+title = "Jay Sarnoff-Custom Couture cyclamen coat worn by Pat Nixon - 1969 inauguration - Richard Nixon Presidential Library and Museum"
 [[cards.sides]]
 type = "empty"
 
