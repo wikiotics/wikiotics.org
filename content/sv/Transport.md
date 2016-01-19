@@ -1,7 +1,7 @@
 +++
 title = "Transport"
 contributors = [ "128.59.77.170",]
-dividers = [ 4, 8, 12,]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "sv",]
@@ -80,6 +80,27 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
+text = "En busshållplats"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:c1jlMFHw1gLJGB_VT2mICdVHNoBHqzU9gdMTaTj9-avEDAzOY8XsodYLIHY8g9zC"
+href = "urn:sha384:tJ2W8Vwc9l4CQMnsBKboi2YyVr4DLE7g9j-pD4H_v06pD34N2D-MHQylOoKIsG8F"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Michael Coghlan (mikecogh)"
+author_url = "http://www.flickr.com/people/89165847@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/89165847@N00/8106730172"
+title = "Waiting at the Bus Stop"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Ett flygplan"
 type = "phrase"
 
@@ -100,6 +121,27 @@ blob_href = "urn:sha384:uISeXzAALMQHOO1fmIgwopJq-y0TGmABEMYKY_GlWF67Y1EtG_1dY8ol
 href = "urn:sha384:k0uipjjO1HHJJ9dU1ePkcNkOAdzNfWSGQ1Dv1-qgMtP-mwMmnrd2exJx6gwcZKZH"
 mime_type = "audio/ogg"
 type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En flygplats"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:igO7FkfuqvBTJm57NB5JRvotuSezVR7qe6Tkjw9HZbK3AS9s0gyEBesjViNiTj4e"
+href = "urn:sha384:dRno-Fwkhd4EwJIV7tO4zibJ7cTnisEmVBO0_yEJF8YSdR6C4HgF64iulXEpEjtq"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Helen Simonsson (Bochum1805)"
+author_url = "http://www.flickr.com/people/63457884@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/63457884@N04/8716954243"
+title = "Arlanda airport, Stockholm"
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -296,6 +338,27 @@ type = "audio"
 [[cards]]
 
 [[cards.sides]]
+text = "En lastbil"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:fQwWreKF_ACB9wdJIhQjSw558_fljAdq-oC5KdMXmzZi-hgX4PrFzxR4J1ZJ7OzJ"
+href = "urn:sha384:erdZ0geNh879dscFeuX2QLeuGyV3gAHegOd9SQiYhiCwXN0HyYQ7llRg1ll3eDdr"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Cristoffer Crusell (cristoffercrusell)"
+author_url = "http://www.flickr.com/people/12967617@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/12967617@N00/5458416320"
+title = "Dunderpunka :("
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = "En motorcykel"
 type = "phrase"
 
@@ -317,48 +380,6 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En flygplats"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:igO7FkfuqvBTJm57NB5JRvotuSezVR7qe6Tkjw9HZbK3AS9s0gyEBesjViNiTj4e"
-href = "urn:sha384:dRno-Fwkhd4EwJIV7tO4zibJ7cTnisEmVBO0_yEJF8YSdR6C4HgF64iulXEpEjtq"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Helen Simonsson (Bochum1805)"
-author_url = "http://www.flickr.com/people/63457884@N04/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/63457884@N04/8716954243"
-title = "Arlanda airport, Stockholm"
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "En busshållplats"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:c1jlMFHw1gLJGB_VT2mICdVHNoBHqzU9gdMTaTj9-avEDAzOY8XsodYLIHY8g9zC"
-href = "urn:sha384:tJ2W8Vwc9l4CQMnsBKboi2YyVr4DLE7g9j-pD4H_v06pD34N2D-MHQylOoKIsG8F"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Michael Coghlan (mikecogh)"
-author_url = "http://www.flickr.com/people/89165847@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/89165847@N00/8106730172"
-title = "Waiting at the Bus Stop"
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
 text = "En segelbåt"
 type = "phrase"
 
@@ -374,6 +395,69 @@ author_url = "http://www.flickr.com/people/9179673@N04/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/9179673@N04/4957408846"
 title = "Segelbåt"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En ambulans"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:sZSpqrq__7r01InGC59PwLMxCTbCQ80tnu0i1fvWqAtAdzYIp-_k6wtpQwDS4QRI"
+href = "urn:sha384:D0K4Dl1R_2sdQ1rr5d-JAf3TdbRvdTGxxlKUP5BbDiMSUNDByQzbFfxKgfBN4IWT"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Steven Isaacson (spi516)"
+author_url = "http://www.flickr.com/people/96983611@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/96983611@N00/18070527"
+title = "Ambulance"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En brandbil"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:HwbhGmwn8hIv7XXzanQz7PBMK8DK12eGplBCyeNeEYAPp-WrFaLuONRuQdeNxrRD"
+href = "urn:sha384:gEQrQOgtU2mMyOs2fJUWA_TKkV5LrWH_GsVT8pWLC3Txp3JNZDMI2d6tP90SgN7w"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (MPD01605)"
+author_url = "http://www.flickr.com/people/22121135@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/22121135@N00/6788907934"
+title = "IMG_1879"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En promenad"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:p0bDdxVNYpNjgxTzMK2f332LFovH-pXRbLPGZUYCGXKMuwKNEf-SHp61sdX5t0O3"
+href = "urn:sha384:_G6lb19ex_sEQHXjeR94u5pVdwmZvMNZwdbYhmSN4vkWpsTlbVDsG-Tl2i6ywXU_"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Franklin Heijnen (amsfrank)"
+author_url = "http://www.flickr.com/people/37818606@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/37818606@N00/14342934849"
+title = "P2700992"
 [[cards.sides]]
 type = "empty"
 
