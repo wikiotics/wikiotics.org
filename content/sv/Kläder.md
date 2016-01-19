@@ -96,7 +96,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33591211@N04/14336518665"
 title = "DSC04246sq"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Tzspg-yAoqIJDzEV9C9yyqBtXDhH0P_x0Gl3lqcM8D2iZZtgXeoYVLchtVxWE6gK"
+href = "urn:sha384:yZ4WDnBvxXKMl6eIXhNWQQ4U8tEOYAyukiH1LzznXuOPWVB-C1SkNe-HNydCFw2V"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -117,7 +120,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/85546319@N04/10988219123"
 title = "Charvet Place Vendome"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:rY40sJS2LVG5r8oVT-IQo6SnMkXkesCyNHzJfLLSr4yqUjgXvQPhBXR0tnRFvB2M"
+href = "urn:sha384:fYheTJ9noymT6ZwU_ZTI0MVi3jzXAgdz09eJxt8rPCAyg_KwoFXW4KfLUvQ0BFRy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -138,7 +144,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/52779076@N02/6158205022"
 title = "buddha jeans loves Levi's, his own pair"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8vKPAk4xY5XoRbqDDISMyC7HMp4wNeu_m1aMRLHfRsLQ2wkPK9QXUfrLeNW52dK5"
+href = "urn:sha384:16yZb-2tA6WFZr_o3-qCTjr4cdiHLA8_6uR2rsFCt-1YB2GBN-gHW5tFQTq3Q0Uy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -159,7 +168,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/85546319@N04/13973180424"
 title = "Bontoni Oxfords"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:FuOfN-hHLV4k1LdPOzwhL84Xspg4e1obsJ_T-ivzN9VbOUw5JuqH-LJwIIXI8-q5"
+href = "urn:sha384:sOCK06V-orJqspU9cCD-_5TBPw70VEZ2B9HHuVSDGw9j0ReYVkBcRmUoWHs_i8Ex"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -180,7 +192,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/23505652@N03/6230693577"
 title = "Sneakers"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Z-OXS5ZACNq4AU2VhAbg9vKmc8Tk6HouXdoaJN9uGzd08PMAxihSO3-y-fZ4FmxK"
+href = "urn:sha384:gN6-FOI-2k9USL13Kti7ac-1xizdIKHKDGTvJvctR3mkDxYAKE6bDK6Rsx1t_91R"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
