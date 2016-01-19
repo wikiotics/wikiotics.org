@@ -24,7 +24,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/83046650@N02/7608075290"
 title = "Train"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:ZXS5cyIbfZOuhyndv4ozxgqLEhw9tRbc1KKXqFgrJJRnXb_0JjxSaCfs-JdhJAwI"
+href = "urn:sha384:KHwlstjZ-D4Ns6jGYcQZzarnv4Qe1Q0g3jxNLx8AiYQVzoNA94s0mGUqg3bp8Upc"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -45,7 +48,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/37691369@N08/16528567826"
 title = "Volvo V40 T4 Plus 2014"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:l79tl8nWozyOk5xiLJynGkPpmhlYU1UxPWKFGG4GppE1R0JxttWRa3NstKfNq2sP"
+href = "urn:sha384:L-4XK7f2KMIMf9Bx7JB47oua1XzRHEuk_qINiRn91VtmElTkw2gZXyDwhUWtOEK6"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -66,7 +72,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/95482862@N00/2574954774"
 title = "New CT Bus"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:D9rxPkoqst_q-Flu9Uypkc8yZiBk1ik5qL8V7mjWABqqsne4NM3GS2YjvmQUn439"
+href = "urn:sha384:QMLp8Wrlk3QDcswlpxN27wLegdwG5wOin98RhT-zktVrlxQNX8I9l9yoOEq5gXpX"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -87,7 +96,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/34301548@N07/3610881929"
 title = "Scandinavian Airlines (SAS) Boeing 737-800 LN-RRH w/ winglets @ OSD"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:uISeXzAALMQHOO1fmIgwopJq-y0TGmABEMYKY_GlWF67Y1EtG_1dY8ol1T0Pr3A_"
+href = "urn:sha384:k0uipjjO1HHJJ9dU1ePkcNkOAdzNfWSGQ1Dv1-qgMtP-mwMmnrd2exJx6gwcZKZH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -108,7 +120,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/38217294@N00/3149358543"
 title = "Bicycle"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:F9b1QFjyk2BJJEr7WwF3mxXE29kwrtwiPuM9cvI-ICI-KDED_fVGpWDs4NtXtFsZ"
+href = "urn:sha384:rk-fs7x7TygHdK87pD5ONT701_WxQuGh1uHptIpd2giEBlQzaBvQJ6iaEdn0R_Cz"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -129,7 +144,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33953321@N00/458677778"
 title = "Tandem"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:26HTmcJgjcX41aOBx3yhP7bjDsgQ6Sid8Wa7RW-5nocxFDvTUBYThw53Jfkq5fOS"
+href = "urn:sha384:LxLiOZLUCUiaoQ91BUFjWd5uhtF6VmLXeOai0KKM-K2DY7r_fC9mUcrpcqwJHKlz"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -150,7 +168,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/97469566@N00/4810523522"
 title = "IMG_7233"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:AijOeDrxOGvyj6L0nyvqcXOf87Q0O3mJYVCtxiqHWddzzH9Vlk-JxS-G0z1pCY5V"
+href = "urn:sha384:Q8aJSCFaihruGvmQ1eVNyZcQikwuBTYMJU6W_WOHiVf6oHdCS4ntY-Ht1SskiTZg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -171,7 +192,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/9179673@N04/955341512"
 title = "M/S Crystal Symphony"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HjM46epPKauAxv_nadwSbJIaNB9BQYLBYo39BPqYS6Wf0vWwjH7nx-GcrJ2BxlY2"
+href = "urn:sha384:Poyb2x3Npg9Gehx-HwNfBYjlGF7a5Jx3cmVL_bQPFBhEB7WWmgIiSChs980Ig73A"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -192,7 +216,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/31018257@N00/5397931086"
 title = "CAF \"H Series\" Subway Train"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:lvQGKsI9Ryc9OSQqhiPvUMDO7xv11D_zKh6B902WotD-JrBBOfo1ZzzSrSF4TfeO"
+href = "urn:sha384:3Ou_PvVFI2-fXwHavOqfGLHlTDEFVoRQCU96MuDOjpfaoNEA5LtqxcBFdWxaGGbf"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -213,7 +240,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33756577@N08/4617052884"
 title = "Arlanda Airport - Stockholm, Sweden"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:yY1x5Q_JmgXxVs6xCaMtNCd34quuZNu_zPI0brKsAphePNN4cKDJqD539qGOKLcB"
+href = "urn:sha384:DoqdAPZTF9fF1zlZGLeGOsi6P_X14ZzPoBSWPii2IzhDsRGNAgNgSuG_ezqB-S66"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -234,7 +264,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/54851755@N00/17322405202"
 title = "Unterwegs nach Skedbro"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EC7yVC4LfxTqlGS-leJMXG4HOyu040BuyXyuulhKiBh35LeLFe1thWG6KOlu9z58"
+href = "urn:sha384:I_Im3zMXNTzslYeH1ogSyIVsd75XB09Fr2Lt7w06VK6fIC1udnMsBLdDFM297cY3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -255,7 +288,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/35034359137@N01/401377047"
 title = "IMG_8315"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:aUGUmJnvfBkpdv7YcWB4ZcUznKPiidoH324NgLM6N6dHA-XC469Ix8mCljR37kuU"
+href = "urn:sha384:J3lcHIkfB_ZcwcwnIxEcZOjf1EkIlnGO2NOeyH0pGleu81Tk3DCa7qwknXg6kA4i"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
