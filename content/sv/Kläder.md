@@ -12,8 +12,8 @@ text = "en kostym"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:LzwrHt9gad72586GaUmtZ7Fs9r64X6542x8Yt4qZJtmx2ZhtTaeEZsFtvDudn6w1"
-href = "urn:sha384:zLkz7V6e0J2XotGsYwYHquTSMnPwWFzulLzKL7eJi9qq0X7sY-TZ3h8u4-HzsgOy"
+blob_href = "urn:sha384:YZoc1p5HkhiRpawC6LpP2-FjDt841qoJ7Kps2RQq-jJiUHij3KBwoc2p_-RUO9jH"
+href = "urn:sha384:F-S5noLpEstUWrmOsa9bNv24ihvj44fKEm1WV7BcQgR79JzcOLsy_679pH49i8hd"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -21,8 +21,8 @@ type = "picture"
 author = "Kent Wang (Kent Wang)"
 author_url = "http://www.flickr.com/people/27454212@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/27454212@N00/18342703342"
-title = "Blue linen suit"
+original_url = "http://www.flickr.com/photos/27454212@N00/3195433239"
+title = "Getting my driver's license photo taken"
 [[cards.sides]]
 blob_href = "urn:sha384:jW2rNeuUGfj3MxNiCdrDnlw5fnuvisl-vkFVABtRKc9-XxXoZU4V1yWm6xw8V4jt"
 href = "urn:sha384:V9INkesdAOdHGQRkyciGV1ZwlUAvaQZ1az7S8Hjh_dqVSPcfUIFLW7bhlO40f854"
