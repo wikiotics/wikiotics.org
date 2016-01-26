@@ -1,10 +1,10 @@
 +++
 title = "Kläder"
-contributors = [ "128.59.37.53", "128.59.77.170", "ian", "wed23",]
+contributors = [ "128.59.37.53", "128.59.76.180", "128.59.77.170", "ian", "wed23",]
 dividers = [ 4, 8, 12, 16, 20, 24,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
-target-languages = [ "nl",]
+target-languages = [ "sv",]
 [[cards]]
 
 [[cards.sides]]
