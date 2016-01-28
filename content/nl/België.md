@@ -1,7 +1,7 @@
 +++
 title = "België"
 contributors = [ "wed23",]
-dividers = [ 4, 8,]
+dividers = [ 4, 8, 12,]
 headings = [ "Vraag", "Antwoord", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -185,6 +185,88 @@ type = "phrase"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "De koning van België heet ______"
+type = "phrase"
+
+[[cards.sides]]
+text = "Filip"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:sesawNi2nmreddovvjNt_EjYADku_fOvYWQ7LbinpoJe2bx-0O3O_8qOkEXGiSRL"
+href = "urn:sha384:n20SZEgTs9v3M4KYY5qV041QOQW2rwZaG08G1uOrAlwmpPPB-oPToAikzGSR8jDo"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Dennis Jarvis (archer10 (Dennis) (65M Views))"
+author_url = "http://www.flickr.com/people/22490717@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/22490717@N02/15290152852"
+title = "France-001310 - Gold Crown"
+[[cards]]
+
+[[cards.sides]]
+text = "De koning van Nederland heet ______"
+type = "phrase"
+
+[[cards.sides]]
+text = "Willem-Alexander"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:sesawNi2nmreddovvjNt_EjYADku_fOvYWQ7LbinpoJe2bx-0O3O_8qOkEXGiSRL"
+href = "urn:sha384:2n0-mtJ-vz5mieQyx-wfoRnlZRi_FE7ZZikVxPUYbH0M1UbrIjoL8GK_dEMyFaec"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Dennis Jarvis (archer10 (Dennis) (65M Views))"
+author_url = "http://www.flickr.com/people/22490717@N02/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/22490717@N02/15290152852"
+title = "France-001310 - Gold Crown"
+[[cards]]
+
+[[cards.sides]]
+text = "De minister-president van België heet ______"
+type = "phrase"
+
+[[cards.sides]]
+text = "Charles Michel"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:LpfNzVXbQNdii7A0FD4Owyht85SQJ4YEmNHBFFJTEoacU1mJ2K6wukE9MsOWqObc"
+href = "urn:sha384:7v_J6iYGZqoL10he5ewvJKg2HodKypBe_h3NoWihbyF2USOpUq1srtqrk9v2vrkv"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards]]
+
+[[cards.sides]]
+text = "De minister-president van Nederland heet ______"
+type = "phrase"
+
+[[cards.sides]]
+text = "Mark Rutte"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Nh7W9oeYMeTQixid8AlpXc4d3HvR7uAoKOxYL5MGJglpZztM7jS-qaJFKXmywBmQ"
+href = "urn:sha384:Ogk46Gl56zfVaSpvJL9dSRr4QSKlJaxKK8RLWg_t0-ZaLDyE8L6VbdPKkbRxINyU"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
