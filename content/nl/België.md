@@ -1,7 +1,7 @@
 +++
 title = "België"
 contributors = [ "wed23",]
-dividers = [ 4, 8, 12,]
+dividers = [ 4, 8, 12, 16,]
 headings = [ "Vraag", "Antwoord", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -267,6 +267,58 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards]]
+
+[[cards.sides]]
+text = "Kim Clijsters is een bekende Vlaamse ______"
+type = "phrase"
+
+[[cards.sides]]
+text = "tennisspeelster"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tom Lanoye is een bekende Vlaamse ______"
+type = "phrase"
+
+[[cards.sides]]
+text = "schrijver"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tom Lanoye is een bekende Vlaamse ______"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Tom Lanoye is een bekende Vlaamse ______"
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
