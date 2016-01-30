@@ -1,7 +1,7 @@
 +++
 title = "België"
 contributors = [ "wed23",]
-dividers = [ 4, 8, 12, 16, 20,]
+dividers = [ 4, 8, 12, 16, 20, 24,]
 headings = [ "Vraag", "Antwoord", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -401,6 +401,90 @@ author_url = "http://www.flickr.com/people/41383869@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/41383869@N07/16006364794"
 title = "Flag of France, Undated"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Brugge"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:UTfYuwKjJo61K-kXzk8MJfXt0hMGHyMgH7d-Ql5SzVuoiQM9UZnwVurcUX6lkFUP"
+href = "urn:sha384:E--S2qXPN59tkBbzrPXRvcwYtrlTtPenbo4cmbmJOTTD-gMhSsY6fUFnmmnm-teU"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Wolfgang Staudt (Wolfgang Staudt)"
+author_url = "http://www.flickr.com/people/53074617@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/53074617@N00/2597081317"
+title = "Bruges"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Brussel"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:bfKP9d_vpIzpkd3_Km0nk3L6I7OrTz8hYLInOBq3jZlGvKAE98aHbNEMjk1s7FRj"
+href = "urn:sha384:Qz3CNImJ7tFulI1UGWuyvzSX8zou8t33--LkQ5UgYi8HFk7ULzB0Cg4VtMn35VIe"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Nigel's Europe & beyond)"
+author_url = "http://www.flickr.com/people/22890158@N08/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/22890158@N08/10767725103"
+title = "Brussels, Belgium"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Knokke"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Dr8xeG3DUFObv_y-mYeSO1mpH6PZKD1wQdhqCsqgjjHerIc7GT0RaLKBV06Xbd8p"
+href = "urn:sha384:BkcX6skl4xj2EMqpKeN3NDO-YfxYty_jIkH4Y8tOeqN-5XuQ9iWwgAGjEQzQ4rAY"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (enzonen)"
+author_url = "http://www.flickr.com/people/31343551@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/31343551@N00/78084669"
+title = "Knokke bij windkracht 9"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ardennen"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:bYa-oPJRg8mbsfH6vd_YVdaoTaIqGLXDYhks0wruRPhW48F02pIU7tS2UBe_q5q1"
+href = "urn:sha384:HkETjSTNFtNLKzbJUzaTSD4EouBrYLpTLbwNJ8d3MujYxahotE4bNH2BFIBtcto4"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Riza Nugraha (^riza^)"
+author_url = "http://www.flickr.com/people/44115070@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/44115070@N00/5840369015"
+title = "Ardennen"
 [[cards.sides]]
 type = "empty"
 
