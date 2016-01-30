@@ -1,7 +1,7 @@
 +++
 title = "België"
 contributors = [ "wed23",]
-dividers = [ 4, 8, 12, 16,]
+dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Vraag", "Antwoord", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -296,6 +296,19 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
+text = "Dries van Noten is een bekende Vlaamse ______"
+type = "phrase"
+
+[[cards.sides]]
+text = "modeontwerper"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Tom Lanoye is een bekende Vlaamse ______"
 type = "phrase"
 
@@ -309,7 +322,47 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Tom Lanoye is een bekende Vlaamse ______"
+text = "Dit is de vlag van België "
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Dit is de vlag van Nederland "
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Dit is de vlag van Duitsland "
+type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Dit is de vlag van Frankrijk "
 type = "phrase"
 
 [[cards.sides]]
