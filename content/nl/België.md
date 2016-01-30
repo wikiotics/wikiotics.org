@@ -309,11 +309,11 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Tom Lanoye is een bekende Vlaamse ______"
+text = "Tom Boonen is een bekende Vlaamse ______"
 type = "phrase"
 
 [[cards.sides]]
-text = "???"
+text = "wielrenner"
 type = "phrase"
 
 [[cards.sides]]
