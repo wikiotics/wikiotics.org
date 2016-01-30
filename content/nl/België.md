@@ -313,7 +313,7 @@ text = "Tom Lanoye is een bekende Vlaamse ______"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
+text = "???"
 type = "phrase"
 
 [[cards.sides]]
@@ -322,13 +322,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Dit is de vlag van België "
+text = "Dit is de vlag van Nederland"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
+blob_href = "urn:sha384:152KDVKRTeQOG-OVaJ2sQ938G3zx8oTk1W2Nch2RkbpDyE8cvjArR6g7yRNFIXD6"
+href = "urn:sha384:uV9ueLyj0hYaule2fC8DFVvYL7MY6uypy3xyaWfwQ0U4_1xAxvnlN5XxM7o-jrBl"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (Contando Estrelas)"
+author_url = "http://www.flickr.com/people/96937621@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/96937621@N00/3498706302"
+title = "Bandera de los Países Bajos"
 [[cards.sides]]
 text = ""
 type = "phrase"
@@ -336,39 +344,63 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Dit is de vlag van Nederland "
+text = "Dit is de vlag van België"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
+blob_href = "urn:sha384:eZtsH58H3oNTEPr-hl5tlro2kEK-DEUuVa0Fxqvdm-fS5GyswOdp72OzoBGPN3zA"
+href = "urn:sha384:fxIAl7-wL6uRBXp1tBEJXRscPJ7YAh85nOZ-OTfMf5IexJUivSgn7viLYnIEQvO6"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (fdecomite)"
+author_url = "http://www.flickr.com/people/21649179@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/21649179@N00/6032700928"
+title = "Old Frayed Belgian Flag"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Dit is de vlag van Duitsland "
+text = "Dit is de vlag van Duitsland"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
+blob_href = "urn:sha384:YbiMatcXN2ECHP5CiN1F-EAlEhbf127jhCSDvGvGeeYRn4nyx9UU1awh9GOV97Ny"
+href = "urn:sha384:g6zTIHWPrGGQB3SAs5ivZkoA-u12MVr8YkB-71t7NqQANsI70SHnqH86pP6IRD_G"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (fdecomite)"
+author_url = "http://www.flickr.com/people/21649179@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/21649179@N00/7664383982"
+title = "German flag"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Dit is de vlag van Frankrijk "
+text = "Dit is de vlag van Frankrijk"
 type = "phrase"
 
 [[cards.sides]]
-text = ""
-type = "phrase"
+blob_href = "urn:sha384:yG-A2VQ5MnmrPpjfKeu0KkNBvNlMGJpgOqVBLvqulcA1ttkXS1oj8zwpjo49jThz"
+href = "urn:sha384:CnGQA2-PmbVfCoiaXKOtdj-r2W5ipJe1ZqwgG3jXBybPmWI6xtTDhOXAW_LdWadK"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Nathan Hughes Hamilton (nathanh100)"
+author_url = "http://www.flickr.com/people/41383869@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/41383869@N07/16006364794"
+title = "Flag of France, Undated"
 [[cards.sides]]
 type = "empty"
 
