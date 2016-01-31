@@ -278,8 +278,17 @@ text = "tennisspeelster"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pIW5iSTn1xuHu72j1xNEwS41AvSrQGSRkR_98tsLf-CcGKLF_upQJwCzkRi1rkV3"
+href = "urn:sha384:rwG69hsotVCFc6FqlyznM-STOBUI-nE6GecIj6bqblikPlfkSOMMgbN09oAU_2QG"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (Carine06)"
+author_url = "http://www.flickr.com/people/43555660@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/43555660@N00/5776948613"
+title = "Kim Clijsters"
 [[cards]]
 
 [[cards.sides]]
@@ -291,8 +300,14 @@ text = "schrijver"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:TE8S7h2LdjsuHpMJa92OK8b1EI5PVYRbAOklbkKnjKzJOBhZy14K1Io678K4HZb5"
+href = "urn:sha384:ZQTy3UDge9jdkgiIfUcW950FPBjNIA-retsliNog8oZwvKYOmddv1b-dFLnNALKg"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards]]
 
 [[cards.sides]]
@@ -304,8 +319,17 @@ text = "modeontwerper"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:dY1DQKEqKQSfk7Whd3wIdg7weuSG60LQJAxPkZeskMFXrYm5ggN4bLZ1TrEF5rg1"
+href = "urn:sha384:6aZ6WFnXl0BvS6Gz8GdWs4G6obt7gTRdFbvdMx5TKAl5T5P5notDBGpxEIil1rj9"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (Hard Liquor, Soft Holes)"
+author_url = "http://www.flickr.com/people/95246374@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/95246374@N00/5196360092"
+title = "6+ Antwerp Fashion and Outfits 036"
 [[cards]]
 
 [[cards.sides]]
@@ -317,8 +341,17 @@ text = "wielrenner"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:nVJmYJeVZsVucXKuWvoPAZRfGp_hbomzJem6qcQ-OYrfD1fbxg3FfjuqhR8H2uY5"
+href = "urn:sha384:3PCUdGkKIhGcfGHtqhyR89mIj91c9ZdA91EjPxAm2Zxl3nkNeMiqhRkZWprCVnBo"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Roxanne King (Roxanne King)"
+author_url = "http://www.flickr.com/people/51153064@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/51153064@N03/6912792044"
+title = "Tommeke Wins - Tom Boonen"
 [[cards]]
 
 [[cards.sides]]
@@ -499,8 +532,17 @@ text = "van 1860 tot 1949"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:wyDYySG7_1gTrGTrxoLfXknIRUTYQT7YVxTAq4hSCltqtEqbcQJZ6YWxisOshwPW"
+href = "urn:sha384:vIgnSlgW2XgpJKFNWf_TW_xq9jvMhl3uA9RgLOFXAFHCkAwztzpLt6NGB5-CrH9a"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "cea + (Cea.)"
+author_url = "http://www.flickr.com/people/33255628@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/33255628@N00/5688451500"
+title = "[ E ] James Ensor - Skeleton at the empty easel (1896) - Detail"
 [[cards]]
 
 [[cards.sides]]
@@ -512,8 +554,17 @@ text = "van 1390 tot 1441"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:bynr7V1d6jGVv9IWVWMOcpZgNcXnWVAPMdUnjlRY5OyjzuMs95MV_Mx1kJ02gfiA"
+href = "urn:sha384:SuWFHXnGb6B-YKiVNXuV3CVs0p_NSwsrY1RoMDVuASIRQ8z8TlV2lkh-rQfjZjVn"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "cea + (Cea.)"
+author_url = "http://www.flickr.com/people/33255628@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/33255628@N00/7304220114"
+title = "[ E ] Jan van Eyck - Portrait of Giovanni Arnolfini and his wife (1434)"
 [[cards]]
 
 [[cards.sides]]
@@ -525,8 +576,17 @@ text = "van 1577 tot 1640"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:cNKueZzwmw22anFjKvE21xRO7lvnsXvH7PcflmEu8aLTBa07udNvcLCeqpsntd0G"
+href = "urn:sha384:gtbCnOVAqYWsDwkQzdWZ8WlVDQbWyM5YAqZkf6LM8xXsBxT4aNdUjTcz2Zi3-ITb"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "cea + (Cea.)"
+author_url = "http://www.flickr.com/people/33255628@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/33255628@N00/5522378246"
+title = "[ R ] Peter Paul Rubens - Self-portrait (1623)"
 [[cards]]
 
 [[cards.sides]]
@@ -538,8 +598,14 @@ text = "van 1877 tot 1943"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:BPYinhZUvZc7D5B3i3-RSei0lmsilvfl52NWvA632ci4sVS03exYtuff65hQ1qEY"
+href = "urn:sha384:V8Pe7LMO66xjqKufEvkc7QwpzInqM06u4n36fLdg5OtoRGNkYdpDFnCfpokzSlDw"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
