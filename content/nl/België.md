@@ -1,7 +1,7 @@
 +++
 title = "België"
 contributors = [ "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Vraag", "Antwoord", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -407,7 +407,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Brugge"
+text = "Bezienswaardigheden: Brugge"
 type = "phrase"
 
 [[cards.sides]]
@@ -428,7 +428,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Brussel"
+text = "Bezienswaardigheden: Brussel"
 type = "phrase"
 
 [[cards.sides]]
@@ -449,7 +449,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Knokke"
+text = "Bezienswaardigheden: Knokke"
 type = "phrase"
 
 [[cards.sides]]
@@ -470,7 +470,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ardennen"
+text = "Bezienswaardigheden: Ardennen"
 type = "phrase"
 
 [[cards.sides]]
@@ -485,6 +485,58 @@ author_url = "http://www.flickr.com/people/44115070@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/44115070@N00/5840369015"
 title = "Ardennen"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "De Vlaamse schilder James Ensor leefde ___"
+type = "phrase"
+
+[[cards.sides]]
+text = "van 1860 tot 1949"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "De Vlaamse schilder Jan van Eyck leefde ___"
+type = "phrase"
+
+[[cards.sides]]
+text = "van 1390 tot 1441"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "De Vlaamse schilder Peter Paul Rubens leefde ___"
+type = "phrase"
+
+[[cards.sides]]
+text = "van 1577 tot 1640"
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "De Vlaamse schilder Gustaaf De Smet leefde ___"
+type = "phrase"
+
+[[cards.sides]]
+text = "van 1877 tot 1943"
+type = "phrase"
+
 [[cards.sides]]
 type = "empty"
 
