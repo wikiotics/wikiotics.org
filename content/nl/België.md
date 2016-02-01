@@ -1,8 +1,8 @@
 +++
 title = "België"
-contributors = [ "wed23",]
+contributors = [ "128.59.76.180", "wed23",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28,]
-headings = [ "Vraag", "Antwoord", "Audio",]
+headings = [ "Vraag", "Antwoord", "Audio", "Question Audio",]
 type = "lesson"
 target-languages = [ "nl",]
 [[cards]]
@@ -24,6 +24,9 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -43,6 +46,9 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -62,6 +68,9 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -81,6 +90,9 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -100,6 +112,9 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -119,6 +134,9 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -138,6 +156,9 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -157,6 +178,9 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -166,6 +190,9 @@ type = "phrase"
 [[cards.sides]]
 text = "wafels"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards.sides]]
 type = "empty"
@@ -183,6 +210,9 @@ type = "phrase"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -196,6 +226,9 @@ type = "phrase"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -205,6 +238,9 @@ type = "phrase"
 [[cards.sides]]
 text = "mosselen"
 type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards.sides]]
 type = "empty"
@@ -231,6 +267,9 @@ author_url = "http://www.flickr.com/people/22490717@N02/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/22490717@N02/15290152852"
 title = "France-001310 - Gold Crown"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -253,6 +292,9 @@ author_url = "http://www.flickr.com/people/22490717@N02/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/22490717@N02/15290152852"
 title = "France-001310 - Gold Crown"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -272,6 +314,9 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -291,6 +336,9 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -313,6 +361,9 @@ author_url = "http://www.flickr.com/people/43555660@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/43555660@N00/5776948613"
 title = "Kim Clijsters"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -332,6 +383,9 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -354,6 +408,9 @@ author_url = "http://www.flickr.com/people/95246374@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/95246374@N00/5196360092"
 title = "6+ Antwerp Fashion and Outfits 036"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -376,6 +433,9 @@ author_url = "http://www.flickr.com/people/51153064@N03/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/51153064@N03/6912792044"
 title = "Tommeke Wins - Tom Boonen"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -398,6 +458,9 @@ title = "Bandera de los Países Bajos"
 text = ""
 type = "phrase"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -416,6 +479,9 @@ author_url = "http://www.flickr.com/people/21649179@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/21649179@N00/6032700928"
 title = "Old Frayed Belgian Flag"
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
@@ -440,6 +506,9 @@ title = "German flag"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -458,6 +527,9 @@ author_url = "http://www.flickr.com/people/41383869@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/41383869@N07/16006364794"
 title = "Flag of France, Undated"
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
@@ -482,6 +554,9 @@ title = "Bruges"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -500,6 +575,9 @@ author_url = "http://www.flickr.com/people/22890158@N08/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/22890158@N08/10767725103"
 title = "Brussels, Belgium"
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
@@ -524,6 +602,9 @@ title = "Knokke bij windkracht 9"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -542,6 +623,9 @@ author_url = "http://www.flickr.com/people/44115070@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/44115070@N00/5840369015"
 title = "Ardennen"
+[[cards.sides]]
+type = "empty"
+
 [[cards.sides]]
 type = "empty"
 
@@ -567,6 +651,9 @@ author_url = "http://www.flickr.com/people/33255628@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33255628@N00/5688451500"
 title = "[ E ] James Ensor - Skeleton at the empty easel (1896) - Detail"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -589,6 +676,9 @@ author_url = "http://www.flickr.com/people/33255628@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33255628@N00/7304220114"
 title = "[ E ] Jan van Eyck - Portrait of Giovanni Arnolfini and his wife (1434)"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -611,6 +701,9 @@ author_url = "http://www.flickr.com/people/33255628@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33255628@N00/5522378246"
 title = "[ R ] Peter Paul Rubens - Self-portrait (1623)"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -630,9 +723,12 @@ type = "picture"
 [cards.sides.credit]
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
-prompt = [ 0, 2,]
+prompt = [ 0, 2, 3,]
 type = "choice"
 
 +++
