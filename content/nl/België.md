@@ -25,7 +25,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:hDVFadaXbHMrpIoTsrqJSlC2k3GW23gFFls0QtwidMOqnxfYaKoQ6vRFKRrrHAwR"
+href = "urn:sha384:utz4wQqV56mQjsLBKKg7aZOgxSIeJoYadK3tstl_-Y0RGTkGbHYxxrxczJQ2Qw5N"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -47,7 +50,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:v4DvZCnLzQOte2rXxpjphEk62msH4Zeg0cafpJA0p5e_PX_IENW6SOzTAtSDqA-i"
+href = "urn:sha384:HgwoyaWlIWupZsGeDGyU_ytATZsSyDjwnroSPCS4MdBvUBoG8otjrUkSW707y5e3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -69,7 +75,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:v7U43mEiBmycmZhHYXlu5FOi29yumhYJDuXn9hjG714GWIKIdgEv-yWsFiPRRBVy"
+href = "urn:sha384:br5FpfBSoo08j9DXie35cjDiine25gHUUJhhLfCOUpmcjnu9A_8CnsCxIMggeRkm"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -91,7 +100,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:k3FE1hiNf0swJ8yqBFlSkGkfldiBFsfVc5tGRjxKvvvvmY2k2CgzYM9PxT2fkeqn"
+href = "urn:sha384:U3lwg0PsieYW9KrCxxH7RuXEj52A9OP3CpJ1zFDVOVdLdQZjvk7j0vaINI3hKZzG"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -113,7 +125,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8SWcYZ-mNMueuNwL7TsIbWbkFgohMbM_uz-o2E2c93cKkizCB38m48tr9w1b7s94"
+href = "urn:sha384:-zfPymmT5to6mWWgVm9fLe-MifllT_dIHMcRIay8ZBM_iEI7t3CAZgV98GRK8EO5"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -135,7 +150,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:P8dCsjyRKCm2AgYq6zGs_dbQNxmkZuxU8QERqkdhrWd27BBs9y4omomxlj_oDNY1"
+href = "urn:sha384:7hDowJlxO1sBNIkXzgApIWUwgIbmHSFWkDkirygI0PDTL3NWvE8E-k4h73HAivsq"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -157,7 +175,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:SHiCz3dgvZyzQGNCIR2VQLtepDKzgcRXE4TuwCTdB_SfUA0aGoQiwuqNeJeuZlV-"
+href = "urn:sha384:SgKCtNxGl2h7GaAek8Z128dH91D1iI1BMiHF4dOeiWoeKfR_Amq0BiL0pTC_OMJp"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -179,7 +200,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:bMOhIDDq4ynOIdiSpSDgnduE33y-TTF4bmUzAF80t8iV1TqNpC8INSpiLqhh-yS0"
+href = "urn:sha384:vmzb3m54PKk7ujjVT-JJkWFryTkeHlTUKr7fHIipRh9uw--2-vZ7VjFKSfSSlgjv"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -195,7 +219,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:f3Eo5o-jIVS2q2RaLU7B_2fGIRSEwpl_qpaYMb1fR53haWBC8fKFcbONkmTnUY9S"
+href = "urn:sha384:e1scNFBvsSm5htCBz6MDZA9ckFXfrlpJe-BjwIoHiaA0fBoEw6xTQlTbl2Z5eYcg"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -211,7 +238,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:usq372tP5e1isfx_Nv0PSuj6ejX_OJIt4H2kD6VRJrGpeKo_-8ELPeeOh82PeKMk"
+href = "urn:sha384:HeB2eKUcWipECfx93suNJDNsipxNtcrrZN4AjwrQKPkGOjshdrQ3_F5ZB3QbHGF2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -227,7 +257,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:blBw5TxvBGeCyEaFSqo0iXfTy-Xkg9xglYs2qxgQO7SfWm3I-xx59H_Tc8akic0d"
+href = "urn:sha384:PTSkyT6aYOhrHQpp_ec21SFnV26Z8_gY4pPFCzvrvzO_wjWiqwkUt01wQ4F__P5l"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -243,7 +276,10 @@ type = "phrase"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:zfdO2wQQSsFU2--Q9ProRHVOg0h831VBymUrwrP6cOfo5uo5TYN3R3YD0rvrDUQc"
+href = "urn:sha384:7afxJ0BlxtcJMmX2_iaWmKbaQKznBHInsA_SJSOgf0ONauX-zvdWm3Z9HJGnM3pe"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -268,7 +304,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/22490717@N02/15290152852"
 title = "France-001310 - Gold Crown"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3t4LQRSxWJXRm5uogICaKC5_Ob6Tw_BJ635HcnKONcqfjbKa6py5TIVBq9Ky3e1u"
+href = "urn:sha384:fMm1ZGgSnVCmJkEDXnKOB423tcxbIBrZ3fc2jNTn_lH8IKkhdRJ3lcGe2f1SOPEO"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -293,7 +332,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/22490717@N02/15290152852"
 title = "France-001310 - Gold Crown"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:A1v8ZgzzhkmuB_yHYytk5OeL0EvZni8GiL7xsFDEOx4bX1Ca8VdQmxQ19IR0QlIk"
+href = "urn:sha384:9HA3jhBw9ZPPSAww29anzdcLhyQ3v4gDTHVaYWDq4Rt9PgnKp4Xq9ZGtKz2119_2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -315,7 +357,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:bcJgKuGQPHU5TrWEe67Lz_W4m4U1gXpMAn689BD4_o8YR30dV_L4O-JpEoXswi1x"
+href = "urn:sha384:jRCLw7ydHtV0gyuww5oMnWlIpTy854D2KjXUu7VIXw6FzgT29rtz8LaD1bv2tnTb"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -337,7 +382,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:HIAZlhgeaiFCVEi7_2xcsI579vqYpKYCzbbKZfe4gn22NmROFkCKHHZtuWtDv_jT"
+href = "urn:sha384:XfpDnJMZgj2afjdOgR63VPeb4zKY_BkhAu9E3ieiWQtEj5NG4K76r6DSzYPa6Fr2"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -362,7 +410,10 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/43555660@N00/5776948613"
 title = "Kim Clijsters"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8CZ1eFkfI3DGYcGEDwsiyBhsh_ulQbVjrucyx04aZcE0XJ3OJ6esu7Wn2ysd_u0H"
+href = "urn:sha384:DMx9oOnXYMH0cimwzxEayO7rXsnXbcgqLcrJQKtv0GMNWHJr0kWF0Qc1Wq8XhfK3"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -384,7 +435,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:2DoYEETobpFyNUnnqtfZWlERTGx_PEslurQXduYhY-P_XTGykk_8nLPVOGwT3gbH"
+href = "urn:sha384:DI42NYtfP4gQ8Rdh3ayIok8UQcji04YEYORfOf3ExlOxEAe99tJL2JS4Sk6b3ZD4"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -409,7 +463,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/95246374@N00/5196360092"
 title = "6+ Antwerp Fashion and Outfits 036"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:Wjyp_NEO9LSqw9-xP_8R8FUK1-Ni0TEDjvjvqMHa6BQ7qB5I8fwN6e0o0buQrYFt"
+href = "urn:sha384:YqB0Sx1O3UTCuaH5DSeC0v7SdCSF5bcEV-BhusPeYnNT_nw6Wz5UQSpK0yAxmRzH"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -434,7 +491,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/51153064@N03/6912792044"
 title = "Tommeke Wins - Tom Boonen"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:VwQvBYxgZpKnAOVQMglVoZG5yfUIDpPaRyRg4cKRE4m8k1ITEiWmYdcqxCCRNJtu"
+href = "urn:sha384:uJ0pLwHZIYPziBqppfdHk1LLp9_vwEZGye40CrDNgp2Om1vfkaszUaKGMmq-NV-l"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -459,7 +519,10 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7gBq5OactkCjpxdHRPKMJ3bXnFiZb5pG4mBbQ5hTTK9ojfxhZOcotC__EXNFmoHs"
+href = "urn:sha384:EWsXlaxba9BBjYi1ov8ggat5Xu4N4n6w4aILVhKEngxpQGEKDSHXGBFCUwN9mRBP"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -483,7 +546,10 @@ title = "Old Frayed Belgian Flag"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:3NMtY472NwRG2cp616kWrhpZKTZsw-x1eqkSPg_URJ6vm_V8GGA22rdjk974_2zr"
+href = "urn:sha384:I-g0bh2K4HBKlysVijFUrgJWmo8UzfhYeqAYYKMVkWmJdCKA1Ing8rUJvXWmm50p"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -507,7 +573,10 @@ title = "German flag"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:pORfgeQQzg3wuinl1lJVt2SmDaRngry9Sn9LYPGt_cqMVanpD12Cox9K74tW9E6x"
+href = "urn:sha384:xIQAP4pZgN-_Pga9UjoLN--OvVU6fejaAhwhka4Miy7ujLYK1klh_X4IubUmjamJ"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -531,7 +600,10 @@ title = "Flag of France, Undated"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:QsaDg-LUCPTo4hs8AEyfSbhHW9A9mS8e9IVPEPjVADYIhYU10Nd0Peu-ReXXBxyz"
+href = "urn:sha384:WWzB1jaPN6PIn2TazSYzghorjWOBxznLdf4HrKYXfWGXUAdNHTUbCtgPXN0a00xU"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -555,7 +627,10 @@ title = "Bruges"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:EN1CiKvPJzahtyeAy3CvcYCQiHu0B0-W-i6QrL8j3ODc49-COHOE6B8LrmatUqtC"
+href = "urn:sha384:s3gRTigjt64GSqapl1Y40mWXj51D0sbLOMv_lTkjpxfmHfpn03FHyw564f5cedvy"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -579,7 +654,10 @@ title = "Brussels, Belgium"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:bt0NmHsLeZLN05T8TgpioFLgxqOQuGFHIg0kTjKeMPxc9DJHmp3POtHQDKh2WL15"
+href = "urn:sha384:_TbkF4jEMntRKxNPHLzWmZJMQenGqanD5IQt49dnUq9vetNntEGeqtjlihv9OX7C"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -603,7 +681,10 @@ title = "Knokke bij windkracht 9"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:8lwfRlvyOwRq_6IMMVbqCGk4CKCDr1fjprkwqtEENamc1u8b8HsLrYuStl2JgZO8"
+href = "urn:sha384:KfGcLpQTAWJwgYUCE42FBtp-UzYrWaLYxlpFv-ZRMnXT4ejI79Nckd7VtRCTwxZp"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -627,7 +708,10 @@ title = "Ardennen"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:5FUHx3pc4LZVJsfkZ-ZL1awIkS7KmKIEh2RVYXRPUFvbreZ1baiVBh4jKrYSarfB"
+href = "urn:sha384:meiDgDh-mfADUXQfBFzUiBz7F4Myur3D_qLMOkPKquHX51_ahWmwLD0WC9bStpmL"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -652,7 +736,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33255628@N00/5688451500"
 title = "[ E ] James Ensor - Skeleton at the empty easel (1896) - Detail"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:DrYU9Oum1e1ekI-QxlvPDdFcJ2CKVTjsa3Ti2Gjcjs27ZDExoViTQp-0zg8v4TPY"
+href = "urn:sha384:AUQrmf7TA25V6ixV4-hHGFWD_GYEygTyMGHdaCA9bTZFdsbzcDF5ALjEm6ROhgPN"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -677,7 +764,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33255628@N00/7304220114"
 title = "[ E ] Jan van Eyck - Portrait of Giovanni Arnolfini and his wife (1434)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:XOjJ-caN96iv6IgfOrbt300_cm6E_1k6GjKucEKQziJcYBIpWZE8UpsmRmsQGu22"
+href = "urn:sha384:1XEMCDOHfD_BPuCIRcbgAUoWDT8OqovbRqcFrGnqtvxGZ8n3AZxjQpHZ1xo3ybBS"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -702,7 +792,10 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33255628@N00/5522378246"
 title = "[ R ] Peter Paul Rubens - Self-portrait (1623)"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:WF4-dJ3JR6FUiGxiTjhZAH2i-_gN_09XyCM7_G3VWAmuOtpRuQXW2JYlL3RcD_Nl"
+href = "urn:sha384:JeekkQs6UHyLuRYDbGM3loDUD63eq1JnniqPweuq2bztLTXOTb8JfSDjg4lxcEKT"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[cards]]
 
@@ -724,7 +817,10 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:l27nbU3JHH9Kmn2f9XU44zIXC21Li7heRyWr6i4Nkf7jVFjqsbpYSe2b1vQW4TjH"
+href = "urn:sha384:Gdkge6QgSxsMiUV3oPJAJuhNV2VUJsAEZAlp4NS_sN44mzmgaoQeavZ3B8scnq-t"
+mime_type = "audio/ogg"
+type = "audio"
 
 [[interactions]]
 answer = 1
