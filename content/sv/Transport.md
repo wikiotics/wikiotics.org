@@ -1,6 +1,6 @@
 +++
 title = "Transport"
-contributors = [ "128.59.77.170", "85.226.145.13",]
+contributors = [ "128.59.77.170", "173.77.0.61", "85.226.145.13",]
 dividers = [ 4, 8, 12, 16,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -74,30 +74,6 @@ title = "New CT Bus"
 [[cards.sides]]
 blob_href = "urn:sha384:D9rxPkoqst_q-Flu9Uypkc8yZiBk1ik5qL8V7mjWABqqsne4NM3GS2YjvmQUn439"
 href = "urn:sha384:QMLp8Wrlk3QDcswlpxN27wLegdwG5wOin98RhT-zktVrlxQNX8I9l9yoOEq5gXpX"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "En busshållplats"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:c1jlMFHw1gLJGB_VT2mICdVHNoBHqzU9gdMTaTj9-avEDAzOY8XsodYLIHY8g9zC"
-href = "urn:sha384:tJ2W8Vwc9l4CQMnsBKboi2YyVr4DLE7g9j-pD4H_v06pD34N2D-MHQylOoKIsG8F"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Michael Coghlan (mikecogh)"
-author_url = "http://www.flickr.com/people/89165847@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/89165847@N00/8106730172"
-title = "Waiting at the Bus Stop"
-[[cards.sides]]
-blob_href = "urn:sha384:F1YeWv-WDBpu4ilpl7S6czITp1wZ-Ghfow9FOPxpHG2l-MfdAGjWC_cOGxD_XS7O"
-href = "urn:sha384:NAVoZ4X0de1PkEFCCWQIK6SR6egzGLGzs07DNw8nw-xd62P0ACmnjOek__-mg7QR"
 mime_type = "audio/ogg"
 type = "audio"
 
