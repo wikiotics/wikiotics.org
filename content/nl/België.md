@@ -8,6 +8,106 @@ target-languages = [ "nl",]
 [[cards]]
 
 [[cards.sides]]
+text = "De hoofdstad van België is _____"
+type = "phrase"
+
+[[cards.sides]]
+text = "Brussel"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:66B1bB9M8ec4HThKeL5A7px7LJtB8R_0bnCqxYI_LkkvL14UQNMGevJE_f2cgSVz"
+href = "urn:sha384:4cn_sxEug2O-schMJHIesNqTjvAS-5Pk76JAM6BHN6O2Hg7ZSDgqMEaFFfhJnis5"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:aihLYvL7QVHDdWJ2yl7S3kJJATJy8yBiHFeTlFBiHpJiIpudKZ-XL55xDkTC2Zve"
+href = "urn:sha384:k_2cSHhz6TqBb7QgjZGMKUIAaURNK7AAhITEW5RDVi447EaVa_1qARbzt7vy2Ji2"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "De havenstad van België is _____"
+type = "phrase"
+
+[[cards.sides]]
+text = "Antwerpen"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:66B1bB9M8ec4HThKeL5A7px7LJtB8R_0bnCqxYI_LkkvL14UQNMGevJE_f2cgSVz"
+href = "urn:sha384:07Ks4rKqHWqAN_3NhtTYqLQVpmVLLigpu1GNKSjvYOBZUtOBKxWMDmpRtsbJLUIM"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:C_HA8Yql1AgzKjz483P6Lm08JWw4jHlLMmhrwwL-7mDmdhaONdRCVebMmho5L7IA"
+href = "urn:sha384:pTBwDYVYVL3bNE94i_CI8JcCY7jydUYiazTxnO6snChQ4_JPaWpdHvgF-iPzHazm"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Een stad in het westen van België is _____"
+type = "phrase"
+
+[[cards.sides]]
+text = "Gent"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:66B1bB9M8ec4HThKeL5A7px7LJtB8R_0bnCqxYI_LkkvL14UQNMGevJE_f2cgSVz"
+href = "urn:sha384:siUYc8CxHl3haPLf-xXv8GT66dXBOvgo5ztyroEtyqHmDhgB2zluhirrn3TctvAD"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:4si1JgjOwNMUqULajRgZqUyxhxzdCUZF_5FrkWieCjNyWRIwjjU3gUBf1yDGjCp9"
+href = "urn:sha384:9Ap8SD3p_uLdyWDCNyuGS21GoKdvfU3SEY-155C0XG_zV_RDlxIffyh93CsTvds0"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Een stad in het oosten van België is _____"
+type = "phrase"
+
+[[cards.sides]]
+text = "Luik"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:66B1bB9M8ec4HThKeL5A7px7LJtB8R_0bnCqxYI_LkkvL14UQNMGevJE_f2cgSVz"
+href = "urn:sha384:2cW9lxCNmyZpXawmNkG6cfnruFd9q3VpX9JgXtMcOlBU1T0bf9LUo2fCRPClM50Q"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:mlhFcN1xrLBti3C73q4ieh00VuqhG6TLHNh-m4XpbCpj7p5Uv4tSIPIPsjPJdEi5"
+href = "urn:sha384:M4BFUME7PtnJpXk7pYWOnIMSDYpTadhNdEfiXtrDDKuLte7dV07RVyzdErlimqQR"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
 text = "België ligt ten_____ van Nederland"
 type = "phrase"
 
@@ -210,106 +310,6 @@ type = "empty"
 [[cards.sides]]
 blob_href = "urn:sha384:5FUHx3pc4LZVJsfkZ-ZL1awIkS7KmKIEh2RVYXRPUFvbreZ1baiVBh4jKrYSarfB"
 href = "urn:sha384:meiDgDh-mfADUXQfBFzUiBz7F4Myur3D_qLMOkPKquHX51_ahWmwLD0WC9bStpmL"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "De hoofdstad van België is _____"
-type = "phrase"
-
-[[cards.sides]]
-text = "Brussel"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:66B1bB9M8ec4HThKeL5A7px7LJtB8R_0bnCqxYI_LkkvL14UQNMGevJE_f2cgSVz"
-href = "urn:sha384:4cn_sxEug2O-schMJHIesNqTjvAS-5Pk76JAM6BHN6O2Hg7ZSDgqMEaFFfhJnis5"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
-[[cards.sides]]
-blob_href = "urn:sha384:aihLYvL7QVHDdWJ2yl7S3kJJATJy8yBiHFeTlFBiHpJiIpudKZ-XL55xDkTC2Zve"
-href = "urn:sha384:k_2cSHhz6TqBb7QgjZGMKUIAaURNK7AAhITEW5RDVi447EaVa_1qARbzt7vy2Ji2"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "De tweede stad van België is _____"
-type = "phrase"
-
-[[cards.sides]]
-text = "Antwerpen"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:66B1bB9M8ec4HThKeL5A7px7LJtB8R_0bnCqxYI_LkkvL14UQNMGevJE_f2cgSVz"
-href = "urn:sha384:07Ks4rKqHWqAN_3NhtTYqLQVpmVLLigpu1GNKSjvYOBZUtOBKxWMDmpRtsbJLUIM"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
-[[cards.sides]]
-blob_href = "urn:sha384:C_HA8Yql1AgzKjz483P6Lm08JWw4jHlLMmhrwwL-7mDmdhaONdRCVebMmho5L7IA"
-href = "urn:sha384:pTBwDYVYVL3bNE94i_CI8JcCY7jydUYiazTxnO6snChQ4_JPaWpdHvgF-iPzHazm"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Een stad in het oosten van België is _____"
-type = "phrase"
-
-[[cards.sides]]
-text = "Luik"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:66B1bB9M8ec4HThKeL5A7px7LJtB8R_0bnCqxYI_LkkvL14UQNMGevJE_f2cgSVz"
-href = "urn:sha384:2cW9lxCNmyZpXawmNkG6cfnruFd9q3VpX9JgXtMcOlBU1T0bf9LUo2fCRPClM50Q"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
-[[cards.sides]]
-blob_href = "urn:sha384:mlhFcN1xrLBti3C73q4ieh00VuqhG6TLHNh-m4XpbCpj7p5Uv4tSIPIPsjPJdEi5"
-href = "urn:sha384:M4BFUME7PtnJpXk7pYWOnIMSDYpTadhNdEfiXtrDDKuLte7dV07RVyzdErlimqQR"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Een stad in het westen van België is _____"
-type = "phrase"
-
-[[cards.sides]]
-text = "Gent"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:66B1bB9M8ec4HThKeL5A7px7LJtB8R_0bnCqxYI_LkkvL14UQNMGevJE_f2cgSVz"
-href = "urn:sha384:siUYc8CxHl3haPLf-xXv8GT66dXBOvgo5ztyroEtyqHmDhgB2zluhirrn3TctvAD"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
-[[cards.sides]]
-blob_href = "urn:sha384:4si1JgjOwNMUqULajRgZqUyxhxzdCUZF_5FrkWieCjNyWRIwjjU3gUBf1yDGjCp9"
-href = "urn:sha384:9Ap8SD3p_uLdyWDCNyuGS21GoKdvfU3SEY-155C0XG_zV_RDlxIffyh93CsTvds0"
 mime_type = "audio/ogg"
 type = "audio"
 
