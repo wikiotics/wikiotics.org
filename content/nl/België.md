@@ -8,6 +8,106 @@ target-languages = [ "nl",]
 [[cards]]
 
 [[cards.sides]]
+text = "België ligt ten_____ van Nederland"
+type = "phrase"
+
+[[cards.sides]]
+text = "zuiden"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ezp2K0-ueX"
+href = "urn:sha384:nJITYK0dHPPua7Fyx5Nu85T4lKXLhvywWTPjvKkkL3Ek5wFPtKU-kAVnDHxESeaV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:KJaEigpxZ3Imkx9tb7IOQnbKGSDcbIc293NDuzvni7AxzPWxOuKBas201qq8W7bp"
+href = "urn:sha384:AKO7o9SZyCyAUfzQGK-V9lAs8pWO-jErVO_HOBwSQfxQp6XhHSAsOyVDY2Jpg1Bp"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "België ligt ten_____ van Duitsland"
+type = "phrase"
+
+[[cards.sides]]
+text = "westen"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ezp2K0-ueX"
+href = "urn:sha384:0_qZufutZU--4fl34eqTzfTCkPEb1ySB85E-6sByq-6cbd8XowTvKriI1yiORrdp"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:V3IM9q44YAk8H1Xnr-JMfN_Jv_Mkea_3djm_-OcAXgv0LUCNxSr1YN2aDWoeOxi_"
+href = "urn:sha384:duSm-LyBvubtZ6xqTfwdu2b2R6RbFX4NWTfcR5CLxf_E5JdSXCo94WXiDo0nqOph"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "België ligt ten_____ van de Noordzee"
+type = "phrase"
+
+[[cards.sides]]
+text = "oosten"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ezp2K0-ueX"
+href = "urn:sha384:uL08MhSnJdoj1rQv915L8ssdShN_vDyl-AXPyeisbemXNRgXMRkeqh5EuVtTA91H"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:1mt2wQdkxrzYQXC4G6jqBJ35GBCc39dvlqDGQrWWUT1DxOnr0xuOc8PfVEoDrhhi"
+href = "urn:sha384:QEKRK431Pw10DEwFmD__9kHJkxwYhuXpXU-8AoTtTHBw9KrVdSWbGxEY8gO4_TNI"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "België ligt ten_____ van Frankrijk"
+type = "phrase"
+
+[[cards.sides]]
+text = "noorden"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ezp2K0-ueX"
+href = "urn:sha384:WfNWEQexljWqcMtUf2_2F3zIu3eTlg-Jxrgs145dF48C0N1L3in53EJ9ktOCFylI"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "wed23@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+blob_href = "urn:sha384:zxE3sNiVwDjEkVGj4V5I7q-ZgGVuJrTYOhnVetlyno65v6e6n0ofKP9UoZ6WdzvP"
+href = "urn:sha384:oE4Qvf7OQArHc_yKXVuwd2_PniSHWVdpVYBmU1sqDAgh7i5CjhvWGJRzYJH7XZN5"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
 text = "Bezienswaardigheden: Brugge"
 type = "phrase"
 
@@ -110,106 +210,6 @@ type = "empty"
 [[cards.sides]]
 blob_href = "urn:sha384:5FUHx3pc4LZVJsfkZ-ZL1awIkS7KmKIEh2RVYXRPUFvbreZ1baiVBh4jKrYSarfB"
 href = "urn:sha384:meiDgDh-mfADUXQfBFzUiBz7F4Myur3D_qLMOkPKquHX51_ahWmwLD0WC9bStpmL"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "België ligt ten_____ van Nederland"
-type = "phrase"
-
-[[cards.sides]]
-text = "zuiden"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ezp2K0-ueX"
-href = "urn:sha384:nJITYK0dHPPua7Fyx5Nu85T4lKXLhvywWTPjvKkkL3Ek5wFPtKU-kAVnDHxESeaV"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
-[[cards.sides]]
-blob_href = "urn:sha384:KJaEigpxZ3Imkx9tb7IOQnbKGSDcbIc293NDuzvni7AxzPWxOuKBas201qq8W7bp"
-href = "urn:sha384:AKO7o9SZyCyAUfzQGK-V9lAs8pWO-jErVO_HOBwSQfxQp6XhHSAsOyVDY2Jpg1Bp"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "België ligt ten_____ van Duitsland"
-type = "phrase"
-
-[[cards.sides]]
-text = "westen"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ezp2K0-ueX"
-href = "urn:sha384:0_qZufutZU--4fl34eqTzfTCkPEb1ySB85E-6sByq-6cbd8XowTvKriI1yiORrdp"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
-[[cards.sides]]
-blob_href = "urn:sha384:V3IM9q44YAk8H1Xnr-JMfN_Jv_Mkea_3djm_-OcAXgv0LUCNxSr1YN2aDWoeOxi_"
-href = "urn:sha384:duSm-LyBvubtZ6xqTfwdu2b2R6RbFX4NWTfcR5CLxf_E5JdSXCo94WXiDo0nqOph"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "België ligt ten_____ van Frankrijk"
-type = "phrase"
-
-[[cards.sides]]
-text = "noorden"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ezp2K0-ueX"
-href = "urn:sha384:WfNWEQexljWqcMtUf2_2F3zIu3eTlg-Jxrgs145dF48C0N1L3in53EJ9ktOCFylI"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
-[[cards.sides]]
-blob_href = "urn:sha384:zxE3sNiVwDjEkVGj4V5I7q-ZgGVuJrTYOhnVetlyno65v6e6n0ofKP9UoZ6WdzvP"
-href = "urn:sha384:oE4Qvf7OQArHc_yKXVuwd2_PniSHWVdpVYBmU1sqDAgh7i5CjhvWGJRzYJH7XZN5"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "België ligt ten_____ van de Noordzee"
-type = "phrase"
-
-[[cards.sides]]
-text = "oosten"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:0n3MkTr_SgnRdqs-CxyetAzx63K2oBw5xaGpK8NlneJeJFRUapyO7-ezp2K0-ueX"
-href = "urn:sha384:uL08MhSnJdoj1rQv915L8ssdShN_vDyl-AXPyeisbemXNRgXMRkeqh5EuVtTA91H"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
-[[cards.sides]]
-blob_href = "urn:sha384:1mt2wQdkxrzYQXC4G6jqBJ35GBCc39dvlqDGQrWWUT1DxOnr0xuOc8PfVEoDrhhi"
-href = "urn:sha384:QEKRK431Pw10DEwFmD__9kHJkxwYhuXpXU-8AoTtTHBw9KrVdSWbGxEY8gO4_TNI"
 mime_type = "audio/ogg"
 type = "audio"
 
