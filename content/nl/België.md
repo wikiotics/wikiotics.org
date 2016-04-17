@@ -1,10 +1,118 @@
 +++
 title = "België"
-contributors = [ "128.59.76.180", "wed23",]
+contributors = [ "128.59.76.180", "173.77.0.61", "wed23",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Vraag", "Antwoord", "Audio", "Question Audio",]
 type = "lesson"
 target-languages = [ "nl",]
+[[cards]]
+
+[[cards.sides]]
+text = "Bezienswaardigheden: Brugge"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:UTfYuwKjJo61K-kXzk8MJfXt0hMGHyMgH7d-Ql5SzVuoiQM9UZnwVurcUX6lkFUP"
+href = "urn:sha384:E--S2qXPN59tkBbzrPXRvcwYtrlTtPenbo4cmbmJOTTD-gMhSsY6fUFnmmnm-teU"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Wolfgang Staudt (Wolfgang Staudt)"
+author_url = "http://www.flickr.com/people/53074617@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/53074617@N00/2597081317"
+title = "Bruges"
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:EN1CiKvPJzahtyeAy3CvcYCQiHu0B0-W-i6QrL8j3ODc49-COHOE6B8LrmatUqtC"
+href = "urn:sha384:s3gRTigjt64GSqapl1Y40mWXj51D0sbLOMv_lTkjpxfmHfpn03FHyw564f5cedvy"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Bezienswaardigheden: Brussel"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:bfKP9d_vpIzpkd3_Km0nk3L6I7OrTz8hYLInOBq3jZlGvKAE98aHbNEMjk1s7FRj"
+href = "urn:sha384:Qz3CNImJ7tFulI1UGWuyvzSX8zou8t33--LkQ5UgYi8HFk7ULzB0Cg4VtMn35VIe"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Nigel's Europe & beyond)"
+author_url = "http://www.flickr.com/people/22890158@N08/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/22890158@N08/10767725103"
+title = "Brussels, Belgium"
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:bt0NmHsLeZLN05T8TgpioFLgxqOQuGFHIg0kTjKeMPxc9DJHmp3POtHQDKh2WL15"
+href = "urn:sha384:_TbkF4jEMntRKxNPHLzWmZJMQenGqanD5IQt49dnUq9vetNntEGeqtjlihv9OX7C"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Bezienswaardigheden: Knokke"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Dr8xeG3DUFObv_y-mYeSO1mpH6PZKD1wQdhqCsqgjjHerIc7GT0RaLKBV06Xbd8p"
+href = "urn:sha384:BkcX6skl4xj2EMqpKeN3NDO-YfxYty_jIkH4Y8tOeqN-5XuQ9iWwgAGjEQzQ4rAY"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (enzonen)"
+author_url = "http://www.flickr.com/people/31343551@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/31343551@N00/78084669"
+title = "Knokke bij windkracht 9"
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:8lwfRlvyOwRq_6IMMVbqCGk4CKCDr1fjprkwqtEENamc1u8b8HsLrYuStl2JgZO8"
+href = "urn:sha384:KfGcLpQTAWJwgYUCE42FBtp-UzYrWaLYxlpFv-ZRMnXT4ejI79Nckd7VtRCTwxZp"
+mime_type = "audio/ogg"
+type = "audio"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Bezienswaardigheden: Ardennen"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:bYa-oPJRg8mbsfH6vd_YVdaoTaIqGLXDYhks0wruRPhW48F02pIU7tS2UBe_q5q1"
+href = "urn:sha384:HkETjSTNFtNLKzbJUzaTSD4EouBrYLpTLbwNJ8d3MujYxahotE4bNH2BFIBtcto4"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Riza Nugraha (^riza^)"
+author_url = "http://www.flickr.com/people/44115070@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/44115070@N00/5840369015"
+title = "Ardennen"
+[[cards.sides]]
+type = "empty"
+
+[[cards.sides]]
+blob_href = "urn:sha384:5FUHx3pc4LZVJsfkZ-ZL1awIkS7KmKIEh2RVYXRPUFvbreZ1baiVBh4jKrYSarfB"
+href = "urn:sha384:meiDgDh-mfADUXQfBFzUiBz7F4Myur3D_qLMOkPKquHX51_ahWmwLD0WC9bStpmL"
+mime_type = "audio/ogg"
+type = "audio"
+
 [[cards]]
 
 [[cards.sides]]
@@ -602,114 +710,6 @@ type = "empty"
 [[cards.sides]]
 blob_href = "urn:sha384:QsaDg-LUCPTo4hs8AEyfSbhHW9A9mS8e9IVPEPjVADYIhYU10Nd0Peu-ReXXBxyz"
 href = "urn:sha384:WWzB1jaPN6PIn2TazSYzghorjWOBxznLdf4HrKYXfWGXUAdNHTUbCtgPXN0a00xU"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Bezienswaardigheden: Brugge"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:UTfYuwKjJo61K-kXzk8MJfXt0hMGHyMgH7d-Ql5SzVuoiQM9UZnwVurcUX6lkFUP"
-href = "urn:sha384:E--S2qXPN59tkBbzrPXRvcwYtrlTtPenbo4cmbmJOTTD-gMhSsY6fUFnmmnm-teU"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Wolfgang Staudt (Wolfgang Staudt)"
-author_url = "http://www.flickr.com/people/53074617@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/53074617@N00/2597081317"
-title = "Bruges"
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-blob_href = "urn:sha384:EN1CiKvPJzahtyeAy3CvcYCQiHu0B0-W-i6QrL8j3ODc49-COHOE6B8LrmatUqtC"
-href = "urn:sha384:s3gRTigjt64GSqapl1Y40mWXj51D0sbLOMv_lTkjpxfmHfpn03FHyw564f5cedvy"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Bezienswaardigheden: Brussel"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:bfKP9d_vpIzpkd3_Km0nk3L6I7OrTz8hYLInOBq3jZlGvKAE98aHbNEMjk1s7FRj"
-href = "urn:sha384:Qz3CNImJ7tFulI1UGWuyvzSX8zou8t33--LkQ5UgYi8HFk7ULzB0Cg4VtMn35VIe"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = " (Nigel's Europe & beyond)"
-author_url = "http://www.flickr.com/people/22890158@N08/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/22890158@N08/10767725103"
-title = "Brussels, Belgium"
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-blob_href = "urn:sha384:bt0NmHsLeZLN05T8TgpioFLgxqOQuGFHIg0kTjKeMPxc9DJHmp3POtHQDKh2WL15"
-href = "urn:sha384:_TbkF4jEMntRKxNPHLzWmZJMQenGqanD5IQt49dnUq9vetNntEGeqtjlihv9OX7C"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Bezienswaardigheden: Knokke"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:Dr8xeG3DUFObv_y-mYeSO1mpH6PZKD1wQdhqCsqgjjHerIc7GT0RaLKBV06Xbd8p"
-href = "urn:sha384:BkcX6skl4xj2EMqpKeN3NDO-YfxYty_jIkH4Y8tOeqN-5XuQ9iWwgAGjEQzQ4rAY"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = " (enzonen)"
-author_url = "http://www.flickr.com/people/31343551@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/31343551@N00/78084669"
-title = "Knokke bij windkracht 9"
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-blob_href = "urn:sha384:8lwfRlvyOwRq_6IMMVbqCGk4CKCDr1fjprkwqtEENamc1u8b8HsLrYuStl2JgZO8"
-href = "urn:sha384:KfGcLpQTAWJwgYUCE42FBtp-UzYrWaLYxlpFv-ZRMnXT4ejI79Nckd7VtRCTwxZp"
-mime_type = "audio/ogg"
-type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Bezienswaardigheden: Ardennen"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:bYa-oPJRg8mbsfH6vd_YVdaoTaIqGLXDYhks0wruRPhW48F02pIU7tS2UBe_q5q1"
-href = "urn:sha384:HkETjSTNFtNLKzbJUzaTSD4EouBrYLpTLbwNJ8d3MujYxahotE4bNH2BFIBtcto4"
-mime_type = "image/jpeg"
-type = "picture"
-
-[cards.sides.credit]
-author = "Riza Nugraha (^riza^)"
-author_url = "http://www.flickr.com/people/44115070@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/44115070@N00/5840369015"
-title = "Ardennen"
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-blob_href = "urn:sha384:5FUHx3pc4LZVJsfkZ-ZL1awIkS7KmKIEh2RVYXRPUFvbreZ1baiVBh4jKrYSarfB"
-href = "urn:sha384:meiDgDh-mfADUXQfBFzUiBz7F4Myur3D_qLMOkPKquHX51_ahWmwLD0WC9bStpmL"
 mime_type = "audio/ogg"
 type = "audio"
 
