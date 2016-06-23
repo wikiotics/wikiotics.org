@@ -11,17 +11,17 @@ text = "Bu, masa"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:vjQo6bi9av5Hjo18RXbX1WeewV0rO8eTQ2RhMA2fkZErddvC5h9ILHsOaR9hE8Wu"
-href = "urn:sha384:SCKJks4QYffLLgliT7STfU1Dyx4bWlx4bxBMMnCWHqArzwi_AqvAaRCTa5A-Ut7P"
+blob_href = "urn:sha384:7Vmhq2VwE1y9RAvfQZnWfZ97fAIeUw6BjbCNDYYclaM0r7hU7Hw8e-uWJvJ5c9Jt"
+href = "urn:sha384:JieNWzXCMSSw_kaO_olloDM1a8lJhcMNFAoLoQA646xEWxuxnLJ0_sqJp43k3lTZ"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "rjp (zimpenfish)"
-author_url = "http://www.flickr.com/people/12708857@N00/"
+author = "Matthew (m_shipp22)"
+author_url = "http://www.flickr.com/people/89185819@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/12708857@N00/3135563993"
-title = "Table"
+original_url = "http://www.flickr.com/photos/89185819@N00/11900538294"
+title = "Teachers Pet"
 [[cards.sides]]
 type = "empty"
 
