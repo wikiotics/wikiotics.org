@@ -81,8 +81,14 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:bYyk73MJZ1GoxVpXuu29ERXwP7M2qzW1kaqI0L4rWgz9NgEGcxUMpZggnmeqG-AP"
+href = "urn:sha384:bFq9rSqYXAHU-zSM369H8RL2sqLtEkXnsFYR3aNL03X5FunszvVgX2iLjqdnue3p"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
