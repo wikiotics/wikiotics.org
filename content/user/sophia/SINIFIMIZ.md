@@ -33,17 +33,16 @@ text = "Bu, sandalye"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:tUC1tqJkh3mcrGImoGfkq_T8rkXjBvZs_tzAsHmz9KjB22iwjeY4pgDPuMErLVJ9"
-href = "urn:sha384:9fDomorsOJYn4LhXQ97KNLqB0rkV_LNJlYTGuwVfYneXqmWMT4xBS7JKc52GScL6"
+blob_href = "urn:sha384:N3eUoCKVatjr_9bKnD-Jxk1PYUVEMPBJjyf7cAwPdFUbZ0GZnoVkudR7JWztXuM2"
+href = "urn:sha384:n0qafkujKDOqqvZspOt5DIcnhI8JAL1ADs6k7JuO8JlkyJiOYf2YmNeXyxg7lbek"
 mime_type = "image/jpeg"
-rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Molly DG)"
-author_url = "http://www.flickr.com/people/54400117@N03/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/54400117@N03/5069063990"
+author = "Tomas Gal (GalToMassess)"
+author_url = "http://www.flickr.com/people/62001817@N08/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/62001817@N08/6989656297"
 title = "Chair"
 [[cards.sides]]
 type = "empty"
@@ -55,18 +54,17 @@ text = "Bu, kitap"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:aVEHzOmXZQyPIfp631ybwHSGpuB5ZuD6nwvwL-l3ss0626Ntn71iDWWBq3vJM1dk"
-href = "urn:sha384:KENM7yjfoU7oYbtSAs8pUOkdtcQ1-z-tIDGxchShieV97KHgtcee1FSQHU9LNVcn"
+blob_href = "urn:sha384:WTQNg6EY9GzOnXJOevZzPT_Ish4tPVYPNaB2y3uUak9LtLadp5Gb6xqSjOPpyL0x"
+href = "urn:sha384:w2dc61M3dR7x8YQHlJUtYFCP8NwNtr0lIUDINN8GEpQACCJgnD9QyrCYa3wTaBng"
 mime_type = "image/jpeg"
-rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
-author = "Kerstin (aka Ella T.) (modular.dodecahedron)"
-author_url = "http://www.flickr.com/people/115665376@N07/"
+author = " (Kirrus)"
+author_url = "http://www.flickr.com/people/79206134@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/115665376@N07/27177609940"
-title = "Book: 28. Internationales Treffen von Origami Deutschland"
+original_url = "http://www.flickr.com/photos/79206134@N00/8596143348"
+title = "Books!"
 [[cards.sides]]
 type = "empty"
 
@@ -77,17 +75,17 @@ text = "Bu, sıra"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:sAh-HqRWuJpSgTRRA5QyMpHSSm5ian_45tOCB5zxgjBGyxdtMmIM4wX-mj8p_pZN"
-href = "urn:sha384:2lQfQUG7iJK5OGZVSD4MF9MmwPm_lBmZUqSHt7eILFeWGbbcIhfqGJRuK8Ixmxo1"
+blob_href = "urn:sha384:mrJbt09fdimvbsH8yNL5EfJ21ShYniZ_oazVcPj4ngHYb_nBYAGZH5hsxYLrFFuG"
+href = "urn:sha384:vsosifQ_vl2GDP33E1mEXbNN08duNp0Wx44cdwKeIbZJ3rS3vx_xf5XEyCFvCg-5"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Greg Grossmeier (grggrssmr)"
-author_url = "http://www.flickr.com/people/24700112@N05/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/24700112@N05/3653560187"
-title = "My current desk setup at work"
+author = "sarah (evilsarah)"
+author_url = "http://www.flickr.com/people/23345090@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/23345090@N07/3989577244"
+title = "ikea desk finished"
 [[cards.sides]]
 type = "empty"
 
