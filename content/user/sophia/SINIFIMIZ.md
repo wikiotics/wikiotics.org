@@ -12,18 +12,14 @@ text = "Bu, masa"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:dRoCQUiskrPgw6q_UVwlhOUnD67e4zhdEjdf_SAllVn4cfYHsdD0xm2_nu38_OTO"
-href = "urn:sha384:sb6MkDoZRbXjOmTvcvJ_xPYr78rDkBGlsBUb5sgJzSC2BJrsJ8xzZPWMCkwLRB1h"
+blob_href = "urn:sha384:J3NFz-DviLUI279Zsr5OW9T0yUsqyz0cYAck5N13Wko9GXqT3NEwHbIEdDkodo5k"
+href = "urn:sha384:7i3jnxypV-fgxnRcuCgd2KlHTR4ICaBkK3Mcvr0VKrVYUP0Q-RqpsTb0z-CQ58fn"
 mime_type = "image/jpeg"
-rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
-author = "Roland O'Daniel (rodaniel)"
-author_url = "http://www.flickr.com/people/13644457@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/13644457@N00/9366687210"
-title = "photo.JPG"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -34,17 +30,14 @@ text = "Bu, sandalye"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:N3eUoCKVatjr_9bKnD-Jxk1PYUVEMPBJjyf7cAwPdFUbZ0GZnoVkudR7JWztXuM2"
-href = "urn:sha384:n0qafkujKDOqqvZspOt5DIcnhI8JAL1ADs6k7JuO8JlkyJiOYf2YmNeXyxg7lbek"
+blob_href = "urn:sha384:3xOcqThEmEB0Q1_OYAHmCaAfj2OGwGuQvrJ6fthG7Imd9K1X2uPgNU1oSJ3phsYm"
+href = "urn:sha384:fVLbTvddgjkUeGUcHQU5CkcoL52bOudqaUBWAvsuIWibNff80J4mdlmntpMQ-cV9"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Tomas Gal (GalToMassess)"
-author_url = "http://www.flickr.com/people/62001817@N08/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/62001817@N08/6989656297"
-title = "Chair"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -55,17 +48,14 @@ text = "Bu, kitap"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:lx3cLAKp-20xw7cRucotxX8mOzeLAvuRVhlQj8ay9s-2jDO_Qjdx55ij8qaO4gXU"
-href = "urn:sha384:wM259cOcDi7KjmM-OMBYRC-fJKBWQbLSe02-ohjaIVQNin7Nhqk3ewpUnQ40RYnR"
+blob_href = "urn:sha384:cMBdQA_3rayUHCqhlctjbqDsVCxh1s_alk2ZN_HShbwR-MBiCkh1BkWLe1iD_89j"
+href = "urn:sha384:-kR5K_NyyG0SvTPzuQanidLygYTBWZ86pj_pIdAj_zmJAk6LMHfMaJZDKntkPHqK"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Will (50 Watts)"
-author_url = "http://www.flickr.com/people/15100526@N08/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/15100526@N08/6007328607"
-title = "08-Illustrations-by-Estonian-Artist-R.Kaljo,-1962 (click link below image for post on 50 Watts)"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -76,17 +66,14 @@ text = "Bu, sıra"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:mrJbt09fdimvbsH8yNL5EfJ21ShYniZ_oazVcPj4ngHYb_nBYAGZH5hsxYLrFFuG"
-href = "urn:sha384:vsosifQ_vl2GDP33E1mEXbNN08duNp0Wx44cdwKeIbZJ3rS3vx_xf5XEyCFvCg-5"
+blob_href = "urn:sha384:ZDPvus1xV3Lw5aaVeCGEvJflD37ThAccu_q2VUmp8rHjg5F7LWaCzVWDRAnqS2eV"
+href = "urn:sha384:8KK_SRFbv4jK8AuNtTL4y5qdKDMgHy47ieJEm0Lzj4Gjp2L2U86G3OVr5x95fZCM"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "sarah (evilsarah)"
-author_url = "http://www.flickr.com/people/23345090@N07/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/23345090@N07/3989577244"
-title = "ikea desk finished"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -97,17 +84,14 @@ text = "Bu, tahta"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Xdn-gTZ-vMvYw09hQ5XKhHKYS8BeSVVL5QHamumyMNHFiQDEuzFIVzNkAXvhW-k-"
-href = "urn:sha384:Y7z73iQZCTLtt6UsH3qEfI7tYTxFA6skMz-6uq7BUfI9r7iYjuhwEMqGLwd3ko6e"
+blob_href = "urn:sha384:H2ScSc0oDK6Kx9ZJHMDxsR9jqUxvcpQRaAsjmp-Q7YiWn018Je0PV-kHoQaCq168"
+href = "urn:sha384:H4nL3zzzxxD41TTf5NIXVRgHRrI0utDFTrkW-16_HxeciO-rdlVWC4sxNwcj1I_p"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Linus Bohman (Bohman)"
-author_url = "http://www.flickr.com/people/79729522@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/79729522@N00/309492299"
-title = "Blackboard"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -118,17 +102,14 @@ text = "Bu, bilgisayar"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Ig7IJIq784VXYlnBfixAgz3eKZ5cEiZ9SbiUM4zRVJ4PPY6Yd5JLm_zVY3Uoo9Ad"
-href = "urn:sha384:a1ZJ0HTKphMrw7hCp3V1awsb0uu29_cMeHzYoP_ZjsRsqiVQLDK67iW8nCiXI1IY"
+blob_href = "urn:sha384:IQWNJLH3JGYc9AuuaaeJX-strwUWq6CRR09czagAki96WiFEDaRukjXslS1P6kS7"
+href = "urn:sha384:TI2B9Lr72NlqT5WoPkwl-jNM5gDjVJOxihLoEG-NMEMvlaranhCET5k3a76vbhRB"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Luca Conti (pandemia)"
-author_url = "http://www.flickr.com/people/48889088479@N01/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/48889088479@N01/1968998469"
-title = "laptop"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -139,17 +120,14 @@ text = "Bu, harita"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:dacEjwNwUtnt5_B79oUFgNmtcg6P0NEVBmd2Gn5Q_BX9vHge1FsivDyXPS2wOIkd"
-href = "urn:sha384:CJBqocS8jjpWLSSK1VCF3Go4q1Kj40aLhHM4_0DgJhjiYuk1ul_WhLdKjPmx4oKp"
+blob_href = "urn:sha384:KRYNyky7CZdGZVBeT3jYslwyItU2Prb6JxD8218i_e5kpA90QG0Eu6ODiyVtM_4g"
+href = "urn:sha384:3Um5pGRrc60CiREOF5y6-4v3o8ySTKjjyh7UQ-VYqmrZ185TfpBkdwusJT8jwXVT"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (NeilsPhotography)"
-author_url = "http://www.flickr.com/people/21976354@N07/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/21976354@N07/2348943841"
-title = "Map"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -160,17 +138,14 @@ text = "Bu, pano"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:AiegmB4BuPrF2nYiolbIOi8ohI_4nnxzakex1fMvRdE-MV9odlY8SlF-3yK3Jms-"
-href = "urn:sha384:-e9oUaw86lxn2yoOIHt7_yXwX31NTbd_wWog0Tfw2mfIkVOQQJQCCcMwsUbtz-ud"
+blob_href = "urn:sha384:i--SrHXTba-78ACYNd3Ak6jbqY2zMutePMge03K2NTjdIuchmM_xUca2-wGC_1ZV"
+href = "urn:sha384:5Eus7JBcQZ7XCjSiR52RO5NruNsk7ByPPXQdqXvvJ0dwYRA9nlLSRj7Py1FptGHV"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Andrew Malone (andrewmalone)"
-author_url = "http://www.flickr.com/people/41894170049@N01/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/41894170049@N01/2355592191"
-title = "Bulletin board"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -181,17 +156,14 @@ text = "Bu, silgi"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:iTa2p0PM8AaG3H7QxLliQqtvsc3ssBjQOlY9v0fVNBdLWuVfyNDeScghCJ8R6btM"
-href = "urn:sha384:TJ0HWyMfjyudcLHPOROTmtjhylaoBr3kDbl4t5ESaU-VxFpXD6hpTe7OJMzln5lP"
+blob_href = "urn:sha384:q6yTQz5fYXYyc3EoNGYKcfMDzADuEsMRO6StHH_UikXqrUCHlBQg5FhU77cNu23k"
+href = "urn:sha384:fx_Vibs7aZ1X92x0X-TEIiJavSr7dpyKOsBBmJOOKaWv-dITqpYEYAmKJ2D6V0H5"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Momo (bopeepo)"
-author_url = "http://www.flickr.com/people/27207981@N03/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/27207981@N03/4952440770"
-title = "Erasers"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -202,17 +174,14 @@ text = "Bu, çanta"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:j7-4cnNVQnxr57Zq9iksX7Ii6itAg4_XKDM2mCG2qAWrMkDXlT3TbMqE1jw8vHRx"
-href = "urn:sha384:bOMacJbxzRaPDK9eN4ZKT-IfPlaD96bRNm-6s2hXr4dDGvfSr-Ew_m_5VxovzrdF"
+blob_href = "urn:sha384:u0xYpOQ7ycUlrcpCefZQSV8MT4ImZbNeY_APwxkGIJaCHkSfs7TK9t8BsQWjWeiR"
+href = "urn:sha384:TSSlUqzqaqz7hfSltcH91fYFmBfAR3eeNmsI-tBwBtyfIIlSVvHDdYAXU55YeYeF"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (ResoluteSupportMedia)"
-author_url = "http://www.flickr.com/people/29456680@N06/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/29456680@N06/8439284619"
-title = "Kabul refugee children welcome winter clothes from ISAF volunteers"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -223,39 +192,14 @@ text = "Bu, kalemtraş"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:GPtesTME2_Jsznfid5HFeC7-Ow3Br9FhOMr6KRntCVl4xg43dJYmtM0L1HcI68Iz"
-href = "urn:sha384:sPopvf0Zf59NXUcucABVHXzbsn6dWsyTio7kSqvGP8UvI4upYH5WryaPSGsfcu6z"
+blob_href = "urn:sha384:b6kkTmTkwQhAsd1Jn7ZhV80exvu9Ftb2UJn4ZPuAkBMGHyQAx2E2UzrdR6BY8E57"
+href = "urn:sha384:ySacRcJNB2nmjiaWdWEeMTNyGb7CpjpXbUrcZJb-g6bDqy4nF0iidCinLiIwhUq3"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (fsse8info)"
-author_url = "http://www.flickr.com/people/37031529@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/37031529@N00/2792355658"
-title = "globe pencil sharpener"
-[[cards.sides]]
-type = "empty"
-
-[[cards]]
-
-[[cards.sides]]
-text = "Bu, kitap"
-type = "phrase"
-
-[[cards.sides]]
-blob_href = "urn:sha384:aVEHzOmXZQyPIfp631ybwHSGpuB5ZuD6nwvwL-l3ss0626Ntn71iDWWBq3vJM1dk"
-href = "urn:sha384:m2yw7XuJHS2yCwTk68wwjtcVIRyt3GTyubTj2-7MJBsCnos-PI27ZR5-3LG0opNQ"
-mime_type = "image/jpeg"
-rotation = "270"
-type = "picture"
-
-[cards.sides.credit]
-author = "Kerstin (aka Ella T.) (modular.dodecahedron)"
-author_url = "http://www.flickr.com/people/115665376@N07/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/115665376@N07/27177609940"
-title = "Book: 28. Internationales Treffen von Origami Deutschland"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -266,17 +210,14 @@ text = "Bu, kalem"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:xD7j5zoe8fV-cj9lzbgQ1uFRpiLm3BLTJuX221aL5jn7_9Sk8zFlnYsg4onTiRMa"
-href = "urn:sha384:_e2qsRvlp8Y3FWgApyB5xuXBAUfBj5pvggSHi3k3puYN4I2sXa_o1s5_J8TDgiqO"
-mime_type = "image/jpeg"
+blob_href = "urn:sha384:NjDjQ3oZZ9fGO2bQB4mD6WPTzvXHljW_zCxz30sJGL80d0RH3QYubjfxRYdQWt5I"
+href = "urn:sha384:lbg973BL6J1Nr4dGdlDcEPhd85JbwOQoBaUOZRyQcNGZOvzEC2FiegPKypJ3ceUf"
+mime_type = "image/png"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Elle *)"
-author_url = "http://www.flickr.com/people/36214566@N08/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/36214566@N08/4605043024"
-title = "Pencils"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -287,17 +228,14 @@ text = "Bu, saat"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:8RkPmpSfHW8Ahq0unO3qWQ18rWLbxhdmUcZB8TvzTWaMgC-SxgBLsVCKOZ4g3jTD"
-href = "urn:sha384:KtbrrPdh3nhDHsfvP0_f5rn3-9JItRMTQcnJ8K_-9TDIjvne0CHoAPMY6jWO9ZPC"
+blob_href = "urn:sha384:lHv53eDaoANBz1PaO-MXi3SsPBUstXAuJv71Eg9g-JJnHvt6tpzfDEKs6rhc_LWL"
+href = "urn:sha384:dwi7OvRJBB4TiP_IrsLXB1Cbih23mtq2CGb3TqyMNoTK9vTrJMa2AhPBAFs1bkzm"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Lee Haywood (☺ Lee J Haywood)"
-author_url = "http://www.flickr.com/people/45034206@N06/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/45034206@N06/4140348113"
-title = "Clock"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
@@ -308,17 +246,32 @@ text = "Bu, defter"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:7CzZ9vzJ-ZGPiwjTK5Hiy4IOdrqWkyaJxPrcgUsmb1xP0_-_JBCNJtH2ZSB3QXcY"
-href = "urn:sha384:MLLYTCSSX5g5n6uPczYeWo2hv3qIA9l0Z18rqaMrIE0USLf97xbKHHlKo5U0VSAy"
+blob_href = "urn:sha384:qR_2UYE3QRtVl0q3IO3afhLulfwG_2pS62dY6X14R8DCR0qkIiW3I4JyRV_9AFlI"
+href = "urn:sha384:rsM_Wfkc2ssKmE715ZElBn3fRr6omeXdLFO8XTLOTPSddvN-7z2J20UjkuuK1Mk8"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Lenore Edman (1lenore)"
-author_url = "http://www.flickr.com/people/80522246@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/80522246@N00/2812598573"
-title = "Japanese Notebooks"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Burası, sınıf"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Fk-D5vVcAwOgIqj7OgRZBPJ-KC0cCCMdlPFtjKQA61V0pjdWIJQk0LNsWPE4bFnE"
+href = "urn:sha384:AThnobXCBdjl4xL9LBKbU8khTMYmH3lk54D66FX_vToCSP7Eyixaef7fWlrIK07t"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
