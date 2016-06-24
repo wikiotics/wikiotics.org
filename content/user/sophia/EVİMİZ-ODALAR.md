@@ -95,6 +95,24 @@ license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Burası banyo"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:88PVhv4NE2cuVXOBYAWD1Z65ThcaIR2W-7X9Q_flapJZjOuLZRdRvJIDqxLmgwl8"
+href = "urn:sha384:mEZPccfp0ks3Ia-oGR43YQhLW7gn7s3HHSKz9tRddJslDFaNqAgHeGYFnBjZtffM"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
