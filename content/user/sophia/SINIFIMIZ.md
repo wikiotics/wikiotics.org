@@ -12,17 +12,18 @@ text = "Bu, masa"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:cU909HaJ_Dp2aMDO0GMWcOtVL7twjZVkfm7OzQW5_9smYuXbhz483c_OQ1qusCxK"
-href = "urn:sha384:yqHbRiIYstygPSE_oAjDLukYPKiYERMJOS7vcl1d3SYhYzaVsdtmwPrT2Ga_RsUU"
+blob_href = "urn:sha384:dRoCQUiskrPgw6q_UVwlhOUnD67e4zhdEjdf_SAllVn4cfYHsdD0xm2_nu38_OTO"
+href = "urn:sha384:sb6MkDoZRbXjOmTvcvJ_xPYr78rDkBGlsBUb5sgJzSC2BJrsJ8xzZPWMCkwLRB1h"
 mime_type = "image/jpeg"
+rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
-author = "francois schnell (notfrancois)"
-author_url = "http://www.flickr.com/people/54576824@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/54576824@N00/48250801"
-title = "Table"
+author = "Roland O'Daniel (rodaniel)"
+author_url = "http://www.flickr.com/people/13644457@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/13644457@N00/9366687210"
+title = "photo.JPG"
 [[cards.sides]]
 type = "empty"
 
