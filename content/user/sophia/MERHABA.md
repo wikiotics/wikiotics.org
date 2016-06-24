@@ -22,7 +22,7 @@ text = "Ben Ömer"
 type = "phrase"
 
 [[cards.sides]]
-text = "Ben de Elif"
+text = "Ben Elif"
 type = "phrase"
 
 [[cards]]
