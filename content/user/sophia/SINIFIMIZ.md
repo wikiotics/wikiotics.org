@@ -12,17 +12,17 @@ text = "Bu, masa"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:tfsA0rXOh6jerrWcuuA5qoionuL4HH8EZIQ6Lo6vMwFDe3i4VdTTIp9g1CY_aUTd"
-href = "urn:sha384:ZRpG8JqRkGYm-4BuilUaZLOGTx3GyZNK7PB7lRIgezFGkuihLblIC38WNcAXKb6X"
+blob_href = "urn:sha384:cU909HaJ_Dp2aMDO0GMWcOtVL7twjZVkfm7OzQW5_9smYuXbhz483c_OQ1qusCxK"
+href = "urn:sha384:yqHbRiIYstygPSE_oAjDLukYPKiYERMJOS7vcl1d3SYhYzaVsdtmwPrT2Ga_RsUU"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Elliott Brown (ell brown)"
-author_url = "http://www.flickr.com/people/39415781@N06/"
+author = "francois schnell (notfrancois)"
+author_url = "http://www.flickr.com/people/54576824@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/39415781@N06/6060492602"
-title = "Black Country Living Museum - St James's School - head teacher's desk"
+original_url = "http://www.flickr.com/photos/54576824@N00/48250801"
+title = "Table"
 [[cards.sides]]
 type = "empty"
 
@@ -54,17 +54,17 @@ text = "Bu, kitap"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:WTQNg6EY9GzOnXJOevZzPT_Ish4tPVYPNaB2y3uUak9LtLadp5Gb6xqSjOPpyL0x"
-href = "urn:sha384:w2dc61M3dR7x8YQHlJUtYFCP8NwNtr0lIUDINN8GEpQACCJgnD9QyrCYa3wTaBng"
+blob_href = "urn:sha384:lx3cLAKp-20xw7cRucotxX8mOzeLAvuRVhlQj8ay9s-2jDO_Qjdx55ij8qaO4gXU"
+href = "urn:sha384:wM259cOcDi7KjmM-OMBYRC-fJKBWQbLSe02-ohjaIVQNin7Nhqk3ewpUnQ40RYnR"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Kirrus)"
-author_url = "http://www.flickr.com/people/79206134@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/79206134@N00/8596143348"
-title = "Books!"
+author = "Will (50 Watts)"
+author_url = "http://www.flickr.com/people/15100526@N08/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/15100526@N08/6007328607"
+title = "08-Illustrations-by-Estonian-Artist-R.Kaljo,-1962 (click link below image for post on 50 Watts)"
 [[cards.sides]]
 type = "empty"
 
