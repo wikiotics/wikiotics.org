@@ -27,7 +27,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "Büyükanne (nine)"
+text = "Büyük anne (nine)"
 type = "phrase"
 
 [[cards.sides]]
@@ -40,13 +40,13 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-text = "Bu, benim büyükannem"
+text = "Bu, benim büyük annem"
 type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Büyükbaba"
+text = "Büyük baba"
 type = "phrase"
 
 [[cards.sides]]
@@ -59,7 +59,7 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-text = "Bu, benim büyükbabam"
+text = "Bu, benim büyük babam"
 type = "phrase"
 
 [[cards]]
