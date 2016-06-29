@@ -107,17 +107,14 @@ text = "Kız kardeş"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:9Um3dgWM4cWXnTF4NbXVIqrIom6fIk0QbHLsy0YxLWEU86DxTrTWdHUIU_KNigtc"
-href = "urn:sha384:8Cvm_Oti77tIMXIIjXB6LvBc3gH3kF8b4t7Maj5yJTOZzHtuZf_hqabkCcaKRzPu"
+blob_href = "urn:sha384:ZiOW9u9HfQVtesc5rZhYpVGO5QrZ7V4AkMZX6CHXSMuZ3kKY91iSxnRNtRSaHhlT"
+href = "urn:sha384:YSvwvglHBkJOPSdihqliz2NAwSE40nMF6ZrdgK2283e7g7AIadFKR0wE44BWYk9d"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Sean MacEntee (Sean MacEntee)"
-author_url = "http://www.flickr.com/people/18090920@N07/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/18090920@N07/5683115223"
-title = "Sister"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 text = "Kız kardeşim"
 type = "phrase"
@@ -129,17 +126,14 @@ text = "Erkek kardeş"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:gvVp8ySVfHvsztcZd3MvYAcjppRr2Y6_kZzKYKAB4li4HE55iteKhIuhhF0IDot2"
-href = "urn:sha384:p6yoopn2BwbnouA2VGRVVhJApoUUYRPzeJiwPdX_fBrAU5zLS5wpqrcIp5yB7YKt"
+blob_href = "urn:sha384:GZ40mqAFu6nm1lixQRNIUqeFm9G0Fq4ZyUVdg3GevmkdfKHqE6DhuVaBeicVVa2M"
+href = "urn:sha384:wG8QpIaV42gnoMapsdIjYeiXKY-eYMjs6rrR8vaR2S9bgbZt8dQXzn0IJSE6Z0g1"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (fsse8info)"
-author_url = "http://www.flickr.com/people/37031529@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/37031529@N00/8883095899"
-title = "brother"
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 text = "Erkek kardeşim"
 type = "phrase"
