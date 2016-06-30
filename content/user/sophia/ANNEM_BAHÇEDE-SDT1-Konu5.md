@@ -8,7 +8,7 @@ target-languages = [ "tr",]
 [[cards]]
 
 [[cards.sides]]
-text = "Kiz kardeşim banyoda"
+text = "Kız kardeşim banyoda"
 type = "phrase"
 
 [[cards.sides]]
