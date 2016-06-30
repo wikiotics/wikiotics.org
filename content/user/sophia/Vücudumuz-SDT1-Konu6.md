@@ -185,6 +185,42 @@ license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Kol   (Benim kollarım güçlü)"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:IDF6SsSPY7_u0YxO1c6Zhm49n_3_FSvTcBGOQAguTKBXPb23IFDvGMAJb9jsz-KV"
+href = "urn:sha384:Ofuu0G0rB6vtzNd4WetHZ7ulmttLmXfLF7KkxPy_MBEL4XiI6JGHK_qydkzWwG52"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "El   (Benim ellerim küçük)"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:I76Az9yGCqCEgFDGKZgzXFqGB4wdpBevJSzG7gGBS8VjnCdohwpavwxPhGSazMre"
+href = "urn:sha384:lfMj-XLAdLdyL310wRxubYO2AqUAvCua9MUf2MfTqyj3IACVc4VMs6AbSrAWutt1"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "sophia@wikiotics.org"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
