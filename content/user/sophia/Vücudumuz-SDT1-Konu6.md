@@ -8,7 +8,11 @@ target-languages = [ "tr",]
 [[cards]]
 
 [[cards.sides]]
-text = "Göz\nBenim gözlerim mavi"
+text = "Göz\n"
+type = "phrase"
+
+[[cards.sides]]
+text = "Benim gözlerim mavi"
 type = "phrase"
 
 [[cards.sides]]
@@ -20,9 +24,6 @@ type = "picture"
 [cards.sides.credit]
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
-[[cards.sides]]
-type = "empty"
-
 [[cards]]
 
 [[cards.sides]]
