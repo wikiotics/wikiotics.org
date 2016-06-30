@@ -8,7 +8,7 @@ target-languages = [ "tr",]
 [[cards]]
 
 [[cards.sides]]
-text = "Göz\n\n\nBenim gözlerim mavi\n\n"
+text = "Göz (Benim gözlerim mavi)\n"
 type = "phrase"
 
 [[cards.sides]]
