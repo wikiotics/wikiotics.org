@@ -8,22 +8,21 @@ target-languages = [ "tr",]
 [[cards]]
 
 [[cards.sides]]
-text = "Göz\n"
-type = "phrase"
-
-[[cards.sides]]
-text = "Benim gözlerim mavi"
+text = "Göz\n\n\nBenim gözlerim mavi\n\n"
 type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:-_gSbrA0i11ODHbilzpwR_TuwqggY8wEQRT21r2zMhwPjP2PWnMzdVnH5GwKgLRy"
-href = "urn:sha384:xlwF8rHCH1v0DXd4g9tyhQcaWPRvYrwCHwTzhZXrBPQpu_lJecho3zCCpcHG--mM"
+href = "urn:sha384:Fa-oc_x0VUEMiD-38FpDmGbquImKNMP3OWYepn2ilnICUl_tcr9GlVoPODr07zsd"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
