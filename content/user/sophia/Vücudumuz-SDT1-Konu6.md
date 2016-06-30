@@ -8,7 +8,7 @@ target-languages = [ "tr",]
 [[cards]]
 
 [[cards.sides]]
-text = "Göz   (Benim gözlerim mavi)\n"
+text = "Göz   \n"
 type = "phrase"
 
 [[cards.sides]]
@@ -21,12 +21,13 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+text = "Benim gözlerim mavi"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Kulak   (Benim kulağım küçük)"
+text = "Kulak   "
 type = "phrase"
 
 [[cards.sides]]
@@ -39,12 +40,13 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+text = "Benim kulağım küçük"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Burun   (Benim burnum küçük)"
+text = "Burun  "
 type = "phrase"
 
 [[cards.sides]]
@@ -57,12 +59,13 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+text = "Benim burnum küçük"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Ağız   (Benim ağzım büyük)"
+text = "Ağız  "
 type = "phrase"
 
 [[cards.sides]]
@@ -75,12 +78,13 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+text = "Benim ağzım büyük"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "El   (Benim ellerim küçük)"
+text = "El  "
 type = "phrase"
 
 [[cards.sides]]
@@ -93,12 +97,13 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+text = "Benim ellerim küçük"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Ayak   (Benim ayaklarım küçük)"
+text = "Ayak   "
 type = "phrase"
 
 [[cards.sides]]
@@ -111,12 +116,13 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+text = "Benim ayaklarım küçük"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Kol   (Benim kollarım güçlü)"
+text = "Kol   "
 type = "phrase"
 
 [[cards.sides]]
@@ -129,12 +135,13 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+text = "Benim kollarım güçlü"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Bacak   (Benim bacaklarım kısa)"
+text = "Bacak  "
 type = "phrase"
 
 [[cards.sides]]
@@ -147,12 +154,13 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+text = "Benim bacaklarım kısa"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Parmak   (Benim parmaklarım küçük)"
+text = "Parmak  "
 type = "phrase"
 
 [[cards.sides]]
@@ -165,12 +173,13 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+text = "Benim parmaklarım küçük"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Saç   (Benim saçlarım siyah)"
+text = "Saç   "
 type = "phrase"
 
 [[cards.sides]]
@@ -183,12 +192,13 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+text = "Benim saçlarım siyah"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "Kol   (Benim kollarım güçlü)"
+text = "Kol   "
 type = "phrase"
 
 [[cards.sides]]
@@ -201,12 +211,13 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+text = "Benim kollarım güçlü"
+type = "phrase"
 
 [[cards]]
 
 [[cards.sides]]
-text = "El   (Benim ellerim küçük)"
+text = "El   "
 type = "phrase"
 
 [[cards.sides]]
@@ -219,7 +230,8 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
+text = "Benim ellerim küçük"
+type = "phrase"
 
 [[interactions]]
 answer = 1
