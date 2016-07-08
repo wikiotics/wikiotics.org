@@ -114,7 +114,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ett ägg"
+text = "Ett ägg, ägg"
 type = "phrase"
 
 [[cards.sides]]
