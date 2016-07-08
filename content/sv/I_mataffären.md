@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -1179,6 +1179,48 @@ author_url = "http://www.flickr.com/people/31169339@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/31169339@N07/3462226284"
 title = "Potatoes"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En färskpotatis"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:H9pJ4ta_VEhpw1vxDndh912h3YbDjejDHuk7jWyAPlyBbP81xQPXwHK1pPo1TDSX"
+href = "urn:sha384:WpAdXsnteRvPJeQgBKelAbmdxpK2f0zZi5r0YDaAsoH4xs5v-qHznuZDjnXBpiac"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jon Gotlin (Jon Gotlin)"
+author_url = "http://www.flickr.com/people/52852301@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/52852301@N02/8286620443"
+title = "Sol och färskpotatis. Perfekt födelsedag!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Purjolök"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:UWN27vSDSvmv5NKKyoSW2Y30BKob7bVYLnMg_a08EmyuU2Jfeu1cOjd6rVaIsa-i"
+href = "urn:sha384:dLOjAHEV98UHtn3OwM1xQ_WBWctbgXm5S_isC6llBBKP1HMzZI4cec1i9F1o7CrW"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Lisa Brank (Little Li)"
+author_url = "http://www.flickr.com/people/70397418@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/70397418@N00/2775923809"
+title = "Comparison"
 [[cards.sides]]
 type = "empty"
 
