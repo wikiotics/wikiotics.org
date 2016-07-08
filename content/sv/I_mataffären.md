@@ -594,7 +594,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Knäckebröd"
+text = "Ett knäckebröd, knäckebröd"
 type = "phrase"
 
 [[cards.sides]]
