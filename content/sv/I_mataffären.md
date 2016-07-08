@@ -248,54 +248,63 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En kanelbulle"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:z0Qjhabpt68FhXlyl9ttB5afW2pBdlMMdtnXrbeiP4660YAubxZW59nBkIqid4rO"
-href = "urn:sha384:WAAWKpbgJGGChvjsn1U_0KuMSaLOtJvWz_bk8LX0IVCgXxRcZVr0L-CkvZZGEpbb"
+blob_href = "urn:sha384:809o0Eblus6X3L0bWDAAxoMJe-GVXL30OtyAUoXj6pfzL_l8t6WNjb59_NZThncW"
+href = "urn:sha384:_B5oQ1RKXTfvg4z88xsrpYf9YZm5z8o80ob313Jxa4R3QBwtfJFAV5xypDw7PgTU"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Kate Ter Haar (katerha)"
-author_url = "http://www.flickr.com/people/8489692@N03/"
+author = " (Håkan Dahlström)"
+author_url = "http://www.flickr.com/people/93755244@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/8489692@N03/4222865830"
-title = "Rye Bread"
+original_url = "http://www.flickr.com/photos/93755244@N00/5140212988"
+title = "Cinnamon bun"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En kaka"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:SzLrEV-cqy8nnTyuTueZkdo2R_qO7uFmoOnSwFE8ksNYUKIpbwlzNGL4G12ZHPza"
-href = "urn:sha384:IqmcssdJy-ZTd1pSOJQ1bGAiTYl6H-SzYXvpblCRCr7pCWBhDJxUrm40KrhwbcGU"
+blob_href = "urn:sha384:pw_zj68pZgVuSqCVk9GV6OxxcpJnvuuIvW5RmRF_t5nJrfRyrYILYUJQi5nABfoz"
+href = "urn:sha384:PmyDobw4RSgS_0uj4e85O8FTCK5SP2z_0E3rTDSOkjTXaeeGzo05wwxO-CpkmA1c"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Brian Richardson (seriousbri)"
-author_url = "http://www.flickr.com/people/39535794@N05/"
+author = "Birgitta Eriksson (caspros)"
+author_url = "http://www.flickr.com/people/24370600@N08/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/39535794@N05/4020277369"
-title = "chocolate chip cookies"
+original_url = "http://www.flickr.com/photos/24370600@N08/8091127519"
+title = "Idag serverade vi kaffe och kakor på jobbet."
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En semla"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:IALfRVVg2A-bolFooQKSNQ1NcFH-yIiKMpSH108IaE44NoGwfh1oNl7bX33KG4je"
+href = "urn:sha384:Nt4K2xgcKBkW8jbET9gbA-SiYpFQwY-uQc7SHzDShHZPtOZYURZokIuVBullvkrl"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Gustav Holmström (Gustav H)"
+author_url = "http://www.flickr.com/people/44439382@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/44439382@N00/3289088122"
+title = "16 feb. 14:10"
 [[cards.sides]]
 type = "empty"
 
