@@ -1571,7 +1571,7 @@ type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:8LL9y8H0VzM0tF97wIBic1ZSLidpgpgOoWaaVL44Z2VyPt-IJtJ_eVAyig6kxeGO"
-href = "urn:sha384:AXaIIR_C4ahTfVFCgBk4tZQYjhMdih7aOuaQ_bVzkX9Ge7SlERDz2lEOgv2zhcSS"
+href = "urn:sha384:VZfnkZcnzNjJnPM4BbJqqhnk4oV8H8euyxBV1OCniMazZoLWQNSmSVp8siAyHO5Z"
 mime_type = "image/jpeg"
 type = "picture"
 
@@ -1581,6 +1581,27 @@ author_url = "http://www.flickr.com/people/13287643@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/13287643@N00/77553764"
 title = "Paprikor"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Köttbullar"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:j1xZrHUY6RNRpVwgwbA1W2mse6neBVRw1b7krWmhgEfTxwoPbuehn0G62_tGfkLX"
+href = "urn:sha384:uOAt-nWTrACuI_lS1c4XPD6xupBGHr5hL-oxBrcEfOSDqEdv-u0X_GZcRmSi-8er"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Marit & Toomas Hinnosaar (Marit & Toomas Hinnosaar)"
+author_url = "http://www.flickr.com/people/27519540@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/27519540@N04/4630508894"
+title = "Swedish Meatballs"
 [[cards.sides]]
 type = "empty"
 
