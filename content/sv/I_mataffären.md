@@ -1206,7 +1206,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Purjolök"
+text = "En purjolök"
 type = "phrase"
 
 [[cards.sides]]
@@ -1221,6 +1221,27 @@ author_url = "http://www.flickr.com/people/70397418@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/70397418@N00/2775923809"
 title = "Comparison"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En ärta, ärtor"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:QelI9SQskby29LptN2-ykOoA927DW_nv9_zEweITq3hcThWeA7LTS5Wom4y23qmJ"
+href = "urn:sha384:F7Wr3-anNcozAieyf4YtICiKpohyJZ-cbHlYFltlYeOAQeOm9oOj_2crVo5hhjoe"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Frédérique Voisin-Demery (fred_v)"
+author_url = "http://www.flickr.com/people/8514720@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/8514720@N04/8607023170"
+title = "Petits pois"
 [[cards.sides]]
 type = "empty"
 
