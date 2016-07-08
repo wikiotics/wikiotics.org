@@ -617,7 +617,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En glass"
 type = "phrase"
 
 [[cards.sides]]
@@ -638,18 +638,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En inköpslista"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:MZcVncP4xPd0pc1GtL-QDH-EzClqw0Og0-H4F0ZTQi4YVm8T3X-Hf9Kx4k4IpvOM"
-href = "urn:sha384:2JnEzFg8wsrUEp80i7Nv7V5oCTarwQtlVhzXABGf5xRXOPg9uKXMumDUHfloMwZk"
+blob_href = "urn:sha384:a3y3XHeadv1ceIvnIWewqca8wyBIQP5-Rq6x4raDgrD7ZyVuQPAostAX6WOIxTGW"
+href = "urn:sha384:7sdTrUN7X1jdkBpDYVlsual72cVj_pLImWorL1uSMPW5gVPJOv5q0ok9jO6a-qCu"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
+author = "Henrik Ström (Henrik Ström)"
+author_url = "http://www.flickr.com/people/16825957@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/16825957@N00/2690728836"
+title = "omelett080821"
 [[cards.sides]]
 type = "empty"
 
