@@ -1245,6 +1245,28 @@ title = "Petits pois"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Blomkål"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:YU6uw0zpXuLQkZDB1aBFDtWthM_QRwswmCpDmU35pWnNqwustyAfOdJ3_0FL1k8V"
+href = "urn:sha384:qaEG7s1SIpicHjyn8Ybqll2-uGgYRMUrhD_g9hc2mleVjBKtdYPjZa3ZscBajEOG"
+mime_type = "image/jpeg"
+rotation = "90"
+type = "picture"
+
+[cards.sides.credit]
+author = "Lisa Risager (Risager)"
+author_url = "http://www.flickr.com/people/68978695@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/68978695@N00/6600645695"
+title = "Cauliflowers"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
