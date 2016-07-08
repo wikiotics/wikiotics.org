@@ -949,6 +949,27 @@ title = "CreativeTools.se - PackshotCreator - Colgate tandkräm"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Fläskkotletter"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:96l9d7l8-wzP_1raoTW2ARTBVXtFgQGIwILHdJ3DSR77lVBJNw57XmQIO2qajXBs"
+href = "urn:sha384:jkIVuiJ7XcMt-9rLkqjhVgvIbYa6i_qvWNfKYmX-Ev6ZaBgJwI3Kax1ApXc1NNjg"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Stuart Webster (StuartWebster)"
+author_url = "http://www.flickr.com/people/34883952@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/34883952@N02/5829527553"
+title = "Pork Chops (RAW)"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
