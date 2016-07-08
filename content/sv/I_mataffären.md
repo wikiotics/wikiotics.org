@@ -153,7 +153,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Marmelad"
+text = "En marmelad, marmelader"
 type = "phrase"
 
 [[cards.sides]]
