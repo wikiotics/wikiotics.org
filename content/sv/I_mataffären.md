@@ -1647,6 +1647,27 @@ title = "Musslor"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "En hamburgare, hamburgare"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:zW2t9kao4jxQX5ydiRqbKEKnROGWRaUDj71Zfl_eYmVerQntm8YAptn0ZCOE5dnP"
+href = "urn:sha384:JbSA4KFkpkFuRjd61RLBEvxWomjDeP203dnvCw20HFdCyVFHhbVLj1qAq--xsZ8_"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Patrick Strandberg)"
+author_url = "http://www.flickr.com/people/61392182@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/61392182@N00/6203877160"
+title = "Snart middag..."
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
