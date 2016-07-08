@@ -952,7 +952,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Fläskkotlett"
+text = "En fläskkotlett, fläskkotletter"
 type = "phrase"
 
 [[cards.sides]]
