@@ -1,6 +1,6 @@
 +++
 title = "I mataffären"
-contributors = [ "100.2.164.232", "wed23",]
+contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
 dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
@@ -8,7 +8,7 @@ target-languages = [ "nl",]
 [[cards]]
 
 [[cards.sides]]
-text = "het blik"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -21,15 +21,12 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:reyN6ELLO9LqjbrtSL5HGbPfaW2bnYT1t9HGvnxxXHKB1agvXpHtqrxwTWg2WB22"
-href = "urn:sha384:ze9ZAe0GE6H0wZlzdu4jczJr1R67pqpXKxo6LY0XOmO9KKGR06aoXKBzaEJSHY33"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het krat"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -45,15 +42,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/82072056@N00/3366089333"
 title = "red and blue milk crates, maroon wall"
 [[cards.sides]]
-blob_href = "urn:sha384:xkyOmpY9trUY9V6G0IliPbEfzPCfW2h1P9aFD3I_kifkRC16cew3Ae_91RYtOkXQ"
-href = "urn:sha384:tAQMJ57jnRZ_bhA7WCUfsVnEPnyCqFVSUmw1w2dzMc0YuviY97dmk5cnb_bijizU"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de fles"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -69,15 +63,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/23212428@N00/4367618376"
 title = "eco bottles"
 [[cards.sides]]
-blob_href = "urn:sha384:i9TBoRSmnXJPDavnH_cAcCk2vxeP7Mu6zMrra11jpE0QnEeYvhFmNF9e_DgygqJM"
-href = "urn:sha384:KoL5iu_UOorHhhHG47C45SL4HZGkrTFESvy2A8c5FFaD5XE2lmOBzoB5H9RDc-bL"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het pakje"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -90,15 +81,12 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:-f82sY0CIbhMkFXoTX1h5N2OGhxJeAazTYLALN1j2xPAxeRvNWznSp84i6XPbidA"
-href = "urn:sha384:6FuEPm65CVo-DlUQwRfDnbYZ2IYxJ4cMT0HrLkeR-HbPpK1UyE28xvFM0C-Tv-Tp"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de zak"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -111,15 +99,12 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:FauLoLG7RBfOcSPIi4ICvEE7VTvkI3qZfpg6WYbJ8FH8veBz_I-wNIXKcI5LGFhY"
-href = "urn:sha384:OIaHLf0MxVJhOaBQaVIvE32nM53TBTge4JZKfwG3jX-7xsMzrKWuXsEacKNNx69h"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de doos"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -132,15 +117,12 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:cimuGdyc6yv-_ozo-dsIkjJwcO_6K5fkl6VUJxNk8KcEOBFUt9K5efUZhl-U1LkT"
-href = "urn:sha384:QZJmokCPZHBXVQ9Z0OtIQnxcdRY9yFr9-yHHQXGB08BjSNz8AZpnvuV6A9ChzlMP"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de rol"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -156,15 +138,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/17425845@N00/768586490"
 title = "Raw materials- Rolls"
 [[cards.sides]]
-blob_href = "urn:sha384:fEHASyjG91apM_bALv0KfUgMdI_R7JLBxVn1w1vpWwXDtBndWV8Yawa7ZHSyGDR7"
-href = "urn:sha384:2IbxaeZS9iC_CiNDLl8Z7TFoXsLIweN3yPyNg10T_3P5gXIOTXwvKrkFFlmam_QN"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de pot"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -180,15 +159,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/33987777@N00/1731678793"
 title = "Day 38 - Quince Jam"
 [[cards.sides]]
-blob_href = "urn:sha384:YfL6Xff3UQYx1eUTKmB56IAcBcXkTzxyc5oWQk6cp5bN8BFynbH2q0T6WnwURsF7"
-href = "urn:sha384:sbLxrkt6nSYOLCJfHqUJsSu8OlZQsMkUQ1LEfa5iOQyxZfIC-brHu26eVrKo4RTE"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de melk"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -204,15 +180,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/34427466731@N01/131012552"
 title = "cute little milk"
 [[cards.sides]]
-blob_href = "urn:sha384:gs_te76rOWH5gxYqhlvUDDN8IZc4UtXRGwKdnm3HPpG-DmO4P9-tnG9k6AdSAGjo"
-href = "urn:sha384:ykPSK1N9f_5hXqTVIqWyv2thanQ06saKVucjEotonxSFR2HFL-IsUe8OSKo7YRZ8"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de frisdrank"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -228,15 +201,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/10485077@N06/9359112582"
 title = "Bacon Soda"
 [[cards.sides]]
-blob_href = "urn:sha384:QLXcqiEjxeVGa2BGTwEmbv_H5xB7lTzALeu9RlV6uaeCn_F3FjNF2hMwO3wybHgP"
-href = "urn:sha384:nqELHp8O1xr5wBs47t2aOjWmLxs7v7zfq1jaXZgHTXDex_C9CdJTn1mmPqjlxs9g"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het sap"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -252,15 +222,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/92025495@N00/6015128518"
 title = "Ginger Splash Juice @ Meli Cafe & Juice Bar"
 [[cards.sides]]
-blob_href = "urn:sha384:IE80fgH5Nor_hqeqNDOYwlaHEjO04xs__wq9cBaVm5PRvY8_VOm3ce-LZ8TLg4WS"
-href = "urn:sha384:jaEFwBPPFfciRe2g3nXni0wcxS6zL1Ol_8qPgCCneBosbZomkf9XYxw8REYOSHLr"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de thee"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -276,15 +243,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/18259771@N00/4444567918"
 title = "Earl Grey tea at Yūkei Salon de Thé on Aneya-koij dori in Kyoto"
 [[cards.sides]]
-blob_href = "urn:sha384:WQMH5wMMtKPUJSmXROIRUcOu3lPayq04wHJ6AzX7l_dS5VLin0lOY6gLGNfQ5set"
-href = "urn:sha384:GzTwE4eD5DlhIz2wH1JvauDAHbmDikWhGWRv4cfZ664lFr7mGL1-oMbk4IZUIPco"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het brood"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -300,15 +264,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/8489692@N03/4222865830"
 title = "Rye Bread"
 [[cards.sides]]
-blob_href = "urn:sha384:msJ5GtGy9rVrFmmeNfteSflNim1MAzj5SMju-O6kKCbx_gzuAHbZILpvFtpZBb6X"
-href = "urn:sha384:zP4d97xwkH321mkzaXKpz0lOKL1qy7HXOXjEc41t5cLffBobPLMoAafP75vqiivQ"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de koekjes"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -324,15 +285,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/39535794@N05/4020277369"
 title = "chocolate chip cookies"
 [[cards.sides]]
-blob_href = "urn:sha384:cbb3kbckEcKfzrarrJCOaaHpiyhSY3QMDMogaW-1k4NGibLu8YY-y4k86yl5u4z3"
-href = "urn:sha384:TdhRi0VPffce1wLzKSfKyi1RD-NSJDqa6q2xl0VqICPtbfb69DdQmvn6EIUo8BRU"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de boterham"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -345,15 +303,12 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:GQY3egoiY4lRyh9S6dd7zBjPoQoc_U_LipD6qkeM6wIWM_xcwngS5_nqsv6ZMCIw"
-href = "urn:sha384:cIve8UBfOzX5aiipMWzhPDYBl_b0WZNJbekVNkTPBaqRV7DK2xQMu6loLGv7Spjz"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de broodjes"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -369,15 +324,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/7927684@N03/6189590468"
 title = "Mmm... fresh hoagie rolls"
 [[cards.sides]]
-blob_href = "urn:sha384:sMvRRrBnOfw50o21YoqSxEAEFflTBdg86ubZIxozeM1yvTsD7x4HieYkJTsqTJK9"
-href = "urn:sha384:TcMol-vwsA39THaozaJYfXVO1q5mCi31LO79uGU3jARO0F6DZAJGsnNVBVGzczF9"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het wasmiddel"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -393,15 +345,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/39160147@N03/15017417780"
 title = "All Laundry Detergent"
 [[cards.sides]]
-blob_href = "urn:sha384:x_n93tFHZXyDLjgmjGvRGWmP3d6ecohjhL6rBqWX-PsitatTtG4NALQdDLA8X8eB"
-href = "urn:sha384:w2bPktGd5ByLtlWopDBXPNv7Kg1oCbqYYwjLno1M-npCGgttubu9W8tHt0PoRimq"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het afwasmiddel"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -417,15 +366,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/16105436@N00/4291373768"
 title = "Tesco and Sainsburys own dishwashing liquid"
 [[cards.sides]]
-blob_href = "urn:sha384:iZTtytsG4qyVJp_gU0Q9Y8dgB54RydODThC3M9jD3IhFJCuJ4-saLDkEsARnhqyy"
-href = "urn:sha384:V0rIVB-qFC2mMrJyif7bnxXzdvdHA3urgbxQLhk24uwT2IoSv9ljsqX4jVHO_4OT"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de lucifers"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -441,15 +387,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/40467171@N00/1688909894"
 title = "gotta match ?"
 [[cards.sides]]
-blob_href = "urn:sha384:X_UPYPZRXifExTKzWLfYixm1ceKQgRubxpZWjdV0LS9Bkom8dP3U4Z3ajcPv_t73"
-href = "urn:sha384:FkVxkEgBDrfnCQjL4y_R6QnDXCp_8H2ySq-EALVPYxRqVCIfYEF-ANr6N3aHwwfE"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de zeep"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -465,15 +408,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/14289769@N08/17217053858"
 title = "a new soap"
 [[cards.sides]]
-blob_href = "urn:sha384:xBowCI4bxZTyW1_wL_P9jP2PSyfBzgViNA8IVjsPbBmRHLS0AemIf-EhJzHhyA8B"
-href = "urn:sha384:V4RwNRD1P_KehtunVMlDjVgQs1Wa1dsk6mtA_YGYSP6SiGe6CLH1gHECfyrS8cq2"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de suiker"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -489,15 +429,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/73628542@N00/132244825"
 title = "Sugar"
 [[cards.sides]]
-blob_href = "urn:sha384:gdYRI85lrivPegbyr3IO7hrH35-8YYQbJyLOZEea6w6O_7wfxiXV8igNHhpGJbRu"
-href = "urn:sha384:nxsPU2qqSCW5SYCzb45JEjdgVXqIvUYe2u4AjLYwNwZ9IxkdLOP_-cTRRrgnGjIS"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het zout"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -513,15 +450,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/11939863@N08/3793288383"
 title = "Salt_B130604"
 [[cards.sides]]
-blob_href = "urn:sha384:j50sb_6lL33jtRIV6CKiZrJcZ6f9f1myV_ZPD7A0wfoV9Lo1XFRPhAfzE2Xhl7Sz"
-href = "urn:sha384:JZvJLA_5nv3q75wZvJTBP--in0oubmXAoHugt2325p6zHaF6KSIPnihwyGOkB8lI"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de peper"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -534,15 +468,12 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:DQf5SyMwhiqE7tMNfZ53sZMQ3HInClb-YQl68NI2kNkkNOvPCNOpHeOfSYXkHeeS"
-href = "urn:sha384:lnnyd0rHAT4kt4vHFrx5qSx_b0L0nlMn7Aq5HB6DiXhKWfLp191ogyAfxrKZj30w"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de mosterd"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -555,15 +486,12 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:1iJqZWQqSqrrjEJeFw9o6ylHAAcNAJ72iMjpOZoL9ULxTVJAqMdK2eykcqXzOb-0"
-href = "urn:sha384:UAzElYzgWzdlV4Tnc7HR3aEoz43iZF7fRsYTIQBayr27W2-eSONnb6Gl_Xb9-NBL"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de worst"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -579,15 +507,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/10506540@N07/4570117128"
 title = "Italian Sausage Backyard Barbecue May 01, 20101"
 [[cards.sides]]
-blob_href = "urn:sha384:Q3nNuJLze4NeFenmVauNClM5I2Fgp7Mxa2qsC41sK1u2rkOJt77Krw9YRAsTb3z-"
-href = "urn:sha384:jrmBN_zGiaff6hXS_6KpT6xZHq6saFbZbehjcqKvY2sJLr8PSjeLZfV5Y1_vvYqz"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de hagelslag"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -600,15 +525,12 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:I7M0HBPBx9s4N7QHq79md6AJCIBN4rTC5R31m2y7DQynGaczq6CnS9hCZUhmCVOp"
-href = "urn:sha384:sOnxsW7solcvsEbwvhFMim4kiQk4ofiVwUQjWRYV5mg4YCdSZ9iLfUv9qY7o8L7D"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de kaas"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -624,15 +546,12 @@ license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/11821298@N00/2789164957"
 title = "Gouda"
 [[cards.sides]]
-blob_href = "urn:sha384:tI9bfu4k8RUWSPzdCnaiFFtgQF1Fy74AVs8HmRROPvhDYrIYsP9iBcD445Z4BCWM"
-href = "urn:sha384:hflz8j_ZxMsmA-oX8V2xVUoj3tgXobUf6yOVR5saYR4Qzdsk4VlNGh-nwcFRfpKS"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de pindakaas"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -648,15 +567,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/56041749@N02/7104016311"
 title = "Peanut Butter"
 [[cards.sides]]
-blob_href = "urn:sha384:7xodGASE10bCmr5F9YGqQfnIACxKR_9VFTDxsjl3Cs7S_zp4hr5-T3b28hB1MiGs"
-href = "urn:sha384:0TcY5EaGM3YhhHSvUTDZltNN6hVUOHs6dlSO5cgyX5YIMmNywz4L8PnM_zxMngEk"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het ei"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -672,15 +588,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/53133240@N00/8501854880"
 title = "eggs"
 [[cards.sides]]
-blob_href = "urn:sha384:MVhosV8a3BDptQG40tF0-n7CtdUsgOet-szr6C55dkrI8xSa33h1SZ_ZPDYedg19"
-href = "urn:sha384:xEtKeN2igLiJY006gueNsiyd_cLfd4bTa7vbp7OVGrqit4nQmPacVzx7KVOJmdc6"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "de ui"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -696,15 +609,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/67003333@N02/8340855129"
 title = "Onions"
 [[cards.sides]]
-blob_href = "urn:sha384:ppR5Das7vHpQcoGPL9xfAHUrng3KjFSLMTdaKDjy1wAB7IwekFe_3MyeJ_aBFdgK"
-href = "urn:sha384:Ur2N4H7TtoJ31oZgHV0E2WKjWlpkmDcdS9jpzMZlZXwq8hRWlY0TMYNA9GJ8Z7Da"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het ijsje"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -720,15 +630,12 @@ license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/92203585@N00/1229438458"
 title = "Icecream"
 [[cards.sides]]
-blob_href = "urn:sha384:ozBQG3xdWjxiAXYFcTBeWJ1Y7im0AcPq1dN4X6rgjEILlE_2wyxux5dkRoHldEFt"
-href = "urn:sha384:loXinthHvEmav4lQZtjTxTkJu0a0v2YMELzCoSRQCr1mX3lFeyzOZC-mtq_TMPIi"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = "het boodschappenlijstje"
+text = ""
 type = "phrase"
 
 [[cards.sides]]
@@ -741,10 +648,7 @@ type = "picture"
 author = "wed23@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-blob_href = "urn:sha384:cyyBENgvMziUKnRkF2Z0ZZeAdM05zkmgfmflzgd7PJ2l_mkb77VmonCf636QF5xC"
-href = "urn:sha384:fDMqfMXoDjsZ5DMaLiMrQTqeE1UXiqLuIBgfaAmVgLewD38pzwVFKpsU1stML-Ef"
-mime_type = "audio/ogg"
-type = "audio"
+type = "empty"
 
 [[interactions]]
 answer = 1
