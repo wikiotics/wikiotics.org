@@ -1739,17 +1739,38 @@ text = "Ett hjortron, hjortron"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:UDWGHhXa5PR1QQsvCHzJVHuYqb2GtH_lL9VsE4OhL-onZZqvBjFrcwNOH3JrF1ax"
-href = "urn:sha384:IekZZp4LwVb-4_aZxf1ouwXe6xga_wpGaSlS5QxitBBj5pgtw3J9OsxI4EfvePt_"
+blob_href = "urn:sha384:ZDwT6iCX6T17injCKZoyA86UyuH3wWb2uLNAXQu5Pg9QDNmF7saKTjclhsxXsfZH"
+href = "urn:sha384:k5q5kRPH0Jf5KzPQdo4NwFSpmn-tlfdv4ee2pYIX4OHT80LGjcBANsSvgwNvrBZh"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (kahvikisu)"
-author_url = "http://www.flickr.com/people/75897997@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/75897997@N00/192930279"
-title = "cloudberry, 4 of 4"
+author = "Siri Spjelkavik (sirispj)"
+author_url = "http://www.flickr.com/people/17191869@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/17191869@N00/4934346639"
+title = "Multe (IMGP0254)"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En citron, citroner"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:rut58yYgjJEwMe25g3aVJE4--YxXmwOZTE0eD7SKxNFe-H-AS4tS2O5kPeLRuprk"
+href = "urn:sha384:yi4w4WCu5tIct0qHTXpUGDe5UTiCGkCIsLQGOAqqvWYDSRJdaRD0uQMsP66QikcF"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "TIM HOGGARTH (Tim-Hoggarth)"
+author_url = "http://www.flickr.com/people/101300267@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/101300267@N05/12950385095"
+title = "Lemons"
 [[cards.sides]]
 type = "empty"
 
