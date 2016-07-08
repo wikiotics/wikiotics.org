@@ -1140,6 +1140,48 @@ title = "July 25 \"Cucumber\""
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "En vitlök"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:PeSefIy3tnbOo2kX-zExHFcrNlY8u2DWHqd_D3rZ7BjwV70ayytjWMGNg0rdS6_n"
+href = "urn:sha384:s_zrNg8p0WrJ3RDBy26dq9w035xcDMVArlB4y_VKSprIIRSXXnJprOOEZccwBNFQ"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jonas Leander (Leander Photography)"
+author_url = "http://www.flickr.com/people/62568211@N03/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/62568211@N03/6204160090"
+title = "Vitlök"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En potatis"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:RnIYGZ8eVoMKTahv9VHbPLK_BU-IbsFX4NQN85JzFhvJBww_YvrINX-QE5PzrG2W"
+href = "urn:sha384:Gnl7_M_MoaBHEGG-sMiBSonbN0U0vZoDHTeBCLGlM4gfdhkimpefGck3Mus4Qp-b"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Alisha Vargas (AlishaV)"
+author_url = "http://www.flickr.com/people/31169339@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/31169339@N07/3462226284"
+title = "Potatoes"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
