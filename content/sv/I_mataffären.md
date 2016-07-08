@@ -931,7 +931,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En tandkräm"
+text = "En tandkräm, tandkrämer"
 type = "phrase"
 
 [[cards.sides]]
