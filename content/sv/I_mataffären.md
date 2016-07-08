@@ -491,7 +491,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En grillkorv"
 type = "phrase"
 
 [[cards.sides]]
@@ -512,39 +512,42 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En varmkorv"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:z_KG6sRXdp1Rwn2ZMl9bLIerZ-oFp-l-Jyq2Kwkrpw3IZQZvMjccK8nBeaovQzb0"
-href = "urn:sha384:A-aGRw2Ri_v1S1Hn_WuGyFuQiGRfzY_2umc6YRP40-x-sijlEAXtpEGc5LESGTsa"
+blob_href = "urn:sha384:-wByhkB1ygxGOPeQU_CjqztALLayvxlSOkVoy-b2ov1lOopKt15xl0VC61FSgbs2"
+href = "urn:sha384:y3ZbrFHIUG74vAhyKGMWmUDuC2KeJnvXybaMXWgcNcrhCtq24FT1q8KO5KzZ2HIA"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
+author = "Daryn Nakhuda (ddaarryynn)"
+author_url = "http://www.flickr.com/people/94775792@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/94775792@N00/521169791"
+title = "Hot Dog"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En ost"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:SZlRQMVyvdEN3T98bFvBqRzDfVoHvqh3VzWCZ6Vb0P8BvMssm5T5ff-5-Rf6rO4G"
-href = "urn:sha384:F9eMk0NVoTBkzP9CpFhE7OxiFEgaIAnbQVWRtM9SwbQVa1w91EqyorqkTmKn7pO7"
+blob_href = "urn:sha384:23DwuMskivEJoAUzbIfjAy7P1_QdWLtD3TgBVnf2K3c1WyT8kzcgtvuXOm_HI_7f"
+href = "urn:sha384:LkshE4oUUVHiH0nzLlTxg9dyWBQMB0f3lTudln9GcDM3NM4BIVMrSVMg_BlVslMn"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (manuel | MC)"
-author_url = "http://www.flickr.com/people/11821298@N00/"
+author = " (cyclonebill)"
+author_url = "http://www.flickr.com/people/23178876@N03/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/11821298@N00/2789164957"
-title = "Gouda"
+original_url = "http://www.flickr.com/photos/23178876@N03/4737603955"
+title = "Bolle med ost"
 [[cards.sides]]
 type = "empty"
 
@@ -593,7 +596,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En lök"
 type = "phrase"
 
 [[cards.sides]]
