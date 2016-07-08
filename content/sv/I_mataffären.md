@@ -640,17 +640,17 @@ text = "En glass"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:r8yxzJliKd87TSt0titqIe_lrnW9F0-ljiqpFca0pyztspTShwEyl_9W9xCNXiio"
-href = "urn:sha384:9rb4EiWmW8MOhe9PhbT8hH4IBFgfu0b9TFSFITD-K-dkmec3f_OFfY__A6kIkCCe"
+blob_href = "urn:sha384:7HVVUxZl2AP0p4bgvX8D42sR4il5ES4btO8CDOYo5cmtDfii2X8ILQ0T0I7Z0CEG"
+href = "urn:sha384:Evtxz9uZM8I3vLGzOdQLn7tEDxeEE1dJgv6EjUwaEGLkbJc-F8E1Gbb4aH5zfcPC"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Hajime NAKANO (jetalone)"
-author_url = "http://www.flickr.com/people/92203585@N00/"
+author = "Daniel Chow (danielchownet)"
+author_url = "http://www.flickr.com/people/71154447@N06/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/92203585@N00/1229438458"
-title = "Icecream"
+original_url = "http://www.flickr.com/photos/71154447@N06/20701078864"
+title = "Strawberry and Beets Sherbet and Cookies and Cream Ice Cream #food"
 [[cards.sides]]
 type = "empty"
 
