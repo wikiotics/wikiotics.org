@@ -1479,6 +1479,27 @@ title = "CIMG3728"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "En duschkräm, duschkrämer"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:VEgj-jxOZYgku3snmLFp81YKZ8NU7jNWrMpaqFplVt21jn6ngJX6-x9rS8u7tnvE"
+href = "urn:sha384:KcrThOdLgRMviJrgyU14-hUwXydaskamx0cI6S0DieMUTI5-ubNJ2fCfJo5lk2rf"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Mike Mozart (JeepersMedia)"
+author_url = "http://www.flickr.com/people/39160147@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/39160147@N03/15294848042"
+title = "Dove Soap Body Wash"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
