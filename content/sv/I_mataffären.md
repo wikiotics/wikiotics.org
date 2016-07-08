@@ -29,7 +29,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En olivolja"
+text = "Olivolja"
 type = "phrase"
 
 [[cards.sides]]
@@ -93,7 +93,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En öl"
+text = "En öl, öl"
 type = "phrase"
 
 [[cards.sides]]
