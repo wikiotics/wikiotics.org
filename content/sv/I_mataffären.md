@@ -533,7 +533,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En ost"
+text = "En ostsmörgås"
 type = "phrase"
 
 [[cards.sides]]
@@ -554,21 +554,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En ost"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:FDdlgmSmgRHKDEI5NgeeF9Wg9QXHY86bVO_JU5BsSDz-gkYDlv3V4Vvbs2JHWQcY"
-href = "urn:sha384:g3zeHnl0mVIwQty2Um-Qfcqq9eFetd7-DUp-cqr8EL_s6y5vqXiKKSp4QvSiVM2v"
+blob_href = "urn:sha384:9Z-R3YmqhkYZoKJKntl36xSspkQLJJXIblTUPauNtiwl0l2LZ8p-GwZ0iq3suL5t"
+href = "urn:sha384:LgBXhnvpHwHyjNWrOxkslxuJCnpxhNxsn5mYN2MZs2EC3ZITilP2NN-cn5u35tWE"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Denise Krebs (mrsdkrebs)"
-author_url = "http://www.flickr.com/people/56041749@N02/"
+author = "Jessica Spengler (WordRidden)"
+author_url = "http://www.flickr.com/people/97844767@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/56041749@N02/7104016311"
-title = "Peanut Butter"
+original_url = "http://www.flickr.com/photos/97844767@N00/2974805066"
+title = "Cheese!"
 [[cards.sides]]
 type = "empty"
 
