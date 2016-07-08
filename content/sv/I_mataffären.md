@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -619,17 +619,17 @@ text = "En lök, lökar"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:MmaPREJeQDJwfqeMXHrq3qOy5XXdu3WwlaXvSVFPu8QcNX7s5pf8SEya4Q_h45jW"
-href = "urn:sha384:M6QQ9-WsT7Jph3_Kl-dGFyP-0usueo-1lKrPUa82bsgnSif8OSgfj_69Bt9LX7vL"
+blob_href = "urn:sha384:OjSsUOdJp6SBe36JMUHv984l_gfoLaMk1r5sh9zOPFVkxC7lnI1Yo40-6_IJZTBr"
+href = "urn:sha384:T0P7lZT2_4DaqaY5OezHPsbTMNnINhscWHNtgqEaAuKhoZnZCEa5nNUpHok58Rni"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (shamaasa)"
-author_url = "http://www.flickr.com/people/67003333@N02/"
+author = "Mike Mozart (JeepersMedia)"
+author_url = "http://www.flickr.com/people/39160147@N03/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/67003333@N02/8340855129"
-title = "Onions"
+original_url = "http://www.flickr.com/photos/39160147@N03/14948351530"
+title = "Vidalia Onions"
 [[cards.sides]]
 type = "empty"
 
@@ -1497,6 +1497,69 @@ author_url = "http://www.flickr.com/people/39160147@N03/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/39160147@N03/15294848042"
 title = "Dove Soap Body Wash"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ett äpple, äpplen"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:olMjfA0PHobH3GTmIK9cDPmDJVVUynKgjoFyti_wBVZiABBVq0knGHGd5OusDCZp"
+href = "urn:sha384:Y2nQnliPWJpgsEriBNQJ7I5LKLR5-dXdloIt2C5tcrY87snpvOyCNbEvZe73ZW1y"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Joshua Alvarez (Flushboy)"
+author_url = "http://www.flickr.com/people/56758924@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/56758924@N00/2095722782"
+title = "Äpplen på torget"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En apelsin, apelsiner"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:T39RYz35TGGu33PLjCHkjNJ0s9KkRwUV_u3yoyKn_rtIJVIYkFSpT61XU9MBEBt0"
+href = "urn:sha384:JkFMjtJ0XZyYuWNi67PnAChC-xO6Wf4W4HgcMEMyHc5JBPsa8ttBUa4p-gaDyc6e"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Susanne Nilsson (Infomastern)"
+author_url = "http://www.flickr.com/people/55856449@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/55856449@N04/16513864238"
+title = "Orange"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ett päron, päron"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:d6mho-0pZRylphOqx7iEy-GnVHiRuHko8DyrOf7bOwcunzc7K2OtEccyfywcRA-j"
+href = "urn:sha384:wOax2WSDETzr5uUffV9lKv37B9Z8D9Cgo4X9OhEGtnEtRV2ZhzFhQq4BoLfjgxLY"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "C.E.I.P. Sambori (C.E.I.P. Sambori)"
+author_url = "http://www.flickr.com/people/45579842@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/45579842@N07/4186857407"
+title = "PERES"
 [[cards.sides]]
 type = "empty"
 
