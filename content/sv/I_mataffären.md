@@ -93,18 +93,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En öl"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:sDgyEae9Ikmfv5qGD1esIQozMv_kijcNOtXynCFM1gCBlYGcfPO3r3AchBpdAjJr"
-href = "urn:sha384:y1ukg8o216DE3M9zf3htUV4cIu0_jqm2UlJWUvuxNMxM6EKunmhZF9Wxj40AbYQu"
+blob_href = "urn:sha384:Qyr9dzujxJkGrmwbI3hMhE95uTJ2wiA3vyaFZW0c6cY2h67rTV0Yy38R4OsH_wRK"
+href = "urn:sha384:trvhXwzbHf43YAxy20aL58ch-N_Qge8yl5PC2IjMUGkscdQd-yzZwQjb1ZwbROQd"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
+author = " (Allie_Caulfield)"
+author_url = "http://www.flickr.com/people/28577026@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/28577026@N02/4731134667"
+title = "2010-05-22 06-05 Schweden 0721 Öland, Mörbylanga"
 [[cards.sides]]
 type = "empty"
 
@@ -129,21 +132,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En lingonsylt"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:H0UJKQ-CuqCM_3I6PohxdGpCaHVsurVd6enQc8Wsm9tSNDCQ8JgT7ScMkHv7m6dd"
-href = "urn:sha384:ytS8ouB03sGx-4ylCQx9E00DPtb4GHJOgqn2L0hIWnCsDw0mAMN__lUrzPEtoX5l"
+blob_href = "urn:sha384:nzVG0sYF1PXXbDcUl1KIhOpLF1N3FWRQuYoNkY9BLY6a4h5hm3jnrU7hE70wqgmS"
+href = "urn:sha384:tLRSLYmuXmDTTeQwonZ_iMOdOL7xAE8YuoKsmVupdiUwrWJjvPdt4uFMXSG35jpD"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Windell Oskay (oskay)"
-author_url = "http://www.flickr.com/people/17425845@N00/"
+author = " (rick)"
+author_url = "http://www.flickr.com/people/35034361412@N01/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/17425845@N00/768586490"
-title = "Raw materials- Rolls"
+original_url = "http://www.flickr.com/photos/35034361412@N01/531300885"
+title = "LINGONSYLT"
 [[cards.sides]]
 type = "empty"
 
