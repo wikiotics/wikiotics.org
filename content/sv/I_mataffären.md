@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -1350,6 +1350,48 @@ author_url = "http://www.flickr.com/people/49503002529@N01/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/49503002529@N01/8915752632"
 title = "Tomaters."
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En vindruva, vindruvor"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:9qv6Yno9mILS8apeAdliTrmX9zBf7GFD-K8SsPILz-HhqzjGOdfmFkrhmNxDizyF"
+href = "urn:sha384:-iit4IrD5gth9LhsvZb9VJnmaZ4raktDGAsu8ytSQzh2EPdqhqefsaN8QaBIqOKV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jonas Nordlund (Jonas N)"
+author_url = "http://www.flickr.com/people/65899618@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/65899618@N00/3878149215"
+title = "Tisdagstema: Ätbart"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En banan, bananer"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:JGGuAJj48-sJwyiUq5nszHzMyNcRsjjYGbXBUNs5nRVM9uh7o5YZIfQ8jfcxj3AD"
+href = "urn:sha384:U0jyeaUSRrM06Z4kYuv5otJXMHVL2zoDqWO91iXo_lLARcFZbqp3c0mYqK3_5k-P"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Mike Mozart (JeepersMedia)"
+author_url = "http://www.flickr.com/people/39160147@N03/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/39160147@N03/14950287365"
+title = "Chiquita bananas"
 [[cards.sides]]
 type = "empty"
 
