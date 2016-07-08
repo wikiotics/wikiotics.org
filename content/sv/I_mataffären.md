@@ -489,7 +489,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En senap, en ketchup"
+text = "Senap och ketchup"
 type = "phrase"
 
 [[cards.sides]]
