@@ -384,7 +384,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En tändsticka"
+text = "En tändsticka, tändstickor"
 type = "phrase"
 
 [[cards.sides]]
