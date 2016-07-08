@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -1052,6 +1052,91 @@ author_url = "http://www.flickr.com/people/35034346243@N01/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/35034346243@N01/6893596"
 title = "Hot chocolate"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Dill"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:sGh6HEqnrEascpnauNnvKrkkW5JwNdXYN1kVrY-ouh9fa5G7BfbpwlhQYBN-6XWb"
+href = "urn:sha384:8Y-a72Y060dmaaWmAh60ZBde4rE61zwSjGIuqZl8LtwpmlUKyRX_ycjjWDuHr-mt"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Tino Rossini (Stradablog)"
+author_url = "http://www.flickr.com/people/39075787@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/39075787@N02/6565420759"
+title = "Dill"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Persilja"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:k7VnYK-x25NW7_2PKSeVzvubwXUXPMVvy0fgnD4Ui2bn5KE5n4dH8qy6PLWcbYvy"
+href = "urn:sha384:rnHscUOt6ZT3JLDCeS1E1bZ6BA17n3PyI4Vw238J0RTCNhWQr9ej47cLxuGyYiqy"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Kalle Schärlund (Kalle Schärlund)"
+author_url = "http://www.flickr.com/people/30236562@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/30236562@N00/2551106839"
+title = "Persilja och gräslök"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Basilika"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:L-UXL_0H_v6fkUJU6KzWAw4QzP5kCCNQEwVBsjlzjU0ZXGJ-l4dFdp0xqIfsyGyl"
+href = "urn:sha384:DwqP2O7cUXBgaJwnvxt-jn0RsnzXj-C6YojTT54xZQr3T2K6m8o6vdtS8-L6chBi"
+mime_type = "image/jpeg"
+rotation = "270"
+type = "picture"
+
+[cards.sides.credit]
+author = "Kalle Schärlund (Kalle Schärlund)"
+author_url = "http://www.flickr.com/people/30236562@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/30236562@N00/2551929526"
+title = "Basilika"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En gurka"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Mwl_BDi_PmAiT9HcoQSYMNNKJGKnm0otJD9zvwWPv-e6mF1VT8n8haTNXqw_Q8xV"
+href = "urn:sha384:6sjC9B_MINQoiE48hbNCamZNNIsJqGngFBQXEf6HcgOOSijOvf9C-QlNzXrOdrzh"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Johan  Larkander (Johan Larkander)"
+author_url = "http://www.flickr.com/people/46408871@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/46408871@N02/4827020671"
+title = "July 25 \"Cucumber\""
 [[cards.sides]]
 type = "empty"
 
