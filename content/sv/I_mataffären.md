@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -1434,6 +1434,27 @@ author_url = "http://www.flickr.com/people/67047805@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/67047805@N00/276185204"
 title = "Mjöl"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Snus"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:etuKzUgLM18ew0IBz5QEkizje-Gno1URdl5yo4hkA5sYkPx_xQqV4wqfZwi4VlzQ"
+href = "urn:sha384:_C_e2y_an5BqMqGyMWbnPD9CkiefnGl29ftZ7jMs0XhbyzjiJsdAMDgoWFmu_37n"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (nyuhuhuu)"
+author_url = "http://www.flickr.com/people/27851913@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/27851913@N00/2267746166"
+title = "Retro portion"
 [[cards.sides]]
 type = "empty"
 
