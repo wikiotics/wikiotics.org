@@ -1444,17 +1444,38 @@ text = "Snus"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:etuKzUgLM18ew0IBz5QEkizje-Gno1URdl5yo4hkA5sYkPx_xQqV4wqfZwi4VlzQ"
-href = "urn:sha384:_C_e2y_an5BqMqGyMWbnPD9CkiefnGl29ftZ7jMs0XhbyzjiJsdAMDgoWFmu_37n"
+blob_href = "urn:sha384:hWDUnPeGiuyQL8uhdH8hUfyH5MB86wHU-SQtWiVYfJ86Z1uU4sIB3EB3oGDmL7-N"
+href = "urn:sha384:qgOkbmPB6O-1f5r6QFt8ZWTlpvt1Hbw0Q5AOUinEDQoTwG4fzXWvLfg-nPTixmHt"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (nyuhuhuu)"
-author_url = "http://www.flickr.com/people/27851913@N00/"
+author = "John Bäckstrand (sopues)"
+author_url = "http://www.flickr.com/people/27510199@N03/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/27851913@N00/2267746166"
-title = "Retro portion"
+original_url = "http://www.flickr.com/photos/27510199@N03/3107921292"
+title = "IMG_4517"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Saltlakrits"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:ylYNLeshy5GoBTRNZTNrSasQVYh-rUMEwe5bkPXHhLQboLtv1Aup5GxT7PP7XpAK"
+href = "urn:sha384:UwjFqvXlTFBWFGVnjBKW2bblw6iPEI9KPFWG-kJwkKCezSRngwXeDfilapkRuQ5n"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (m1ndy9876)"
+author_url = "http://www.flickr.com/people/62615014@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/62615014@N00/2315642772"
+title = "CIMG3728"
 [[cards.sides]]
 type = "empty"
 
