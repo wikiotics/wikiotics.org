@@ -426,7 +426,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En sockerbit"
+text = "En sockerbit, sockerbitar"
 type = "phrase"
 
 [[cards.sides]]
@@ -573,7 +573,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En ost"
+text = "En ost, ostar"
 type = "phrase"
 
 [[cards.sides]]
@@ -615,7 +615,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En lök"
+text = "En lök, lökar"
 type = "phrase"
 
 [[cards.sides]]
