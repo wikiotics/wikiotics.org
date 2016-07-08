@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -672,6 +672,48 @@ author_url = "http://www.flickr.com/people/16825957@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/16825957@N00/2690728836"
 title = "omelett080821"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Ett schampo"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:wqKc-xzSX4IXyAeTSctliMxedUNoC5hzYaMtrs4HicieZ48DuEKFFSfwdm1jwoU0"
+href = "urn:sha384:JAmxo-YMO6T4y911jy65asXUuEbbopa8r2RxAV5z1Md1G7tEPetucEVD0nqjPNhu"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Apotek Hjartat)"
+author_url = "http://www.flickr.com/people/53719740@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/53719740@N05/4970258203"
+title = "Skonsamma hårprodukter från Hjärtat"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Kalles kaviar"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:2E3VZw0dGYmJj0Zeo05tGDcQ8SPN0eapLEleBTK7ZRGC2HNMzOEW7H5ekDfyh5iA"
+href = "urn:sha384:C01khi6cxn6zUEzEd8zZg43WKS50WqXV0So8TCVHfwh-oh08KhiVSFZg_stPNKDK"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jon Åslund (Jon Åslund)"
+author_url = "http://www.flickr.com/people/45074090@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/45074090@N00/1513409850"
+title = "Kalles Randiga Banan"
 [[cards.sides]]
 type = "empty"
 
