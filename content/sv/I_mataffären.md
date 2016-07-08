@@ -468,7 +468,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Salt och peppar"
+text = "Peppar och salt"
 type = "phrase"
 
 [[cards.sides]]
