@@ -991,6 +991,27 @@ title = "Shrimps"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Godis"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:TcAPOwXQ1MfMk2DGd0hQbrMre92GpF4F8lKv0IQmZyLLrZghLKGilW-LyeO3NwkA"
+href = "urn:sha384:WJmzzYnTbsKbS_CHp9f4lXVh11xaqKYpvH17QNAil_iXkwdbfLA8c8r2Mc3_bnjo"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Timmy_L)"
+author_url = "http://www.flickr.com/people/50732955@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/50732955@N00/13924743204"
+title = "Easter candy"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
