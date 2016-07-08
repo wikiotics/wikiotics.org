@@ -636,7 +636,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En glass"
+text = "En glass, glassar"
 type = "phrase"
 
 [[cards.sides]]
@@ -678,7 +678,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ett schampo"
+text = "Ett schampo, schampon"
 type = "phrase"
 
 [[cards.sides]]
