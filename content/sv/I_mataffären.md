@@ -1732,6 +1732,27 @@ title = "blåbær"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Ett hjortron, hjortron"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:UDWGHhXa5PR1QQsvCHzJVHuYqb2GtH_lL9VsE4OhL-onZZqvBjFrcwNOH3JrF1ax"
+href = "urn:sha384:IekZZp4LwVb-4_aZxf1ouwXe6xga_wpGaSlS5QxitBBj5pgtw3J9OsxI4EfvePt_"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (kahvikisu)"
+author_url = "http://www.flickr.com/people/75897997@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/75897997@N00/192930279"
+title = "cloudberry, 4 of 4"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
