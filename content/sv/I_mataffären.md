@@ -8,39 +8,42 @@ target-languages = [ "nl",]
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En pasta"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:hnJfr41ayYAD451htZ8BP443VpqnOS0BEakXwBzYqX_wkN99a7gDCPZaG24Qq_OF"
-href = "urn:sha384:6agIJUB3fENMdjZyV76fCRPLffN7YD4d8oBiAYNpIiJChsbrvSAX8VYgC9FmLR2G"
+blob_href = "urn:sha384:VVNi64Qp6pMBePmbQ84_p4__3MeiFmS2QxJld3D2ZuCUsEleJOwvQM0l3cwRMrDv"
+href = "urn:sha384:JvGokzYE0nW6hq3uji9CY3HjSE4bdfZH4q5ZMNqhS9QcTxqf15kUnYN-HRqN8mHK"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
+author = "Mack Male (mastermaq)"
+author_url = "http://www.flickr.com/people/24311648@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/24311648@N00/3397976622"
+title = "Fresh Pasta"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En olivolja"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:NJgGm4NF1hWs7O2LHI3-N_3o-eHxeVtfatrR4fgnhKTsvhD5YTwlqsUK7Ckpb1eY"
-href = "urn:sha384:Db2npBNRpcXaAklrb7DQJhbri700oHPRiR43fWVl7MzdH_WnF_Xbrtegp7N0tUKO"
+blob_href = "urn:sha384:J4hIh1iuX0Ifq2ix0BeV_qsWeyYebocAPsjAqSloff6q9t0O305MREkBZVdYh-9E"
+href = "urn:sha384:LWV3ljeYqZX7QBwgcFpBj9CNIubm49G7Brw6OSoVyesTLLLrIW80__-TO8KL-dQw"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Anthony Easton (PinkMoose)"
-author_url = "http://www.flickr.com/people/82072056@N00/"
+author = "U.S. Department of Agriculture (USDAgov)"
+author_url = "http://www.flickr.com/people/41284017@N08/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/82072056@N00/3366089333"
-title = "red and blue milk crates, maroon wall"
+original_url = "http://www.flickr.com/photos/41284017@N08/6896388410"
+title = "Ol.-Oil---Pomp-Blog"
 [[cards.sides]]
 type = "empty"
 
@@ -68,18 +71,22 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Mineralvatten"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:yAjyVN14igHC7kNwv8iupxMQMPBxSp4M4qJvprf5972CEEk7-AQf9e8i1WQdI2W7"
-href = "urn:sha384:PHn50xvrueXqF1EZtv0nispIXSkLSBEV67w6sqCKhnO92ni0qv1rvNehLNHd-fbQ"
+blob_href = "urn:sha384:PAY7oGUPzkkPqpJrLWygGOxtK1s-GO6oaCfwIBLSVucYg3iXZBHTvgBcahWZhBk8"
+href = "urn:sha384:xTD2mdt43NxqSU6zy_F5ukvaN0ps07xTiavySgcNYNrchHleA7eGCJfZX9Ja-D2d"
 mime_type = "image/jpeg"
+rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
+author = "Maria Hägglöf (mariahagglof)"
+author_url = "http://www.flickr.com/people/38658566@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/38658566@N06/4749610161"
+title = "Ramlösa"
 [[cards.sides]]
 type = "empty"
 
@@ -206,7 +213,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En juice, ett glas juice"
 type = "phrase"
 
 [[cards.sides]]
@@ -227,21 +234,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Te"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:NZy3ot7OsaNHpqedc6GOQZjFAe5aE1W3upvzyeKdPL1A__Vk3uFDs_Vz_il8N1vS"
-href = "urn:sha384:k-gcRzFzNFdLVJj0hwUVLZMPECU5nmti3EO_YcJz2u3ZNTX1IJE8zKFjGRGC93mD"
+blob_href = "urn:sha384:km-TnwiSjlfTSNRG3pF6GaiScJJRUD-BG_3Xf05ceC3KbTaNSyPDPedbSGzuSCEF"
+href = "urn:sha384:P3oWuc8wG6zM7OKG1vswIyEuTZYoDTezB9gJgEY4XO5ddTAusr5aE80dQAvwdVO3"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Paul Keller (Paul Keller)"
-author_url = "http://www.flickr.com/people/18259771@N00/"
+author = "marissa anderson (marissa)"
+author_url = "http://www.flickr.com/people/44124363951@N01/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/18259771@N00/4444567918"
-title = "Earl Grey tea at Yūkei Salon de Thé on Aneya-koij dori in Kyoto"
+original_url = "http://www.flickr.com/photos/44124363951@N01/5586275789"
+title = "tea"
 [[cards.sides]]
 type = "empty"
 
