@@ -907,6 +907,27 @@ title = "Bregött"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Kaffe"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:wbQyxkF2mj-h_bmLCSLzh1GBU54QAfjreGgTeMveMEfXTyOlOmcS1ga9HBuJvcFU"
+href = "urn:sha384:8OgQAZY-U6oap_lxIdcGEYAmjrL32WiQMw71e7MWpUHHopzSclxHaiJz0VPPEDDb"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (cyclonebill)"
+author_url = "http://www.flickr.com/people/23178876@N03/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/23178876@N03/2223215404"
+title = "Kaffe"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
