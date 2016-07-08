@@ -132,7 +132,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En lingonsylt"
+text = "Lingonsylt"
 type = "phrase"
 
 [[cards.sides]]
@@ -279,7 +279,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En kaka"
+text = "En kaka, kakor"
 type = "phrase"
 
 [[cards.sides]]
@@ -300,7 +300,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En semla"
+text = "En semla, semlor"
 type = "phrase"
 
 [[cards.sides]]
@@ -321,7 +321,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Ett bröd"
+text = "Ett bröd, bröd"
 type = "phrase"
 
 [[cards.sides]]
