@@ -174,21 +174,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Mjölk, ett glas mjölk"
+text = "Mjölk"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:ZcCBAHANxX0434jj9Fvv01oSi2CeOCPlRnZXEvZWuxdK8s31gysWV1fzC7Henusn"
-href = "urn:sha384:JVLsDLVHgqLk8SKW4IzzZCzDEvDJL0xGLgs28Lm3y1r5RwdWrloF-0poNAQR1W7z"
+blob_href = "urn:sha384:6e40Bl8PhVP41Z7nTWHkq6G0Ba5K05NPXLnTOQK7b0J5CzQUjclYNgh8OUrkBxPs"
+href = "urn:sha384:trxr2Je0WrG6zIoUB_V2WdAJp2qMAET0vdvv2k1uP_paaPKGL1Lu8m_3ahfi5LDS"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "hobvias sudoneighm (striatic)"
-author_url = "http://www.flickr.com/people/34427466731@N01/"
+author = "Creative Tools (Creative Tools)"
+author_url = "http://www.flickr.com/people/33907867@N02/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/34427466731@N01/131012552"
-title = "cute little milk"
+original_url = "http://www.flickr.com/photos/33907867@N02/4305440559"
+title = "CreativeTools.se - PackshotCreator - Arla milk"
 [[cards.sides]]
 type = "empty"
 
