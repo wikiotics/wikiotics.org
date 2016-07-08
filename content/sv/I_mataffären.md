@@ -434,57 +434,63 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Socker"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:9RMuKm99SCRVeIDWNU2vugX6UGP7jmOUe_-mCnEZOLWyqDVtHw-gRHTFTv3MFjTR"
-href = "urn:sha384:y3RIUEPZFRHahi9pibDCydBBTH1qUKrI4XBDh9HjYNzVJAIrvzfXyXp0LxJ98YvD"
+blob_href = "urn:sha384:lwEAEGYcct6upfdZ66QXm1mkDqkyokPGSHYDQL7Ri16Eh2Z7BS0PSvNuSg0tF6Gs"
+href = "urn:sha384:uSskNAhdDi9qE6MlnHC1G8_XE-rddtfWdN7pgh6Jlp-ydM_ItmCKbrhvB3uXYsQL"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Dubravko Sorić (SoraZG)"
-author_url = "http://www.flickr.com/people/11939863@N08/"
+author = " (angieloves)"
+author_url = "http://www.flickr.com/people/72762544@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/11939863@N08/3793288383"
-title = "Salt_B130604"
+original_url = "http://www.flickr.com/photos/72762544@N00/104264688"
+title = "Apple Pie"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Salt och peppar"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:SXsYxU3-han6YtgpcoHqkZ-SDnQ4x3-SLXKOKncC3xk73roaoR1rhJHIM7zjcc8K"
-href = "urn:sha384:ISBTxbD-oAxgLVLANyB9d3Rra7ByqZdfsHjD67Au435sUSiSjNJmj2QZNpmt1-e8"
+blob_href = "urn:sha384:CmN8j1H6kOKyQF5l02H6s9ciQRlQYLR3CZX-56wUKXyfWlxUTDVx-D7f6pVAH7g4"
+href = "urn:sha384:ksz30DQKOQ8yxujFud-Gxowf5Bzs_ZBrxUbrF3u5suIzVt8Zceu3mOc5_wsLDHRt"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
+author = "Per Åström (perkovich)"
+author_url = "http://www.flickr.com/people/7961680@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/7961680@N07/5819321714"
+title = "Peppar och salt, Peugeot"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En senap, en ketchup"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:neHXZi_WOSQhYF_tLSyTDoILVDMWmjBp1x29aiyeVAOMqxhEwHLeCKzY8wMHBk4a"
-href = "urn:sha384:WxBOcWsJIOBqdd9Mf9gqG73AJZW4AShiJapUQKU-IyYyxgnD7ThZ2NOF9YPGdYUv"
+blob_href = "urn:sha384:A_v4CIA_o4Cm1kLtohtYTjooHEHMQTfYylUBQCY-tJZy2m_6rLEsCpe0DZd9zoqx"
+href = "urn:sha384:zXNBjuoYjnOS-kclVghH1VpiCPB2IcCF-tZwvOxIr__R1f2aN3HZrhWBjlOwgyZQ"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
+author = "Pat Pilon (pat00139)"
+author_url = "http://www.flickr.com/people/59836631@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/59836631@N06/5626064971"
+title = "Mandy, April 16, 2011 - condoments"
 [[cards.sides]]
 type = "empty"
 
