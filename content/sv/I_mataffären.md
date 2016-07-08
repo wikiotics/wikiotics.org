@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -1602,6 +1602,27 @@ author_url = "http://www.flickr.com/people/27519540@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/27519540@N04/4630508894"
 title = "Swedish Meatballs"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Skinka"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:wVwLpH_z5RVBVMiWByiRWmmtASkRl3NK6d1y1C-uQ60ghXB3_kl3Mdsnes8mkEWh"
+href = "urn:sha384:YymgqGcT42gvekRlKyEHC0KR7YD6XHyElexX2BD12bUKkKNSe67n8as_rUtHbb0I"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "TIM HOGGARTH (Tim-Hoggarth)"
+author_url = "http://www.flickr.com/people/101300267@N05/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/101300267@N05/11861314904"
+title = "Ham and Tomato"
 [[cards.sides]]
 type = "empty"
 
