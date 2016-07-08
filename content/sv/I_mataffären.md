@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -1264,6 +1264,28 @@ author_url = "http://www.flickr.com/people/68978695@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/68978695@N00/6600645695"
 title = "Cauliflowers"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Spenat"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:JTy0OPPMsK_fUdJ1NSL9fvPXsnu2ziYuE9Z20fm_kpQqDYnofavQmpyru9pT1Lgi"
+href = "urn:sha384:uhtSCpuXavKV4ht7kfAv-vip-g-51gkUuWu4ecqqC40NhlRr7oHM6xNMSZn_fKBl"
+mime_type = "image/jpeg"
+rotation = "270"
+type = "picture"
+
+[cards.sides.credit]
+author = " (TijsB)"
+author_url = "http://www.flickr.com/people/17997014@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/17997014@N00/14886988512"
+title = "Wilgenborgh - spinazie in de moestuin"
 [[cards.sides]]
 type = "empty"
 
