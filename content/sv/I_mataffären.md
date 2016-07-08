@@ -738,6 +738,27 @@ title = "Rice"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "En lax"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:EEKz2FNhtTRTyPNzkqXxCWeToY8o4z9RqUnYvXz_3WPMsunDgdJhOdoPX84R7S3k"
+href = "urn:sha384:6sedAlMxT9XOCf3v0ffLehMBd6rrYYNnLzHWk1ideRqtmigC1BASEAUxi9tP-WQA"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Ján Sokoly (jansokoly)"
+author_url = "http://www.flickr.com/people/31188522@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/31188522@N00/14408877761"
+title = "Salmon"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
