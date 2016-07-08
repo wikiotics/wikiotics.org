@@ -865,6 +865,48 @@ title = "chips"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Smör"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:cli8zdtaBucTvfcbaOK9OJlkKCMp_3tRDX7uEnlc0po793rPVt4rBvN8ZAcmPF6K"
+href = "urn:sha384:p_HZKnkyTxq4x_8NowPSKFxKmpgji5YjA4XmwgPc8IBO8_x4h-OWIK7Ij01L7v_P"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Signe Karin)"
+author_url = "http://www.flickr.com/people/16900221@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/16900221@N04/6646152789"
+title = "Tine smør i hylla!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Bordssmör"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:E3U8cEFehgDSTycxxLH7gMEUIH7YlSJ7zQJ6vcKF1wnH_vb3O51wNbz5PykxruWh"
+href = "urn:sha384:RR5NbEZekxi3GWn50zYWvpKTl5w9bXx2tsAdFghHnz3ypHKcH2pn9PPJYVoavOhV"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Per-Olof Forsberg (Per Olof Forsberg)"
+author_url = "http://www.flickr.com/people/55907694@N04/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/55907694@N04/28021494751"
+title = "Bregött"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
