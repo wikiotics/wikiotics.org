@@ -1206,7 +1206,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En purjolök"
+text = "En purjolök, purjolökar"
 type = "phrase"
 
 [[cards.sides]]
@@ -1292,7 +1292,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Sparris"
+text = "En sparris, sparrisar"
 type = "phrase"
 
 [[cards.sides]]
@@ -1329,6 +1329,27 @@ author_url = "http://www.flickr.com/people/41819313@N02/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/41819313@N02/4023606388"
 title = "Nyskördat"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En tomat, tomater"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:1h0-0zo_nfbiGC4Ynkt4LrM6NFLJngk_lgNOeczdrpk0G4HCdLpyRwn0Od2gdq7O"
+href = "urn:sha384:cYOfQMqV9iTQ-Pz2tV2nCfTpeWsLtlSwAHgCx7a6wQwzD1zgYh5_G07FT0XTXU-G"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Nonsequiturlass)"
+author_url = "http://www.flickr.com/people/49503002529@N01/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/49503002529@N01/8915752632"
+title = "Tomaters."
 [[cards.sides]]
 type = "empty"
 
