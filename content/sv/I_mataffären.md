@@ -1314,12 +1314,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En morot, morötter"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:sUhAQAZfdIJm33PpSx-ebf9enDZslDMQ4ct7pF8gJD6S3ppL0URFb5qT2HXG1dF5"
+href = "urn:sha384:xA838TGsB9uAkdZRV70ArvhksAKPmMtrnvqXHFai9UKy57m7KjuZtiBhRgSX8C5h"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = " (Kullez)"
+author_url = "http://www.flickr.com/people/41819313@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/41819313@N02/4023606388"
+title = "Nyskördat"
 [[cards.sides]]
 type = "empty"
 
