@@ -1626,6 +1626,27 @@ title = "Ham and Tomato"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "En mussla, musslor"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:2W1eo1wtGF7ypt0gR-M3-aP0qsjtN3KybYU8QiMlH5_MLnF_xnRAY53F0uws8BnM"
+href = "urn:sha384:TzvjuXa9_5w8UfD4FUGorBWJkCpliM1khFYionT6qj67LLuVLKnCTILClkzZPy4z"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Johan Bryggare (Johan Bryggare)"
+author_url = "http://www.flickr.com/people/82534144@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/82534144@N00/2882622787"
+title = "Musslor"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
