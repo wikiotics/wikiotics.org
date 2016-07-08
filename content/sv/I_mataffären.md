@@ -50,21 +50,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En flaska"
+text = "En falukorv"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:tELKZQScDWooQLWrrMHt-gwbBhpAcwKO-2IGM14CQUEpobIGHCP0FQUo2YIPKEbF"
-href = "urn:sha384:_Yge1_dArq_X0c4MJnaS8w4tBo4xNxc9dmIIUWRcJLHOLPf5d9Y94nsE6Bizh8gS"
+blob_href = "urn:sha384:h83IO_levqzpAC4pG2rRsaOJ91lfeeq5zZ7MJGOUEc6SLrPEhJeiJSiX0R1jxZO9"
+href = "urn:sha384:aBjGtsRfuFPR_3IU16Gswd_u5zkqHtlJZpBZP058ynmxFrhQIq7C4LfinV9DjKtJ"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Sonny Abesamis (avrene)"
-author_url = "http://www.flickr.com/people/23212428@N00/"
+author = " (Håkan Dahlström)"
+author_url = "http://www.flickr.com/people/93755244@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/23212428@N00/4367618376"
-title = "eco bottles"
+original_url = "http://www.flickr.com/photos/93755244@N00/9670372209"
+title = "Makes children happy. And me."
 [[cards.sides]]
 type = "empty"
 
