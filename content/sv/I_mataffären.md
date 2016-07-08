@@ -195,21 +195,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En läsk"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:oiSRvdejaNQfwBeusOk8Yrarbnd94kRcGur7xIgNkfODd7BsoL1g47tvvu0UKQWq"
-href = "urn:sha384:ii2fpCeY3bA3o3Fbz-37b5E_f61V1FS7wcyN3kvzUgZm_KklmN4yif6JRy5replp"
+blob_href = "urn:sha384:ZESf2Lqwzcii-MQqVCww6TRGyKHfFibr-5LU3RI2SImWhpR5ckOfGGwUiwp5Y_gV"
+href = "urn:sha384:N9sDKKsFEzlOaC82EOr3Jf8NubzFd8bnaqQXSRQFALoWm9L8Zs8vAh8-Er2qzAu1"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Eden, Janine and Jim (edenpictures)"
-author_url = "http://www.flickr.com/people/10485077@N06/"
+author = "John Bäckstrand (sopues)"
+author_url = "http://www.flickr.com/people/27510199@N03/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/10485077@N06/9359112582"
-title = "Bacon Soda"
+original_url = "http://www.flickr.com/photos/27510199@N03/2881929355"
+title = "IMG_4247"
 [[cards.sides]]
 type = "empty"
 
@@ -594,21 +594,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Ett knäckebröd"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:iimzq-SqY09-xRPBkgVs-Ms7GD3pXO4JeAtc2XjEbZ8NmcGBSAPnLIT7Yv_ksHst"
-href = "urn:sha384:7T_crBW5kCV23HK9fdl5KzR6TnK2e2CpbMS0gH_RH-kuO_yuLtqrQqhcrPZalRP0"
+blob_href = "urn:sha384:QZ9NJhlx1gyDQTUFXtjr8SWc5C6ToTNRR4LMou-z5zxfg8crVt9a1yjZR9krx5LS"
+href = "urn:sha384:oPyaLsR_07hD_Yyg7sGxyUgm9Slj0_jEcR02qPGoH4zzKUKg8pB3vRGKNw71R8p7"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "liz west (Muffet)"
-author_url = "http://www.flickr.com/people/53133240@N00/"
+author = "Karl Baron (kalleboo)"
+author_url = "http://www.flickr.com/people/82365211@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/53133240@N00/8501854880"
-title = "eggs"
+original_url = "http://www.flickr.com/photos/82365211@N00/5868373960"
+title = "Found knäckebröd!"
 [[cards.sides]]
 type = "empty"
 
