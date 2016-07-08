@@ -1668,6 +1668,28 @@ title = "Snart middag..."
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "En svamp, svampar"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:B09BTrZyrsCl8VdmNAGP5UNK2dLmPrk0GP7_4GAaCEyX19XhJ5dSEgGZXQMoORCP"
+href = "urn:sha384:VSBDNxkk3mTtLA0y8TNVWqL5T-W3yK9-0_2gON7nSHGYQg23ZH3nl_GcVeZ4nap_"
+mime_type = "image/jpeg"
+rotation = "270"
+type = "picture"
+
+[cards.sides.credit]
+author = "Kristoffer Karlsson (toffekarlsson)"
+author_url = "http://www.flickr.com/people/64143224@N07/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/64143224@N07/6026634952"
+title = "Svamp"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
