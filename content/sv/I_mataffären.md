@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -925,6 +925,27 @@ author_url = "http://www.flickr.com/people/23178876@N03/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/23178876@N03/2223215404"
 title = "Kaffe"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En tandkräm"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:y3F1PNgecYVASaKEIThlC18W0PEDYcs7EdqFbnwIyi9cyLOIZgN2A7kH0b0Hd_8L"
+href = "urn:sha384:HL8cPfCoAftm6TH-th7LVdYkPzYMAMafJ53j8iNcNWEL8TlKJ13oqHJXeioK3VFM"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Creative Tools (Creative Tools)"
+author_url = "http://www.flickr.com/people/33907867@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/33907867@N02/5077889911"
+title = "CreativeTools.se - PackshotCreator - Colgate tandkräm"
 [[cards.sides]]
 type = "empty"
 
