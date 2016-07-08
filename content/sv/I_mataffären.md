@@ -294,84 +294,78 @@ text = ""
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:Qjn0mNpKRcR2MzDuHOLEbxHnG33YyDfsvcm8AP-wnJ4621GEdxwJV5X8GndK0CL_"
-href = "urn:sha384:CBY-_83f1eYuuh-qqsLRdaLPoZj3wvkYMwn88vOv8gdrpXO-ocoegcSCZdsWOto3"
-mime_type = "image/jpeg"
-type = "picture"
+type = "empty"
 
-[cards.sides.credit]
-author = "wed23@wikiotics.org"
-license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Ett bröd"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:olKfs7e16ghjEnBSI85AVXWtk17NYMoNcznIoSTclmGteHOJJ6rv73Z9bD5JyW8E"
-href = "urn:sha384:Wkoot7OMneTSlpIxSOB6qchIIXS6k30NdUw1Bi749hpDI8vMw76qi5ZZCwdvKKvp"
+blob_href = "urn:sha384:Roov8WoR_94PyF_sylnYXn7btdlb5YIclBXllNqOpc-PrubLXFRXMPRegya1Fy6Z"
+href = "urn:sha384:9IdhSPjZBzVEhcr0Rpq2cHqus8YCIaw4qgqZJVhxNyWDow7_QNgFAFmv64et8G-e"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (jeffreyw)"
-author_url = "http://www.flickr.com/people/7927684@N03/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/7927684@N03/6189590468"
-title = "Mmm... fresh hoagie rolls"
+author = " (cyclonebill)"
+author_url = "http://www.flickr.com/people/23178876@N03/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/23178876@N03/2221994231"
+title = "Brød"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Ett tvättmedel"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:tRlcLb-r2F4BaSxHi4SLmN-qSdJ5lRR0Gl0QyS46pv4wefGG9yJy8IP_NMv_tWlA"
-href = "urn:sha384:IN4PeOjeY6VJfs73vvbsEatmSou3SsznCqUx787Gut1dsWMEt3brTV8Yh0EA6EFf"
+blob_href = "urn:sha384:vz5Ho-oho7Ytpf9x3_txgPa3PEjU5ip8MrIhQ-kAEZLsNUaOXUAElXZ2_-JM86x7"
+href = "urn:sha384:fqNNh7u2o6c1gAQp4Cf0XiMwINO3hwJpOjL_9Hi1H3cQ3iXn3vgkq6Qx69DoJVRH"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Mike Mozart (JeepersMedia)"
-author_url = "http://www.flickr.com/people/39160147@N03/"
+author = "Mr. Brian (mrbriandesign)"
+author_url = "http://www.flickr.com/people/53360519@N04/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/39160147@N03/15017417780"
-title = "All Laundry Detergent"
+original_url = "http://www.flickr.com/photos/53360519@N04/7222872378"
+title = "detergent"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "Ett diskmedel"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:8CWUxMGPB0MZbwBDdDG3Fr3w-K3JhiNK0l3hB4XWCdZvemwRpptT5Kyk6yJHiaKq"
-href = "urn:sha384:ZWlEuwE6yLlb-L2Gsx525d8pQs_VddeP_X_t1Ex5dVMKAHE3FENxLtVBYT8w9Lej"
+blob_href = "urn:sha384:Xn0-qcX4Z9AM7jYMwBzAxVGwM0kLolMOuKgV6MklarSlO8vgsejZod5fqGIIwQU4"
+href = "urn:sha384:qoTJzN2teICgx1hdqOP9oCDA70taYV_A0Ujrxw9-EQpFDPlEdBBOzHA-2PMyLTrV"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Kai Hendry (Kai Hendry)"
-author_url = "http://www.flickr.com/people/16105436@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/16105436@N00/4291373768"
-title = "Tesco and Sainsburys own dishwashing liquid"
+author = "An Mai (axmai)"
+author_url = "http://www.flickr.com/people/17160135@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/17160135@N04/6884886235"
+title = "I guess water and soap from doing the dishes counts as \"throwing away,\" right?"
 [[cards.sides]]
 type = "empty"
 
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En tändsticka"
 type = "phrase"
 
 [[cards.sides]]
@@ -392,7 +386,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En tvål"
 type = "phrase"
 
 [[cards.sides]]
@@ -413,7 +407,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = ""
+text = "En sockerbit"
 type = "phrase"
 
 [[cards.sides]]
