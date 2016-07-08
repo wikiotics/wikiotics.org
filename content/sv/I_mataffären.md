@@ -1034,6 +1034,27 @@ title = "Swedish chocolate"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Choklad (att dricka)"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Ied8HQCm0VTPKoagTIWEFFVV1YJDMq9uSWSAojJ2-OmtvnBfidutAlrcfnCDv3HH"
+href = "urn:sha384:4M8YFHnvO3WhZOka6a7Gh91QOlHJkh3Y9AqZMI7XA--m7rYGvH8Julpriu0CIPB2"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (stu_spivack)"
+author_url = "http://www.flickr.com/people/35034346243@N01/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/35034346243@N01/6893596"
+title = "Hot chocolate"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
