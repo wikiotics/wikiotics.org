@@ -1563,6 +1563,27 @@ title = "PERES"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "En paprika, paprikor"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:8LL9y8H0VzM0tF97wIBic1ZSLidpgpgOoWaaVL44Z2VyPt-IJtJ_eVAyig6kxeGO"
+href = "urn:sha384:AXaIIR_C4ahTfVFCgBk4tZQYjhMdih7aOuaQ_bVzkX9Ge7SlERDz2lEOgv2zhcSS"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Daniel Mott (vargklo)"
+author_url = "http://www.flickr.com/people/13287643@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/13287643@N00/77553764"
+title = "Paprikor"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
