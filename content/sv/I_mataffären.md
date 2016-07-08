@@ -157,17 +157,17 @@ text = "Marmelad"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:PflCq0ggor9XXpwEs9gtVroUF-viCGbGyNm6dskJHzMd1MtFzyGm1fkc9uEU7FyU"
-href = "urn:sha384:OgykenoiNNLml-BgxSy7ZV3YfcxT2o6JXfHl1x7PAAlHPPBrb1YVnISvZuFOs6cI"
+blob_href = "urn:sha384:9ThMIP4mRXT3Pr1peViWnUeN99rxi8HPZYCw6JZIyKsuj6h7AMAQ8GDd9ScQBpRY"
+href = "urn:sha384:A7qi-NGHjDTDQw3hX2i7Lxo3S4Q1ntHKHvvLfYOHvXFpOhTaN4ekugtn3EX0dpRs"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = "Phil and Pam Gradwell (to be) (Phil and Pam)"
-author_url = "http://www.flickr.com/people/33987777@N00/"
+author = " (Brunneby Musteri)"
+author_url = "http://www.flickr.com/people/93760962@N03/"
 license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/33987777@N00/1731678793"
-title = "Day 38 - Quince Jam"
+original_url = "http://www.flickr.com/photos/93760962@N03/8568299706"
+title = "Lyx-Apelsinmarmelad, 425 g"
 [[cards.sides]]
 type = "empty"
 
