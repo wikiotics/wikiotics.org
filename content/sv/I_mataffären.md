@@ -1395,6 +1395,27 @@ title = "Chiquita bananas"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Yoghurt"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:hI-SoQRB8K8uAc8pJTLI0vnr4XZTTruY3XY4um7kpAydHrz3rwfryIZOfmY9Lvu8"
+href = "urn:sha384:FBscrD5J5RvwBQ6Mr4urRD2Ywi3GnS6uoUdN5BB2s4hKnssEiBJRBwpjqXwAVkzS"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (mroach)"
+author_url = "http://www.flickr.com/people/73569497@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/73569497@N00/3830663638"
+title = "Lättyoghurt"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
