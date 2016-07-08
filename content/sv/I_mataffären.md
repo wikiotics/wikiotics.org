@@ -970,6 +970,27 @@ title = "Pork Chops (RAW)"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Räkor"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:3TgiOJtainDIGF7y4voYI3UVRSS4UWcifrv7EzDF-0zZxv-xbV7VQMDM9n7SdtIL"
+href = "urn:sha384:rCNeVP2Q8gy7gdeTTcN8VIqMmW0UvlnHwum_e71IDKrESZapUzc8dhJaBF4tMg5W"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Håkan Dahlström)"
+author_url = "http://www.flickr.com/people/93755244@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/93755244@N00/4408094771"
+title = "Shrimps"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
