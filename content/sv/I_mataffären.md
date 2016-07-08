@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -756,6 +756,27 @@ author_url = "http://www.flickr.com/people/31188522@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/31188522@N00/14408877761"
 title = "Salmon"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En leverpastej"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:cp6EIx4KZQxaiSHe_lktnn_8BV0g98SxL2z6eYekUMIccnX0OUmfRDI0j5JJ-HzU"
+href = "urn:sha384:-kv38zsYgTaJ4yaIH1tkjGBLtoVXh1np8ejTCJvhl1mN7ndZOaeA7I1yK7_c9iAX"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (TheCulinaryGeek)"
+author_url = "http://www.flickr.com/people/72949902@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/72949902@N00/4663433408"
+title = "Chicken Liver Pâté"
 [[cards.sides]]
 type = "empty"
 
