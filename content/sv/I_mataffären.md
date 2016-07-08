@@ -741,7 +741,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En lax"
+text = "Lax"
 type = "phrase"
 
 [[cards.sides]]
@@ -762,7 +762,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En leverpastej"
+text = "Leverpastej"
 type = "phrase"
 
 [[cards.sides]]
@@ -777,6 +777,70 @@ author_url = "http://www.flickr.com/people/72949902@N00/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/72949902@N00/4663433408"
 title = "Chicken Liver Pâté"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Sill"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:gCZZcqqKTBwpKLTKxT3-em2XxJ_INc2Z0k6QT-ALK41G8FVK5i2m1ezQPAzQpL1q"
+href = "urn:sha384:4YVew__BacwV4wjmQrIe88ogWQ5c_j-xFosCGno2pZ3FIlaGAhl11PfW42m56EHL"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "erik forsberg (hepp)"
+author_url = "http://www.flickr.com/people/15511507@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/15511507@N00/5881484749"
+title = "sill"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Filmjölk"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:JCCYb_Q2x5BsKLYVTkLF5E6WM5u99zRhxh3HQCM30lcS3Aqm46sS746nKx8vYclh"
+href = "urn:sha384:jcQ9Gy7CYDovgPMojPmpCfoftvTOjObe68nmp-Qxdfsrsp9zHGkMBIVyXhq9CDjp"
+mime_type = "image/jpeg"
+rotation = "90"
+type = "picture"
+
+[cards.sides.credit]
+author = "Henner Zeller (hzeller)"
+author_url = "http://www.flickr.com/people/70051401@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/70051401@N00/3781054169"
+title = "Breakfast"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Köttfärs"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:mKcBv0dUV_uLA_1pJqZMIhLBsUNvWXPGscxQdX6KCxZpl-3mZCzhK9U2JdKGlSst"
+href = "urn:sha384:6SVr4fF_zKSCgDVNYpp52fxINdxPriZCDpvNfwep-YE2tinpVoH8_NMfeyiLm8Ga"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Per Åström (perkovich)"
+author_url = "http://www.flickr.com/people/7961680@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/7961680@N07/14863801080"
+title = "Smart förpackning jag inte sett tidigare (för köttfärs i alla fall): frysbar, längre hållbarhet, inga tillsatta gaser, tar mindre plats, mindre materialförbrukning (95%). Bra tänk!"
 [[cards.sides]]
 type = "empty"
 
