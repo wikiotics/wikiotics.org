@@ -910,7 +910,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Kaffe"
+text = "Kaffe, en kopp kaffe"
 type = "phrase"
 
 [[cards.sides]]
