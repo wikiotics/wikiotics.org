@@ -510,7 +510,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En grillkorv"
+text = "En grillkorv, grillkorvar"
 type = "phrase"
 
 [[cards.sides]]
@@ -531,7 +531,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En varmkorv"
+text = "En varmkorv, varmkorvar"
 type = "phrase"
 
 [[cards.sides]]
