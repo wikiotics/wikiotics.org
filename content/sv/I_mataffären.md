@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -841,6 +841,27 @@ author_url = "http://www.flickr.com/people/7961680@N07/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/7961680@N07/14863801080"
 title = "Smart förpackning jag inte sett tidigare (för köttfärs i alla fall): frysbar, längre hållbarhet, inga tillsatta gaser, tar mindre plats, mindre materialförbrukning (95%). Bra tänk!"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Chips"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:JdWT8pQ1zruHt5drlbXrUZj39ua8ZZnUBYYNWN4dggOahhBOwMxH61HvHLZpRZB7"
+href = "urn:sha384:Sl-SSK4hX5bX4AJ0Qk2u1dnqdBd6JahDFbp8uDrnx9AEDzx5vqA3fUhUwNc6I48z"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (nociveglia)"
+author_url = "http://www.flickr.com/people/40385177@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/40385177@N07/11138474896"
+title = "chips"
 [[cards.sides]]
 type = "empty"
 
