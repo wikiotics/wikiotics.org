@@ -1,7 +1,7 @@
 +++
 title = "boodschappen"
 contributors = [ "100.2.164.232", "24.193.48.145", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -745,18 +745,6 @@ blob_href = "urn:sha384:cyyBENgvMziUKnRkF2Z0ZZeAdM05zkmgfmflzgd7PJ2l_mkb77VmonCf
 href = "urn:sha384:fDMqfMXoDjsZ5DMaLiMrQTqeE1UXiqLuIBgfaAmVgLewD38pzwVFKpsU1stML-Ef"
 mime_type = "audio/ogg"
 type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
 
 [[interactions]]
 answer = 1
