@@ -2029,7 +2029,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En leverpastejsmörgås, leverpastejsmsmörgåsar"
+text = "En leverpastejsmörgås, leverpastejsmörgåsar"
 type = "phrase"
 
 [[cards.sides]]
