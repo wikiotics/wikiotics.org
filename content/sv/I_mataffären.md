@@ -1963,6 +1963,28 @@ title = "Carrot Cake"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "En pepparkaka, pepparkakor"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:W0HSRg0j58xDw2ZEbViGOKmQihdE8knDi1TWgVoLxFiuvZqlueno1vfpG0DCz7D7"
+href = "urn:sha384:AZVaUKPyYNip1jWA4QwnZUusGprXv8YDVUIlQNcnZde-mqDhKN4KTeog4jJsiL2R"
+mime_type = "image/jpeg"
+rotation = "270"
+type = "picture"
+
+[cards.sides.credit]
+author = " (m1ndy9876)"
+author_url = "http://www.flickr.com/people/62615014@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/62615014@N00/4251698829"
+title = "DSC00034"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
