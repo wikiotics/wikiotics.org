@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84, 88,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -1855,6 +1855,48 @@ author_url = "http://www.flickr.com/people/67839741@N06/"
 license = "https://creativecommons.org/licenses/by/2.0/"
 original_url = "http://www.flickr.com/photos/67839741@N06/14799580648"
 title = "#Cheese & #strawberry #Danish from Short Cake is some seriously good #pastry. Every bit made #homemade. Try it! #desserts #dessertporn #breakfast #foodporn"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En mazarin, mazariner"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:Y_kOJ8lvMOazwIeP2F--bS2eyBV9ZJf24dzvK8GYqe1Eakvbp07j7MMXxExu4H__"
+href = "urn:sha384:SHJFKxQFpJ94qeX5mhLYYXhNS5aCoBmY_JGC3KUbRrE1RCK8h0Dm834pyNOAiIGA"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Axel Pettersson (Haxpett)"
+author_url = "http://www.flickr.com/people/58242682@N06/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/58242682@N06/14713120946"
+title = "\"Smarrigt fika\" var beställningen från @bettobaba. #Mazarin är lösningen! Ping @blackboris"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "Chokladkaka"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:hSHBcYZurflWnmIIf_eKnj1WZpr5AzLzdbiVK_MwaBZHS-H_hcNXJ4Pn3agG5NWH"
+href = "urn:sha384:gUhhxo7RCt-Bp9SVWTXLYQbE3_Lw0OKsbo-jHaC9G2ITF6tG_SMUtxnqSpv5d5i5"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Ivana Sokolović (erecepti.com)"
+author_url = "http://www.flickr.com/people/105392694@N02/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/105392694@N02/14317348286"
+title = "Čokoladna torta sa kafom"
 [[cards.sides]]
 type = "empty"
 
