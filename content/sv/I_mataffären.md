@@ -1795,6 +1795,27 @@ title = "Melon"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "Prinsesstårta"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:sgYF4gazYli57Q-9VrLJqGCHWkBRe8yMFYop7HsxzUzJLCzj7lYk9t0_PEcfTlCd"
+href = "urn:sha384:nBbl7GYEj3Ksm0L0an0M1mm0V8lzT_4VnQgwMz83pttNlsFSLPC2j78twnJTCUH7"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Celeste Lindell (Average Jane)"
+author_url = "http://www.flickr.com/people/64401168@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/64401168@N00/9764812713"
+title = "Swedish Prinsesstarta, or Princess Cake"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
