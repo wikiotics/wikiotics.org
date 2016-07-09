@@ -1900,6 +1900,27 @@ title = "Čokoladna torta sa kafom"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "En latte, lattar"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:8lFvWMZl9O9RpWTs4SeDg7Z5Wl00OUXEgezA1HFxR4_vibLCrjFp5o9b6e48ulFx"
+href = "urn:sha384:hFsaNe8IRxvEiq6ruOfoQK955zB7KQ5wTSaXWBlAbrxrtOBdzobyrEmv1Thjdk-2"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Alpha (avlxyz)"
+author_url = "http://www.flickr.com/people/10559879@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/10559879@N00/339313548"
+title = "Dandy Soy Latte - Macro Wholefoods"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
