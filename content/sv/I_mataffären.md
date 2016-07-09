@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -1771,6 +1771,27 @@ author_url = "http://www.flickr.com/people/101300267@N05/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/101300267@N05/12950385095"
 title = "Lemons"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En melon, meloner"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:vecpgzjCbRunQ1U0bsNDHLNTeDWWSYqsduI3Ni9mJs34jxqMqTdCBUQEJ-vjuwZY"
+href = "urn:sha384:XSELU0l8KCDb1u1Kf9vh0O0bfb0djRsVGhB6OLqn4-BD8YMXkk6Id94_vS045zUn"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Adolfo Calsin (AdolfoCalsin)"
+author_url = "http://www.flickr.com/people/97196285@N05/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/97196285@N05/15919964507"
+title = "Melon"
 [[cards.sides]]
 type = "empty"
 
