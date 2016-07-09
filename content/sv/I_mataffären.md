@@ -1,7 +1,7 @@
 +++
 title = "I mataffären"
 contributors = [ "100.2.164.232", "128.59.77.170", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84, 88, 92,]
+dividers = [ 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84, 88, 92, 96,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -2023,6 +2023,27 @@ author_url = "http://www.flickr.com/people/61392182@N00/"
 license = "https://creativecommons.org/licenses/by-sa/2.0/"
 original_url = "http://www.flickr.com/photos/61392182@N00/6028090561"
 title = "Trevligt…"
+[[cards.sides]]
+type = "empty"
+
+[[cards]]
+
+[[cards.sides]]
+text = "En leverpastejsmörgås, leverpastejsmsmörgåsar"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:alW00dQRqulYJlak3iFwnmz5kl29qK8FfLP_hhtg7SCsqjcLXTC-UrV6_-gz9PL4"
+href = "urn:sha384:2MlOkOGPbp_89WC9zWEggiW7ieteQYjHKnrxg7jwejjYM0zgNk5MCcp4_qIfasVu"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Anders Carlsson (andersc77)"
+author_url = "http://www.flickr.com/people/32363854@N07/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/32363854@N07/8727049539"
+title = "Alltså, det är så här en leverpastejsmörgås ska se ut. Sjukt god!"
 [[cards.sides]]
 type = "empty"
 
