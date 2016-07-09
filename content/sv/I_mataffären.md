@@ -1816,6 +1816,27 @@ title = "Swedish Prinsesstarta, or Princess Cake"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "En dammsugare, dammsugare"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:m7LhyTiJ58J_5u9RX0dJmxxogWSTd0E9leB0V-yRBIDVehMxcXrEy6ySOw1J28wn"
+href = "urn:sha384:3s11tNipNsDQwfYdyuo4pz2DOpITknpPy9Yn8T_KeGjnp3lcdRY9_SLQZPsEl1zY"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Jon Åslund (Jon Åslund)"
+author_url = "http://www.flickr.com/people/45074090@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/45074090@N00/4534901526"
+title = "Världens godaste dammsugare"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
