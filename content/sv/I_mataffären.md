@@ -1921,6 +1921,27 @@ title = "Dandy Soy Latte - Macro Wholefoods"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "En chokladboll, chokladbollar"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:0gS6EnBawVSvf6rsUawIcIbfV5EP7i80st9lAPLK_siIyIFW-XXR0nqrkS9nvqhy"
+href = "urn:sha384:QfI0AYS8mjF_WtORiNX0xILw2U-BvREvRr1o0u5YnKcRHZaEtHncgYiR5ls0tTcD"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = "Susanne Nilsson (Infomastern)"
+author_url = "http://www.flickr.com/people/55856449@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/55856449@N04/8832921752"
+title = "Chokladbollar"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
