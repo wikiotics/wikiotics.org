@@ -262,17 +262,17 @@ text = "En kanelbulle, kanelbullar"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:809o0Eblus6X3L0bWDAAxoMJe-GVXL30OtyAUoXj6pfzL_l8t6WNjb59_NZThncW"
-href = "urn:sha384:_B5oQ1RKXTfvg4z88xsrpYf9YZm5z8o80ob313Jxa4R3QBwtfJFAV5xypDw7PgTU"
+blob_href = "urn:sha384:SL8-alSZNYVKeWmFkMaQPiaIIckUyHWjEwdz7awZtf6QZlj8US0j4lX10ApROLAv"
+href = "urn:sha384:hmqW4MNxkiYxHtlDpmXFPxQlXqsE63sEWWxnaV1qqoqN2jLz70uWfHDtR7na5EUN"
 mime_type = "image/jpeg"
 type = "picture"
 
 [cards.sides.credit]
-author = " (Håkan Dahlström)"
-author_url = "http://www.flickr.com/people/93755244@N00/"
-license = "https://creativecommons.org/licenses/by/2.0/"
-original_url = "http://www.flickr.com/photos/93755244@N00/5140212988"
-title = "Cinnamon bun"
+author = "Susanne Nilsson (Infomastern)"
+author_url = "http://www.flickr.com/people/55856449@N04/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/55856449@N04/8309756875"
+title = "Kanelbullar till eftermiddagskaffet."
 [[cards.sides]]
 type = "empty"
 
@@ -1987,12 +1987,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "En kanellängd"
+text = "En hallongrotta, hallongrottor"
 type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:7IgJaU_xDCN5q0F7nuvk91ig0mfh8qpUP3Y_WAnhxKanKBmzIaRJjI-wpLv6cTiT"
+href = "urn:sha384:JmXtghI01fwIfH_fkXJsYBS1cUdKruY5j0QVXSH-_MWFMe5izsKjZGdcquQ_NfQD"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Jon Åslund (Jon Åslund)"
+author_url = "http://www.flickr.com/people/45074090@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/45074090@N00/2440025082"
+title = "Hallongrottor"
 [[cards.sides]]
 type = "empty"
 
