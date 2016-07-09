@@ -1970,18 +1970,17 @@ text = "En pepparkaka, pepparkakor"
 type = "phrase"
 
 [[cards.sides]]
-blob_href = "urn:sha384:W0HSRg0j58xDw2ZEbViGOKmQihdE8knDi1TWgVoLxFiuvZqlueno1vfpG0DCz7D7"
-href = "urn:sha384:AZVaUKPyYNip1jWA4QwnZUusGprXv8YDVUIlQNcnZde-mqDhKN4KTeog4jJsiL2R"
+blob_href = "urn:sha384:Qvdxni2enhDy2iCp8-JF40-sWBbWrNjKt24i-4Avgpqn-khcRfZ9AQmtyL10W55o"
+href = "urn:sha384:h4qJX0u4lR2X0XUeHDniFvjrTS8mUgyE0U4q6NZ5dkzEqoC-VpxqkyDTw5Xe-E_9"
 mime_type = "image/jpeg"
-rotation = "270"
 type = "picture"
 
 [cards.sides.credit]
-author = " (m1ndy9876)"
-author_url = "http://www.flickr.com/people/62615014@N00/"
-license = "https://creativecommons.org/licenses/by-sa/2.0/"
-original_url = "http://www.flickr.com/photos/62615014@N00/4251698829"
-title = "DSC00034"
+author = "erik forsberg (hepp)"
+author_url = "http://www.flickr.com/people/15511507@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/15511507@N00/306442784"
+title = "Gingerbread biscuit"
 [[cards.sides]]
 type = "empty"
 
