@@ -2005,6 +2005,27 @@ title = "Hallongrottor"
 [[cards.sides]]
 type = "empty"
 
+[[cards]]
+
+[[cards.sides]]
+text = "En räksmörgås, räksmörgåsar"
+type = "phrase"
+
+[[cards.sides]]
+blob_href = "urn:sha384:x-8zHI00pS5IP_7j91aHff7R5jAUzOX9Y9VOHz0sH0oy5O_Ak5_t3U6I4nsN1r45"
+href = "urn:sha384:DVqqJYeJSLQ-4d7EK0mM1dKzi5tqUwKYgGwgYHs-TMpJWkloUrBP5gJ4OQrFgeSz"
+mime_type = "image/jpeg"
+type = "picture"
+
+[cards.sides.credit]
+author = " (Patrick Strandberg)"
+author_url = "http://www.flickr.com/people/61392182@N00/"
+license = "https://creativecommons.org/licenses/by-sa/2.0/"
+original_url = "http://www.flickr.com/photos/61392182@N00/6028090561"
+title = "Trevligt…"
+[[cards.sides]]
+type = "empty"
+
 [[interactions]]
 answer = 1
 prompt = [ 0, 2,]
