@@ -1,7 +1,7 @@
 +++
 title = "Clothing"
 contributors = [ "128.59.37.53", "128.59.76.180", "ian", "wed23",]
-dividers = [ 4, 8, 12, 16, 20, 24,]
+dividers = [ 4, 8, 12, 16, 20,]
 headings = [ "Phrase", "Picture", "Audio",]
 type = "lesson"
 target-languages = [ "nl",]
@@ -505,18 +505,6 @@ blob_href = "urn:sha384:h57KWXWphR1NgJBOpTCn7a-uR0QdKUegIMeh0kwsCBCrq_wbp6kMCsoA
 href = "urn:sha384:ULJXohWjUv-mrxsZxOfysR25HElqX7T8j4egCh3FMjoj3fZ1JNrxpqUDCaQZV-lT"
 mime_type = "audio/ogg"
 type = "audio"
-
-[[cards]]
-
-[[cards.sides]]
-text = ""
-type = "phrase"
-
-[[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
-type = "empty"
 
 [[interactions]]
 answer = 1
