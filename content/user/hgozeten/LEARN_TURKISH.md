@@ -38,7 +38,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "NERELISINIZ"
+text = "NERELiSiNiZ"
 type = "phrase"
 
 [[cards.sides]]
@@ -48,7 +48,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "HOSGELDINIZ"
+text = "HOSGELDiNiZ"
 type = "phrase"
 
 [[cards.sides]]
@@ -58,7 +58,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "SIZIN ADINIZ NE"
+text = "SiZiN ADINIZ NE"
 type = "phrase"
 
 [[cards.sides]]
@@ -68,7 +68,7 @@ type = "phrase"
 [[cards]]
 
 [[cards.sides]]
-text = "BENIM ADIM"
+text = "BENiM ADIM"
 type = "phrase"
 
 [[cards.sides]]
