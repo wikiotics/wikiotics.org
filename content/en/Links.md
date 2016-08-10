@@ -5,6 +5,12 @@ title = "Other projects of interest"
   - [Spoken
     Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Spoken_Wikipedia)
     exists in many languages
+  - The [Arabic
+    keyboard](http://www.clavier-arabe-pro.com/arabic-keyboard.php)
+    Service also allows internet users to enter characters from the Arab
+    langne without having a physical keyboard this service (keyboard in
+    Arabic) also allows for the translation from Arabic to several
+    languages and vice versa
   - [BabelFish Instant
     Translation](https://addons.mozilla.org/en-US/firefox/addon/7004)
     plugin for Firefox. Uses proprietary web services to actually do the
@@ -14,7 +20,7 @@ title = "Other projects of interest"
     result of machine
     learning](http://michaelnielsen.org/blog/implementing-statistical-machine-translation-using-mapreduce/).
     (Actually, building such services is probably beyond the scope of
-    Wikiotics, but it would be nice if they existed anyway.)
+    Wikiotics, but it would be nice if they existed anyway.) 
   - [Foreign Service Language
     Classes](http://fsi-language-courses.org/Content.php) Has many
     language lessons developed by the US Government, and thus in the
