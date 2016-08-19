@@ -7,7 +7,7 @@ target-languages = [ "tr",]
 [[cards]]
 
 [[cards.sides]]
-text = "KARNE"
+text = "Karne - Report card"
 type = "phrase"
 
 [[cards.sides]]
@@ -20,7 +20,7 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-text = "Karne - Report card"
+text = "KARNE"
 type = "phrase"
 
 [[cards.sides]]
