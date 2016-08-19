@@ -1,7 +1,7 @@
 +++
 title = "FIKRA-KARNE"
 contributors = [ "sophia",]
-headings = [ "Phrase", "Picture", "Audio", "",]
+headings = [ "Phrase", "Picture", "Audio", "Side 4", "Side 5",]
 type = "lesson"
 target-languages = [ "tr",]
 [[cards]]
@@ -20,11 +20,14 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
+text = "Karne - Report card"
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Karne - Report card"
-type = "phrase"
+type = "empty"
 
 [[cards]]
 
@@ -47,6 +50,9 @@ type = "empty"
 [[cards.sides]]
 type = "empty"
 
+[[cards.sides]]
+type = "empty"
+
 [[cards]]
 
 [[cards.sides]]
@@ -63,11 +69,15 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
 text = "Okuldan dönmek - to come back from school\n\nAnne - mom\n\nOğlum - my son"
 type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[cards]]
 
@@ -85,11 +95,14 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
+text = "Gülmek - to laugh"
+type = "phrase"
+
+[[cards.sides]]
 type = "empty"
 
 [[cards.sides]]
-text = "Gülmek - to laugh"
-type = "phrase"
+type = "empty"
 
 [[cards]]
 
@@ -107,11 +120,15 @@ type = "picture"
 author = "sophia@wikiotics.org"
 license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
-type = "empty"
-
-[[cards.sides]]
 text = "Ödünç vermek - to lend \n\nBaba - dad\n\nKorkutmak - to scare\n"
 type = "phrase"
+
+[[cards.sides]]
+text = ""
+type = "phrase"
+
+[[cards.sides]]
+type = "empty"
 
 [[interactions]]
 type = "storybook"
