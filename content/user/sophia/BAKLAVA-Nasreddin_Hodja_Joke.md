@@ -25,7 +25,7 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-text = "Bir gün Nasrettin Hoca komşusuyla kahvede çay içerken,\nKomşu: \n__ Hoca Efendi, bak! diye işaret eder.\n__ Şu adam bir tepsi baklava taşıyor.\n\nHoca omuzlarını silkerek:\n__ Bane ne! der. \n\nKomşu:\n__ Fakat Hocam, bak! Adam tepsiyi sizin eve götürüyor! deyince\n\nHoca:\n__ O zaman, sana ne! diye cevap verir.\n"
+text = "Bir gün Nasrettin Hoca komşusuyla kahvede çay içerken,\nKomşu: \"Hoca Efendi, bak!\" diye işaret eder. \"Şu adam bir tepsi baklava taşıyor.\"\n\nHoca omuzlarını silkerek: \"Bane ne!\" der. \n\nKomşu: \"Fakat Hocam, bak! Adam tepsiyi sizin eve götürüyor!\" deyince\n\nHoca: \"O zaman, sana ne!\" diye cevap verir.\n"
 type = "phrase"
 
 [[cards.sides]]
