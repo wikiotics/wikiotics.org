@@ -44,7 +44,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Dammsugare"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:hPO-DLfIfQesl5WAiMZCW8Idx-Jc7JsDdr1o7VpBSThXGYSs5kcw11j5SUsrumA4"
