@@ -62,7 +62,8 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Toscabit"
+type = "phrase"
 
 [[cards.sides]]
 blob_href = "urn:sha384:0wlrme2PNVVWX3YmdXxrWEhh-KazFcQMQB6n_AzVYQB-W5DpqotS9MjVIva3tWFY"
