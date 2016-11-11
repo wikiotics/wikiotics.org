@@ -80,11 +80,21 @@ type = "empty"
 [[cards]]
 
 [[cards.sides]]
-type = "empty"
+text = "Juice"
+type = "phrase"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:-ZCUB7WYn4DlRXd4DxUJUjMBcS8S6IZrDma7GUDukTAPNYId9MyEsQh5h85-BQCw"
+href = "urn:sha384:heQvJnbni8h0zkSMg3gIOp9xtNv4y6LB-tATyhxboQdlwzuURgt8p-q8s31KWPt2"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "Amy Guth (Amy Guth)"
+author_url = "http://www.flickr.com/people/92025495@N00/"
+license = "https://creativecommons.org/licenses/by/2.0/"
+original_url = "http://www.flickr.com/photos/92025495@N00/6015128518"
+title = "Ginger Splash Juice @ Meli Cafe & Juice Bar"
 [[cards.sides]]
 type = "empty"
 
