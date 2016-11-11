@@ -65,8 +65,14 @@ type = "empty"
 type = "empty"
 
 [[cards.sides]]
-type = "empty"
+blob_href = "urn:sha384:0wlrme2PNVVWX3YmdXxrWEhh-KazFcQMQB6n_AzVYQB-W5DpqotS9MjVIva3tWFY"
+href = "urn:sha384:xF8PNcWxq7qEilraIS-SxZadzLUcr45_M-1pIfcd6RLwq08iW2PLX_16SOXVAjct"
+mime_type = "image/jpeg"
+type = "picture"
 
+[cards.sides.credit]
+author = "160.39.15.99"
+license = "https://creativecommons.org/licenses/by-sa/3.0/"
 [[cards.sides]]
 type = "empty"
 
