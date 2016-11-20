@@ -26,6 +26,12 @@ title = "Other projects of interest"
     language lessons developed by the US Government, and thus in the
     public domain. These are full introductory circuli for many
     languages.
+  - If you want to learn the arabic language you can use this online
+    [virtual arabic keyboard](http://www.arabickeyboard360.com) to learn
+    to type in Arabic with English/French letters.
+  - [A firefox plugin for an arabic virtual
+    keyboard](https://addons.mozilla.org/en-US/firefox/addon/arabic-keyboard-clavier-arabe/)
+    for learning to type arabic via transliteration
   - <http://translatewiki.net/> is the translation effort for MediaWiki
   - [Tatoeba](http://tatoeba.org/) "At its core, Tatoeba is a large
     database of example sentences translated into several languages. But
