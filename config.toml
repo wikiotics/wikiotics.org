@@ -1,0 +1,5 @@
+title = "Wikiotics"
+languageCode = "en-us"
+baseURL = "https://wikiotics.github.io/"
+cleanDestinationDir = true
+disableKinds = ["sitemap", "taxonomy", "RSS"]

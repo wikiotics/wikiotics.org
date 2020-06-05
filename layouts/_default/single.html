@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="main-content">
+  <h1>{{ .Title }}</h1>
+  {{ $.Params.cards | jsonify }}
+  {{- .Content -}}
+</div>
+{{ end }}

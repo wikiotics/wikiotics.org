@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css">
+    <style>
+      h2 { font-weight: normal; font-size: 2.25rem; }
+      h3 { font-weight: normal; font-size: 1.5rem; }
+    </style>
+  </head>
+  <body class="bg-washed-blue nested-copy-line-height nested-headline-line-height nested-list navy nested-links">
+    <header class="bg-lightest-blue pa4 cf">
+      <img src="/img/wikiotics.svg" alt="Wikiotics logo" class="fl w-20">
+    </header>
+    <div class="pa4">
+      {{- block "main" . }}{{ end -}}
+    </div>
+  </body>
+</html>
