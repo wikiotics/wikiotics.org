@@ -30,3 +30,7 @@ Wikiotics is becoming a static site built with [Hugo](https://gohugo.io/).  The 
    Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
    Press Ctrl+C to stop
    ```
+
+## Licenses
+
+All content (i.e., everything in the `content/` directory) is licensed under the [Creative Commons Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.  Everything else (e.g., all code) is available under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) or any later version.
