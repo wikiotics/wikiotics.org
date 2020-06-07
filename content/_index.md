@@ -1,6 +1,6 @@
 ## Wikiotics is a site for learning a foreign language.
 
-There are instruction materials here for many languages.  Below is a curated list of content, while the [complete lesson repository](http://wikiotics.org/special/list_target_languages) is hosted at wikiotics.org.
+There are instruction materials here for many languages.  Below is a curated list of content, while the [complete lesson repository](https://wikiotics.org/special/list_target_languages) is hosted at wikiotics.org.
 
 ### French
 
