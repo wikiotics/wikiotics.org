@@ -12,4 +12,4 @@ There are instruction materials here for many languages.  Below is a curated lis
 
 ## Everything is editable.
 
-These lessons are currently editable through a graphical interface at wikiotics.org, but soon they will transition to being editable on github.
+These lessons are currently editable through a graphical interface at wikiotics.org, but soon they will transition to being editable [on github](https://github.com/wikiotics/wikiotics.org).
