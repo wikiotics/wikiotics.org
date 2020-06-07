@@ -10,7 +10,7 @@ Wikiotics is becoming a static site built with [Hugo](https://gohugo.io/).  The 
 
    On Ubuntu, this is as simple as
       ```
-      snap install hugo --channel=extended
+      $ sudo snap install hugo --channel=extended
       ```
 
    Right now, the "extended" version is not necessary, but we may experiment with its features in the future.
