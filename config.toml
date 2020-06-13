@@ -3,3 +3,5 @@ languageCode = "en-us"
 baseURL = "https://wikiotics.github.io/"
 cleanDestinationDir = true
 disableKinds = ["sitemap", "taxonomy", "taxonomyTerm", "RSS"]
+disablePathToLower = true
+paginate = 10000
