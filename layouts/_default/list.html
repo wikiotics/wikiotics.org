@@ -1,7 +1,10 @@
 {{ define "main" }}
 <div class="main-content">
   <h1>{{ .Title }}</h1>
-  {{- .Content -}}
+  {{ with .Content }}
+  <div class="the-content">{{ . }}</div>
+  <hr>
+  {{ end }}
   <div>
     <ul>
       {{ range .Pages }}
