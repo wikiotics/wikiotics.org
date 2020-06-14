@@ -28,7 +28,7 @@ var jplayer_play = (function ($) {
             jplayer.jPlayer({
                 ready: _jplayer_ready,
                 supplied: filetypes.join(', '),
-                swfPath: ductus_media_prefix + "common/js/jQuery.jPlayer.2.1.0"
+                swfPath: "/ductus/common/js/jQuery.jPlayer.2.1.0"
             });
             _jplayer_instance[mime_type] = jplayer;
         }
