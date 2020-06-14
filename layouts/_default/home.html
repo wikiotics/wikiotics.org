@@ -2,5 +2,13 @@
 <div class="main-content">
   <h1>{{ .Title }}</h1>
   {{- .Content -}}
+  <div>
+    <h2>Navigation</h2>
+    <ul>
+      {{ range .Paginator.Pages }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
 </div>
 {{ end }}
