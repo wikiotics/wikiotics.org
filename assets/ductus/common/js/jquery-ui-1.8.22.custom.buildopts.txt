@@ -1,0 +1,10 @@
+http://jqueryui.com/download
+UI Core
+Draggable
+Droppable
+Selectable
+Sortable
+Button
+Dialog
+Effects Core
+Effect "Transfer"

@@ -1,0 +1,332 @@
+html {
+    /* normalize.css sets this to "scroll" for some reason, but I hate
+     * seeing the scrollbar when it is unnecessary
+     */
+    overflow-y: auto;
+}
+
+body {
+    font-family: "Liberation Sans",Arial,Helvetica,sans-serif;
+    color: #333;
+}
+
+/* base grid */
+.ductus_wrap1 {
+    width: 100%;
+}
+.ductus_wrap2 {
+    width: 96%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+body.ductus_wide .ductus_wrap2 {
+    max-width: none;
+}
+@media screen and (max-width: 768px) {
+    .ductus_wrap2 {
+        width: 99%;
+    }
+}
+.ductus_wrap3_main, .ductus_wrap3_side, .ductus_wrap3_all {
+    float: left;
+    width: 100%;
+}
+@media screen and (min-width: 768px) {
+    /* standard sidebar layout */
+    .ductus_wrap3_main {
+        width: 71%;
+    }
+    .ductus_wrap3_side {
+        float: right;
+        width: 29%;
+    }
+    .ductus_wrap3_main .ductus_wrap4 {
+        /* .04 / .71 */
+        padding: 0 5.6338028169014086%;
+    }
+    .ductus_wrap3_side .ductus_wrap4 {
+        /* .04 / .29 */
+        padding: 0 13.793103448275865%;
+    }
+
+    /* "thirds" layout */
+    .ductus_thirds .ductus_wrap3_main {
+        width: 66.6666%;
+    }
+    .ductus_thirds .ductus_wrap3_side {
+        float: right;
+        width: 33.3333%;
+    }
+    .ductus_thirds .ductus_wrap3_main .ductus_wrap4 {
+        /* .04 / .666666 */
+        padding: 0 6.000006000006%;
+    }
+    .ductus_thirds .ductus_wrap3_side .ductus_wrap4 {
+        /* .04 / .333333 */
+        padding: 0 12.000012000012%;
+    }
+}
+.ductus_wrap4 {
+    padding: 0 4%;
+    margin: 2em 0;
+}
+
+/* end of main grid styling */
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    color: #000;
+    margin: .75em 0;
+}
+h1 {
+    font-size: 200%;
+}
+h2 {
+    font-size: 150%;
+}
+h3 {
+    font-size: 125%;
+}
+h4 {
+    font-size: 112%;
+}
+h5 {
+    font-size: 90%;
+}
+h6 {
+    font-size: 75%;
+}
+
+#ductus_header hr, #ductus_footer hr {
+    display: none;
+}
+
+#ductus_header ul {
+    margin: 0;
+}
+#ductus_header {
+    border-bottom: 1px solid #f5f5f5;
+}
+#ductus_header .ductus_wrap4 {
+    margin: 0;
+}
+#ductus_header h1 {
+    display: inline;
+    font-size: 1em;
+}
+#ductus_header ul {
+    list-style: none;
+}
+#ductus_header ul li {
+    display: inline;
+    float: right;
+    margin-left: 1em;
+    color: #002bb8;
+}
+#ductus_header a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #002bb8;
+}
+#ductus_header a:hover {
+    text-decoration: underline;
+}
+
+#ductus_footer {
+    border-top: 1px solid #ddd;
+}
+#ductus_footer p {
+    text-align: center;
+}
+.copyright_info {
+    font-size: 70%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#ductus_document_header ul {
+    list-style: none;
+    padding: 1em 0;
+}
+#ductus_document_header ul li {
+    display: inline;
+    white-space: nowrap;
+}
+#ductus_document_header ul li.selected {
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+}
+#ductus_document_header ul li a {
+    font-size: 80%;
+    margin: 0 .2em;
+    text-decoration: none;
+    color: #00a;
+}
+#ductus_document_header ul li a:hover {
+    text-decoration: underline;
+}
+#ductus_document_header ul li.selected a {
+    color: #000;
+}
+
+#ductus_ajax_status {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    background: #ee9;
+    padding: .2em;
+    border-left: 1px solid #999;
+    border-right: 1px solid #999;
+    border-bottom: 1px solid #999;
+}
+.ductus_save_notice {
+    color: #a00;
+}
+.ductus_PhraseWidget {
+    position: relative;
+}
+/* setup the autoexpanding textarea for PhraseWidgets */
+textarea, pre {
+    border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+}
+.ductus_PhraseWidget > textarea,
+.ductus_PhraseWidget > pre {
+    font: 400 13px/16px helvetica, arial, sans-serif;
+    padding: 5px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+.ductus_PhraseWidget > textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+}
+.ductus_PhraseWidget.active > textarea {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    resize: none;
+}
+.ductus_PhraseWidget > pre {
+    display: none;
+}
+.ductus_PhraseWidget.active > pre {
+    display: block;
+    visibility: hidden;
+}
+/* end of PhraseWidget textareas */
+.pic_search_pager a {
+    cursor: pointer;
+}
+/*!
+ * loading.svg icon from https://raw.github.com/firebug/firebug/master/extension/skin/classic/loading.svg
+Software License Agreement (BSD License)
+
+Copyright (c) 2007, Parakey Inc.
+All rights reserved.
+
+Redistribution and use of this software in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above
+  copyright notice, this list of conditions and the
+  following disclaimer.
+
+* Redistributions in binary form must reproduce the above
+  copyright notice, this list of conditions and the
+  following disclaimer in the documentation and/or other
+  materials provided with the distribution.
+
+* Neither the name of Parakey Inc. nor the names of its
+  contributors may be used to endorse or promote products
+  derived from this software without specific prior
+  written permission of Parakey Inc.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ */
+.ductus_spinner .ui-icon {
+    background: url(/ductus/common/img/loading.svg) center center no-repeat;
+}
+hr {
+    border: 0;
+    height: 1px;
+    color: #aaa;
+    background-color: #aaa;
+}
+
+a {
+    color: #002bb8;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: #5a36af;
+}
+a.broken {
+    color: #c20;
+}
+
+.quiet {
+    font-size: 66%;
+    color: #444;
+}
+
+ul.radio_ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.license_info {
+    border-bottom: 1px solid #ddd;
+    margin: 1.5em 0;
+}
+
+.ductus_tags_display {
+    margin-top: 1em;
+}
+.ductus_tags_display ul {
+    display: inline;
+}
+.ductus_tags_display li {
+    display: inline;
+    margin-right: 1em;
+}
+
+/* for jquery */
+.ui-effects-transfer {
+    border: 2px solid black;
+}
+
+/* mobile devices */
+@media screen and (max-width: 420px) {
+
+    body {
+	font-size: 12px;
+    }
+
+}
+
+/* tablet computers */
+@media screen and (min-width: 421px) and (max-width: 768px) {
+
+    body {
+	font-size: 14px;
+    }
+
+}

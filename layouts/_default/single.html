@@ -1,7 +1,36 @@
+{{ define "head" }}
+{{- /* https://developers.google.com/speed/docs/best-practices/rtt#PutStylesBeforeScripts */ -}}
+{{- $css := slice (resources.Get "ductus/common/css/base.css") (resources.Get "ductus/flashcards/css/choice.css") (resources.Get "ductus/flashcards/css/storybook.css") | resources.Concat "css/bundle.css" | minify -}}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{- /* We include the following one separately so that relative paths to the UI images resolve. */ -}}
+<link rel="stylesheet" href="{{ (resources.Get "ductus/common/css/smoothness/jquery-ui-1.8.22.custom.css").RelPermalink }}">
+{{- $js := slice (resources.Get "ductus/common/js/jquery-1.8.2.js") (resources.Get "ductus/common/js/jquery-ui-1.8.22.custom.js") (resources.Get "ductus/common/js/json2.js") (resources.Get "ductus/common/js/base.js") (resources.Get "ductus/flashcards/js/choice.js") (resources.Get "ductus/flashcards/js/storybook.js") (resources.Get "ductus/common/js/jQuery.jPlayer.2.1.0/jquery.jplayer.js") (resources.Get "ductus/common/js/audio_player.js") | resources.Concat "js/bundle.js" -}}
+<script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
+<script>
+  function gettext(s) { return s; }
+  var ductus_media_prefix = 'https://wikiotics.org/static/';
+  var ductus_mediacache_prefix = 'https://wikiotics.org/mediacache/';
+  var ductus_mime_to_ext = {"audio/webm": "webma", "audio/mp4": "m4a", "image/jpeg": "jpg", "audio/ogg": "oga"};
+  var data = {{ .Params | jsonify | safeJS }};
+  var resource_json = {'resource': data};
+  var available_audio_formats = {"audio/mp4": ["audio/ogg"], "audio/ogg": ["audio/mp4"]}; /* from ductus.modules.audio.views */
+  // lesson specific
+  if (data.fqn == '{http://wikiotics.org/ns/2011/flashcards}flashcard_deck') {
+      var interactions = data.interactions.array;
+      var interaction = interactions[0].resource;
+      if (interaction.fqn == '{http://wikiotics.org/ns/2011/flashcards}choice_interaction') {
+          var prompt_columns = interaction.prompt.split(',').map(Number);
+          var answer_column = Number(interaction.answer);
+          $(initialize_choice);
+      } else if (interaction.fqn == '{http://wikiotics.org/ns/2011/flashcards}story_book_interaction') {
+          $(initialize_storybook);
+      }
+  }
+</script>
+{{ end }}
 {{ define "main" }}
 <div class="main-content">
   <h1>{{ .Title }}</h1>
-  {{ $.Params.cards | jsonify }}
-  {{- .Content -}}
+  <div class="the-content">{{- .Content -}}</div>
 </div>
 {{ end }}

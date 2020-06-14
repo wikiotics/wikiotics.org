@@ -33,4 +33,4 @@ Wikiotics is becoming a static site built with [Hugo](https://gohugo.io/).  The 
 
 ## Licenses
 
-All content (i.e., everything in the `content/` directory, recursively) is licensed under the [Creative Commons Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.  Everything else (e.g., all code) is available under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) or any later version.
+All content (i.e., everything in the `content/` directory, recursively) is licensed under the [Creative Commons Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.  Some of the lesson media (referenced but not included in this repository) is available under a different (but free) Creative Commons license.  Everything else (e.g., all code) is available under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) or any later version.  Some of the libraries in `{assets,static}/ductus/` are available under more permissive licenses.
