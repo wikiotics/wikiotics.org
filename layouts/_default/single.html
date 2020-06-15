@@ -30,6 +30,6 @@
 {{ define "main" }}
 <div class="main-content">
   <h1>{{ .Title }}</h1>
-  <div class="the-content">{{- .Content -}}</div>
+  <div class="the-content"{{ with .Params.languageCode }} lang="{{ . }}"{{ end }}>{{- .Content -}}</div>
 </div>
 {{ end }}
