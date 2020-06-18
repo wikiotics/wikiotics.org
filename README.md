@@ -31,6 +31,20 @@ Wikiotics is becoming a static site built with [Hugo](https://gohugo.io/).  The 
    Press Ctrl+C to stop
    ```
 
+## Background
+
+The Wikiotics project was founded in 2008 with the goal of creating a freely-licensed wiki where people could collaborate on materials for language learners.  As part of this, we built a wiki engine called [Ductus](https://github.com/wikiotics/ductus), which provided a framework for building interactive wiki pages from structured content, editable from the web browser.  In 2011, Wikiotics joined forces with the WikiBabel project, a project with a similar vision and whose developer went on to contribute signficantly to Wikiotics.  A few years later, we lost interest in maintaining Ductus and became occupied with other activities.
+
+## Status
+
+Wikiotics is being transitioned to a static site.  The work is happening on the `migration` branch (pull request #[4](https://github.com/wikiotics/wikiotics.org/pull/4); preview at https://wikiotics-pr-4.onrender.com/).  Once we are happy with the migration, this pull request will be merged and we will switch the main https://wikiotics.org/ site to the new, static one.
+
+The content of the site is a bit of a mess, as might be expected from a repository that was editable by anyone in the world, without moderation.  On top of that, the only real way to see a working draft of a lesson was to save it to the wiki.  After #[4](https://github.com/wikiotics/wikiotics.org/pull/4) is merged, a massive cleanup will be necessary if the project is to continue.  Otherwise, this repository will serve as a working archive of the community's work.
+
+## Claiming contributions
+
+During its time in existence, wikiotics.org received contributions from 62 logged-in users, as well as anonymous users identified only by their ip address.  There were a total of 4064 such contributions, each of which has a corresponding commit on the `migration` branch.  Anyone who contributed and has an account on GitHub can claim these contributions and be listed on the [contributions page](https://github.com/wikiotics/wikiotics.org/graphs/contributors) by submitting a pull request that adds [an appropriate entry](https://git-scm.com/docs/git-check-mailmap#_mapping_authors) to the `.mailmap` file in this repository which maps `username@wikiotics.org` to an email address associated with the person's GitHub account.
+
 ## Licenses
 
-All content (i.e., everything in the `content/` directory, recursively) is licensed under the [Creative Commons Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.  Some of the lesson media (referenced but not included in this repository) is available under a different (but free) Creative Commons license.  Everything else (e.g., all code) is available under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) or any later version.  Some of the libraries in `{assets,static}/ductus/` are available under more permissive licenses.
+All content (i.e., everything in the `content/` directory, recursively) is licensed under the [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.  Some of the lesson media (referenced but not included in this repository) is available under a different (but free) Creative Commons license.  Everything else (e.g., all code) is available under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) or any later version.  Some of the libraries in `{assets,static}/ductus/` are available under more permissive licenses.
