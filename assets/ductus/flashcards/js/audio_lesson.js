@@ -3,6 +3,11 @@ function initialize_audio_lesson() {
     // https://github.com/wikiotics/ductus/blob/master/ductus/modules/flashcards/templates/flashcards/audio_lesson.html
     //main_div.append('<div class="ductus_podcast_links"><a class="download" title="Download the podcast in MP4/AAC format, compatible with most software, portable music players and mobile phones.">Download the podcast</a><a class="listen" title="Listen to the podcast online. If you use an old browser, it will offer to download the file in webm format instead.">Listen online</a></div>');
     main_div.append('<h3>Full transcript of the lesson:</h3>');
+    initialize_grid();
+}
+
+function initialize_grid() {
+    var main_div = $('.the-content');
 
     // https://github.com/wikiotics/ductus/blob/master/ductus/modules/flashcards/templates/flashcards/flashcard_deck_as_html.html
     var table = $('<table class="ductus_flashcard_deck_as_html"></table>').appendTo(main_div);
