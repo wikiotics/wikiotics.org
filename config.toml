@@ -5,3 +5,7 @@ cleanDestinationDir = true
 disableKinds = ["sitemap", "taxonomy", "taxonomyTerm", "RSS"]
 disablePathToLower = true
 paginate = 10000
+
+# Because pandoc sometimes returns HTML tables rather than markdown ones
+[markup.goldmark.renderer]
+unsafe = true
