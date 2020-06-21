@@ -1,0 +1,30 @@
+{
+    "short_name": "Wikiotics",
+    "name": "Wikiotics Language Lessons",
+    "description": "Freely licensed, user-contributed lessons for the language acquisition community",
+    "icons": [
+        {
+            "src": "/favicon/favicon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/favicon/favicon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/favicon/favicon-maskable.png",
+            "type": "image/png",
+            "sizes": "196x196",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": "/#navigation",
+    "background_color": "#f6fffe",
+    "display": "browser",
+    "scope": "../",
+    "theme_color": "#cdecff",
+    "shortcuts": [
+    ]
+}
