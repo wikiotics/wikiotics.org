@@ -6,7 +6,7 @@
     <h2>Navigation</h2>
     <ul>
       {{ range .Pages }}
-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a>{{ if .IsNode }} ({{ len .Pages }} pages){{ end }}</li>
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a>{{ if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
       {{ end }}
     </ul>
   </div>
