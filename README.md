@@ -39,7 +39,9 @@ The Wikiotics project was founded in 2008 with the goal of creating a freely lic
 
 ## Status
 
-Wikiotics is being transitioned to a static site.  The work is happening on the `migration` branch (pull request #[4](https://github.com/wikiotics/wikiotics.org/pull/4); preview at https://wikiotics.org/).  Once we are happy with the automated scrape of the old site's content, this pull request will be merged.
+Wikiotics is being transitioned to a static site.  The work is happening on the `migration` branch (pull request #[4](https://github.com/wikiotics/wikiotics.org/pull/4)).  Once we are happy with the automated scrape of the old site's content, this pull request will be merged.
+
+Improvements to the functionity of the site are welcome and can be submitted as pull requests against the `master` branch.  Improvements to site content should wait for now, until we finalize the migration from Ductus by merging the `migration` branch (pull request #[4](https://github.com/wikiotics/wikiotics.org/pull/4).
 
 The content of the site is a bit of a mess, as might be expected from a repository that was editable by anyone in the world, without moderation.  On top of that, the only real way to see a working draft of a lesson was to save it to the wiki.  After #[4](https://github.com/wikiotics/wikiotics.org/pull/4) is merged, a massive cleanup will be necessary if the project is to continue.  Otherwise, this repository will serve as a working archive of the community's work.
 
