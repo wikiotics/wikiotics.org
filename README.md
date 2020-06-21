@@ -31,13 +31,15 @@ Wikiotics is becoming a static site built with [Hugo](https://gohugo.io/).  The 
    Press Ctrl+C to stop
    ```
 
+The content is in the `content/` directory.  Upon saving any content file, the web browser should refresh automatically with the updated content.
+
 ## Background
 
 The Wikiotics project was founded in 2008 with the goal of creating a freely-licensed wiki where people could collaborate on materials for language learners.  As part of this, we built a wiki engine called [Ductus](https://github.com/wikiotics/ductus), which provided a framework for building interactive wiki pages from structured content, editable from the web browser.  In 2011, Wikiotics joined forces with the WikiBabel project, a project with a similar vision and whose developer went on to contribute signficantly to Wikiotics.  A few years later, we lost interest in maintaining Ductus and became occupied with other activities.
 
 ## Status
 
-Wikiotics is being transitioned to a static site.  The work is happening on the `migration` branch (pull request #[4](https://github.com/wikiotics/wikiotics.org/pull/4); preview at https://wikiotics-pr-4.onrender.com/).  Once we are happy with the migration, this pull request will be merged and we will switch the main https://wikiotics.org/ site to the new, static one.
+Wikiotics is being transitioned to a static site.  The work is happening on the `migration` branch (pull request #[4](https://github.com/wikiotics/wikiotics.org/pull/4); preview at https://future.wikiotics.org/).  Once we are happy with the migration, this pull request will be merged and we will switch the main https://wikiotics.org/ site to the new, static one.
 
 The content of the site is a bit of a mess, as might be expected from a repository that was editable by anyone in the world, without moderation.  On top of that, the only real way to see a working draft of a lesson was to save it to the wiki.  After #[4](https://github.com/wikiotics/wikiotics.org/pull/4) is merged, a massive cleanup will be necessary if the project is to continue.  Otherwise, this repository will serve as a working archive of the community's work.
 
