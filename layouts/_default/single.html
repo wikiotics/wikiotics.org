@@ -5,6 +5,9 @@
 {{- /* We include the following one separately so that relative paths to the UI images resolve. */ -}}
 <link rel="stylesheet" href="{{ (resources.Get "ductus/common/css/smoothness/jquery-ui-1.8.22.custom.css").RelPermalink }}">
 {{- $js := slice (resources.Get "ductus/common/js/jquery-1.8.2.js") (resources.Get "ductus/common/js/jquery-ui-1.8.22.custom.js") (resources.Get "ductus/common/js/base.js") (resources.Get "ductus/flashcards/js/choice.js") (resources.Get "ductus/flashcards/js/storybook.js") (resources.Get "ductus/flashcards/js/audio_lesson.js") (resources.Get "ductus/common/js/jQuery.jPlayer.2.1.0/jquery.jplayer.js") (resources.Get "ductus/common/js/audio_player.js") (resources.Get "ductus/common/js/main.js") | resources.Concat "js/bundle.js" -}}
+<script>
+  var data = {{ .Params | jsonify | safeJS }};
+</script>
 <script type="text/javascript" src="{{ $js.RelPermalink }}"></script>
 {{ end }}
 {{ define "main" }}

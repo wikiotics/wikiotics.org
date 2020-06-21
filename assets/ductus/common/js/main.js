@@ -1,7 +1,6 @@
 function gettext(s) { return s; }
 var ductus_mediacache_prefix = 'https://old.wikiotics.org/mediacache/';
 var ductus_mime_to_ext = {"audio/webm": "webma", "audio/mp4": "m4a", "image/jpeg": "jpg", "audio/ogg": "oga"};
-var data = {{ .Params | jsonify | safeJS }};
 var resource_json = {'resource': data};
 var available_audio_formats = {"audio/mp4": ["audio/ogg"], "audio/ogg": ["audio/mp4"]}; /* from ductus.modules.audio.views */
 // lesson specific
