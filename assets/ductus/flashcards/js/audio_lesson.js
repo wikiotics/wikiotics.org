@@ -35,6 +35,11 @@ function initialize_grid() {
 		audio.data('mime', side.resource.blob.mime_type);
 		audio.data('res', side.href);
 		audio.data('blob', side.resource.blob.href);
+	    } else if (side.resource.fqn == '{http://wikiotics.org/ns/2009/picture}picture') {
+		//resource_displayer[side.resource.fqn](side).appendTo(td);
+		var rotstr = side.resource.rotation ? "_" + side.resource.rotation : "";
+		var src = resolve_mediacache_url(side, 'image/jpeg', "100_100" + rotstr);
+		return $('<div class="picture"></div>').append($('<img alt=""/>').attr('src', src)).appendTo(td);
 	    } else {
 		td.text(side.resource.fqn);
 	    }
