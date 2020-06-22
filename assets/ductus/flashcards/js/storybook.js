@@ -9,15 +9,15 @@ function initialize_storybook() {
          * prepare page number index (0-based)
          * or return null if it's beyond the deck
          */
-        if (index <= -1 || index >= resource_json.resource.cards.array.length) {
+        if (index <= -1 || index >= resource_json.resource.cards.length) {
             return null;
         }
 
         var prepared_page = $('<div class="ductus_storybook"></div>');
-        var cards_array = resource_json.resource.cards.array;
-        prepared_page.append($('<span></span>').append(display_resource(cards_array[index].resource.sides.array[1])));
-        prepared_page.append(display_resource(cards_array[index].resource.sides.array[2]));
-        prepared_page.append(display_resource(cards_array[index].resource.sides.array[0]));
+        var cards_array = resource_json.resource.cards;
+        prepared_page.append($('<span></span>').append(display_resource(cards_array[index].resource.sides[1])));
+        prepared_page.append(display_resource(cards_array[index].resource.sides[2]));
+        prepared_page.append(display_resource(cards_array[index].resource.sides[0]));
         prepared_page.find('span.audio').button({icons: { primary: 'ui-icon-play' }}).click(function () {
             jplayer_play($(this).data('resource'));
         });
@@ -88,7 +88,7 @@ function initialize_storybook() {
     var pager = $('#storybook_pager');
     pager.append($('<div id="prev"></div>').text('<').button().click(previous_page));
     pager.append($('<div id="next"></div>').text('>').button().click(next_page));
-    $("#number_of_frames").text('' + resource_json.resource.cards.array.length);
+    $("#number_of_frames").text('' + resource_json.resource.cards.length);
 
     next = prepare_page(0);
     next_page();

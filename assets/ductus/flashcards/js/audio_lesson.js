@@ -13,15 +13,15 @@ function initialize_grid() {
     var table = $('<table class="ductus_flashcard_deck_as_html"></table>').appendTo(main_div);
     var tr = $('<tr></tr>').appendTo(table);
     tr.append('<th></th>'); // empty column for row number
-    resource_json.resource.headings.array.forEach(function (heading) {
+    resource_json.resource.headings.forEach(function (heading) {
 	$('<th></th>').text(heading.text).appendTo(tr);
     });
-    var arr = resource_json.resource.cards.array;
+    var arr = resource_json.resource.cards;
     for (var i = 0; i < arr.length; ++i) {
 	var card = arr[i];
 	var tr = $('<tr></tr>').appendTo(table);
 	$('<td class="row_header"></td>').text(i + 1).appendTo(tr);
-	card.resource.sides.array.forEach(function (side) {
+	card.resource.sides.forEach(function (side) {
 	    var td = $('<td></td>').appendTo(tr);
 	    if (!side.resource) {
 		//td.text(JSON.stringify(side));
@@ -51,8 +51,8 @@ function initialize_grid() {
     if (resource_json.resource.tags) {
 	tags_div.text('Tags: ');
 	var tags = $('<ul></ul>').appendTo(tags_div);
-	resource_json.resource.tags.array.forEach(function (tag) {
-	    $('<li></li>').text(tag.value).appendTo(tags)
+	resource_json.resource.tags.forEach(function (tag) {
+	    $('<li></li>').text(tag).appendTo(tags)
 	});
     }
 

@@ -73,17 +73,17 @@ function initialize_choice() {
     // the backend sends dividers as a comma-separated string, turn it into an array first
     dividers = dividers ? dividers.split(',') : [];
     dividers.unshift(0);
-    dividers.push(resource_json.resource.cards.array.length);
+    dividers.push(resource_json.resource.cards.length);
     for (i = dividers.length - 1; i; i--) {
         dividers[i] = parseInt(dividers[i]);
     }
     // ignore cards that have no answer, and update divider indices accordingly
     // this MUST run first, since everything else relies on coherent cards and dividers
-    var original_length = resource_json.resource.cards.array.length;
+    var original_length = resource_json.resource.cards.length;
     for (i = original_length; --i > -1; ) {
-        var card = resource_json.resource.cards.array[i];
-        if (card.resource.sides.array[answer_column].resource == null) {
-            resource_json.resource.cards.array.splice(i, 1);
+        var card = resource_json.resource.cards[i];
+        if (card.resource.sides[answer_column].resource == null) {
+            resource_json.resource.cards.splice(i, 1);
             // shift dividers accordingly
             // TODO: tell the user to remove empty rows from the lesson in the editor
             // this is a waste of time, but prevents buggy situations where the choice lesson
@@ -99,7 +99,7 @@ function initialize_choice() {
     // that returns -1 after the final frame.
     var lesson_iterator = (function () {
         var index = 0;
-        var length = resource_json.resource.cards.array.length;
+        var length = resource_json.resource.cards.length;
 
         // each frame will be shown once, and we will display each group
         // in order, but the frames within each group will be shuffled.
@@ -141,9 +141,9 @@ function initialize_choice() {
         shuffle(display_indices);
 
         prepared_frame = $('<div class="ductus_choice"></div>');
-        var cards_array = resource_json.resource.cards.array;
+        var cards_array = resource_json.resource.cards;
         // prompt
-        var prompt_sides_array = cards_array[index].resource.sides.array;
+        var prompt_sides_array = cards_array[index].resource.sides;
         for (var k = 0; k < prompt_columns.length; ++k) {
             var header_number = Math.min(k + 2, 6);
             var header_element = $('<h' + header_number +' class="prompt" lang=""></h' + header_number + '>').appendTo(prepared_frame);
@@ -157,7 +157,7 @@ function initialize_choice() {
                 var td = $('<td></td>').appendTo(tr);
                 var display_index = display_indices[i * 2 + j];
                 if (display_index !== undefined) {
-                    var res = cards_array[display_index].resource.sides.array[answer_column];
+                    var res = cards_array[display_index].resource.sides[answer_column];
                     var div = $('<div></div>').append(display_resource(res));
                     td.addClass("choice_item clickable").append(div);
                     td.addClass(display_index == index ? "correct": "incorrect");

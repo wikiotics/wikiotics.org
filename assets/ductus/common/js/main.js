@@ -8,7 +8,7 @@ if (data.fqn == '{http://wikiotics.org/ns/2011/flashcards}flashcard_deck') {
     if (!data.interactions) {
         $(initialize_grid);
     } else {
-        var interaction = data.interactions.array[0].resource;
+        var interaction = data.interactions[0].resource;
         if (interaction.fqn == '{http://wikiotics.org/ns/2011/flashcards}choice_interaction') {
             var prompt_columns = interaction.prompt.split(',').map(Number);
             var answer_column = Number(interaction.answer);
