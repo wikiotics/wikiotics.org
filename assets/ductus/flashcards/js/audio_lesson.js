@@ -48,11 +48,13 @@ function initialize_grid() {
 
     // https://github.com/wikiotics/ductus/blob/master/ductus/wiki/templates/wiki/tags_display.html
     var tags_div = $('<div class="ductus_tags_display"></div>').appendTo(main_div);
-    tags_div.text('Tags: ');
-    var tags = $('<ul></ul>').appendTo(tags_div);
-    resource_json.resource.tags.array.forEach(function (tag) {
-	$('<li></li>').text(tag.value).appendTo(tags)
-    });
+    if (resource_json.resource.tags) {
+	tags_div.text('Tags: ');
+	var tags = $('<ul></ul>').appendTo(tags_div);
+	resource_json.resource.tags.array.forEach(function (tag) {
+	    $('<li></li>').text(tag.value).appendTo(tags)
+	});
+    }
 
     // https://github.com/wikiotics/ductus/blob/master/ductus/modules/flashcards/templates/flashcards/audio_lesson.html
     function play(elt) {
