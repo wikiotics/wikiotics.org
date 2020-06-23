@@ -4,8 +4,8 @@ baseURL = "/"
 cleanDestinationDir = true
 disableKinds = ["sitemap", "taxonomy", "taxonomyTerm", "RSS"]
 disablePathToLower = true
-paginate = 10000
 
-# Because pandoc sometimes returns HTML tables rather than markdown ones
+# While migrating from the old Ductus site, pandoc sometimes returned
+# HTML tables rather than markdown ones, so we enable HTML in Markdown
 [markup.goldmark.renderer]
 unsafe = true
