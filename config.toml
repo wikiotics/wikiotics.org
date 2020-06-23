@@ -2,8 +2,12 @@ title = "Wikiotics"
 languageCode = "en-us"
 baseURL = "/"
 cleanDestinationDir = true
-disableKinds = ["sitemap", "taxonomy", "taxonomyTerm", "RSS"]
+disableKinds = ["sitemap", "RSS"]
 disablePathToLower = true
+
+[taxonomies]
+#category = "categories"
+tag = "tags"
 
 # While migrating from the old Ductus site, pandoc sometimes returned
 # HTML tables rather than markdown ones, so we enable HTML in Markdown
