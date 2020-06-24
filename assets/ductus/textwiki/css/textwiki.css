@@ -1,0 +1,8 @@
+.ductus_textwiki_content td,
+.ductus_textwiki_content th {
+    padding: .25rem;
+}
+.ductus_textwiki_content thead tr,
+.ductus_textwiki_content tr:nth-child(even) {
+    background: hsla(0,0%,90%,1);
+}

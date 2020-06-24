@@ -1,6 +1,6 @@
 {{ define "head" }}
 {{- /* https://developers.google.com/speed/docs/best-practices/rtt#PutStylesBeforeScripts */ -}}
-{{- $css := slice (resources.Get "ductus/common/css/base.css") (resources.Get "ductus/flashcards/css/choice.css") (resources.Get "ductus/flashcards/css/storybook.css") (resources.Get "ductus/flashcards/css/static_view.css") | resources.Concat "css/bundle.css" | minify -}}
+{{- $css := slice (resources.Get "ductus/common/css/base.css") (resources.Get "ductus/flashcards/css/choice.css") (resources.Get "ductus/flashcards/css/storybook.css") (resources.Get "ductus/flashcards/css/static_view.css") (resources.Get "ductus/textwiki/css/textwiki.css") | resources.Concat "css/bundle.css" | minify -}}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{- /* We include the following one separately so that relative paths to the UI images resolve. */ -}}
 <link rel="stylesheet" href="{{ (resources.Get "ductus/common/css/smoothness/jquery-ui-1.8.22.custom.css").RelPermalink }}">
@@ -13,6 +13,12 @@
 {{ define "main" }}
 <div class="main-content">
   <h1>{{ .Title }}</h1>
-  <div class="the-content"{{ with .Params.languageCode }} lang="{{ . }}"{{ end }}>{{- .Content -}}</div>
+  <div class="the-content"{{ with .Params.languageCode }} lang="{{ . }}"{{ end }}>
+    {{ with .Content -}}
+    <article class="ductus_textwiki_content">
+      {{ . }}
+    </article>
+    {{- end }}
+  </div>
 </div>
 {{ end }}
