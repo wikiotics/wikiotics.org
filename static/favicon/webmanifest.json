@@ -17,7 +17,7 @@
             "src": "/favicon/favicon-maskable.png",
             "type": "image/png",
             "sizes": "196x196",
-            "purpose": "any maskable"
+            "purpose": "maskable"
         }
     ],
     "start_url": "/#navigation",
