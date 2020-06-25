@@ -43,15 +43,15 @@ function max_lte(n, array) {
 }
 
 var resource_displayer = {
-    '{http://wikiotics.org/ns/2009/picture}picture': function (resource) {
-        var rotstr = resource.resource.rotation ? "_" + resource.resource.rotation : "";
+    'picture': function (resource) {
+        var rotstr = resource.rotation ? "_" + resource.rotation : "";
         var src = resolve_mediacache_url(resource, 'image/jpeg', "250_250" + rotstr);
         return $('<div class="picture"></div>').append($('<img alt=""/>').attr('src', src));
     },
-    '{http://wikiotics.org/ns/2011/phrase}phrase': function (resource) {
-        return $('<span class="phrase"></span>').text(resource.resource.phrase.text);
+    'phrase': function (resource) {
+        return $('<span class="phrase"></span>').text(resource.text);
     },
-    '{http://wikiotics.org/ns/2010/audio}audio': function (resource) {
+    'audio': function (resource) {
         var rv = $('<span class="audio play-button"></span>').text(gettext("play audio"));
         rv.data('resource', resource);
         return rv;
@@ -59,7 +59,10 @@ var resource_displayer = {
 };
 
 function display_resource (resource) {
-    return resource.resource ? resource_displayer[resource.resource.fqn](resource) : $('<div></div>');
+    if (!resource || resource.type == 'empty') {
+	return $('<div></div>');
+    }
+    return resource_displayer[resource.type](resource);
 }
 
 function initialize_choice() {
@@ -69,9 +72,7 @@ function initialize_choice() {
     var i;
 
     // dividers exist immediately before each index provided here
-    var dividers = resource_json.resource.dividers || '';
-    // the backend sends dividers as a comma-separated string, turn it into an array first
-    dividers = dividers ? dividers.split(',') : [];
+    var dividers = resource_json.resource.dividers || [];
     dividers.unshift(0);
     dividers.push(resource_json.resource.cards.length);
     for (i = dividers.length - 1; i; i--) {
@@ -82,7 +83,7 @@ function initialize_choice() {
     var original_length = resource_json.resource.cards.length;
     for (i = original_length; --i > -1; ) {
         var card = resource_json.resource.cards[i];
-        if (card.resource.sides[answer_column].resource == null) {
+        if (!card.sides[answer_column] || card.sides[answer_column].type == 'empty') {
             resource_json.resource.cards.splice(i, 1);
             // shift dividers accordingly
             // TODO: tell the user to remove empty rows from the lesson in the editor
@@ -143,7 +144,7 @@ function initialize_choice() {
         prepared_frame = $('<div class="ductus_choice"></div>');
         var cards_array = resource_json.resource.cards;
         // prompt
-        var prompt_sides_array = cards_array[index].resource.sides;
+        var prompt_sides_array = cards_array[index].sides;
         for (var k = 0; k < prompt_columns.length; ++k) {
             var header_number = Math.min(k + 2, 6);
             var header_element = $('<h' + header_number +' class="prompt" lang=""></h' + header_number + '>').appendTo(prepared_frame);
@@ -157,7 +158,7 @@ function initialize_choice() {
                 var td = $('<td></td>').appendTo(tr);
                 var display_index = display_indices[i * 2 + j];
                 if (display_index !== undefined) {
-                    var res = cards_array[display_index].resource.sides[answer_column];
+                    var res = cards_array[display_index].sides[answer_column];
                     var div = $('<div></div>').append(display_resource(res));
                     td.addClass("choice_item clickable").append(div);
                     td.addClass(display_index == index ? "correct": "incorrect");
