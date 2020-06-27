@@ -5,3 +5,5 @@ Wikiotics hosts freely licensed, user-contributed lessons for the language acqui
 ## Everything is editable.
 
 These lessons are currently editable through a graphical interface at https://old.wikiotics.org, but soon they will transition to being editable [on github](https://github.com/wikiotics/wikiotics.org).
+
+## Navigation
