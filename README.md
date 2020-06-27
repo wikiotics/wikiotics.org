@@ -52,3 +52,13 @@ During its time in existence, wikiotics.org received contributions from 62 logge
 ## Licenses
 
 All content (i.e., everything in the `content/` directory, recursively) is licensed under the [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.  Some of the lesson media (referenced but not included in this repository) is available under a different (but free) Creative Commons license.  Everything else (e.g., all code) is available under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) or any later version.  Some of the libraries in `{assets,static}/ductus/` are available under more permissive licenses.
+
+## Technology
+
+After years of having a rather complicated technology stack, we now like to keep things simple.  This helps to maximize the [bus factor](https://en.wikipedia.org/wiki/Bus_factor) and minimize time spent maintaining the site.  There should be no or few moving parts, and ideally no server to maintain.
+
+We use these pieces of technology to help us meet our goals:
+
+- [Hugo](https://gohugo.io/) static site generator.  It is known for allowing the creator to get quick visual feedback while building content.  It moves relatively slowly, and is in an ecosystem that [moves especially slowly](https://golang.org/doc/go1compat).  Every page at wikiotics.org is built by Hugo.  Each lesson is a Markdown file which consists *only* of the lesson data structure as TOML front matter.
+- [Tachyons](https://tachyons.io/) CSS framework helps to [keep the development process simple](https://github.com/dwyl/learn-tachyons#a-natural-workflow).
+- [jQuery](https://jquery.com/) 1.x is about as stable as it gets.
