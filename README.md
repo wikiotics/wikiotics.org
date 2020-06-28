@@ -57,7 +57,7 @@ All content (i.e., everything in the `content/` directory, recursively) is licen
 
 After years of having a rather complicated technology stack, we now like to keep things simple.  This helps to maximize the [bus factor](https://en.wikipedia.org/wiki/Bus_factor) and minimize time spent maintaining the site.  There should be no or few moving parts, and ideally no server to maintain.
 
-We use these pieces of technology to help us meet our goals:
+We use the following pieces of technology to help us meet our goals:
 
 - [Hugo](https://gohugo.io/) static site generator.  It is known for allowing the creator to get quick visual feedback while building content.  It moves relatively slowly, and is in an ecosystem that [moves especially slowly](https://golang.org/doc/go1compat).  Every page at wikiotics.org is built by Hugo.  Each lesson is a Markdown file which consists *only* of the lesson data structure as TOML front matter.
 - [Tachyons](https://tachyons.io/) CSS framework helps to [keep the development process simple](https://github.com/dwyl/learn-tachyons#a-natural-workflow).

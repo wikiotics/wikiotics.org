@@ -1,5 +1,5 @@
 title = "Wikiotics"
-languageCode = "en-us"
+languageCode = "en"
 baseURL = "/"
 cleanDestinationDir = true
 disableKinds = ["sitemap", "RSS"]
@@ -10,6 +10,6 @@ disablePathToLower = true
 tag = "tags"
 
 # While migrating from the old Ductus site, pandoc sometimes returned
-# HTML tables rather than markdown ones, so we enable HTML in Markdown
+# HTML tables rather than markdown ones, so we enable HTML in Markdown.
 [markup.goldmark.renderer]
 unsafe = true
