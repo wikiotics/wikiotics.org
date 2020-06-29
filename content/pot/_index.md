@@ -1,4 +1,4 @@
 +++
-title = "Potawatomi Wiki"
+title = "Potawatomi wiki"
 type = "wiki"
 +++

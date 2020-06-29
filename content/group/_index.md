@@ -1,3 +1,3 @@
 +++
-title = "Wikiotics Groups"
+title = "Wikiotics groups"
 +++

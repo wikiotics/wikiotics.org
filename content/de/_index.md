@@ -1,4 +1,4 @@
 +++
-title = "German Wiki"
+title = "German wiki"
 type = "wiki"
 +++

@@ -1,4 +1,4 @@
 +++
-title = "Bulgarian Wiki"
+title = "Bulgarian wiki"
 type = "wiki"
 +++

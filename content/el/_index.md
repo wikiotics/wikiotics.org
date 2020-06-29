@@ -1,4 +1,4 @@
 +++
-title = "Modern Greek Wiki"
+title = "Modern Greek wiki"
 type = "wiki"
 +++

@@ -1,4 +1,4 @@
 +++
-title = "Panjabi Wiki"
+title = "Panjabi wiki"
 type = "wiki"
 +++

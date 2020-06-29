@@ -1,3 +1,3 @@
 +++
-title = "Wikiotics Users"
+title = "Wikiotics users"
 +++

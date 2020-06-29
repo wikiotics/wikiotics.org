@@ -1,4 +1,4 @@
 +++
-title = "Standard Malay Wiki"
+title = "Standard Malay wiki"
 type = "wiki"
 +++

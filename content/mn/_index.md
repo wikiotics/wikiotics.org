@@ -1,4 +1,4 @@
 +++
-title = "Mongolian Wiki"
+title = "Mongolian wiki"
 type = "wiki"
 +++
