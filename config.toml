@@ -7,8 +7,8 @@ disablePathToLower = true
 [taxonomies]
 category = "categories"
 tag = "tags"
-"target language" = "target languages"
-"source language" = "source languages"
+"target-language" = "target-languages"
+"source-language" = "source-languages"
 
 # While migrating from the old Ductus site, pandoc sometimes returned
 # HTML tables rather than markdown ones, so we enable HTML in Markdown.
