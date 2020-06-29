@@ -1,3 +1,4 @@
 +++
-title = "Fulah"
+title = "Fulah Wiki"
+type = "wiki"
 +++

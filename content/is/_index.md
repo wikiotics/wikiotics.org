@@ -1,3 +1,4 @@
 +++
-title = "Icelandic"
+title = "Icelandic Wiki"
+type = "wiki"
 +++

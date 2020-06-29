@@ -1,3 +1,4 @@
 +++
-title = "Arabic"
+title = "Arabic Wiki"
+type = "wiki"
 +++

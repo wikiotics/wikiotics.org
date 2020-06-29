@@ -1,3 +1,4 @@
 +++
-title = "Slovak"
+title = "Slovak Wiki"
+type = "wiki"
 +++

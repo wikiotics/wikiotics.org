@@ -1,3 +1,4 @@
 +++
-title = "Ukrainian"
+title = "Ukrainian Wiki"
+type = "wiki"
 +++

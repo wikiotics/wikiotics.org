@@ -1,3 +1,4 @@
 +++
-title = "Hindi"
+title = "Hindi Wiki"
+type = "wiki"
 +++

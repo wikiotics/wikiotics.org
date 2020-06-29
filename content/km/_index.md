@@ -1,3 +1,4 @@
 +++
-title = "Central Khmer"
+title = "Central Khmer Wiki"
+type = "wiki"
 +++

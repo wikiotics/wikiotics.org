@@ -1,3 +1,4 @@
 +++
-title = "Hebrew"
+title = "Hebrew Wiki"
+type = "wiki"
 +++

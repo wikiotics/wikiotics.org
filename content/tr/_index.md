@@ -1,3 +1,4 @@
 +++
-title = "Turkish"
+title = "Turkish Wiki"
+type = "wiki"
 +++

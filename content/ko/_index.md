@@ -1,3 +1,4 @@
 +++
-title = "Korean"
+title = "Korean Wiki"
+type = "wiki"
 +++

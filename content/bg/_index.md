@@ -1,3 +1,4 @@
 +++
-title = "Bulgarian"
+title = "Bulgarian Wiki"
+type = "wiki"
 +++

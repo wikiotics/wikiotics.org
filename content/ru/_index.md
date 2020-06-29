@@ -1,3 +1,4 @@
 +++
-title = "Russian"
+title = "Russian Wiki"
+type = "wiki"
 +++

@@ -1,3 +1,4 @@
 +++
-title = "Wolof"
+title = "Wolof Wiki"
+type = "wiki"
 +++

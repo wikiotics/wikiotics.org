@@ -1,3 +1,4 @@
 +++
-title = "Marathi"
+title = "Marathi Wiki"
+type = "wiki"
 +++

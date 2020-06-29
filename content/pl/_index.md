@@ -1,3 +1,4 @@
 +++
-title = "Polish"
+title = "Polish Wiki"
+type = "wiki"
 +++

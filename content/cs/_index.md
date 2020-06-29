@@ -1,3 +1,4 @@
 +++
-title = "Czech"
+title = "Czech Wiki"
+type = "wiki"
 +++

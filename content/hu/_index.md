@@ -1,3 +1,4 @@
 +++
-title = "Hungarian"
+title = "Hungarian Wiki"
+type = "wiki"
 +++

@@ -1,3 +1,4 @@
 +++
-title = "Mongolian"
+title = "Mongolian Wiki"
+type = "wiki"
 +++

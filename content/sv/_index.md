@@ -1,3 +1,4 @@
 +++
-title = "Swedish"
+title = "Swedish Wiki"
+type = "wiki"
 +++

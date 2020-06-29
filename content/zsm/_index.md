@@ -1,3 +1,4 @@
 +++
-title = "Standard Malay"
+title = "Standard Malay Wiki"
+type = "wiki"
 +++
