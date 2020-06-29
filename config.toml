@@ -5,7 +5,7 @@ cleanDestinationDir = true
 disablePathToLower = true
 
 [taxonomies]
-#category = "categories"
+category = "categories"
 tag = "tags"
 "target language" = "target languages"
 "source language" = "source languages"
