@@ -2,7 +2,6 @@ title = "Wikiotics"
 languageCode = "en"
 baseURL = "/"
 cleanDestinationDir = true
-disableKinds = ["sitemap", "RSS"]
 disablePathToLower = true
 
 [taxonomies]
