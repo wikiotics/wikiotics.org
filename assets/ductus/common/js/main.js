@@ -5,7 +5,7 @@ var resource_json = {'resource': data};
 var available_audio_formats = {"audio/mp4": ["audio/ogg"], "audio/ogg": ["audio/mp4"]}; /* from ductus.modules.audio.views */
 // lesson specific
 if (data.type == 'lesson') {
-    if (!data.interactions) {
+    if (!data.interactions || data.grid) {
         $(initialize_grid);
     } else {
         var interaction = data.interactions[0];
