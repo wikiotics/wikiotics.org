@@ -32,7 +32,7 @@ if (data.type == 'lesson') {
     }
     $(function () {
         var license_block = $('<div></div>').hide(), current_block;
-        license_block.append('<div class="ba bg-white b--black-30 mv4 pa4 cf"><p>Lesson contributors: <span class="contributors"></span></p><p>This lesson is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0</a> license.</p></div>');
+        license_block.append('<div class="ba bg-white b--black-30 mv4 pa4 cf"><p>Lesson contributor(s): <span class="contributors"></span></p><p>This lesson is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0</a> license.</p></div>');
         if (resource_json.resource.contributors) {
             license_block.find('.contributors').text(resource_json.resource.contributors.join(', '));
         }
