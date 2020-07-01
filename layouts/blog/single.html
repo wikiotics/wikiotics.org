@@ -1,0 +1,37 @@
+{{ define "head" }}
+{{- /* https://developers.google.com/speed/docs/best-practices/rtt#PutStylesBeforeScripts */ -}}
+{{- $css := slice (resources.Get "ductus/common/css/base.css") (resources.Get "ductus/textwiki/css/textwiki.css") | resources.Concat "css/textwiki_bundle.css" | minify -}}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+{{ end }}
+{{ define "main" }}
+<div class="main-content">
+  <h1>{{ .Title }}</h1>
+  <div class="the-content"{{ with .Params.languageCode }} lang="{{ . }}"{{ end }}>
+    <time>{{ .Date.Format "January 2, 2006" }}</time>
+    {{ with .Content -}}
+    <article class="blog">
+      {{ . }}
+      <footer>
+        <p>
+        {{ with ($.GetTerms "categories") }}
+        Posted in
+        {{ range $i, $e := . }}
+        {{- if $i }}, {{ end -}}
+        <a href="{{ $e.Permalink }}">{{ $e.LinkTitle }}</a>
+        {{- end }}
+        {{- end }}
+        {{ if and ($.GetTerms "tags") ($.GetTerms "categories") }}|{{ end }}
+        {{ with ($.GetTerms "tags") }}
+        Tagged
+        {{ range $i, $e := . }}
+        {{- if $i }}, {{ end -}}
+        <a href="{{ $e.Permalink }}">{{ $e.LinkTitle }}</a>
+        {{- end }}
+        {{- end }}
+        </p>
+      </footer>
+    </article>
+    {{- end }}
+  </div>
+</div>
+{{ end }}
