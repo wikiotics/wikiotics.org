@@ -16,6 +16,9 @@ var license_name_map = {
 };
 // lesson specific
 if (data.type == 'lesson') {
+    $(function () {
+	$('.the-content').html(''); // Remove "Javascript required" message
+    });
     if (!data.interactions || data.grid) {
         $(initialize_grid);
     } else {
