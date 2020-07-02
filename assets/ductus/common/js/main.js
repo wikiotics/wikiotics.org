@@ -43,9 +43,16 @@ if (data.type == 'lesson') {
             card.sides.forEach(function (side) {
                 if (side && side.credit) {
                     current_block = $('<div class="ba bg-white b--black-30 mv4 pa3 cf"><div class="resource pa3 fl-ns w-50-ns"></div> <div class="pa3 fl-ns w-50-ns">Author: <span class="author"></span></div> <div class="pa3 fl-ns w-50-ns">License: <span class="license"></span></div></div>');
-                    $('<a></a>').attr('href', side.credit.author_url).text(side.credit.author).appendTo(current_block.find('.author'));
-                    $('<a></a>').attr('href', side.credit.original_url).appendTo(current_block.find('.original_url'));
-                    $('<a></a>').attr('href', side.credit.original_url).append(display_resource(side).attr('title', side.credit.title)).appendTo(current_block.find('.resource'));
+                    if (side.credit.author_url) {
+                        $('<a></a>').attr('href', side.credit.author_url).text(side.credit.author).appendTo(current_block.find('.author'));
+                    } else {
+                        current_block.find('.author').text(side.credit.author);
+                    }
+                    if (side.credit.original_url) {
+                        $('<a></a>').attr('href', side.credit.original_url).append(display_resource(side).attr('title', side.credit.title)).appendTo(current_block.find('.resource'));
+                    } else {
+                        current_block.find('.resource').append(display_resource(side).attr('title', side.credit.title));
+                    }
                     $('<a></a>').attr('href', side.credit.license).text(license_name_map[side.credit.license]).appendTo(current_block.find('.license'));
                     current_block.appendTo(license_block);
                 }
