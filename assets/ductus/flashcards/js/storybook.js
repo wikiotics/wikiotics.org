@@ -15,9 +15,9 @@ function initialize_storybook() {
 
         var prepared_page = $('<div class="ductus_storybook"></div>');
         var cards_array = resource_json.resource.cards;
-        prepared_page.append($('<span></span>').append(display_resource(cards_array[index].resource.sides[1])));
-        prepared_page.append(display_resource(cards_array[index].resource.sides[2]));
-        prepared_page.append(display_resource(cards_array[index].resource.sides[0]));
+        prepared_page.append($('<span></span>').append(display_resource(cards_array[index].sides[1])));
+        prepared_page.append(display_resource(cards_array[index].sides[2]));
+        prepared_page.append(display_resource(cards_array[index].sides[0]));
         prepared_page.find('span.audio').button({icons: { primary: 'ui-icon-play' }}).click(function () {
             jplayer_play($(this).data('resource'));
         });
@@ -64,7 +64,7 @@ function initialize_storybook() {
         // point the user to the portal of the target language of this lesson
         // in the future, this should also suggest a logical next lesson to take
         var url, epilogue;
-        if (window.target_language.code != null) {
+        if (false) {
             url = '/en/' + window.target_language.name + '_lessons';
             epilogue = gettext('Back to the main page for ') + window.target_language.name;
         } else {
