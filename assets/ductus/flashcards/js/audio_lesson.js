@@ -6,11 +6,13 @@ function initialize_audio_lesson() {
     // Logic following ductus/modules/audio/views.py and ductus/modules/flashcards/views.py
     var hrefs = resource_json.resource.cards.map(function (card) { return card.sides[col].href }).filter(function (href) { return !!href; });
     var first_audio_blob_href = resource_json.resource.cards.map(function (card) { return card.sides[col].blob_href }).filter(function (href) { return !!href; })[0];
-    var additional_args = sha1(hrefs.join(' '));
-    var podcast_links = $('<div class="ductus_podcast_links"><a class="download" title="Download the podcast in MP4/AAC format, compatible with most software, portable music players and mobile phones.">Download the podcast</a><a class="listen" title="Listen to the podcast online. If you use an old browser, it will offer to download the file in webm format instead.">Listen online</a></div>');
-    podcast_links.find('.download').attr('href', resolve_mediacache_url({'href': ''}, 'audio/mp4', additional_args, first_audio_blob_href));
-    podcast_links.find('.listen').attr('href', resolve_mediacache_url({'href': ''}, 'audio/webm', additional_args, first_audio_blob_href));
-    main_div.append(podcast_links);
+    if (first_audio_blob_href) {
+        var additional_args = sha1(hrefs.join(' '));
+        var podcast_links = $('<div class="ductus_podcast_links"><a class="download" title="Download the podcast in MP4/AAC format, compatible with most software, portable music players and mobile phones.">Download the podcast</a><a class="listen" title="Listen to the podcast online. If you use an old browser, it will offer to download the file in webm format instead.">Listen online</a></div>');
+        podcast_links.find('.download').attr('href', resolve_mediacache_url({'href': ''}, 'audio/mp4', additional_args, first_audio_blob_href));
+        podcast_links.find('.listen').attr('href', resolve_mediacache_url({'href': ''}, 'audio/webm', additional_args, first_audio_blob_href));
+        main_div.append(podcast_links);
+    }
     main_div.append('<h3>Full transcript of the lesson:</h3>');
     initialize_grid();
 }
