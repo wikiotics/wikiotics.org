@@ -18,11 +18,8 @@ If you’ve ever been frustrated by the lack of free, high quality, language ins
 
 We can always use more people and getting involved at this stage is really easy, just check out the project page and leave some comments. Wikiotics means a lot to me so I really appreciate the effort, even if it is just signing up.
 
-If you want to do more, we’ve got a [Flickr photo group](http://web.archive.org/web/20160326005113/http://www.flickr.com/groups/wikiotics/) where we’re collecting pictures for use in language lessons. If you have any CC licensed* pictures, join up and add away. Pictures with clear subjects are easiest to use for language instruction but anything you can imagine using is welcome. Think of them as picture flash cards for sentences like “the girls are walking” and you’ll get the idea. [This picture](http://web.archive.org/web/20160326005113/http://alpha.wikiotics.org/urn/sha384/Vh9lEor4TsKaIEnUTtwOVYyqOjIvwUU-ZlvETxSUY9h5lr38G7ZZz4dwhK_Qtw9J?view=image) is the best I could do from searching flickr’s current pictures, but I’m sure you can all do better with your cameras and some willing subjects.
+If you want to do more, we’ve got a [Flickr photo group](https://www.flickr.com/groups/wikiotics/) where we’re collecting pictures for use in language lessons. If you have any CC licensed* pictures, join up and add away. Pictures with clear subjects are easiest to use for language instruction but anything you can imagine using is welcome. Think of them as picture flash cards for sentences like “the girls are walking” and you’ll get the idea. [This picture](http://web.archive.org/web/20160326005113/http://alpha.wikiotics.org/urn/sha384/Vh9lEor4TsKaIEnUTtwOVYyqOjIvwUU-ZlvETxSUY9h5lr38G7ZZz4dwhK_Qtw9J?view=image) is the best I could do from searching flickr’s current pictures, but I’m sure you can all do better with your cameras and some willing subjects.
 
 We’re also in the midst of heavy technological development for our back-end software, a lovely new wiki called [ductus](http://web.archive.org/web/20160326005113/http://code.ductus.us/), built from the ground up to handle this kind of rich interactive content. If anyone is interested in python, django, and the possibilities of git-based wiki development, [check it out](http://web.archive.org/web/20160326005113/http://code.ductus.us/).
 
 **CC-BY or CC-BY-SA specifically*
-
-Crossposted with [churchkey.org](http://web.archive.org/web/20160326005113/https://drumbeat.org/en-US/projects/wikiotics-tools-and-materials-for-collaborative-la/ "http://churchkey.org").
-

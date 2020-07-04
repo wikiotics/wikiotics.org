@@ -10,7 +10,7 @@ This second post in the “Building a lesson” series will give you some genera
 
 ## Choose a topic
 
-The first step in building a lesson is choosing a topic. Since language covers anything you can express, there are an almost limitless number of potential topics. Honestly it is a bit daunting so we have created a simple curriculum of introductory English topic here on our [Last Language Textbook](https://web.archive.org/web/20160325183752/http://thelastlanguagetextbook.org/) campaign pages ([Level 1-Stage 1](https://web.archive.org/web/20160325183752/https://wikiotics.org/en/LLT-A1-Stage1-CoverageMap), [Level 1-Stage 2](https://web.archive.org/web/20160325183752/https://wikiotics.org/en/LLT-A1-Stage2-CoverageMap), [Level 1-Stage3](https://web.archive.org/web/20160325183752/https://wikiotics.org/en/LLT-A1-Stage3-CoverageMap), [Level 2-Stage 1](https://web.archive.org/web/20160325183752/https://wikiotics.org/en/LLT-A2-Stage1-CoverageMap), [Level 2-Stage 2](https://web.archive.org/web/20160325183752/https://wikiotics.org/en/LLT-A2-Stage2-CoverageMap), [Level 2-Stage 3](https://web.archive.org/web/20160325183752/https://wikiotics.org/en/LLT-A2-Stage3-CoverageMap)). If you need some help picking a topic, take a look at those pages for inspiration, or feel free to just use one directly and help out while you build.
+The first step in building a lesson is choosing a topic. Since language covers anything you can express, there are an almost limitless number of potential topics. Honestly it is a bit daunting so we have created a simple curriculum of introductory English topic here on our [Last Language Textbook](https://web.archive.org/web/20160325183752/http://thelastlanguagetextbook.org/) campaign pages ([Level 1-Stage 1](/en/LLT-A1-Stage1-CoverageMap), [Level 1-Stage 2](/en/LLT-A1-Stage2-CoverageMap), [Level 1-Stage3](/en/LLT-A1-Stage3-CoverageMap), [Level 2-Stage 1](/en/LLT-A2-Stage1-CoverageMap), [Level 2-Stage 2](/en/LLT-A2-Stage2-CoverageMap), [Level 2-Stage 3](/en/LLT-A2-Stage3-CoverageMap)). If you need some help picking a topic, take a look at those pages for inspiration, or feel free to just use one directly and help out while you build.
 
 ## Lesson Context
 
@@ -34,6 +34,6 @@ Every lesson on Wikiotics is built with these three steps:
 - Step 2: Add text, audio, or pictures to your lesson.
 - Step 3: Save your lesson on the wiki.
 
-Here I’m going to cheat by pointing you to our detailed “[Creating a lesson](https://web.archive.org/web/20160325183752/http://wikiotics.org/en/help/Creating_a_lesson)” page, which goes into more detail on each of these steps.
+Here I’m going to cheat by pointing you to our detailed “[Creating a lesson](/en/help/Creating_a_lesson)” page, which goes into more detail on each of these steps.
 
 Next week we will go over an example of all this as I build a new picture choice lesson and point out some great ones already on the site.

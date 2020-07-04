@@ -10,10 +10,9 @@ Here’s a brief recap of the past month (or two) in Wikiotics:
 
 ## Summer Pilot program
 
-For the last six weeks or so we’ve been working to support the English language programs at the New York Public Library, who we made contact with after our presentation at the Digital Media and Learning 2011 Drumbeat science fair. The NYPL runs a series of classes focused on the “We Are New York” series of Television shows put out by the city. The series is quite good and you can find out more about it here:  
-[http://wikiotics.org/en/WANY](https://web.archive.org/web/20160325191859/http://wikiotics.org/en/WANY "Wikiotics: WANY project page")
+For the last six weeks or so we’ve been working to support the English language programs at the New York Public Library, who we made contact with after our presentation at the Digital Media and Learning 2011 Drumbeat science fair. The NYPL runs a series of classes focused on the “We Are New York” series of Television shows put out by the city. The series is quite good and you can find out more about it here: [https://wikiotics.org/en/WANY](https://wikiotics.org/en/WANY "Wikiotics: WANY project page")
 
-Summer classes at the NYPL start in a few weeks and we’re going to make them the focus of our own summer activity. We have development time lined up and a volunteer ESL tutor to help build Wikiotics lessons that support the “We Are New York” ones. By the end of the summer we should have a collection of related ESL materials available to everybody teaching, or just watching the TV episodes at home. Anyone interested in this project can follow our progress, or join in to build and improve materials, at our “We Are New York” [project page](https://web.archive.org/web/20160325191859/http://wikiotics.org/en/WANY "Wikiotics: WANY project page"), which already has a lesson for each TV episode.
+Summer classes at the NYPL start in a few weeks and we’re going to make them the focus of our own summer activity. We have development time lined up and a volunteer ESL tutor to help build Wikiotics lessons that support the “We Are New York” ones. By the end of the summer we should have a collection of related ESL materials available to everybody teaching, or just watching the TV episodes at home. Anyone interested in this project can follow our progress, or join in to build and improve materials, at our “We Are New York” [project page](/en/WANY "Wikiotics: WANY project page"), which already has a lesson for each TV episode.
 
 ## OSCON
 
@@ -25,7 +24,7 @@ In collaboration with Adelphi University in New York, we are working on an Andro
 
 ## New logo
 
-After 140 entries to our logo design contest, we selected one from designer “\[cindy\]“, who was an early and very active participant in the contest. The winning design can be seen right here on this blog and should be up on the main Wikiotics website soon. More of \[cindy\]‘s designs can be seen at her [99designs profile page](https://web.archive.org/web/20160325191859/http://99designs.com/users/335159 "[cindy]'s 99design profile page").
+After 140 entries to our logo design contest, we selected one from designer “\[cindy\]“, who was an early and very active participant in the contest. The winning design can be seen right here on this blog and should be up on the main Wikiotics website soon. More of \[cindy\]‘s designs can be seen at her [99designs profile page](https://99designs.com/users/335159 "[cindy]'s 99design profile page").
 
 ## SBLUG
 
@@ -37,6 +36,4 @@ As we enter the third full year of Wikiotics activity, with technology to show a
 
 ## Keeping in touch
 
-The best way to keep in touch with us is to visit the #wikiotics room on the FreeNode chat network. To join, point any modern web browser to [http://webchat.freenode.net/?channels=wikiotics](https://web.archive.org/web/20160325191859/http://webchat.freenode.net/?channels=wikiotics "wikiotics web chat on freenode irc"). Recent changes to the wiki (including lessons) are listed at  
-[http://wikiotics.org/special/recent_changes](https://web.archive.org/web/20160325191859/http://wikiotics.org/special/recent_changes "wikiotics's recent changes page"). The software  
-development timeline is located at [http://code.ductus.us/timeline](https://web.archive.org/web/20160325191859/http://code.ductus.us/timeline "ductus development timeline").
+The best way to keep in touch with us is to visit the #wikiotics room on the FreeNode chat network. To join, point any modern web browser to [http://webchat.freenode.net/?channels=wikiotics](https://webchat.freenode.net/?channels=wikiotics "wikiotics web chat on freenode irc"). Recent changes to the wiki (including lessons) are listed at [http://wikiotics.org/special/recent_changes](https://web.archive.org/web/20160325191859/http://wikiotics.org/special/recent_changes "wikiotics's recent changes page"). The software development timeline is located at [http://code.ductus.us/timeline](https://web.archive.org/web/20160325191859/http://code.ductus.us/timeline "ductus development timeline").

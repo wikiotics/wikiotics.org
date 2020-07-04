@@ -9,7 +9,7 @@ tags = ["collaborative language education", "drumbeat", "language", "language ed
 After a productive summer of software building, we would like to  
 introduce the first version of the Wikiotics community site. In order to  
 test everything out and introduce the site’s new capabilities, we’re  
-asking everyone to help out and translate our [Introductory lesson](https://web.archive.org/web/20160325183259/http://wikiotics.org/en/Introduction) into as many languages as possible.
+asking everyone to help out and translate our [Introductory lesson](/en/Introduction) into as many languages as possible.
 
 If you know how to write “This is a boy” in one or more languages, we need your help.
 
@@ -19,49 +19,49 @@ This will be the first of four week-long pushes that will culminate with a lesso
 
 Translating a lesson is done with three easy steps.
 
-First, load [the lesson](https://web.archive.org/web/20160325183259/http://wikiotics.org/en/Introduction) you want to translate.
+First, load [the lesson](/en/Introduction) you want to translate.
 
 Second, copy the lesson into the right area of the wiki for its new language. To do this, hit the “copy” botton at the top of the page and enter in a new name for the lesson, starting with the language code for the new language and a “:”. So, if you are translating the Introduction lesson into Hungarian, you would enter “hu:Bevezetése” for the new name, which is the Hungarian for “Introduction”. If you are translating it into Portuguese, you would enter “pt:Introdução”.
 
 Third, hit the “edit” button on your new lesson and replace the English sentences with versions appropriate for your language.
 
-Now you have a brand new language lesson that you can share with anyone! Congratulations and thanks for helping improve Wikiotics. When you are done, please add a link to your lesson here so we can all appreciate it: [http://wikiotics.org/en/Take\_a\_lesson](https://web.archive.org/web/20160325183259/http://wikiotics.org/en/Take_a_lesson)
+Now you have a brand new language lesson that you can share with anyone! Congratulations and thanks for helping improve Wikiotics. When you are done, please add a link to your lesson here so we can all appreciate it: [https://wikiotics.org/en/Take\_a\_lesson](/en/Take_a_lesson)
 
 ## The Languages
 
-Currently the system has areas for 25 languages and we have the [introduction lesson](https://web.archive.org/web/20160325183259/http://wikiotics.org/en/Introduction) translated into five of them:
+Currently the system has areas for 25 languages and we have the [introduction lesson](/en/Introduction) translated into five of them:
 
-(ar) Arabic [http://wikiotics.org/ar/مقدمة](https://web.archive.org/web/20160325183259/http://wikiotics.org/ar/%D9%85%D9%82%D8%AF%D9%85%D8%A9)  
-(af) Afrikaans [http://wikiotics.org/af/Intruction](https://web.archive.org/web/20160325183259/http://wikiotics.org/af/Intruction)  
-(bs) Bosnian [http://wikiotics.org/bs/introdukcija](https://web.archive.org/web/20160325183259/http://wikiotics.org/bs/introdukcija)  
-(ca) Catalan [http://wikiotics.org/ca/Introducció](https://web.archive.org/web/20160325183259/http://wikiotics.org/ca/Introducci%C3%B3)  
+(ar) Arabic [https://wikiotics.org/ar/مقدمة](/ar/%D9%85%D9%82%D8%AF%D9%85%D8%A9)  
+(af) Afrikaans [https://wikiotics.org/af/Intruction](/af/Intruction)  
+(bs) Bosnian [https://wikiotics.org/bs/introdukcija](/bs/introdukcija)  
+(ca) Catalan [https://wikiotics.org/ca/Introducció](/ca/Introducci%C3%B3)  
 (cs) Czech  
 (da) Danish  
-(de) German [http://wikiotics.org/de/Einführung](https://web.archive.org/web/20160325183259/http://wikiotics.org/de/Einf%C3%BChrung)  
-(en) English [http://wikiotics.org/en/Introduction](https://web.archive.org/web/20160325183259/http://wikiotics.org/en/Introduction)  
+(de) German [https://wikiotics.org/de/Einführung](/de/Einf%C3%BChrung)  
+(en) English [https://wikiotics.org/en/Introduction](/en/Introduction)  
 (eo) Esperanto  
-(es) Spanish [http://wikiotics.org/es/Introductoria](https://web.archive.org/web/20160325183259/http://wikiotics.org/es/Introductoria)  
-(fi) Finnish [http://wikiotics.org/fi/esittely](https://web.archive.org/web/20160325183259/http://wikiotics.org/fi/esittely)  
-(fr) French [http://wikiotics.org/fr/Introduction](https://web.archive.org/web/20160325183259/http://wikiotics.org/fr/Introduction)  
-(he) Hebrew [http://wikiotics.org/he/הקדמה](https://web.archive.org/web/20160325183259/http://wikiotics.org/he/%D7%94%D7%A7%D7%93%D7%9E%D7%94)  
+(es) Spanish [https://wikiotics.org/es/Introductoria](/es/Introductoria)  
+(fi) Finnish [https://wikiotics.org/fi/esittely](/fi/esittely)  
+(fr) French [https://wikiotics.org/fr/Introduction](/fr/Introduction)  
+(he) Hebrew [https://wikiotics.org/he/הקדמה](/he/%D7%94%D7%A7%D7%93%D7%9E%D7%94)  
 (hi) Hindi  
 (hu) Hungarian  
 (id) Indonesian  
 (is) Icelandic  
-(it) Italian [http://wikiotics.org/it/Introduzione](https://web.archive.org/web/20160325183259/http://wikiotics.org/it/Introduzione)  
-(ja) Japanese [http://wikiotics.org/ja/緒論](https://web.archive.org/web/20160325183259/http://wikiotics.org/ja/%E7%B7%92%E8%AB%96)  
-(ko) Korean [http://wikiotics.org/ko/소개](https://web.archive.org/web/20160325183259/http://wikiotics.org/ko/%EC%86%8C%EA%B0%9C)  
-(nl) Dutch [http://wikiotics.org/nl/introductie](https://web.archive.org/web/20160325183259/http://wikiotics.org/nl/introductie)  
+(it) Italian [https://wikiotics.org/it/Introduzione](/it/Introduzione)  
+(ja) Japanese [https://wikiotics.org/ja/緒論](/ja/%E7%B7%92%E8%AB%96)  
+(ko) Korean [https://wikiotics.org/ko/소개](/ko/%EC%86%8C%EA%B0%9C)  
+(nl) Dutch [https://wikiotics.org/nl/introductie](/nl/introductie)  
 (no) Norwegian  
 (pl) Polish  
-(pt) Portuguese [http://wikiotics.org/pt/Introdução](https://web.archive.org/web/20160325183259/http://wikiotics.org/pt/Introdu%C3%A7%C3%A3o)  
+(pt) Portuguese [https://wikiotics.org/pt/Introdução](/pt/Introdu%C3%A7%C3%A3o)  
 (ro) Romanian  
-(ru) Russian [http://wikiotics.org/ru/Введение](https://web.archive.org/web/20160325183259/http://wikiotics.org/ru/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)  
-(sk) Slovak [http://wikiotics.org/sk/Úvod](https://web.archive.org/web/20160325183259/http://wikiotics.org/sk/%C3%9Avod)  
-(sv) Swedish [http://wikiotics.org/sv/Inledning](https://web.archive.org/web/20160325183259/http://wikiotics.org/sv/Inledning)  
+(ru) Russian [https://wikiotics.org/ru/Введение](/ru/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)  
+(sk) Slovak [https://wikiotics.org/sk/Úvod](/sk/%C3%9Avod)  
+(sv) Swedish [https://wikiotics.org/sv/Inledning](/sv/Inledning)  
 (tr) Turkish  
 (uk) Ukrainian  
-(zh) Chinese [http://wikiotics.org/zh/简介](https://web.archive.org/web/20160325183259/http://wikiotics.org/zh/%E7%AE%80%E4%BB%8B)
+(zh) Chinese [https://wikiotics.org/zh/简介](/zh/%E7%AE%80%E4%BB%8B)
 
 If someone has already done the translation you were planning to do, you  
 can skip right over to the final step and edit the existing page to  
@@ -80,14 +80,14 @@ The Wikiotics Team
 We’ve got Portuguese and half of the Japanese translation done  
 already. This is great work everyone! I’m going to keep updating here  
 and adding links to new lessons as we get them so check back. And don’t  
-forget to add a link to your new lesson to [http://alpha.wikiotics.org/en/Take\_a\_lesson](https://web.archive.org/web/20160325183259/http://alpha.wikiotics.org/en/Take_a_lesson) when you’re done translating!
+forget to add a link to your new lesson to [https://alpha.wikiotics.org/en/Take\_a\_lesson](/en/Take_a_lesson) when you’re done translating!
 
 *Update #2 (14:23 Eastern* *Oct 12, 2010**)*
 
 Thanks to Soassae from #learnanylanguage on freenode, we now have an  
 Italian version of the lesson. We have also added Hindi as a possible  
 language on the site so we’re up to 8/26 now. For anyone who is curious  
-about how we selected the initial languages to support, we based it on [Wikipedia size](https://web.archive.org/web/20160325183259/http://meta.wikimedia.org/wiki/List_of_Wikipedias), but just ask if you want any other languages.
+about how we selected the initial languages to support, we based it on [Wikipedia size](https://meta.wikimedia.org/wiki/List_of_Wikipedias), but just ask if you want any other languages.
 
 *Update #3 (16:18 Eastern* *Oct 12, 2010**)*
 

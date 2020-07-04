@@ -17,4 +17,4 @@ Ian attended the Digital Media and Learning Conference in Long Beach, California
 ## Adelphi University
 
 Shortly after the last monthly update, Matthew Curinga posted a message to the list about the research study he is leading at Adelphi University regarding Wikiotics:  
-[http://groups.google.com/group/wikiotics/msg/20f2c6abfb5a6161](https://web.archive.org/web/20160325185012/http://groups.google.com/group/wikiotics/msg/20f2c6abfb5a6161 "http://groups.google.com/group/wikiotics/msg/20f2c6abfb5a6161") He recently hired a student programmer, and we should be hearing more soon.
+[https://groups.google.com/group/wikiotics/msg/20f2c6abfb5a6161](https://groups.google.com/group/wikiotics/msg/20f2c6abfb5a6161 "http://groups.google.com/group/wikiotics/msg/20f2c6abfb5a6161") He recently hired a student programmer, and we should be hearing more soon.
