@@ -41,15 +41,11 @@ The Wikiotics project was founded in 2008 with the goal of creating a freely lic
 
 ## Status
 
-Wikiotics is being transitioned to a static site.  The work is happening on the `migration` branch (pull request #[4](https://github.com/wikiotics/wikiotics.org/pull/4)).  Once we are happy with the automated scrape of the old site's content, this pull request will be merged.
-
-Improvements to the functionity of the site are welcome and can be submitted as pull requests against the `master` branch.  Improvements to site content should wait for now, until we finalize the migration from Ductus by merging the `migration` branch (pull request #[4](https://github.com/wikiotics/wikiotics.org/pull/4)).
-
-The content of the site is a bit of a mess, as might be expected from a repository that was editable by anyone in the world, without moderation.  On top of that, the only real way to see a working draft of a lesson was to save it to the wiki.  After #[4](https://github.com/wikiotics/wikiotics.org/pull/4) is merged, a massive cleanup will be necessary if the project is to continue.  Otherwise, this repository will serve as a working archive of the community's work.
+As of July 2020, Wikiotics has been transitioned to a static site.  The content is a bit of a mess, as might be expected from a repository that was editable by anyone in the world, without moderation.  On top of that, the only real way to see a working draft of a lesson was to save it to the wiki.  A cleanup will be necessary if the project is to continue.  Otherwise, this repository will serve as a working archive of the community's work.
 
 ## Claiming contributions
 
-During its time in existence, wikiotics.org received contributions from 62 logged-in users, as well as anonymous users identified only by their ip address.  There were a total of 4064 such contributions, each of which has a corresponding commit on the `migration` branch.  Anyone who contributed and has an account on GitHub can claim these contributions and be listed on the [contributions page](https://github.com/wikiotics/wikiotics.org/graphs/contributors) by submitting a pull request that adds [an appropriate entry](https://git-scm.com/docs/git-check-mailmap#_mapping_authors) to the `.mailmap` file in this repository which maps `username@wikiotics.org` to an email address associated with the person's GitHub account.
+During its time in existence, wikiotics.org received contributions from 62 logged-in users, as well as anonymous users identified only by their ip address.  There were a total of 4064 such contributions, each of which has a corresponding commit in this repository.  ~~Anyone who contributed and has an account on GitHub can claim these contributions and be listed on the [contributions page](https://github.com/wikiotics/wikiotics.org/graphs/contributors) by submitting a pull request that adds [an appropriate entry](https://git-scm.com/docs/git-check-mailmap#_mapping_authors) to the `.mailmap` file in this repository which maps `username@wikiotics.org` to an email address associated with the person's GitHub account.~~ The GitHub contributors graph currently [does not consider the `.mailmap` file](https://github.community/t/how-to-get-mailmap-to-work-and-record-contributions-in-relevant-users-profile/121285), so there is currently no way of claiming past contributions.
 
 ## Licenses
 
