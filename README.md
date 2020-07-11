@@ -2,9 +2,17 @@
 
 Wikiotics is a website for learning a foreign language.
 
+## Background
+
+The Wikiotics project was founded in 2008 with the goal of creating a freely licensed wiki where people could collaborate on materials for language learners.  As part of this, we built a wiki engine called [Ductus](https://github.com/wikiotics/ductus), which provided a framework for building interactive wiki pages from structured content, editable from the web browser.  In 2011, Wikiotics joined forces with the WikiBabel project, a project with a similar vision and whose developer went on to contribute signficantly to Wikiotics.  A few years later, we lost interest in maintaining Ductus and became occupied with other activities.
+
+## Status
+
+As of July 2020, Wikiotics has been transitioned to a static site.  The content is a bit of a mess, as might be expected from a repository that was editable by anyone in the world, without moderation.  On top of that, the only real way to see a working draft of a lesson was to save it to the wiki.  A cleanup will be necessary if the project is to continue.  Otherwise, this repository will serve as a working archive of the community's work.
+
 ## Editing the site
 
-Wikiotics is becoming a static site built with [Hugo](https://gohugo.io/).  The following steps allow one to edit it locally:
+Wikiotics is now a static site built with [Hugo](https://gohugo.io/).  The following steps allow one to edit it locally:
 
 1. [Install Hugo](https://gohugo.io/getting-started/installing/).
 
@@ -34,14 +42,6 @@ Wikiotics is becoming a static site built with [Hugo](https://gohugo.io/).  The 
 The content is in the `content/` directory.  Upon saving any content file, the web browser should refresh automatically with the updated content.
 
 Each lesson is represented entirely by TOML front matter, which is contained between lines which say `+++`.  When editing a lesson, one tip is to temporarily set `grid = true` in its front matter, which will display the lesson's elements as a spreadsheet.  This can be useful to obtain a global view of the lesson.
-
-## Background
-
-The Wikiotics project was founded in 2008 with the goal of creating a freely licensed wiki where people could collaborate on materials for language learners.  As part of this, we built a wiki engine called [Ductus](https://github.com/wikiotics/ductus), which provided a framework for building interactive wiki pages from structured content, editable from the web browser.  In 2011, Wikiotics joined forces with the WikiBabel project, a project with a similar vision and whose developer went on to contribute signficantly to Wikiotics.  A few years later, we lost interest in maintaining Ductus and became occupied with other activities.
-
-## Status
-
-As of July 2020, Wikiotics has been transitioned to a static site.  The content is a bit of a mess, as might be expected from a repository that was editable by anyone in the world, without moderation.  On top of that, the only real way to see a working draft of a lesson was to save it to the wiki.  A cleanup will be necessary if the project is to continue.  Otherwise, this repository will serve as a working archive of the community's work.
 
 ## Claiming contributions
 
