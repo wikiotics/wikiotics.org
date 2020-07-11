@@ -19,7 +19,7 @@ if (data.type == 'lesson') {
     $(function () {
 	$('.the-content').html(''); // Remove "Javascript required" message
     });
-    if (!data.interactions || data.grid) {
+    if (!data.interactions || data.grid || data.draft) {
         $(initialize_grid);
     } else {
         var interaction = data.interactions[0];

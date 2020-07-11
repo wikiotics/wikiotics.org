@@ -41,7 +41,7 @@ Wikiotics is now a static site built with [Hugo](https://gohugo.io/).  The follo
 
 The content is in the `content/` directory.  Upon saving any content file, the web browser should refresh automatically with the updated content.
 
-Each lesson is represented entirely by TOML front matter, which is contained between lines which say `+++`.  When editing a lesson, one tip is to temporarily set `grid = true` in its front matter, which will display the lesson's elements as a spreadsheet.  This can be useful to obtain a global view of the lesson.
+Each lesson is represented entirely by TOML front matter, which is contained between lines which say `+++`.  When editing a lesson, one tip is to temporarily set `grid = true` in its front matter, which will display the lesson's elements as a spreadsheet.  This can be useful to obtain a global view of the lesson.  Lessons for which `draft = true` will also be displayed as a grid (that is, if drafts are enabled).
 
 ## Claiming contributions
 
