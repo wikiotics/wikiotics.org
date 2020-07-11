@@ -40,4 +40,4 @@ For more information about the project, take a look at the
 [about](/group/wikiotics/en/about) page and feel free to [contact
 us](/group/wikiotics/en/contact).
 
-`<<WikioticsDonateButton>>`
+{{< donate >}}
