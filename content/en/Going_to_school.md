@@ -5,7 +5,7 @@ dividers = [ 4, 8,]
 headings = [ "Phrase", "Picture", "Audio",]
 tags = [ "ESLworkshop",]
 type = "lesson"
-target-languages = [ "es",]
+target-languages = [ "en",]
 [[cards]]
 
 [[cards.sides]]
