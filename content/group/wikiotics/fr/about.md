@@ -38,7 +38,7 @@ recevoir des dons déductibles des impôts (si vous êtes imposable aux
 USA). Nous acceptons bien entendu les dons d'autres provenance, mais ils
 ne peuvent (pour l'instant) être déduits de vos impôts.
 
-`<<WikioticsDonateButton>>`
+{{< donate >}}
 
 Si vous souhaitez contribuer (financièrement) par d'autres moyens, merci
 de contacter donate@wikiotics.org. D'autres façons de contribuer non

@@ -5,7 +5,7 @@ languageCode = "en"
 
 In addition to:
 
-`<<WikioticsDonateButton>>`
+{{< donate >}}
 
 There are plenty of zero cost ways to contribute to Wikiotics. Some
 ideas...
