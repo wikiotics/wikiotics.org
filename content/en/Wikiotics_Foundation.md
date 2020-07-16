@@ -8,13 +8,12 @@ organization dedicated to making an interactive language instruction
 system that is freely licensed and freely available to anyone online.
 Our major activities include developing custom free software for
 collaborative language instruction and running the
-<http://wikiotics.org> community site where teachers and students from
+<https://wikiotics.org> community site where teachers and students from
 all over the world can come together to build high quality language
 instruction materials.
 
 Wikiotics has 501(c)(3) status in the United States, allowing us to
-accept tax-deductible contributions. You can donate online using either
-paypal or flattr:
+accept tax-deductible contributions. You can donate online using paypal:
 
 {{< donate >}}
 
