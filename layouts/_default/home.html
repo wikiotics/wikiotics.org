@@ -6,7 +6,7 @@
     <p>Perhaps the best way to navigate the content is by the language taught by each lesson:</p>
     <ul>
       {{ range $key, $taxonomy := index .Site.Taxonomies "target-languages" }}
-      <li><a href="/target-languages/{{ $key | urlize }}">{{ ($.Site.GetPage (printf "/target-languages/%s" $key)).Title }}</a>{{ with (len $taxonomy) }} ({{ . }} {{ if eq . 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
+      <li><a href="/target-languages/{{ $key | urlize }}/">{{ ($.Site.GetPage (printf "/target-languages/%s/" $key)).Title }}</a>{{ with (len $taxonomy) }} ({{ . }} {{ if eq . 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
       {{- end }}
     </ul>
     <p>There are a few other sections on the site as well:</p>
