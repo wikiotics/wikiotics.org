@@ -1,6 +1,6 @@
 # Wikiotics
 
-Wikiotics is a website for learning a foreign language.
+[Wikiotics](https://wikiotics.org/) is a website for learning a foreign language.
 
 ## Background
 
