@@ -55,6 +55,8 @@ The content is in the `content/` directory.  Upon saving any content file, the w
 
 Each lesson is represented entirely by [TOML] front matter, which is contained between lines which say `+++`.  When editing a lesson, one tip is to temporarily set `grid = true` in its front matter, which will display the lesson's elements as a spreadsheet.  This can be useful to obtain a global view of the lesson.  Lessons for which `draft = true` will also be displayed as a grid (that is, if drafts are enabled).
 
+Each lesson can be annotated with the language it teaches and, if applicable, the language it assumes the learner knows by setting `target-languages` and/or `source-languages` in the lesson's front matter, following the [standard](https://www.dictionary.com/browse/target-language) [definitions](https://www.dictionary.com/browse/source-language) of these terms.  Behind the scenes, these annotations are instances of Hugo [taxonomies](https://gohugo.io/content-management/taxonomies/).
+
 ## Licenses
 
 All content (i.e., everything in the `content/` directory, recursively) is licensed under the [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.  Some of the lesson media (referenced but not included in this repository) is available under a different (but free) Creative Commons license.  Everything else (e.g., all code) is available under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) or any later version.  Some of the libraries in `{assets,static}/ductus/` are available under more permissive licenses.
