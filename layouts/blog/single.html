@@ -9,7 +9,7 @@
   <div class="the-content"{{ with .Params.languageCode }} lang="{{ . }}"{{ end }}>
     <time>{{ .Date.Format "January 2, 2006" }}</time>
     {{ with .Content -}}
-    <article class="blog">
+    <article class="blog nested-links">
       {{ . }}
       <footer>
         <p>

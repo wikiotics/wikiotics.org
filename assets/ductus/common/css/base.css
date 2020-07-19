@@ -22,20 +22,6 @@ hr {
     background-color: #aaa;
 }
 
-a {
-    color: #002bb8;
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
-}
-a:visited {
-    color: #5a36af;
-}
-a.broken {
-    color: #c20;
-}
-
 .license_info {
     border-bottom: 1px solid #ddd;
     margin: 1.5em 0;

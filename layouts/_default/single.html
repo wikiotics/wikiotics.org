@@ -8,7 +8,7 @@
   <h1>{{ .Title }}</h1>
   <div class="the-content"{{ with .Params.languageCode }} lang="{{ . }}"{{ end }}>
     {{ with .Content -}}
-    <article class="ductus_textwiki_content">
+    <article class="ductus_textwiki_content nested-links">
       {{ . }}
     </article>
     {{- end }}

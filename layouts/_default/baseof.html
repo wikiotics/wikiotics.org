@@ -25,7 +25,7 @@
       <a href="{{ .Site.BaseURL }}"><img src="/img/wikiotics.svg" alt="Wikiotics logo" class="fl w-25-l w-third"></a>
       {{- if in (slice "page" "home" "section") .Kind }}
       <nav class="fr">
-        <a class="f6 link ba ph3 pv2 mb2 dib bg-washed-blue" href="https://github.com/wikiotics/wikiotics.org/blob/master/content/{{- .File.Path -}}">View source on GitHub</a>
+        <a class="f6 link underline-hover ba ph3 pv2 mb2 dib bg-washed-blue" href="https://github.com/wikiotics/wikiotics.org/blob/master/content/{{- .File.Path -}}">View source on GitHub</a>
       </nav>
       {{- end }}
     </header>
