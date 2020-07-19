@@ -18,7 +18,9 @@ The first step forward is to clean up the content.  Lessons and pages that are n
 
 ## Claiming contributions
 
-~~Anyone who contributed and has an account on GitHub can claim these contributions and be listed on the [contributions page](https://github.com/wikiotics/wikiotics.org/graphs/contributors) by submitting a pull request that adds [an appropriate entry](https://git-scm.com/docs/git-check-mailmap#_mapping_authors) to the `.mailmap` file in this repository which maps `username@wikiotics.org` to an email address associated with the person's GitHub account.~~ The GitHub contributors graph currently [does not consider the `.mailmap` file](https://github.community/t/how-to-get-mailmap-to-work-and-record-contributions-in-relevant-users-profile/121285), so there is currently no way of claiming past contributions.
+Anyone who contributed to the wiki and has an account on GitHub can claim their contributions by submitting a pull request that adds [an appropriate entry](https://git-scm.com/docs/git-check-mailmap#_mapping_authors) to the `[.mailmap](.mailmap)` file in this repository.  This entry should map `wikiotics_username@wikiotics.org` to an email address associated with the person's GitHub account (or, alternatively, the address `username@users.noreply.github.com`).
+
+Claiming contributions in this way will mean that the user's profile is linked in the GitHub history of any page the person contributed to ([example here](https://github.com/wikiotics/wikiotics.org/blob/master/content/en/Russian_lesson_-_Introduction.md)).  Unfortunately, at the moment, it seems that the [contributions graph](https://github.com/wikiotics/wikiotics.org/graphs/contributors) does *not* consider the `.mailmap` file.  This is inconsistent with [a report on Stack Overflow](https://stackoverflow.com/questions/53629125/does-github-consider-mailmap-for-contribution-graph) but is likely related to [this discussion](https://github.community/t/how-to-get-mailmap-to-work-and-record-contributions-in-relevant-users-profile/121285) on GitHub's Discourse instance.
 
 ## Editing the site
 
