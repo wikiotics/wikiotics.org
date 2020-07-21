@@ -61,6 +61,8 @@ The wiki naming scheme (for URLs/routes) is under discussion in [#12].  We also 
 
 The highest priority at the moment is [improving presentation of the site archive](https://github.com/wikiotics/wikiotics.org/milestone/1).
 
+Adding new lesson media would currently involve coordinating changes with with the [wikiotics media](https://github.com/wikiotics/wikiotics.github.io) repository.  There are two alternatives under consideration: git [large file storage] and [ipfs] (details in [#15]).
+
 ## Licenses
 
 All content (i.e., everything in the `content/` directory, recursively) is licensed under the [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.  Some of the lesson media (referenced but not included in this repository) is available under a different (but free) Creative Commons license.  Everything else (e.g., all code) is available under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) or any later version.  Some of the libraries in `{assets,static}/ductus/` are available under more permissive licenses.
@@ -76,10 +78,11 @@ We build upon the following pieces of technology to help meet our goals:
 - [jQuery](https://jquery.com/) 1.x is about as stable as it gets.
 
 [#4]: https://github.com/wikiotics/wikiotics.org/issues/4
-[#6]: https://github.com/wikiotics/wikiotics.org/pull/6
 [#9]: https://github.com/wikiotics/wikiotics.org/issues/9
 [#10]: https://github.com/wikiotics/wikiotics.org/issues/10
 [#12]: https://github.com/wikiotics/wikiotics.org/issues/12
+[#15]: https://github.com/wikiotics/wikiotics.org/issues/15
 
 [ipfs]: https://ipfs.io/
+[large file storage]: https://git-lfs.github.com/
 [TOML]: https://github.com/toml-lang/toml
