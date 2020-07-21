@@ -85,7 +85,7 @@ timeline](http://code.ductus.us/timeline).
 
 Depending on how you like to get news, we have:
 
-  - a project blog at <http://blog.wikiotics.org>;
+  - a project blog at <https://wikiotics.org/blog/>;
   - a google groups [mailing
     list](http://groups.google.com/group/wikiotics);
   - a Mozilla Drumbeat [project

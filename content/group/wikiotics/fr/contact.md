@@ -7,7 +7,7 @@ Le plus simple: par email: <contact@wikiotics.org>
 
 Pour vous tenir informé(e) des évolutions du site:
 
-  - le blog du projet <http://blog.wikiotics.org>;
+  - le blog du projet <https://wikiotics.org/blog/>;
   - la page facebook
     <https://www.facebook.com/pages/Wikiotics/136169443162603>;
   - la liste de messagerie [mailing

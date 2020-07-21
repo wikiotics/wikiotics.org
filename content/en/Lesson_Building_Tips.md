@@ -24,7 +24,7 @@ languageCode = "en"
     and mask underlying assumptions in the material you are presenting
     that need to be explained to students of the language. See for
     example the "[Pictures keep you
-    honest](http://blog.wikiotics.net/2010/10/pictures-keep-you-honest/)"
+    honest](/blog/2010/10/pictures-keep-you-honest/)"
     post on the Wikiotics blog.
 
 <!-- end list -->
