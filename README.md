@@ -75,11 +75,11 @@ We build upon the following pieces of technology to help meet our goals:
 - [Tachyons](https://tachyons.io/) CSS framework helps to [keep the development process simple](https://github.com/dwyl/learn-tachyons#a-natural-workflow).
 - [jQuery](https://jquery.com/) 1.x is about as stable as it gets.
 
-[#4]: https://github.com/wikiotics/wikiotics.org/pull/4
+[#4]: https://github.com/wikiotics/wikiotics.org/issues/4
 [#6]: https://github.com/wikiotics/wikiotics.org/pull/6
-[#9]: https://github.com/wikiotics/wikiotics.org/pull/9
-[#10]: https://github.com/wikiotics/wikiotics.org/pull/10
-[#12]: https://github.com/wikiotics/wikiotics.org/pull/12
+[#9]: https://github.com/wikiotics/wikiotics.org/issues/9
+[#10]: https://github.com/wikiotics/wikiotics.org/issues/10
+[#12]: https://github.com/wikiotics/wikiotics.org/issues/12
 
 [ipfs]: https://ipfs.io/
 [TOML]: https://github.com/toml-lang/toml
