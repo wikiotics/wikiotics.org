@@ -14,7 +14,7 @@ As of July 2020, Wikiotics has been transitioned to a static site.  While it was
 
 The content is a bit of a mess, as might be expected from a repository that was editable by anyone in the world, without moderation.  On top of that, the only real way to see a working draft of a lesson was to save it to the wiki.
 
-The first step forward is to clean up the content.  Lessons and pages that are not useful should be deleted.  (They will remaining in git history if we ever want to reference them.)  Any lesson in progress that is not yet useful can be marked with `draft = true` and thus hidden from the main website build.  When multiple copies of the same content are consolidated, an [alias](https://gohugo.io/content-management/urls/) should be left at any old location(s).
+The first step forward is to clean up the content.  Lessons and pages that are not useful should be deleted.  (They will remaining in git history if we ever want to reference them.)  Any lesson in progress that is not yet useful can be marked with `draft = true` and thus hidden from the main website build.  When multiple copies of the same content are consolidated, an [alias](https://gohugo.io/content-management/urls/) should be left at any old location(s), as we have long followed the principle that [cool URIs don't change](https://www.w3.org/Provider/Style/URI.html).
 
 ## Claiming contributions
 
@@ -57,13 +57,17 @@ Each lesson is represented entirely by [TOML] front matter, which is contained b
 
 Each lesson can be annotated with the language it teaches and, if applicable, the language it assumes the learner knows by setting `target-languages` and/or `source-languages` in the lesson's front matter, following the [standard](https://www.dictionary.com/browse/target-language) [definitions](https://www.dictionary.com/browse/source-language) of these terms.  Behind the scenes, these annotations are instances of Hugo [taxonomies](https://gohugo.io/content-management/taxonomies/).
 
+The wiki naming scheme (for URLs/routes) is under discussion in [#12].  We also plan to document ([#9]) and improve ([#10]) the TOML data structures for lessons.
+
+The highest priority at the moment is [improving presentation of the site archive](https://github.com/wikiotics/wikiotics.org/milestone/1).
+
 ## Licenses
 
 All content (i.e., everything in the `content/` directory, recursively) is licensed under the [Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.  Some of the lesson media (referenced but not included in this repository) is available under a different (but free) Creative Commons license.  Everything else (e.g., all code) is available under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) or any later version.  Some of the libraries in `{assets,static}/ductus/` are available under more permissive licenses.
 
 ## Technology
 
-After years of having a rather complicated technology stack, we now like to keep things simple.  This helps to maximize the [bus factor](https://en.wikipedia.org/wiki/Bus_factor) and minimize time spent maintaining the site.  There should be no or few moving parts, and ideally no server to maintain.
+We like to keep things simple, following years of having a rather complicated technology stack.  (Even before, we managed to avoid many of the [excesses](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f) of modern frontend development.)  Keeping things simple helps to maximize the [bus factor](https://en.wikipedia.org/wiki/Bus_factor) and minimize time spent maintaining the site.  There should be no or few moving parts, and ideally no server to maintain.
 
 We build upon the following pieces of technology to help meet our goals:
 
@@ -73,6 +77,9 @@ We build upon the following pieces of technology to help meet our goals:
 
 [#4]: https://github.com/wikiotics/wikiotics.org/pull/4
 [#6]: https://github.com/wikiotics/wikiotics.org/pull/6
+[#9]: https://github.com/wikiotics/wikiotics.org/pull/9
+[#10]: https://github.com/wikiotics/wikiotics.org/pull/10
+[#12]: https://github.com/wikiotics/wikiotics.org/pull/12
 
 [ipfs]: https://ipfs.io/
 [TOML]: https://github.com/toml-lang/toml
