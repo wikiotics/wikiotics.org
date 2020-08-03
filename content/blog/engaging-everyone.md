@@ -1,6 +1,6 @@
 +++
 title = "Engaging Everyone"
-author = "Ian Sullivan"
+authors = "ian"
 date = 2010-06-18T18:31:53+00:00
 categories = ["drumbeat"]
 tags = ["collaborative language education", "drumbeat", "language", "language education", "open web", "shuttleworth", "shuttleworth foundation", "wikiotics", "wikipedia"]

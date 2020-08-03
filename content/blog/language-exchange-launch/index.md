@@ -1,7 +1,7 @@
 +++
 title = "Language exchange launch"
 date = 2013-11-19T22:37:29+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["Last Language Textbook"]
 #tags = []
 +++

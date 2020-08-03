@@ -1,7 +1,7 @@
 +++
 title = "The Drumbeat of education"
 date = 2010-06-01T12:08:55+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["drumbeat"]
 tags = ["collaborative language education", "drumbeat", "ductus", "language", "language education", "mozilla", "mozilla foundation", "pimsleur", "rosetta stone", "shuttleworth", "shuttleworth foundation", "wikiotics"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Building a lesson: Podcasts"
 date = 2012-09-27T19:02:14+00:00
-author = "Ian Sullivan"
+authors = "ian"
 #categories = []
 #tags = []
 +++

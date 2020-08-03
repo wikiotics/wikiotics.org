@@ -1,7 +1,7 @@
 +++
 title = "Pictures keep you honest"
 date = 2010-10-25T18:53:47+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["drumbeat"]
 tags = ["collaborative language education", "drumbeat", "language", "language education", "open web", "shuttleworth", "shuttleworth foundation", "wikiotics", "wikipedia"]
 +++

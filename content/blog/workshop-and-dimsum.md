@@ -1,7 +1,7 @@
 +++
 title = "Wikiotics is having a workshop!"
 date = 2012-09-05T11:20:24+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["conferences", "Last Language Textbook"]
 tags = ["Adelphi", "conference", "dim sum", "english", "language instruction", "last langauge textbook", "Manhattan", "NYC", "spanish", "teaching", "workshop"]
 aliases = ["workshop_and_dimsum"]

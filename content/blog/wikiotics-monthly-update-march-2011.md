@@ -1,7 +1,7 @@
 +++
 title = "Wikiotics Monthly Update (March 2011)"
 date = 2011-03-08T02:34:30+00:00
-author = "Jim Garrison"
+authors = "garrison"
 categories = ["news"]
 tags = ["Adelphi", "DML", "SCALE"]
 +++

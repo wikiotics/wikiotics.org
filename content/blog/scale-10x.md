@@ -1,7 +1,7 @@
 +++
 title = "SCALE 10x"
 date = 2011-12-07T18:31:17+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["conferences"]
 #tags = []
 +++

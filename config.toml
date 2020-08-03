@@ -9,6 +9,7 @@ category = "categories"
 tag = "tags"
 "target-language" = "target-languages"
 "source-language" = "source-languages"
+author = "authors"
 
 [permalinks]
 blog = "/blog/:year/:month/:filename/"

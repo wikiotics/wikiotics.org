@@ -1,7 +1,7 @@
 +++
 title = "The Last Language Textbook – New Delhi workshop"
 date = 2012-11-12T12:12:03+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["conferences", "Last Language Textbook"]
 tags = ["collaborative language education", "conference", "english", "ESL", "language", "language education", "language instructions", "teaching", "wikiotics"]
 +++

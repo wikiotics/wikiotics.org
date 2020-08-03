@@ -1,7 +1,7 @@
 +++
 title = "Students of Free Software"
 date = 2010-10-15T17:48:08+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["drumbeat"]
 tags = ["Humanitarian Free and Open Source Software Development", "BoingBoing", "collaborative language education", "drumbeat", "FOSS@RIT", "HFOSS", "language", "language education", "open web", "RIT", "shuttleworth", "shuttleworth foundation", "wikiotics", "wikipedia"]
 +++

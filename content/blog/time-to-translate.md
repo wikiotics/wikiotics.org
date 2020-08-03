@@ -1,7 +1,7 @@
 +++
 title = "Time to Translate"
 date = 2010-10-12T14:40:53+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["drumbeat"]
 tags = ["collaborative language education", "drumbeat", "language", "language education", "open web", "shuttleworth", "shuttleworth foundation", "wikiotics", "wikipedia"]
 +++

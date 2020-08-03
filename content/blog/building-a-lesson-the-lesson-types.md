@@ -1,7 +1,7 @@
 +++
 title = "Building a lesson: The Lesson Types"
 date = 2012-09-13T16:59:29+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["conferences", "Last Language Textbook"]
 tags = ["Adelphi", "Building a lesson", "collaborative language education", "conference", "english", "ESL", "language", "language education", "language instructions", "Picture Choice", "wikiotics"]
 +++

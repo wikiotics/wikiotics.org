@@ -1,7 +1,7 @@
 +++
 title = "Wikiotics on P2PU"
 date = 2012-07-18T15:49:33+00:00
-author = "Ian Sullivan"
+authors = "ian"
 #categories = []
 #tags = []
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Building a lesson: The Foundation"
 date = 2012-09-14T18:54:20+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["conferences", "Last Language Textbook"]
 tags = ["Building a lesson", "collaborative language education", "Creative Commons", "ESL", "language", "language education", "teaching", "wikiotics"]
 +++

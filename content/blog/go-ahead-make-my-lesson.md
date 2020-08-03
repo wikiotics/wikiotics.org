@@ -1,7 +1,7 @@
 +++
 title = "Go Ahead, Make My Lesson"
 date = 2010-08-25T17:42:14+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["drumbeat"]
 tags = ["collaborative language education", "drumbeat", "language", "language education", "open web", "shuttleworth", "shuttleworth foundation", "wikiotics", "wikipedia"]
 +++

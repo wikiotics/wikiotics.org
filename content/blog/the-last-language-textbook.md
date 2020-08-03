@@ -1,7 +1,7 @@
 +++
 title = "The Last Language Textbook"
 date = 2012-06-19T09:40:45+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["Last Language Textbook"]
 #tags = []
 +++

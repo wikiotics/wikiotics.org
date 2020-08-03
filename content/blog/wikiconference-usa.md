@@ -1,7 +1,7 @@
 +++
 title = "WikiConference USA"
 date = 2014-06-06T13:57:48+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["conferences"]
 tags = ["datamining", "Edward Snowden", "Gabriel Thullen", "langauge education", "wiki", "wikiconference", "WikiConference USA", "wikiotics", "wikipedia"]
 +++

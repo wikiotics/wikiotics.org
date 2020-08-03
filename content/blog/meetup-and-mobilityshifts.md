@@ -1,7 +1,7 @@
 +++
 title = "MeetUp and MobilityShifts"
 date = 2011-10-11T18:42:17+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["news"]
 tags = ["conference", "educaiton", "language", "language exchange", "meetup", "mobility shifts", "mobilityshifts", "NY teaches language to the world", "p2p", "p2pu", "peer", "peer-to-peer", "wikiotics"]
 +++

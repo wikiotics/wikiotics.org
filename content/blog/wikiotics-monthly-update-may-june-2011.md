@@ -1,7 +1,7 @@
 +++
 title = "Wikiotics Monthly Update (May-June 2011)"
 date = 2011-06-24T12:51:10+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["news"]
 tags = ["99designs", "Adelphi", "Android", "CC", "Creative Commons", "ESL", "Grants", "Library", "logo", "New York Public Library", "NYPL", "OSCon", "OSCon 2011", "pilot program", "SBLUG", "WANY", "We Are New York"]
 +++

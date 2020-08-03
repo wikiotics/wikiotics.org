@@ -1,7 +1,7 @@
 +++
 title = "A report from Wiki Workshop One"
 date = 2012-10-15T19:57:26+00:00
-author = "Ian Sullivan"
+authors = "ian"
 #categories = []
 #tags = []
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Taking OSCon by Wiki"
 date = 2011-08-01T23:39:22+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["news"]
 tags = ["lexical validation", "nerd merit badge", "OSCon", "OSCon 2011", "Portland Oregon", "ward cunningham", "wiki", "wikiotics"]
 +++

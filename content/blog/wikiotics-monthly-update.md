@@ -1,7 +1,7 @@
 +++
 title = "Wikiotics Monthly Update"
 date = 2011-02-07T03:14:38+00:00
-author = "Jim Garrison"
+authors = "garrison"
 categories = ["news"]
 tags = ["audio", "Creative Commons", "development", "lesson building", "SCALE", "TAACCCT"]
 +++

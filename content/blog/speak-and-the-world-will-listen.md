@@ -1,7 +1,7 @@
 +++
 title = "Speak and the world will listen"
 date = 2011-11-17T15:13:58+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["news"]
 tags = ["audio lesson", "collaborative education", "education", "language", "offline", "podcast", "streaming", "teaching", "wikiotics"]
 +++

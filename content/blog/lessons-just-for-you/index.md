@@ -1,7 +1,7 @@
 +++
 title = "Lessons just for you"
 date = 2010-10-26T22:58:25+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["drumbeat"]
 tags = ["collaborative language education", "drumbeat", "language", "language education", "open web", "shuttleworth", "shuttleworth foundation", "wikiotics", "wikipedia"]
 +++

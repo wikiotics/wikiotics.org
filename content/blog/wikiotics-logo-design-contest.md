@@ -1,7 +1,7 @@
 +++
 title = "Wikiotics logo design contest"
 date = 2011-04-23T04:58:35+00:00
-author = "Jim Garrison"
+authors = "garrison"
 #categories = []
 #tags = []
 +++

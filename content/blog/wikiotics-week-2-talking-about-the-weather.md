@@ -1,7 +1,7 @@
 +++
 title = "Wikiotics week 2: Talking about the Weather"
 date = 2010-10-19T12:22:46+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["drumbeat"]
 tags = ["talking about the weather", "collaborative language education", "drumbeat", "language", "language education", "open web", "shuttleworth", "shuttleworth foundation", "weather", "wikiotics", "wikipedia"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = "In the News"
 date = 2010-10-19T16:05:59+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["drumbeat"]
 tags = ["collaborative language education", "drumbeat", "FOSS@RIT", "language", "language education", "news", "open web", "RIT", "shuttleworth", "shuttleworth foundation", "wikiotics", "wikipedia"]
 +++

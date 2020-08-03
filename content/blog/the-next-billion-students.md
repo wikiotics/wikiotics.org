@@ -1,7 +1,7 @@
 +++
 title = "The next billion students"
 date = 2012-06-08T20:57:34+00:00
-author = "Ian Sullivan"
+authors = "ian"
 #categories = []
 #tags = []
 +++

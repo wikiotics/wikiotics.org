@@ -1,7 +1,7 @@
 +++
 title = "Learning Bilingually"
 date = 2013-08-20T20:01:12+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["Last Language Textbook"]
 #tags = []
 +++

@@ -1,7 +1,7 @@
 +++
 title = "OSCon and the Unconference"
 date = 2011-07-25T02:52:25+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["news"]
 #tags = []
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Contributing is giving too"
 date = 2010-09-28T13:30:22+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["drumbeat"]
 tags = ["charity", "contributing", "drumbeat", "give by doing", "giving", "language instructions", "open web", "wikiotics"]
 +++

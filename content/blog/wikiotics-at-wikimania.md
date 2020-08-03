@@ -1,7 +1,7 @@
 +++
 title = "Wikiotics at Wikimania"
 date = 2012-06-27T12:24:49+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["conferences"]
 tags = ["community", "DC", "last language textbook", "wiki", "wikimania"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = "The Face of Wikiotics"
 date = 2012-05-01T21:36:22+00:00
-author = "Ian Sullivan"
+authors = "ian"
 #categories = []
 #tags = []
 +++

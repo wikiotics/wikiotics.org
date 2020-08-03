@@ -1,7 +1,7 @@
 +++
 title = "Building for the world"
 date = 2013-06-18T15:16:43+00:00
-author = "Ian Sullivan"
+authors = "ian"
 #categories = []
 #tags = []
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Building a lesson: Picture Choice"
 date = 2012-09-24T17:46:50+00:00
-author = "Ian Sullivan"
+authors = "ian"
 categories = ["conferences", "Last Language Textbook"]
 #tags = ["Adelphi", "Building a lesson", "collaborative language education", "conference", "english", "ESL", "language", "language education", "language instructions", "Picture Choice", "wikiotics"]
 +++
