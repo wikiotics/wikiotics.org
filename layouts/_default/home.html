@@ -1,30 +1,56 @@
 {{ define "main" }}
-<div class="main-content">
-  <h1>{{ .Title }}</h1>
-  <div class="nested-links">
-    {{- .Content -}}
-    <p>Perhaps the best way to navigate the content is by the language taught by each lesson:</p>
-    <ul>
-      {{ range $key, $taxonomy := index .Site.Taxonomies "target-languages" }}
-      <li><a href="/target-languages/{{ $key | urlize }}/">{{ ($.Site.GetPage (printf "/target-languages/%s/" $key)).Title }}</a>{{ with (len $taxonomy) }} ({{ . }} {{ if eq . 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
-      {{- end }}
-    </ul>
-    <p>There are a few other sections on the site as well:</p>
-    <ul>
-      {{ range .Pages }}
-      {{- if not (eq .Params.type "wiki") }}
-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a>{{ if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
-      {{- end }}
-      {{- end }}
-    </ul>
-    <p>Finally, there is a wiki for each language:</p>
-    <ul>
-      {{ range .Pages }}
-      {{- if eq .Params.type "wiki" }}
-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a>{{ if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
-      {{- end }}
-      {{- end }}
-    </ul>
+<div class="cf">
+  <div class="fl w-100 w-two-thirds-l pr4-l">
+    <div class="main-content">
+      <h1>{{ .Title }}</h1>
+      <div class="nested-links">
+        <main>{{- .Content -}}</main>
+        <p>Perhaps the best way to navigate the content is by the language taught by each lesson:</p>
+        <ul>
+          {{ range $key, $taxonomy := index .Site.Taxonomies "target-languages" }}
+          <li><a href="/target-languages/{{ $key | urlize }}/">{{ ($.Site.GetPage (printf "/target-languages/%s/" $key)).Title }}</a>{{ with (len $taxonomy) }} ({{ . }} {{ if eq . 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
+          {{- end }}
+        </ul>
+        <p>There are a few other sections on the site as well:</p>
+        <ul>
+          {{ range .Pages }}
+          {{- if not (eq .Params.type "wiki") }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
+          {{- end }}
+          {{- end }}
+        </ul>
+        <p>Finally, there is a wiki for each language:</p>
+        <ul>
+          {{ range .Pages }}
+          {{- if eq .Params.type "wiki" }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
+          {{- end }}
+          {{- end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="fl w-100 w-third-l">
+    <h2 class="pl4-l bl-l b--lightest-blue">
+      <a class="link black underline-hover" href="/blog/">Recent blog posts</a>
+    </h2>
+    {{ range (first 3 (.Site.GetPage "section" "blog").Pages) }}
+    <div class="mt4 pl4-l bl-l b--lightest-blue">
+      <h3 class="mv3">
+        <a class="link black underline-hover" href="{{ .RelPermalink }}">
+          {{- .Title -}}
+        </a>
+      </h3>
+      <time class="f6 ttu">{{ .Date.Format "January 2, 2006" }}</time>
+      <p>{{ .Summary }}</p>
+      <div>
+        <a href="{{ .RelPermalink }}" class="b link underline-hover">Read more ...</a>
+      </div>
+    </div>
+    {{ end }}
+    <div class="mt4 pl4-l bl-l b--lightest-blue nested-copy-line-height">
+      <a class="b link underline-hover" href="/blog/">Older posts ...</a>
+    </div>
   </div>
 </div>
 {{ end }}

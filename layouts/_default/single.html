@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{ end }}
 {{ define "main" }}
-<div class="main-content">
+<main class="main-content">
   <h1>{{ .Title }}</h1>
   <div class="the-content"{{ with .Params.languageCode }} lang="{{ . }}"{{ end }}>
     {{ with .Content -}}
@@ -13,5 +13,5 @@
     </article>
     {{- end }}
   </div>
-</div>
+</main>
 {{ end }}
