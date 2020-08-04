@@ -4,7 +4,7 @@
     <div class="main-content">
       <h1>{{ .Title }}</h1>
       <div class="nested-links">
-        {{- .Content -}}
+        <main>{{- .Content -}}</main>
         <p>Perhaps the best way to navigate the content is by the language taught by each lesson:</p>
         <ul>
           {{ range $key, $taxonomy := index .Site.Taxonomies "target-languages" }}
