@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="cf">
-  <div class="fl w-100 w-two-thirds-l pr3-l">
+  <div class="fl w-100 w-two-thirds-l pr4-l">
     <div class="main-content">
       <h1>{{ .Title }}</h1>
       <div class="nested-links">
@@ -31,11 +31,11 @@
     </div>
   </div>
   <div class="fl w-100 w-third-l">
-    <h2 class="pl3-l bl-l b--lightest-blue">
+    <h2 class="pl4-l bl-l b--lightest-blue">
       <a class="link black underline-hover" href="/blog/">Recent blog posts</a>
     </h2>
     {{ range (first 3 (.Site.GetPage "section" "blog").Pages) }}
-    <div class="mt4 pl3-l bl-l b--lightest-blue">
+    <div class="mt4 pl4-l bl-l b--lightest-blue">
       <h3 class="mv3">
         <a class="link black underline-hover" href="{{ .RelPermalink }}">
           {{- .Title -}}
@@ -48,7 +48,7 @@
       </div>
     </div>
     {{ end }}
-    <div class="mt4 pl3-l bl-l b--lightest-blue nested-copy-line-height">
+    <div class="mt4 pl4-l bl-l b--lightest-blue nested-copy-line-height">
       <a class="b link underline-hover" href="/blog/">Older posts ...</a>
     </div>
   </div>
