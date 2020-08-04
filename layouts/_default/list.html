@@ -8,7 +8,7 @@
   <div class="nested-links">
     <ul>
       {{ range .Pages }}
-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         {{- if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end -}}
         {{- if .Params.tags }} &nbsp;&ndash;&nbsp; {{ end -}}
         {{- range .Params.tags }} <a class="f6 no-underline" href="/tags/{{ . | urlize }}/">{{ . }}</a>{{ end }}

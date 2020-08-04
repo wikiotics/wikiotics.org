@@ -19,13 +19,13 @@
         by
           {{ range $i, $e := . }}
           {{- if $i }}, {{ end -}}
-          <a href="{{ $e.Permalink }}">{{ $e.LinkTitle }}</a>
+          <a href="{{ $e.RelPermalink }}">{{ $e.LinkTitle }}</a>
           {{- end }}
         {{ end }}
         in
         {{ range $i, $e := . }}
         {{- if $i }}, {{ end -}}
-        <a href="{{ $e.Permalink }}">{{ $e.LinkTitle }}</a>
+        <a href="{{ $e.RelPermalink }}">{{ $e.LinkTitle }}</a>
         {{- end }}
         {{- end }}
         {{ if and ($.GetTerms "tags") ($.GetTerms "categories") }}|{{ end }}
@@ -33,7 +33,7 @@
         Tagged
         {{ range $i, $e := . }}
         {{- if $i }}, {{ end -}}
-        <a href="{{ $e.Permalink }}">{{ $e.LinkTitle }}</a>
+        <a href="{{ $e.RelPermalink }}">{{ $e.LinkTitle }}</a>
         {{- end }}
         {{- end }}
         </p>

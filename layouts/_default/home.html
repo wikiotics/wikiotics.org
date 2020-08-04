@@ -15,7 +15,7 @@
         <ul>
           {{ range .Pages }}
           {{- if not (eq .Params.type "wiki") }}
-          <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a>{{ if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
           {{- end }}
           {{- end }}
         </ul>
@@ -23,7 +23,7 @@
         <ul>
           {{ range .Pages }}
           {{- if eq .Params.type "wiki" }}
-          <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a>{{ if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
           {{- end }}
           {{- end }}
         </ul>
