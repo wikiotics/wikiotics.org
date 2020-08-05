@@ -35,19 +35,10 @@
       <a class="link black underline-hover" href="/blog/">Recent blog posts</a>
     </h2>
     {{ range (first 3 (.Site.GetPage "section" "blog").Pages) }}
-    <article class="mt4 pl4-l bl-l b--lightest-blue">
-      <h3 class="mv3">
-        <a class="link black underline-hover" href="{{ .RelPermalink }}">
-          {{- .Title -}}
-        </a>
-      </h3>
-      <time class="f6 ttu">{{ .Date.Format "January 2, 2006" }}</time>
-      <p>{{ .Summary }}</p>
-      <div>
-        <a href="{{ .RelPermalink }}" class="b link underline-hover">Read more ...</a>
-      </div>
-    </article>
-    {{ end }}
+    <div class="mt4 pl4-l bl-l b--lightest-blue">
+      {{- partial "blog-summary.html" . -}}
+    </div>
+    {{- end }}
     <div class="mt4 pl4-l bl-l b--lightest-blue nested-copy-line-height">
       <a class="b link underline-hover" href="/blog/">Older posts ...</a>
     </div>
