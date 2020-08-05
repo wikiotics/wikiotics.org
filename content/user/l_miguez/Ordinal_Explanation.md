@@ -105,16 +105,14 @@ Two important things to remember:
 
 ## Practice:
 
-[Easy Ordinal Review-](http://)
-[user:l\_miguez/Ordinal\_easy\_activity](https://wikiotics.org/user/l_miguez/Ordinal_easy_activity)[](http://)
+Easy Ordinal Review -
+[user:l\_miguez/Ordinal\_easy\_activity](https://wikiotics.org/user/l_miguez/Ordinal_easy_activity)
 
-[Ordinal Listening Review -](http://)
-[user:l\_miguez/Ordinal\_Listen](https://wikiotics.org/user/l_miguez/Ordinal_Listen)[](http://)
+Ordinal Listening Review -
+[user:l\_miguez/Ordinal\_Listen](https://wikiotics.org/user/l_miguez/Ordinal_Listen)
 
 Complete the Sentence with the Correct Ordinal -
 [user:l\_miguez/Ordinal\_Sentence\_complete](https://wikiotics.org/user/l_miguez/Ordinal_Sentence_complete)
 
 Picture Activity -
 [user:l\_miguez/Ordinals\_picture\_activity](https://wikiotics.org/user/l_miguez/Ordinals_picture_activity)
-
-[](http://)

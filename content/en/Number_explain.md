@@ -191,5 +191,3 @@ In English, we use **commas** to separate  numbers after 10,000.
 Practice:
 
 [Lesson One](/en/Basic_numbers)
-
-[](http://)

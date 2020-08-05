@@ -83,7 +83,7 @@ are the most common ways:
 ## Practice
 
 [Parts of the Day
-Review](https://wikiotics.org/user/l_miguez/Parts_of_the_Day)[](http://)
+Review](https://wikiotics.org/user/l_miguez/Parts_of_the_Day)
 
 []()[What Time Is
 it?](https://wikiotics.org/user/l_miguez/Whaat%27s_The_Time%3F_Easy)

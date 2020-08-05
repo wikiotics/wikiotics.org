@@ -45,8 +45,8 @@ are raw materials that we can build from or transform.
 1.  [Family](https://wikiotics.org/en/Family)
 2.  [Family help each
     other](https://wikiotics.org/en/Families_help_each_other.)
-3.  [Around](https://wikiotics.org/en/around_the_neighborhood) [the
-    neighborhood](http://)
+3.  [Around the
+    neighborhood](https://wikiotics.org/en/around_the_neighborhood)
 4.  [Going to school](https://wikiotics.org/en/Going_to_school)
 
 # Lesson Ideas for First Grade Dual Language
