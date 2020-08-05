@@ -35,7 +35,7 @@
       <a class="link black underline-hover" href="/blog/">Recent blog posts</a>
     </h2>
     {{ range (first 3 (.Site.GetPage "section" "blog").Pages) }}
-    <div class="mt4 pl4-l bl-l b--lightest-blue">
+    <article class="mt4 pl4-l bl-l b--lightest-blue">
       <h3 class="mv3">
         <a class="link black underline-hover" href="{{ .RelPermalink }}">
           {{- .Title -}}
@@ -46,7 +46,7 @@
       <div>
         <a href="{{ .RelPermalink }}" class="b link underline-hover">Read more ...</a>
       </div>
-    </div>
+    </article>
     {{ end }}
     <div class="mt4 pl4-l bl-l b--lightest-blue nested-copy-line-height">
       <a class="b link underline-hover" href="/blog/">Older posts ...</a>
