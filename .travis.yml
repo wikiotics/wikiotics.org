@@ -12,3 +12,5 @@ install:
 script:
  - hugo
  - html5validator --root public/ --also-check-css
+notifications:
+  email: false
