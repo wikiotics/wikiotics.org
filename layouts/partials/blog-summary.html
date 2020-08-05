@@ -4,7 +4,7 @@
       {{- .Title -}}
     </a>
   </h3>
-  <time class="f6 ttu">{{ .Date.Format "January 2, 2006" }}</time>
+  <time class="f6 ttu" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
   <p>{{ .Summary }}</p>
   <div>
     <a href="{{ .RelPermalink }}" class="b link underline-hover">Read more ...</a>

@@ -7,7 +7,7 @@
 <main class="main-content">
   <h1>{{ .Title }}</h1>
   <div class="the-content measure-wide"{{ with .Params.languageCode }} lang="{{ . }}"{{ end }}>
-    <time class="f6 ttu">{{ .Date.Format "January 2, 2006" }}</time>
+    <time class="f6 ttu" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
     {{ with .Content -}}
     <article class="blog nested-links">
       {{ . }}
