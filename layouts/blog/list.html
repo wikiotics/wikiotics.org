@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="main-content measure-wide">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}
+  <div class="the-content">{{ . }}</div>
+  <hr>
+  {{ end }}
+  {{ range .Pages }}
+  <div class="mv5">
+    {{ partial "blog-summary.html" . }}
+  </div>
+  {{- end }}
+</div>
+{{ end }}
