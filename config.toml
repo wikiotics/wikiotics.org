@@ -19,3 +19,25 @@ blog = "/blog/:year/:month/:filename/"
 # HTML tables rather than markdown ones, so we enable HTML in Markdown.
 [markup.goldmark.renderer]
 unsafe = true
+
+[menu]
+[[menu.footer]]
+name = "About"
+url = "/group/wikiotics/en/about/"
+weight = 1
+[[menu.footer]]
+name = "Contact"
+url = "/group/wikiotics/en/contact/"
+weight = 2
+[[menu.footer]]
+name = "Blog"
+url = "/blog/"
+weight = 3
+#[[menu.footer]]
+#name = "Analytics"
+#url = "https://plausible.io/wikiotics.org"
+#weight = 4
+[[menu.footer]]
+name = "Wikiotics Foundation"
+url = "/en/Wikiotics_Foundation/"
+weight = 5

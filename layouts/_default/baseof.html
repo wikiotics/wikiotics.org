@@ -37,16 +37,12 @@
     <div class="pv4 ph5-ns ph3">
       {{- block "main" . }}{{ end -}}
     </div>
-    <footer class="pa4 nested-links tc">
-      <a href="/group/wikiotics/en/about/">About Wikiotics</a>
-      |
-      <a href="/group/wikiotics/en/contact/">Contact</a>
-      |
-      <a href="/blog/">Blog</a>
-      |
-      <a href="/en/help/home/">Help</a>
-      |
-      <a href="/en/Wikiotics_Foundation/">Wikiotics Foundation</a>
+    <footer class="ph5-ns ph3 nested-links">
+      <div class="pv4 tc bt b--lightest-blue lh-copy">
+        {{- range .Site.Menus.footer }}
+        <a class="dib ph2 no-underline underline-hover" href="{{ .URL }}">{{ .Name }}</a>
+        {{- end }}
+        </div>
     </footer>
   </body>
 </html>
