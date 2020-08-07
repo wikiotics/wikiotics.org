@@ -9,8 +9,10 @@ addons:
 install:
  - sudo snap install hugo --channel=extended
  - pip install html5validator
+ - gem install html-proofer
 script:
  - hugo
  - html5validator --root public/ --also-check-css
+ - htmlproofer --disable-external public
 notifications:
   email: false
