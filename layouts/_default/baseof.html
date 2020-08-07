@@ -37,5 +37,12 @@
     <div class="pv4 ph5-ns ph3">
       {{- block "main" . }}{{ end -}}
     </div>
+    <footer class="ph5-ns ph3 nested-links">
+      <div class="pv4 tc bt b--lightest-blue lh-copy">
+        {{- range .Site.Menus.footer }}
+        <a class="dib ph2 no-underline underline-hover" href="{{ .URL }}">{{ .Name }}</a>
+        {{- end }}
+        </div>
+    </footer>
   </body>
 </html>
