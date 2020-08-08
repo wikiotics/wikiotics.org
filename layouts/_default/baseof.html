@@ -17,6 +17,15 @@
       h4 { font-weight: bold; font-size: 1.25rem; }
       h5 { font-weight: bold; font-size: 1rem; }
       h6 { font-weight: bold; font-size: .875rem; }
+      .v-center {
+          position: relative;
+          top: 50%;
+          transform: translateY(-50%);
+          -ms-transform: translateY(-50%);
+          -moz-transform: translateY(-50%);
+          -webkit-transform: translateY(-50%);
+          -o-transform: translateY(-50%);
+      }
     </style>
     {{- block "head" . }}{{ end -}}
     {{- if hugo.IsProduction -}}
@@ -25,18 +34,27 @@
   </head>
   <body class="bg-washed-blue nested-copy-line-height nested-headline-line-height nested-list navy">
     <header class="bg-lightest-blue pv4 ph5-ns ph3 cf">
-      <a href="{{ .Site.BaseURL }}"><img src="/img/wikiotics.svg" alt="Wikiotics" class="fl w-25-l w-third"></a>
-      <div class="fl f3 pl5 lh-copy pt3">
-        Every language.<br>
-        For everyone.
-      </div>
       {{- if in (slice "page" "home" "section") .Kind }}
       <div class="fr">
         <nav>
-          <a class="f6 link underline-hover ba ph3 pv2 mb2 dib bg-washed-blue" href="https://github.com/wikiotics/wikiotics.org/edit/master/content/{{- .File.Path -}}">Edit on GitHub</a>
+          <a class="f6 link underline-hover ba ma1 ph3 pv2 mb2 dib bg-washed-blue" href="https://github.com/wikiotics/wikiotics.org/edit/master/content/{{- .File.Path -}}">Edit on GitHub</a>
         </nav>
       </div>
       {{- end }}
+      <div class="flex flex-wrap">
+        <div class="mv1 w-25-l w-third">
+          <div class="v-center">
+            <a href="{{ .Site.BaseURL }}"><img src="/img/wikiotics.svg" alt="Wikiotics"></a>
+          </div>
+        </div>
+        <div class="pl4 pl5-ns"></div>
+        <div class="mv1 f5 f3-l lh-copy">
+          <div class="v-center">
+            Every language.<br>
+            For everyone.
+          </div>
+        </div>
+      </div>
     </header>
     <div class="pv4 ph5-ns ph3">
       {{- block "main" . }}{{ end -}}
