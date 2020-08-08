@@ -2,7 +2,7 @@
 title = "permission"
 contributors = [ "14.140.106.2", "sonia.sharma",]
 headings = [ "Phrase", "Audio", "Speaker", "Language",]
-tags = [ "Indiaworkshop",]
+tags = [ "IndiaWorkshop",]
 type = "lesson"
 target-languages = [ "en",]
 source-languages = [ "en",]

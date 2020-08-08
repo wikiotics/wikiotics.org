@@ -3,7 +3,7 @@ title = "En La Bodega"
 contributors = [ "69.119.223.216", "katyauchter", "mxc",]
 dividers = [ 4, 8, 12, 16, 20, 24,]
 headings = [ "Phrase", "Picture", "Audio",]
-tags = [ "en", "llt", "ps9",]
+tags = [ "en", "LLT", "ps9",]
 type = "lesson"
 target-languages = [ "en",]
 [[cards]]

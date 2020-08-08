@@ -3,7 +3,7 @@ title = "Building a lesson: The Lesson Types"
 date = 2012-09-13T16:59:29+00:00
 authors = "ian"
 categories = ["conferences", "Last Language Textbook"]
-tags = ["Adelphi", "Building a lesson", "collaborative language education", "conference", "english", "ESL", "language", "language education", "language instructions", "Picture Choice", "wikiotics"]
+tags = ["Adelphi", "Building a lesson", "collaborative language education", "conference", "English", "ESL", "language", "language education", "language instructions", "Picture Choice", "wikiotics"]
 +++
 
 On October 13th we will be running our first workshop, [“Wikiotics and Dimsum”](/blog/2012/09/workshop-and-dimsum/), where we will be working with a number of first time lesson builders. To help all of them, and all of you reading this who want to help but have never built a language lesson before, I am starting this series of “How To” blog posts giving you an in depth view of how to build each of the four Wikiotics lesson types: [Picture Choice](/en/Introduction), [Podcast](/user/ian/FSI-Mandarin-Module01-Unit01), [Phrase Choice](/en/WANY_Hospital_grammar), and [Storybook](/en/LittleRedRidingHood).

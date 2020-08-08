@@ -3,7 +3,7 @@ title = "The Last Language Textbook – New Delhi workshop"
 date = 2012-11-12T12:12:03+00:00
 authors = "ian"
 categories = ["conferences", "Last Language Textbook"]
-tags = ["collaborative language education", "conference", "english", "ESL", "language", "language education", "language instructions", "teaching", "wikiotics"]
+tags = ["collaborative language education", "conference", "English", "ESL", "language", "language education", "language instructions", "teaching", "wikiotics"]
 +++
 
 On October 25th and 26th I was in New Delhi running the second workshop in our Last Language Textbook workshop series. A dozen teachers from all over India and I spent two days exploring the capabilities of the Wikiotics tools and building lessons for their students.

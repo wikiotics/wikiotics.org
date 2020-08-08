@@ -16,4 +16,4 @@ As always, have fun and please feel free to correct the existing translations, f
 
 More information is available at our [Contribute page](/en/Contribute) and all our existing lessons are recorded in [this handy list](/en/Take_a_lesson).
 
-*Crossposted with [churchkey.org](/blog/2011/07/go-ahead-make-my-lesson/)*
+*Crossposted with [churchkey.org](https://churchkey.org/language/go-ahead-make-my-lesson/)*

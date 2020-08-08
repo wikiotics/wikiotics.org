@@ -3,7 +3,7 @@ title = "Building a lesson: Picture Choice"
 date = 2012-09-24T17:46:50+00:00
 authors = "ian"
 categories = ["conferences", "Last Language Textbook"]
-#tags = ["Adelphi", "Building a lesson", "collaborative language education", "conference", "english", "ESL", "language", "language education", "language instructions", "Picture Choice", "wikiotics"]
+tags = ["Adelphi", "Building a lesson", "collaborative language education", "conference", "English", "ESL", "language", "language education", "language instructions", "Picture Choice", "wikiotics"]
 +++
 
 This week we are going to build a picture choice lesson, which is an interactive lesson format that combines simple text, audio, and pictures. As mentioned [last week](/blog/2012/09/building-a-lesson-the-lesson-types/), picture choice lessons are particularly good for building vocabulary and explaining easily picture-able relationships like number, size, location, relative position, color and other physical adjectives, etc. There are two basic ways to build a picture choice lesson: to review material or to lead students through new material. Lets see what each of these look like and when they are useful. I’m going to link to the edit view of all these lessons so you can see how they are put together. If you want to see what they are like as lessons, just remove the “?view=edit” part from the url.
