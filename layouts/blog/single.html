@@ -1,7 +1,4 @@
 {{ define "head" }}
-{{- /* https://developers.google.com/speed/docs/best-practices/rtt#PutStylesBeforeScripts */ -}}
-{{- $css := slice (resources.Get "ductus/common/css/base.css") (resources.Get "ductus/textwiki/css/textwiki.css") | resources.Concat "css/textwiki_bundle.css" | minify -}}
-<link rel="stylesheet" href="{{ $css.RelPermalink }}">
 {{ end }}
 {{ define "main" }}
 <div class="ttu lh-copy"><a class="link black" href="/blog/">Blog posts</a></div>
