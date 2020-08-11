@@ -1,6 +1,6 @@
 title = "Wikiotics"
 languageCode = "en"
-baseURL = "/"
+baseURL = "https://wikiotics.org/"
 cleanDestinationDir = true
 disablePathToLower = true
 
