@@ -7,7 +7,7 @@
   <h1>
     {{ .Title }}
     {{- with .Params.subheading }}
-    <span class="db f3 mt3">{{ . }}</span>
+    <br><span class="db f3 mt3">{{ . }}</span>
     {{- end }}
   </h1>
   <div class="the-content measure-wide"{{ with .Params.languageCode }} lang="{{ . }}"{{ end }}>
