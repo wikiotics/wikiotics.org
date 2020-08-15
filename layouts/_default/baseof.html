@@ -26,6 +26,14 @@
           -webkit-transform: translateY(-50%);
           -o-transform: translateY(-50%);
       }
+      @keyframes fade-in {
+          0% { opacity: 0; }
+          100% { opacity: 1; }
+      }
+      .fade-in {
+          animation: fade-in 0.6s;
+          -webkit-animation: fade-in 0.6s;
+      }
     </style>
     {{- block "head" . }}{{ end -}}
     {{- if hugo.IsProduction }}
@@ -49,7 +57,7 @@
         </div>
         <div class="pl3 pl5-ns"></div>
         <div class="mv1 f5 f3-l lh-copy">
-          <div class="mid-gray v-center">
+          <div class="mid-gray v-center fade-in">
             Every language.<br>
             For everyone.
           </div>
