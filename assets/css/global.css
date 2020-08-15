@@ -1,0 +1,24 @@
+/* values correspond with those in tachyons */
+h1 { font-weight: normal; font-size: 3rem; }
+h2 { font-weight: normal; font-size: 2.25rem; }
+h3 { font-weight: normal; font-size: 1.5rem; }
+h4 { font-weight: bold; font-size: 1.25rem; }
+h5 { font-weight: bold; font-size: 1rem; }
+h6 { font-weight: bold; font-size: .875rem; }
+.v-center {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+}
+@keyframes fade-in {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+.fade-in {
+    animation: fade-in 0.6s;
+    -webkit-animation: fade-in 0.6s;
+}
