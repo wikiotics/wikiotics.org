@@ -1,5 +1,8 @@
 {{ define "head" }}
 {{- partial "blog-rss-link.html" . -}}
+{{- template "_internal/schema.html" . -}}
+{{- template "_internal/opengraph.html" . -}}
+{{- template "_internal/twitter_cards.html" . -}}
 {{ end }}
 {{ define "main" }}
 <div class="ttu lh-copy"><a class="link navy" href="/blog/">Blog posts</a></div>
