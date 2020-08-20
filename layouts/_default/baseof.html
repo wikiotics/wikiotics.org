@@ -10,6 +10,9 @@
     <link rel="manifest" href="/favicon/webmanifest.json">
     {{- $css := slice (resources.Get "css/tachyons.css") (resources.Get "css/global.css") | resources.Concat "css/main.css" | minify }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    {{- template "_internal/schema.html" . -}}
+    {{- template "_internal/opengraph.html" . -}}
+    {{- template "_internal/twitter_cards.html" . -}}
     {{- block "head" . }}{{ end -}}
     {{- if hugo.IsProduction }}
     <script async defer data-domain="wikiotics.org" src="https://plausible.wikiotics.org/js/index.js"></script>
