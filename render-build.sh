@@ -17,4 +17,4 @@ fi
 export HUGO_ENV
 
 # Build the site using Hugo
-hugo --gc --minify
+hugo --gc
