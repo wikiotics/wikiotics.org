@@ -13,6 +13,8 @@
     {{- block "head" . }}{{ end -}}
     {{- if hugo.IsProduction }}
     <script async defer data-domain="wikiotics.org" src="https://plausible.wikiotics.org/js/index.js"></script>
+    {{- else }}
+    <meta name="robots" content="noindex, nofollow">
     {{- end }}
     {{ hugo.Generator }}
   </head>
