@@ -24,10 +24,10 @@
         Posted
         {{- with $.GetTerms "authors" }}
         by
-          {{- range $i, $e := . }}
-          {{- if $i }},{{ end }}
-          <a href="{{ $e.RelPermalink }}">{{ $e.LinkTitle }}</a>
-          {{- end }}
+        {{- range $i, $e := . }}
+        {{- if $i }},{{ end }}
+        <a href="{{ $e.RelPermalink }}">{{ $e.LinkTitle }}</a>
+        {{- end }}
         {{- end }}
         in
         {{- range $i, $e := . }}
