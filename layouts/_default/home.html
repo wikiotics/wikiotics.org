@@ -10,13 +10,13 @@
         <main>{{- .Content -}}</main>
         <p>Perhaps the best way to navigate the content is by the language taught by each lesson:</p>
         <ul>
-          {{ range $key, $taxonomy := index .Site.Taxonomies "target-languages" }}
+          {{- range $key, $taxonomy := index .Site.Taxonomies "target-languages" }}
           <li><a href="/target-languages/{{ $key | urlize }}/">{{ ($.Site.GetPage (printf "/target-languages/%s/" $key)).Title }}</a>{{ with (len $taxonomy) }} ({{ . }} {{ if eq . 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
           {{- end }}
         </ul>
         <p>There are a few other sections on the site as well:</p>
         <ul>
-          {{ range .Pages }}
+          {{- range .Pages }}
           {{- if not (eq .Params.type "wiki") }}
           <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
           {{- end }}
@@ -24,7 +24,7 @@
         </ul>
         <p>Finally, there is a wiki for each language:</p>
         <ul>
-          {{ range .Pages }}
+          {{- range .Pages }}
           {{- if eq .Params.type "wiki" }}
           <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end }}</li>
           {{- end }}
@@ -37,7 +37,7 @@
     <h2 class="pl4-l bl-l b--lightest-blue">
       <a class="link navy underline-hover" href="/blog/">Recent blog posts</a>
     </h2>
-    {{ range (first 3 (.Site.GetPage "section" "blog").Pages) }}
+    {{- range (first 3 (.Site.GetPage "section" "blog").Pages) }}
     <div class="mt4 pl4-l bl-l b--lightest-blue">
       {{- partial "blog-summary.html" . -}}
     </div>

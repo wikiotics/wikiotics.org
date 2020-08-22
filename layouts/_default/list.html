@@ -1,13 +1,13 @@
 {{ define "main" }}
 <div class="main-content">
   <h1>{{ .Title }}</h1>
-  {{ with .Content }}
+  {{- with .Content }}
   <div class="the-content">{{ . }}</div>
   <hr>
-  {{ end }}
+  {{- end }}
   <div class="nested-links">
     <ul>
-      {{ range .Pages }}
+      {{- range .Pages }}
       <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         {{- if .IsNode }} ({{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}){{ end -}}
         {{- if .Params.tags }} &nbsp;&ndash;&nbsp; {{ end -}}

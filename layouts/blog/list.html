@@ -4,12 +4,12 @@
 {{ define "main" }}
 <div class="main-content">
   <h1>{{ .Title }}</h1>
-  {{ with .Content }}
+  {{- with .Content }}
   <div class="the-content">{{ . }}</div>
   <hr>
-  {{ end }}
+  {{- end }}
   <div class="flex flex-wrap">
-    {{ range .Pages }}
+    {{- range .Pages }}
     <div class="mv5 w-100 w-50-l pr5-l measure-wide">
       {{ partial "blog-summary.html" . }}
     </div>

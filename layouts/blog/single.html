@@ -15,31 +15,31 @@
   </h1>
   <div class="the-content measure-wide"{{ with .Params.languageCode }} lang="{{ . }}"{{ end }}>
     <time class="f6 ttu" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-    {{ with .Content -}}
+    {{- with .Content -}}
     <article class="blog nested-links">
       {{ . }}
       <footer>
         <p>
-        {{ with ($.GetTerms "categories") }}
+        {{- with ($.GetTerms "categories") }}
         Posted
-        {{ with $.GetTerms "authors" }}
+        {{- with $.GetTerms "authors" }}
         by
-          {{ range $i, $e := . }}
-          {{- if $i }}, {{ end -}}
+          {{- range $i, $e := . }}
+          {{- if $i }},{{ end }}
           <a href="{{ $e.RelPermalink }}">{{ $e.LinkTitle }}</a>
           {{- end }}
-        {{ end }}
+        {{- end }}
         in
-        {{ range $i, $e := . }}
-        {{- if $i }}, {{ end -}}
+        {{- range $i, $e := . }}
+        {{- if $i }},{{ end }}
         <a href="{{ $e.RelPermalink }}">{{ $e.LinkTitle }}</a>
         {{- end }}
         {{- end }}
-        {{ if and ($.GetTerms "tags") ($.GetTerms "categories") }}|{{ end }}
-        {{ with ($.GetTerms "tags") }}
+        {{- if and ($.GetTerms "tags") ($.GetTerms "categories") }} |{{ end }}
+        {{- with ($.GetTerms "tags") }}
         Tagged
-        {{ range $i, $e := . }}
-        {{- if $i }}, {{ end -}}
+        {{- range $i, $e := . }}
+        {{- if $i }},{{ end }}
         <a href="{{ $e.RelPermalink }}">{{ $e.LinkTitle }}</a>
         {{- end }}
         {{- end }}
