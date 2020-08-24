@@ -1,5 +1,10 @@
 # Wikiotics
 
+[![Build Status](https://travis-ci.org/wikiotics/wikiotics.org.svg?branch=master)](https://travis-ci.org/wikiotics/wikiotics.org)
+![Contributors](https://img.shields.io/github/contributors-anon/wikiotics/wikiotics.org)
+![Last Commit](https://img.shields.io/github/last-commit/wikiotics/wikiotics.org)
+[![GitHub Stars](https://img.shields.io/github/stars/wikiotics/wikiotics.org?style=social)](https://github.com/wikiotics/wikiotics.org)
+
 [Wikiotics](https://wikiotics.org/) is a website for learning a foreign language.
 
 ## Background
