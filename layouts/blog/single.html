@@ -9,6 +9,9 @@
 <main class="main-content">
   <h1>
     {{ .Title }}
+    {{- if .Draft }}
+    <span class="ttu moon-gray">(Draft)</span>
+    {{- end }}
     {{- with .Params.subheading }}
     <br><span class="db f3 mt3">{{ . }}</span>
     {{- end }}
