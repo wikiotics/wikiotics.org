@@ -16,7 +16,7 @@
     ],
     "start_url": "/#navigation",
     "background_color": "#f6fffe",
-    "display": "browser",
+    "display": "minimal-ui",
     "scope": "../",
     "theme_color": "#cdecff",
     "shortcuts": [
