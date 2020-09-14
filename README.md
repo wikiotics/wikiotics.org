@@ -19,7 +19,7 @@ As of July 2020, Wikiotics has been transitioned to a static site.  While it was
 
 The content is a bit of a mess, as might be expected from a repository that was editable by anyone in the world, without moderation.  On top of that, the only real way to see a working draft of a lesson was to save it to the wiki.
 
-The first step forward is to clean up the content.  Lessons and pages that are not useful should be deleted.  (They will remaining in git history if we ever want to reference them.)  Any lesson in progress that is not yet useful can be marked with `draft = true` and thus hidden from the main website build.  When multiple copies of the same content are consolidated, an [alias](https://gohugo.io/content-management/urls/) should be left at any old location(s), as we have long followed the principle that [cool URIs don't change](https://www.w3.org/Provider/Style/URI.html).
+The first step forward is to clean up the content.  Lessons and pages that are not useful should be deleted.  (They will remain in git history if we ever want to reference them.)  Any lesson in progress that is not yet useful can be marked with `draft = true` and thus hidden from the main website build.  When multiple copies of the same content are consolidated, an [alias](https://gohugo.io/content-management/urls/) should be left at any old location(s), as we have long followed the principle that [cool URIs don't change](https://www.w3.org/Provider/Style/URI.html).
 
 ## Claiming contributions
 
