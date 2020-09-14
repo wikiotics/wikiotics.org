@@ -1,5 +1,5 @@
 function gettext(s) { return s; }
-var ductus_mediacache_prefix = 'https://wikiotics.github.io/';
+var ductus_mediacache_prefix = 'https://cloudflare-ipfs.com/ipfs/QmPTzBud9tGnVXRnfiS7DPUtsMs4SjhkvcwWo7JGbjwk4i/';
 var ductus_mime_to_ext = {"audio/webm": "webma", "audio/mp4": "m4a", "image/jpeg": "jpg", "audio/ogg": "oga", "image/png": "jpg"};
 var resource_json = {'resource': data};
 var available_audio_formats = {"audio/mp4": ["audio/ogg"], "audio/ogg": ["audio/mp4"]}; /* from ductus.modules.audio.views */
